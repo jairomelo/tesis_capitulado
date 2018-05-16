@@ -1,0 +1,96 @@
+Abreviaturas
+============
+
+AGI: Archivo General de Indias, Sevilla.
+
+AGNC: Archivo General de la Nación de Colombia, Bogotá.
+
+AHR-UIS: Archivo Histórico Regional de Santander, Universidad Industrial
+de Santander, Bucaramanga.
+
+BLAA-RM: Biblioteca Luis Ángel Arango, Fondo Raros y Manuscritos,
+Bogotá.
+
+BNC: Biblioteca Nacional de Colombia, Bogotá.
+
+BDH-BNE: Biblioteca Digital Hispánica, Biblioteca Nacional de España,
+Madrid.
+
+Referencias bibliográficas
+==========================
+
+Archivos
+--------
+
+**Archivo General de Indias (Sevilla)**
+
+Audiencia de Caracas, 418
+
+**Archivo Histórico Nacional (Madrid)**
+
+Estado, 3092
+
+Fuentes primarias publicadas
+----------------------------
+
+Jovellanos, Gaspar Melchor de. "Informe de la Real Sala de Alcaldes al
+Consejo de Castilla, sobre indultos generales \[1779\]". En *Obras del
+excelentisimo señor D. Gaspar Melchor de Jovellanos*, VII:20--28.
+Barcelona: Imprenta de Francisco Oliva, 1840.
+
+*Diccionario de la lengua castellana compuesto por la Real Academia
+Española reducido á un tomo para su mas fácil uso*. Madrid: Joaquín
+Ibarra, 1780.
+
+*Diccionario de la lengua castellana: en que se explica el verdadero
+sentido de las voces, su naturaleza y calidad, con las phrases o modos
+de hablar, los proverbios o refranes, y otras cosas convenientes al uso
+de la lengua*. Madrid: imprenta de Francisco del Hierro, 1726-1739.
+
+### Legislación
+
+*Las Siete Partidas del Sabio Rey don Alonso el nono \[sic\] nuevamente
+glosadas por el Licenciado Gregorio Lopez*. Salamanca: Andres de
+Portonaris, 1555.
+
+### Doctrina
+
+Guardiola y Sáez, Lorenzo. *El corregidor perfecto, y juez dotado de las
+calidades necesarias y convenientes para la buena administración de
+Justicia y buen gobierno político y económico de los Pueblos \[...\]*.
+Segunda impresión corregida y aumentada. Madrid: Imprenta real, 1796.
+
+López de Cuéllar Vega, Juan. *Tratado iuridico, político, práctica de
+indultos conforme a las leyes, y ordenanças reales de Castilla, y de
+Navarra*. Pamplona: por Martín Gregorio de Zabala, 1690.
+
+Mariana, Juan de. *De rege et regis institutione*. Toledo: tipografía de
+Pedro Rodríguez, 1599. Versión en español: *La dignidad real y la
+educación del rey (De rege et regis institutione)*. Editado por Luis
+Sánchez Agesta. Colección Clásicos políticos. Madrid: Centro de Estudios
+Constitucionales, 1981.
+
+Murillo Velarde, Pedro. *Cursus iuris canonici, hispani et indici*.
+Editio tertia. Madrid: Tipografía de Ulloa y Ramón Ruiz, 1791.
+Traducción española por Alberto Carrillo Cázares (coord.) *Curso de
+derecho canónico hispano e indiano*. 4 vol. Zamora, Mich.: El Colegio de
+Michoacán, Facultad de derecho UNAM, 2004.
+
+Mendo, Andrés. *Principe perfecto y ministros ajustados, documentos
+políticos y morales.* Lyon: Horacio de Boissat y George Remeus, 1692.
+
+Saavedra Fajardo, Diego de. *Idea de un príncipe político cristiano
+representada en cien empresas.* Mónaco, s.n., 1640, Milán, s.n., 1642.
+
+Seneca, Lucius Annaeus. "De Clementia". En *Moral Essays I*, traducido
+por John W. Basore, I:356--447. The Loeb classical library 214.
+Cambridge, Mass.: Harvard University Press, 1994. Traducción española
+por Carmen Codoñer. *Sobre la clemencia*. Madrid: Tecnos, 1988.
+
+Recursos digitales
+------------------
+
+Tomás de Aquino. "Summa Theologiae". En *S. Thomae de Aquino Opera
+omnia*, editado por Enrique Alarcón y Roberto Busa, Textum Leoninum
+Romae. Pamplona: Ad Universitatis Studiorum Navarrensis, 2001.
+[[http://www.corpusthomisticum.org/iopera.html]{.underline}](http://www.corpusthomisticum.org/iopera.html).
