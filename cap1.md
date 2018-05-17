@@ -152,24 +152,136 @@ y la clemencia que posteriormente puede verse manifestado en las
 peticiones y concesiones de indulto durante el siglo XVIII del Nuevo
 Reino de Granada.
 
- El perdón en el orden normativo castellano-indiano
----------------------------------------------------
+ El perdón desde la perspectiva de la cultura jurisdiccional
+------------------------------------------------------------
+
+Desde hace varios años la historia del derecho, paralelamente a la
+historia política, coinciden en concebir el poder político de antiguo
+régimen como sometido y limitado por el derecho, entendido éste en su
+dimensión más amplia como la expresión de un orden natural que se
+revelaba a los hombres a través de la tradición. Lo jurídico en este
+contexto se componía de una jerarquía de órdenes normativos
+representados por diferentes tipos de derechos: divino, natural, de
+gentes, positivo, canónico, eclesiástico, entre otros. En este ámbito
+cultural, el poder político se expresaba por la facultad de una
+autoridad para "declarar" el derecho, es decir, la potestad para
+establecer normas o administrar justicia en el ámbito de su competencia.
+[^15]Hablar de derecho en el antiguo régimen no trata entonces solamente
+de leyes y procesos, todo acto de gobierno que pretendiera garantizar el
+orden natural, tradicional y católico, podía considerarse como
+*iurisdictio*, es decir, la potestad de "decir el derecho."[^16] La
+formulación general de la idea de cultura jurisdiccional (también
+nominada como orden normativo o jurídico) ha sido tratada en un buen
+número de trabajos, en particular por Carlos Garriga, quien ha
+contribuido a resaltar los aspectos generales de este ordenamiento[^17];
+por lo cual este trabajo se enfocará en aquellas características que
+remiten al ejercicio de la clemencia y el perdón en el ordenamiento
+jurídico-político iberoamericano.
+
+1.  Preeminencia de la religión:
+
+> Binomios pecado-delito, misericordia-crueldad, etc.
+>
+> Dualidad fuero interno y externo:
+>
+> El perdón manifestado como una constricción del fuero interno, la
+> manifestación del deseo por liberarse del pecado o ganar indulgencias
+> para la salvación. Desde el fuero externo, el liberarse de la pena,
+> recuperar el favor real.
+
+2.  Orden jurídico tradicional
+
+> Ordenes: derecho divino, natural y de gentes
+>
+> El perdón ¿es derecho divino, natural, de gentes?
+
+3.  Orden jurídico pluralista
+
+> Nobleza y perdón
+>
+> Condición miserable y perdón
+
+4.  Orden jurídico probabilista
+
+> Casuismo y clemencia.
+
+PODER POLÍTICO
+
+Iurisdictio: Dios le entregó a la majestad real el brazo del rigor y el
+amor, la potestad de castigar para ser temido y la de perdonar para ser
+amado.
+
+Con la primera gana el respeto, hace valer la potestad, con la segunda
+garantiza su autoridad, demuestra su magnificencia.
+
+La gracia: ejercicio del poder político: "había de servir para
+perfeccionar y no para destruir el orden constituido" -\> utilidad
+pública.
+
+Voluntad, controlada por la razón (sentido inmanente del orden)
+
+Princeps diferente al tirano. El primero lo caracteriza la clemencia, al
+segundo la rigurosidad, el primero actúa según la prudencia (*virtus*),
+el segundo según su interés, el vicio.
+
+1.2. Por una tipología de la clemencia y el perdón real
+-------------------------------------------------------
+
+¿Son indulto y perdón simples sinónimos? ¿Son gracia e indulto lo mismo?
+¿Es la clemencia indulto? ¿Es la misericordia lo mismo que clemencia?
+¿Qué es la prudencia? \>\> *virtus* según el derecho romano
+(introducción a Mariana). Liberalidad ¿es lo mismo que gracia?
+
+Los grados de perdón: perdón, disimulo, apartamiento, olvido.
+
+1.3. Generalidades en el uso del perdón
+---------------------------------------
+
+Lo que se podía considerar como costumbre y buen actuar en el perdón.
+Una buena política de clemencia debería seguir los siguientes preceptos:
+
+Promulgación: parte de la voluntad de hacer el bien, liberar de las
+cadenas a aquellos que sufren y no representan una amenaza para las
+repúblicas.
+
+Delitos exceptuados: ciertos delitos son exceptuados, basándose en el
+sentido de ser tan aberrantes que no podrían estar incluidos en la
+clemencia sin representar un daño al orden de la república.
+
+Clasificación de los indultos: generales, particulares, etc.
+
+1.4. Cultura ilustrada y clemencia real
+---------------------------------------
+
+Vía de Nápoles -- *giuridizzionalismo* (cfr: Pietschmann), Beccaria.
+
+Ilustración francesa -- Rousseau, Montesquieu, Bodin, Caraccioli (trad.
+1775)
+
+Ejemplos de ilustres ilustrados -- Jovellanos,
+
+1.5. Transmisiones a América
+----------------------------
+
+Palafox...
+
+Echarnos una revisadita de Cañizares Esguerra...
 
 Decía Saavedra Fajardo en su *Idea de un príncipe político cristiano*
 que "si a todos los que excediesen se uviese de castigar, no auria
 aquien mandar, porque apenas ai hombre tan justo, que no aya merecido la
-muerte."[^15] A diferencia del derecho contemporáneo, la justicia penal
+muerte."[^18] A diferencia del derecho contemporáneo, la justicia penal
 de antiguo régimen no partía de los principios de *in dubio pro reo* o
 de la presunción de inocencia, al contrario, como explicó Francisco
 Tomás y Valiente, "el principio inherente al sistema procesal-penal
-inquisitivo era éste: en la duda, condena a pena arbitraria."[^16] Se
+inquisitivo era éste: en la duda, condena a pena arbitraria."[^19] Se
 comprendía que la humanidad había sido condenada desde su origen por el
-pecado de Adán,[^17] por lo cual era imposible encontrar un "hombre
+pecado de Adán,[^20] por lo cual era imposible encontrar un "hombre
 justo" de quien se pudiera presumir estaba libre de culpa. Los indicios
 eran suficientes para que el juez usara su arbitrio y estipulara una
 pena ordinaria aunque solo se hubiese demostrado la "semiculpabilidad"
 del reo, es decir, cuando a pesar de haber seguido el proceso
-inquisitorial persistía la duda de su actuación delictiva.[^18]
+inquisitorial persistía la duda de su actuación delictiva.[^21]
 
 En términos del derecho, no había ningún impedimento para que el juez
 actuara con el mayor rigor permitido y aplicara las penas ordinarias al
@@ -179,25 +291,25 @@ libre de cohecho o baratería. La clemencia no formaba parte del derecho
 ni del gobierno, se insertaba en la actuación judicial a través de la
 retórica y la ética. La doctrina, e incluso la legislación, aconsejaban
 al juez a actuar con misericordia pues se concebía que la benevolencia y
-la piedad prevalecía sobre la severidad[^19]. Se partía de la premisa de
+la piedad prevalecía sobre la severidad[^22]. Se partía de la premisa de
 que la paz de las repúblicas se podría mantener mejor con actos de
 clemencia que de fuerza, así lo planteaba Guardiola y Sáez por ejemplo,
-quien en *El corregidor perfecto* afirmó: "dice Dios por S. Matheo[^20]
+quien en *El corregidor perfecto* afirmó: "dice Dios por S. Matheo[^23]
 que quiere mas la misericordia, que el sacrificio. Y á la verdad,
 siempre ha sido necesario usar de ella en el gobierno de la República;
 porque el sumo rigor hace perder el sufrimiento; al contrario, la
-clemencia reduce los ánimos á buenos pensamientos."[^21]
+clemencia reduce los ánimos á buenos pensamientos."[^24]
 
 Castillo de Bovadilla advertía que "por causa del mucho rigor pueden los
-Jueces ser privados de los Oficios;"[^22] y lo complementó afirmando:
+Jueces ser privados de los Oficios;"[^25] y lo complementó afirmando:
 "porque con violencia no puede ser estable el gobierno seglar; y la
 sujeción por fuerza suele acarrear libertad: porque, como dixo Cicerón,
 muy mal conserva la perpetuidad el miedo, para lo qual es fiel la
-benevolencia."[^23] Esto, según Bovadilla, lo enseñaban "las historias",
+benevolencia."[^26] Esto, según Bovadilla, lo enseñaban "las historias",
 la experiencia del imperio romano y en particular de los reyes de
 España, "que han tenido por costumbre gobernar antes con amor, que con
 miedo: á cuya imitación deben los Corregidores, nombrados por ellos,
-proceder de la misma manera."[^24] Esta idea podía manifestarse de
+proceder de la misma manera."[^27] Esta idea podía manifestarse de
 manera concreta en la súplica de un pueblo para que los libertase del
 juez o autoridad que se consideraba actuaba con excesivo rigor, \>\>
 excesos, abusos... No sólo en el apresamiento o castigo físico, también
@@ -214,14 +326,14 @@ La clemencia era inherente al poder monárquico, caso contrario, el poder
 riguroso ejercido sobre los súbditos, era la tiranía.
 
 La lógica de la cultura jurisdiccional del *ius commune* indicaba que
-Dios era la fuente de toda potestad[^25], por la cual se les había dado
-autoridad a los pontífices y príncipes para juzgar y gobernar[^26]. En
+Dios era la fuente de toda potestad[^28], por la cual se les había dado
+autoridad a los pontífices y príncipes para juzgar y gobernar[^29]. En
 el caso del monarca se denominaba majestad, sinónimo de *potestas*, con
-la cual podía hacer uso del castigo[^27], para ser temido, y de la
-misericordia, para ser amado[^28]. En esta lógica, era el temor a la
+la cual podía hacer uso del castigo[^30], para ser temido, y de la
+misericordia, para ser amado[^31]. En esta lógica, era el temor a la
 espada lo que hacía agradecer la clemencia, cuando el rey o sus
 delegados pudiendo castigar justificadamente no lo hacía estaban
-demostrando la grandeza del príncipe[^29].
+demostrando la grandeza del príncipe[^32].
 
 Por otra parte, el poder del rey no se vería disminuido por ejecutar
 actos de clemencia, al contrario, representaba la posibilidad de
@@ -230,10 +342,10 @@ agente de la monarquía. Como lo señaló Michel Foucault: "El poder
 soberano que le ordenaba matar y mataba por medio de él no estaba
 presente en el verdugo ni se identificaba con su encarnizamiento. Y
 precisamente jamás aparecía tal poder con más esplendor que cuando
-interrumpía el gesto del verdugo con un mensaje de indulto."[^30] De
+interrumpía el gesto del verdugo con un mensaje de indulto."[^33] De
 allí la idea, tomada de Séneca y difundida vía Tomás de Aquino, según la
 cual perdonar consistía en no castigar a quien merecía serlo, es decir,
-en la remisión de un castigo que debía ser, en justicia, infligido.[^31]
+en la remisión de un castigo que debía ser, en justicia, infligido.[^34]
 
 La justicia y la misericordia se consideraba debían ir juntas en los
 procedimientos judiciales, como alegorizó Calderón de la Barca:
@@ -254,7 +366,7 @@ procedimientos judiciales, como alegorizó Calderón de la Barca:
 >
 > que no será acierto en una
 >
-> si no se da unión en ambas.[^32]
+> si no se da unión en ambas.[^35]
 
 [^1]: Juan Marchena Fernández, "Sin temor de rey ni de dios. Violencia,
     corrupción y crisis de autoridad en la Cartagena colonial", en
@@ -320,7 +432,38 @@ procedimientos judiciales, como alegorizó Calderón de la Barca:
     voces\[...\]* (Madrid: imprenta de Francisco del Hierro, 1726 y
     1737).
 
-[^15]: Saavedra Fajardo, *Idea de un príncipe político christiano
+[^15]: 
+
+[^16]: Pietro Costa, *Iurisdictio. Semantica del potere politico nella
+    pubblicistica medievale (1100-1433)* (Milano: Giuffrè Editore,
+    1969), 83; Carlos Garriga Acosta, "Orden jurídico y poder político
+    en el antiguo régimen", en *Cádiz, 1812. La Constitución
+    jurisdiccional*, de Carlos Garriga Acosta y Marta Lorente Sariñena,
+    Cuadernos y debates 174 (Madrid: Centro de Estudios Políticos y
+    Constitucionales, 2007), 59--60 y 65--66; Alejandro Agüero Nazar,
+    "Las categorías básicas de la cultura jurisdiccional", en *De
+    justicia de jueces a justicia de leyes: hacia la España de 1870*,
+    ed. Marta Lorente Sariñena, Cuadernos de derecho judicial, VI--2006
+    (Madrid: Consejo General del Poder Judicial, 2007), 31--32.
+
+[^17]: Además de los trabajos mencionados en la nota 15 se destacan
+    Alejandro Agüero Nazar, *Castigar y perdonar cuando conviene a la
+    República: la justicia penal de Córdoba del Tucumán, siglos XVII y
+    XVIII* (Madrid: Centro de Estudios Políticos y Constitucionales,
+    2008), 133--233; Carlos Garriga Acosta, "Justicia animada:
+    dispositivos de la justicia en la monarquía católica", en *De
+    justicia de jueces a justicia de leyes: hacia la España de 1870*,
+    ed. Marta Lorente Sariñena, Cuadernos de derecho judicial, VI--2006
+    (Madrid: Consejo General del Poder Judicial, 2007), 61--104; Carlos
+    Garriga Acosta, "Sobre el gobierno de la justicia en Indias (Siglos
+    XVI-XVII)", *Revista de historia del derecho*, núm. 34 (2006):
+    67--160; Carlos Garriga Acosta, "Las Audiencias: la justicia y el
+    gobierno de las Indias", en *El gobierno de un mundo, virreinatos y
+    audiencias en la América hispánica*, ed. Feliciano Barrios (Cuenca:
+    Ediciones de la Universidad de Castilla-La Mancha, Fundación Rafael
+    del Pino, 2004), 713--21.
+
+[^18]: Saavedra Fajardo, *Idea de un príncipe político christiano
     representada en cien empresas* (Mónaco, s.n., 1640, Milán, s.n.,
     1642) lema "præsidia maiestatis". Juan de Mariana también cita a un
     autor anónimo para decir que "si se hubiesen castigado todas las
@@ -330,7 +473,7 @@ procedimientos judiciales, como alegorizó Calderón de la Barca:
     institutione* (Toledo: tipografía de Pedro Rodríguez, 1599) lib. II,
     cap. XII.
 
-[^16]: Francisco Tomás y Valiente, "«In dubio pro reo», libre
+[^19]: Francisco Tomás y Valiente, "«In dubio pro reo», libre
     apreciación de la prueba y presunción de inocencia", *Revista
     Española de Derecho Constitucional*, núm. 20 (1987): 14. Paz Alonso
     diría que "El proceso era la aventura de la caza del reo, la
@@ -338,33 +481,33 @@ procedimientos judiciales, como alegorizó Calderón de la Barca:
     proceso penal en la Castilla Moderna", *Estudis: Revista de historia
     moderna*, núm. 22 (1996): 201.
 
-[^17]: Calderón de la Barca, *El indulto general*, 9--10.
+[^20]: Calderón de la Barca, *El indulto general*, 9--10.
 
-[^18]: Tomás y Valiente, "«In dubio pro reo»", 12--13.
+[^21]: Tomás y Valiente, "«In dubio pro reo»", 12--13.
 
-[^19]: Tomás y Valiente, 12.
+[^22]: Tomás y Valiente, 12.
 
-[^20]: Referencia en el original a tres citas bíblicas: Mt 12:7, Sal
+[^23]: Referencia en el original a tres citas bíblicas: Mt 12:7, Sal
     106, Pr 3:3.
 
-[^21]: Guardiola y Sáez, *El corregidor perfecto*, parte II, § IV, núm.
+[^24]: Guardiola y Sáez, *El corregidor perfecto*, parte II, § IV, núm.
     33.
 
-[^22]: Jerónimo Castillo de Bovadilla, *Politica para corregidores y
+[^25]: Jerónimo Castillo de Bovadilla, *Politica para corregidores y
     señores de vasallos*, reimpresión de la edición de 1690 (Madrid:
     imprenta real de la Gaceta, 1775) lib. II, cap. III, núm. 32. La
     misma máxima es retomada por Lorenzo Guardiola y Sáez, *El
     corregidor perfecto*, segunda impresión corregida y aumentada
     (Madrid: imprenta real, 1796) parte II, § IV, núm. 33.
 
-[^23]: Castillo de Bovadilla, lib. III, cap. XII, núm. 7.
+[^26]: Castillo de Bovadilla, lib. III, cap. XII, núm. 7.
 
-[^24]: Castillo de Bovadilla, lib. III, cap. XII, núm. 8.
+[^27]: Castillo de Bovadilla, lib. III, cap. XII, núm. 8.
 
-[^25]: Se cita allí la máxima evangélica que rezaba "Ninguna autoridad
+[^28]: Se cita allí la máxima evangélica que rezaba "Ninguna autoridad
     tendrías contra mí si no se te hubiera dado desde arriba". Jn 19:11.
 
-[^26]: "Sométase toda persona a las autoridades superiores porque no hay
+[^29]: "Sométase toda persona a las autoridades superiores porque no hay
     autoridad que no provenga de Dios; y las que hay, por Dios han sido
     constituidas." Rom 13:1. Murillo Velarde, *Cursus iuris canonici*,
     "Dios eterno, sin principio ni fin, es el principio y fin de todas
@@ -375,7 +518,7 @@ procedimientos judiciales, como alegorizó Calderón de la Barca:
     cristianos de todo el orbe, es decir a los bautizados". L. I, tit.
     XXXI, "De officio judicias ordinarii", n. 326.
 
-[^27]: "Aquella potestad que residía en todos, la transfirieron en uno
+[^30]: "Aquella potestad que residía en todos, la transfirieron en uno
     solo, y la llamaron Magestad, que es lo mismo que potestad eminente,
     ó sumo imperio, y perpetua autoridad sobre toda la República, y con
     ella la absoluta facultad o regalía de castigar los delitos,
@@ -383,28 +526,28 @@ procedimientos judiciales, como alegorizó Calderón de la Barca:
     por la Ley en otra mas leve según su Voluntad". Vizcaíno Pérez,
     *Código y práctica criminal*, tomo III, n. 422.
 
-[^28]: López de Cuéllar, *Tratado iuridico-politico*, n. 9. "porque
+[^31]: López de Cuéllar, *Tratado iuridico-politico*, n. 9. "porque
     siendo la potestad Real una imagen de la Divina Magestad, quisieron
     que también se pareciese á esta en poder exercitar la justicia y la
     misericordia en los casos que considerase oportunos, para que por
     aquella fuese temido, y por esta venerado". Vizcaíno Pérez, *Código
     y práctica criminal*, tomo III, n. 422.
 
-[^29]: Temor y amor estarían naturalmente vinculados, Alfonso X lo
+[^32]: Temor y amor estarían naturalmente vinculados, Alfonso X lo
     plasmó así: "Natural razon es, que el ome non puede amar ninguna
     cosa conplidamente si la non teme" *Las Siete Partidas*, P. II, tít.
     II, l. III. Bovadilla comentó al respecto que "si el juez no es
     amado y temido, nunca será obedecido". Castillo de Bovadilla,
     *Politica para corregidores*, lib. III, cap. XII, núm. 11.
 
-[^30]: Michel Foucault, *Vigilar y castigar: nacimiento de la prisión*,
+[^33]: Michel Foucault, *Vigilar y castigar: nacimiento de la prisión*,
     trad. Aurelio Garzón del Camino, 2a edición revisada (México: Siglo
     Veintiuno, 2015), 64.
 
-[^31]: "Perdonar es no castigar a quien consideras digno de castigo; el
+[^34]: "Perdonar es no castigar a quien consideras digno de castigo; el
     perdón es la absolución de un castigo merecido." (*Ignoscere autem
     est, quem iudices puniendum, non punire; venia debitae poenae
     remissio est.*) Seneca, "De Clementia", Liber II, párr. 7. Tomás de
     Aquino, "Summa Theologiae", IIª-IIae, q. 157 a. 2 ad 2.
 
-[^32]: Calderón de la Barca, *El indulto general*, vv. 1257--1265.
+[^35]: Calderón de la Barca, *El indulto general*, vv. 1257--1265.
