@@ -64,11 +64,9 @@ López de Cuéllar Vega, Juan. *Tratado iuridico, político, práctica de
 indultos conforme a las leyes, y ordenanças reales de Castilla, y de
 Navarra*. Pamplona: por Martín Gregorio de Zabala, 1690.
 
-Mariana, Juan de. *De rege et regis institutione*. Toledo: tipografía de
-Pedro Rodríguez, 1599. Versión en español: *La dignidad real y la
-educación del rey (De rege et regis institutione)*. Editado por Luis
-Sánchez Agesta. Colección Clásicos políticos. Madrid: Centro de Estudios
-Constitucionales, 1981.
+Mariana, Juan de. *La dignidad real y la educación del rey (De rege et
+regis institutione)*. Editado por Luis Sánchez Agesta. Colección
+Clásicos políticos. Madrid: Centro de Estudios Constitucionales, 1981.
 
 Murillo Velarde, Pedro. *Cursus iuris canonici, hispani et indici*.
 Editio tertia. Madrid: Tipografía de Ulloa y Ramón Ruiz, 1791.
@@ -80,7 +78,7 @@ Mendo, Andrés. *Principe perfecto y ministros ajustados, documentos
 políticos y morales.* Lyon: Horacio de Boissat y George Remeus, 1692.
 
 Saavedra Fajardo, Diego de. *Idea de un príncipe político cristiano
-representada en cien empresas.* Mónaco, s.n., 1640, Milán, s.n., 1642.
+representada en cien empresas*. Mónaco, s.n., 1640, Milán, s.n., 1642.
 
 Seneca, Lucius Annaeus. "De Clementia". En *Moral Essays I*, traducido
 por John W. Basore, I:356--447. The Loeb classical library 214.
@@ -89,6 +87,17 @@ por Carmen Codoñer. *Sobre la clemencia*. Madrid: Tecnos, 1988.
 
 Recursos digitales
 ------------------
+
+Biblioteca Nacional de España. *Biblioteca digital hispánica*. 2018.
+[[http://bdh.bne.es/]{.underline}](http://bdh.bne.es/)
+
+Bayerischen Staatsbibliothek y Münchener Digitalisierungszentrum.
+*Digitale Bibliothek*. 2018.
+[[https://www.digitale-sammlungen.de]{.underline}](https://www.digitale-sammlungen.de)
+
+Instituto de Investigación Rafael Lapesa y Real Academia Española.
+*Diccionario de autoridades (1726-1739)*. Versión 1.1. 2013.
+[[http://web.frl.es/DA.html]{.underline}](http://web.frl.es/DA.html)
 
 Tomás de Aquino. "Summa Theologiae". En *S. Thomae de Aquino Opera
 omnia*, editado por Enrique Alarcón y Roberto Busa, Textum Leoninum
