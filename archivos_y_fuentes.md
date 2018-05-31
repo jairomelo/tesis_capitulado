@@ -60,6 +60,10 @@ calidades necesarias y convenientes para la buena administración de
 Justicia y buen gobierno político y económico de los Pueblos \[...\]*.
 Segunda impresión corregida y aumentada. Madrid: Imprenta real, 1796.
 
+Kempis, Tomás de. *De la imitación de Cristo ó menosprecio del mundo*.
+Traducción de Luis de Granada. Madrid: por la viuda de Barco Lopez,
+1821.
+
 López de Cuéllar Vega, Juan. *Tratado iuridico, político, práctica de
 indultos conforme a las leyes, y ordenanças reales de Castilla, y de
 Navarra*. Pamplona: por Martín Gregorio de Zabala, 1690.
@@ -76,6 +80,9 @@ Michoacán, Facultad de derecho UNAM, 2004.
 
 Mendo, Andrés. *Principe perfecto y ministros ajustados, documentos
 políticos y morales.* Lyon: Horacio de Boissat y George Remeus, 1692.
+
+Nieremberg, Juan Eusebio. *Obras y días. Manual de señores y príncipes*.
+Madrid: María de Quiñones, 1641.
 
 Saavedra Fajardo, Diego de. *Idea de un príncipe político cristiano
 representada en cien empresas*. Mónaco, s.n., 1640, Milán, s.n., 1642.
