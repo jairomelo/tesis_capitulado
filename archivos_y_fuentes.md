@@ -55,22 +55,34 @@ Portonaris, 1555.
 
 ### Doctrina
 
+Castillo de Bovadilla, Jerónimo. *Política para corregidores y señores
+de vasallos* \[1ª ed. 1597\]. Reimpresión de la edición de 1690. Madrid:
+imprenta de la Gazeta, 1775.
+
+Caussin, Nicolas. *La corte santa*. trad. Pedro González de Godoy,
+quinta impresión. Barcelona: imprenta de Juan Pablo y Juan Marti, 1718.
+
 Guardiola y Sáez, Lorenzo. *El corregidor perfecto, y juez dotado de las
 calidades necesarias y convenientes para la buena administración de
-Justicia y buen gobierno político y económico de los Pueblos \[...\]*.
-Segunda impresión corregida y aumentada. Madrid: Imprenta real, 1796.
+Justicia y buen gobierno político y económico de los Pueblos \[...\]*
+\[1785\]. Segunda impresión corregida y aumentada. Madrid: Imprenta
+real, 1796.
 
-Kempis, Tomás de. *De la imitación de Cristo ó menosprecio del mundo*.
-Traducción de Luis de Granada. Madrid: por la viuda de Barco Lopez,
-1821.
+Hevia Bolaños, Juan de. *Curia Philipica* \[1603\]. Nueva impresión.
+Madrid: por Ramón Ruiz en la imprenta de Ulloa, 1790.
 
-López de Cuéllar Vega, Juan. *Tratado iuridico, político, práctica de
+Kempis, Tomás de. *De la imitación de Cristo ó menosprecio del mundo*
+\[1ª ed. latina 1418\]. Traducción de Luis de Granada. Madrid: por la
+viuda de Barco Lopez, 1821.
+
+López de Cuéllar, Juan. *Tratado iuridico, político, práctica de
 indultos conforme a las leyes, y ordenanças reales de Castilla, y de
 Navarra*. Pamplona: por Martín Gregorio de Zabala, 1690.
 
 Mariana, Juan de. *La dignidad real y la educación del rey (De rege et
-regis institutione)*. Editado por Luis Sánchez Agesta. Colección
-Clásicos políticos. Madrid: Centro de Estudios Constitucionales, 1981.
+regis institutione)* \[1599\]. Editado por Luis Sánchez Agesta.
+Colección Clásicos políticos. Madrid: Centro de Estudios
+Constitucionales, 1981.
 
 Murillo Velarde, Pedro. *Cursus iuris canonici, hispani et indici*.
 Editio tertia. Madrid: Tipografía de Ulloa y Ramón Ruiz, 1791.
@@ -84,6 +96,13 @@ políticos y morales.* Lyon: Horacio de Boissat y George Remeus, 1692.
 Nieremberg, Juan Eusebio. *Obras y días. Manual de señores y príncipes*.
 Madrid: María de Quiñones, 1641.
 
+Núñez de Toledo, Hernán. *Glosa sobre las trezientas del famoso poeta
+Juan de Mena*. Sevilla: Iuan Varela, 1528.
+
+Ribadeneyra, Pedro de. *Tratado de la religión y virtudes que deve tener
+el Príncipe Christiano, para governar y conservar sus estados*. Amberes:
+Imprenta plantiniana, 1597.
+
 Saavedra Fajardo, Diego de. *Idea de un príncipe político cristiano
 representada en cien empresas*. Mónaco, s.n., 1640, Milán, s.n., 1642.
 
@@ -91,6 +110,14 @@ Seneca, Lucius Annaeus. "De Clementia". En *Moral Essays I*, traducido
 por John W. Basore, I:356--447. The Loeb classical library 214.
 Cambridge, Mass.: Harvard University Press, 1994. Traducción española
 por Carmen Codoñer. *Sobre la clemencia*. Madrid: Tecnos, 1988.
+
+Solórzano Pereyra, Juan. *Política indiana* \[1647\]. Edición corregida
+y anotada por Francisco Ramiro de Valenzuela. Madrid: imprenta Real de
+la Gazeta, 1776.
+
+Villarroel, Gaspar de. *Govierno eclesiástico-pacífico y unión de los
+dos cuchillos pontificio y regio* \[1656\]. Reimpresión. Madrid: oficina
+de Antonio Marín, 1738.
 
 Recursos digitales
 ------------------
