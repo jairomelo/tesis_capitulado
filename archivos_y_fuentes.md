@@ -73,11 +73,14 @@ Madrid: por Ramón Ruiz en la imprenta de Ulloa, 1790.
 
 Kempis, Tomás de. *De la imitación de Cristo ó menosprecio del mundo*
 \[1ª ed. latina 1418\]. Traducción de Luis de Granada. Madrid: por la
-viuda de Barco Lopez, 1821.
+viuda de Barco Lopez, 1817.
 
 López de Cuéllar, Juan. *Tratado iuridico, político, práctica de
 indultos conforme a las leyes, y ordenanças reales de Castilla, y de
 Navarra*. Pamplona: por Martín Gregorio de Zabala, 1690.
+
+Mastrillo, Garsia. *Ad indultum generale comentarius catholici Phillippi
+III*. Palermo: Apud Franciscum Ciottum Venetum, 1616.
 
 Mariana, Juan de. *La dignidad real y la educación del rey (De rege et
 regis institutione)* \[1599\]. Editado por Luis Sánchez Agesta.
@@ -94,7 +97,7 @@ Mendo, Andrés. *Principe perfecto y ministros ajustados, documentos
 políticos y morales.* Lyon: Horacio de Boissat y George Remeus, 1692.
 
 Nieremberg, Juan Eusebio. *Obras y días. Manual de señores y príncipes*.
-Madrid: María de Quiñones, 1641.
+Madrid: por la viuda de Alonso Martin, 1629.
 
 Núñez de Toledo, Hernán. *Glosa sobre las trezientas del famoso poeta
 Juan de Mena*. Sevilla: Iuan Varela, 1528.
