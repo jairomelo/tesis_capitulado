@@ -175,6 +175,8 @@ caso de las indias, el poblamiento[^39].
 
 **1.4. Clemencia con el enemigo extranjero**
 
+[[http://localhost/fichero/items/show/325]{.underline}](http://localhost/fichero/items/show/325)
+
 En el Salón de Reinos del Museo del Prado de Madrid penden dos famosas
 pinturas: *La recuperación de Bahía de Todos los Santos* de Juan
 Bautista Maíno y *La rendición de Breda*, mejor conocida como *Las
