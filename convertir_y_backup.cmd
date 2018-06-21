@@ -15,6 +15,6 @@ pandoc -s archivos_y_fuentes.docx -t markdown -o archivos_y_fuentes.md
 
 REM iniciar GIT [abre git-bash desde CMD]
 
-start "C:\Program Files\Git\git-bash.exe"
+start "C:\Program Files\Git\git-bash.exe**--cd=%1"
 
 pause
