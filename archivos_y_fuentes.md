@@ -140,3 +140,7 @@ Tomás de Aquino. "Summa Theologiae". En *S. Thomae de Aquino Opera
 omnia*, editado por Enrique Alarcón y Roberto Busa, Textum Leoninum
 Romae. Pamplona: Ad Universitatis Studiorum Navarrensis, 2001.
 [[http://www.corpusthomisticum.org/iopera.html]{.underline}](http://www.corpusthomisticum.org/iopera.html).
+
+Universidad Rey Juan Carlos, *Biblioteca digital. Colección fondo
+antiguo*. 2018.
+[[https://eciencia.urjc.es/]{.underline}](https://eciencia.urjc.es/)
