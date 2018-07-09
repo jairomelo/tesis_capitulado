@@ -1,5 +1,4 @@
-**[Capítulo I. El concepto del perdón real en la tradición
-jurídico-política hispánica]{.smallcaps}**
+**[Capítulo I. La clemencia como autoridad y virtud]{.smallcaps}**
 
 En abril de 1745 la plaza de Cartagena fue amenazada por el
 levantamiento de la tropa apostada en el lugar. Los soldados de los
@@ -380,25 +379,29 @@ monarca que ocupa el trono de España, que nacieron para callar y
 obedecer, y no para discurrir ni opinar en los altos asuntos del
 Gobierno."[^52]
 
-Para el caso del Nuevo Reino de Granada, una idea similar fue planteada
-por el fraile capuchino Joaquín de Finestrad tras la rebelión de los
-comunes de 1781, aunque de manera menos tajante que el pregón del
-marqués de Croix. En su obra *El vasallo instruido* diría que "no hay
-cosa más perfecta ni más digna de aplauso que obedecer sin resistencia,
-sin tardanza, sin ficción y opuesta voluntad."[^53] El vasallo, según
-Finestrad, no debía ser "atraído", éste debía obedecer y respetar la
-dignidad de la Real persona porque el poder regio-paternal provenía del
-derecho divino y por lo tanto, diría el fraile, "lejos, pues, de toda
-arrogancia contumaz, debemos respetar la Real persona con un respeto
-proporcionado a la eminencia de su dignidad.[^54] El Rey es viva imagen
-de Dios, Ministro suyo, Vicario y Depositario suyo en la tierra; ¿por
-qué no le ha de ser debida la veneración más profunda?"[^55] Se
-lamentaba además de que el perdón general dado a los rebeldes se hubiese
-dado sin un arrepentimiento manifiesto de la mayoría y les advertía a
-los vasallos que el indulto regio no les garantizaba el divino: Sin
-penitencia no muda Dios de sentencia, ni se le obliga a que suspenda el
-rigor, pues el arrepentimiento seguramente desarma sus justos
-enojos."[^56]
+Tal vez en este punto deba introducirse, de alguna manera, la idea
+presentada por Juan Pardo Molero: "una vez desvinculada la política de
+la moral, la cuestión del origen, estuviese en el consentimiento popular
+o la sanción divina, se abrió paso como la principal funente de
+legitimación del poder." (*el gobierno de la virtud*, p. 9) Para el caso
+del Nuevo Reino de Granada, una idea similar fue planteada por el fraile
+capuchino Joaquín de Finestrad tras la rebelión de los comunes de 1781,
+aunque de manera menos tajante que el pregón del marqués de Croix. En su
+obra *El vasallo instruido* diría que "no hay cosa más perfecta ni más
+digna de aplauso que obedecer sin resistencia, sin tardanza, sin ficción
+y opuesta voluntad."[^53] El vasallo, según Finestrad, no debía ser
+"atraído", éste debía obedecer y respetar la dignidad de la Real persona
+porque el poder regio-paternal provenía del derecho divino y por lo
+tanto, diría el fraile, "lejos, pues, de toda arrogancia contumaz,
+debemos respetar la Real persona con un respeto proporcionado a la
+eminencia de su dignidad.[^54] El Rey es viva imagen de Dios, Ministro
+suyo, Vicario y Depositario suyo en la tierra; ¿por qué no le ha de ser
+debida la veneración más profunda?"[^55] Se lamentaba además de que el
+perdón general dado a los rebeldes se hubiese dado sin un
+arrepentimiento manifiesto de la mayoría y les advertía a los vasallos
+que el indulto regio no les garantizaba el divino: Sin penitencia no
+muda Dios de sentencia, ni se le obliga a que suspenda el rigor, pues el
+arrepentimiento seguramente desarma sus justos enojos."[^56]
 
 Parece observarse una tendencia entre los "juristas ilustrados" a
 manifestarse en contra del perdón, aunque lo aceptaron finalmente como
@@ -1009,13 +1012,13 @@ de Estado Julián de Arriga: "No faltaria entre ellos quien hiziese
 p\[rese\]nte el levantamiento de 1745 y á las ordenes de un general de
 la opinion del señor don Sebastian de Eslava, pues en los mas de los
 puntos fue identico con aquel y si en algunos se diferencia todos
-favorezen la precision de mi obligada condescendencia."[^154] De cierta
-manera, más que un olvido de la rebeldía, quedó plasmada en la memoria
-de los vasallos del rey la ventaja del perdón como una forma de
-limpiarse de la ofensa y retornar a la gracia regia. Más que una lectura
-de los códigos de la élite, parece que los soldados en Cartagena, que
-sirvieron de excusa para abordar los temas de este capítulo, replicaron
-los códigos del perdón que se transmitieron por la memoria popular.
+favorezen la precision de mi obligada condescendencia."[^154] En lugar
+del olvido de la rebeldía, quedó plasmada en la memoria de los vasallos
+del rey la ventaja del perdón como una forma de limpiarse de la ofensa y
+retornar a la gracia regia. Más que una lectura de los códigos de la
+élite, parece que los soldados en Cartagena, que sirvieron de excusa
+para abordar los temas de este capítulo, replicaron los códigos del
+perdón que se transmitieron por la memoria popular.
 
 [^1]: Juan Marchena Fernández, "Sin temor de rey ni de dios. Violencia,
     corrupción y crisis de autoridad en la Cartagena colonial", en
