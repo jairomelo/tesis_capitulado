@@ -14,6 +14,8 @@ impuesto por un juez demasiado celoso de la ley, asimismo mantener la
 paz en una ciudad que hubiese cometido una falta, sin que esto
 representara la posibilidad de hacer costumbre la rebeldía.
 
+El problermilla de la postestad
+
 La clemencia se consideró como la virtud por excelencia de los reyes
 cristianos, aquella por la cual lograba atraer el amor de sus vasallos a
 la vez que los protegía de los malvados con el temor al castigo.[^1]
