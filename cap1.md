@@ -1,4 +1,4 @@
-**[Capítulo I. La clemencia como autoridad y virtud]{.smallcaps}**
+**[Capítulo I. La clemencia en el gobierno de la virtud]{.smallcaps}**
 
 En abril de 1745 la plaza de Cartagena fue amenazada por el
 levantamiento de la tropa apostada en el lugar. Los soldados de los
@@ -281,19 +281,19 @@ tumultuosos, de quienes era requerido un acto de reconciliación; por
 otra parte los rebeldes que huían o rehusaban ser acogidos a la legítima
 y "bondadosa" mano regia; además de los delincuentes comunes, culpables
 de delitos menores, a quienes la autoridad ofrecía la clemencia para con
-su potestad liberarlos del justo yugo del castigo, con lo cual se la
+su potestad liberarlos del justo yugo del castigo, con lo cual la
 *auctoritas* se manifestaba en su forma primigenia de *augeo*, como el
 ejercicio virtuoso de la dignidad real que "aumentaba" en calidad el
 poderío regio.[^35] De modo similar la autoridad eclesiástica contribuía
 a la majestad del rey, incrementaba su potestad, pero también podía
-oponerse a esta cuando aquellos requeridos por la vindicta pública se
+oponerse a ésta cuando aquellos requeridos por la vindicta pública se
 acogían al refugio sagrado y eran protegidos inmediatamente, a veces
 sólo con tocar las paredes del templo, por la inmunidad
 eclesiástica.[^36] Esta disputa de majestades, permanente en todos los
 ámbitos territoriales de la monarquía hispánica, pretendería desde la
 autoridad regia el prevenir que los delincuentes se refugiaran en
-sagrado, en particular en los dominios de indias donde se consideraba
-que se estaba abusando de este fuero y con ello erosionando la potestad
+sagrado, en particular en los dominios de Indias, donde se consideraba
+que se estaba abusando de este fuero y, por ello, erosionaba la potestad
 de los ministros reales en América.[^37]
 
 Hablamos entonces del reconocimiento de la autoridad y del indulto como
@@ -305,10 +305,10 @@ políticas actuales que ha reducido la autoridad al poder.[^38] En
 términos lexicográficos la división entre autoridad y potestad no fue
 tajante ni siquiera en la Edad Media, pero semánticamente la
 *iurisdictio* involucraba un orden normativo que no se ejercía
-exclusivamente con la fuerza sino dependía en gran medida del acuerdo
+exclusivamente con la fuerza, sino dependía en gran medida del acuerdo
 con los cuerpos de la república.[^39] Se entendía, incluso en el último
 tercio del siglo XVIII, que la divinidad había delegado su autoridad y
-potestad al rey para lo temporal y al papa para lo espiritual, pero esta
+potestad al rey para lo temporal y al papa para lo espiritual, pero ésta
 no se había otorgado, a los reyes específicamente, para su propio
 beneficio sino como *res publica*, es decir, para la búsqueda del bien
 común de aquellos cuerpos que se acercaron para su protección.[^40] La
@@ -344,23 +344,22 @@ según los "tiranicidas" de los siglos XVI y XVII, o por lo menos
 justificar la revuelta cuando alguno de sus facultados actuaba de manera
 abusiva sobre los vasallos (Fuenteovejuna ilustra sin duda este
 punto).[^46] En este sentido, la clemencia contribuía a atraer a los
-súbditos, no sólo aquellos que habían delinquido, también aquellos que
-se habían rehusado a la "protección" del monarca como los grupos
-indígenas que se resistían a ser reducidos. Es conocida la instrucción
-dada a los enviados a pacificar a las tribus rebeldes para que
-utilizaran medios suaves que permitieran atraer a los indígenas y con
-ello "seducirlos" en lugar de someterlos. Evidentemente, la estrategia
-amorosa no conllevaba a los efectos inmediatos que requerían algunos
-colonos que prefirieron las expediciones para "pacificar" las tribus
-rebeldes antes que negociar su sometimiento, sin embargo, como lo indicó
-Abelardo Levaggi, la norma del gobierno borbónico consistió en buscar
-los acuerdos entre los indígenas y la república de españoles antes que
-involucrarse en expediciones de pacificación forzosa;[^47] estrategia
-que de cierta manera fue replicada con las comunidades de negros
-cimarrones.[^48]
+súbditos, no sólo aquéllos que habían delinquido, también quienes
+rehusaron a la "protección" del monarca, como los grupos indígenas que
+se resistían a ser reducidos. Es conocida la instrucción dada a los
+enviados a pacificar a las tribus rebeldes para que utilizaran medios
+suaves que permitieran atraer a los indígenas y con ello "seducirlos" en
+lugar de someterlos. Evidentemente, la estrategia amorosa no conllevaba
+a los efectos inmediatos que requerían algunos colonos que prefirieron
+las expediciones para "pacificar" las tribus rebeldes antes que negociar
+su sometimiento, sin embargo, como lo indicó Abelardo Levaggi, la norma
+del gobierno borbónico consistió en buscar los acuerdos entre los
+indígenas y la república de españoles antes que involucrarse en
+expediciones de pacificación forzosa;[^47] estrategia que de cierta
+manera fue replicada con las comunidades de negros cimarrones.[^48]
 
 Aunque en el orden normativo del antiguo régimen se consideraba que la
-autoridad estaba por encima de la potestad y era siempre preferible
+autoridad estaba por encima de la potestad, y era siempre preferible
 convencer a los súbditos que obligarlos al sometimiento por la fuerza,
 las armas o los suplicios,[^49] queda en evidencia que durante la "era
 de la autoridad"[^50] el refuerzo administrativo de la monarquía
@@ -369,8 +368,8 @@ ejercicio riguroso de la potestad antes que de los medios moderados y
 misericordiosos. Aunque las ideas de un "despotismo ilustrado" o
 "absolutismo monárquico" comprendan un valor esencialmente negativo que
 no necesariamente corresponden con la política de la época,[^51]
-caracterizada no por un gobierno tiránico sino por el intenso proceso de
-reacomodo administrativo que convivió con la estructura
+caracterizada no por un gobierno tiránico, sino por el intenso proceso
+de reacomodo administrativo que convivió con la estructura
 jurídico-política heredada de los Austrias; es también evidente que hubo
 una transformación en la autoridad de los magistrados y oficiales reales
 en América que bien se puede resumir en el bando pregonado por el virrey
@@ -398,7 +397,7 @@ eminencia de su dignidad.[^54] El Rey es viva imagen de Dios, Ministro
 suyo, Vicario y Depositario suyo en la tierra; ¿por qué no le ha de ser
 debida la veneración más profunda?"[^55] Se lamentaba además de que el
 perdón general dado a los rebeldes se hubiese dado sin un
-arrepentimiento manifiesto de la mayoría y les advertía a los vasallos
+arrepentimiento manifiesto de la mayoría, y les advertía a los vasallos
 que el indulto regio no les garantizaba el divino: Sin penitencia no
 muda Dios de sentencia, ni se le obliga a que suspenda el rigor, pues el
 arrepentimiento seguramente desarma sus justos enojos."[^56]
@@ -420,7 +419,7 @@ conflicto, se podría interpretar como uno de los "usos" del perdón, si
 se sigue la doctrina de Nieremberg. Este autor diría que uno de los dos
 usos del indulto sería utilizarlo "quando es necesario perdonar por
 inconvenientes que se temen, y no se halla mejor salida, que hazer de
-clemente."[^59] En este sentido, el perdón no nacía de la virtud y la
+clemente."[^59] En este sentido, el perdón sería fruto de la virtud y la
 autoridad sino de la razón de estado, contrario al perdón surgido de la
 clemencia que se hacía con el propósito de aliviar los rigores de los
 vasallos.
@@ -431,27 +430,27 @@ manera quedaba en evidencia el desequilibrio entre temor y amor, por lo
 cual el *habitus* de obediencia sustentado en dicha dialéctica se veía
 descompensado ante una posible esperanza de libertad ya ni siquiera por
 efectos del perdón como por la impotencia para el castigo. No es extraño
-entonces que ante esta paradoja en la que se amenazaba con el castigo
+entonces que ante esta paradoja, en la que se amenazaba con el castigo
 pero se castigaba poco,[^61] ilustrados como Feijoo reaccionaran
 pidiendo que se considerara a la clemencia "casi privativamente propia
-de Dios" y en todo caso como facultad exclusiva, aunque limitada para
+de Dios," y en todo caso como facultad exclusiva, aunque limitada para
 ciertos delitos, de los reyes por su cualidad de soberanos (jueces que
 no pueden ser juzgados sino por Dios)[^62], ausente de los "ministros
-inferiores" ya que "el que está sujeto á las leyes carece de arbitrio
+inferiores," ya que "el que está sujeto á las leyes carece de arbitrio
 para las piedades."[^63]
 
 El perdón como resultado virtuoso de la clemencia y la gracia
 -------------------------------------------------------------
 
 Para comprender el sentido amplio del perdón conviene analizarlo desde
-la lógica del poder político del antiguo régimen que replicaba las
+la lógica del poder político del antiguo régimen, que replicaba las
 virtudes cristianas como parte del ejercicio de la potestad, las cuales
 no se limitaban al fuero interno del soberano en tanto se evidenciaban
 en la pragmática del poder regio. Nieremberg explicó que el príncipe
 debía ser especialmente virtuoso porque además de individuo era una
-persona pública y al mismo tiempo era ejemplo de la nobleza y ésta del
-vulgo. Incluso consideraba que era más importante la virtud del rey que
-su papel como legislador:
+persona pública, al mismo tiempo era ejemplo de la nobleza, y ésta
+modelo para el vulgo. Incluso consideraba que era más importante la
+virtud del rey que su papel como legislador:
 
 > Qual será la fuerça del exemplo del Principe? Tanto va del exemplo a
 > la lei, como del dicho al hecho. Y si las palabras del Rey son leyes;
@@ -489,29 +488,30 @@ el tirano arrebata el poder mediante la fuerza, pero, aun partiendo de
 un orden legítimo, degenera en todo género de vicios, principalmente en
 la codicia, la crueldad y la avaricia."[^68] En este sentido, las
 virtudes tenían como función ganar la obediencia y el amor de los
-súbditos en cambio la tiranía lograría la sujeción sólo con terror y
+súbditos, en cambio la tiranía lograría la sujeción sólo con terror y
 temor.[^69]
 
 No todas las virtudes del príncipe tenían relación con el perdón real.
 Dentro de la jerarquía de la ética cristiana, el perdón estaba
-relacionado con mayor fuerza con la justicia, entendida esta como una
-virtud cardinal. Sin embargo, el perdón no era en sí mismo justicia ya
+relacionado con mayor fuerza con la justicia, entendida ésta como una
+virtud cardinal. Sin embargo, el perdón no era en sí mismo justicia, ya
 que para que hubiese indulto se presumía culpabilidad;[^70] como otras
-acciones del poder regio que tenían efecto en la justicia se consideraba
-al perdón como un acto excepcional, expresión de la magnificencia de la
-potestad regia, (la corte santa) puesto que para aquellos casos en los
-que el castigo derivaba de un mal proceso, cohecho, maleficencia o
-cualquier otra injusticia; se podía recurrir las garantías que para ello
-disponía el derecho como eran las recusaciones, apelaciones o las
-súplicas.[^71] La complejidad de la intrincada red de virtudes asociadas
-a la justicia y lo político en el antiguo régimen precisa que se
-distingan aquí aquellas que tuvieron mayor vinculación con el perdón
-real como fueron la clemencia y la gracia, las cuales a su vez servían
-como indicadores de la moderación de otras virtudes como la indulgencia,
-la misericordia o la liberalidad; del mismo modo que representaban la
-restricción a los vicios de la ira, la inclemencia, la crueldad o la
-avaricia. Una interesante síntesis de las virtudes indispensables para
-el juez y gobernante fue dada por Castillo de Bovadilla:
+acciones del poder regio que tenían efecto en la justicia, se
+consideraba al perdón como un acto excepcional, expresión de la
+magnificencia de la potestad regia, (la corte santa) puesto que para
+aquellos casos en los que el castigo derivaba de un mal proceso,
+cohecho, maleficencia o cualquier otra injusticia, se podía recurrir las
+garantías que para ello disponía el derecho como eran las recusaciones,
+apelaciones o las súplicas.[^71] La complejidad de la intrincada red de
+virtudes asociadas a la justicia y lo político en el antiguo régimen
+precisa que se distingan aquí aquellas que tuvieron mayor vinculación
+con el perdón real, como fueron la clemencia y la gracia, las cuales a
+su vez servían como indicadores de la moderación de otras virtudes como
+la indulgencia, la misericordia o la liberalidad; del mismo modo que
+representaban la restricción a los vicios de la ira, la inclemencia, la
+crueldad o la avaricia. Una interesante síntesis de las virtudes
+indispensables para el juez y gobernante fue dada por Castillo de
+Bovadilla:
 
 > Manso, y justo, y temeroso de Dios, y de buena conciencia, casto, y no
 > avariento debe ser el Corregidor, y bien entendido, dicen las leyes
@@ -555,25 +555,25 @@ utilizadas para mostrar el uso correcto de la palabra,[^76] remiten a la
 estructura lógica de la clemencia: es atribución del príncipe, se usa
 para ganar el amor de los súbditos, y su exceso conlleva al desorden.
 
-Antes de entrar de lleno a los aspectos de la clemencia, vale la pena
+Antes de entrar de lleno en los aspectos de la clemencia, vale la pena
 hacer la distinción entre ésta y la misericordia. La primera se
 relaciona con la superioridad y venganza, en tanto la segunda implicaba
 compasión y piedad.[^77] Ambas fueron fundamentales en el ejercicio del
-indulto ya que podían incluir en ésta figura no sólo aquellos que fueran
-justamente castigados sino que además fueran dignos de misericordia, es
-decir, las personas que por su pobreza, indefensión, enfermedad o
-ignorancia se incluían en la calidad de miserables;[^78] que en el orden
-indiano representaban a la importante población nativa asociada a esa
-condición.[^79] Solórzano Pereyra aconsejaba que a los indios les fueran
-moderadas las penas y que los jueces en las penas corporales "usen más
-de oficio de padres que de jueces severos hasta que \[los indios\] se
-hallen más capaces de razón y más arraigada en la fe esta pobre
-gente."[^80] La misericordia con los miserables no debía desembocar en
-injusticia, como indicaba Castillo de Bovadilla; es decir, se debía
-evitar que al resolver las causas a favor de éstos se causara injuria a
-otras personas o corporaciones.[^81]
+indulto, ya que podían incluir en ésta figura no sólo aquellos que
+fueran justamente castigados, sino que además fueran dignos de
+misericordia, es decir, las personas que por su pobreza, indefensión,
+enfermedad o ignorancia se incluían en la calidad de miserables,[^78]
+que en el orden indiano representaban a la importante población nativa
+asociada a esa condición.[^79] Solórzano Pereyra aconsejaba que a los
+indios les fueran moderadas las penas y que los jueces en las penas
+corporales "usen más de oficio de padres que de jueces severos hasta que
+\[los indios\] se hallen más capaces de razón y más arraigada en la fe
+esta pobre gente."[^80] La misericordia con los miserables no debía
+desembocar en injusticia, como indicaba Castillo de Bovadilla; es decir,
+se debía evitar que al resolver las causas a favor de éstos se causara
+injuria a otras personas o corporaciones.[^81]
 
-El perdón era un resultado de la clemencia, propia del príncipe quien
+El perdón era un resultado de la clemencia, propia del príncipe, quien
 era el único facultado en esencia para poder hacer la remisión de la
 pena que en justicia se había aplicado,[^82] lo cual no excluía que el
 rey o sus jueces superiores demostrasen misericordia, ya que era
@@ -597,13 +597,13 @@ cristiano a Dios puesto que lo alejan de la iracundia y la venganza,
 pero no son equiparables en excelencia a virtudes como la misericordia,
 la piedad, la prudencia o la justicia, que son probidades que acercan al
 bien.[^87] La diferencia se enmarca en que clemencia sólo la podría
-ejercer alguien en cuyas manos estuviese hacer cumplir el castigo y por
+ejercer alguien en cuyas manos estuviese hacer cumplir el castigo, y por
 ende puede moderar el sufrimiento del delincuente; como afirmaba Séneca,
 "todos los hombres comprenden que la clemencia consiste en acortar la
 penalidad que podría infligirse con justicia."[^88]
 
 El porqué de la clemencia puede sintetizarse con la siguiente sentencia
-de Saavedra Fajardo: ""si a todos los que excediesen se uviese de
+de Saavedra Fajardo: "si a todos los que excediesen se uviese de
 castigar, no auria aquien mandar, porque apenas ai hombre tan justo, que
 no aya merecido la muerte."[^89] A diferencia del derecho contemporáneo,
 la justicia penal de antiguo régimen no partía de los principios de *in
@@ -614,7 +614,7 @@ arbitraria."[^90] Se comprendía que la humanidad había sido condenada
 desde su origen por el pecado de Adán,[^91] por lo cual era imposible
 encontrar un "hombre justo" de quien se pudiera presumir estaba libre de
 culpa. Los indicios eran suficientes para que el juez usara su arbitrio
-y estipulara una pena ordinaria aunque solo se hubiese demostrado la
+y estipulara una pena ordinaria, aunque sólo se hubiese demostrado la
 "semiculpabilidad" del reo, es decir, cuando a pesar de haber seguido el
 proceso inquisitorial persistía la duda de su actuación delictiva.[^92]
 
@@ -628,7 +628,7 @@ retórica y la ética. La doctrina, e incluso la legislación, aconsejaban
 al juez a actuar con misericordia pues se concebía que la benevolencia y
 la piedad prevalecía sobre la severidad.[^93] Se partía de la premisa de
 que la paz de las repúblicas se podría mantener mejor con actos de
-clemencia que de fuerza, así lo planteaba Guardiola y Sáez por ejemplo,
+clemencia que de fuerza; así lo planteaba Guardiola y Sáez por ejemplo,
 quien en *El corregidor perfecto* afirmó: "dice Dios por S. Matheo[^94]
 que quiere mas la misericordia, que el sacrificio. Y á la verdad,
 siempre ha sido necesario usar de ella en el gobierno de la República;
@@ -643,9 +643,9 @@ de la sentencia; del mismo modo, si el reo alegaba que era inocente
 podía apelar en consecuentes súplicas su libertad.[^96] La clemencia
 tendría la función de compensar el rigor, en otro sentido, de minorar la
 pena ajustada a la ley común. Aunque desde esta perspectiva el perdón
-estaría cercano a la epiqueya se diferencia de esta en cuanto no se
+estaría cercano a la epiqueya, se diferencia de ésta en cuanto no se
 aparta de la intención del legislador (texto de la ley), sino que modera
-la aplicación de la pena buscando aquella más benigna.[^97] En este
+la aplicación de la pena buscando aquélla más benigna.[^97] En este
 sentido, la clemencia podía buscar la equidad cuando la aplicación a
 rajatabla de la ley común no asumía las condiciones que aminoraban la
 culpabilidad. Esta idea era representada por la *manlia imperia*,[^98]
@@ -654,7 +654,7 @@ más estricta las leyes sin atender a ningún atenuante, idea que
 sintetizaba el adagio *summum ius summa iniuria*, que según Cicerón
 escondía en la supuesta aplicación rigurosa de la ley una interpretación
 maliciosa del juez[^99]. Castillo de Bovadilla advertía que "por causa
-del mucho rigor pueden los Jueces ser privados de los Oficios;"[^100] y
+del mucho rigor pueden los Jueces ser privados de los Oficios,"[^100] y
 lo complementó afirmando: "porque con violencia no puede ser estable el
 gobierno seglar; y la sujeción por fuerza suele acarrear libertad:
 porque, como dixo Cicerón, muy mal conserva la perpetuidad el miedo,
@@ -666,19 +666,19 @@ Corregidores, nombrados por ellos, proceder de la misma manera."[^102]
 
 Para que fuese justa, la misericordia debía ajustarse a la razón y
 otorgarse sobre todo al necesitado o al penitente.[^103] En este
-sentido, aunque fuese una preciosa virtud del príncipe su uso debía
+sentido, aunque fuese una preciosa virtud del príncipe, su uso debía
 estar prevenido por la prudencia. El perdón excesivo traería como
 consecuencia inevitable el incremento de los delitos,[^104] ya que la
 lógica punitiva de la tradición jurídica de occidente concebía el
-castigo no en términos de restitución del daño sino como una estrategia
+castigo no en términos de restitución del daño, sino como una estrategia
 para la prevención de los futuros crímenes.[^105] La justicia penal
-parte del principio que si los hombres se gobernaran de acuerdo a la ley
-natural, divina y humana, no sería necesario la imposición de las penas,
-mas siendo lo contrario, fue necesario imponer la penas porque "donde no
-convence el amor, restrinja el temor."[^106] En este sentido, la
-misericordia excesiva se opondría a la justicia y se equipararía a la
+parte del principio de que si los hombres se gobernaran de acuerdo a la
+ley natural, divina y humana, no sería necesario la imposición de las
+penas; mas siendo lo contrario, fue necesario imponer la penas porque
+"donde no convence el amor, restrinja el temor."[^106] En este sentido,
+la misericordia excesiva se opondría a la justicia y se equipararía a la
 crueldad y la tiranía,[^107] ya que provendría de la idea vulgar de
-clemencia la cual, según Feijoo, tendría un sentido tergiversado según
+clemencia la cual, según Feijoo, tendría un sentido tergiversado, según
 el cual los magistrados y príncipes debían moverse a la clemencia por
 "los ruegos de los amigos, las lágrimas de los reos, los clamores de sus
 huerfanas familias, y la blandura del proprio genio, para mitigar la
@@ -686,29 +686,29 @@ pena que corresponde segun las leyes,"[^108] lo cual contradeciría un
 principio básico de la clemencia real que radicaba en surgir de la mera
 voluntad del monarca.[^109]
 
-El hacer uso irracional de esta regalía aunque no conllevaba una condena
-terrenal, puesto que el legislador no podía castigarse a sí mismo,
-tendría el riesgo de que la retribución le fuera requerida ante el
-juicio divino. Así lo dejó expreso López de Cuéllar cuando le advirtió
-al príncipe que esta regalía no era absoluta y que debería ser ejercida
-con justa causa "si quiere que en aquel tremendo, ultimo dia, no se le
-numeren por culpas las gracias."[^110] Según Andrés Mendo, perdonar a
-los culpados de delitos graves no era piedad sino "clemencia cruel",
-aplicar todo el rigor de la pena no debía ser temor de los príncipes
-porque "no puede haber justicia, donde no ay castigo; daña mas en culpas
-graves la disimulacion, que la severidad"[^111]. La clemencia entonces
-no sólo se refería a la reducción del sufrimiento de los condenados,
-además, debía garantizar la paz y tranquilidad de los vasallos mediante
-el castigo de los delincuentes. Andrés Mendo diría que "el rigor con
-poco es la piedad para muchos; pues quedan libres de daños los mas,
-quando son castigados los delinquentes, que son los menos; y padecen
-todos, quando no padecen á manos de la justicia algunos"[^112]. La
-clemencia por lo tanto no significaba oposición al castigo o la
-severidad porque ambas acciones exigían la recta razón para su ejecución
-y, según Santo Tomás, no se contradicen porque no tienen el mismo
-objeto[^113]. Además, la severidad no contradeciría la misericordia
-puesto que la aplicación recta de justicia no implicaba dureza de
-corazón[^114].
+El hacer uso irracional de esta regalía, aunque no conllevaba una
+condena terrenal puesto que el legislador no podía castigarse a sí
+mismo, tendría el riesgo de que la retribución le fuera requerida ante
+el juicio divino. Así lo dejó expreso López de Cuéllar cuando le
+advirtió al príncipe que esta regalía no era absoluta, y que debería ser
+ejercida con justa causa "si quiere que en aquel tremendo, ultimo dia,
+no se le numeren por culpas las gracias."[^110] Según Andrés Mendo,
+perdonar a los culpados de delitos graves no era piedad sino "clemencia
+cruel", aplicar todo el rigor de la pena no debía ser temor de los
+príncipes porque "no puede haber justicia, donde no ay castigo; daña mas
+en culpas graves la disimulacion, que la severidad"[^111]. La clemencia
+entonces no sólo se refería a la reducción del sufrimiento de los
+condenados, además, debía garantizar la paz y tranquilidad de los
+vasallos mediante el castigo de los delincuentes. Andrés Mendo diría que
+"el rigor con poco es la piedad para muchos; pues quedan libres de daños
+los mas, quando son castigados los delinquentes, que son los menos; y
+padecen todos, quando no padecen á manos de la justicia algunos"[^112].
+La clemencia por lo tanto no significaba oposición al castigo o la
+severidad, porque ambas acciones exigían la recta razón para su
+ejecución y, según Santo Tomás, no se contradicen porque no tienen el
+mismo objeto[^113]. Además, la severidad no contradeciría la
+misericordia puesto que la aplicación recta de justicia no implicaba
+dureza de corazón[^114].
 
 "El perdón encaja perfectamente dentro de esas consideraciones como un
 acto de magnanimidad de la majestad, como una manifestación de ese
@@ -727,26 +727,26 @@ especulativa, pero llama la atención respecto a la estrechez de ambos
 conceptos en la época monárquica y las implicaciones posteriores de un
 sistema de clemencia sin rey.
 
-La gracia puede comprenderse sintéticamente como una acción que aunque
+La gracia puede comprenderse sintéticamente como una acción que, aunque
 tenía efecto judicial y seguía formas procesales (instancias de parte,
 procesos, escrutinios, expedientes), no "estaba sujeta a regla de
-derecho ni a control de justicia."[^116] En este sentido, trascendía los
-límites ordinarios de la justicia y el gobierno pero lo hacían con la
-finalidad de sublimar el orden.[^117] Siguiendo las enseñanzas de dios y
-como su vicario en la tierra, el rey imitaba la gracia divina, entendida
-como el favor o don gratuito dado por dios a los hombres con el
-propósito de premiar el seguimiento de sus mandamientos y a la vez
+derecho ni a control de justicia."[^116] En este sentido trascendía los
+límites ordinarios de la justicia y el gobierno, pero lo hacían con la
+finalidad de sublimar el orden.[^117] Siguiendo las enseñanzas de dios,
+y como su vicario en la tierra, el rey imitaba la gracia divina,
+entendida como el favor o don gratuito dado por dios a los hombres con
+el propósito de premiar el seguimiento de sus mandamientos y a la vez
 atraerlos a la salvación.[^118] En el mismo sentido, el rey demostraba
-su amor, beneficio y liberalidad a través de las dispensas graciosas,
+su amor, beneficio y liberalidad, a través de las dispensas graciosas,
 brindando a sus vasallos premios, mercedes, títulos, oficios y, entre
-otros beneficios, perdones generales y particulares, con los cuales se
+otros beneficios, perdones generales y particulares; con los cuales se
 esperaba, sin necesidad de contrato u obligación, el atraerlos a la
 lealtad y la defensa de la monarquía.[^119] El rey podía ejercer estos
 actos porque se asumía como surgidos de su voluntad, del agradecimiento
-por los favores hechos por alguien a la monarquía o por el simple hecho
+por los favores hechos por alguien a la monarquía, o por el simple hecho
 de demostrar la liberalidad de la corona.[^120] Sin embargo, como lo ha
 mostrado Bartolomé Clavero, aunque la gracia se consideraba como una
-donación no por ello era un favor gratuito; las "gracias al sacar" se
+donación, no por ello era un favor gratuito; las "gracias al sacar" se
 podrían entender como acciones de "liberalidad y largueza",
 contraprestaciones de la corona a alguien que hacía un donativo a las
 cajas reales en tiempos de necesidad, lo cual no implicaba
@@ -769,7 +769,7 @@ diferentes consecuencias, se presentó con los denominados perdones "al
 sacar", práctica común en los reinos españoles de Europa durante los
 reinados de Felipe III y IV que buscaba, en compañía de otras
 estrategias, paliar la crisis financiera de la monarquía.[^125] En
-indias, la venta de indultos al parecer no gozó del mismo impulso que la
+Indias, la venta de indultos al parecer no gozó del mismo impulso que la
 venalidad, como lo señala Tamar Herzog para el caso quiteño, si los
 perdones al sacar fueron practicados no quedaron huellas en los
 autos.[^126] Como se intentará demostrar en un capítulo posterior, hay
@@ -780,70 +780,70 @@ manera excepcional y con cierto disimulo.
 No por lo anterior se debería asumir la gracia regia como un acto
 superfluo o que simplemente fungía como fórmula para el abuso de la
 monarquía. Si bien la gracia era un acto volitivo del príncipe no podía
-representar injusticia, al contrario, la gracia suponía justicia y a la
-vez la corregía, servía para dar a cada quien lo que su estatus requería
-así como para recuperar lo que se había perdido. En el perdón estaba
-bastante claro que demostrar la posición del condenado ayudaba a la
-concesión y en no pocas ocasiones el retorno al favor real atraía a los
-desertores y huidos que podían con esto recuperarse de sus deslices. De
-la misma manera el gobierno ejercía la gracia, en asocio por lo general
-de la doctrina de la justa causa, con el propósito de alterar el
-ejercicio del derecho de tal manera que se permitiese conservar el orden
-de la república. Esta función armonizadora de la gracia representaba una
-"realización de la justicia" mediante la acción al margen del derecho
-que redundaba en la utilidad pública.[^127]
+representar injusticia, al contrario, la gracia suponía justicia, y a la
+vez la corregía, servía para dar a cada quien lo que de su estatus era
+requerido, así como para recuperar lo que se había perdido. En el perdón
+estaba bastante claro que demostrar la posición del condenado ayudaba a
+la concesión, y en no pocas ocasiones el retorno al favor real atraía a
+los desertores y huidos que podían con esto recuperarse de sus deslices.
+De la misma manera el gobierno ejercía la gracia, en asocio por lo
+general de la doctrina de la justa causa, con el propósito de alterar el
+ejercicio del derecho, de tal manera que se permitiese conservar el
+orden de la república. Esta función armonizadora de la gracia
+representaba una "realización de la justicia" mediante la acción, al
+margen del derecho que redundaba en la utilidad pública.[^127]
 
 El efecto de la gracia se suponía irrevocable, en buena medida porque al
 otorgarla también se atribuían derechos. Sin embargo, la concesión podía
 revertirse si el beneficiario actuaba contra el rey.[^128] Volviendo al
 caso que sirvió como introducción a este capítulo, la decisión del rey
-de no ejercer el inmediato castigo de los sublevados a pesar de su
+de no ejercer el inmediato castigo de los sublevados, a pesar de su
 descontento y no ratificación del perdón, indicaría el deseo por
 mantener la legitimidad de la gracia concedida a su nombre, en lugar de
 retirar el perdón instó su reversión justificada mediante la
-comprobación de la traición al rey por parte de tales soldados; una
+comprobación de la traición al rey por parte de tales soldados, una
 acción contraria pudo redundar en la desconfianza de la autoridad del
-virrey e incluso de rey. Esta interpretación concuerda con lo aconsejado
-por Saavedra Fajardo: "concedido un perdon general debe el Principe
-mantenelle, no dandose despues por entendido de las ofensas recibidas,
-porque obligaria à mayores conjuras \[...\] Si bien despues, quando
-incurrieren en algun delito, se puede usar con ellos de todo el rigor de
-la Lei, para tenellos enfrentados, i que no abusen de la benignidad
-recibida."[^129] A esto se asociaba además el criterio del juramento y
-la promesa; nuevamente Saavedra a través de referencias bíblicas
-advertía a los príncipes: "Lo que se promete, i no se cumple lo recibe
-por afrenta el Superior, por injusticia el Igual, i por tyrania el
-Inferior. I asi es menester, que la lengua no se arròje a ofrezer lo que
-no sabe, que puede cumplir."[^130]
+virrey e incluso del rey. Esta interpretación concuerda con lo
+aconsejado por Saavedra Fajardo: "concedido un perdon general debe el
+Principe mantenelle, no dandose despues por entendido de las ofensas
+recibidas, porque obligaria à mayores conjuras \[...\] Si bien despues,
+quando incurrieren en algun delito, se puede usar con ellos de todo el
+rigor de la Lei, para tenellos enfrentados, i que no abusen de la
+benignidad recibida."[^129] A esto se asociaba además el criterio del
+juramento y la promesa; nuevamente Saavedra, a través de referencias
+bíblicas, advertía a los príncipes: "Lo que se promete, i no se cumple
+lo recibe por afrenta el Superior, por injusticia el Igual, i por
+tyrania el Inferior. I asi es menester, que la lengua no se arròje a
+ofrezer lo que no sabe, que puede cumplir."[^130]
 
 Indulto, perdón y olvido.
 -------------------------
 
 De modo similar que el uso recurrente de los términos autoridad y
 potestad terminó entremezclando los sentidos de ambos en una sola idea
-de poder político, el indulto y el perdón por su mismo uso recurrente,
-terminaron correspondiendo a una sola idea de remisión de la pena y de
+de poder político, el indulto y el perdón, por su mismo uso recurrente,
+terminaron correspondiendo a una sola idea de remisión de la pena, y de
 cierta manera lo que representaban dos conceptos parece a nuestros ojos
 una tautología. A diferencia de la clemencia, enfocada en el plano de la
 virtud, el perdón y el indulto daban cuenta de una doble acción de
-concesión; con el último se remitía la pena y con el primero se
-restituía al delincuente al *pristinum statum* anterior a la acusación y
-con ello se olvidaba la falta.[^131] Ahora bien, esta dicotomía no era
-tanto lexicográfica como conceptual (muy a tono con el binomio
+concesión; con el último se remitía la pena, y con el primero se
+restituía al delincuente al *pristinum statum* anterior a la acusación,
+con lo cual se olvidaba la falta.[^131] Ahora bien, esta dicotomía no
+era tanto lexicográfica como conceptual (muy a tono con el binomio
 potestad-autoridad), aunque quedaba en evidencia tanto por su uso
-continuado en las cédulas de perdón general como por algunas obras
-doctrinales, por ejemplo Murillo Velarde,[^132] quien señaló que la
+continuado en las cédulas de perdón general, como por algunas obras
+doctrinales; por ejemplo Murillo Velarde,[^132] quien señaló que la
 distinción "indulto y perdón" era característica de la legislación
-castellana y con ella se pretendía precisar la compleja polisemia
+castellana, y con ella se pretendía precisar la compleja polisemia
 relacionada con dicha gracia, transferida al derecho hispano por vía del
 lenguaje del *ius commune*.
 
-Esto es relevante además por el hecho de que aunque la pena podía ser
-condonada mediante el indulto el perdón podía ser condicionado a la
+Esto es relevante, además, por el hecho de que aunque la pena podía ser
+condonada mediante el indulto, el perdón podía ser condicionado a la
 remisión de la parte afectada, con lo cual quedaría bajo el arbitrio
 razonado del juez si el reo se daba en libertad o se restringía su
-salida a restituir el daño, lo cual podría hacerse por otros medios como
-el pago de una suma de dinero a la parte e incluso a la Real Hacienda.
+salida a restituir el daño; lo cual podría hacerse por otros medios como
+el pago de una suma de dinero a la parte, e incluso a la Real Hacienda.
 Lo anterior se puede sustentar doctrinalmente siguiendo a Antonio Xavier
 Pérez, quien expuso este doble efecto de la concesión del indulto en su
 *Teatro de la legislación*. En primer lugar del indulto:
@@ -869,14 +869,14 @@ Y del perdón:
 La diferencia es sutil pero no baladí. Con el indulto se modificaba la
 pena, se suavizaba, pero con el perdón se regresaba la honra, por ende,
 alguien que era liberado de la prisión podía optar por recobrar su
-oficio e incluso sus bienes. Es por esta lógica que un oficial reo o
+oficio, e incluso sus bienes. Es por esta lógica que un oficial reo o
 desertor tenía la posibilidad de recuperar su posición si se acogía a
-las ofertas de perdón regio y en el mismo sentido lo hacían aquellos que
-por alguna falta habían escapado de la justicia y se habían refugiado a
-los montes. Para un preso común, rústico, el libertarse de la pena podía
-ser suficiente, pero para aquel que caía de la gracia del rey por sus
-faltas no bastaba el liberarse de la pena, además requería ser
-restaurado a su posición anterior al daño cometido.[^134]
+las ofertas de perdón regio, y en el mismo sentido lo hacían aquellos
+que por alguna falta habían escapado de la justicia y se habían
+refugiado a los montes. Para un preso común, rústico, el libertarse de
+la pena podía ser suficiente; pero para aquel que caía de la gracia del
+rey por sus faltas no bastaba el liberarse de la pena, además requería
+ser restaurado a su posición anterior al daño cometido.[^134]
 
 Esta restitución a un estado previo a la falta implicaba ejecutar un
 acto de olvido, como afirmó Vicente Vizcaíno en su *Código y práctica
@@ -884,8 +884,8 @@ criminal*, "por el indulto quedan los acusados exentos de la pena, se
 borra en cierto modo la memoria de su acusacion para no volver á tratar
 de ella en juicio."[^135] En este mismo sentido, Juan López de Cuéllar
 citó a Jacobo Godofredo (hijo del afamado anotador del *Corpus iuris
-civilis* del siglo XVI) para señalar que el indulto particular a la vez
-que exime al acusado de la pena elimina la acusación de la memoria
+civilis* del siglo XVI) para señalar que el indulto particular, a la vez
+que exime al acusado de la pena, elimina la acusación de la memoria
 (*memoria accusationis deletur*).[^136] Claramente este acto de
 desmemoria de la falta tenía una utilidad práctica como era evitar que
 el indultado fuese sometido a juicio nuevamente por cualquier ministro
@@ -896,8 +896,8 @@ obligaba al olvido[^138] (todo lo contrario a lo propuesto por la
 justicia transicional contemporánea donde el perdón está condicionado a
 la memoria), los indultados, si tenían la oportunidad, solicitaban un
 vestigio de la restitución a la gracia regia, como el papel de iglesia
-que se les entregó a la tropa sublevada de Panamá en 1766 firmado por el
-obispo con el cual se certificaba el perdón a los soldados,[^139] el
+que se les entregó a la tropa sublevada de Panamá en 1766, firmado por
+el obispo, con el cual se certificaba el perdón a los soldados,[^139] el
 cual fue exigido por ellos como condición de la entrega de la plaza:
 "que de este memorial y su proveido se nos den las copias que pidieremos
 para nuestro resguardo y que quede uno archibado en la Santa Yglecia
@@ -909,9 +909,9 @@ eclesiástica.
 André Argouse ha mostrado como una de las paradojas del perdón de
 antiguo régimen consistía precisamente en su condición de olvido y a la
 vez de registro del mismo. "En otras palabras, se borra la deuda pero
-queda su registro."[^141] Es una paradoja puesto que si no se recurría a
-un escribano o no se certificaba ante un juez la acción de perdonar, la
-parte ofendida no podía hacer válida su misericordia con aquel que la
+queda su registro."[^141] Es una paradoja, puesto que si no se recurría
+a un escribano o no se certificaba ante un juez la acción de perdonar,
+la parte ofendida no podía hacer válida su misericordia con aquel que la
 ofendió. De esta manera, el que queda en libertad, se asume, borra la
 acusación de la memoria, pero deja registro público sujeto a consulta y
 reproducción en el futuro.[^142] Trayendo a la memoria el indulto
@@ -920,23 +920,23 @@ los indultados siguiendo un método en el cual se encriptaban los nombres
 propios con marcas con las cuales el escribano registraba el indulto,
 esto con el propósito de "no ofender la reputación" de los perdonados y
 tuvieran la garantía "de que sus nombres quedarán siempre sepultados en
-el silencio." Sin embargo, les entregó a todos ellos un certificado en
+el silencio." Sin embargo, les entregó a todos ellos un certificado, en
 el cual desencriptaba el símbolo y podía comprobarse el otorgamiento del
 perdón a su nombre.[^143]
 
 No deja llamar la atención que el perdón se conciba como una acción de
-olvido toda vez que no era ajeno a los tribunales que los reos bien
+olvido, toda vez que no era ajeno a los tribunales que los reos bien
 podían aprovechar o ser víctimas de la desmemoria, como reclamaba por
-ejemplo un oficial del Consejo de indias en 1715 instando a que se
-ordenar el archivo de la institución "para que los oficiales no dejen en
-el olvido muchos expedientes graves, que por no encontrar sus
+ejemplo un oficial del Consejo de indias en 1715, instando a que se
+ordenara el archivo de la institución "para que los oficiales no dejen
+en el olvido muchos expedientes graves, que por no encontrar sus
 antecedentes y conocer que sin ellos no pueden ir al Consejo, se han
 quedado sin curso, en grave perjuicio del servicio del Rey y del bien
-público."[^144] Feijoo también llamó la atención en su discurso *Balanza
-de Astrea* que descuidar los expedientes equivalía al abandono de los
-presos, que en este caso quedaban condenados a una especie de sepulcro.
-Relegar los expedientes también conllevaría, decía Feijoo, a la
-absolución de los presos sin intermediación del perdón ni del juicio;
+público."[^144] Feijoo también llamó la atención en su discurso,
+*Balanza de Astrea*, que descuidar los expedientes equivalía al abandono
+de los presos, que en este caso quedaban condenados a una especie de
+sepulcro. Relegar los expedientes también conllevaría, decía Feijoo, a
+la absolución de los presos sin intermediación del perdón ni del juicio;
 podrían los presos escapar ante la demora de sus procesos, pero
 principalmente porque la pasión iracunda que asistía la apertura del
 proceso se apaciguaría con el tiempo hasta convertirse en benignidad,
@@ -954,7 +954,7 @@ perdón y no el indulto a la amnesia. En sus palabras:
 > que antes por voto universal era digno de la horca.[^145]
 
 Por otra parte, olvidar se relaciona en el caso del perdón con el
-"silencio perpetuo." En el caso de la tropa levantada en Panamá en 1766
+"silencio perpetuo." En el caso de la tropa levantada en Panamá en 1766,
 la entrega del papel de iglesia estuvo acompañada de la exigencia de
 "perpetuo silencio sobre el asunto, pena de veinte carreras de vaquetas
 á cada soldado, quitada la Alavarda á el Sargento, declarandole ultimo
@@ -971,9 +971,9 @@ sólo aprueba la guerra exterior."[^148]
 
 La amnesia y el silencio pretendían por otra parte evitar la no
 repetición de los actos criminales o del desorden, un ejemplo de lo
-anterior se vislumbra en la advertencia del Rey a Eslava tras la
-aprobación pública del perdón de la tropa que rezaba: "fiando de su zelo
-que procurará no suceda otro desorden, y que la tropa proceda en
+anterior se vislumbra en la advertencia del Rey a Eslava, tras la
+aprobación pública del perdón de la tropa, que rezaba: "fiando de su
+zelo que procurará no suceda otro desorden, y que la tropa proceda en
 adelante de modo que borrando en la gentes la memoria de tal hecho,
 recobre el glorioso timbre de verdaderos españoles."[^149] El olvido
 selectivo que creaba el perdón conllevaba la recuperación de la memoria
@@ -995,7 +995,7 @@ el orden del mundo, del buen vivir y el actuar.[^151] Incluso en los
 casos donde se rememora la rebeldía del pueblo se hace con el propósito
 de exaltar la grandeza del príncipe cristiano, la tiranía del gentil,
 incluso la gloria de dios, como lo hizo el obispo Palafox en *Luz de
-príncipes* donde mostró que a pesar del pecado del rey Saul, la
+príncipes*, donde mostró que a pesar del pecado del rey Saul, la
 divinidad perdonó a los israelitas para salvar a los inocentes y
 perdonar a los que antes habían actuado heroicamente.[^152]
 
@@ -1004,7 +1004,7 @@ denomina Le Goff) no parece haber obedecido a la exigencia de olvido y
 silencio. Angela Ballone ha mostrado cómo la orden de silencio
 establecida tras el perdón novohispano de 1627 fue la primera de las
 transgresiones al indulto real,[^153] en ese caso se evidenció tras la
-aparición de panfletos anónimos, pero en otros, como en el levantamiento
+aparición de panfletos anónimos; pero en otros, como en el levantamiento
 de la tropa panameña de 1766, la remembranza de lo acontecido con Eslava
 17 años antes estaba completamente vigente y se evidenciaba por los
 mismos sublevados. Así lo mencionó el gobernador de Panamá al Secretario
