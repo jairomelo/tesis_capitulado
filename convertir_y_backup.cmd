@@ -4,7 +4,7 @@ robocopy "C:\Users\jairomelo\Box Sync\ColMIch\Proyecto doctoral\TESIS\Capitulado
 
 REM copia de seguridad de subcarpetas
 
-robocopy "C:\Users\jairomelo\Box Sync\ColMIch\Proyecto doctoral\TESIS\Capitulado\imgs" "C:\Users\jairomelo\Box Sync\ColMIch\Proyecto doctoralTESIS_backup\Capitulado\imgs"
+robocopy "C:\Users\jairomelo\Box Sync\ColMIch\Proyecto doctoral\TESIS\Capitulado\imgs" "C:\Users\jairomelo\Box Sync\ColMIch\Proyecto doctoral\TESIS_backup\Capitulado\imgs"
 
 REM convertir los archivos de docx a markdown
 
