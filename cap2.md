@@ -1,20 +1,21 @@
-**[Capítulo II. El perdón en el gobierno de la justicia]{.smallcaps}**
+**[Capítulo II. El perdón en el orden normativo]{.smallcaps}**
 
 En el capítulo anterior se explicaron algunos de los aspectos que
-relacionan la clemencia con el gobierno de la virtud. La clemencia hacía
-parte del gobierno de la justicia porque al ejercer el perdón el rey, o
-su facultado, impiden, conmutan o moderan el castigo, y con ello afectan
-la equidad. No es derecho en tanto que el perdón es gracia, por lo tanto
-en principio excepcional aunque, por costumbre, convencional. No se
-consideraba parte de la administración de justicia, pero la orden de
-indulto pasaba, por lo general, por la vía de la Real Audiencia y eran
-finalmente los oidores, tras la vista del fiscal, quienes decían si el
-reo era acogido por la benignidad regia. Sin embargo, siempre estaba la
-posibilidad de obtener el perdón vía súplica directa al rey, superando
-así los límites jurisdiccionales de los tribunales provinciales. El
-perdón facilitaba el gobierno y la justicia, era tan útil como la
-potestad de castigar. Servía además como contrapunto a la aplicación
-rigurosa de la ley.[^1]
+relacionaban la clemencia con el gobierno de la virtud.
+
+La clemencia hacía parte del gobierno de la justicia porque al ejercer
+el perdón el rey, o su facultado, impiden, conmutan o moderan el
+castigo, y con ello afectan la equidad. No es derecho en tanto que el
+perdón es gracia, por lo tanto en principio excepcional aunque, por
+costumbre, convencional. No se consideraba parte de la administración de
+justicia, pero la orden de indulto pasaba, por lo general, por la vía de
+la Real Audiencia y eran finalmente los oidores, tras la vista del
+fiscal, quienes decían si el reo era acogido por la benignidad regia.
+Sin embargo, siempre estaba la posibilidad de obtener el perdón vía
+súplica directa al rey, superando así los límites jurisdiccionales de
+los tribunales provinciales. El perdón facilitaba el gobierno y la
+justicia, era tan útil como la potestad de castigar. Servía además como
+contrapunto a la aplicación rigurosa de la ley.[^1]
 
 La clemencia se consideró como la virtud por excelencia de los reyes
 cristianos, aquella por la cual lograba atraer el amor de sus vasallos a

@@ -53,6 +53,10 @@ de la lengua*. Madrid: imprenta de Francisco del Hierro, 1726-1739.
 glosadas por el Licenciado Gregorio Lopez*. Salamanca: Andres de
 Portonaris, 1555.
 
+*Corpus Iuris Civilis*. *Digesto y Código de Justiniano.* Edición
+facsímil por editorial Lex Nova de 1989. Trad. Ildefonso L. García del
+Corral. Tomos I-III. Barcelona: Jaime Molinas, 1889 y 1895.
+
 ### Doctrina
 
 Castillo de Bovadilla, Jerónimo. *Política para corregidores y señores
