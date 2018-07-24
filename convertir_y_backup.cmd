@@ -1,10 +1,10 @@
 REM crear copia de seguridad archivos
 
-robocopy "C:\Users\jairomelo\Box Sync\ColMIch\Proyecto doctoral\TESIS\Capitulado" "C:\Users\jairomelo\Box Sync\ColMIch\Proyecto doctoral\TESIS_backup\Capitulado"
+robocopy 'ruta original' 'ruta del backup'
 
-REM copia de seguridad de subcarpetas
+REM copia de seguridad de subcarpetas.
 
-robocopy "C:\Users\jairomelo\Box Sync\ColMIch\Proyecto doctoral\TESIS\Capitulado\imgs" "C:\Users\jairomelo\Box Sync\ColMIch\Proyecto doctoral\TESIS_backup\Capitulado\imgs"
+robocopy 'ruta original' 'ruta del backup'
 
 REM convertir los archivos de docx a markdown
 
