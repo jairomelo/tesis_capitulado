@@ -55,9 +55,12 @@ Portonaris, 1555.
 
 *Corpus Iuris Civilis*. *Digesto y Código de Justiniano.* Edición
 facsímil por editorial Lex Nova de 1989. Trad. Ildefonso L. García del
-Corral. Tomos I-III. Barcelona: Jaime Molinas, 1889 y 1895.
+Corral. Barcelona: Jaime Molinas, 1889-1895.
 
 ### Doctrina
+
+Asso, Ignacio Jordán de. *Instituciones del derecho civil de Castilla*
+\[1771\]*.* Edición cuarta. Madrid: Imprenta de Andrés de Sotos, 1786.
 
 Castillo de Bovadilla, Jerónimo. *Política para corregidores y señores
 de vasallos* \[1ª ed. 1597\]. Reimpresión de la edición de 1690. Madrid:
@@ -65,6 +68,9 @@ imprenta de la Gazeta, 1775.
 
 Caussin, Nicolas. *La corte santa*. trad. Pedro González de Godoy,
 quinta impresión. Barcelona: imprenta de Juan Pablo y Juan Marti, 1718.
+
+Erasmus, Desiderius. *Institutio Principis Christiani* \[1516\].
+Basilea: Froben, 1519.
 
 Guardiola y Sáez, Lorenzo. *El corregidor perfecto, y juez dotado de las
 calidades necesarias y convenientes para la buena administración de
@@ -102,6 +108,9 @@ políticos y morales.* Lyon: Horacio de Boissat y George Remeus, 1692.
 
 Nieremberg, Juan Eusebio. *Obras y días. Manual de señores y príncipes*.
 Madrid: por la viuda de Alonso Martin, 1629.
+
+---------. *Aforismos o dictámenes*. Nueva edición. Bruselas: en casa de
+Juan Mommarte, 1664.
 
 Núñez de Toledo, Hernán. *Glosa sobre las trezientas del famoso poeta
 Juan de Mena*. Sevilla: Iuan Varela, 1528.

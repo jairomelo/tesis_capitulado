@@ -1,4 +1,4 @@
-**[Capítulo II. El perdón en el orden normativo]{.smallcaps}**
+**[Capítulo II. El perdón en el orden jurisdiccional]{.smallcaps}**
 
 En el capítulo anterior se explicaron algunos de los aspectos que
 relacionaban la clemencia con el gobierno de la virtud.
