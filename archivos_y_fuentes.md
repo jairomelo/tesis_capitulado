@@ -62,12 +62,16 @@ Corral. Barcelona: Jaime Molinas, 1889-1895.
 Asso, Ignacio Jordán de. *Instituciones del derecho civil de Castilla*
 \[1771\]*.* Edición cuarta. Madrid: Imprenta de Andrés de Sotos, 1786.
 
+Bodin, Jean. *Los seis libros de la república*. Traducción de Gaspar de
+Añastro Isunza. Turín: por los herederos de Bevilaqua, 1590.
+
 Castillo de Bovadilla, Jerónimo. *Política para corregidores y señores
 de vasallos* \[1ª ed. 1597\]. Reimpresión de la edición de 1690. Madrid:
 imprenta de la Gazeta, 1775.
 
-Caussin, Nicolas. *La corte santa*. trad. Pedro González de Godoy,
-quinta impresión. Barcelona: imprenta de Juan Pablo y Juan Marti, 1718.
+Caussin, Nicolas. *La corte santa*. Traducción de Pedro González de
+Godoy, quinta impresión. Barcelona: imprenta de Juan Pablo y Juan Marti,
+1718.
 
 Erasmus, Desiderius. *Institutio Principis Christiani* \[1516\].
 Basilea: Froben, 1519.
@@ -89,22 +93,25 @@ López de Cuéllar, Juan. *Tratado iuridico, político, práctica de
 indultos conforme a las leyes, y ordenanças reales de Castilla, y de
 Navarra*. Pamplona: por Martín Gregorio de Zabala, 1690.
 
-Mastrillo, Garsia. *Ad indultum generale comentarius catholici Phillippi
-III*. Palermo: Apud Franciscum Ciottum Venetum, 1616.
-
 Mariana, Juan de. *La dignidad real y la educación del rey (De rege et
 regis institutione)* \[1599\]. Editado por Luis Sánchez Agesta.
 Colección Clásicos políticos. Madrid: Centro de Estudios
 Constitucionales, 1981.
+
+Mastrillo, Garsia. *Ad indultum generale comentarius catholici Phillippi
+III*. Palermo: Apud Franciscum Ciottum Venetum, 1616.
+
+Matheu y Sanz, Lorenzo. *Tractatus de re criminali*. Lyon: apud
+Anissonios, Posuel et Rigaud, 1686.
+
+Mendo, Andrés. *Principe perfecto y ministros ajustados, documentos
+políticos y morales.* Lyon: Horacio de Boissat y George Remeus, 1692.
 
 Murillo Velarde, Pedro. *Cursus iuris canonici, hispani et indici*.
 Editio tertia. Madrid: Tipografía de Ulloa y Ramón Ruiz, 1791.
 Traducción española por Alberto Carrillo Cázares (coord.) *Curso de
 derecho canónico hispano e indiano*. 4 vol. Zamora, Mich.: El Colegio de
 Michoacán, Facultad de derecho UNAM, 2004.
-
-Mendo, Andrés. *Principe perfecto y ministros ajustados, documentos
-políticos y morales.* Lyon: Horacio de Boissat y George Remeus, 1692.
 
 Nieremberg, Juan Eusebio. *Obras y días. Manual de señores y príncipes*.
 Madrid: por la viuda de Alonso Martin, 1629.
