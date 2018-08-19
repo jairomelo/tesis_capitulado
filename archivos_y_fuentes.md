@@ -53,6 +53,11 @@ de la lengua*. Madrid: imprenta de Francisco del Hierro, 1726-1739.
 glosadas por el Licenciado Gregorio Lopez*. Salamanca: Andres de
 Portonaris, 1555.
 
+*Nueva Recopilación de las Leyes destos Reynos*. Alcalá de Henares: casa
+de Juan Iñiguez de Liquerica, 1681.
+
+*Recopilación de las leyes de los reinos de las Indias*.
+
 *Corpus Iuris Civilis*. *Digesto y Código de Justiniano.* Edición
 facsímil por editorial Lex Nova de 1989. Trad. Ildefonso L. García del
 Corral. Barcelona: Jaime Molinas, 1889-1895.
@@ -72,6 +77,10 @@ imprenta de la Gazeta, 1775.
 Caussin, Nicolas. *La corte santa*. Traducción de Pedro González de
 Godoy, quinta impresión. Barcelona: imprenta de Juan Pablo y Juan Marti,
 1718.
+
+Elizondo, Francisco Antonio de. *Práctica universal forense de los
+tribunales de España y de las Indias*. 8 tomos. Madrid: Joaquín Ibarra,
+1783-1788.
 
 Erasmus, Desiderius. *Institutio Principis Christiani* \[1516\].
 Basilea: Froben, 1519.
@@ -122,6 +131,10 @@ Juan Mommarte, 1664.
 Núñez de Toledo, Hernán. *Glosa sobre las trezientas del famoso poeta
 Juan de Mena*. Sevilla: Iuan Varela, 1528.
 
+Palafox y Mendoza, Juan de. *Historia Real Sagrada, luz de príncipes y
+súbditos* \[1643\]. Segunda impresión corregida y aumentada. Bruselas:
+casa de Francesco Foppens, 1655.
+
 Ribadeneyra, Pedro de. *Tratado de la religión y virtudes que deve tener
 el Príncipe Christiano, para governar y conservar sus estados*. Amberes:
 Imprenta plantiniana, 1597.
@@ -141,6 +154,9 @@ la Gazeta, 1776.
 Villarroel, Gaspar de. *Govierno eclesiástico-pacífico y unión de los
 dos cuchillos pontificio y regio* \[1656\]. Reimpresión. Madrid: oficina
 de Antonio Marín, 1738.
+
+Vizcaíno, Vicente. *Código y práctica criminal, arreglado a las leyes de
+España*. Madrid: Imprenta de la viuda de Ibarra, 1797.
 
 Recursos digitales
 ------------------
