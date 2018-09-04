@@ -26,17 +26,14 @@ Archivos
 
 Audiencia de Caracas, 418
 
+Audiencia de Quito, 398
+
 **Archivo Histórico Nacional (Madrid)**
 
 Estado, 3092
 
 Fuentes primarias publicadas
 ----------------------------
-
-Jovellanos, Gaspar Melchor de. "Informe de la Real Sala de Alcaldes al
-Consejo de Castilla, sobre indultos generales \[1779\]". En *Obras del
-excelentisimo señor D. Gaspar Melchor de Jovellanos*, VII:20--28.
-Barcelona: Imprenta de Francisco Oliva, 1840.
 
 *Diccionario de la lengua castellana compuesto por la Real Academia
 Española reducido á un tomo para su mas fácil uso*. Madrid: Joaquín
@@ -47,22 +44,46 @@ sentido de las voces, su naturaleza y calidad, con las phrases o modos
 de hablar, los proverbios o refranes, y otras cosas convenientes al uso
 de la lengua*. Madrid: imprenta de Francisco del Hierro, 1726-1739.
 
+Ayala, Manuel José de. *Diccionario de gobierno y legislación de
+Indias*. Editado por Milagros del Vas Mingo. 13 vols. Madrid: Instituto
+de Cooperación Iberoamericana : Ediciones de Cultura Hispánica, 1988.
+
+Escriche, Joaquín. *Diccionario razonado de legislación y
+jurisprudencia*. Nueva edición reformada y aumentada por León Galindo y
+José Vicente y Caravantes. Madrid: Imprenta de Eduardo Cuesta, 1874.
+
+Jovellanos, Gaspar Melchor de. "Informe de la Real Sala de Alcaldes al
+Consejo de Castilla, sobre indultos generales \[1779\]". En *Obras del
+excelentisimo señor D. Gaspar Melchor de Jovellanos*, VII:20--28.
+Barcelona: Imprenta de Francisco Oliva, 1840.
+
 ### Legislación
-
-*Las Siete Partidas del Sabio Rey don Alonso el nono \[sic\] nuevamente
-glosadas por el Licenciado Gregorio Lopez*. Salamanca: Andres de
-Portonaris, 1555.
-
-*Nueva Recopilación de las Leyes destos Reynos*. Alcalá de Henares: casa
-de Juan Iñiguez de Liquerica, 1681.
-
-*Recopilación de las leyes de los reinos de las Indias*.
 
 *Corpus Iuris Civilis*. *Digesto y Código de Justiniano.* Edición
 facsímil por editorial Lex Nova de 1989. Trad. Ildefonso L. García del
 Corral. Barcelona: Jaime Molinas, 1889-1895.
 
+*Las Siete Partidas del Sabio Rey don Alonso el nono \[sic\] nuevamente
+glosadas por el Licenciado Gregorio Lopez*. Salamanca: Andres de
+Portonaris, 1555.
+
+*Novísima Recopilación de las leyes de España*. Madrid: \[s.n.\], 1805.
+
+*Nueva Recopilación de las Leyes destos Reynos*. Alcalá de Henares: casa
+de Juan Iñiguez de Liquerica, 1681.
+
+*Ordenanzas reales de Castilla*. Recopiladas y compuestas por Alonso
+Díaz de Montalvo. Glosadas por Diego Pérez de Salamanca. Madrid:
+Imprenta de Josef Doblado, 1779.
+
+*Recopilación de las leyes de los reinos de las Indias*. Madrid: por
+Julián de Paredes, 1681.
+
 ### Doctrina
+
+Álvarez de Velasco, Gabriel. *De privilegiis pauperum, et miserabilium
+personarum*. Segunda edición. Lyon: Sumptibus Horatii Boissat et Georgii
+Remeus, 1663.
 
 Asso, Ignacio Jordán de. *Instituciones del derecho civil de Castilla*
 \[1771\]*.* Edición cuarta. Madrid: Imprenta de Andrés de Sotos, 1786.
@@ -96,7 +117,7 @@ Madrid: por Ramón Ruiz en la imprenta de Ulloa, 1790.
 
 Kempis, Tomás de. *De la imitación de Cristo ó menosprecio del mundo*
 \[1ª ed. latina 1418\]. Traducción de Luis de Granada. Madrid: por la
-viuda de Barco Lopez, 1817.
+viuda de Barco López, 1817.
 
 López de Cuéllar, Juan. *Tratado iuridico, político, práctica de
 indultos conforme a las leyes, y ordenanças reales de Castilla, y de

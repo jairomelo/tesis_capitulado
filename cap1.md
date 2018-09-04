@@ -587,9 +587,12 @@ Bovadilla:
 Desde esta perspectiva se pretende desambiguar, hasta cierto punto, la
 compleja polisemia de términos que dependiendo del contexto de
 enunciación pueden confundirse, verbigracia la gracia, clemencia,
-misericordia, bondad, perdón e indulto. Para iniciar el análisis de la
-clemencia, es relevante la definición construida en el *Diccionario de
-autoridades* de 1726, la cual rezaba:
+misericordia, bondad, perdón e indulto.
+
+### El perdón como resultado de la clemencia
+
+Para iniciar el análisis de la clemencia, es relevante la definición
+construida en el *Diccionario de autoridades* de 1726, la cual rezaba:
 
 > CLEMENCIA s. f. Es, segun Séneca, Blandúra y templanza del ánimo en el
 > Príncipe, ò en el Superiór que tiene potestad de tomar venganza y de
@@ -615,70 +618,52 @@ utilizadas para mostrar el uso correcto de la palabra,[^91] remiten a la
 estructura lógica de la clemencia: es atribución del príncipe, se usa
 para ganar el amor de los súbditos, y su exceso conlleva al desorden.
 
-Aunque son términos que pueden considerarse equivalentes, la taxonomía
-de las virtudes diferenciaba la clemencia de la misericordia. La primera
-se relacionaba con la superioridad y venganza, en tanto la segunda
-implicaba compasión y piedad.[^92] Ambas fueron fundamentales en el
-ejercicio del indulto, ya que podían incluir en ésta figura no sólo a
-aquellos que fueran justamente castigados, sino que además fueran dignos
-de misericordia, es decir, las personas que por su pobreza, indefensión,
-enfermedad o ignorancia se incluían en la calidad de miserables,[^93]
-que en el orden indiano representaban a la importante población nativa
-asociada a esa condición.[^94] Solórzano Pereyra aconsejaba que a los
-indios les fueran moderadas las penas y que los jueces en las penas
-corporales "usen más de oficio de padres que de jueces severos hasta que
-\[los indios\] se hallen más capaces de razón y más arraigada en la fe
-esta pobre gente."[^95] La misericordia con los miserables no debía
-desembocar en injusticia, como indicaba Castillo de Bovadilla; es decir,
-se debía evitar que al resolver las causas a favor de éstos se causara
-injuria a otras personas o corporaciones.[^96]
-
 El perdón era un resultado de la clemencia, propia del príncipe, quien
 era el único facultado en esencia para poder hacer la remisión de la
-pena que en justicia se había aplicado,[^97] lo cual no excluía que el
+pena que en justicia se había aplicado,[^92] lo cual no excluía que el
 rey o sus jueces superiores demostrasen misericordia, ya que era
 finalmente una expresión de la compasión con sus súbditos oprimidos por
 el peso de sus crímenes. Gregorio López citaba el libro de *Proverbia*
 para indicar que la misericordia y la clemencia eran los sustentos del
 trono: "La misericordia y la verdad custodian al rey, y la clemencia es
-la fortaleza del trono."[^98] La misericordia se entiende en su sentido
+la fortaleza del trono."[^93] La misericordia se entiende en su sentido
 amplio como un sentimiento virtuoso del monarca justo, pero es virtud
 precisamente porque la ejerce el soberano con magnificencia hacia los
-súbditos.[^99] Lo anterior fue destacado por Garsia Mastrillo en su
+súbditos.[^94] Lo anterior fue destacado por Garsia Mastrillo en su
 afamado tratado *Ad indultum generale* al afirmar que "la clemencia es
 la manera como la divinidad adorna al Príncipe y asegura su excelencia,
 constituye modelo e imitación del mismo Dios en la observancia de los
 súbditos, une el amor a la seguridad y es un medio eficacísimo para
-constreñir a los malvados."[^100] Sin embargo, se diferencia de la
+constreñir a los malvados."[^95] Sin embargo, se diferencia de la
 mansedumbre, que se relaciona con la moderación de la ira, por lo cual
-la comparten los señores y los vasallos.[^101] Según Santo Tomás, la
+la comparten los señores y los vasallos.[^96] Según Santo Tomás, la
 clemencia y la mansedumbre coincidían en ser virtudes que acercaban al
 cristiano a Dios puesto que lo alejaban de la iracundia y la venganza,
 pero no eran equiparables en excelencia a virtudes como la misericordia,
 la piedad, la prudencia o la justicia, probidades que acercaba al bien
-en lugar de sólo alejar del mal.[^102] La diferencia se enmarca en que
+en lugar de sólo alejar del mal.[^97] La diferencia se enmarca en que
 clemencia sólo la podría ejercer alguien en cuyas manos estuviese hacer
 cumplir el castigo, y por ende tendría la potestad de moderar el
 sufrimiento del delincuente; como afirmaba Séneca, "todos los hombres
 comprenden que la clemencia consiste en acortar la penalidad que podría
-infligirse con justicia."[^103]
+infligirse con justicia."[^98]
 
-El porqué de la clemencia puede sintetizarse con la siguiente sentencia
-de Saavedra Fajardo: "si a todos los que excediesen se uviese de
-castigar, no auria aquien mandar, porque apenas ai hombre tan justo, que
-no aya merecido la muerte."[^104] A diferencia del derecho
+La razón de ser de la clemencia puede sintetizarse con la siguiente
+sentencia de Saavedra Fajardo: "si a todos los que excediesen se uviese
+de castigar, no auria aquien mandar, porque apenas ai hombre tan justo,
+que no aya merecido la muerte."[^99] A diferencia del derecho
 contemporáneo, la justicia penal de antiguo régimen no partía de los
 principios de *in dubio pro reo* o de la presunción de inocencia; al
 contrario, como explicó Francisco Tomás y Valiente, "el principio
 inherente al sistema procesal-penal inquisitivo era éste: en la duda,
-condena a pena arbitraria."[^105] Se comprendía que la humanidad había
-sido condenada desde su origen por el pecado de Adán,[^106] por lo cual
+condena a pena arbitraria."[^100] Se comprendía que la humanidad había
+sido condenada desde su origen por el pecado de Adán,[^101] por lo cual
 era imposible encontrar un "hombre justo" de quien se pudiera presumir
 estaba libre de culpa. Los indicios eran suficientes para que el juez
 usara su arbitrio y estipulara una pena ordinaria, aunque sólo se
 hubiese demostrado la "semiculpabilidad" del reo, es decir, cuando a
 pesar de haber seguido el proceso inquisitorial persistía la duda de su
-actuación delictiva.[^107]
+actuación delictiva.[^102]
 
 En términos del derecho, no había ningún impedimento para que el juez
 actuara con el mayor rigor permitido y aplicara las penas ordinarias al
@@ -688,14 +673,14 @@ libre de cohecho o baratería. La clemencia no formaba parte del derecho
 ni del gobierno, se insertaba en la actuación judicial a través de la
 retórica y la ética. La doctrina y la normatividad aconsejaban al juez a
 actuar con misericordia, pues se concebía que la benevolencia y la
-piedad prevalecía sobre la severidad.[^108] Se partía de la premisa de
+piedad prevalecía sobre la severidad.[^103] Se partía de la premisa de
 que la paz de las repúblicas se podría mantener mejor con actos de
 clemencia que de fuerza; así lo planteaba Guardiola y Sáez por ejemplo,
-quien en *El corregidor perfecto* afirmó: "dice Dios por S. Matheo[^109]
+quien en *El corregidor perfecto* afirmó: "dice Dios por S. Matheo[^104]
 que quiere mas la misericordia, que el sacrificio. Y á la verdad,
 siempre ha sido necesario usar de ella en el gobierno de la República;
 porque el sumo rigor hace perder el sufrimiento; al contrario, la
-clemencia reduce los ánimos á buenos pensamientos."[^110]
+clemencia reduce los ánimos á buenos pensamientos."[^105]
 
 El uso de la clemencia presuponía la excepcionalidad, aunque en la
 práctica se transformara en convención, ya que implicaba que el reo
@@ -703,50 +688,50 @@ fuese castigado previamente de manera justa. Erasmo aclaraba, por
 ejemplo, que aunque a los criminales debería quedarles la esperanza de
 recibir el perdón, sólo podrían alcanzarlo en caso de que fuesen capaces
 de reformarse, o de modo más literal, "si fueran en alguna medida
-curables."[^111] La clemencia tendría la función de compensar el rigor,
+curables."[^106] La clemencia tendría la función de compensar el rigor,
 en otro sentido, de minorar la pena ajustada a la ley común. Aunque
 desde esta perspectiva el perdón estaría cercano a la epiqueya, se
 diferencia de ésta en cuanto no se aparta de la intención del legislador
 (texto de la ley), sino que modera la aplicación de la pena buscando
-aquélla más benigna.[^112]
+aquélla más benigna.[^107]
 
 La clemencia podía buscar la equidad cuando la aplicación a rajatabla de
 la ley excedía los niveles que la prudencia aconsejaba como justos. La
-idea de la *manlia imperia*[^113] consideraba que caía en crueldad aquel
+idea de la *manlia imperia*[^108] consideraba que caía en crueldad aquel
 que aplicaba de la manera más estricta las leyes sin atender a ningún
-atenuante, idea que se sintetizaba en el adagio *summum ius summa
-iniuria*, que según Cicerón escondía en la supuesta aplicación rigurosa
-de la ley una interpretación maliciosa del juez[^114]. Castillo de
-Bovadilla advertía que "por causa del mucho rigor pueden los Jueces ser
-privados de los Oficios,"[^115] y lo complementó afirmando: "porque con
-violencia no puede ser estable el gobierno seglar; y la sujeción por
-fuerza suele acarrear libertad: porque, como dixo Cicerón, muy mal
-conserva la perpetuidad el miedo, para lo qual es fiel la
-benevolencia."[^116] Esto, según Bovadilla, lo enseñaban "las
-historias", la experiencia del imperio romano y en particular de los
-reyes de España, "que han tenido por costumbre gobernar antes con amor,
-que con miedo: á cuya imitación deben los Corregidores, nombrados por
-ellos, proceder de la misma manera."[^117]
+atenuante, lo que se sintetizaba en el adagio *summum ius summa
+iniuria*, que, según Cicerón, escondía una interpretación maliciosa del
+juez en la aplicación rigurosa de la ley.[^109] Castillo de Bovadilla
+advertía que "por causa del mucho rigor pueden los Jueces ser privados
+de los Oficios,"[^110] y lo complementó afirmando: "porque con violencia
+no puede ser estable el gobierno seglar; y la sujeción por fuerza suele
+acarrear libertad: porque, como dixo Cicerón, muy mal conserva la
+perpetuidad el miedo, para lo qual es fiel la benevolencia."[^111] Esto,
+según Bovadilla, lo enseñaban "las historias", la experiencia del
+imperio romano y en particular de los reyes de España, "que han tenido
+por costumbre gobernar antes con amor, que con miedo: á cuya imitación
+deben los Corregidores, nombrados por ellos, proceder de la misma
+manera."[^112]
 
 Para que fuese justa, la clemencia debía ajustarse a la razón y
-otorgarse sobre todo al necesitado o al penitente.[^118] En este
+otorgarse sobre todo al necesitado o al penitente.[^113] En este
 sentido, aunque fuese una preciosa virtud del príncipe, su uso debía
 estar prevenido por la prudencia. El perdón excesivo traería como
-consecuencia inevitable el incremento de los delitos,[^119] ya que la
+consecuencia inevitable el incremento de los delitos,[^114] ya que la
 lógica punitiva de la tradición jurídica de occidente concebía el
 castigo no en términos de restitución del daño, sino como una estrategia
-para la prevención de los futuros crímenes.[^120] La justicia penal
+para la prevención de los futuros crímenes.[^115] La justicia penal
 partía del principio de que si los hombres se gobernaran de acuerdo a la
 ley natural, divina y humana, no sería necesario la imposición de las
 penas; mas siendo lo contrario, fue necesario imponer castigos porque
-"donde no convence el amor, restrinja el temor."[^121] En este sentido,
+"donde no convence el amor, restrinja el temor."[^116] En este sentido,
 el exceso de clemencia se opondría a la justicia y se equipararía a la
-crueldad y la tiranía,[^122] ya que provendría de la idea vulgar según
+crueldad y la tiranía,[^117] ya que provendría de la idea vulgar según
 la cual, acorde con Feijoo, se consideraba que los magistrados debían
 moverse a la clemencia por "los ruegos de los amigos, las lágrimas de
 los reos, los clamores de sus huerfanas familias, y la blandura del
 proprio genio, para mitigar la pena que corresponde segun las
-leyes."[^123]
+leyes."[^118]
 
 El hacer uso irracional de esta regalía, aunque no conllevaba una
 condena terrenal puesto que el legislador no podía castigarse a sí
@@ -754,83 +739,70 @@ mismo, tendría el riesgo de que la retribución le fuera requerida ante
 el juicio divino. Así lo dejó expreso López de Cuéllar cuando le
 advirtió al príncipe que esta regalía no era absoluta, y que debería ser
 ejercida con justa causa "si quiere que en aquel tremendo, ultimo dia,
-no se le numeren por culpas las gracias."[^124] Según Andrés Mendo,
+no se le numeren por culpas las gracias."[^119] Según Andrés Mendo,
 perdonar a los culpados de delitos graves no era piedad sino "clemencia
 cruel", aplicar todo el rigor de la pena no debía ser temor de los
 príncipes porque "no puede haber justicia, donde no ay castigo; daña mas
-en culpas graves la disimulacion, que la severidad"[^125]. La clemencia
+en culpas graves la disimulacion, que la severidad"[^120]. La clemencia
 entonces no sólo se refería a la reducción del sufrimiento de los
 condenados, adquiría el sentido de castigo cuando debía garantizar la
 paz y tranquilidad de los vasallos mediante el castigo de los
 delincuentes. Andrés Mendo diría que "el rigor con poco es la piedad
 para muchos; pues quedan libres de daños los mas, quando son castigados
 los delinquentes, que son los menos; y padecen todos, quando no padecen
-á manos de la justicia algunos"[^126]. La clemencia por lo tanto no
+á manos de la justicia algunos"[^121]. La clemencia por lo tanto no
 significaba oposición al castigo o la severidad, porque ambas acciones
 exigían la recta razón para su ejecución y, según Santo Tomás, no se
-contradicen porque no tienen el mismo objeto.[^127]
+contradicen porque no tienen el mismo objeto.[^122]
 
-Se consideraba que la clemencia era una virtud que moderaba la
-indulgencia, la cual a su vez era entendida como la facilidad para
-conceder perdones y gracias.[^128] El perdón, aunque deriva de una
-virtud particular, se puede considerar como ubicado en la "esfera de la
-gracia."[^129] Esta idea tuvo fuerza de derecho desde Alfonso X cuando
-dejó consignado en una ley de partida que el perdonar era el resultado
-de la misericordia, la merced y la gracia; por la primera lo hacía por
-"piedad que ha de sus hijos", la segunda por "merescimiento de servicio"
-y por último decía que "la gracia non es perdonamiento, mas es don que
-faze el Rey a algunos que con derecho se puede escusar de lo fazer, si
-quisiere."[^130] La relación gracia-perdón debe entenderse, según
-interpreta Rodríguez Flores, con el sentido de que la primera "no se
-agota en el perdón", es decir, que la remisión de la pena es sólo una de
-las manifestaciones de la donación real.[^131]
+### El perdón como gracia
 
 La gracia puede comprenderse como una acción que, aunque tenía efecto
 judicial y seguía formas procesales (instancias de parte, procesos,
 escrutinios, expedientes), no "estaba sujeta a regla de derecho ni a
-control de justicia."[^132] En este sentido trascendía los límites
+control de justicia."[^123] En este sentido trascendía los límites
 ordinarios de la justicia y el gobierno, pero lo hacían con la finalidad
-de sublimar el orden.[^133] Siguiendo las enseñanzas de dios, y como su
+de sublimar el orden.[^124] Siguiendo las enseñanzas de dios, y como su
 vicario en la tierra, el rey imitaba la gracia divina, replicaba el
 favor o don gratuito dado por dios a los hombres con el propósito de
 premiar el seguimiento de sus mandamientos y a la vez llevarlos a la
-salvación.[^134] El rey hacía eco de la divinidad al demostrar su amor,
+salvación.[^125] El rey hacía eco de la divinidad al demostrar su amor,
 beneficio y liberalidad, a través de las dispensas graciosas, brindando
 a sus vasallos premios, mercedes, títulos, oficios y, entre otros
 beneficios, perdones generales y particulares; con los cuales se
 esperaba, sin necesidad de contrato u obligación, el atraerlos a la
-lealtad y la defensa de la monarquía.[^135] El rey podía ejercer estos
+lealtad y la defensa de la monarquía.[^126] El rey podía ejercer estos
 actos porque se asumía como surgidos de su voluntad, del agradecimiento
 por los favores hechos por alguien a la monarquía, o por el simple hecho
-de demostrar la liberalidad de la corona.[^136] Sin embargo, como lo ha
+de demostrar la liberalidad de la corona.[^127] Sin embargo, como lo ha
 mostrado Bartolomé Clavero, aunque la gracia se consideraba como una
 donación, no por ello era un favor gratuito; las "gracias al sacar" se
 podrían entender como acciones de "liberalidad y largueza",
 contraprestaciones de la corona a alguien que hacía un donativo a las
 cajas reales en tiempos de necesidad, lo cual no implicaba
-necesariamente un acto de venalidad o corrupción.[^137]
+necesariamente un acto de venalidad o corrupción.[^128]
 
 Aunque el ideal de la venta de la gracia representase una práctica de
 donación y contradonación, en la práctica el abuso de esta prerrogativa
-trascendía dicha relación virtuosa entre la corona y sus vasallos.[^138]
+trascendía dicha relación virtuosa entre la corona y sus vasallos.[^129]
 El exceso de gracia, como lo identificaron los hombres de la época, no
 replicaba en el bien de la monarquía sino en su decadencia. La venalidad
 era efecto de una práctica graciosa que se convirtió en regla antes que
 excepción; sin refutar su origen volitivo, la venta de cargos redundó en
 corrupción, en redes clientelares con la suficiente fortaleza para
-influenciar el gobierno de la monarquía en su beneficio.[^139] En este
+influenciar el gobierno de la monarquía en su beneficio.[^130] En este
 sentido, la amplia historiografía generada en las últimas décadas en
 torno al problema de la venalidad y la corrupción expone el contrapunto
 al funcionamiento ordenado de la gracia y los efectos adversos que tuvo
-el abuso de dicha regalía.[^140] Un patrón similar, aunque con
+el abuso de dicha regalía.[^131] Un patrón similar, aunque con
 diferentes consecuencias, se presentó con los denominados perdones "al
 sacar", práctica común en los reinos españoles de Europa durante los
 reinados de Felipe III y IV que buscaba, en compañía de otras
-estrategias, paliar la crisis financiera de la monarquía.[^141] En
+estrategias, paliar la crisis financiera de la monarquía.[^132] En
 Indias, la venta de indultos al parecer no gozó del mismo impulso que la
 venalidad, como lo señala Tamar Herzog para el caso quiteño, si los
 perdones al sacar fueron practicados no quedaron huellas en los
-autos.[^142] Como se intentará demostrar en un capítulo posterior, hay
+autos.[^133] Como se intentará demostrar en un capítulo posterior, hay
 evidencia de dicha práctica en ciertos indultos particulares concedidos
 por los virreyes del Nuevo Reino de Granada, aunque se realizaban de
 manera excepcional y con cierto disimulo.
@@ -849,11 +821,11 @@ de la doctrina de la justa causa, con el propósito de alterar el
 ejercicio del derecho, de tal manera que se permitiese conservar el
 orden de la república. Esta función armonizadora de la gracia
 representaba una "realización de la justicia" mediante la acción, al
-margen del derecho que redundaba en la utilidad pública.[^143]
+margen del derecho que redundaba en la utilidad pública.[^134]
 
 El efecto de la gracia y la clemencia se suponía irrevocable, sin
 embargo, la concesión podía revertirse si el beneficiario actuaba contra
-el rey.[^144] Volviendo al caso que sirvió como introducción a este
+el rey.[^135] Volviendo al caso que sirvió como introducción a este
 capítulo, la decisión del rey de no ejercer el inmediato castigo de los
 sublevados, a pesar de su descontento y no ratificación del perdón,
 indicaría el deseo por mantener la legitimidad de la gracia concedida a
@@ -868,12 +840,12 @@ mantenelle, no dandose despues por entendido de las ofensas recibidas,
 porque obligaria à mayores conjuras \[...\] Si bien despues, quando
 incurrieren en algun delito, se puede usar con ellos de todo el rigor de
 la Lei, para tenellos enfrentados, i que no abusen de la benignidad
-recibida."[^145] A esto se asociaba además el criterio del juramento y
+recibida."[^136] A esto se asociaba además el criterio del juramento y
 la promesa; nuevamente Saavedra, a través de referencias bíblicas,
 advertía a los príncipes: "Lo que se promete, i no se cumple lo recibe
 por afrenta el Superior, por injusticia el Igual, i por tyrania el
 Inferior. I asi es menester, que la lengua no se arròje a ofrezer lo que
-no sabe, que puede cumplir."[^146]
+no sabe, que puede cumplir."[^137]
 
 Una interpretación contrafactual de los posibles efectos de retirar el
 perdón en la tropa sublevada puede ser analíticamente débil, sin
@@ -890,11 +862,11 @@ el caso presente los Ministros del Real Acuerdo obraron con facultades
 en la publicacion y prometimiento pues que no lo habrian echo á no
 tenerlas muy lexitimas por no ser menos temibles y peligrosas, segun el
 politico Don Diego Sabedra, las conseqüencias de faltarse á los perdones
-prometidos que prometerlos banamente ó sin autoridad para ello."[^147]
+prometidos que prometerlos banamente ó sin autoridad para ello."[^138]
 En 1802 el Consejo de Indias resolvió que Goenaga y otros que se
 acogieron al indulto estaban comprendidos por el perdón real, quedando
 en libertad con la condición de no regresar a los reinos de Indias ni
-recaer en otra conspiración.[^148] Finalmente, la palabra real, al menos
+recaer en otra conspiración.[^139] Finalmente, la palabra real, al menos
 por la vía de Consejo, mantuvo intacta su autoridad.
 
 [^1]: Juan Marchena Fernández, "Sin temor de rey ni de dios. Violencia,
@@ -1154,7 +1126,7 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     Sotos, 1786), Lib. III, tit. I, 260. Asso sintetiza lo dicho en Juan
     de Hevia Bolaños, *Curia Philipica* \[1603\], nueva impresión,
     (Madrid: por Ramón Ruiz en la imprenta de Ulloa, 1790), tomo I,
-    part. I, § IV, núm. 2.
+    parte I, § IV, núm. 2.
 
 [^53]: Un aspecto fundamental en la teoría de Costa es la definición del
     *processo del potere*: \"Chiamiamo processo del potere la dinamica
@@ -1381,58 +1353,18 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     primer diccionario de la Real Academia Española" (Tesis doctoral,
     Universitat Autònoma de Barcelona, 2003), cap. VI y Anexo IV.
 
-[^92]: Es esclarecedora la definición de la voz misericordia brindada
-    por el *Diccionario de autoridades*: "Virtud, que aficiona y inclina
-    al ánimo, para que se duela y compadezca de los trabajos y miserias
-    ajenas."
-
-[^93]: Al respecto, Guardiola y Sáez resaltaba que la conducta de los
-    jueces era inapropiada cuando se trataba con mansedumbre a los ricos
-    y con rigor a los pobres. Y citaba a Castillo de Bovadilla, para
-    resaltar que en casos iguales o dudosos debía favorecerse a las
-    personas pobres y miserables. *El corregidor perfecto*, Segunda
-    impresión corregida y aumentada (Madrid: imprenta real, 1796), parte
-    I, §III, núm. 16.
-
-[^94]: Barrientos Grandon, *El gobierno de las Indias*, 249. Aunque el
-    término de las personas miserables era ampliamente utilizado en la
-    tradición jurídica castellana, no existía una definición que
-    permitiera determinar con precisión quién estaba incluido o excluido
-    en dicha categoría. Según las etimologías de San Isidoro una persona
-    miserable podía ser todo aquel sujeto a miserias (*miseriæ habilem*)
-    o aquel caído en desgracia (*fælicitatem amittens*), con lo cual
-    prácticamente cualquiera podía apelar su condición digna de
-    compasión. La multitud de doctrina producida al respecto no habría
-    facilitado el declarar quién era indubitablemente privilegiado por
-    su miseria, por lo que en todo caso sería el juez el encargado de
-    determinar con su arbitrio si aquel que comparecía en juicio era o
-    no merecedor del privilegio; aunque en el caso de los ciegos,
-    leprosos, baldados, las viudas o con maridos inútiles, los pobres
-    comprobados y los indios existía un consenso relativo a su condición
-    lamentable. Gaspar de Villarroel, *Govierno eclesiástico-pacífico y
-    unión de los dos cuchillos pontificio y regio*, reimpresión (Madrid:
-    oficina de Antonio Marín, 1738), parte II, quest. XIV, art. III.
-
-[^95]: Juan Solórzano Pereyra, *Política indiana*, edición corregida y
-    anotada por Francisco Ramiro de Valenzuela (Madrid: imprenta Real de
-    la Gazeta, 1776), lib. II, cap. XXVIII, núm. 28.
-
-[^96]: De la misma manera, en el caso de los delitos graves realizados
-    con malicia se hacían indignos de templanza y benignidad en la pena.
-    Solórzano Pereyra, lib. II, cap. XXVIII, núm. 31.
-
-[^97]: Castillo de Bovadilla, *Política para corregidores*, Lib. II,
+[^92]: Castillo de Bovadilla, *Política para corregidores*, Lib. II,
     cap. II, núm. 63-64.
 
-[^98]: "*Misericordia, et veritas, custodiunt Regem, et roboratur
-    clementia thronus illius.*" Gregorio López, glosa "Los Reyes" a *Las
-    Siete Partidas*, P. III, tít. 24, proemio. La cita bíblica es tomada
-    de Prov. 20:28. También es usada por Santo Tomás en "Summa
-    Theologiae," IIª-IIae, q. 157 a. 4 arg. 2 y es citada por Juan López
-    de Cuéllar, *Tratado iuridico-politico*, núm. 26, "Y á quien deben
-    los Soberanos su mayor defensa, y la duración de sus monarquías."
+[^93]: "*Misericordia, et veritas, custodiunt Regem, et roboratur
+    clementia thronus illius.*" Gregorio López, glosa "Los Reyes" a
+    *Partidas*, P. III, tít. 24, proemio. La cita bíblica es tomada de
+    Prov. 20:28. También es usada por Santo Tomás en "Summa Theologiae,"
+    IIª-IIae, q. 157 a. 4 arg. 2 y es citada por Juan López de Cuéllar,
+    *Tratado iuridico-politico*, núm. 26, "Y á quien deben los Soberanos
+    su mayor defensa, y la duración de sus monarquías."
 
-[^99]: "Misericordia, secundum August. 9. de Civitate Dei, est alienæ
+[^94]: "Misericordia, secundum August. 9. de Civitate Dei, est alienæ
     miseriæ in nostro corde compassio, qua utique, si possemus,
     subvenire compellimur.\" (Misericordia, según San Agustín, lib. 9 de
     civitate dei, es la compasión en nuestro corazón por los males
@@ -1440,14 +1372,14 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     Gregorio López, glosa "Misericordia es" a *Partidas*, P. III, tít.
     24, proemio.
 
-[^100]: "Clementiam itaque Princeps quodammodo divinitatem decorem, ac
+[^95]: "Clementiam itaque Princeps quodammodo divinitatem decorem, ac
     pulchritudinem assequitur, in exemplat ad imitandum sibi Deum
     constituit, subditorum observantiam, & amorem sibi conciliat,
     securitatem sibi parat, médium efficacissimum ad prohibitendum mala
     sibi comparat." Garsia Mastrillo, *Ad indultum generale* (Palermo:
     Apud Franciscum Ciottum Venetum, 1616), prohemium.
 
-[^101]: "*clementia est lenitas superioris adversus inferiorem.
+[^96]: "*clementia est lenitas superioris adversus inferiorem.
     Mansuetudo autem non solum est superioris ad inferiorem, sed
     cuiuslibet ad quemlibet. Ergo mansuetudo et clementia non sunt
     penitus idem*." ("la clemencia es la benignidad del superior
@@ -1456,7 +1388,7 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     mansedumbre y la clemencia no son en esencia iguales") Santo Tomás,
     "Summa Theologiae," IIª-IIae, q. 157 a. 1 s. c.
 
-[^102]: "Respondo diciendo que nada prohíbe que algunas virtudes no sean
+[^97]: "Respondo diciendo que nada prohíbe que algunas virtudes no sean
     absolutamente las mejores (*potissimas simpliciter*) ni en cuanto al
     todo, sino relativamente y en un género determinado (*sed secundum
     quid et in aliquo genere*). Mas no es posible que la clemencia y la
@@ -1469,47 +1401,47 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     clemencia y la mansedumbre.", Santo Tomás, "Summa Theologiae,"
     IIª-IIae, q. 157 a. 4 co.
 
-[^103]: "Atqui hoc omnes intellegunt clementiam esse, quae se flectit
+[^98]: "Atqui hoc omnes intellegunt clementiam esse, quae se flectit
     citra id, quod merito constitui posset." Séneca, "De clementia," II,
     párr. 3. También Andrés Mendo: "Moderar el rigor ajustado al delito
     es equidad, á que persuade la clemencia; excederle, es crueldad, en
     que degenera la justicia". *Principe perfecto*, Doc. XXXI, "La pena
     se ha de proporcionar a la culpa".
 
-[^104]: Saavedra Fajardo, *Idea de un príncipe político christiano*,
-    emp. 22, lema "præsidia maiestatis". Juan de Mariana también cita a
-    un autor anónimo para decir que "si se hubiesen castigado todas las
+[^99]: Saavedra Fajardo, *Idea de un príncipe político christiano*, emp.
+    22, lema "præsidia maiestatis". Juan de Mariana también cita a un
+    autor anónimo para decir que "si se hubiesen castigado todas las
     faltas cometidas, ya hace tiempo que la humanidad no existiría" (*Si
     peccatis supplicia metiatur, iam pridem genus humanum extinxerit*)
     Mariana, *La dignidad real*, lib. II, cap. XII, p. 235. Cita en
     latín de la edición de Toledo de 1599.
 
-[^105]: Tomás y Valiente, "«In dubio pro reo»", 14. Paz Alonso diría que
+[^100]: Tomás y Valiente, "«In dubio pro reo»", 14. Paz Alonso diría que
     "El proceso era la aventura de la caza del reo, la búsqueda del
     trofeo de su condena". María Paz Alonso Romero, "El proceso penal en
     la Castilla Moderna", *Estudis: Revista de historia moderna*, núm.
     22 (1996): 201.
 
-[^106]: Calderón de la Barca, *El indulto general*, 9--10.
+[^101]: Calderón de la Barca, *El indulto general*, 9--10.
 
-[^107]: Tomás y Valiente, "«In dubio pro reo»", 12--13.
+[^102]: Tomás y Valiente, "«In dubio pro reo»", 12--13.
 
-[^108]: Tomás y Valiente, 12.
+[^103]: Tomás y Valiente, 12.
 
-[^109]: Referencia en el original a tres citas bíblicas: Mt 12:7, Sal
+[^104]: Referencia en el original a tres citas bíblicas: Mt 12:7, Sal
     106, Pr 3:3.
 
-[^110]: Guardiola y Sáez, *El corregidor perfecto*, parte II, § IV, núm.
+[^105]: Guardiola y Sáez, *El corregidor perfecto*, parte II, § IV, núm.
     33.
 
-[^111]: "bonus princeps nulli debet esse formidabilis, nisi sontibus ac
+[^106]: "bonus princeps nulli debet esse formidabilis, nisi sontibus ac
     scelerosis \[sic\], at ita rursus, ut his quoque spes veniæ reliqua
     fiat, si modo fuerint sanabiles." Erasmus, *Institutio*, 33.
 
-[^112]: *Digesto*, Lib. XLVIII, tit. XIX, núm. 11 y 42. "Summa
+[^107]: *Digesto*, Lib. XLVIII, tit. XIX, núm. 11 y 42. "Summa
     Theologiae," IIª-IIae, q. 157 a. 3 arg. 1-3.
 
-[^113]: *Manlia imperia*: entendido como el rigor romano, ejemplificado
+[^108]: *Manlia imperia*: entendido como el rigor romano, ejemplificado
     por la historia narrada por Tito Livio en *Ab urbe condita* \[libro
     VIII, párrafos 7 y 8\] - Tito Manlio, hijo del cónsul Tito Manlio
     Torcuato, desobedeció la regla impuesta por el consejo de guerra
@@ -1531,21 +1463,21 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     Patria de un joven, que daba esperanzas de ser con el tiempo un gran
     Caudillo.\" Feijoo,Teatro, VI, 27, p. 15
 
-[^114]: Cicerón, *De officiis*, Lib. I, núm. 33. "Ley rigurosa",
+[^109]: Cicerón, *De officiis*, Lib. I, núm. 33. "Ley rigurosa",
     Gerónimo Martín Caro y Cejudo, *Refranes y modos de hablar
     castellanos, con los latinos que les corresponden* (Madrid: imprenta
     real, 1792).
 
-[^115]: Castillo de Bovadilla, *Politica para corregidores*, lib. II,
+[^110]: Castillo de Bovadilla, *Politica para corregidores*, lib. II,
     cap. III, núm. 32. La máxima es retomada por Lorenzo Guardiola y
     Sáez, *El corregidor perfecto*, segunda impresión corregida y
     aumentada (Madrid: imprenta real, 1796) parte II, § IV, núm. 33.
 
-[^116]: Castillo de Bovadilla, lib. III, cap. XII, núm. 7.
+[^111]: Castillo de Bovadilla, lib. III, cap. XII, núm. 7.
 
-[^117]: Castillo de Bovadilla, lib. III, cap. XII, núm. 8.
+[^112]: Castillo de Bovadilla, lib. III, cap. XII, núm. 8.
 
-[^118]: "secundum August \[...\] misericordia debet servire rationi, ut
+[^113]: "secundum August \[...\] misericordia debet servire rationi, ut
     ita probetur misericordia, ut conservetur justitia, sive cum
     indigenti tribuitur, sive cum ignoscitur poenitenti." (Según San
     Agustín \[\...\] la misericordia debe servir a la razón, así como la
@@ -1554,13 +1486,13 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     arrepentido.) Gregorio López, glosa "Misericordia" a *Partidas*, P.
     VII, tít. 32, proemio.
 
-[^119]: "severitas legum insolentem restringat audaciam, misericordia
+[^114]: "severitas legum insolentem restringat audaciam, misericordia
     Principum reos subtrahat poenae". (que la severidad de las leyes
     restrinja la audacia de los insolentes y la misericordia de los
     príncipes remueva a los reos de la pena.) Gregorio López, glosa
     "Señaladamente" a P. VII, tít. 32, proemio.
 
-[^120]: "Se entendía por pena la enmienda o coerción, corporal o
+[^115]: "Se entendía por pena la enmienda o coerción, corporal o
     pecuniaria, aplicada por el delito cometido que los jueces pueden
     infligir para castigar a los delincuentes y para atemorizar a los
     demás de modo que no delincan en el futuro". Sebastián Terráneo,
@@ -1575,10 +1507,10 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     Tomo VI (Madrid: por Blas Roman, impresor de la Real Academia de
     Derecho Español y Público, 1781), Disc. I, n. 23.
 
-[^121]: "*ut quos non allicit amor, coerceat timor*." Murillo Velarde,
+[^116]: "*ut quos non allicit amor, coerceat timor*." Murillo Velarde,
     *Cursus iuris canonici*, L. V, tít. XXXVII, "De pœnis", No. 319.
 
-[^122]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV. La "canción real"
+[^117]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV. La "canción real"
     incluida en las páginas preliminares del *Tratado*... de Juan López
     de Cuéllar juega además con la relación indulto-insulto: "Tu
     practica estudiosa, que dá leyes // A Consejos, á Principes, á
@@ -1587,9 +1519,9 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     llamar clemencia, y Regalia // La ofensa de la ley; que el suyo
     proprio // Es llamarla impiedad, y tiranía."
 
-[^123]: Feijoo, *Theatro critico*, Tomo VI, Disc. I, n. 23.
+[^118]: Feijoo, *Theatro critico*, Tomo VI, Disc. I, n. 23.
 
-[^124]: López de Cuéllar, *Tratado iuridico-politico*, núm. 31. También
+[^119]: López de Cuéllar, *Tratado iuridico-politico*, núm. 31. También
     lo planteó así Caussin: "el príncipe no puede dejar de castigar sin
     condenarse a sí mismo." *La corte santa*, tomo II, tratado I,
     prólogo, 9. Paolo Prodi señalaba además: "Paradójicamente -escribe
@@ -1602,12 +1534,12 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     derecho*, trad. Luciano Padilla López (Madrid: Katz Editores, 2008),
     42.
 
-[^125]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, "Limpie de
+[^120]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, "Limpie de
     delinquentes el Reyno, sin que tengan asylo los culpados", p. 125.
 
-[^126]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, p. 123.
+[^121]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, p. 123.
 
-[^127]: "Nam severitas inflexibilis est circa inflictionem poenarum
+[^122]: "Nam severitas inflexibilis est circa inflictionem poenarum
     quando hoc recta ratio requirit, clementia autem diminutiva est
     poenarum etiam secundum rationem rectam, quando scilicet oportet, et
     in quibus oportet. Et ideo non sunt opposita, quia non sunt circa
@@ -1623,38 +1555,26 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     *Theatro critico*, Tomo VI, I, \"Paradoxas politicas y morales\",
     paradoxa tercera, n. 31.
 
-[^128]: Véase el anexo 1: análisis léxico-semántico del concepto de
-    perdón en el siglo XVIII hispano-indiano.
-
-[^129]: Rodríguez Flores, *El perdón real*, 14.
-
-[^130]: *Partidas*, P. VII, tit. 32, ley III.
-
-[^131]: Rodríguez Flores, *El perdón real*, 24; Victoria Sandoval Parra,
-    *Manera de galardón: merced pecuniaria y extranjería en el siglo
-    XVII*, Sección de obras de historia (Madrid: Fondo de Cultura
-    Económica : Red Columnaria, 2014), 23.
-
-[^132]: Bartolomé Clavero, "Justicia y gobierno, economía y gracia", en
+[^123]: Bartolomé Clavero, "Justicia y gobierno, economía y gracia", en
     *Real Chancillería de Granada: V Centenario 1505-2005* (Granada:
     Consejería de Cultura, 2006), 121--48,
     http://www.bartolomeclavero.net/wp-content/uploads/2014/07/Justicia-Gobierno-Econom%C3%ADa-Gracia.pdf.
 
-[^133]: Garriga Acosta, "Orden jurídico y poder político", 67.
+[^124]: Garriga Acosta, "Orden jurídico y poder político", 67.
 
-[^134]: El *Diccionario de autoridades* definía una de las acepciones de
+[^125]: El *Diccionario de autoridades* definía una de las acepciones de
     gracia de la siguiente manera: "Tomada theologica y genericamente es
     dón de Dios sobre toda la actividad y exigencia de nuestra
     naturaleza, sin méritos ni proporción de parte nuestra, y siempre
     ordenado al logro de la bienaventuranza."
 
-[^135]: Alejandro Agüero Nazar, "Las categorías básicas de la cultura
+[^126]: Alejandro Agüero Nazar, "Las categorías básicas de la cultura
     jurisdiccional", en *De justicia de jueces a justicia de leyes:
     hacia la España de 1870*, ed. Marta Lorente Sariñena, Cuadernos de
     derecho judicial, VI--2006 (Madrid: Consejo General del Poder
     Judicial, 2007), 45.
 
-[^136]: Al respecto es ilustrativo el capítulo VIII del libro II del
+[^127]: Al respecto es ilustrativo el capítulo VIII del libro II del
     *Tratado de la religión y las virtudes* de Ribadeneyra, en el cual
     explica que las mercedes debían ser producto del agradecimiento a
     quien sus virtudes lo hacían merecedor de la donación y no por la
@@ -1668,60 +1588,60 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     ellas, y que las reparte a su voluntad, y que no ha de valer
     cohecho, ni dadivas que se den à sus criados."
 
-[^137]: Clavero, "Justicia y gobierno, economía y gracia"; *Antidora:
+[^128]: Clavero, "Justicia y gobierno, economía y gracia"; *Antidora:
     antropología católica de la economía moderna*, Per la storia del
     pensiero giuridico moderno 39 (Milán: Giuffrè, 1991); António Manuel
     Hespanha, "La economía de la gracia", en *La gracia del derecho:
     economía de la cultura en la edad moderna*, trad. Ana Cañellas
     Haurie (Madrid: Centro de estudios constitucionales, 1993), 151--76.
 
-[^138]: Giovanni Botero decía incluso que el exceso de mercedes hacía
+[^129]: Giovanni Botero decía incluso que el exceso de mercedes hacía
     del rey tirano al conducirlo al tributo abusivo o a la rapiña para
     solventar su exceso de liberalidad. Giovanni Botero, *Diez libros de
     la razón de estado. Con tres libros de las causas de la grandeza y
     magnificencia de las ciudades de Iuan Botero*, tr. Antonio de
     Herrera (Madrid: Luis Sánchez, 1593), 31.
 
-[^139]: Francisco Andújar Castillo, *Necesidad y venalidad: España e
+[^130]: Francisco Andújar Castillo, *Necesidad y venalidad: España e
     Indias 1704-1711*, Colección Historia de la sociedad política
     (Madrid: Centro de Estudios Políticos y Constitucionales, 2008),
     315--20.
 
-[^140]: Al respecto resalto el trabajo compilatorio de Pilar Ponce Leiva
+[^131]: Al respecto resalto el trabajo compilatorio de Pilar Ponce Leiva
     y Francisco Andújar Castillo, eds., *Mérito, venalidad y corrupción
     en España y América, siglos XVII y XVIII*, Colección Historia de
     España y su proyección internacional 10 (Valencia: Albatros, 2016).
 
-[^141]: Rudy Chaulet, *Crimes, rixes et bruits d'épées: homicides
+[^132]: Rudy Chaulet, *Crimes, rixes et bruits d'épées: homicides
     pardonnés en Castille au siècle d'or*, Espagne médiévale et moderne
     11 (Montpellier: Presses Universitaires de la Méditerranée, 2007),
     375--76; Rodríguez Flores, *El perdón real*, 66--69.
 
-[^142]: Tamar Herzog, *La administración como un fenómeno social: la
+[^133]: Tamar Herzog, *La administración como un fenómeno social: la
     justicia penal de la ciudad de Quito (1650 - 1750)*, Historia de la
     sociedad política (Madrid: Centro de Estudios Constitucionales,
     1995), 249--50.
 
-[^143]: Clavero, "Justicia y gobierno, economía y gracia"; Garriga
+[^134]: Clavero, "Justicia y gobierno, economía y gracia"; Garriga
     Acosta, "Orden jurídico y poder político", 67.
 
-[^144]: Salustiano de Dios, "El ejercicio de la gracia regia en Castilla
+[^135]: Salustiano de Dios, "El ejercicio de la gracia regia en Castilla
     entre 1250 y 1530, los inicios del Consejo de la Cámara", *Anuario
     de historia del derecho español*, núm. 60 (1990): 326--27.
 
-[^145]: Saavedra Fajardo, *Idea de un príncipe político christiano*,
+[^136]: Saavedra Fajardo, *Idea de un príncipe político christiano*,
     emp. 73, lema "compressa quiescunt".
 
-[^146]: Saavedra Fajardo, emp. 11, lema "ex pulsu noscitur". Las
+[^137]: Saavedra Fajardo, emp. 11, lema "ex pulsu noscitur". Las
     referencias bíblicas tomadas por Saavedra son Eccl. 5:4 y Eccl.
     4:34.
 
-[^147]: "Josefa Ramona de Gracian, esposa de Martín de Goenaga, reclama
+[^138]: "Josefa Ramona de Gracian, esposa de Martín de Goenaga, reclama
     al Ministro de Gracia y Justicia por la remisión a España de su
     esposo a pesar de haber sido perdonado en nombre de SM", La Guaira,
     15 de marzo de 1798, AHN, Consejo de Indias, Secretaría de
     Presidencia, Leg. 21672, exp. 3.
 
-[^148]: "Real resolución y libertad a Juan José Mendiri y Martín de
+[^139]: "Real resolución y libertad a Juan José Mendiri y Martín de
     Goenaga", Madrid, 25 de junio de 1802, AHN, Consejo de Indias,
     Secretaría de Presidencia, Leg. 21672, exp. 8, doc. 5.

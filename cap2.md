@@ -621,30 +621,87 @@ liberación de la pena al ofensor era totalmente lícita.[^88]
 2.1. Delitos exceptuados del perdón
 -----------------------------------
 
-El rey podía en derecho remitir cualquier pena teniendo como límites su
-jurisdicción y propia prudencia, sin embargo, durante las dos centurias
-de gobierno de los Habsburgo se desarrolló una doctrina que restringía
-una serie particular de delitos de la gracia de indulto como una forma
-de garantizar que el uso de la clemencia real no conllevara efectos
-negativos a la vindicta pública. Según López de Cuéllar, los crímenes
-que hacían indignos a cualquiera de la clemencia real eran aquellos cuya
-magnitud fuese tal que ni siquiera podían mover a la misericordia. En
-primer lugar estaban los delitos que atacaban la fe, los cuales entraban
-dentro de la esfera de la jurisdicción regia por su papel como defensora
-de la religión católica, en particular después de haber desarrollado el
-sistema de fuero mixto, eclesiástico y civil, representado en el
-Tribunal del Santo Oficio. Los crímenes de Lesa Majestad Divina
-comprendían los delitos de herejía, blasfemia, apostasía, adivinación,
-encantadores y hechiceros. No obstante, el castigo al hereje no era
-automático y tenía la oportunidad de acceder al perdón antes de
-ejecutada la sentencia. La práctica de la clemencia en los juicios
-contra herejes, ejecutados por el tribunal de la Inquisición, consistía
-en aplicar el principio expuesto en la carta de Pablo a Tito: "Rehúsa
-hombre hereje, después de una y otra amonestación; estando cierto que el
-tal es trastornado, y peca, siendo condenado de su propio juicio."[^89]
-Con esto, se esperaba que el desviado se convirtiera ante la
-magnificencia de la clemencia divina, pero también justificaba el
-ejercicio del máximo rigor en caso de persistencia en la apostasía.[^90]
+En sentido estricto, ningún vasallo del rey era imperdonable, sin
+importar su calidad o estado. El acceso a la gracia real podía
+facilitarse para aquellos con créditos de hidalguía y servicio, mas en
+justicia ni el más rústico de los súbditos de la monarquía estaba
+excluido en principio de la clemencia real. Sin embargo, un reo podía
+hacerse indigno del perdón por su reincidencia en el crimen, por haber
+faltado a su palabra en un indulto anterior, o porque sus actos fueron
+de tal magnitud que hacían incapaz al monarca para sentir misericordia
+por el reo.[^89] El rey podía en derecho remitir cualquier pena teniendo
+como límites su jurisdicción y propia prudencia, sin embargo, los
+ordenamientos y doctrina castellana desarrollaron una serie de
+restricciones para no aplicar el perdón a una taxonomía de delitos que
+se consideraban lo suficientemente graves como para hacer indigno a todo
+aquel que solicitara la gracia real. No obstante, debido a que el rey no
+podía legislar contra sí mismo, estos delitos exceptuados podían ser
+perdonados por un sentido de utilidad pública o porque en ciertos
+momentos era preferible conmutar la pena del reo en lugar de someterlo a
+la pena de muerte. Estas excepciones deben entenderse entonces como
+generales, dirigidas sobre todo a los jueces encargados de determinar si
+un reo estaba o no incluido en la gracia regia, o a los gobernadores que
+debían resolver de manera expedita si la concesión de un perdón podía
+representar la resolución de un conflicto en su jurisdicción o al
+contrario podría replicar en el aumento del irrespeto a la autoridad de
+los oficiales reales. Al final era la prudencia del juez la que
+determinaba si el delincuente podía servir más a la Corona como un
+vasallo libre o cumplía los fines de la vindicta pública sujeto a las
+prisiones.
+
+La exclusión más amplia comprendía los delitos que se incluían dentro de
+las categorías de traición y alevosía. Como mostró Rodríguez Flores, la
+definición exacta de quiénes recaían en esta categoría no fueron del
+todo claras hasta la aparición de la codificación penal
+contemporánea,[^90] por lo cual debe interpretarse que ambos referían a
+alguna forma agravante del daño hecho con la seguridad de que la víctima
+no se defendería, siendo el ejemplo más claro el asesinato en medio de
+una tregua. En términos amplios, la alevosía podía referirse a aquellos
+criminales que pedían un bien prestado y no lo regresaban; quienes
+organizaban bandos, tumultos, riñas y otras acciones similares contra
+las autoridades del rey; los asesinos que mataban a personas desarmadas
+o indefensas. La traición se indicaba por lo general a las acciones
+contra la paz del reino, por ejemplo los desertores, los que
+contravenían los acuerdos entre reinos, quienes ofendían al rey o su
+familia, el asesinato de sacerdotes, de doctores, de indefensos,[^91] de
+familiares del homicida, o realizados "a traición."[^92] Vale apuntar
+que la traición era considerada como una de las afrentas más graves que
+podía hacer un vasallo. Desde la perspectiva teológico-moral, el traidor
+rememoraba a Judas (*Iudas proditor*) porque aunque estaba en la cima
+del apostolado traicionó a Cristo. El escolástico Rodrigo Sánchez de
+Arévalo lo consideraba como una fechoría de las más aberrantes: "Que la
+horrible afrenta de la traición es la más despreciable de todas las
+fechorías, la más deshonrosa y malvada, nadie sino un loco lo duda,
+puesto que supera todos los demás tipos de delitos."[^93]
+
+La ley primera del capítulo "los perdones" de la *Nueva Recopilación*
+copiaba una determinación de Juan I hecha en 1417 que señalaba esta
+amplia exclusión: "Los perdones generales, o especiales que nos\[otros\]
+hazemos, se entiendan de todos los maleficios que fueren cometidos y
+perpretados, salvo aleve, o traycion, o muerte segura, y perdonando los
+enemigos."[^94] Añadía el canonista Diego Pérez de Salamanca una glosa a
+esta norma: "En todas las cédulas de perdón siempre poner: excepto
+traición. Esto no se vuelve injusto puesto que el traidor es ajeno a
+todo favor de los señores y príncipes, y no es apto para poner pie en la
+corte del rey."[^95]
+
+En primer lugar estaban los delitos que atacaban la fe, los cuales
+entraban dentro de la esfera de la jurisdicción regia por su papel como
+defensora de la religión católica, en particular después de haber
+desarrollado el sistema de fuero mixto, eclesiástico y civil,
+representado en el Tribunal del Santo Oficio. Los crímenes de Lesa
+Majestad Divina comprendían los delitos de herejía, blasfemia,
+apostasía, adivinación, encantadores y hechiceros. No obstante, el
+castigo al hereje no era automático y tenía la oportunidad de acceder al
+perdón antes de ejecutada la sentencia. La práctica de la clemencia en
+los juicios contra herejes, ejecutados por el tribunal de la
+Inquisición, consistía en aplicar el principio expuesto en la carta de
+Pablo a Tito: "Rehúsa hombre hereje, después de una y otra amonestación;
+estando cierto que el tal es trastornado, y peca, siendo condenado de su
+propio juicio."[^96] Con esto, se esperaba que el desviado se
+convirtiera ante la magnificencia de la clemencia divina, pero también
+justificaba el ejercicio del máximo rigor en caso de persistencia en la
+apostasía.[^97]
 
 A pesar de la percepción popular de una salvaje persecución a los
 sospechosos de herejía por el Santo Oficio, el tribunal inquisitorial
@@ -652,16 +709,16 @@ perdonaba una cantidad importante de causas y, como señaló Gabriel
 Torres Puga para el caso novohispano, para finales del siglo XVIII e
 inicios del XIX "los castigos a las penas solían ser menos importantes
 que el acto público en que el reo de fe reconocía su error y solicitaba
-perdón y misericordia a los inquisidores."[^91] Lo anterior no pretende
+perdón y misericordia a los inquisidores."[^98] Lo anterior no pretende
 afirmar que la Inquisición fue una institución benevolente, como ya lo
 señaló Henry Kamen el uso del tormento para forzar la confesión de
 culpabilidad aumentaba o disminuía dependiendo de la percepción de un
 riesgo del aumento de la herejía por ciertos grupos como eran los
-protestantes o judíos.[^92] Tampoco hay que negar que durante el siglo
+protestantes o judíos.[^99] Tampoco hay que negar que durante el siglo
 XVIII la Suprema redujo su acometida contra judíos y protestantes para
 volcarse hacia una oposición política a la cultura de la Ilustración,
 por lo cual centró su hostigamiento contra la circulación de libros de
-doctrinas consideradas contrarias a la fe católica.[^93] Esto también
+doctrinas consideradas contrarias a la fe católica.[^100] Esto también
 permitió tanto reducir las persecuciones en masa como favorecer el
 perdón, tal como sucedió con el afamado caso del limeño Pablo de Olavide
 quien, tras pasar dos décadas exiliado en Francia y Suiza después de
@@ -669,38 +726,39 @@ haber sido condenado de herejía y ateísmo por el Santo Oficio, fue
 remitido de su pena de destierro tras publicar en 1797 *El evangelio en
 triunfo*, un texto en el que explica sus equivocaciones de juventud así
 como la necesidad de fortalecer la religión y la monarquía ante las
-ideas de la revolución francesa.[^94]
+ideas de la revolución francesa.[^101]
 
-Respecto a los delitos de lesa majestad humana, comprendía los de
-sedición, conspiración y conjura, todos aquellos una extensión del
-crimen de traición o *perduellio*, como se conocía en el derecho romano.
+Los delitos de lesa majestad humana fueron el segundo grupo importante
+de delitos excluidos del perdón, entre los cuales se comprendían los de
+sedición, conspiración y conjura. En términos estrictos, este grupo de
+crímenes representaban diferentes formas de traición o *perduellio*,
+como se conocía en el derecho romano.
 
 Según López de Cuéllar, estos crímenes debían ser castigados
 rigurosamente, "Porque si descubierto el delito, no se castigo al reo,
 cimentara en la tolerancia su avilantez, para executar lo que ya tramado
-se le perdonó."[^95]
+se le perdonó."[^102]
 
 la extracción de cosas prohibidas del reino para entregarlas a naciones
-enemigas[^96], la injuria causada por una bofetada[^97], el asesinato de
-sacerdote y la alevosía[^98], la fabricación de moneda falsa[^99], los
-que usurparan pastos y bosques públicos[^100]; aquellos que los reinos
+enemigas[^103], la injuria causada por una bofetada[^104], el asesinato
+de sacerdote y la alevosía, la fabricación de moneda falsa[^105], los
+que usurparan pastos y bosques públicos[^106]; aquellos que los reinos
 requirieron a los reyes para que no perdonara: la plantación de
-viñas[^101], cohecho[^102], baratería[^103], retención de propios y
-hacienda de los pueblos[^104]; y los que se acostumbraba excluir de los
-indultos generales: sodomía[^105], hurto[^106], falsedad[^107],
-blasfemia[^108] y resistencia a la justicia[^109]. Además de los
+viñas[^107], cohecho[^108], baratería[^109], retención de propios y
+hacienda de los pueblos[^110]; y los que se acostumbraba excluir de los
+indultos generales: sodomía[^111], hurto[^112], falsedad[^113],
+blasfemia[^114] y resistencia a la justicia[^115]. Además de los
 anteriores, la mayoría de indultos generales del siglo XVIII excluyeron
 del perdón a los delitos de incendiario y la malversación de la Real
-Hacienda[^110], los cuales podrían comprenderse dentro del amplio
-espectro de la traición[^111].
+Hacienda[^116].
 
 Esta característica de los delitos excluidos e incluidos en los perdones
 se modificaba con cada cédula de perdón. Rodríguez Flores ha mostrado
 dicha variabilidad tanto en la doctrina como en las cédulas, sin
 embargo, por lo menos desde Carlos III se asumió una fórmula repetida en
 los indultos generales en adelante (tal vez hasta el indulto de Isabel
-II de 1848[^112]) y que fue tomada como prototipo por Vicente Vizcaíno
-para ejemplificar los delitos exceptuados del perdón general[^113]. La
+II de 1848[^117]) y que fue tomada como prototipo por Vicente Vizcaíno
+para ejemplificar los delitos exceptuados del perdón general[^118]. La
 fórmula que aparecería en todas estas cédulas sería:
 
 > Usando de mi Real piedad y clemencia, es mi voluntad sean sueltos
@@ -711,11 +769,14 @@ fórmula que aparecería en todas estas cédulas sería:
 > cosas prohibidas del Reyno, el de blasfemia, el de sodomía, el hurto,
 > el cohecho y baratería, el de falsedad, el de resistencia a la
 > Justicia, el de desafío, y el de mala versación de mi Real
-> Hacienda"[^114]
+> Hacienda"[^119]
 
 Delitos exceptuados: ciertos delitos son exceptuados, basándose en el
 sentido de ser tan aberrantes que no podrían estar incluidos en la
 clemencia sin representar un daño al orden de la república.
+
+2.3. Las justas causas del perdón
+---------------------------------
 
 2.3. Particularidades desde la normatividad (doctrina y legislación) puramente indiana
 --------------------------------------------------------------------------------------
@@ -728,7 +789,7 @@ Firme. El cedulario de Joseph de Ayala parece coincidir con la tendencia
 de la legislación castellana pues sólo seis de las treinta cédulas
 recopiladas hasta 1780 son anteriores al siglo XVIII. Si bien la
 *Recopilación de leyes de Indias* incluyó solo una norma relacionada con
-la facultad otorgada a los virreyes para conceder delitos,[^115] el
+la facultad otorgada a los virreyes para conceder delitos,[^120] el
 cedulario de Encinas es un referente relevante para comprender las
 disposiciones normativas dirigidas al uso del perdón en el gobierno de
 las Indias.
@@ -742,7 +803,7 @@ En el Salón de Reinos del Museo del Prado de Madrid penden dos famosas
 pinturas: *La recuperación de Bahía de Todos los Santos* de Juan
 Bautista Maíno y *La rendición de Breda*, mejor conocida como *Las
 lanzas*, de Diego Velázquez, las cuales adornaban los muros palaciegos
-de la sala homónima del destruido palacio del Buen Retiro.[^116] Estos
+de la sala homónima del destruido palacio del Buen Retiro.[^121] Estos
 cuadros se realizaron de manera simultánea entre 1634 y 1635 con el
 propósito de celebrar las victorias militares del temprano reinado de
 Felipe IV. Las obras comparten dimensiones (la de Velázquez es
@@ -751,7 +812,7 @@ representaciones de victorias que adornan el salón por expresar el
 mensaje de clemencia y magnanimidad del vencedor que contrasta con las
 miserias de la guerra, cuyo trasfondo comunicaba la imagen del rey
 clemente que ofrecía la paz y la reconciliación a sus enemigos; en
-síntesis, una alegoría de su poderío y virtud.[^117] Para acompañar esta
+síntesis, una alegoría de su poderío y virtud.[^122] Para acompañar esta
 épica de la monarquía, conservar la memoria de la grandeza del imperio
 español en tiempos de la Unión de Armas y sobre todo, exaltar la
 grandeza de 1625 como *Annus Mirabilis*, Lope de Vega había creado ese
@@ -759,7 +820,7 @@ mismo año la comedia *El Brasil restituido* como alabanza de la
 restauración de Bahía; y por la misma fecha, Calderón de la Barca,
 posiblemente por encargo del Conde Duque de Olivares, puso en escena *El
 sitio de Breda*, dramaturgia centrada en la rendición de los soldados
-holandeses.[^118] La corte de Madrid tenía entonces un conjunto de obras
+holandeses.[^123] La corte de Madrid tenía entonces un conjunto de obras
 que no sólo exaltaban la victoria, además resaltaban la bondad de la
 clemencia del católico monarca español, a cuya imagen los comandantes
 Fadrique y Spínola eligieron la benevolencia con el enemigo en lugar de
@@ -767,7 +828,7 @@ exhibir el triunfo con su humillación.
 
 "Derecho internacional" y de gentes: fundamental -- Grocio.
 
-También Levaggi[^119]
+También Levaggi[^124]
 
 Capítulo XIII del manual de historia del derecho
 
@@ -1144,56 +1205,83 @@ virreinato neogranadino \<\<
 
 [^88]: Rodríguez Flores, *El perdón real*, 132--34.
 
-[^89]: "Haereticum hominem post unam et secundam correptionem devita,
+[^89]: López de Cuéllar, *Tratado iuridico-politico*, núm. 254.
+
+[^90]: Véase la nota a la voz "Alevosía" del *Diccionario razonado de
+    legislación y jurisprudencia* de Joaquín de Escriche, según la
+    versión ampliada de León Galindo y José Vicente y Caravantes
+    (Madrid: imprenta de Eduardo Cuesta, 1874).
+
+[^91]: Porque era alevoso matar a aquel que andaba desarmado y el
+    indulto por más generoso que fuese no comprendía el homicidio a
+    traición, por lo cual se extendía no sólo a los sacerdotes sino al
+    homicidio causado a abogados, médicos, cirujanos y a otros que por
+    su oficio no llevaran armas. López de Cuéllar, *Tratado
+    iuridico-politico*, n. 312-313.
+
+[^92]: Juan García González, "Traición y alevosía en la Alta Edad
+    Media", *Anuario de Historia del Derecho español*, núm. 32 (1962):
+    323--46.
+
+[^93]: "Proditionis horrendum flagitium,ómnium facinorum uilius,
+    deformius ac sceleratius fore nemo, nisi insanus hesitat, quippe
+    quod omnia alia delictorum genera superat" Rodrigo Sánchez de
+    Arévalo, *Deberes y funciones de generales, capitanes y
+    gobernadores*, ed. y trad. Antonio López Fonseca y José Manuel Ruiz
+    Vila (Madrid: Escolar y Mayo editores, 2011), 266-267, Lib. II, tít.
+    VIII.
+
+[^94]: *Nueva recopilación*, Lib. VIII, tít. 25, ley 1.
+
+[^95]: "In remissionis schedula semper ponitur, Excepta proditione. Nec
+    id immeritò fit, quia proditor alienus est ab omni facie dominorum,
+    & Principum, nec potest in curia Principes stàre." Glosa "salvo
+    aleve, o traición" a *Ordenanzas Reales de Castilla* (Madrid:
+    imprenta de Josef Doblado, 1779) Lib. I, tít. XI, ley I. También
+    Gregorio López, glosa "la pena" a *Partidas*, P. VII, tít. 32, ley
+    3: \"Et in charta misericordiæ super mortealicuius semper ponit
+    excepta proditione & alevosia\" ("Y en las letras de misericordia
+    por el delito de homicidio, siempre se exceptúan los casos de
+    traición y alevosía.")
+
+[^96]: "Haereticum hominem post unam et secundam correptionem devita,
     sciens quia subversus est, qui eiusmodi est, et delinquit, proprio
     iudicio condemnatus." Titum, 3:10-11.
 
-[^90]: Gerardo Miguel Nieves Loja, "De la crisis del perdón en la Edad
+[^97]: Gerardo Miguel Nieves Loja, "De la crisis del perdón en la Edad
     Media, al perdón incondicional y gratuito", *Scintilla -- Revista de
     Filosofia e Mística Medieval* 12, núm. 2 (2015): 45--50.
 
-[^91]: Gabriel Torres Puga, *Los últimos años de la Inquisición en la
+[^98]: Gabriel Torres Puga, *Los últimos años de la Inquisición en la
     Nueva España* (México: Porrúa, INAH, 2004), 13.
 
-[^92]: Henry Kamen, *The Spanish Inquisition: A Historical Revision*,
+[^99]: Henry Kamen, *The Spanish Inquisition: A Historical Revision*,
     Fourth Edition (New Haven: Yale University Press, 2014), 239--40.
 
-[^93]: Kamen, 369--73.
+[^100]: Kamen, 369--73.
 
-[^94]: Kamen, 223--24; Doris Moreno Martínez, *La invención de la
+[^101]: Kamen, 223--24; Doris Moreno Martínez, *La invención de la
     Inquisición*, Ambos mundos (Madrid: Fundación Carolina, Centro de
     Estudios Hispánicos e Iberoamericanos : Marcial Pons Historia,
     2004), 111.
 
-[^95]: . López de Cuéllar, *Tratado iuridico-político*, n. 488.
+[^102]: . López de Cuéllar, *Tratado iuridico-político*, n. 488.
 
-[^96]: Este delito (de saca) tenía el equivalente al de traición.
+[^103]: Este delito (de saca) tenía el equivalente al de traición.
 
-[^97]: López de Cuéllar, *Tratado iuridico-politico*, n. 261. Porque
+[^104]: López de Cuéllar, *Tratado iuridico-politico*, n. 261. Porque
     esta injuria no le correspondía perdonarla al rey sino a la parte
     afectada. Diego del Castillo, *Stromas políticos y morales*
     (Valladolid: imprenta de la Real Cancillería, 1729), stroma VIII,
     flor III, "Concordia política y cristiana del honor y la obediencia"
     n. 20.
 
-[^98]: Porque era alevoso matar a aquel que andaba desarmado y el
-    indulto por más generoso que fuese no comprendía el homicidio a
-    traición, por lo cual se extendía no sólo a los sacerdotes sino al
-    homicidio causado a abogados, médicos, cirujanos y a otros que por
-    su oficio no llevaran armas. López de Cuéllar, *Tratado
-    iuridico-politico*, n. 312-313. También Gregorio López glosa *la
-    pena* a *Partidas*, P. VII, tít. 32 ley 3: \"Et in charta
-    misericordiæ super mortealicuius semper ponit excepta proditione &
-    alevosia\" (Y en las letras de misericordia por el delito de
-    homicidio, siempre se exceptúan los casos de traición y alevosía.)
-    Garsía Mastrillo, *Ad indultum generale*, cap. XXVIII, n. 1 y ss.
-
-[^99]: Porque acuñar las monedas con la imagen o armas del rey era
+[^105]: Porque acuñar las monedas con la imagen o armas del rey era
     exclusividad del príncipe, por lo cual el delincuente ofendía la
     majestad regia al adulterar o acuñarlas sin autoridad para ello.
     Mastrillo, *Ad indultum generale*, cap. XXVII, n. 4.
 
-[^100]: "Los que usurpan los pastos públicos, y los que destruyen las
+[^106]: "Los que usurpan los pastos públicos, y los que destruyen las
     heredades agenas, y cortan arboles de los montes comunes" López de
     Cuéllar interpreta esta excepción del indulto como una forma de
     proteger el interés común, evitar que los bienes de las ciudades se
@@ -1201,12 +1289,12 @@ virreinato neogranadino \<\<
     se consideraba un ladrón, los cuales estaban asimismo excluidos del
     perdón. *Tratado iuridico-politico*, n. 330-332.
 
-[^101]: Tradición de los emperadores romanos para contener la
+[^107]: Tradición de los emperadores romanos para contener la
     embriaguez. No era sujeto de indulto porque en su ejecución se
     contravenían muchas leyes. López de Cuéllar, *Tratado
     iuridico-politico*, n. 366.
 
-[^102]: Castillo de Bovadilla, quien dedicó un capítulo al delito de
+[^108]: Castillo de Bovadilla, quien dedicó un capítulo al delito de
     cohecho, dijo: "Aunque la malicia, y mala inclinación es natural á
     todos los hombres, porque toda edad es mas inclinada, y proclive al
     mal, que al bien: pero según Euripides, el hombre que corrompido por
@@ -1218,7 +1306,7 @@ virreinato neogranadino \<\<
     obtenida fuera justa, debido a la dificultad que tenía este delito
     para ser probado. Lib. V, cap. I, n. 223 y 229.
 
-[^103]: La acción o inacción del juez que se hacía por interés y con
+[^109]: La acción o inacción del juez que se hacía por interés y con
     ello se causaba un daño sin que mediase la corrupción de por medio.
     Aunque se consideraba que la baratería no conllevaba tanta "fealdad"
     como el cohecho, se equiparaban ambos delitos porque se equiparaban
@@ -1226,11 +1314,11 @@ virreinato neogranadino \<\<
     es cosa santa". Castillo de Bovadilla, *Política para corregidores*,
     Lib. V, cap. I, n. 228.
 
-[^104]: "crimen gravísimo!" dice López de Cuéllar, que se castigaba con
+[^110]: "crimen gravísimo!" dice López de Cuéllar, que se castigaba con
     pena de muerte en el caso de los jueces. López de Cuéllar, *Tratado
     iuridico-político*, n. 407.
 
-[^105]: "No goze de la clemencia del Principe en el Indulto el impio,
+[^111]: "No goze de la clemencia del Principe en el Indulto el impio,
     que irritó la Iusticia de Dios, y pues la ley lo manda, justo es que
     el fuego reduzca á pavesas delinquente, que sin temor del castigo,
     se sugetó por su delito á ser infame, quanto exemplar padrón de
@@ -1238,13 +1326,13 @@ virreinato neogranadino \<\<
     denegrida llama de su apetito." López de Cuéllar, *Tratado
     iuridico-político*, n. 728.
 
-[^106]: Sin embargo, un reo por hurto podía ser indultado por el
+[^112]: Sin embargo, un reo por hurto podía ser indultado por el
     príncipe si así fuera su arbitrio, aunque en este caso la parte
     agraviada aún tenía que perdonalo para que cesara la acción civil
     pues el rey sólo indultaba la criminal. López de Cuéllar, *Tratado
     iuridico-político*, n. 855.
 
-[^107]: Se incluyen en esta excepción el *consensum falsum* o venta
+[^113]: Se incluyen en esta excepción el *consensum falsum* o venta
     engañosa, el falso testimonio, el procurador o magistrado que
     violara el secreto, la falsificación de instrumentos o documentos
     oficiales (en el caso de bulas o letras apostólicas se podía
@@ -1254,7 +1342,7 @@ virreinato neogranadino \<\<
     que se le notifica". López de Cuéllar, *Tratado iuridico-político*,
     n. 860-970.
 
-[^108]: "Et cum per blasphemiam fiat iniuria Deo, sine blasphemia fiat
+[^114]: "Et cum per blasphemiam fiat iniuria Deo, sine blasphemia fiat
     in Deum, sive in Virginem Mariam, sive in Sanctos, est clarum, quód
     Imperator, Dux, et Princepts, not possunt per eorum gratiam alicaius
     poenae plasphemo, cum nos sit eis facta iniuria, nec eorum subditis,
@@ -1262,32 +1350,16 @@ virreinato neogranadino \<\<
     factam superiori". López de Cuéllar, *Tratado iuridico-político*, n.
     1034.
 
-[^109]: Porque quien resistía a los ministros del rey lo hacía por
+[^115]: Porque quien resistía a los ministros del rey lo hacía por
     extensión contra el príncipe y Dios. López de Cuéllar, *Tratado
     iuridico-político*, n. 1144-1150.
 
-[^110]: Vicente Vizcaíno Pérez, *Código y práctica criminal*, tomo III,
+[^116]: Vicente Vizcaíno Pérez, *Código y práctica criminal*, tomo III,
     n. 443, 385.
 
-[^111]: Rodríguez Flores, *El perdón real*, 114. Vale apuntar que el
-    delito de traición (*proditionis*) era considerado como uno de los
-    delitos más graves. Desde una perspectiva teológico-moral, el
-    traidor rememoraba a Judas (*Iudas proditor*) por haber traicionado
-    a Cristo aún a pesar de estar en la cima del apostolado. Rodrigo
-    Sánchez de Arévalo lo consideró como una fechoría de las más
-    aberrantes: "Proditionis horrendum flagitium,ómnium facinorum
-    uilius, deformius ac sceleratius fore nemo, nisi insanus hesitat,
-    quippe quod omnia alia delictorum genera superat" ("Que la horrible
-    afrenta de la traición es la más despreciable de todas las
-    fechorías, la más deshonrosa y malvada, nadie sino un loco lo duda,
-    puesto que supera todos los demás tipos de delitos"). *Deberes y
-    funciones de generales, capitanes y gobernadores*, ed. y trad.
-    Antonio López Fonseca y José Manuel Ruiz Vila (Madrid: Escolar y
-    Mayo editores, 2011), 266-267, Lib. II, tít. VIII.
+[^117]: *Gaceta de Madrid*, No. 5181, 19 de noviembre de 1848.
 
-[^112]: *Gaceta de Madrid*, No. 5181, 19 de noviembre de 1848.
-
-[^113]: Por ejemplo, el perdón general dado por Felipe III en 1603 sólo
+[^118]: Por ejemplo, el perdón general dado por Felipe III en 1603 sólo
     excluía los delitos de "lese mayestatis, pecado nefando, de
     falsedad, testigos falsos y resistencia a la nuestra justicia", en
     un perdón general de 1686 sólo se daban por excluidos aquellos
@@ -1298,24 +1370,24 @@ virreinato neogranadino \<\<
     innovación en la materia. Rodríguez Flores, *El perdón real*,
     268--71.
 
-[^114]: Vicente Vizcaíno, *Código y práctica criminal*, tomo III, n.
+[^119]: Vicente Vizcaíno, *Código y práctica criminal*, tomo III, n.
     430, 373-374.
 
-[^115]: *Recopilación de leyes de Indias*,
+[^120]: *Recopilación de leyes de Indias*,
 
-[^116]: Ambas obras pueden visualizarse en alta resolución en el sitio
+[^121]: Ambas obras pueden visualizarse en alta resolución en el sitio
     del Museo del Prado. Maíno
     [[http://bit.ly/2soBaPw]{.underline}](http://bit.ly/2soBaPw) y
     Velázquez
     [[http://bit.ly/2LPuySh]{.underline}](http://bit.ly/2LPuySh). Sitio
     consultado y enlaces creados el 1 de junio de 2018.
 
-[^117]: Jonathan Brown y John Huxtable Elliott, *Un palacio para el Rey:
+[^122]: Jonathan Brown y John Huxtable Elliott, *Un palacio para el Rey:
     El Buen Retiro y la corte de Felipe IV*, trad. Vicente Lleó y María
     Luisa Balseiro, Edición actualizada en e-book (Madrid: Taurus,
     2016), sec. "La rendición de Breda\" y \"La recuperación de Bahía".
 
-[^118]: Lygia Rodríguez Vianna Pérez, "'El Brasil restituido' de Lope de
+[^123]: Lygia Rodríguez Vianna Pérez, "'El Brasil restituido' de Lope de
     Vega y 'La pérdida y restauración de la Bahía de Todos los Santos',
     de Juan Antonio Correa", en *Estudios de teatro áureo: texto,
     espacio y representación* (X Congreso de la Asociación Internacional
@@ -1323,7 +1395,7 @@ virreinato neogranadino \<\<
     Universidad Autónoma Metropolitana, 2003), 245--61; Brown y Elliott,
     *Un palacio para el Rey*, sec. "Hércules Hispanicus".
 
-[^119]: Abelardo Levaggi, "Los tratados con los indios en la época
+[^124]: Abelardo Levaggi, "Los tratados con los indios en la época
     borbónica. Reafirmación de la política de conquista pacífica", en
     *XI Congreso del Instituto Internacional de Historia del Derecho
     Indiano. Buenos Aires, 4 al 9 de septiembre de 1995: actas y
