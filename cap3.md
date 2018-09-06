@@ -1,6 +1,9 @@
 Capítulo III. El gobierno de la clemencia.
 ==========================================
 
+La facultad de perdonar dada al virrey
+--------------------------------------
+
 Como se mencionó en el apartado anterior, la facultad graciosa de
 conceder indultos podía ser delegada por el rey a sus señores y
 ministros[^1]. Hay que aclara que la facultad de moderar la pena y la
