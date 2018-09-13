@@ -1,7 +1,29 @@
-Capítulo III. El gobierno de la clemencia.
-==========================================
+Capítulo III. La clemencia virreinal
+====================================
 
-El virrey podía ordenar,[^1] juzgar y perdonar.
+Para el momento de la segunda creación del virreinato del Nuevo Reino de
+Granada la "edad de oro" de los virreyes ya había culminado. Si seguimos
+el argumento de Manuel Rivero Rodríguez, las expectativas que hubiera
+creado este puesto habrían quedado anuladas de manera definitiva en la
+segunda mitad del siglo XVIII con la intensificación del proceso de
+centralización administrativa de la monarquía borbónica, marcado
+especialmente por la implementación de la reforma de intendentes, con la
+cual el virrey habría pasado a ser un personaje de segundo orden en la
+estructura de gobierno de las provincias indianas.
+
+Aunque es lugar común considerar que la creación del virreinato del
+Nuevo Reino fue la respuesta a las amenazas inminentes del ejército
+inglés,[^1] la guerra que se desarrolló después, llamada del asiento por
+los españoles y de la oreja de Jenkins por los ingleses, sí contribuyó a
+consolidar la segunda creación del virreinato, a pesar de los conflictos
+entre Sebastián de Eslava y las redes de las élites locales, causada en
+buena medida por el extremado celo del virrey por el real servicio.[^2]
+Al mismo tiempo, el ataque a los puertos y la casi pérdida de Cartagena
+justificó en las autoridades penínsulares la permanencia del virreinato,
+así como la necesidad de implementar reformas militares y en el sistema
+de comercio en el Caribe.[^3]
+
+El virrey podía ordenar,[^4] juzgar y perdonar.
 
 El perdón de los virreyes y el buen gobierno
 --------------------------------------------
@@ -22,7 +44,7 @@ Solís:
 > tenga por c\[on\]ven\[ient\]e. El fiscal no le tiene, es acusador
 > forsoso, y como tal deve pedir las penas que corresponden a los
 > delitos que se cometen, y assi mismo las execuciones de las
-> sentencias.[^2]
+> sentencias.[^5]
 
 Los tres puntos fundamentales de esta respuesta son: el virrey fue
 facultado por el rey para poder perdonar de la misma manera como lo
@@ -47,7 +69,7 @@ III en 1614.
 > Señorios no procedan contra los culpados, á la averiguacion y castigo,
 > assi de oficio, como á pedimento de parte, en quanto á lo criminal,
 > reservando su derecho en lo civil, daños. é interesses de las partes,
-> para que le pidan y sigan como les convenga.[^3]
+> para que le pidan y sigan como les convenga.[^6]
 
 Aunque son unas pocas líneas, esta ley recopila una serie condiciones
 que eran dadas a los virreyes en extenso, de tal manera que tuvieran una
@@ -67,7 +89,7 @@ usar de esta regalía en nombre del rey quien, de antemano, perdonaba a
 todos aquellos que el virrey decidiera remitir durante su mandato. La
 segunda, indicaba que esta facultad se debía limitar a los casos de
 rebelión. Aunque autores como Lalinde Abadía consideraron que la
-facultad de perdonar se les otorgó a los virreyes en 1614,[^4] podría
+facultad de perdonar se les otorgó a los virreyes en 1614,[^7] podría
 considerarse como un buen punto de partida la real provisión de Felipe
 II por la cual se le otorgó la potestad de remitir delitos al virrey del
 Perú, Conde de la Coruña, en el año 1583. Al hacer una comparación de
@@ -92,13 +114,27 @@ virreyes:
     cualquier clase de delito "aunque sea crimen lega maiestatis
     \[sic\]".
 
-[^1]: Jesús Lalinde Abadía, "El régimen virreinosenatorial en Indias",
+[^1]: María Baudot Monroy, *La defensa del Imperio: Julián de Arriaga en
+    la Armada (1700 - 1754)*, Cátedra de historia naval 2 (Madrid:
+    Ministerio de Defensa, 2013), 177.
+
+[^2]: "Although local resistance to the first creation of the
+    viceroyalty was relatively limited, in the 1740s, the treat,
+    followed by the reality, of war allowed for the consolidation of
+    viceregal rule." Francisco A. Eissa-Barroso, *The Spanish Monarchy
+    and the Creation of the Viceroyalty of New Granada (1717-1739): The
+    Politics of Early Bourbon Reform in Spain and Spanish America*
+    (Leiden, Boston: Brill, 2016), 259.
+
+[^3]: Eissa-Barroso, 260.
+
+[^4]: Jesús Lalinde Abadía, "El régimen virreinosenatorial en Indias",
     *Anuario de historia del derecho español* XXXVII (1967): 208--9.
 
-[^2]: AGNC, sección Colonia, fondo Aduanas, tomo 11, ff. 290r-290v (al
+[^5]: AGNC, sección Colonia, fondo Aduanas, tomo 11, ff. 290r-290v (al
     margen).
 
-[^3]: Recopilación de las leyes de los reinos de las Indias, lib. III,
+[^6]: Recopilación de las leyes de los reinos de las Indias, lib. III,
     tít. 3, ley 27.
 
-[^4]: Lalinde Abadía, "El régimen virreinosenatorial en Indias", 210.
+[^7]: Lalinde Abadía, "El régimen virreinosenatorial en Indias", 210.
