@@ -22,17 +22,29 @@ Referencias bibliográficas
 Archivos
 --------
 
-**Archivo General de Indias (Sevilla)**
+### Archivo General de Indias (Sevilla)
 
-Audiencia de Caracas, 418
+Audiencia de Caracas, 81
 
 Audiencia de Quito, 398
 
+Audiencia de Lima, 691
+
+Audiencia de Panamá, 358
+
+Audiencia de Santa Fe, 940
+
 Indiferente general, 415
 
-**Archivo Histórico Nacional (Madrid)**
+### Archivo General de la Nación de Colombia (Bogotá)
+
+Sección Colonia, fondo Aduanas, tomo 11
+
+### Archivo Histórico Nacional (Madrid)
 
 Estado, 3092
+
+Consejo de Indias, Secretaría de Presidencia, 21672
 
 Fuentes primarias publicadas
 ----------------------------
@@ -200,6 +212,10 @@ Recursos digitales
 
 Biblioteca Nacional de España. *Biblioteca digital hispánica*. 2018.
 [[http://bdh.bne.es/]{.underline}](http://bdh.bne.es/)
+
+Fondazione Biblioteca Europea di Informazione e Cultura (BEIC).
+*Biblioteca digitale*. 2017.
+[[https://www.beic.it]{.underline}](https://www.beic.it)
 
 Bayerischen Staatsbibliothek y Münchener Digitalisierungszentrum.
 *Digitale Bibliothek*. 2018.

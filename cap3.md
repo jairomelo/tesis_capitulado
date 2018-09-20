@@ -155,9 +155,12 @@ le indicó al virrey:
 > delitos que se cometen, y assi mismo las execuciones de las
 > sentencias.[^17]
 
-Según la ley citada de la recopilación, esta facultad habría sido dada
-por una cédula de Felipe III del 19 de julio de 1614, que a la letra
-decía:
+El fiscal salva su posición en la administración de justicia como
+acusador forzoso, promotor del justo rigor, señalándole al virrey que de
+su arbitrio depende hacer caso o denegar la solicitud de aquel que pide
+el perdón. Este magistrado resumía a sus términos más simples la ley
+citada de la recopilación que, a su vez, tomaba un extracto de una
+cédula de Felipe III del 19 de julio de 1614, que a la letra decía:
 
 > Concedemos Facultad á los Virreyes del Perú y Nueva España, para que
 > puedan perdonar qualesquier delitos y excessos cometidos en las
@@ -221,9 +224,9 @@ quienes el castigo no representara una posibilidad de nuevos
 desórdenes.[^24]
 
 La relevancia de la concesión de perdón de 1614 radica en que se
-considerará normativamente como el hito que ordena la facultad de
+considerará normativamente como el hito que ordenó la facultad de
 perdonar en los virreyes indianos. Aunque la *Recopilación de las
-Indias* de León Pinelo indicaba que esta facultad fue ordenada en 1583
+Indias* de León Pinelo indicaba que esta facultad fue concedida en 1583
 con la real provisión que daba el poder de perdonar delitos al virrey
 póstumo del Perú Lorenzo Suárez de Mendoza,[^25] la referencia obligada
 tras la publicación de las *Recopilación de las leyes de las Indias*
@@ -241,13 +244,12 @@ de esta autoridad, Palacios transpuso el sentido que dio López de
 Cuéllar a una cédula real dirigida al virrey y capitán general de
 Navarra cuyo encabezado rezaba: "Mi Virrey, y Capitan General del mi
 Reyno de Navarra, que al presente sois, y a los que al delante os
-succedieren en este cargo."[^28] Aunque ninguna cédula real planteó algo
-similar para los virreyes de Indias, la inserción autorizada de una
+succedieren en este cargo."[^28] Ninguna cédula planteó algo similar
+para los virreyes de Indias, sin embargo, la inserción autorizada de una
 versión de la cédula de 1614 en la *Recopilación de las leyes de las
 Indias* con el encabezado "concedemos facultad á los Virreyes del Perú y
 Nueva España" comprobaba la autoridad ordenada de la dignidad virreinal
-indiana para remitir delitos y se asimilaba, al menos en esta facultad,
-con la dignidad de los virreyes navarros.[^29]
+indiana para remitir delitos.[^29]
 
 Es decir, dicha concesión ya no era delegada, otorgada para el
 cumplimiento de una función específica, sino hacía parte del "cuerpo
