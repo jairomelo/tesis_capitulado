@@ -960,17 +960,25 @@ la propuesta de Campillo que mientras los naturales tuviesen la "calidad
 de indios" debía ser tratados con benevolencia y suavidad, por lo tanto,
 la reforma del gobierno político estaba en concordancia con la idea
 tradicional del miserable, pero considerando que su minoridad podía ser
-superada y equiparárseles a la república de españoles. La idea de una
-equiparación en la conciencia moral de indios y españoles no era
-necesariamente extraña a la cultura del antiguo régimen, en ocasiones la
-"suave corrección" se ponía en duda ante la continua reincidencia de los
-indígenas que no parecía aminorarse con mansas amonestaciones. Por
-ejemplo, el arzobispo de Charcas, según una cédula de 1695, consideraba
-que los indios "no eran tan rudos que para lo malo no tuviesen más
-conocimiento que el que era menester;" por lo tanto podían ser
-castigados con el mismo rigor que cualquier español. No obstante, la
-Audiencia y el Rey favorecieron el uso de "medios suaves" y que en caso
-de duda se actuara en favor del indio contraventor.[^140]
+superada y equiparárseles a la república de españoles.
+
+En un todo similar, Francisco Gil de Taboada, al asumir su empleo de
+virrey del Perú en 1790 tras haber servido el mismo oficio en el Nuevo
+Reino durante algunos meses, temía que el régimen de intendencias y
+subdelegaciones condujera al restablecimiento del sistema de
+repartimiento abolido desde 1780.[^140] Según este oficial, continuar
+con el repartimiento condenaría a los indios eternamente a la
+"inmovilización" e "inercia", al contrario, era el "liberarlos" para el
+comercio lo que los sacaría de su condición de miserableza:
+
+> El comercio es quien unicamente puede sacarlos de ese estado abatido
+> como lo ha hecho con los demas hombres, y para ellos debe protegerse
+> la libertad, y sofocar todo genero de violencia, facilitando el que
+> con ellos traten, y contraten todos los hombres que entren y salgan
+> libremente en sus Pueblos los de las demas Castas, que se establescan
+> en éllos si les acomodare; que entablen y contraigan todo genero de
+> enlaces, que es precisamente lo que siempre ha procurado precaverse
+> por razon de los repartimientos y ambiciosas grangerias.[^141]
 
 La política de privilegio de los indios como dignos de misericordia
 sería una constante del gobierno de las indias que no parece haberse
@@ -980,13 +988,13 @@ de Intendentes de Nueva España dejaba en claro que aunque se
 implementara el sistema de jueces españoles en poblados de indios, estos
 conservarían "el derecho y antigua costumbre," lo cual incluía
 claramente el "inclinar" la voluntad de los naturales "por los medios
-más suaves."[^141] Del mismo modo, la Ordenanza general de intendentes
+más suaves."[^142] Del mismo modo, la Ordenanza general de intendentes
 de 1803 conservaba el tratamiento diferenciado de los ociosos y
 "malentretenidos," considerando que aunque era necesario "desterrar la
 ociosidad de los Indios" y "aunque las circunstancias del tiempo hayan
 variado," se debía estimular el trabajo con "medios de suavidad" como
 premios y exhortaciones, antes que con el envío al servicio en presidios
-y tropas, como indicaba la pena regular.[^142]
+y tropas, como indicaba la pena regular.[^143]
 
 [^1]: Jesús Vallejo, "El príncipe ante el derecho en la cultura del 'ius
     commune'", en *Manual de Historia del Derecho*, ed. Marta Lorente
@@ -1523,16 +1531,19 @@ y tropas, como indicaba la pena regular.[^142]
     para la América* (Madrid: imprenta de Benito Cano, 1789), cap. I,
     núm. 29, 15.
 
-[^140]: Manuel José de Ayala, *Diccionario de gobierno y legislación de
-    Indias*, ed. Milagros del Vas Mingo, vol. 7, 13 vols. (Madrid:
-    Instituto de Cooperación Iberoamericana, Ediciones de Cultura
-    Hispánica, 1988), 323, núm. 277.
+[^140]: Timothy Eagan Anna, *La caída del gobierno español en el Perú:
+    el dilema de la independencia*, Estudios históricos 35 (Lima: IEP,
+    Inst. de Estudios Peruanos, 2003), 33.
 
-[^141]: *Real ordenanza para el establecimiento e instrucción de
+[^141]: "Carta nº 103 de Francisco Gil de Taboada y Lemos, virrey de
+    Perú, a Antonio Valdés, Secretario de Estado de Indias, Hacienda,
+    Marina y Guerra." AGI, Audiencia de Lima, leg. 691, f. 385v.
+
+[^142]: *Real ordenanza para el establecimiento e instrucción de
     intendentes de exército y provincia en el reino de la Nueva España*
     (Madrid: \[s.n.\], 1786), art. 14 y 15.
 
-[^142]: *Ordenanza general formada de orden de Su Magestad, y mandada
+[^143]: *Ordenanza general formada de orden de Su Magestad, y mandada
     imprimir y publicar para el gobierno é instrucción de intendentes,
     subdelegados y demás empleados en Indias* (Madrid: imprenta de la
     viuda de Ibarra, 1803), art. 91.

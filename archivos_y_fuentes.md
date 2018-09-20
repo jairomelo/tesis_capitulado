@@ -28,12 +28,18 @@ Audiencia de Caracas, 418
 
 Audiencia de Quito, 398
 
+Indiferente general, 415
+
 **Archivo Histórico Nacional (Madrid)**
 
 Estado, 3092
 
 Fuentes primarias publicadas
 ----------------------------
+
+Ayala, Manuel José de. *Diccionario de gobierno y legislación de
+Indias*. Editado por Milagros del Vas Mingo. 13 vols. Madrid: Instituto
+de Cooperación Iberoamericana : Ediciones de Cultura Hispánica, 1988.
 
 *Diccionario de la lengua castellana compuesto por la Real Academia
 Española reducido á un tomo para su mas fácil uso*. Madrid: Joaquín
@@ -44,10 +50,6 @@ sentido de las voces, su naturaleza y calidad, con las phrases o modos
 de hablar, los proverbios o refranes, y otras cosas convenientes al uso
 de la lengua*. Madrid: imprenta de Francisco del Hierro, 1726-1739.
 
-Ayala, Manuel José de. *Diccionario de gobierno y legislación de
-Indias*. Editado por Milagros del Vas Mingo. 13 vols. Madrid: Instituto
-de Cooperación Iberoamericana : Ediciones de Cultura Hispánica, 1988.
-
 Escriche, Joaquín. *Diccionario razonado de legislación y
 jurisprudencia*. Nueva edición reformada y aumentada por León Galindo y
 José Vicente y Caravantes. Madrid: Imprenta de Eduardo Cuesta, 1874.
@@ -57,11 +59,21 @@ Consejo de Castilla, sobre indultos generales \[1779\]". En *Obras del
 excelentisimo señor D. Gaspar Melchor de Jovellanos*, VII:20--28.
 Barcelona: Imprenta de Francisco Oliva, 1840.
 
+Levallier, Roberto, ed. *Gobernantes del Perú. Cartas y papeles*. XIV
+vols. Madrid: sucesores de Rivadeneira, 1921.
+
 ### Legislación
+
+*Cedulario de Encinas*. Madrid: Imprenta Real, 1596.
 
 *Corpus Iuris Civilis*. *Digesto y Código de Justiniano.* Edición
 facsímil por editorial Lex Nova de 1989. Trad. Ildefonso L. García del
 Corral. Barcelona: Jaime Molinas, 1889-1895.
+
+*Corpus juris canonici emendatum et notis illustratum*. Roma : In
+aedibus Populi Romani, 1582. Edición electrónica por UCLA Digital
+Library Program.
+[[http://digital.library.ucla.edu/canonlaw]{.underline}](http://digital.library.ucla.edu/canonlaw)
 
 *Las Siete Partidas del Sabio Rey don Alonso el nono \[sic\] nuevamente
 glosadas por el Licenciado Gregorio Lopez*. Salamanca: Andres de
@@ -137,8 +149,8 @@ Anissonios, Posuel et Rigaud, 1686.
 Mendo, Andrés. *Principe perfecto y ministros ajustados, documentos
 políticos y morales.* Lyon: Horacio de Boissat y George Remeus, 1692.
 
-Murillo Velarde, Pedro. *Cursus iuris canonici, hispani et indici*.
-Editio tertia. Madrid: Tipografía de Ulloa y Ramón Ruiz, 1791.
+Murillo Velarde, Pedro. *Cursus iuris canonici, hispani et indici*
+\[1743\]. Editio tertia. Madrid: Tipografía de Ulloa y Ramón Ruiz, 1791.
 Traducción española por Alberto Carrillo Cázares (coord.) *Curso de
 derecho canónico hispano e indiano*. 4 vol. Zamora, Mich.: El Colegio de
 Michoacán, Facultad de derecho UNAM, 2004.
@@ -151,6 +163,10 @@ Juan Mommarte, 1664.
 
 Núñez de Toledo, Hernán. *Glosa sobre las trezientas del famoso poeta
 Juan de Mena*. Sevilla: Iuan Varela, 1528.
+
+Palacios, Prudencio Antonio. *Notas a la recopilación de leyes de
+Indias*. Editora Beatriz Bernal de Bugueda. México: Universidad Autónoma
+de México, 1979.
 
 Palafox y Mendoza, Juan de. *Historia Real Sagrada, luz de príncipes y
 súbditos* \[1643\]. Segunda impresión corregida y aumentada. Bruselas:
