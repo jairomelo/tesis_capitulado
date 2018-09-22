@@ -161,6 +161,10 @@ Anissonios, Posuel et Rigaud, 1686.
 Mendo, Andrés. *Principe perfecto y ministros ajustados, documentos
 políticos y morales.* Lyon: Horacio de Boissat y George Remeus, 1692.
 
+Menochio, Giacomo. *De praesumptionibus, coniecturis, signis et indiciis
+commentaria* \[1595\]. 2 vol. Colonia: Ioannis Antonii et Samuelis de
+Tourmes, 1670.
+
 Murillo Velarde, Pedro. *Cursus iuris canonici, hispani et indici*
 \[1743\]. Editio tertia. Madrid: Tipografía de Ulloa y Ramón Ruiz, 1791.
 Traducción española por Alberto Carrillo Cázares (coord.) *Curso de
