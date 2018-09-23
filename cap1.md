@@ -905,10 +905,21 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     literario de la realeza bajomedieval", *Medievalismo: Boletín de la
     Sociedad Española de Estudios Medievales*, núm. 16 (2006): 20--26.
 
-[^9]: Pardo Molero, "Introducción".
+[^9]: Juan Francisco Pardo Molero, "Introducción. Gobernar según la
+    virtud en la Monarquía Hispánica", en *El gobierno de la virtud:
+    política y moral en la Monarquía Hispánica (siglos XVI-XVIII)*, ed.
+    Juan Francisco Pardo Molero, Sección de obras de historia (Madrid:
+    Red Columnaria, Fondo de Cultura Económica, 2017), 9--27.
 
-[^10]: Pardo Molero, 9; Barrientos Grandon, *El gobierno de las Indias*,
-    67--69; Soen, "¿Cómo practicar la virtud?", 115--18.
+[^10]: Pardo Molero, 9; Javier Barrientos Grandon, *El gobierno de las
+    Indias*, Colección historia 1 (Madrid: Fundación Rafael del Pino,
+    Marcial Pons, 2004), 67--69; Violet Soen, "¿Cómo practicar la
+    virtud? Protagonistas y pareceres en la querella sobre la virtud de
+    la clemencia durante la guerra de Flandes (1565-1585)", en *El
+    gobierno de la virtud: política y moral en la Monarquía Hispánica
+    (siglos XVI-XVIII)*, ed. Juan Francisco Pardo Molero, Sección de
+    obras de historia (Madrid: Red Columnaria, Fondo de Cultura
+    Económica, 2017), 115--18.
 
 [^11]: "J'ai mieux compris l'Ancien Régime du moment que je l'ai
     considéré comme un ensemble structuré de conventions, de règles
@@ -926,8 +937,9 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     (Valencia: Pre-Textos, 2005), 70 y ss.
 
 [^13]: Administrativo el sentido de acto de justicia o gobierno, no del
-    mero cumplimiento de leyes. Garriga Acosta, "Sobre el gobierno de la
-    justicia en Indias (Siglos XVI-XVII)", 78--84.
+    mero cumplimiento de leyes. Carlos Garriga Acosta, "Sobre el
+    gobierno de la justicia en Indias (Siglos XVI-XVII)", *Revista de
+    historia del derecho*, núm. 34 (2006): 78--84.
 
 [^14]: Pedro Calderón de la Barca, *El indulto general. Edición
     crítica*, ed. Ignacio Arellano y Juan Manuel Escudero, Autos
@@ -953,7 +965,9 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     Godoy, quinta impresión (Barcelona: imprenta de Juan Pablo y Juan
     Marti, 1718) tomo II, tratado I, prólogo.
 
-[^18]: Hespanha, *Cultura jurídica europea*, 42.
+[^18]: António Manuel Hespanha, *Cultura jurídica europea: síntesis de
+    un milenio*, trad. Isabel Soler y Concepción Valera (Madrid: Tecnos,
+    2002), 42.
 
 [^19]: Entendida esta última en los términos de Pedro Ruiz Torres, no
     como "una doctrina o un sistema filosófico, sino un movimiento
@@ -968,18 +982,34 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     voces\[...\]* (Madrid: imprenta de Francisco del Hierro, 1726 y
     1737).
 
-[^21]: Rodríguez Flores, *El perdón real*, 12--14; Michel Foucault,
-    *Vigilar y castigar: nacimiento de la prisión*, trad. Aurelio Garzón
-    del Camino, 2a edición revisada (México: Siglo Veintiuno, 2015), 64;
-    Alonso Romero y Hespanha, "Les peines dans les pays ibériques",
-    201--2; Hespanha, "De iustitia a disciplina", 232.
+[^21]: María Inmaculada Rodríguez Flores, *El perdón real en Castilla
+    (siglos XIII-XVIII)* (Salamanca: Universidad de Salamanca, 1971),
+    12--14; Michel Foucault, *Vigilar y castigar: nacimiento de la
+    prisión*, trad. Aurelio Garzón del Camino, 2a edición revisada
+    (México: Siglo Veintiuno, 2015), 64; María Paz Alonso Romero y
+    António Manuel Hespanha, "Les peines dans les pays ibériques
+    (XVIIe-XIXe siècles)", en *La peine - Punishment. Europe depuis le
+    XVIIIe siècle*, vol. 3, Recueils de la Société Jean Bodin pour
+    l'Histoire Comparative des Institutions 57 (Bruxelles: De Boeck
+    Université, 1989), 201--2; António Manuel Hespanha, "De iustitia a
+    disciplina", en *La gracia del derecho: economía de la cultura en la
+    edad moderna*, trad. Ana Cañellas Haurie (Madrid: Centro de estudios
+    constitucionales, 1993), 232.
 
 [^22]: Hespanha, "De iustitia a disciplina", 233.
 
-[^23]: Hespanha, "La senda amorosa del derecho", 37; Agüero Nazar,
-    *Castigar y perdonar*, 145.
+[^23]: António Manuel Hespanha, "La senda amorosa del derecho. Amor y
+    iustitia en el discurso jurídico moderno", en *Pasiones del jurista.
+    Amor, memoria, melancolía, imaginación*, ed. Carlos Petit, Historia
+    de la sociedad política (Madrid: Centro de Estudios
+    Constitucionales, 1997), 37; Alejandro Agüero Nazar, *Castigar y
+    perdonar cuando conviene a la República: la justicia penal de
+    Córdoba del Tucumán, siglos XVII y XVIII* (Madrid: Centro de
+    Estudios Políticos y Constitucionales, 2008), 145.
 
-[^24]: Tomás y Valiente, "«In dubio pro reo»", 12.
+[^24]: Francisco Tomás y Valiente, "«In dubio pro reo», libre
+    apreciación de la prueba y presunción de inocencia", *Revista
+    Española de Derecho Constitucional*, núm. 20 (1987): 12.
 
 [^25]: *Digesto*, Lib. II, tit. I, núm. 3. Juan de Mariana, *La dignidad
     real y la educación del rey (De rege et regis institutione)*, ed.
@@ -1042,7 +1072,9 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     cap. V, núm. 5.
 
 [^37]: Nieremberg, cap. VIII, 68. Castillo de Bovadilla, Lib. I, cap. V,
-    núm. 4 y 9. Maiolo, *Medieval Sovereignty*, 31.
+    núm. 4 y 9. Francesco Maiolo, *Medieval Sovereignty: Marsilius of
+    Padua and Bartolus of Saxoferrato* (Delft: Eburon Academic, 2007),
+    31.
 
 [^38]: Castillo de Bovadilla, Lib. I, cap. V, núm. 8.
 
@@ -1060,16 +1092,23 @@ por la vía de Consejo, mantuvo intacta su autoridad.
 [^42]: Juan Eusebio Nieremberg, *Aforismos o dictámenes*, nueva edición
     (Bruselas: en casa de Juan Mommarte, 1664), Cent. VII, Dec. IV.
 
-[^43]: Un ejemplo de este tipo de restauración de las majestades fue
-    mostrado en Ballone, *The 1624 Tumult of Mexico*, 246. Sobre el
-    sentido de la restitución de la autoridad y el indulto real véase
-    Rodríguez Flores, *El perdón real*, 197.
+[^43]: Este tipo de restauración de las majestades ha sido identificado
+    también en Angela Ballone, *The 1624 Tumult of Mexico in perspective
+    (c. 1620-1650). Authority and conflict resolution in the Iberian
+    Atlantic*, European expansion and indigenous response, volume 24
+    (Leiden ; Boston: Brill, 2018), 246; y Verónica Salazar Baena,
+    "Fastos monárquicos en el Nuevo Reino de Granada. La imagen del rey
+    y los intereses locales. Siglos XVII-XVIII" (Tesis doctoral,
+    Universidad de Barcelona, 2013), 378. Sobre el sentido de la
+    restitución de la autoridad y el indulto real véase Rodríguez
+    Flores, *El perdón real*, 197.
 
 [^44]: Agüero Nazar, *Castigar y perdonar*, 279--83.
 
 [^45]: Castillo de Bovadilla, Lib. I, cap. V, núm. 10.
 
-[^46]: Grossi, *El orden jurídico medieval*, 213.
+[^46]: Paolo Grossi, *El orden jurídico medieval*, trad. Francisco Tomás
+    y Valiente (Madrid: Marcial Pons, 1996), 213.
 
 [^47]: Agüero Nazar, *Castigar y perdonar*, 164--65.
 
@@ -1113,8 +1152,9 @@ por la vía de Consejo, mantuvo intacta su autoridad.
 
 [^56]: Maiolo, *Medieval Sovereignty*, 70.
 
-[^57]: Costa, "La soberanía en la cultura político-jurídica medieval",
-    47.
+[^57]: Pietro Costa, "La soberanía en la cultura político-jurídica
+    medieval: imágenes y teorías", *Res Publica* 17 (2007): 47,
+    http://revistas.um.es/respublica/article/view/60591.
 
 [^58]: Alejandro Guzmán Brito, "Autoridad y potestad en la organización
     política", *Revista de Derecho de la Pontificia Universidad Católica
@@ -1148,10 +1188,14 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     al dar muerte al comendador en 1496: "¡Viva el rey Fernando! ¡Mueran
     malos cristianos y traidores!" (acto III, vv. 231-232).
 
-[^62]: Grossi, *Mitología jurídica de la modernidad*, 30--31.
+[^62]: Paolo Grossi, *Mitología jurídica de la modernidad*, trad. Manuel
+    Martínez Neira (Madrid: Trotta, 2003), 30--31.
 
-[^63]: Pardo Molero, "Introducción", 22; Garriga Acosta, "Orden jurídico
-    y poder político", 70--71.
+[^63]: Pardo Molero, "Introducción", 22; Carlos Garriga Acosta, "Orden
+    jurídico y poder político en el antiguo régimen", en *Cádiz, 1812.
+    La Constitución jurisdiccional*, de Carlos Garriga Acosta y Marta
+    Lorente Sariñena, Cuadernos y debates 174 (Madrid: Centro de
+    Estudios Políticos y Constitucionales, 2007), 70--71.
 
 [^64]: Decía Nieremberg que "con ella haze mas en sus subditos, que con
     el poder, armas y suplicios." *Aforismos o dictámenes*, cent. VII,
@@ -1209,7 +1253,11 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     Francisco del Hierro, 1732), discurso XI \"Balanza de Astrea o recta
     administración de justicia\", núm. 51.
 
-[^76]: Soen, "Challenges to Clemency", 1039.
+[^76]: Violet Soen, "Challenges to Clemency: Seneca, Lipsius and the
+    Dutch Revolt", en *Acta Conventus Neo-Latini Upsaliensis:
+    Proceedings of the Fourteenth International Congress of Neo-Latin
+    Studies (Uppsala 2009)*, ed. Astrid Steiner-Weber, vol. I (Leiden ;
+    Boston: Brill, 2012), 1039.
 
 [^77]: "admonens hoc esse boni Principis, semper intra regni terminos
     uersari, et peculiarem huius laudem esse clementiam". Erasmus,
@@ -1260,8 +1308,12 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     Indias", en *El gobierno de un mundo, virreinatos y audiencias en la
     América hispánica*, ed. Feliciano Barrios (Cuenca: Ediciones de la
     Universidad de Castilla-La Mancha, Fundación Rafael del Pino, 2004),
-    723. Sobre las garantías de la justicia Garriga Acosta, "Justicia
-    animada", 90--99. Respecto a la suplicación en el ámbito atlántico
+    723. Sobre las garantías de la justicia Carlos Garriga Acosta,
+    "Justicia animada: dispositivos de la justicia en la monarquía
+    católica", en *De justicia de jueces a justicia de leyes: hacia la
+    España de 1870*, ed. Marta Lorente Sariñena, Cuadernos de derecho
+    judicial, VI--2006 (Madrid: Consejo General del Poder Judicial,
+    2007), 90--99. Respecto a la suplicación en el ámbito atlántico
     véase Miguel Pino Abad, "El recurso de suplicación en el Consejo de
     Indias", en *Actas del XIX congreso del Instituto Internacional de
     Historia del Derecho Indiano. Berlín 2016.*, ed. Thomas Duve, vol.
@@ -1480,7 +1532,10 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     importante para los príncipes que para los súbditos, porque estos
     últimos pueden ser sofrenados por los jueces y por las leyes
     terrenales, mientras que los príncipes sólo pueden temer las penas
-    del infierno." Prodi, *Una historia de la justicia*, 42.
+    del infierno." Paolo Prodi, *Una historia de la justicia: de la
+    pluralidad de fueros al dualismo moderno entre conciencia y
+    derecho*, trad. Luciano Padilla López (Madrid: Katz Editores, 2008),
+    42.
 
 [^120]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, "Limpie de
     delinquentes el Reyno, sin que tengan asylo los culpados", p. 125.
@@ -1516,8 +1571,11 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     naturaleza, sin méritos ni proporción de parte nuestra, y siempre
     ordenado al logro de la bienaventuranza."
 
-[^126]: Agüero Nazar, "Las categorías básicas de la cultura
-    jurisdiccional", 45.
+[^126]: Alejandro Agüero Nazar, "Las categorías básicas de la cultura
+    jurisdiccional", en *De justicia de jueces a justicia de leyes:
+    hacia la España de 1870*, ed. Marta Lorente Sariñena, Cuadernos de
+    derecho judicial, VI--2006 (Madrid: Consejo General del Poder
+    Judicial, 2007), 45.
 
 [^127]: Al respecto es ilustrativo el capítulo VIII del libro II del
     *Tratado de la religión y las virtudes* de Ribadeneyra, en el cual
@@ -1535,8 +1593,10 @@ por la vía de Consejo, mantuvo intacta su autoridad.
 
 [^128]: Clavero, "Justicia y gobierno, economía y gracia"; *Antidora:
     antropología católica de la economía moderna*, Per la storia del
-    pensiero giuridico moderno 39 (Milán: Giuffrè, 1991); Hespanha, "La
-    economía de la gracia".
+    pensiero giuridico moderno 39 (Milán: Giuffrè, 1991); António Manuel
+    Hespanha, "La economía de la gracia", en *La gracia del derecho:
+    economía de la cultura en la edad moderna*, trad. Ana Cañellas
+    Haurie (Madrid: Centro de estudios constitucionales, 1993), 151--76.
 
 [^129]: Giovanni Botero decía incluso que el exceso de mercedes hacía
     del rey tirano al conducirlo al tributo abusivo o a la rapiña para
@@ -1555,10 +1615,15 @@ por la vía de Consejo, mantuvo intacta su autoridad.
     en España y América, siglos XVII y XVIII*, Colección Historia de
     España y su proyección internacional 10 (Valencia: Albatros, 2016).
 
-[^132]: Chaulet, *Crimes, rixes et bruits d'épées*, 375--76; Rodríguez
-    Flores, *El perdón real*, 66--69.
+[^132]: Rudy Chaulet, *Crimes, rixes et bruits d'épées: homicides
+    pardonnés en Castille au siècle d'or*, Espagne médiévale et moderne
+    11 (Montpellier: Presses Universitaires de la Méditerranée, 2007),
+    375--76; Rodríguez Flores, *El perdón real*, 66--69.
 
-[^133]: Herzog, *La administración como un fenómeno social*, 249--50.
+[^133]: Tamar Herzog, *La administración como un fenómeno social: la
+    justicia penal de la ciudad de Quito (1650 - 1750)*, Historia de la
+    sociedad política (Madrid: Centro de Estudios Constitucionales,
+    1995), 249--50.
 
 [^134]: Clavero, "Justicia y gobierno, economía y gracia"; Garriga
     Acosta, "Orden jurídico y poder político", 67.
