@@ -47,6 +47,9 @@ nombre de "la guerra de los barrios", y antes en Caracas se presentó la
 importante rebelión de la compañía Guipuzcoana entre 1749 y 1751, que
 palidece respecto a las rebeliones de esclavos de la década de 1790.
 
+La "rebelión de los Barrios"
+----------------------------
+
 [^1]: Flórez a Galvez, AGI, Santa Fe, 577B, Cartagena, 22 de agosto de
     1781.
 

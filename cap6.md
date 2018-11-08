@@ -1,5 +1,5 @@
-Capítulo VI. Ritualidad, gestualidad y ¿simbología? del perdón
-==============================================================
+Capítulo VI. Ceremonial, gestualidad y simbología del perdón
+============================================================
 
 Uno de los aspectos más relevantes del perdón general antes del siglo
 XVIII consistía en los aspectos rituales y simbólicos que acompañaban la
@@ -36,21 +36,21 @@ requisito para los efectos jurídicos del perdón.
 En términos institucionales, el indulto tenía los mismos efectos
 jurídicos (eliminación o conmutación de la pena, restitución de bienes y
 fama, entre otros) sin que fuese necesario llevar a cabo una
-ceremonia.[^2] En varios aspectos del orden normativo hispánico-indiano,
-los elementos simbólicos acompañaban los actos jurídicos para legitimar
-el procedimiento o intentar asegurar la verdad dentro del proceso
-inquisitivo. El juramento era garantizado no sólo por la advertencia de
-castigo en caso de falso testimonio, también se aseguraba la honestidad
-del testigo al hacerlo jurar ante "Dios Nuestro Señor" y exigirle hacer
-la señal de la santa cruz. La forma de hacer el juramento no era
-opcional, Hevia Bolaños lo decía claramente: "No vale el dicho del
-testigo, si no se dijo con juramento";[^3] así estaba establecido desde
-los tiempos de *Las Partidas*,[^4] y en ningún momento se denota una
-modificación en la práctica de los tribunales.[^5] Esto no significaba
-una garantía contra los falsos testimonios, no obstante, las pocas voces
-en contra de la validez del juramento indican la relevancia y
-persistencia de los elementos simbólicos dentro del procedimiento civil
-y penal hispano.[^6]
+ceremonia.[^2] En diversos aspectos del orden normativo
+hispánico-indiano, los elementos simbólicos acompañaban los actos
+jurídicos para legitimar el procedimiento o intentar asegurar la verdad
+dentro del proceso inquisitivo. El juramento era garantizado no sólo por
+la advertencia de castigo en caso de falso testimonio, también se
+aseguraba la honestidad del testigo al hacerlo jurar ante "Dios Nuestro
+Señor" y exigirle hacer la señal de la santa cruz. La forma de hacer el
+juramento no era opcional, Hevia Bolaños lo decía claramente: "No vale
+el dicho del testigo, si no se dijo con juramento";[^3] así estaba
+establecido desde los tiempos de *Las Partidas*,[^4] y en ningún momento
+se denota una modificación en la práctica de los tribunales.[^5] Esto no
+significaba una garantía contra los falsos testimonios, no obstante, las
+pocas voces en contra de la validez del juramento indican la relevancia
+y persistencia de los elementos simbólicos dentro del procedimiento
+civil y penal hispano.[^6]
 
 Bien podría el perdón estar asociado a una garantía simbólica como el
 juramento o la promesa, mas los aspectos rituales de la indulgencia no
@@ -73,6 +73,39 @@ perdón", ya que para validar una ritualidad asociada al indulto habría
 que comprobar el principio de repetición solemne, lo cual estaría en
 aparente contradicción con el sentido del ejercicio de la clemencia real
 como un acto excepcional.
+
+En el primer capítulo se esbozaron algunos aspectos de la tradición
+cultural del perdón hispánico-indiano, específicamente las relacionadas
+con las celebraciones religiosas del Corpus Christi y del Viernes Santo,
+con las cuales es posible comprender de manera más adecuada la mímica de
+esta procesión, exigida por los levantados de Cartagena. En esta
+sección, se profundizará en el Corpus Christi y su significado
+carismático y en las ceremonias de rendición y perdón, para lo cual nos
+serán de utilidad ejemplos europeos y americanos. Finalmente, se
+presentan algunos ejemplos relativos al ámbito Venezolano, del Nuevo
+Reino y Quito; contrastados con experiencias peruanas y novohispanas,
+para presentar una visión general de los aspectos ceremoniales asociados
+con el perdón. Finalmente, como cierre del capítulo, se hará una corta
+revisión de los aspectos rituales vinculados con las cartas de perdón de
+parte, para lo cual se aprovecharán los aportes de trabajos previos de
+Aude Argouse y María Albornoz, ambos enfocados en un espacio
+"periférico", como era la Capitanía General de Chile.
+
+El perdón en el marco de las ceremonias "barrocas"
+--------------------------------------------------
+
+### Corpus Christi
+
+### Rendición y sumisión
+
+Las ceremonias de perdón en el siglo XVIII en Quito, Nuevo Reino de Granada y Venezuela
+---------------------------------------------------------------------------------------
+
+Ritualidad judicial y perdón de parte
+-------------------------------------
+
+Conclusiones
+------------
 
 [^1]: Verónica Salazar Baena, "Fastos monárquicos en el Nuevo Reino de
     Granada. La imagen del rey y los intereses locales. Siglos
