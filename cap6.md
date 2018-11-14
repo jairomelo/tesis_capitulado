@@ -94,7 +94,62 @@ Aude Argouse y María Albornoz, ambos enfocados en un espacio
 El perdón en el marco de las ceremonias "barrocas"
 --------------------------------------------------
 
-### Corpus Christi
+### Corpus Christi, el sagrado sacramento y la reconciliación
+
+Aunque los perdones del Viernes Santo correspondían a la jornada
+tradicional para liberar a los presos haciendo eco de la liberación de
+Barrabás y la redención del "buen ladrón", la fiesta del Corpus era el
+escenario ideal para simbolizar la reunión de la ciudad con la Corona y
+por esto, rememorar la unión de los cristianos salvados de la
+condenación eterna por el misterio de la eucaristía.[^7] Además, la
+procesión del Corpus constituía una representación del *corpus mysticum*
+en el cual el orden de primacía se convertía en un asunto primordial
+para demostrar la organización de la autoridad en la ciudad,
+paradójicamente, también fue la fiesta del Corpus la que ayudó a
+construir la idea de la iglesia como cuerpo político.[^8] Durante la
+procesión, el sagrado sacramento se convertía en el centro de la ciudad
+y quien estuviese más cerca de la custodia hacía evidente su poder
+dentro del cuerpo político, tanto secular como eclesiástico.[^9] Este es
+un tema que ha atraído la atención de la historiografía debido a los
+diversos conflictos corporativos en las ciudades europeas y americanas.
+Poco se ha tratado en cambio sobre el perdón y la fiesta del Corpus pues
+no eran dos elementos necesariamente vinculados, a diferencia de los
+indultos y el Viernes Santo. La fiesta del Corpus no representaba un
+momento para ofrecer o cumplir el perdón sino para preparar la
+reconciliación o reforzar la armonía de la ciudad.
+
+*Preparar la reconciliación*
+
+Aunque se hicieron esfuerzos febriles por reorganizar la milicia local,
+
+la junta aceptó con realismo que aquella, por más que se la reforzase,
+sería
+
+incapaz de impedir la entrada de los socorranos a la capital. La junta
+resolvió
+
+que si los socorranos se acercaban a la capital toda la población
+clerical de
+
+esta, 170 sacerdotes seglares y 444 frailes pertenecientes a las varias
+órdenes
+
+regulares, deberían salir de la ciudad, con sus ornamentos
+eclesiásticos, para
+
+implorarles mesura a los socorranos. La idea era que llevaran el Santo
+Sacramento
+
+y cantaran cantos gregorianos. Si no eran atendidos sus ruegos, entonces
+la
+
+capital no ofrecería más resistencia y se rendiría.9 Así, el clero
+habría de ser la
+
+primera y única línea de defensa para impedir que los socorranos
+saquearan
+
+la ciudad. (Phelan, 180)
 
 ### Rendición y sumisión
 
@@ -124,3 +179,15 @@ Conclusiones
     XIII al XVIII)* (Salamanca: Universidad de Salamanca, 1982), 232.
 
 [^6]: Alonso Romero, 233.
+
+[^7]: María José del Río Barredo, *Madrid, urbs regia: la capital
+    ceremonial de la monarquía católica*, Historia Estudios (Madrid:
+    Marcial Pons, 2000), 214--15.
+
+[^8]: Barbara R. Walters, Vincent J. Corrigan, y Peter T. Ricketts, *The
+    Feast of Corpus Christi* (University Park, Pa: Pennsylvania State
+    University Press, 2006), 36--37.
+
+[^9]: Alejandro Cañeque, *The king's living image: the culture and
+    politics of viceregal power in colonial Mexico*, New World in the
+    Atlantic world (New York, N.Y: Routledge, 2004), 136.
