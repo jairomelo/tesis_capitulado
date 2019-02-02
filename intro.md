@@ -81,6 +81,47 @@ peticiones de perdón o ratificación de la reconciliación tras las
 rebeliones, el segundo, enfocado en el indulto general dado a los
 comuneros del Socorro en 1782.[^16]
 
+Debido a la amplitud temática que pretende abarcar este proyecto se ha
+preferido distribuir el balance historiográfico en cada capítulo, esto
+con el propósito de evitar mostrar una cantidad de referencias al inicio
+del trabajo que pueden contribuir más a distraer que a llamar la
+atención sobre la discusión historiográfica actual. De la misma manera,
+aunque no se pretendió ser negligente con las referencias
+bibliográficas, se asume que no podemos dar cuenta de toda la producción
+historiográfica que existe sobre el siglo XVIII para Panamá, el Nuevo
+Reino, Quito y Caracas, sumado el progresivo avance de los trabajos que
+surgen tanto de las universidades nacionales como extranjeras. Se
+intentó en lo posible dar cuenta de la mayor cantidad de obras que fuese
+dable consultar por diferentes vías de distribución física y
+electrónica. Afortunadamente varios trabajos relevantes que difícilmente
+se pueden adquirir físicamente en México pudieron ser obtenidos vía
+electrónica, algunos por adquisición personal y muchos por la
+solidaridad y generosidad de las redes de estudiantes e investigadores.
+No obstante, el autor es consciente de la vastedad del área que aún
+queda por explorar, por lo cual este trabajo no pretende de ninguna
+manera haber barrido con la totalidad de la producción bibliográfica
+disponible en la actualidad.
+
+### Fuentes doctrinales
+
+Saavedra Fajardo. La edición de 1642 publicada en Milán se considera
+como "de referencia"[^17] y fue de esta que se derivaron las
+reimpresiones del siglo XVIII e inicios del XIX (Madrid, 1724 y
+1789-1790; Valencia, 1786 y 1800-1801). La comparación entre las
+diferentes reimpresiones muestra que éstas fueron copias fieles a la
+edición subpríncipe, aunque modernizaron la ortografía y puntuación, e
+incluso en algunas prescindieron de los emblemas, el texto no es
+modificado ni se añaden comentarios, salvo algunas introducciones breves
+sin mayor relevancia para el conjunto de la obra.
+
+Aunque se prefirió remitirse a las obras originales, es necesario
+aclarar que en muchas ocasiones los oficiales, magistrados y abogados
+bebían de las obras doctrinales a través de textos jurisprudenciales,
+compilaciones glosadas y otras obras de mayor difusión. Lo que se
+observa es un modo de lectura fragmentaria y mediada de las obras
+doctrinales, que paradójicamente no parece haber tergiversado el texto
+original.
+
 Periodización
 -------------
 
@@ -199,3 +240,7 @@ Periodización
     XVII-XVIII" (Tesis doctoral, Universidad de Barcelona, 2013); María
     Victoria Montoya Gómez, "Castigo y perdón: el movimiento comunero.
     Nuevo Reino de Granada, 1781", *Mouseion*, núm. 18 (2014): 35--53.
+
+[^17]: Diego Saavedra Fajardo, "Idea de un príncipe político cristiano",
+    ed. Enrique Suárez Figaredo, *Lemir: Revista de Literatura Española
+    Medieval y del Renacimiento*, núm. 20 (2016): 522.

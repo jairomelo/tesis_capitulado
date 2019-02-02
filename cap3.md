@@ -1,462 +1,495 @@
-Capítulo III. La clemencia virreinal
-====================================
-
-El perdón, como atributo propio e indelegable de la majestad, debía ser
-utilizado exclusivamente por el rey. La presencia del soberano era
-suficiente para ser digno de perdón, ser visto o tocado por el monarca
-podría representar el liberarse de las prisiones, recuperar la libertad
-y ser restituido en honra e incluso bienes. No obstante, ser visto no
-era de ninguna manera una tarea sencilla. El rey manifestaba
-públicamente su carácter místico al no mirar a nadie en particular y al
-mismo tiempo verlo todo y a todos. Como sujeto público era invisible y
-por lo tanto inalcanzable al simple mortal, quien debía recurrir a
-intermediarios cargados de la suficiente honra para poder acercarse al
-monarca y mover su real clemencia. La diferencia entre el perdón y la
-justicia consistía precisamente en la ubicuidad mística del rey en cada
-tribunal de su reino, y cada juez en su jurisdicción administraba
-justicia a nombre del soberano;[^1] en contraposición, el perdón no
-hacía parte ni del gobierno ni de la justicia, sólo "los superiores"
-podían agraciar a sus súbditos por un atributo propio de su persona, no
-de su oficio. La pregunta que surge entonces es ¿cómo lograba el
-príncipe que su real clemencia, y con ella su suprema autoridad, llegase
-a los rincones más alejados de su presencia?
-
-La respuesta más escueta a esta pregunta es que el rey conseguía que su
-clemencia se distribuyese a sus vasallos en Indias mediante sus
-virreyes. Sin embargo, aunque el personaje del virrey indiano
-compartiera algunos atributos místicos del sujeto real, con los cuales
-se pretendía transmitir la majestad regia a las provincias alejadas de
-la Corte;[^2] éste estaba desprendido de la capacidad volitiva que
-caracterizaba al monarca. Como todo oficio del antiguo régimen, la
-acción del encargado del empleo virreinal estaba sugerida por una serie
-de instrucciones, ordenanzas y leyes; mas los pormenores de su quehacer
-no estaban delimitados por funciones sino debían ser deducidos en buena
-medida por la costumbre del lugar.[^3] Teóricamente los virreyes eran el
-"alter ego" del rey, mas en términos reales eran oficiales sometidos a
-las mismas reglas que un gobernador, capitán general o presidente de
-Audiencia, aunque con un ámbito jurisdiccional superior; con un margen
-de acción cada vez más limitado y cuyas decisiones arbitrarias debían
-restringirse a casos excepcionales y urgentes que requirieran actuar sin
-retraso; por ejemplo hambrunas, revueltas, rebeliones, ataques piráticos
-o de naciones enemigas.[^4]
-
-Hubo en los virreyes una particular ambigüedad que por una parte les
-atribuía, como decía Solórzano, "el mismo poder, mano y jurisdicción,
-que el Rey, que los nombra"; pero por otra parte les restringía,
-usualmente "en privado", para que no usase de todas estas atribuciones y
-se restringiera a lo meramente necesario para ejercer su oficio.[^5] En
-el caso del perdón, esta condición se cumplió cabalmente al otorgársele
-al virrey la facultad plena para perdonar en nombre del rey cualquier
-delito, incluso los exceptuados, de la misma manera que el príncipe lo
-habría hecho; pero al mismo tiempo, se le conminaba a no hacer uso de
-dicha facultad y limitarse a los casos excepcionales de revueltas y
-rebeliones. El virrey, de esta manera, representaba en público toda la
-autoridad y potestad del rey, aunque en su accionar tuviese que
-limitarse a la acción propia de un corregidor, como se acostumbraba en
-Castilla y no como se trataba en los virreinatos peninsulares e
-italianos.[^6] En efecto, los corregidores de la tradición tardomedieval
-castellana tenían entre sus potestades el perdón y el olvido de las
-faltas en caso de ser necesarios para el restablecimiento de la paz en
-el municipio,[^7] por lo cual podría considerarse que la facultad
-limitada en los virreyes para remitir delitos era un reflejo de dicha
-función pacificadora. En este sentido, la facultad de perdonar habría
-sido dada a los virreyes castellanos, en principio, por su misión
-específica de "imponer la tranquilidad y el orden en un territorio
-apartado", sólo desde el siglo XVI se le habría añadido a la investidura
-del virrey la característica de "representantes del rey."[^8]
-
-Como hipótesis de este capítulo, se considera que el virrey tenía una
-doble facultad para perdonar, por una parte, como corregidor, que se
-limitaba a la conservación de la paz y tranquilidad de su jurisdicción;
-y por otra parte, como alter ego del rey, al aplicar la clemencia "como
-el rey lo haría", para agraciar a los buenos vasallos del rey en su
-territorio. El usar una u otra prerrogativa sería una demostración de la
-prudencia del virrey, ya que en derecho se le había otorgado la facultad
-de perdonar cualquier delito y sólo "en privado", en sus cédulas de
-nombramiento e instrucciones, se le manifestaba el deseo del rey para
-que no usase dicho privilegio.
-
-3.1. El virrey del Nuevo Reino de Granada
------------------------------------------
-
-En términos jurisdiccionales, cuando hablamos de virreinato
-necesariamente nos referimos al oficio del virrey. A pesar de que la
-jurisdicción virreinal se tiende a representar como un ámbito
-geográfico, el virreinato era una "etiqueta" que se sobreponía a un
-conjunto de Audiencias para indicar un espacio de acción mas no una
-delimitación geográfica.[^9] El gobierno de los Borbones tuvo como una
-de sus tareas la "territorialización" de los virreinatos, al describir
-sus límites, características hidrográficas e hidrográficas, y sobre todo
-descubrir sus riquezas y potencialidades económicas para la Corona;[^10]
-no obstante, esta categoría descriptiva no reflejaba un ámbito
-jurisdiccional específico, sino los distritos sobre los cuales el virrey
-requería actuar como presidente de la Audiencia, promoviendo el gobierno
-en paz y justicia de gobernaciones, corregimientos y alcaldías,
-subordinadas éstas a las Reales Audiencias.[^11] La cédula para el
-establecimiento del empleo de virrey en 1717 para el Nuevo Reino de
-Granada es clara en este sentido: "he resuelto por mi Real decreto de 29
-de abril de este presente año, que se establezca y ponga Virrey en esa
-audiencia que reside en la ciudad de Santa Fe, Nuevo Reino de Granada, y
-que sea gobernador y capitán general y presidente de ella \[...\]"[^12]
-
-Para el momento de la segunda creación del virreinato del Nuevo Reino de
-Granada la "edad de oro" de los virreyes ya había culminado. Si seguimos
-el argumento de Manuel Rivero Rodríguez, las expectativas que hubiera
-creado este puesto habrían quedado anuladas de manera definitiva en la
-segunda mitad del siglo XVIII con la intensificación del proceso de
-centralización administrativa de la monarquía borbónica, marcado
-especialmente por la implementación de la reforma de intendentes, con la
-cual el virrey habría pasado a ser un personaje de segundo orden en la
-estructura de gobierno de las provincias indianas.
-
-Aunque es lugar común considerar que la creación del virreinato del
-Nuevo Reino fue la respuesta a las amenazas inminentes del ejército
-inglés,[^13] la guerra que se desarrolló después, llamada del asiento
-por los españoles y de la oreja de Jenkins por los ingleses, sí
-contribuyó a consolidar la segunda creación del virreinato, a pesar de
-los conflictos entre Sebastián de Eslava y las redes de las élites
-locales, causada en buena medida por el extremado celo del virrey por el
-real servicio.[^14] Al mismo tiempo, el ataque a los puertos y la casi
-pérdida de Cartagena justificó en las autoridades penínsulares la
-permanencia del virreinato, así como la necesidad de implementar
-reformas militares y en el sistema de comercio en el Caribe.[^15]
-
-El virrey podía ordenar,[^16] juzgar y perdonar.
-
-Si el virrey era un gobernador de una provincia superior ¿el gobernador
-podía perdonar?
-
-Si el virrey de Perú y Nueva España estaban facultados para perdonar con
-el propósito de incrementar la autoridad del rey en los lugares donde
-éste no podía llegar ¿el virrey del Nuevo Reino tenía la misma función?
-
-¿La facultad de perdonar se vio afectada por la administrativización de
-la monarquía?
-
-¿El regente, Capitán General o intendente, tenían la facultad graciosa?
-
-¿La clemencia real se mantuvo en el virrey a pesar de la "pérdida de
-autoridad" de su oficio?
-
-3.2. La facultad de perdonar dada al virrey
--------------------------------------------
-
-Tal vez el sentido normativo de la potestad para perdonar del virrey
-haya sido resumido, sin ser su propósito, por el fiscal de la Audiencia
-de Santa Fe en 1756 cuando, como respuesta a una solicitud de indulto,
-le indicó al virrey:
-
-> El Fiscal de Su Magestad a esta vista dise que por la Ley de Yndias
-> V\[uestra\] Excelencia tiene facultad para perdonar qualquier delito
-> como lo pudiera haser la R\[ea\]l Persona, con que \[de\]pende del
-> arbitrio de V\[uestra\] excelencia el perdonar o yndultar quando lo
-> tenga por c\[on\]ven\[ient\]e. El fiscal no le tiene, es acusador
-> forsoso, y como tal deve pedir las penas que corresponden a los
-> delitos que se cometen, y assi mismo las execuciones de las
-> sentencias.[^17]
-
-El fiscal salva su posición en la administración de justicia como
-acusador forzoso, promotor del justo rigor, señalándole al virrey que de
-su arbitrio depende hacer caso o denegar la solicitud de aquel que pide
-el perdón. Este magistrado resumía a sus términos más simples la ley
-citada de la recopilación que, a su vez, tomaba un extracto de una
-cédula de Felipe III del 19 de julio de 1614, que a la letra decía:
-
-> Concedemos Facultad á los Virreyes del Perú y Nueva España, para que
-> puedan perdonar qualesquier delitos y excessos cometidos en las
-> Provincias de su govierno, que Nos, conforme á derecho y leyes de
-> estos Reynos podriamos perdonar, y dar, y librar los despachos
-> necessarios, para que las Iusticias de todos nuestros Reynos y
-> Señorios no procedan contra los culpados, á la averiguacion y castigo,
-> assi de oficio, como á pedimento de parte, en quanto á lo criminal,
-> reservando su derecho en lo civil, daños. é interesses de las partes,
-> para que le pidan y sigan como les convenga.[^18]
-
-Esta norma hacía parte de una concesión mayor hecha por el monarca
-citado, refrendada posteriormente por Felipe IV el 18 de febrero de
-1628, con la cual se les dotaba de los mayores honores y dignidades a
-los virreyes encargados a Indias.[^19] La cédula, que fue dividida en
-varias leyes al ser recopilada,[^20] habría sido dada al virrey
-Francisco de Borja y Aragón, príncipe de Esquilache, al ser asignado al
-distrito del Perú. Solórzano resaltó esta provisión como una muestra
-evidente de la "gran potestad, y dignidad de los Virreyes" e infiere de
-la misma: "Que á los Virreyes se les debe guardar, y guarde la misma
-obediencia, y respeto que al Rey, sin poner en esto dificultad, ni
-contradicion, ni interpretacion alguna. Y con apercebimiento, que los
-que á esto contravinieren, incurrirán las penas puestas por derecho á
-los que no obedecen los mandatos Reales, y las demas que alli de nuevo
-pone, y refiere."[^21] Juan de Mendoza, virrey del Perú, llegó incluso a
-decir a su sucesor, el príncipe de Esquilache, en una relación del 12 de
-diciembre de 1615, que el virrey era el rey en Perú, con la misma
-potestad del monarca y con universal superioridad en su provincia,
-solamente limitada por la ley, la costumbre y su propia prudencia.[^22]
-
-La facultad de perdonar habría sido otorgada a los virreyes desde por lo
-menos 1563 cuando se incluyó en el despacho al virrey del Perú Francisco
-de Toledo. En esta se le dotó de la autoridad para remitir delitos con
-el propósito de apaciguar las "alteraciones y desasosiegos" que se
-habrían presentado en la provincia peruana y atraer con el perdón a los
-vasallos culpados de ser instigadores de los desórdenes, quienes no
-habrían tenido "intención de deservir", eran leales a sus "señores
-naturales", y por tanto podían ser convencidos para que amaran al rey
-"como nos los amamos". Un aspecto importante fue que se facultaba al
-virrey para que perdonara toda clase de delitos, "aunque sea crimen lega
-maiestatis \[sic\]", una potestad extraordinaria que prácticamente
-equiparaba al virrey con la majestad del príncipe.[^23] Antes de esta
-cédula, la potestad de perdonar era dada como "poder particular" con el
-cual el rey delegaba su facultad clemente de la misma manera como lo
-hacía con los presidentes de Audiencia o gobernadores, con el propósito
-de restaurar la autoridad regia en una zona rebelde; por ejemplo, cuando
-se comisionó a Pedro de la Gasca en 1546 para apaciguar los poblados
-levantados en el Perú en rechazo de la implementación de las denominadas
-"Leyes Nuevas", se le dijo "Tambien llevas poder particular para que si
-biereis que conbiene para la paçificacion de la tierra podais perdonar
-todas y qualesquier personas que en aquellas Provincias ovieren
-delinquido en qualquier genero de delito que ovieren cometido segund y
-como y por la manera que nos lo podriamos hazer, estareis adbertido que
-el perdon no se ha de hazer sino en los casos y por la manera que nos lo
-podriamos hazer como dicho es." La doble advertencia para que el perdón
-se hiciera tal como el rey lo haría es fundamental ya que aunque incluye
-todo género de delito limita la actuación del perdón a su misión de
-pacificar la tierra y deja a la prudencia del comisionado para exceptuar
-de la remisión del delito a los más culpables, con menor autoridad y a
-quienes el castigo no representara una posibilidad de nuevos
-desórdenes.[^24]
-
-La relevancia de la concesión de perdón de 1614 radica en que se
-considerará normativamente como el hito que ordenó la facultad de
-perdonar en los virreyes indianos. Aunque la *Recopilación de las
-Indias* de León Pinelo indicaba que esta facultad fue concedida en 1583
-con la real provisión que daba el poder de perdonar delitos al virrey
-póstumo del Perú Lorenzo Suárez de Mendoza,[^25] la referencia obligada
-tras la publicación de las *Recopilación de las leyes de las Indias*
-1680 sería la citada cédula de 1614. El comentarista Prudencio Antonio
-de Palacios, hacia 1744, anotaría esta ley recopilada para demostrar que
-la facultad de perdonar era ordinaria y no delegada: "esta prerrogativa
-es perpetua, porque es concedida a la dignidad que siempre vive."[^26]
-La autoridad de la que se valió Palacios para hacer dicha apreciación
-fue de primera mano Juan López de Cuéllar y de segunda mano el *Liber
-Sextus* del *Corpus Iuris Canonici*, el cual establecía que el rescripto
-de gracia concedida a alguien para proveer personas idóneas en alguna
-iglesia se mantenía en tanto no se revocara expresamente, pues "ya que
-la Sede \[Apostólica\] no muere, durará para siempre."[^27] Con el uso
-de esta autoridad, Palacios transpuso el sentido que dio López de
-Cuéllar a una cédula real dirigida al virrey y capitán general de
-Navarra cuyo encabezado rezaba: "Mi Virrey, y Capitan General del mi
-Reyno de Navarra, que al presente sois, y a los que al delante os
-succedieren en este cargo."[^28] Ninguna cédula planteó algo similar
-para los virreyes de Indias, sin embargo, la inserción autorizada de una
-versión de la cédula de 1614 en la *Recopilación de las leyes de las
-Indias* con el encabezado "concedemos facultad á los Virreyes del Perú y
-Nueva España" comprobaba la autoridad ordenada de la dignidad virreinal
-indiana para remitir delitos.[^29]
-
-Es decir, dicha concesión ya no era delegada, otorgada para el
-cumplimiento de una función específica, sino hacía parte del "cuerpo
-místico" del virrey, como espejo del rey el virrey reflejaba la majestad
-que tenía la potestad de perdonar, el corregidor, simplemente asignado
-cada cierto tiempo, se encargaba sencillamente de ejecutar lo que el rey
-haría. Es por ello que se le advertía al virrey como corregidor que no
-perdonase nada que trascendiera su mandato, que era el gobierno y
-mantenimiento de la paz de su provincia.
-
-Eslava: conflicto con los gobernadores
-
-Los tres puntos fundamentales de esta respuesta son: el virrey fue
-facultado por el rey para poder perdonar de la misma manera como lo
-haría el rey, en este sentido, perdonar es en efecto autoridad dada por
-el rey a su alter ego. En este mismo sentido, perdonar depende del mero
-arbitrio del virrey, por lo cual debería recurrir a su arbitrio para
-decidir cuándo era conveniente usar de su potestad. El fiscal cumple la
-parte de acusación forzosa, el brazo riguroso de la justicia que debe en
-derecho buscar por la pena y la ejecución de la condena obtenida en
-derecho. El fiscal era por tanto la voz severa de la conciencia en tanto
-el procurador era la patética, ambas se presentaban al virrey quien
-tenía la potestad de decidir.
-
-Aunque son unas pocas líneas, esta ley recopila una serie condiciones
-que eran dadas a los virreyes en extenso, de tal manera que tuvieran una
-mejor "inteligencia" respecto a la forma de utilizar su potestad. Lo que
-se presentaba en este resumen hecho de la cédula de Felipe III consistía
-básicamente en las dimensiones de la facultad del virrey y más que
-dirigido a los virreyes iba dirigido a las justicias de los reinos para
-que en caso de que el virrey hubiese perdonado algún reo se asumiera de
-la misma manera como si lo hubiese hecho el rey, y así se retiraran de
-la causa pues la justicia del rey lo había hecho, dejando claro que
-estos perdones sólo involucraban la justicia regia y no tenían efectos
-sobre las vindictas de terceros.
-
-El nombramiento del virrey iba acompañado por dos cédulas relativas a la
-facultad de perdonar. Una en la cual se le otorgaba potestad amplia para
-usar de esta regalía en nombre del rey quien, de antemano, perdonaba a
-todos aquellos que el virrey decidiera remitir durante su mandato. La
-segunda, indicaba que esta facultad se debía limitar a los casos de
-rebelión. Aunque autores como Lalinde Abadía consideraron que la
-facultad de perdonar se les otorgó a los virreyes en 1614,[^30] podría
-considerarse como un buen punto de partida la real provisión de Felipe
-II por la cual se le otorgó la potestad de remitir delitos al virrey del
-Perú, Conde de la Coruña, en el año 1583. Al hacer una comparación de
-esta provisión con las cédulas dadas a los virreyes del Nuevo Reino, las
-diferencias son relativamente pequeñas. Se modifican aspectos del
-lenguaje como que el rey se refiere en 1583 a "nos" y en el siglo XVIII
-lo hace en primera persona, aunque se eliminan con el tiempo tres
-menciones explícitas al poder de perdonar del príncipe otorgado a los
-virreyes:
-
--   La justificación de que esta facultad la daban para "\[que\] nos
-    amen con perfecto amor, como nos los amamos, y tengan mayor
-    obligación para nos servir". Una evidente expresión del uso de la
-    potestad clemente para atraer el favor de los vasallos y aumentar la
-    autoridad real.
-
--   La manera explícita como se dejaba declarado que usaban esta
-    potestad por "nuestra cierta ciencia y poderío Real absoluto". En
-    las cédulas posteriores se deja implícito ese aspecto.
-
--   En la provisión de 1583 se mencionaba que el virrey podía perdonar
-    cualquier clase de delito.
-
-El perdón y el buen gobierno provincial
----------------------------------------
-
-El perdón del gobernador
-
-El perdón del capitán general
-
-El perdón del regente?
-
-El perdón del intendente?
-
-Formas de usar el perdón
-------------------------
-
-Cédulas de indulto general.
-
-Perdón particular.
-
-[^1]: Ernst H. Kantorowicz, *The King's Two Bodies: A Study in Mediaeval
-    Political Theology*, Princeton Paperbacks (Princeton, N.J: Princeton
-    University Press, 1997), 4--5.
-
-[^2]: Solange Alberro, "El cuerpo del virrey y el arte del buen gobierno
-    en las Indias, siglos XVI y XVII", en *Las cortes virreinales de la
-    Monarquía española: América e Italia. Actas del Coloquio
-    internacional, Sevilla, 1-4 junio 2005*, ed. Francesca Cantù, Studi
-    e ricerche 17 (Roma: Viella, 2008), 301--5.
-
-[^3]: Bernardino Bravo Lira, "Oficio y oficina dos etapas en la historia
-    del Estado indiano", *Anuario Histórico Jurídico Ecuatoriano* V
-    (1980): 250--51.
-
-[^4]: Alberro, "El cuerpo del virrey", 295.
-
-[^5]: Alberro, 296; Javier Barrientos Grandon, *El gobierno de las
-    Indias*, Colección historia 1 (Madrid: Fundación Rafael del Pino,
-    Marcial Pons, 2004), 142.
-
-[^6]: Alberro, "El cuerpo del virrey", 293.
-
-[^7]: María Asenjo-González, "Función pacificadora y judicial de los
-    corregidores en las villas y ciudades castellanas, a fines de la
-    edad media", *Medievalista. Online*, núm. 18 (2015): párr. 36,
-    https://doi.org/10.4000/medievalista.1075.
-
-[^8]: Richard Konetzke, *América Latina II. La época colonial*, 15a ed.,
-    Historia universal 22 (México: Siglo Veintiuno, 1984), 118.
-
-[^9]: Rafael Diego-Fernández Sotelo, "Las Reales Audiencias Indianas
-    como base de la organización político-territorial de la América
-    Hispana", en *Convergencias y Divergencias. México y Andalucía:
-    siglos XVI-XIX*, ed. Celina Becerra Jiménez y Rafael Diego-Fernández
-    Sotelo (México: Universidad de Guadalajara, El Colegio de Michoacán,
-    2007), 25 y 47.
-
-[^10]: María José Afanador-Llach, "Political Economy, Geographical
-    Imagination, and Territory in the Making and Unmaking of New
-    Granada, 1739-1830" (Tesis doctoral, University of Texas at Austin,
-    2016), 39--50.
-
-[^11]: Diego-Fernández Sotelo, "Las Reales Audiencias Indianas", 46--49.
-
-[^12]: Real Cédula "Estableciendo el empleo de virrey para el Nuevo
-    Reino de Granada y extinguiendo la Audiencia de Quito", 27 de mayo
-    de 1717. *Cedulario americano del siglo XVIII*, ed. Antonio Muro
-    Orejón, vol. II (Sevilla: Escuela de Estudios Hispanoamericanos,
-    1969), 644, n. 1.
-
-[^13]: María Baudot Monroy, *La defensa del Imperio: Julián de Arriaga
-    en la Armada (1700 - 1754)*, Cátedra de historia naval 2 (Madrid:
-    Ministerio de Defensa, 2013), 177.
-
-[^14]: "Although local resistance to the first creation of the
-    viceroyalty was relatively limited, in the 1740s, the treat,
-    followed by the reality, of war allowed for the consolidation of
-    viceregal rule." Francisco A. Eissa-Barroso, *The Spanish Monarchy
-    and the Creation of the Viceroyalty of New Granada (1717-1739): The
-    Politics of Early Bourbon Reform in Spain and Spanish America*
-    (Leiden, Boston: Brill, 2016), 259.
-
-[^15]: Eissa-Barroso, 260.
-
-[^16]: Jesús Lalinde Abadía, "El régimen virreinosenatorial en Indias",
-    *Anuario de historia del derecho español* XXXVII (1967): 208--9.
-
-[^17]: "Francisco Cordero Vidal, vecino de Quito, su solicitud de
-    indulto", Santa Fe, 21 de mayo de 1756, AGNC, sección Colonia, fondo
-    Aduanas, tomo 11, ff. 290r-290v (al margen).
-
-[^18]: *Recopilación de las leyes de los reinos de las Indias*, lib.
-    III, tít. III, ley 27.
-
-[^19]: José Ignacio Rubio Mañé, *El virreinato: Orígenes y
-    jurisdicciones, y dinámica social de los virreyes*, vol. I, Sección
-    de obras de historia (México: Instituto de Investigaciones
-    Históricas, UNAM; Fondo de Cultura Económica, 1983), 115.
-
-[^20]: Corresponde a las leyes del libro III, tít. III, núm. 2, 7-11,
-    21, 25-28, 33, 53, 57, 66 y 72.
-
-[^21]: Solórzano Pereyra, *Política indiana*, Lib. V, cap. XII, núm. 8.
-    Véase específicamente la *Recopilación de las leyes de los reinos de
-    las Indias*, lib. III, tít. III, ley 2.
-
-[^22]: Manuel Rivero Rodríguez, *La edad de oro de los virreyes: el
-    virreinato en la monarquía hispánica durante los siglos XVI y XVII*
-    (Madrid: Akal, 2011), 204--5.
-
-[^23]: "Títulos, comisiones y otros despachos que llevó al Perú el
-    Virrey D. Francisco de Toledo", Aranjuez, 30 de noviembre de 1568,
-    en Roberto Levallier, ed., *Gobernantes del Perú. Cartas y papeles*,
-    vol. I, XIV vols. (Madrid: sucesores de Rivadeneira, 1921),
-    652-653*. *
-
-[^24]: "Instrucciones a Pedro de la Gasca", Veneto, 16 de febrero de
-    1546. AGI, Indiferente general, leg. 415, f. 379v. Parte de la
-    transcripción fue tomada de Gibran Bautista y Lugo, "Castigar o
-    perdonar. El gobierno de Felipe IV ante la rebelión de 1624 en
-    México" (Tesis doctoral, Universidad Nacional Autónoma de México,
-    2014), 232.
-
-[^25]: El cedulario de Encinas copia esta real provisión con idénticas
-    atribuciones que la despachada anteriormente al virrey Francisco de
-    Toledo. "Provision en que se da facultad al Virrey del Peru para
-    perdonar delitos acaecidos en aquellas provincias", Madrid, 9 de
-    diciembre de 1583, *Cedulario de Encinas* (Madrid: Imprenta Real,
-    1596), lib. I, f. 238.
-
-[^26]: Prudencio Antonio de Palacios, *Notas a la recopilación de leyes
-    de Indias*, ed. Beatriz Bernal de Bugueda (México: Universidad
-    Autónoma de México, 1979), 173
-
-[^27]: *Corpus juris canonici. Liber Sextus*. (Roma : In aedibus Populi
-    Romani, 1582), lib. I, tit. III, cap. V. Edición electrónica por
-    UCLA Digital Library Program.
-    [[http://digital.library.ucla.edu/canonlaw]{.underline}](http://digital.library.ucla.edu/canonlaw).
-    Murillo Velarde, *Cursus iuris canonici*, lib. I, tít. III, núm. 86.
-
-[^28]: López de Cuéllar, *Tratado iuridico-politico*, núm. 421.
-
-[^29]: Sobre la competencia ordenada de los virreyes véase Barrientos
-    Grandon, *El gobierno de las Indias*, 142.
-
-[^30]: Lalinde Abadía, "El régimen virreinosenatorial en Indias", 210.
+Capítulo III. El indulto y perdón general
+=========================================
+
+El indulto y perdón general era la forma más amplia de concesión de
+indulto y una de las más recurrentes durante el reinado de Carlos
+III.[^1] La costumbre general de conceder perdones generales por causas
+de "grand alegria", como señalaban las Partidas,[^2] se mantuvo durante
+los reinados de los Austrias y Borbones sin mayores cambios. Estos
+podían originarse como estrategia para la pacificación de las
+revueltas,[^3] la visita a las ciudades por parte de los reyes, y otros
+motivos políticos y militares que podían ser justificados como de
+regocijo universal. Desde el siglo XVII se hizo más frecuente el
+promulgar perdones amplios en forma de un decreto gracioso de indulto,
+siendo uno de los más conocidos el promulgado por Felipe III en 1606,
+que sirvió como fundamento para el difundido tratado de Garsia
+Mastrillo, *Ad indultum generale*.[^4] La mayoría de las indulgencias
+fueron motivadas por el nacimiento de un príncipe (1628, 1657, 1661,
+1667, 1668), pero hubo otros motivos como la llegada del príncipe de
+Gales a la península en 1623, la celebración de la victoria militar en
+1652 y la recuperación de la salud de Carlos II en 1697.[^5] Muchos de
+estos indultos abarcaron a toda la monarquía, cuya aplicación era
+encargada a los virreyes y sus Audiencias, quienes se delegaban para
+distribuir copias de las cédulas en su jurisdicción.[^6]
+
+Para el siglo XVIII se han identificado trece indultos generales (véase
+tabla 1) decretados con la motivación expresa del nacimiento de un
+príncipe, la exaltación al trono del monarca, y en un caso, la firma del
+tratado de Basilea con Francia. Incluso en éste último, la justificación
+principal para otorgar la gracia fue el matrimonio de las infantas doña
+María Amalia y doña María Luisa, por lo que se observa una constante en
+demostrar que el perdón surgía de la mera liberalidad del rey ante un
+acontecimiento que generaba alegría a la monarquía y a la misma persona
+que ostentaba la Corona. La preferencia por este tipo de motivaciones
+fue explicada de manera sintética por Pedro González Salcedo al decir
+que estos eran sucesos en que la piedad del rey "no permiten se mengüe
+la alegria comun, con el dolor, y aflicción del particular, que padece
+en los temores, anticipada la pena del justo castigo de su culpa".[^7]
+En este tipo de perdones se manifestaba ostensiblemente el semblante
+gracioso del perdón, al ser manifestación de la mera liberalidad y
+voluntad del monarca, sin que mediara súplica o restitución para su
+promulgación.
+
+De este listado se excluyeron aquellos indultos que tuvieron como
+finalidad la consolidación de la paz tras un levantamiento (por ejemplo,
+el después del motín de Esquilache en 1766 o de los comuneros del Nuevo
+Reino en 1782) o guerra (los mejores ejemplos consisten en los indultos
+generales otorgados a los catalanes en 1706 y 1713[^8]), aquellos que
+fueron promulgados como medida de urgencia para la financiación de la
+monarquía (como fueron los perdones a contrabandistas o la Junta de
+Indultos de 1703) o como una manera de contener la defección de la tropa
+(indultos de desertores de 1776, 1783, 1789, 1802 y 1804). Esto quiere
+decir que los actos de gracia del monarca no se limitaban a la fórmula
+del indulto general, ésta era su manifestación más graciosa y rutinaria,
+pero la gama del ejercicio de la clemencia regia superaba con creces las
+limitaciones de la indulgencia pública. La paradoja era que aunque el
+indulto general abarcara un universo amplio de reos, estados procesales
+y delitos, sus efectos no eran tan profundos como los que se podrían
+obtener por un indulto particular o colectivo.
+
+Tabla 1. Indultos generales decretados entre 1707 y 1810
+
+  **Fecha**                  **Alcance**                                                                                                               **Afectados**               **Motivo**
+  -------------------------- ------------------------------------------------------------------------------------------------------------------------- --------------------------- ----------------------------------------------------------------------------------------------
+  28 de agosto de 1707       Todos los reos, excepto ladrones, gitanos, mujeres de la galera, y homicidas.                                             Cárceles de Madrid          Nacimiento del príncipe Luis Felipe.[^9]
+  1719                                                                                                                                                                             Nacimiento de la infanta Mariana[^10]
+  19 de noviembre de 1726                                                                                                                                                          Nacimiento de la infanta María Teresa[^11]
+  29 de septiembre de 1746   Todos los reos con las excepciones acostumbradas                                                                          Reinos de Castilla y León   Exaltación al trono de Fernando VI[^12]
+  28 de enero de 1760        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Exaltación al trono de Carlos III[^13]
+  24 de diciembre de 1765    Todos los reos con las excepciones acostumbradas                                                                          Corte y Reino               Matrimonio del príncipe de Asturias[^14]
+  10 de octubre de 1771      Todos los reos con las excepciones acostumbradas                                                                          Corte y Reino               Parto de la princesa de Asturias[^15]
+  11 de enero de 1779        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Parto de la princesa María Luisa.[^16]
+  8 de junio de 1780         Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Nacimiento del infante Carlos Domingo Eusebio.[^17]
+  16 de enero de 1784        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Parto de los infantes gemelos Carlos y Felipe por la princesa María Luisa de Parma.[^18]
+  10 de junio de 1796        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Matrimonio de las infantas doña María Amalia y doña María Luisa. Paz con los franceses.[^19]
+  25 de julio de 1803        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Matrimonio del príncipe de Asturias.[^20]
+  30 de noviembre de 1810    Todos los reos comunes y militares, con las excepciones acostumbradas, además de los delitos de espionaje e infidencia.   Toda la monarquía           Consejo de Regencia[^21]
+
+Como se observa en el listado anterior, la política de indultos
+generales de Felipe V y Fernando VI fue relativamente parca. Durante las
+casi seis décadas que abarcaron ambos reinados sólo se promulgaron
+cuatro perdones universales y ninguno de éstos se extendió hasta los
+reinos de las Indias. En su lugar, estos monarcas prefirieron un
+gobierno de indultos particulares, limitados a la resolución de
+problemas puntuales y con pocos beneficiados. En contraste, el reinado
+de Carlos III se caracterizó por ser significativamente liberal. Durante
+su regencia se decretaron seis indultos generales, cuatro de los cuales
+abarcaron los dominios de ultramar. Carlos IV promulgó dos perdones
+públicos, siendo el de 1796 el único celebratorio del final de un
+conflicto internacional que involucrara a España. El indulto de 1803
+puede vincularse con la paz de Amiens y el fin de la guerra con el Reino
+Unido, pero incluso los indultos a militares casados sin permiso y
+desertores de octubre de 1802 señalaron como motivación el matrimonio
+del entonces príncipe Fernando.
+
+Pareciera una consecuencia lógica que los indultos generales estuvieran
+emparentados con la culminación de las guerras en las cuales se
+involucraban las tropas hispanas. La ley de *Partidas* relativa a los
+perdones era clara al mencionar que uno de los motivos de gran alegría
+que movía a la piedad pública del rey era la "vitoria que aya avido
+contra sus enemigos".[^22] Ni Gregorio López, Juan López de Cuéllar, o
+Garsia Mastrillo, incluyen las victorias militares como impulso para la
+piedad pública; en cambio sí lo hacen tratadistas dieciochescos como
+Álvarez Posadilla y Antonio Xavier Pérez. El primero señala que los
+perdones generales se concedían "con motivo del nacimiento de Príncipes,
+ú otros motivos de alegría, como victoria ó paz, etc".[^23] Pérez por su
+parte indicaba que la indulgencia pública se acostumbraba "en las
+ocasiones de regocijos públicos de nacimientos de Principes herederos,
+de victorias señaladas, de paces ó tratados ventajosos".[^24]
+
+¿La promulgación del indulto general carecía de interés político, surgía
+de la mera liberalidad monárquica? El efecto político es evidente: la
+demostración de la clemencia regia. Pero ¿por qué?
+
+La tendencia de los indultos generales pareciera ir a contracorriente
+del *esprit d'administration* que, en teoría, debería limitar las
+gracias y reservarlas para aquellos dignos de mérito. A pesar de su
+amplitud, la abundancia de indultos generales estaban consiguiendo dos
+cosas: la recuperación del monopolio de la gracia en el rey en la
+distribución de los perdones. Para los magistrados de la Audiencia de
+Santa Fe y su Virrey significó asimismo la posibilidad de evadir la
+responsabilidad en la promulgación de perdones particulares que
+posteriormente podrían ser cobrados como abusos. De la misma manera, los
+reos pudieron acogerse más fácilmente a un perdón general promulgado por
+el rey en lugar de tener que enviar súplicas al virrey a través de manos
+poderosas, lo cual no estaba de ninguna manera al alcance de un preso
+común.
+
+Este tipo de perdones se caracterizaba además por su amplitud. Abarcaba
+a todo el universo de reos, cubría todos los delitos en cualquier
+situación procesal, no requerían composición para ser otorgados, y
+resultaban en la libertad completa.[^25] Por convención, los edictos de
+indulto general incluían a todos los criminales y delitos cometidos
+antes de su promulgación; por lo tanto, en teoría, cualquier delincuente
+quedaba libre de acusación y toda imputación se tornaría nula. El edicto
+se dedicaba a limitar la indulgencia, porque esta incluía todos los
+crímenes, incluyendo aquellos gravísimos; y delimitar la gracia pues,
+como comentaba Juan López de Cuéllar, "no hablando de las personas,
+comprehende á todas".[^26] Sin embargo, para aquellos procesos que no se
+encontraban en estado de sentencia definitiva, el indulto general se
+interpretaba también como *publica* *abolitio*. Siguiendo la tradición
+del *ius commune*, la *generali abolitione* construía una situación
+jurídica particular en la cual a los criminales cobijados por la gracia
+no se les extinguía el delito, sino quedaba suspensa la acusación por el
+tiempo de celebración (tradicionalmente 30 días para los indultados en
+la cárcel de la Corte), lapso durante el cual el acusador podía entablar
+nuevamente la causa. Después de dicho término, aquellos que habían sido
+liberados lo serían para siempre pues quedaba vetada la posibilidad de
+formular nuevamente la acusación.[^27] Esta interpretación estaba
+inspirada en el códex justinianeo, específicamente en el punto que dice:
+"Cuando al tiempo en que nuestra indulgencia extinguió las acusaciones
+criminales no se hubiere entablado por ti la acusación, deja de haber la
+excepción de la abolición pública".[^28] En el caso del indulto general,
+el rey fungía como parte ofendida y retenía en sí la causa,[^29] motivo
+por el cual, a menos que durante el plazo establecido acusara nuevamente
+al indultado éste garantizaba su libertad.
+
+Aunque esta suspensión de la pena inherente a la *abolitio* pueda
+parecer una "ficción jurídica" tenía efectos prácticos, tal vez el más
+evidente era la posibilidad que un inculpado por un delito grave pudiese
+suspender la causa al impetrar el indulto, buscar el perdón de parte que
+lo remitiera de la condena, o por lo menos apostar por la conmutación de
+la pena ordinaria. Asimismo, en algunos indultos se extendía la gracia a
+los pobres presos por deudas por el término de treinta días usando la
+"fianza de la haz",[^30] obligación jurídica en la que el rey cumplía el
+rol de fiador del miserable para que éste pudiera acordar con sus
+acreedores una manera de saldar su deuda en el plazo mencionado. Si
+pasado el plazo no se había liquidado la deuda o la parte no desistía de
+la imputación, el fiado tendría que regresar a la cárcel; en caso de no
+hacerlo, el rey se obligaba a pagar la deuda que dejaba el pobre.[^31]
+Las cédulas contemplaban asimismo que se ayudaría a pagar sus deudas
+"con algún socorro" que por una única vez sería contribuido desde el
+ramo de penas de cámara.
+
+El gran inconveniente de tratar el indulto general como *abolitio*
+consistía en que no había con ello restitución de la fama, es decir, se
+borraba la acusación pero no el delito, por lo cual el indultado quedaba
+libre pero con la infame nota de delincuente.[^32] Como se ha dicho
+anteriormente, la restitución al estado original era fundamental para
+aquellos que requerían recuperar su oficio, negocios, o la honorabilidad
+de sus hijos manchada por el delito paterno; pero a menos que la cédula
+indicara de manera explícita que el rey incluía con el indulto la
+restitución de los bienes y fama, o se decía que con el perdón resultaba
+la plena libertad, el indultado solamente tenía garantizada su
+libertad.[^33] En este sentido habría que profundizar en algunos
+aspectos. La primera cuestión es que el acusado, en particular aquel que
+no estaba siendo procesado por delitos graves, no había ganado *infamia
+iuris*; sin embargo, el hecho de acogerse al perdón general era
+equiparable a la confesión del delito, por ende, el indulto irrogaba la
+infamia del reo.[^34] Otra cuestión es que el juez ordinario no contaba
+con la potestad para restituir bienes ni fama, por lo cual, aquel que
+había sido tachado de infamia tendría que recurrir directamente al rey o
+al virrey para que usando de sus facultades les perdonaran de manera
+particular.[^35] Por otra parte, los jueces encargados de determinar la
+sentencia de indulto tenían a su favor la regla de la interpretación; al
+no estar determinada por una cláusula específica la restitución de
+bienes, pero tampoco el embargo de los mismos, el tribunal podía decidir
+de manera favorable al indultado siguiendo su arbitrio, e incluso
+apoyarse en una de las tantas opiniones que consideraban el perdón
+general desde su perspectiva más indulgente.[^36]
+
+La promulgación y recepción del indulto general
+-----------------------------------------------
+
+Como prerrogativa indelegable, la cédula de indulto general sólo podía
+ser expedida por el Consejo de Cámara de Castilla, organismo encargado
+de los asuntos de gracia y merced, redactada por su secretario quien
+firmaba al final como responsable de su elaboración por mandato de su
+majestad. A pesar de la creación del sistema de Secretarías de Estado,
+los perdones no fueron compartidos por la del Despacho de Gracia y
+Justicia. De la misma manera, los indultos que abarcaban el fuero
+militar o se extendían a América corrían por vía de los consejos de
+Guerra e Indias. En este sentido, los indultos se promulgaron y
+distribuyeron según las vías construidas durante el régimen
+polisinodial.
+
+El original se remitía al presidente del Consejo quien nombraba a un
+grupo de ministros quienes serían los encargados de declarar quiénes
+debían gozar del indulto. Al final de cada cédula se indicaban cuáles
+eran los dos consejeros encargados de formar el tribunal determinado
+para observar las causas y determinar cuáles reos podían ser agraciados
+con la libertad. Para el caso de la Corte, el procedimiento estaba
+claramente señalado, debía formarse dicho tribunal con los cuatro jueces
+"más modernos" y el fiscal de la Sala de Alcaldes de Casa y Corte, más
+los consejeros escogidos previamente. Tras formar el grupo, en una hora
+y día acordado por sus miembros, se daba lectura pública de la cédula a
+cargo del escribano de Cámara de la Sala; posteriormente, el alcalde de
+más reciente nombramiento presentaba las partidas de presos que
+impetraban indulto. Éste mismo juez era encargado de escribir los
+decretos en el libro y se daba certificación del escribano para que
+constara en los procesos, determinando que los reos acogidos por el
+indulto se pusiesen incontinenti en libertad.[^37]
+
+Para el caso de las cédulas que abarcaban el continente americano y las
+islas Filipinas el procedimiento no estaba determinado de la misma
+manera que en Castilla, pero es probable que se imitara la forma de la
+Sala de Alcaldes de Madrid. En el perdón general de 1760 la Audiencia de
+Santa Fe notificaba su recepción e indicaban la forma en la que se
+recibía la cédula, según certificaba el escribano Josef de Rosas:
+
+> Estando en el R\[ea\]l Acuerdo de Justicia los S\[eñor\]es Virrey,
+> Presidente y oydores de la Audiencia y Chancillería Real de este nuevo
+> Reyno de Granada, hav\[iend\]o recivido y visto esta Real Cedula de su
+> Mag\[esta\]d, puestos en pie y destocados dixeron que la obedecian y
+> obedecieron en la forma acostumbrada, mandando se guarde, cumpla y
+> ejecute en todo y por todo su contenido, y que sacandose para archibar
+> su original, se de vista al s\[eño\]r Fiscal y assi lo dixeron y
+> rubricaron por ante mi de que doy fee.[^38]
+
+Como se observa, la ceremonia de recepción de estas cédulas se ajustaba
+a la de los demás mandatos del rey. En el caso del indulto de 1780, al
+ser recibido en la villa de Medellín, se añade que la carta fue besada y
+puesta sobre la cabeza, antes de ser obedecida y cumplida.[^39] Es
+decir, se mantuvieron las tradiciones performativas que se implementaron
+durante los siglos anteriores.
+
+Respecto al procedimiento, la recepción en la gobernación de Antioquia
+brinda luces con relación a la manera en que se seleccionaban las
+causas. En primer lugar, se ordenaba que se publicara por bando en las
+calles de la ciudad y se fijara copia legalizada en las puertas
+principales de las casas de cabildo. Posteriormente, el escribano debía
+llevar a la vista de los cabildantes todas las causas de los reos para
+examinar los delitos y se declarase quiénes de ellos podían gozar del
+indulto, quienes debían ser liberados sin la menor dilación.[^40]
+
+El impacto de los indultos generales
+------------------------------------
+
+A pesar de su frecuencia y distribución, los indultos generales tuvieron
+un impacto modesto en la administración de justicia. Las cárceles del
+reino no estaban precisamente atestadas de reos, además, era
+relativamente sencillo evadir la aprehensión antes del juicio por lo
+cual muchos casos terminaban juzgados en ausencia del sindicado. En este
+sentido, la cantidad de sujetos presentados a solicitar la gracia era
+bastante pequeña. Un caso particular fue el de la isla de Margarita
+(cuando aún formaba parte de la jurisdicción del virreinato
+santafereño), cuyo gobernador, Alonso del Río y Castro, informó de la
+publicación del indulto por la coronación de Carlos III en los partidos
+de su competencia, añadiendo: "no habiendo en esta isla criminal alguno
+de esta naturaleza lo participo a VE para su inteligencia y que queda
+cumplida la Real voluntad".[^41] La ausencia de criminales en la ínsula
+no necesariamente derivaba de la carencia de desorden, sino muy
+probablemente se debía a lo que en el año de 1762 había expuesto el
+mismo oficial en un informe al virrey Mesía de la Cerda, en el cual
+advertía sobre la desordenada dispersión de casas y hombres que poblaban
+la isla sin reducirse a la ciudad, según él, como efecto de la invasión
+francesa de 1684 que había arruinado la ciudad, llevado al exilio a
+parte de la nobleza, en tanto "los que de las demas calidades y colores
+hán podido labrar sus casitas lo hán echo por todo el territorio de la
+ciu\[da\]d, sembrándolas entre su maleza, de modo que ni la justicia
+puede vigilar sus excesos, y costumbres, ni la iglesia cuidar de sus
+almas..."[^42] Esto no quiere decir que el gobierno no ejecutara
+acciones para paliar el desorden de la ciudad, solamente que éstas no
+involucraban la acción penal. Por ejemplo, en 1759 el mismo gobernador
+aprovechó la solicitud de pobladores hecha por Iturriaga, comandante del
+Orinoco, para enviar media centena de "vagos y vagas" a que poblaran las
+recién creadas ciudades de Ciudad Real y Real Corona[^43], con lo cual
+esperaba se redujeran "los excesos" y se corrigieran "los menos
+escandalosos".[^44]
+
+La situación de un territorio pequeño y relativamente aislado no parecía
+diferir demasiado de otras jurisdicciones más cercanas a la ciudad
+capital del virreinato. En una jurisdicción tan grande como la
+gobernación de Antioquia, la cantidad de reos incluidos en indulto
+apenas pasaba de unos cuantos. Beatriz Patiño, en su investigación sobre
+la criminalidad y la penalidad en dicha jurisdicción, encontró solamente
+cuatro causas que fueron acogidas por indultos generales: una para el
+indulto de 1760, otra para el de 1784, y dos que fueron cobijados por el
+perdón de 1804.
+
+[^1]: Al parecer el reinado de Enrique IV de Castilla también fue
+    pródigo en este tipo de gracias, hasta el punto que las Cortes le
+    rogaron al rey que moderara la promulgación de perdones pues estaba
+    incentivando la osadía de sus vasallos hasta el punto que se
+    atrevían a blasfemar públicamente. María Inmaculada Rodríguez
+    Flores, *El perdón real en Castilla (siglos XIII-XVIII)* (Salamanca:
+    Universidad de Salamanca, 1971), 52--53.
+
+[^2]: *Partidas*, P. VII, tít. 32, ley I.
+
+[^3]: Rodríguez Flores, *El perdón real*, 52; Gibran Bautista y Lugo,
+    "Castigar o perdonar. El gobierno de Felipe IV ante la rebelión de
+    1624 en México" (Tesis doctoral, Universidad Nacional Autónoma de
+    México, 2014), cap. 5; Violet Soen, "Reconquista and Reconciliation
+    in the Dutch Revolt: The Campaign of Governor-General Alexander
+    Farnese (1578-1592)", *Journal of Early Modern History* 16, núm. 1
+    (2012): 1--22, https://doi.org/10.1163/157006512X620627.
+
+[^4]: Mastrillo, *Ad indultum generale*, cap. I, n. 1. Sobre el indulto
+    de 1606 y el tratado de Mastrillo véase: López de Cuéllar, *Tratado
+    iuridico-politico*, n. 20. Elizondo, *Práctica universal forense*,
+    T. IV, part. I, cap. XIV, n. 3. Bautista y Lugo, "Castigar o
+    perdonar", 275.
+
+[^5]: López de Cuéllar, *Tratado iuridico-politico*, n. 21-23. Elizondo,
+    *Práctica universal forense*, T. IV, part. I, cap. XIV, n. 5.
+    Rodríguez Flores, *El perdón real*, 53.
+
+[^6]: La costumbre consistía en hacer llegar la real cédula dirigida al
+    virrey y los oidores de la Audiencia junto con las copias a las
+    demás Audiencias y gobernaciones que estuviesen en el distrito
+    virreinal. Por ejemplo, los indultos de 20 de febrero de 1630 y 31
+    de diciembre de 1661 compulsaban copias a las Audiencias de Charcas,
+    Chile, Quito, Panamá, Santa Fe, y a las gobernaciones de Popayán,
+    Cartagena, Santa Marta, Río de la Plata y Tucumán. AGI, Indiferente
+    general, registros generalísimos, leg. 37, f. 201v, y leg. 40, f.
+    314r. Por su parte, el indulto general del 25 de diciembre de 1657
+    sólo se copia para las Audiencias de Charcas, Santa Fe, Quito,
+    Panamá y Chile. AGI, Indiferente general, registros generalísimos,
+    leg. 40, f. 27v.
+
+[^7]: González de Salcedo, *Tratado iuridico-politico*, cap. XXXI, núm.
+    27.
+
+[^8]: "Indulto y perdón general concedido por el Rey nuestro señor Don
+    Felipe V á todas las Ciudades, Villas, y Lugares del Principado de
+    Cataluña, que han faltado á la obediencia, y fee del juramento
+    prestado á su Magestad Catholica". Villa de Caspe, 15 de marzo de
+    1706, impreso disponible en
+    [[https://goo.gl/6B1shJ]{.underline}](https://goo.gl/6B1shJ).
+    "Cédula de indulto general a los catalanes". Madrid, 30 de marzo de
+    1713, impreso disponible en
+    [[https://goo.gl/e9euSF]{.underline}](https://goo.gl/e9euSF).
+
+[^9]: Rodríguez Flores, *El perdón real*, 271--72.
+
+[^10]: Rodríguez Flores, 53 nota 141.
+
+[^11]: Rodríguez Flores, 53 nota 141. Francisco Antonio Elizondo,
+    *Práctica universal forense*, t. V, par. II, cap. XIV, n. 4. Antonio
+    Martínez de Salazar data este indulto en 1727, *Colección de
+    memorias y noticias del gobierno general y político del Consejo*
+    (Madrid: Oficina de Antonio Sanz, 1764), Cap. XLVI, 524.
+
+[^12]: DADUN, Depósito Académico Digital Universidad de Navarra, *Fondo
+    Antiguo*, siglo 18, URI: http://hdl.handle.net/10171/30545
+
+[^13]: AGNC, Sección Colonia, Fondo Milicias y Marina, tomo 111, ff.
+    500-502. AHA, sección Gobierno, fondo Gobernación de Antioquia,
+    Reales Cédulas, tomo 2, ff. 215r-221v.
+
+[^14]: Vicente Vizcaíno, *Código y práctica criminal*, tomo III, 372.
+
+[^15]: Fondo Antiguo Universidad de Sevilla. B Rector Machado y Núñez A
+    113/136. Pérez y López, *Teatro de la legislación*, tomo XVI, 334.
+
+[^16]: AGNC, Colonia, Fondo Milicias y Marina, tomo 16, ff. 146-150.
+
+[^17]: AHM, Fondo Concejo de Medellín, SC Colonia, SR Reales Cédulas,
+    tomo 33, ff. 332r-334v.
+
+[^18]: AGNC, S Colonia, F Real Audiencia, SC Cundinamarca, leg. 17, ff.
+    744r-745v. Archivo Histórico de Medellín, Fondo Concejo de Medellín,
+    SC Colonia, Reales Cédulas, tomo 37, ff. 195r-197r.
+
+[^19]: Diego-Fernández Sotelo y Mantilla Trolle, II:373.
+
+[^20]: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes, tomo
+    35.
+
+[^21]: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes, tomo
+    37. AHA, sección Gobierno, fondo Gobernación de Antioquia, Reales
+    órdenes, tomo 4, f. 195r.
+
+[^22]: *Partidas* VII, tít. XXXII, L. 1.
+
+[^23]: Juan Álvarez Posadilla, *Práctica criminal por principios, o modo
+    y forma de instruir los procesos criminales en sumario y
+    plenario...* \[1794\], segunda edición (Madrid: imprenta de la viuda
+    de Ibarra, 1796) tomo II, diálogo XL, 482.
+
+[^24]: Pérez y López, *Teatro de la legislación*, tomo XVI, 320.
+
+[^25]: Antonio Gómez, *Variae resolutiones iuris civilis*, editio
+    novísima \[Madrid: 1780\], tomo III, 294. citado en Rodríguez
+    Flores, *El perdón real*, 49.
+
+[^26]: López de Cuéllar, *Tratado iuridico-politico*, núm. 109 y 115.
+    Mastrillo, *Ad indultum generale*, cap. V, núm. 1.
+
+[^27]: Mastrillo, *Ad indultum generale*, cap. V, núm. 3. Gregorio
+    López, glosa "gran alegría" a *Partidas* VII, tít. XXXII, L. 1.
+    Rodríguez Flores, *El perdón real*, 209.
+
+[^28]: "Quum eo tempore, quo indulgentia nostra crimina exstinxit,
+    accusatio a te instituta non fuerit, publicae abolitionis
+    praescriptio cessat". Código, lib. IX, tít. XLIII, "de generali
+    abolitione", núm. 2.
+
+[^29]: López de Cuéllar, *Tratado iuridico-politico*, núm. 48.
+
+[^30]: Rafael Diego-Fernández Sotelo y Marina Mantilla Trolle, eds., *La
+    Nueva Galicia en el ocaso del Imperio Español: los papeles de
+    derecho de la audiencia de la nueva Galicia del licenciado Juan José
+    Ruiz Moscoso, su agente fiscal y regidor del Ayuntamiento de
+    Guadalajara, 1780-1810*, vol. II, Colección Fuentes (Zamora,
+    Michoacán : Guadalajara, Jalisco: Colegio de Michoacán ; Universidad
+    de Guadalajara, 2003), 373. "Real Cédula sobre indulto general
+    concedido con motivo del matrimonio del Príncipe (1803)", AGNC,
+    Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes, tomo 35.
+
+[^31]: María Paz Alonso Romero, *El proceso penal en Castilla (Siglos
+    XIII al XVIII)* (Salamanca: Universidad de Salamanca, 1982), 203.
+
+[^32]: López de Cuéllar, *Tratado iuridico-politico*, núm. 116.
+
+[^33]: González de Salcedo, *Tratado iuridico-politico del contrabando*,
+    cap. 31, núm. 32, f. 179v.
+
+[^34]: López de Cuéllar, *Tratado iuridico-político*, núm. 49.
+
+[^35]: Rodríguez Flores, *El perdón real*, 204. Algunos ejemplos de este
+    tipo serán explicados más adelante.
+
+[^36]: Rodríguez Flores, 210--11.
+
+[^37]: El procedimiento fue descrito por Antonio Martínez de Salazar en
+    la *Colección de memorias y noticias del gobierno*, cap. XLVI,
+    522-24.
+
+[^38]: "Indulto general de Carlos III con motivo de su exaltación al
+    trono. Recepción en Santa Fe", Santa Fe, 1 de septiembre de 1761,
+    AGNC, Archivo Anexo, reales cédulas y órdenes, tomo 16.
+
+[^39]: "Copia y cumplimiento en el cabildo de Medellín de la real cédula
+    de indulto y perdón general a todos los reos, concedida por el
+    nacimiento del príncipe don Carlos Domingo Eusebio", Medellín, 6 de
+    febrero de 1781, AHM, Fondo Consejo de Medellín, Sección colonia,
+    reales cédulas, tomo 33, f. 334r. Idéntica fue la recepción de la
+    misma cédula en la gobernación de Paraguay el 4 de febrero de 1781,
+    la cual se puede consultar en el Archivo Nacional de Asunción,
+    sección historia,
+    [[http://historia.anasnc.senatics.gov.py/index.php/reales-cedulas-30]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/reales-cedulas-30)
+
+[^40]: "Copia y cumplimiento en el cabildo de Medellín de la real cédula
+    de indulto", Medellín, 6 de febrero de 1781, AHM, Fondo Consejo de
+    Medellín, Sección colonia, reales cédulas, tomo 33, f. 333r.
+
+[^41]: "Publicación del indulto de 1760 en la isla de Margarita", Isla
+    Margarita, 27 de octubre de 1762, AGNC, Sección Colonia, Juicios
+    criminales, leg. 130, f. 357v.
+
+[^42]: "Isla de Margarita: informe sobre su situación", Isla Margarita,
+    3 de noviembre de 1762, AGNC, Sección Colonia, Poblaciones varias,
+    tomo 10, f. 801v
+
+[^43]: La primera corresponde al actual caserío Las Bonitas, del
+    municipio de Cedeño en el estado de Bolívar (Venezuela). La segunda
+    se habría fundado cerca de Caicara del Orinoco, capital del mismo
+    municipio, en la margen del río Cuchivero. Las coordinadas
+    aproximadas serían, para Ciudad Real 7.868470 N, -65.660502 W, y
+    para Real Corona 7.638889 N, -65.963900 W.
+
+[^44]: Citado en José del Rey Fajardo, *Los Jesuitas en Venezuela. Las
+    misiones germen de la nacionalidad*, vol. V (Caracas: Universidad
+    Católica Andrés Bello, Pontificia Universidad Javeriana, 2007), 283.

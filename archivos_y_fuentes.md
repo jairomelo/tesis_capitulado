@@ -5,6 +5,10 @@ AGI: Archivo General de Indias, Sevilla.
 
 AGNC: Archivo General de la Nación de Colombia, Bogotá.
 
+AHA: Archivo Histórico de Antioquia
+
+AHM: Archivo Histórico de Medellín
+
 AHR-UIS: Archivo Histórico Regional de Santander, Universidad Industrial
 de Santander, Bucaramanga.
 
@@ -26,11 +30,11 @@ Archivos
 
 Audiencia de Caracas, 81
 
-Audiencia de Quito, 398
-
 Audiencia de Lima, 691
 
 Audiencia de Panamá, 358
+
+Audiencia de Quito, 398
 
 Audiencia de Santa Fe, 940
 
@@ -38,13 +42,38 @@ Indiferente general, 415
 
 ### Archivo General de la Nación de Colombia (Bogotá)
 
-Sección Colonia, fondo Aduanas, tomo 11
+Sección Colonia:
+
+> Aduanas, tomo 11
+>
+> Juicios criminales, tomo 130, 157
+
+Sección Archivo Anexo
+
+Reales cédulas y órdenes, tomo 16
+
+### Archivo Histórico de Antioquia (Medellín)
+
+Sección Gobierno, fondo gobernación de Antioquia:
+
+Reales cédulas, tomo 2
+
+Reales órdenes, tomo 4
+
+### Archivo Histórico de Medellín (Medellín)
+
+Fondo Consejo de Medellín, Sección Colonia, Reales Cédulas, 37
 
 ### Archivo Histórico Nacional (Madrid)
 
-Estado, 3092
-
 Consejo de Indias, Secretaría de Presidencia, 21672
+
+Libros manuscritos
+------------------
+
+Moreno y Escandón, Francisco Antonio. *Estado del virreynato de Santa
+Fee, Nuevo Reyno de Granada y Relación de su Gobierno y Mando del Exmo.
+Señor Bailío Don Pedro Mesía de la Cerda*. BDH-BNE, Mss/3118, 1772.
 
 Fuentes primarias publicadas
 ----------------------------
@@ -52,6 +81,10 @@ Fuentes primarias publicadas
 Ayala, Manuel José de. *Diccionario de gobierno y legislación de
 Indias*. Editado por Milagros del Vas Mingo. 13 vols. Madrid: Instituto
 de Cooperación Iberoamericana : Ediciones de Cultura Hispánica, 1988.
+
+Bentura Beleña, Eusebio. *Manifiesto de Eusebio Bentura Beleña*. Editado
+por Ignacio Almada Bay et al. Colección Fuentes. Zamora: El Colegio de
+Michoacán, Universidad de Guadalajara, El Colegio de Sonora, 2006.
 
 *Diccionario de la lengua castellana compuesto por la Real Academia
 Española reducido á un tomo para su mas fácil uso*. Madrid: Joaquín
@@ -65,6 +98,11 @@ de la lengua*. Madrid: imprenta de Francisco del Hierro, 1726-1739.
 Escriche, Joaquín. *Diccionario razonado de legislación y
 jurisprudencia*. Nueva edición reformada y aumentada por León Galindo y
 José Vicente y Caravantes. Madrid: Imprenta de Eduardo Cuesta, 1874.
+
+Gálvez, José de. *Informe sobre las rebeliones populares de 1767 y otros
+documentos inéditos*. Editado por Felipe Castro Gutiérrez. Serie
+Historia novohispana 43. México: Universidad Nacional Autónoma de
+México, 1990.
 
 Jovellanos, Gaspar Melchor de. "Informe de la Real Sala de Alcaldes al
 Consejo de Castilla, sobre indultos generales \[1779\]". En *Obras del
@@ -109,6 +147,12 @@ Julián de Paredes, 1681.
 personarum*. Segunda edición. Lyon: Sumptibus Horatii Boissat et Georgii
 Remeus, 1663.
 
+Álvarez Posadilla, Juan. *Práctica criminal por principios, o modo y
+forma de instruir los procesos criminales en sumario y plenario de las
+causas del oficio de justicia contra los abusos introducidos* \[1794\].
+Segunda edición. 2 vol. Madrid: Imprenta de la viuda de Ibarra,
+1796-1797.
+
 Asso, Ignacio Jordán de. *Instituciones del derecho civil de Castilla*
 \[1771\]*.* Edición cuarta. Madrid: Imprenta de Andrés de Sotos, 1786.
 
@@ -129,6 +173,9 @@ tribunales de España y de las Indias*. 8 tomos. Madrid: Joaquín Ibarra,
 
 Erasmus, Desiderius. *Institutio Principis Christiani* \[1516\].
 Basilea: Froben, 1519.
+
+González de Salcedo, Pedro. *Tratado iuridico-politico del contrabando*.
+Madrid: Diego Díaz de la Carrera, 1654.
 
 Guardiola y Sáez, Lorenzo. *El corregidor perfecto, y juez dotado de las
 calidades necesarias y convenientes para la buena administración de
@@ -151,6 +198,10 @@ Mariana, Juan de. *La dignidad real y la educación del rey (De rege et
 regis institutione)* \[1599\]. Editado por Luis Sánchez Agesta.
 Colección Clásicos políticos. Madrid: Centro de Estudios
 Constitucionales, 1981.
+
+Martínez de Salazar, Antonio. *Colección de memorias y noticias del
+gobierno general y político del Consejo.* Madrid: Oficina de Antonio
+Sanz, 1764.
 
 Mastrillo, Garsia. *Ad indultum generale comentarius catholici Phillippi
 III*. Palermo: Apud Franciscum Ciottum Venetum, 1616.
@@ -188,12 +239,21 @@ Palafox y Mendoza, Juan de. *Historia Real Sagrada, luz de príncipes y
 súbditos* \[1643\]. Segunda impresión corregida y aumentada. Bruselas:
 casa de Francesco Foppens, 1655.
 
+Pérez, Antonio Xavier. *Teatro de la legislación universal de España e
+Indias, por orden cronológico de sus cuerpos y decisiones no
+recopiladas*. 28 vols. Madrid: imprenta de Manuel González, imprenta de
+Manuel Espinosa, 1791-1798.
+
 Ribadeneyra, Pedro de. *Tratado de la religión y virtudes que deve tener
 el Príncipe Christiano, para governar y conservar sus estados*. Amberes:
 Imprenta plantiniana, 1597.
 
 Saavedra Fajardo, Diego de. *Idea de un príncipe político cristiano
 representada en cien empresas*. Mónaco, s.n., 1640, Milán, s.n., 1642.
+
+---------. "Idea de un príncipe político cristiano". Editado por Enrique
+Suárez Figaredo. *Lemir: Revista de Literatura Española Medieval y del
+Renacimiento*, núm. 20 (2016): 519--968.
 
 Seneca, Lucius Annaeus. "De Clementia". En *Moral Essays I*, traducido
 por John W. Basore, I:356--447. The Loeb classical library 214.
@@ -214,16 +274,23 @@ España*. Madrid: Imprenta de la viuda de Ibarra, 1797.
 Recursos digitales
 ------------------
 
-Biblioteca Nacional de España. *Biblioteca digital hispánica*. 2018.
-[[http://bdh.bne.es/]{.underline}](http://bdh.bne.es/)
-
-Fondazione Biblioteca Europea di Informazione e Cultura (BEIC).
-*Biblioteca digitale*. 2017.
-[[https://www.beic.it]{.underline}](https://www.beic.it)
+Archivo Nacional de Asunción. *Sección historia*. sf.
+[[http://historia.anasnc.senatics.gov.py/index.php/seccion-historia]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/seccion-historia)
 
 Bayerischen Staatsbibliothek y Münchener Digitalisierungszentrum.
 *Digitale Bibliothek*. 2018.
 [[https://www.digitale-sammlungen.de]{.underline}](https://www.digitale-sammlungen.de)
+
+Biblioteca Nacional de España. *Biblioteca digital hispánica*. 2018.
+[[http://bdh.bne.es/]{.underline}](http://bdh.bne.es/)
+
+DADUN. Depósito Académico Digital Universidad de Navarra. *Fondo
+Antiguo*. 2013.
+[[https://dadun.unav.edu/handle/10171/4687]{.underline}](https://dadun.unav.edu/handle/10171/4687)
+
+Fondazione Biblioteca Europea di Informazione e Cultura (BEIC).
+*Biblioteca digitale*. 2017.
+[[https://www.beic.it]{.underline}](https://www.beic.it)
 
 Instituto de Investigación Rafael Lapesa y Real Academia Española.
 *Diccionario de autoridades (1726-1739)*. Versión 1.1. 2013.
