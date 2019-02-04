@@ -38,7 +38,7 @@ Audiencia de Quito, 398
 
 Audiencia de Santa Fe, 940
 
-Indiferente general, 415
+Indiferente general, 415, 429,
 
 ### Archivo General de la Nación de Colombia (Bogotá)
 
@@ -86,6 +86,12 @@ Bentura Beleña, Eusebio. *Manifiesto de Eusebio Bentura Beleña*. Editado
 por Ignacio Almada Bay et al. Colección Fuentes. Zamora: El Colegio de
 Michoacán, Universidad de Guadalajara, El Colegio de Sonora, 2006.
 
+Abreu y Bertodano, José Antonio de. *Colección de los tratados de paz,
+alianza, neutralidad, garantía, protección, tregua, mediación, accesión,
+reglamento de límites, comercio, navegación, etc. hechos por los
+pueblos, reyes y príncipes de España*. (Madrid: Antonio Marín, Juan de
+Zúñiga y la viuda de Peralta, 1752), 369.
+
 *Diccionario de la lengua castellana compuesto por la Real Academia
 Española reducido á un tomo para su mas fácil uso*. Madrid: Joaquín
 Ibarra, 1780.
@@ -124,6 +130,11 @@ Corral. Barcelona: Jaime Molinas, 1889-1895.
 aedibus Populi Romani, 1582. Edición electrónica por UCLA Digital
 Library Program.
 [[http://digital.library.ucla.edu/canonlaw]{.underline}](http://digital.library.ucla.edu/canonlaw)
+
+*Las Siete Partidas del Sabio Rey don Alfonso el nono \[sic\] por las
+quales son derimidas las questiones è pleytos que en España ocurren.
+Sabiamente sacadas de las leyes canonicas y civiles. Con la glossa del
+insigne Dottor Alfonso Diez de Montalvo* \[1491\]. Lyon: \[s.n.\], 1550.
 
 *Las Siete Partidas del Sabio Rey don Alonso el nono \[sic\] nuevamente
 glosadas por el Licenciado Gregorio Lopez*. Salamanca: Andres de

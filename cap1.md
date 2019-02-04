@@ -1687,7 +1687,7 @@ no pasa de ser un proyecto.
     citra id, quod merito constitui posset". Séneca, "De clementia", II,
     párr. 3. También Andrés Mendo: "Moderar el rigor ajustado al delito
     es equidad, á que persuade la clemencia; excederle, es crueldad, en
-    que degenera la justicia". *Principe perfecto*, Doc. XXXI, "La pena
+    que degenera la justicia". *Principe perfecto*, doc. XXXI, "La pena
     se ha de proporcionar a la culpa".
 
 [^106]: Saavedra Fajardo, *Idea de un príncipe político christiano*,
@@ -1822,7 +1822,7 @@ no pasa de ser un proyecto.
 [^128]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, "Limpie de
     delinquentes el Reyno, sin que tengan asylo los culpados", p. 125.
 
-[^129]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, p. 123.
+[^129]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, 123.
 
 [^130]: "Nam severitas inflexibilis est circa inflictionem poenarum
     quando hoc recta ratio requirit, clementia autem diminutiva est
@@ -1950,7 +1950,7 @@ no pasa de ser un proyecto.
     para controlar la ira pues en al Príncipe se le juzgaría por su
     crueldad y soberbia: "No es muestra de poder el enojarse, antes es
     señal de falta del; pues quien tiene potestad en otros, no la tiene
-    en si mismo para refrenar su animo". *Principe perfecto*, Doc. V,
+    en si mismo para refrenar su animo". *Principe perfecto*, doc. V,
     "Temple los ardores de la ira, porque no salgan al rostro afectos
     indecentes".
 
@@ -2016,7 +2016,7 @@ no pasa de ser un proyecto.
     interpretación" del juez. La legislación era esencialmente rigurosa
     y por ello se aconsejaba que el juez en el momento de sentenciar se
     inclinase al lado de la clemencia y no del rigor. Andrés Mendo,
-    *Principe perfecto*, Doc. XXXI.
+    *Principe perfecto*, doc. XXXI.
 
 [^164]: "Sembrerebbemi, che una Legge generale, che promettesse
     l'impunità al complice palesatore di qualunque delitto, fosse
