@@ -76,6 +76,9 @@ Tabla 1. Indultos generales decretados entre 1707 y 1810
   25 de julio de 1803        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Matrimonio del príncipe de Asturias.[^21]
   30 de noviembre de 1810    Todos los reos comunes y militares, con las excepciones acostumbradas, además de los delitos de espionaje e infidencia.   Toda la monarquía           Consejo de Regencia[^22]
 
+La motivación del perdón general
+--------------------------------
+
 Como se observa en el listado anterior, la política de indultos
 generales de Felipe V y Fernando VI fue relativamente parca. Durante las
 casi seis décadas que abarcaron ambos reinados sólo se promulgaron
@@ -125,11 +128,11 @@ se encontrara en el mismo rango de las festividades reales, es decir, de
 eventos que atañían directamente a la vida de los miembros de la familia
 real. Christian Büschges menciona que en las cortes virreinales se
 hacían fiestas "dentro de palacio" para celebrar victorias militares, a
-las cuales concurrían autoridades civiles y eclesiásticas; lo cual puede
-dar una pista de la diferencia entre una celebración motivada por una
-buena nueva de la familia real y aquellas organizadas para aclamar el
-fortalecimiento de la monarquía. Si el indulto general era parte de la
-estrategia de fortalecimiento de los vínculos entre el rey y sus
+las cuales concurrían autoridades civiles y eclesiásticas;[^27] lo cual
+puede dar una pista de la diferencia entre una celebración motivada por
+una buena nueva de la familia real y aquellas organizadas para aclamar
+el fortalecimiento de la monarquía. Si el indulto general era parte de
+la estrategia de fortalecimiento de los vínculos entre el rey y sus
 vasallos, es de cierto modo evidente que esta amplia indulgencia quería
 apelar a un motivo de felicidad personal del monarca, que no podía verse
 opacada por el sufrimiento, el dolor y la aflicción de sus vasallos
@@ -138,44 +141,116 @@ vindicta del rey la que se daba por abolida e invitaba al perdón de las
 satisfacciones personales, por lo cual estaría acorde con el sentido de
 una indulgencia general el que fuese motivado por una alegría personal
 que lo invitaba a compartir sus beneficios con todos sus vasallos
-mediante una gracia general.
+mediante una gracia general. Finalmente, si se tiene en cuenta que el
+sentido del perdón era la restauración del estado anterior al daño, en
+el caso de la guerra o la rebelión tenía más sentido extender el perdón
+a los soldados desertores o los rebeldes que a toda la amplia gama de
+delincuentes que bien pudieron estar totalmente ajenos al conflicto.
 
-La anterior idea puede sustentarse a través de la doctrina moral. Por
-ejemplo, Andrés Mendo decía: "Pende el Reyno del arbitrio del Monarcha;
-á una voz suya se commueven las Provincias: á una seña los exercitos: á
-una ley todos los Vasallos. De su mano salen los premios; de su orden
-los castigos: de su semblante la alegria, o el dolor del Pueblo".[^27]
+Tenemos entonces que un concepto clave del indulto y perdón general era
+la alegría. Saavedra Fajardo consideraba que la victoria no debería
+traer alegría pues la sangre vertida opacaba la gloria y era,
+finalmente, el resultado del quiebre de la paz; consideraba asimismo que
+la paz estaba vinculada con la alegría, al contrario de la guerra que lo
+estaba con el horror.[^28] Decía este tratadista que "una batalla ganada
+suele ser principio de felicidad en el vencido, i de infelicidad en el
+vencedor".[^29] Los eventos de alegría se consideraban reflejados en el
+semblante de la familia real,[^30] eran parte de la corporalidad del rey
+que se extendía en la república;[^31] como decía en el siglo XVII Andrés
+Mendo: "De su mano salen los premios; de su orden los castigos: de su
+semblante la alegria, o el dolor del Pueblo".[^32] La alegría se
+diferenciaba semánticamente de la felicidad en tanto esta última se
+consideraba un estado permanente a conseguir, en este sentido, se
+relacionaba con el orden de justicia que garantizaba la equidad y la
+paz, como declaraba Carlos III en la ordenanza de intendentes de 1786:
+"desde mi exaltación al Trono he procurado uniformar el gobierno de los
+grandes Imperios que Dios me ha confiado, y poner en buen orden,
+felicidad y defensa mis dilatados Dominios de las dos Américas".[^33] No
+significa esto que la idea de felicidad pública haya sido una innovación
+del siglo XVIII, la tratadística "barroca" era clara en considerar que
+la espada y la ley eran la garantía de la felicidad de la república; lo
+que vino a innovar la casa borbónica fue la idea de que para poder
+alcanzar la felicidad era necesario reformar la manera de gobernar.[^34]
 
-La tendencia de los indultos generales pareciera ir a contracorriente
-del *esprit d'administration* que, en teoría, debería limitar las
-gracias y reservarlas para aquellos dignos de mérito. A pesar de su
-amplitud, la abundancia de indultos generales estaban consiguiendo dos
-cosas: la recuperación del monopolio de la gracia en el rey en la
-distribución de los perdones. Para los magistrados de la Audiencia de
-Santa Fe y su Virrey significó asimismo la posibilidad de evadir la
-responsabilidad en la promulgación de perdones particulares que
-posteriormente podrían ser cobrados como abusos. De la misma manera, los
-reos pudieron acogerse más fácilmente a un perdón general promulgado por
-el rey en lugar de tener que enviar súplicas al virrey a través de manos
-poderosas, lo cual no estaba de ninguna manera al alcance de un preso
-común.
+Durante las últimas décadas del siglo XVIII la idea de la felicidad
+asociada al progreso material de la república empieza a permear el
+discurso público.[^35] Según Paquette, la redefinición política del
+término sirvió para modificar y expandir la función "del estado" en la
+sociedad. En particular, involucró al gobierno de la república en el
+propósito de fortalecer a sus vasallos mediante el incremento de la
+riqueza personal, el aumento de la población, y el fomento del
+comercio.[^36] El avance de esta idea de felicidad general no parece
+haber afectado la política de indultos generales, tanto Carlos III como
+Carlos IV continuaron concediendo indultos generales "en celebridad" de
+nacimientos y matrimonios de príncipes. Incluso el Consejo de Regencia
+señaló que concedían un indulto general "deseando señalar el feliz
+acontecimiento de su instalación \[de las cortes de Cádiz\] con una
+demostracion de Clemencia en favor de los subditos españoles". Con
+Fernando VII que se inaugura una fórmula diferente:
 
-Este tipo de perdones se caracterizaba además por su amplitud. Abarcaba
-a todo el universo de reos, cubría todos los delitos en cualquier
-situación procesal, no requerían composición para ser otorgados, y
-resultaban en la libertad completa. Por convención, los edictos de
-indulto general incluían a todos los criminales y delitos cometidos
-antes de su promulgación; por lo tanto, en teoría, cualquier delincuente
-quedaba libre de acusación y toda imputación se tornaría nula. El edicto
-se dedicaba a limitar la indulgencia, porque esta incluía todos los
+> Queriendo señalar con un rasgo de mi Real piedad el dia venturoso en
+> que, afianzando la paz y tranquilidad de mis dominios, doy á los
+> Españoles una tierna madre en mi muy amada y querida Esposa la Reyna;
+> y no pudiendo gozar completamente de la felicidad que me prepara este
+> dia, tanto mas célebre por el dichoso enlace de mi amado y augusto
+> hermano D. Cárlos con la Infanta Doña Maria Francisca, sin aliviar
+> antes, en quanto permitan las leyes y la situacion del Reyno, la
+> suerte de los desgraciados que gimen baxo el peso de sus crímenes: he
+> venido en conceder Indulto general á los delinqüentes que sean capaces
+> de él.[^37]
+
+El contexto específico de este indulto obligaba a Fernando VII a
+mencionar el haber afianzado la paz y tranquilidad de sus dominios, pero
+aprovecha su matrimonio con su sobrina María Isabel de Braganza para
+expresar un motivo de alegría como tradicionalmente se había hecho.
+Inmediatamente, el rey pareciera retomar la idea expresada por Pedro
+González Salcedo al justificar su indulgencia afirmando que sería
+incapaz de "gozar completamente de la felicidad" sabiendo que hay
+"desgraciados que gimen baxo el peso de sus crímenes". Para 1819, en sus
+terceras nupcias con María Josefa de Sajonia, repitió la fórmula de una
+manera más sintética: "Queriendo señalar con un rasgo de mi Real piedad
+el dia venturosos en que doy á los españoles una tierna Madre en mi muy
+amada y querida Esposa la REINA, y no pudiendo gozar completamente de la
+felicidad que me prepara este dia sin aliviar antes en cuanto permitan
+las leyes y la situacion del Reino la suerte de los desgraciados que
+gimen bajo el peso de sus crímenes".[^38] Es posible que la inclusión en
+los indultos de la palabra "felicidad" fuese simplemente lexicográfico,
+pero la cédula real sería leída en cada ciudad del reino donde hubiese
+una autoridad, su copia fijada en las puertas del cabildo, por lo tanto
+la fuerza ilocutiva de la palabra era diferente al estar plasmada en un
+edicto regio que en un periódico, libro, panfleto, o pasquín.[^39]
+Vincular la clemencia con una palabra fundamental del léxico
+"ilustrado", apropiada por los republicanos de principios del siglo XIX,
+de cierta manera "moderniza" una categoría tradicional arraigada no en
+el "barroco" sino en la misma configuración del ordenamiento normativo
+hispano. Como se puede observar en la fórmula fernandina, la única
+modificación a la tradición del indulto general (en cuanto a su
+motivación) se relaciona con aprovechar la sinonimia con el término
+alegría para incorporar la palabra felicidad y servirse de la carga
+semántica que había desarrollado durante las últimas décadas. A pesar de
+ello, el sentido general del indulto se mantuvo: una extensión de la
+extraordinaria alegría del rey hacia sus vasallos por medio de una
+expresión de indulgencia, clemencia y piedad.
+
+El efecto jurídico del perdón general: *abolitio*, dilación y apartamiento 
+---------------------------------------------------------------------------
+
+Este tipo de perdones se caracterizaba por su amplitud. Abarcaba a todo
+el universo de reos, cubría todos los delitos en cualquier situación
+procesal, no requerían composición para ser otorgados, y resultaban en
+la libertad completa. Por convención, los edictos de indulto general
+incluían a todos los criminales y delitos cometidos antes de su
+promulgación; por lo tanto, en teoría, cualquier delincuente quedaba
+libre de acusación y toda imputación se tornaría nula. El edicto se
+dedicaba a limitar la indulgencia, porque esta incluía todos los
 crímenes, incluyendo aquellos gravísimos; y delimitar la gracia pues,
 como comentaba Juan López de Cuéllar, "no hablando de las personas,
-comprehende á todas".[^28] Gasia Mastrillo fue uno de los tratadistas
+comprehende á todas".[^40] Gasia Mastrillo fue uno de los tratadistas
 que consideró que el indulto general debía interpretarse como
 indulgencia, lo cual estaba muy acorde con la forma en que se expresaban
 estas gracias en el *Corpus Iuris Civilis* como *generalis
-indulgentia*;[^29] es decir, que incluía en su gracia los crímenes
-"enormísimos".[^30] ANTONIO gómez
+indulgentia*;[^41] es decir, que incluía en su gracia los crímenes
+"enormísimos".[^42] ANTONIO gómez
 
 Para aquellos procesos que no se encontraban en estado de sentencia
 definitiva, el indulto general se interpretaba también como *publica*
@@ -187,12 +262,12 @@ quedaba suspensa la acusación por el tiempo de celebración
 lapso durante el cual el acusador podía entablar nuevamente la causa.
 Después de dicho término, aquellos que habían sido liberados lo serían
 para siempre pues quedaba vetada la posibilidad de formular nuevamente
-la acusación.[^31] Esta interpretación estaba inspirada en el códex
+la acusación.[^43] Esta interpretación estaba inspirada en el códex
 justinianeo, específicamente en el punto que dice: "Cuando al tiempo en
 que nuestra indulgencia extinguió las acusaciones criminales no se
 hubiere entablado por ti la acusación, deja de haber la excepción de la
-abolición pública".[^32] En el caso del indulto general, el rey fungía
-como parte ofendida y retenía en sí la causa,[^33] motivo por el cual, a
+abolición pública".[^44] En el caso del indulto general, el rey fungía
+como parte ofendida y retenía en sí la causa,[^45] motivo por el cual, a
 menos que durante el plazo establecido acusara nuevamente al indultado
 éste garantizaba su libertad.
 
@@ -203,12 +278,12 @@ suspender la causa al impetrar el indulto, buscar el perdón de parte que
 lo remitiera de la condena, o por lo menos apostar por la conmutación de
 la pena ordinaria. Asimismo, en algunos indultos se extendía la gracia a
 los pobres presos por deudas por el término de treinta días usando la
-"fianza de la haz",[^34] obligación jurídica en la que el rey cumplía el
+"fianza de la haz",[^46] obligación jurídica en la que el rey cumplía el
 rol de fiador del miserable para que éste pudiera acordar con sus
 acreedores una manera de saldar su deuda en el plazo mencionado. Si
 pasado el plazo no se había liquidado la deuda o la parte no desistía de
 la imputación, el fiado tendría que regresar a la cárcel; en caso de no
-hacerlo, el rey se obligaba a pagar la deuda que dejaba el pobre.[^35]
+hacerlo, el rey se obligaba a pagar la deuda que dejaba el pobre.[^47]
 Las cédulas contemplaban asimismo que se ayudaría a pagar sus deudas
 "con algún socorro" que por una única vez sería contribuido desde el
 ramo de penas de cámara.
@@ -216,29 +291,29 @@ ramo de penas de cámara.
 El gran inconveniente de tratar el indulto general como *abolitio*
 consistía en que no había con ello restitución de la fama, es decir, se
 borraba la acusación pero no el delito, por lo cual el indultado quedaba
-libre pero con la infame nota de delincuente.[^36] Como se ha dicho
+libre pero con la infame nota de delincuente.[^48] Como se ha dicho
 anteriormente, la restitución al estado original era fundamental para
 aquellos que requerían recuperar su oficio, negocios, o la honorabilidad
 de sus hijos manchada por el delito paterno; pero a menos que la cédula
 indicara de manera explícita que el rey incluía con el indulto la
 restitución de los bienes y fama, o se decía que con el perdón resultaba
 la plena libertad, el indultado solamente tenía garantizada su
-libertad.[^37] En este sentido habría que profundizar en algunos
+libertad.[^49] En este sentido habría que profundizar en algunos
 aspectos. La primera cuestión es que el acusado, en particular aquel que
 no estaba siendo procesado por delitos graves, no había ganado *infamia
 iuris*; sin embargo, el hecho de acogerse al perdón general era
 equiparable a la confesión del delito, por ende, el indulto irrogaba la
-infamia del reo.[^38] Otra cuestión es que el juez ordinario no contaba
+infamia del reo.[^50] Otra cuestión es que el juez ordinario no contaba
 con la potestad para restituir bienes ni fama, por lo cual, aquel que
 había sido tachado de infamia tendría que recurrir directamente al rey o
 al virrey para que usando de sus facultades les perdonaran de manera
-particular.[^39] Por otra parte, los jueces encargados de determinar la
+particular.[^51] Por otra parte, los jueces encargados de determinar la
 sentencia de indulto tenían a su favor la regla de la interpretación; al
 no estar determinada por una cláusula específica la restitución de
 bienes, pero tampoco el embargo de los mismos, el tribunal podía decidir
 de manera favorable al indultado siguiendo su arbitrio, e incluso
 apoyarse en una de las tantas opiniones que consideraban el perdón
-general desde su perspectiva más indulgente.[^40]
+general desde su perspectiva más indulgente.[^52]
 
 La promulgación y recepción del indulto general
 -----------------------------------------------
@@ -270,7 +345,7 @@ más reciente nombramiento presentaba las partidas de presos que
 impetraban indulto. Éste mismo juez era encargado de escribir los
 decretos en el libro y se daba certificación del escribano para que
 constara en los procesos, determinando que los reos acogidos por el
-indulto se pusiesen incontinenti en libertad.[^41]
+indulto se pusiesen incontinenti en libertad.[^53]
 
 Para el caso de las cédulas que abarcaban el continente americano y las
 islas Filipinas el procedimiento no estaba determinado de la misma
@@ -286,12 +361,12 @@ recibía la cédula, según certificaba el escribano Josef de Rosas:
 > obedecieron en la forma acostumbrada, mandando se guarde, cumpla y
 > ejecute en todo y por todo su contenido, y que sacandose para archibar
 > su original, se de vista al s\[eño\]r Fiscal y assi lo dixeron y
-> rubricaron por ante mi de que doy fee.[^42]
+> rubricaron por ante mi de que doy fee.[^54]
 
 Como se observa, la ceremonia de recepción de estas cédulas se ajustaba
 a la de los demás mandatos del rey. En el caso del indulto de 1780, al
 ser recibido en la villa de Medellín, se añade que la carta fue besada y
-puesta sobre la cabeza, antes de ser obedecida y cumplida.[^43] Es
+puesta sobre la cabeza, antes de ser obedecida y cumplida.[^55] Es
 decir, se mantuvieron las tradiciones performativas que se implementaron
 durante los siglos anteriores.
 
@@ -302,10 +377,24 @@ calles de la ciudad y se fijara copia legalizada en las puertas
 principales de las casas de cabildo. Posteriormente, el escribano debía
 llevar a la vista de los cabildantes todas las causas de los reos para
 examinar los delitos y se declarase quiénes de ellos podían gozar del
-indulto, quienes debían ser liberados sin la menor dilación.[^44]
+indulto, quienes debían ser liberados sin la menor dilación.[^56]
 
 El impacto de los indultos generales
 ------------------------------------
+
+La tendencia de los indultos generales pareciera ir a contracorriente
+del *esprit d'administration* que, en teoría, debería limitar las
+gracias y reservarlas para aquellos dignos de mérito. A pesar de su
+amplitud, la abundancia de indultos generales estaban consiguiendo dos
+cosas: la recuperación del monopolio de la gracia en el rey en la
+distribución de los perdones. Para los magistrados de la Audiencia de
+Santa Fe y su Virrey significó asimismo la posibilidad de evadir la
+responsabilidad en la promulgación de perdones particulares que
+posteriormente podrían ser cobrados como abusos. De la misma manera, los
+reos pudieron acogerse más fácilmente a un perdón general promulgado por
+el rey en lugar de tener que enviar súplicas al virrey a través de manos
+poderosas, lo cual no estaba de ninguna manera al alcance de un preso
+común.
 
 A pesar de su frecuencia y distribución, los indultos generales tuvieron
 un impacto modesto en la administración de justicia. Las cárceles del
@@ -319,7 +408,7 @@ santafereño), cuyo gobernador, Alonso del Río y Castro, informó de la
 publicación del indulto por la coronación de Carlos III en los partidos
 de su competencia, añadiendo: "no habiendo en esta isla criminal alguno
 de esta naturaleza lo participo a VE para su inteligencia y que queda
-cumplida la Real voluntad".[^45] La ausencia de criminales en la ínsula
+cumplida la Real voluntad".[^57] La ausencia de criminales en la ínsula
 no necesariamente derivaba de la carencia de desorden, sino muy
 probablemente se debía a lo que en el año de 1762 había expuesto el
 mismo oficial en un informe al virrey Mesía de la Cerda, en el cual
@@ -330,14 +419,14 @@ parte de la nobleza, en tanto "los que de las demas calidades y colores
 hán podido labrar sus casitas lo hán echo por todo el territorio de la
 ciu\[da\]d, sembrándolas entre su maleza, de modo que ni la justicia
 puede vigilar sus excesos, y costumbres, ni la iglesia cuidar de sus
-almas..."[^46] Esto no quiere decir que el gobierno no ejecutara
+almas..."[^58] Esto no quiere decir que el gobierno no ejecutara
 acciones para paliar el desorden de la ciudad, solamente que éstas no
 involucraban la acción penal. Por ejemplo, en 1759 el mismo gobernador
 aprovechó la solicitud de pobladores hecha por Iturriaga, comandante del
 Orinoco, para enviar media centena de "vagos y vagas" a que poblaran las
-recién creadas ciudades de Ciudad Real y Real Corona[^47], con lo cual
+recién creadas ciudades de Ciudad Real y Real Corona[^59], con lo cual
 esperaba se redujeran "los excesos" y se corrigieran "los menos
-escandalosos".[^48]
+escandalosos".[^60]
 
 La situación de un territorio pequeño y relativamente aislado no parecía
 diferir demasiado de otras jurisdicciones más cercanas a la ciudad
@@ -466,27 +555,97 @@ perdón de 1804.
     Díaz de Montalvo, glosas "perdón" y "por victoria" a *Partidas*, P.
     VII, tít. 32, ley 1.
 
-[^27]: Mendo, *Principe perfecto*, doc. XV, 79.
+[^27]: Christian Büschges, "La corte virreinal como espacio político. El
+    gobierno de los virreyes de la América hispánica entre monarquía,
+    élites locales y casa nobiliaria", en *El mundo de los virreyes en
+    las monarquías de España y Portugal*, ed. Joan-Lluís Palos y Pedro
+    Cardim, Tiempo emulado 22 (Madrid : Frankfurt am Main:
+    Iberoamericana ; Vervuert, 2012), 334. Del mismo modo Jovellanos
+    decía en clave histórica para explicar el origen medieval de esta
+    tradición: "Estos regocijos mas privados, aunque muy concurridos,
+    eran un accesorio de las fiestas públicas, y tan ordinario las
+    seguían, que nunca se echaban de menos en lo que entonces se llamaba
+    *grandes alegría*, y hacían la mejor parte de ellas." Jovellanos,
+    "Memoria para el arreglo de la Policía de los espectáculos y
+    divesriones públicas, y sobre su origen en España", en *Colección de
+    varias obras en prosa y verso del excelentísimo señor don Gaspar de
+    Jovellanos* (Madrid: imprenta de León Amarita, 1831), IV:40.
 
-[^28]: López de Cuéllar, *Tratado iuridico-politico*, núm. 109 y 115.
+[^28]: Saavedra Fajardo, *Idea de un príncipe político christiano*, emp.
+    99, lema "Hic explicat opes".
+
+[^29]: Saavedra Fajardo, *Idea de un príncipe político christiano*, emp.
+    96, lema "Memor adversae".
+
+[^30]: Véase por ejemplo la voz "alegría" del *diccionario de
+    autoridades*: "Júbilo y contento interiór del ánimo, acompañado con
+    señas exterióres, especialmente en el semblante".
+
+[^31]: Entiéndase corporalidad en el sentido místico de un cuerpo que
+    contiene en sí mismo el poder y autoridad de la Corona, no desde la
+    perspectiva de Spinoza (considerada impía por los pensadores
+    españoles dieciochescos) que la alegría estaba relacionada con el
+    placer, y era ésta la que impelía al bien. Jonathan I. Israel, *La
+    ilustración radical. La filosofía y la construcción de la modernidad
+    1650-1750*, Primera edición electrónica (México: Fondo de Cultura
+    Económica, 2017), 276--79.
+
+[^32]: Mendo, *Príncipe perfecto*, doc. XV, 79.
+
+[^33]: *Real ordenanza para el establecimiento é instrucción de
+    intendentes* (Madrid: \[s.n.\], 1786), proemio.
+
+[^34]: Javier Barrientos Grandon, *El gobierno de las Indias*, Colección
+    historia 1 (Madrid: Fundación Rafael del Pino, Marcial Pons, 2004),
+    45 y 69.
+
+[^35]: Véase por ejemplo Carlos Vladimir Villamizar Duarte, *La
+    felicidad del Nuevo Reyno de Granada: el lenguaje patriótico en
+    Santafé (1791-1797)*, Colección Centro de Estudios en Historia
+    (Bogotá: Universidad Externado de Colombia, 2012), sec. 1576,
+    Kindle; Jesús Bohórquez, *Luces para la economía: libros y discursos
+    de economía política en el Atlántico español durante la era de las
+    revoluciones (Nueva Granada, 1780-1811)*, Colección Cuadernos
+    coloniales, XVII (Bogotá: Instituto Colombiano de Antropología e
+    Historia, 2014), 35--39.
+
+[^36]: Gabriel B. Paquette, *Enlightenment, governance and reform in
+    Spain and its empire 1759-1808*, Cambridge Imperial and
+    post-colonial studies series (Basingstoke, New York: Palgrave
+    Macmillan, 2008), cap. 2.
+
+[^37]: "Indulto general", Madrid, 25 de enero de 1817, copia impresa en
+    Santa Fe de Bogotá, imprenta del gobierno por Nicomedes Lora, BNC,
+    fondo Pineda, tomo 852, pza. 9.
+
+[^38]: "Indulto general", Madrid, 20 de diciembre de 1819, copia del
+    impreso ordenada por Francisco de Mosquera y Cabrera, oidor decano
+    de la Audiencia del Nuevo Reino de Granada, Cartagena, 15 de junio
+    de 1820, AGI, Cuba, 717.
+
+[^39]: Pierre Bourdieu, *¿Qué significa hablar?: economía de los
+    intercambios lingüísticos*, trad. Esperanza Martínez Pérez (Madrid:
+    Akal, 2008), cap. 3.
+
+[^40]: López de Cuéllar, *Tratado iuridico-politico*, núm. 109 y 115.
     Mastrillo, *Ad indultum generale*, cap. V, núm. 1.
 
-[^29]: Específicamente en el Código, lib. IX, tít. L.
+[^41]: Específicamente en el Código, lib. IX, tít. L.
 
-[^30]: Mastrillo, *Ad indultum generale*, cap. V, núm. 1.
+[^42]: Mastrillo, *Ad indultum generale*, cap. V, núm. 1.
 
-[^31]: Mastrillo, *Ad indultum generale*, cap. V, núm. 3. Gregorio
+[^43]: Mastrillo, *Ad indultum generale*, cap. V, núm. 3. Gregorio
     López, glosa "gran alegría" a *Partidas*, P. VII, tít. XXXII, ley 1.
     Rodríguez Flores, *El perdón real*, 209.
 
-[^32]: "Quum eo tempore, quo indulgentia nostra crimina exstinxit,
+[^44]: "Quum eo tempore, quo indulgentia nostra crimina exstinxit,
     accusatio a te instituta non fuerit, publicae abolitionis
     praescriptio cessat". Código, lib. IX, tít. XLIII, "de generali
     abolitione", núm. 2.
 
-[^33]: López de Cuéllar, *Tratado iuridico-politico*, núm. 48.
+[^45]: López de Cuéllar, *Tratado iuridico-politico*, núm. 48.
 
-[^34]: "Al virrey y Audiencia de Lima, que los presos que estuvieren por
+[^46]: "Al virrey y Audiencia de Lima, que los presos que estuvieren por
     deudas civiles les hagan soltar por 30 dias para que se conpongan
     con sus acreedores a honor del nacimiento del Principe nuestro
     señor", Madrid, 30 de enero de 1630, AGI, Indiferente general, 429,
@@ -501,30 +660,30 @@ perdón de 1804.
     Príncipe (1803)", AGNC, Sección Archivo Anexo, Fondo Reales Cédulas
     y Órdenes, tomo 35.
 
-[^35]: María Paz Alonso Romero, *El proceso penal en Castilla (Siglos
+[^47]: María Paz Alonso Romero, *El proceso penal en Castilla (Siglos
     XIII al XVIII)* (Salamanca: Universidad de Salamanca, 1982), 203.
 
-[^36]: López de Cuéllar, *Tratado iuridico-politico*, núm. 116.
+[^48]: López de Cuéllar, *Tratado iuridico-politico*, núm. 116.
 
-[^37]: González de Salcedo, *Tratado iuridico-politico del contrabando*,
+[^49]: González de Salcedo, *Tratado iuridico-politico del contrabando*,
     cap. 31, núm. 32, f. 179v.
 
-[^38]: López de Cuéllar, *Tratado iuridico-político*, núm. 49.
+[^50]: López de Cuéllar, *Tratado iuridico-político*, núm. 49.
 
-[^39]: Rodríguez Flores, *El perdón real*, 204. Algunos ejemplos de este
+[^51]: Rodríguez Flores, *El perdón real*, 204. Algunos ejemplos de este
     tipo serán explicados más adelante.
 
-[^40]: Rodríguez Flores, 210--11.
+[^52]: Rodríguez Flores, 210--11.
 
-[^41]: El procedimiento fue descrito por Antonio Martínez de Salazar en
+[^53]: El procedimiento fue descrito por Antonio Martínez de Salazar en
     la *Colección de memorias y noticias del gobierno*, cap. XLVI,
     522-24.
 
-[^42]: "Indulto general de Carlos III con motivo de su exaltación al
+[^54]: "Indulto general de Carlos III con motivo de su exaltación al
     trono. Recepción en Santa Fe", Santa Fe, 1 de septiembre de 1761,
     AGNC, Archivo Anexo, reales cédulas y órdenes, tomo 16.
 
-[^43]: "Copia y cumplimiento en el cabildo de Medellín de la real cédula
+[^55]: "Copia y cumplimiento en el cabildo de Medellín de la real cédula
     de indulto y perdón general a todos los reos, concedida por el
     nacimiento del príncipe don Carlos Domingo Eusebio", Medellín, 6 de
     febrero de 1781, AHM, Fondo Consejo de Medellín, Sección colonia,
@@ -534,25 +693,25 @@ perdón de 1804.
     sección historia,
     [[http://historia.anasnc.senatics.gov.py/index.php/reales-cedulas-30]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/reales-cedulas-30)
 
-[^44]: "Copia y cumplimiento en el cabildo de Medellín de la real cédula
+[^56]: "Copia y cumplimiento en el cabildo de Medellín de la real cédula
     de indulto", Medellín, 6 de febrero de 1781, AHM, Fondo Consejo de
     Medellín, Sección colonia, reales cédulas, tomo 33, f. 333r.
 
-[^45]: "Publicación del indulto de 1760 en la isla de Margarita", Isla
+[^57]: "Publicación del indulto de 1760 en la isla de Margarita", Isla
     Margarita, 27 de octubre de 1762, AGNC, Sección Colonia, Juicios
     criminales, leg. 130, f. 357v.
 
-[^46]: "Isla de Margarita: informe sobre su situación", Isla Margarita,
+[^58]: "Isla de Margarita: informe sobre su situación", Isla Margarita,
     3 de noviembre de 1762, AGNC, Sección Colonia, Poblaciones varias,
     tomo 10, f. 801v
 
-[^47]: La primera corresponde al actual caserío Las Bonitas, del
+[^59]: La primera corresponde al actual caserío Las Bonitas, del
     municipio de Cedeño en el estado de Bolívar (Venezuela). La segunda
     se habría fundado cerca de Caicara del Orinoco, capital del mismo
     municipio, en la margen del río Cuchivero. Las coordinadas
     aproximadas serían, para Ciudad Real 7.868470 N, -65.660502 W, y
     para Real Corona 7.638889 N, -65.963900 W.
 
-[^48]: Citado en José del Rey Fajardo, *Los Jesuitas en Venezuela. Las
+[^60]: Citado en José del Rey Fajardo, *Los Jesuitas en Venezuela. Las
     misiones germen de la nacionalidad*, vol. V (Caracas: Universidad
     Católica Andrés Bello, Pontificia Universidad Javeriana, 2007), 283.

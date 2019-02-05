@@ -38,7 +38,9 @@ Audiencia de Quito, 398
 
 Audiencia de Santa Fe, 940
 
-Indiferente general, 415, 429,
+Indiferente general, 415, 429, 430.
+
+Papeles de Cuba, 717.
 
 ### Archivo General de la Nación de Colombia (Bogotá)
 
@@ -68,6 +70,10 @@ Fondo Consejo de Medellín, Sección Colonia, Reales Cédulas, 37
 
 Consejo de Indias, Secretaría de Presidencia, 21672
 
+### Biblioteca Nacional de Colombia (Bogotá)
+
+Fondo Pineda, tomo 852.
+
 Libros manuscritos
 ------------------
 
@@ -78,6 +84,12 @@ Señor Bailío Don Pedro Mesía de la Cerda*. BDH-BNE, Mss/3118, 1772.
 Fuentes primarias publicadas
 ----------------------------
 
+Abreu y Bertodano, José Antonio de. *Colección de los tratados de paz,
+alianza, neutralidad, garantía, protección, tregua, mediación, accesión,
+reglamento de límites, comercio, navegación, etc. hechos por los
+pueblos, reyes y príncipes de España*. (Madrid: Antonio Marín, Juan de
+Zúñiga y la viuda de Peralta, 1752)
+
 Ayala, Manuel José de. *Diccionario de gobierno y legislación de
 Indias*. Editado por Milagros del Vas Mingo. 13 vols. Madrid: Instituto
 de Cooperación Iberoamericana : Ediciones de Cultura Hispánica, 1988.
@@ -85,12 +97,6 @@ de Cooperación Iberoamericana : Ediciones de Cultura Hispánica, 1988.
 Bentura Beleña, Eusebio. *Manifiesto de Eusebio Bentura Beleña*. Editado
 por Ignacio Almada Bay et al. Colección Fuentes. Zamora: El Colegio de
 Michoacán, Universidad de Guadalajara, El Colegio de Sonora, 2006.
-
-Abreu y Bertodano, José Antonio de. *Colección de los tratados de paz,
-alianza, neutralidad, garantía, protección, tregua, mediación, accesión,
-reglamento de límites, comercio, navegación, etc. hechos por los
-pueblos, reyes y príncipes de España*. (Madrid: Antonio Marín, Juan de
-Zúñiga y la viuda de Peralta, 1752), 369.
 
 *Diccionario de la lengua castellana compuesto por la Real Academia
 Española reducido á un tomo para su mas fácil uso*. Madrid: Joaquín
@@ -114,6 +120,11 @@ Jovellanos, Gaspar Melchor de. "Informe de la Real Sala de Alcaldes al
 Consejo de Castilla, sobre indultos generales \[1779\]". En *Obras del
 excelentisimo señor D. Gaspar Melchor de Jovellanos*, VII:20--28.
 Barcelona: Imprenta de Francisco Oliva, 1840.
+
+---------. "Memoria para el arreglo de la Policía de los espectáculos y
+divesriones públicas, y sobre su origen en España". En *Colección de
+varias obras en prosa y verso del excelentísimo señor don Gaspar de
+Jovellanos*, IV:9-95. Madrid: imprenta de León Amarita, 1831.
 
 Levallier, Roberto, ed. *Gobernantes del Perú. Cartas y papeles*. XIV
 vols. Madrid: sucesores de Rivadeneira, 1921.
@@ -151,6 +162,10 @@ Imprenta de Josef Doblado, 1779.
 
 *Recopilación de las leyes de los reinos de las Indias*. Madrid: por
 Julián de Paredes, 1681.
+
+*Real ordenanza para el establecimiento é instrucción de intendentes de
+exercito y provincia en el Reino de la Nueva-España*. Madrid: \[s.n.\],
+1786.
 
 ### Doctrina
 
