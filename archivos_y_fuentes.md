@@ -48,7 +48,7 @@ Sección Colonia:
 
 > Aduanas, tomo 11
 >
-> Juicios criminales, tomo 130, 157
+> Juicios criminales, tomos 102, 114, 130, 157
 
 Sección Archivo Anexo
 
@@ -200,6 +200,9 @@ tribunales de España y de las Indias*. 8 tomos. Madrid: Joaquín Ibarra,
 Erasmus, Desiderius. *Institutio Principis Christiani* \[1516\].
 Basilea: Froben, 1519.
 
+Gómez, Antonio. *Variæ resolutiones juris civilis, communis, et regii*
+\[1563\]. Editio novissima. Londres : Petri Bruyset et sociorum, 1744.
+
 González de Salcedo, Pedro. *Tratado iuridico-politico del contrabando*.
 Madrid: Diego Díaz de la Carrera, 1654.
 
@@ -211,6 +214,16 @@ real, 1796.
 
 Hevia Bolaños, Juan de. *Curia Philipica* \[1603\]. Nueva impresión.
 Madrid: por Ramón Ruiz en la imprenta de Ulloa, 1790.
+
+Hostiensis (Enrique de Segusio). *Summa Aurea* \[ca. 1253, 1ª impresión
+1512\]. Basilea: Thomam Guarinum, 1573.
+
+Juan y Colom, Joseph. *Instruccion de escribanos en orden a lo judicial;
+utilisima tambien para procuradores y litigantes donde sucintamente se
+explica lo ritual, y forma de proceder en las Causas civiles y
+criminales, así en la teórica como en la práctica, fundada sobre las
+leyes reales y estilo de tribunales ordinarios* \[1736\]. Madrid:
+imprenta de Antonio Fernández, 1787.
 
 Kempis, Tomás de. *De la imitación de Cristo ó menosprecio del mundo*
 \[1ª ed. latina 1418\]. Traducción de Luis de Granada. Madrid: por la
@@ -309,6 +322,9 @@ Bayerischen Staatsbibliothek y Münchener Digitalisierungszentrum.
 
 Biblioteca Nacional de España. *Biblioteca digital hispánica*. 2018.
 [[http://bdh.bne.es/]{.underline}](http://bdh.bne.es/)
+
+---------. *Portal de datos bibliográficos*. 2014.
+[[http://datos.bne.es/inicio.html]{.underline}](http://datos.bne.es/inicio.html)
 
 DADUN. Depósito Académico Digital Universidad de Navarra. *Fondo
 Antiguo*. 2013.
