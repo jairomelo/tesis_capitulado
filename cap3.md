@@ -241,8 +241,14 @@ ello, el sentido general del indulto se mantuvo: una extensión de la
 extraordinaria alegría del rey hacia sus vasallos por medio de una
 expresión de indulgencia, clemencia y piedad.
 
-El efecto jurídico del perdón general: *abolitio*, prórroga y apartamiento 
----------------------------------------------------------------------------
+2.  La "indulgencia general"
+    ------------------------
+
+3.  Reos condenados, ausentes y rebeldes
+    ------------------------------------
+
+4.  El término del indulto, la *abolitio* y la *dilatio* 
+    -----------------------------------------------------
 
 Este tipo de perdones se caracterizaba por su amplitud. Abarcaba a todo
 el universo de reos, cubría todos los delitos en cualquier situación
@@ -330,23 +336,24 @@ de manera favorable al indultado siguiendo su arbitrio, e incluso
 apoyarse en una de las tantas opiniones que consideraban el perdón
 general desde su perspectiva más indulgente.[^55]
 
-Hay dos conceptos relacionados con el juicio criminal que pueden
-asimilarse a la *abolitio*: la prórroga y el apartamiento. La primera se
-relaciona directamente con el plazo (*dilatio*) del juicio, en sentido
-estricto, comprendía el espacio de tiempo acordado legalmente, por el
-juez, o por convenio de las partes, para responder a la demanda que se
-le hacía al acusado.[^56] La práctica legislativa castellana había
-definido unos términos relativamente precisos para resolver cada
-instancia judicial que solían asimilarse en los procesos civiles y
-criminales, destacándose la dilación citatoria de tres días, la
-probatoria de nueve días mínimo y máximo ochenta, y la ejecutoria, que
-era "arbitraria á la prudencia del Juez, dilatándola mas ó menos segun
-las circunstancias".[^57] En relación con el perdón general, la
-*dilatio* comprendía el término establecido para acogerse a la gracia,
-la cual era determinada por cada cédula de indulto, aunque por lo
-general era de tres a seis meses para los que estuvieran dentro de
-España y un año para los que estuvieran ausentes del reino, plazo que
-empezaba a correr desde el momento en que fuese publicado el edicto. No
+Similar a la *abolitio*, la *dilatio* se relacionaba directamente con el
+plazo del juicio. El plazo, en sentido estricto, comprendía el espacio
+de tiempo acordado legalmente, por el juez, o por convenio de las
+partes, para responder a la demanda que se le hacía al acusado.[^56] La
+práctica legislativa castellana había definido unos términos
+relativamente precisos para resolver cada instancia judicial que solían
+asimilarse en los procesos civiles y criminales, destacándose la
+dilación citatoria de tres días, la probatoria de nueve días mínimo y
+máximo ochenta, y la ejecutoria, que era "arbitraria á la prudencia del
+Juez, dilatándola mas ó menos segun las circunstancias".[^57] En
+relación con el perdón general, la *dilatio* comprendía el término
+establecido para acogerse a la gracia, el cual prorrogaba los plazos
+judiciales dependiendo de la situación procesal de la causa. El tiempo
+para acogerse a la gracia y ejecutar los procedimientos necesarios para
+obtenerla estaba determinada por cada cédula de indulto, por lo general
+de tres a seis meses para los reos que estuvieran dentro de España y un
+año para los que estuvieran ausentes del reino, plazo que empezaba a
+correr desde el momento en que fuese publicado el edicto de perdón. No
 todas las cédulas de perdón general comprendían un plazo establecido,
 aquellas que se limitaban a la cárcel de Corte establecían un
 procedimiento por el cual dos ministros de Cámara hacían traer las
@@ -355,7 +362,7 @@ de indulto y determinaban quienes podían ser dejados en libertad; en
 este caso, no había otro plazo más que el ordinario de una visita de
 cárcel.[^58]
 
-Garsia Mastrillo hacía la distinción entre plazo y *dilatio*, le primero
+Garsia Mastrillo hacía la distinción entre plazo y *dilatio*, el primero
 correspondía al tiempo estipulado en la cédula, del cual hacía algunos
 comentarios. En primer lugar, que era válido que durante el plazo se
 consiguiera un acuerdo económico entre la parte ofendida y el condenado,
@@ -481,8 +488,64 @@ determinó que Miranda debía gozar del indulto, ser liberado sin costa
 alguna y con certificación del escribano de Cámara firmada por el oidor
 semanero.[^70]
 
-La promulgación y recepción del indulto general
------------------------------------------------
+La vista fiscal en la impetración de Miranda es evidencia de que una
+solicitud de indulto podía ser rechazada por haberse impetrado por fuera
+del plazo estipulado, y de la misma manera, la resolución favorable en
+ambos casos presentados muestra que el arbitrio del tribunal podía
+dilatar el plazo e incluso remitir la pena más allá del límite
+estipulado en la cédula de perdón general. No obstante, no se debe
+subestimar el requerimiento de presentarse dentro del término
+establecido, especialmente si se tiene en cuenta que la mayoría de
+solicitudes eran explícitas en señalar que se hacían dentro del plazo
+indicado por la gracia real. Por ejemplo, la solicitud de perdón de
+Eugenio Poveda era precisa en cuanto haberse presentado a tiempo:
+"Siendo pues que oy que se cuentan ocho de Marzo \[de 1783\] estamos
+\[d\]entro del término asignado, que se previene en la Real Cedula
+\[de\] indulto general que Su Magestad libró piadosamente en ocho de
+Junio de mil septecientos ochenta en acim\[ient\]o \[sic por acción\] de
+gracias por el nacimiento de Nuestro Principe Don Carlos Domingo
+Eucebio, qual se promulgó en esta villa \[del Socorro\] en trece de
+septiembre de ochenta y dos".[^71] El hacer explícitas las tres fechas
+claves (publicación, promulgación y presentación) evitaba que se
+rechazara la solicitud por un "formalismo", especialmente en este caso
+donde la solicitud distaba de la publicación de la cédula por casi tres
+años. Esta dilación fue aprovechada por el fiscal nombrado por la real
+justicia, Joseph Martínez, para requerir que se le aplicara la pena
+ordinaria de último suplicio argumentando que Poveda no se había
+presentado voluntariamente sino lo hizo después que fuera capturado
+(llevaba preso 16 días al momento de impetrar indulto), en una clara
+distinción entre la presentación del reo ausente y la captura casual,
+que no estaba señalada en la cédula de 1780.[^72] La reacción de Poveda
+consistió en requerir, por conveniencia a su derecho, que el escribano
+en presencia del fiscal nombrado certificara "el dia de la publicacion
+de la real sedula \[de\] indulto general, que sito en mi escrito que
+esta por cabeza".[^73] La dilación del proceso llegó a tal punto que
+Poveda pudo acogerse al nuevo indulto general de enero de 1784, el cual
+lo favorecía más que el anterior pues, argumentaba el procurador de
+pobres de la cárcel del Socorro, "parece que quando el antecedente
+\[indulto\] no le comprehendiere, debe comprehenderle en esta \[gracia\]
+por ser su delito de los que ahora expresamente quedan perdonados".[^74]
+Tanto el fiscal nombrado en el Socorro como el de la Audiencia habían
+sugerido rechazar la petición de indulto de Poveda porque el homicidio
+fue causado sobre una autoridad de la parroquia de Simacota, quien
+trataba de detenerlo al sorprenderlo contrabandeando tabaco. El haber
+conseguido presentarse a tiempo, además de dilatar el periodo de prueba
+dentro del cual obtuvo perdón de parte, le permitió a Poveda, por mera
+coincidencia, acogerse a un indulto más amplio y obtener así la remisión
+de la pena ordinaria a cambio del destierro de la vecindad del Socorro y
+las parroquias de Simacota, Monguí y Charalá.[^75]
+
+5.  La presentación y súplica
+    -------------------------
+
+6.  El apartamiento de la parte ofendida
+    ------------------------------------
+
+7.  Efecto jurídico del perdón general
+    ----------------------------------
+
+8.  El proceso del perdón general
+    -----------------------------
 
 Como prerrogativa indelegable, la cédula de indulto general sólo podía
 ser expedida por el Consejo de Cámara de Castilla, organismo encargado
@@ -511,7 +574,7 @@ más reciente nombramiento presentaba las partidas de presos que
 impetraban indulto. Éste mismo juez era encargado de escribir los
 decretos en el libro y se daba certificación del escribano para que
 constara en los procesos, determinando que los reos acogidos por el
-indulto se pusiesen incontinenti en libertad.[^71]
+indulto se pusiesen incontinenti en libertad.[^76]
 
 Para el caso de las cédulas que abarcaban el continente americano y las
 islas Filipinas el procedimiento no estaba determinado de la misma
@@ -527,12 +590,12 @@ recibía la cédula, según certificaba el escribano Josef de Rosas:
 > obedecieron en la forma acostumbrada, mandando se guarde, cumpla y
 > ejecute en todo y por todo su contenido, y que sacandose para archibar
 > su original, se de vista al s\[eño\]r Fiscal y assi lo dixeron y
-> rubricaron por ante mi de que doy fee.[^72]
+> rubricaron por ante mi de que doy fee.[^77]
 
 Como se observa, la ceremonia de recepción de estas cédulas se ajustaba
 a la de los demás mandatos del rey. En el caso del indulto de 1780, al
 ser recibido en la villa de Medellín, se añade que la carta fue besada y
-puesta sobre la cabeza, antes de ser obedecida y cumplida.[^73] Es
+puesta sobre la cabeza, antes de ser obedecida y cumplida.[^78] Es
 decir, se mantuvieron las tradiciones performativas que se implementaron
 durante los siglos anteriores.
 
@@ -543,7 +606,7 @@ calles de la ciudad y se fijara copia legalizada en las puertas
 principales de las casas de cabildo. Posteriormente, el escribano debía
 llevar a la vista de los cabildantes todas las causas de los reos para
 examinar los delitos y se declarase quiénes de ellos podían gozar del
-indulto, quienes debían ser liberados sin la menor dilación.[^74]
+indulto, quienes debían ser liberados sin la menor dilación.[^79]
 
 El impacto de los indultos generales
 ------------------------------------
@@ -574,7 +637,7 @@ santafereño), cuyo gobernador, Alonso del Río y Castro, informó de la
 publicación del indulto por la coronación de Carlos III en los partidos
 de su competencia, añadiendo: "no habiendo en esta isla criminal alguno
 de esta naturaleza lo participo a VE para su inteligencia y que queda
-cumplida la Real voluntad".[^75] La ausencia de criminales en la ínsula
+cumplida la Real voluntad".[^80] La ausencia de criminales en la ínsula
 no necesariamente derivaba de la carencia de desorden, sino muy
 probablemente se debía a lo que en el año de 1762 había expuesto el
 mismo oficial en un informe al virrey Mesía de la Cerda, en el cual
@@ -585,14 +648,14 @@ parte de la nobleza, en tanto "los que de las demas calidades y colores
 hán podido labrar sus casitas lo hán echo por todo el territorio de la
 ciu\[da\]d, sembrándolas entre su maleza, de modo que ni la justicia
 puede vigilar sus excesos, y costumbres, ni la iglesia cuidar de sus
-almas..."[^76] Esto no quiere decir que el gobierno no ejecutara
+almas..."[^81] Esto no quiere decir que el gobierno no ejecutara
 acciones para paliar el desorden de la ciudad, solamente que éstas no
 involucraban la acción penal. Por ejemplo, en 1759 el mismo gobernador
 aprovechó la solicitud de pobladores hecha por Iturriaga, comandante del
 Orinoco, para enviar media centena de "vagos y vagas" a que poblaran las
-recién creadas ciudades de Ciudad Real y Real Corona[^77], con lo cual
+recién creadas ciudades de Ciudad Real y Real Corona[^82], con lo cual
 esperaba se redujeran "los excesos" y se corrigieran "los menos
-escandalosos".[^78]
+escandalosos".[^83]
 
 La situación de un territorio pequeño y relativamente aislado no parecía
 diferir demasiado de otras jurisdicciones más cercanas a la ciudad
@@ -904,15 +967,27 @@ perdón de 1804.
 [^70]: "Causa seguida a José Miranda, por el homicidio de Salvador
     Gómez", f. 128v.
 
-[^71]: El procedimiento fue descrito por Antonio Martínez de Salazar en
+[^71]: "Juicio criminal seguido a Eugenio Poveda por el homicidio de
+    Ignacio Javier de Uribe", AGNC, sección colonia, juicios criminales,
+    tomo 64, doc. 18, f. 369r.
+
+[^72]: "Juicio criminal seguido a Eugenio Poveda", f. 393r-v.
+
+[^73]: "Juicio criminal seguido a Eugenio Poveda", f. 394r.
+
+[^74]: "Juicio criminal seguido a Eugenio Poveda", f. 403r.
+
+[^75]: "Juicio criminal seguido a Eugenio Poveda", f. 404v.
+
+[^76]: El procedimiento fue descrito por Antonio Martínez de Salazar en
     la *Colección de memorias y noticias del gobierno*, cap. XLVI,
     522-24.
 
-[^72]: "Indulto general de Carlos III con motivo de su exaltación al
+[^77]: "Indulto general de Carlos III con motivo de su exaltación al
     trono. Recepción en Santa Fe", Santa Fe, 1 de septiembre de 1761,
     AGNC, Archivo Anexo, reales cédulas y órdenes, tomo 16.
 
-[^73]: "Copia y cumplimiento en el cabildo de Medellín de la real cédula
+[^78]: "Copia y cumplimiento en el cabildo de Medellín de la real cédula
     de indulto y perdón general a todos los reos, concedida por el
     nacimiento del príncipe don Carlos Domingo Eusebio", Medellín, 6 de
     febrero de 1781, AHM, Fondo Consejo de Medellín, Sección colonia,
@@ -922,25 +997,25 @@ perdón de 1804.
     sección historia,
     [[http://historia.anasnc.senatics.gov.py/index.php/reales-cedulas-30]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/reales-cedulas-30)
 
-[^74]: "Copia y cumplimiento en el cabildo de Medellín de la real cédula
+[^79]: "Copia y cumplimiento en el cabildo de Medellín de la real cédula
     de indulto", Medellín, 6 de febrero de 1781, AHM, Fondo Consejo de
     Medellín, Sección colonia, reales cédulas, tomo 33, f. 333r.
 
-[^75]: "Publicación del indulto de 1760 en la isla de Margarita", Isla
+[^80]: "Publicación del indulto de 1760 en la isla de Margarita", Isla
     Margarita, 27 de octubre de 1762, AGNC, Sección Colonia, Juicios
     criminales, leg. 130, f. 357v.
 
-[^76]: "Isla de Margarita: informe sobre su situación", Isla Margarita,
+[^81]: "Isla de Margarita: informe sobre su situación", Isla Margarita,
     3 de noviembre de 1762, AGNC, Sección Colonia, Poblaciones varias,
     tomo 10, f. 801v
 
-[^77]: La primera corresponde al actual caserío Las Bonitas, del
+[^82]: La primera corresponde al actual caserío Las Bonitas, del
     municipio de Cedeño en el estado de Bolívar (Venezuela). La segunda
     se habría fundado cerca de Caicara del Orinoco, capital del mismo
     municipio, en la margen del río Cuchivero. Las coordinadas
     aproximadas serían, para Ciudad Real 7.868470 N, -65.660502 W, y
     para Real Corona 7.638889 N, -65.963900 W.
 
-[^78]: Citado en José del Rey Fajardo, *Los Jesuitas en Venezuela. Las
+[^83]: Citado en José del Rey Fajardo, *Los Jesuitas en Venezuela. Las
     misiones germen de la nacionalidad*, vol. V (Caracas: Universidad
     Católica Andrés Bello, Pontificia Universidad Javeriana, 2007), 283.

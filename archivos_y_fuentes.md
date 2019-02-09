@@ -44,19 +44,19 @@ Papeles de Cuba, 717.
 
 ### Archivo General de la Nación de Colombia (Bogotá)
 
-Sección Colonia:
+Sección colonia:
 
 > Aduanas, tomo 11
 >
-> Juicios criminales, tomos 102, 114, 130, 157
+> Juicios criminales, tomos 64, 102, 114, 130, 157
 
-Sección Archivo Anexo
+Sección archivo anexo
 
 Reales cédulas y órdenes, tomo 16
 
 ### Archivo Histórico de Antioquia (Medellín)
 
-Sección Gobierno, fondo gobernación de Antioquia:
+Sección gobierno, fondo gobernación de Antioquia:
 
 Reales cédulas, tomo 2
 
@@ -64,7 +64,7 @@ Reales órdenes, tomo 4
 
 ### Archivo Histórico de Medellín (Medellín)
 
-Fondo Consejo de Medellín, Sección Colonia, Reales Cédulas, 37
+Fondo Consejo de Medellín, sección colonia, reales cédulas, 37
 
 ### Archivo Histórico Nacional (Madrid)
 
