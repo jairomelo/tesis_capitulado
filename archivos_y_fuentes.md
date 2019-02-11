@@ -38,7 +38,7 @@ Audiencia de Quito, 398
 
 Audiencia de Santa Fe, 940
 
-Indiferente general, 415, 429, 430.
+Indiferente general, 415, 429, 430, 538 L.YY11.
 
 Papeles de Cuba, 717.
 
@@ -49,22 +49,29 @@ Sección colonia:
 > Aduanas, tomo 11
 >
 > Juicios criminales, tomos 64, 102, 114, 130, 157
+>
+> Miscelánea, tomo 59.
+>
+> Real Audiencia
 
-Sección archivo anexo
+Cundinamarca, tomo 17
 
-Reales cédulas y órdenes, tomo 16
+Sección archivo anexo:
+
+> Reales cédulas y órdenes, tomo 16
 
 ### Archivo Histórico de Antioquia (Medellín)
 
 Sección gobierno, fondo gobernación de Antioquia:
 
-Reales cédulas, tomo 2
-
-Reales órdenes, tomo 4
+> Reales cédulas, tomo 2
+>
+> Reales órdenes, tomo 4
 
 ### Archivo Histórico de Medellín (Medellín)
 
-Fondo Consejo de Medellín, sección colonia, reales cédulas, 37
+Fondo Concejo de Medellín, sección colonia, reales cédulas, tomos 33,
+37.
 
 ### Archivo Histórico Nacional (Madrid)
 
@@ -296,8 +303,10 @@ Renacimiento*, núm. 20 (2016): 519--968.
 
 Seneca, Lucius Annaeus. "De Clementia". En *Moral Essays I*, traducido
 por John W. Basore, I:356--447. The Loeb classical library 214.
-Cambridge, Mass.: Harvard University Press, 1994. Traducción española
-por Carmen Codoñer. *Sobre la clemencia*. Madrid: Tecnos, 1988.
+Cambridge, Mass.: Harvard University Press, 1994. Versión española: "De
+la clemencia". En Cicerón y Séneca. *Tratados Morales*, traducido por
+Menéndez y Pelayo, M. de Valbuena y Gallegos Roca Full, 347-378. Los
+clásicos. México: W. M. Jackson, 1974.
 
 Solórzano Pereyra, Juan. *Política indiana* \[1647\]. Edición corregida
 y anotada por Francisco Ramiro de Valenzuela. Madrid: imprenta Real de
@@ -337,6 +346,9 @@ Fondazione Biblioteca Europea di Informazione e Cultura (BEIC).
 Instituto de Investigación Rafael Lapesa y Real Academia Española.
 *Diccionario de autoridades (1726-1739)*. Versión 1.1. 2013.
 [[http://web.frl.es/DA.html]{.underline}](http://web.frl.es/DA.html)
+
+Real Academia de la Historia. *Diccionario Biográfico Español*. 2018.
+[[http://dbe.rah.es/]{.underline}](http://dbe.rah.es/)
 
 Tomás de Aquino. "Summa Theologiae". En *S. Thomae de Aquino Opera
 omnia*, editado por Enrique Alarcón y Roberto Busa, Textum Leoninum

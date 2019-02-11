@@ -588,7 +588,7 @@ No todas las virtudes del príncipe tenían relación con el perdón real.
 Dentro de la jerarquía de la ética cristiana, el perdón estaba
 relacionado con mayor fuerza con la justicia, entendida ésta como una
 virtud cardinal. Sin embargo, el perdón no era en sí mismo justicia, ya
-que para que hubiese indulto se presumía culpabilidad;[^91] como otras
+que para que hubiese indulto se presumía culpabilidad.[^91] Como otras
 acciones del poder regio que tenían efecto en la justicia, se
 consideraba al perdón como un acto excepcional, expresión de la
 magnificencia de la potestad regia,[^92] puesto que para aquellos casos
@@ -638,9 +638,9 @@ construida en el *Diccionario de autoridades* de 1726, la cual rezaba:
 > desacátos, y causa la ruina de los Estádos.
 
 La definición, tomada del libro *De clementia* de Séneca,[^96] remite a
-su frase: "La clemencia es la moderación del ánimo para ejercer la
-potestad de venganza, o la blandura del superior respecto al inferior en
-la determinación de una pena".[^97] A pesar de su brevedad, esta
+su frase: "La clemencia es la templanza del ánimo para ejercer la
+potestad de venganza, o la lenidad del superior para con el inferior en
+el establecimiento de las penas".[^97] A pesar de su brevedad, esta
 sentencia contiene los elementos fundamentales para la comprensión de la
 clemencia como virtud de los príncipes: se ejerce de los superiores a
 los inferiores, ya que son quienes tienen la capacidad de castigar;
@@ -735,47 +735,58 @@ de reformarse, o de modo más literal, "si fueran en alguna medida
 curables".[^114] La clemencia tendría la función de compensar el rigor,
 en otro sentido, de minorar la pena ajustada a la ley común. Aunque
 desde esta perspectiva el perdón estaría cercano a la epiqueya, se
-diferencia de ésta en cuanto no se aparta de la intención del legislador
-(texto de la ley), sino que modera la aplicación de la pena buscando
-aquélla más benigna.[^115]
+diferenciaba de ésta en cuanto no se aparta de la intención del
+legislador (texto de la ley), sino que modera la aplicación de la pena
+buscando aquélla más benigna.[^115] Aunque la *epikeia* griega puede
+considerarse etimológicamente emparentada con la *clementia*
+romana,[^116] la tradición jurídica europea diferenciaba ambos atributos
+del juez, por lo que la epiqueya se ha de entender en el sentido
+estricto de rectificación de la justicia en su sentido legal y
+"ordinario", adaptándose a las circunstancias particulares de un caso;
+en tanto la clemencia implicaba un sentido más virtuoso y moral que
+privilegiaba la equidad sobre el rigor.[^117] En ambos sentidos, la
+flexibilidad de la pena se expresaba en los procedimientos judiciales
+como "actuar en equidad", y se concretaba en la conmutación de la
+sentencia, en el evitar el uso del tormento, el abandono de la causa, el
+desembargo de bienes, o la anulación de las costas del proceso.
 
 La clemencia podía buscar la equidad cuando la aplicación a rajatabla de
 la ley excedía los niveles que la prudencia aconsejaba como justos. La
-idea de la *manlia imperia*[^116] consideraba que caía en crueldad aquel
+idea de la *manlia imperia*[^118] consideraba que caía en crueldad aquel
 que aplicaba de la manera más estricta las leyes sin atender a ningún
 atenuante, lo que se sintetizaba en el adagio *summum ius summa
 iniuria*, que, según Cicerón, escondía una interpretación maliciosa del
-juez en la aplicación rigurosa de la ley.[^117] Castillo de Bovadilla
+juez en la aplicación rigurosa de la ley.[^119] Castillo de Bovadilla
 advertía que "por causa del mucho rigor pueden los Jueces ser privados
-de los Oficios",[^118] y lo complementó afirmando: "porque con violencia
+de los Oficios",[^120] y lo complementó afirmando: "porque con violencia
 no puede ser estable el gobierno seglar; y la sujeción por fuerza suele
 acarrear libertad: porque, como dixo Cicerón, muy mal conserva la
-perpetuidad el miedo, para lo qual es fiel la benevolencia".[^119] Esto,
+perpetuidad el miedo, para lo qual es fiel la benevolencia".[^121] Esto,
 según Bovadilla, lo enseñaban "las historias", la experiencia del
 imperio romano y en particular de los reyes de España, "que han tenido
 por costumbre gobernar antes con amor, que con miedo: á cuya imitación
 deben los Corregidores, nombrados por ellos, proceder de la misma
-manera".[^120]
+manera".[^122]
 
 Para que fuese justa, la clemencia debía ajustarse a la razón y
-otorgarse sobre todo al necesitado o al penitente.[^121] En este
+otorgarse sobre todo al necesitado o al penitente.[^123] En este
 sentido, aunque fuese una preciosa virtud del príncipe, su uso debía
 estar prevenido por la prudencia. El perdón excesivo traería como
-consecuencia inevitable el incremento de los delitos,[^122] ya que la
+consecuencia inevitable el incremento de los delitos,[^124] ya que la
 lógica punitiva de la tradición jurídica de occidente concebía el
 castigo no en términos de restitución del daño, sino como una estrategia
-para la prevención de los futuros crímenes.[^123] La justicia penal
+para la prevención de los futuros crímenes.[^125] La justicia penal
 partía del principio de que si los hombres se gobernaran de acuerdo a la
 ley natural, divina y humana, no sería necesario la imposición de las
 penas; mas siendo lo contrario, fue necesario imponer castigos porque
-"donde no convence el amor, restrinja el temor".[^124] En este sentido,
+"donde no convence el amor, restrinja el temor".[^126] En este sentido,
 el exceso de clemencia se opondría a la justicia y se equipararía a la
-crueldad y la tiranía,[^125] ya que provendría de la idea vulgar según
+crueldad y la tiranía,[^127] ya que provendría de la idea vulgar según
 la cual, acorde con Feijoo, se consideraba que los magistrados debían
 moverse a la clemencia por "los ruegos de los amigos, las lágrimas de
 los reos, los clamores de sus huerfanas familias, y la blandura del
 proprio genio, para mitigar la pena que corresponde segun las
-leyes".[^126]
+leyes".[^128]
 
 El hacer uso irracional de esta regalía, aunque no conllevaba una
 condena terrenal puesto que el legislador no podía castigarse a sí
@@ -783,70 +794,70 @@ mismo, tendría el riesgo de que la retribución le fuera requerida ante
 el juicio divino. Así lo dejó expreso López de Cuéllar cuando le
 advirtió al príncipe que esta regalía no era absoluta, y que debería ser
 ejercida con justa causa "si quiere que en aquel tremendo, ultimo dia,
-no se le numeren por culpas las gracias".[^127] Según Andrés Mendo,
+no se le numeren por culpas las gracias".[^129] Según Andrés Mendo,
 perdonar a los culpados de delitos graves no era piedad sino "clemencia
 cruel", aplicar todo el rigor de la pena no debía ser temor de los
 príncipes porque "no puede haber justicia, donde no ay castigo; daña mas
-en culpas graves la disimulacion, que la severidad"[^128]. La clemencia
+en culpas graves la disimulacion, que la severidad"[^130]. La clemencia
 entonces no sólo se refería a la reducción del sufrimiento de los
 condenados, adquiría el sentido de castigo cuando debía garantizar la
 paz y tranquilidad de los vasallos mediante el castigo de los
 delincuentes. Andrés Mendo diría que "el rigor con poco es la piedad
 para muchos; pues quedan libres de daños los mas, quando son castigados
 los delinquentes, que son los menos; y padecen todos, quando no padecen
-á manos de la justicia algunos"[^129]. La clemencia por lo tanto no
+á manos de la justicia algunos"[^131]. La clemencia por lo tanto no
 significaba oposición al castigo o la severidad, porque ambas acciones
 exigían la recta razón para su ejecución y, según Santo Tomás, no se
-contradicen porque no tienen el mismo objeto.[^130]
+contradicen porque no tienen el mismo objeto.[^132]
 
 ### El perdón como gracia
 
 La gracia puede comprenderse como una acción que, aunque tenía efecto
 judicial y seguía formas procesales (instancias de parte, procesos,
 escrutinios, expedientes), no "estaba sujeta a regla de derecho ni a
-control de justicia".[^131] En este sentido trascendía los límites
+control de justicia".[^133] En este sentido trascendía los límites
 ordinarios de la justicia y el gobierno, pero lo hacían con la finalidad
-de sublimar el orden.[^132] Siguiendo las enseñanzas de dios, y como su
+de sublimar el orden.[^134] Siguiendo las enseñanzas de dios, y como su
 vicario en la tierra, el rey imitaba la gracia divina, replicaba el
 favor o don gratuito dado por dios a los hombres con el propósito de
 premiar el seguimiento de sus mandamientos y a la vez llevarlos a la
-salvación.[^133] El rey hacía eco de la divinidad al demostrar su amor,
+salvación.[^135] El rey hacía eco de la divinidad al demostrar su amor,
 beneficio y liberalidad, a través de las dispensas graciosas, brindando
 a sus vasallos premios, mercedes, títulos, oficios y, entre otros
 beneficios, perdones generales y particulares; con los cuales se
 esperaba, sin necesidad de contrato u obligación, el atraerlos a la
-lealtad y la defensa de la monarquía.[^134] El rey podía ejercer estos
+lealtad y la defensa de la monarquía.[^136] El rey podía ejercer estos
 actos porque se asumía como surgidos de su voluntad, del agradecimiento
 por los favores hechos por alguien a la monarquía, o por el simple hecho
-de demostrar la liberalidad de la corona.[^135] Sin embargo, como lo ha
+de demostrar la liberalidad de la corona.[^137] Sin embargo, como lo ha
 mostrado Bartolomé Clavero, aunque la gracia se consideraba como una
 donación, no por ello era un favor gratuito; las "gracias al sacar" se
 podrían entender como acciones de "liberalidad y largueza",
 contraprestaciones de la corona a alguien que hacía un donativo a las
 cajas reales en tiempos de necesidad, lo cual no implicaba
-necesariamente un acto de venalidad o corrupción.[^136]
+necesariamente un acto de venalidad o corrupción.[^138]
 
 Aunque el ideal de la venta de la gracia representase una práctica de
 donación y contradonación, en la práctica el abuso de esta prerrogativa
-trascendía dicha relación virtuosa entre la corona y sus vasallos.[^137]
+trascendía dicha relación virtuosa entre la corona y sus vasallos.[^139]
 El exceso de gracia, como lo identificaron los hombres de la época, no
 replicaba en el bien de la monarquía sino en su decadencia. La venalidad
 era efecto de una práctica graciosa que se convirtió en regla antes que
 excepción; sin refutar su origen volitivo, la venta de cargos redundó en
 corrupción, en redes clientelares con la suficiente fortaleza para
-influenciar el gobierno de la monarquía en su beneficio.[^138] En este
+influenciar el gobierno de la monarquía en su beneficio.[^140] En este
 sentido, la amplia historiografía generada en las últimas décadas en
 torno al problema de la venalidad y la corrupción expone el contrapunto
 al funcionamiento ordenado de la gracia y los efectos adversos que tuvo
-el abuso de dicha regalía.[^139] Un patrón similar, aunque con
+el abuso de dicha regalía.[^141] Un patrón similar, aunque con
 diferentes consecuencias, se presentó con los denominados perdones "al
 sacar", práctica común en los reinos españoles de Europa durante los
 reinados de Felipe III y IV que buscaba, en compañía de otras
-estrategias, paliar la crisis financiera de la monarquía.[^140] En
+estrategias, paliar la crisis financiera de la monarquía.[^142] En
 Indias, la venta de indultos al parecer no gozó del mismo impulso que la
 venalidad, como lo señala Tamar Herzog para el caso quiteño, si los
 perdones al sacar fueron practicados no quedaron huellas en los
-autos.[^141] Como se intentará demostrar en un capítulo posterior, hay
+autos.[^143] Como se intentará demostrar en un capítulo posterior, hay
 evidencia de dicha práctica en ciertos indultos particulares concedidos
 por los virreyes del Nuevo Reino de Granada, aunque se realizaban de
 manera excepcional y con cierto disimulo.
@@ -865,11 +876,11 @@ de la doctrina de la justa causa, con el propósito de alterar el
 ejercicio del derecho, de tal manera que se permitiese conservar el
 orden de la república. Esta función armonizadora de la gracia
 representaba una "realización de la justicia" mediante la acción, al
-margen del derecho que redundaba en la utilidad pública.[^142]
+margen del derecho que redundaba en la utilidad pública.[^144]
 
 El efecto de la gracia y la clemencia se suponía irrevocable, sin
 embargo, la concesión podía revertirse si el beneficiario actuaba contra
-el rey.[^143] Volviendo al caso que sirvió como introducción a este
+el rey.[^145] Volviendo al caso que sirvió como introducción a este
 capítulo, la decisión del rey de no ejercer el inmediato castigo de los
 sublevados, a pesar de su descontento y no ratificación del perdón,
 indicaría el deseo por mantener la legitimidad de la gracia concedida a
@@ -884,12 +895,12 @@ mantenelle, no dandose despues por entendido de las ofensas recibidas,
 porque obligaria à mayores conjuras \[...\] Si bien despues, quando
 incurrieren en algun delito, se puede usar con ellos de todo el rigor de
 la Lei, para tenellos enfrentados, i que no abusen de la benignidad
-recibida".[^144] A esto se asociaba además el criterio del juramento y
+recibida".[^146] A esto se asociaba además el criterio del juramento y
 la promesa; nuevamente Saavedra, a través de referencias bíblicas,
 advertía a los príncipes: "Lo que se promete, i no se cumple lo recibe
 por afrenta el Superior, por injusticia el Igual, i por tyrania el
 Inferior. I asi es menester, que la lengua no se arròje a ofrezer lo que
-no sabe, que puede cumplir".[^145]
+no sabe, que puede cumplir".[^147]
 
 Una interpretación contrafactual de los posibles efectos de retirar el
 perdón en la tropa sublevada puede ser analíticamente débil, sin
@@ -906,11 +917,11 @@ el caso presente los Ministros del Real Acuerdo obraron con facultades
 en la publicacion y prometimiento pues que no lo habrian echo á no
 tenerlas muy lexitimas por no ser menos temibles y peligrosas, segun el
 politico Don Diego Sabedra, las conseqüencias de faltarse á los perdones
-prometidos que prometerlos banamente ó sin autoridad para ello".[^146]
+prometidos que prometerlos banamente ó sin autoridad para ello".[^148]
 En 1802 el Consejo de Indias resolvió que Goenaga y otros que se
 acogieron al indulto estaban comprendidos por el perdón real, quedando
 en libertad con la condición de no regresar a los reinos de Indias ni
-recaer en otra conspiración.[^147] Finalmente, la palabra real, al menos
+recaer en otra conspiración.[^149] Finalmente, la palabra real, al menos
 por la vía de Consejo, mantuvo intacta su autoridad.
 
 El nuevo pensamiento: la clemencia como vicio
@@ -922,7 +933,7 @@ cual gobernaba el orbe hispánico. Lo que se observa durante el siglo
 XVIII es un interés por limitar cada vez más las decisiones de clemencia
 al mero arbitrio del monarca y con ello restringir la facultad de
 perdonar delegada en diversos agentes de la monarquía, en especial los
-jueces y los alcaldes del crimen o de casa y corte[^148]. Para los
+jueces y los alcaldes del crimen o de casa y corte[^150]. Para los
 propósitos de nuestra investigación es fundamental comprender este
 proyecto por concentrar la facultad graciosa en la figura del Soberano,
 limitando progresivamente el ejercicio delegado de la clemencia como se
@@ -941,13 +952,13 @@ lágrimas, clamores y blandura de temperamento; traerían como
 consecuencia el aumento de los crímenes. Hasta este punto no hay novedad
 ya que Feijoo coincide con la doctrina de la clemencia regia separada de
 la mansedumbre de la persona, en quien al contrario era virtud pues
-contribuía a aplacar su tendencia a la crueldad[^149].
+contribuía a aplacar su tendencia a la crueldad[^151].
 
 La novedad en Feijoo es la aclaración de que la clemencia no dependía de
 la voluntad absoluta del príncipe, es decir, se niega que la clemencia
 sea un acto arbitrario del rey, lo cual de plano borra el sentido de la
 concesión y gracia del indulto, un atributo en apariencia
-ilimitado[^150]:
+ilimitado[^152]:
 
 > El uso de la clemencia nunca es arbitrario, como comúnmente se juzga.
 > Quiero decir, nunca pende de la voluntad mera del Principe, ú del
@@ -978,7 +989,7 @@ perdón de los magistrados conllevaría la perdición de la república,
 aumentaría el daño en las víctimas y el consecuente aumento del vicio.
 Al final le deja al supuesto juez la sentencia: "advierte, que aquellos
 mismos inocentes afligidos están pidiendo justicia al Cielo contra él; y
-si le dexas indemne, se la pedirán contra ti, porque le perdonas"[^151].
+si le dexas indemne, se la pedirán contra ti, porque le perdonas"[^153].
 
 La paradoja está enmarcada en que la bondad con el delincuente implica
 la crueldad con las víctimas, la cual no es otra cosa que la extensión
@@ -987,12 +998,12 @@ en derecho pero no por ello escaparía de la justicia divina que
 reclamaría en él la vindicta pública. La petición de Feijoo, como
 religioso, parece contradecir la tradición del *ius canonici*, que
 aunque no se oponía a la rigurosidad favorecía la benignidad, la
-relajación y la dispensa[^152]. Sin embargo, se deduce de esta
+relajación y la dispensa[^154]. Sin embargo, se deduce de esta
 "paradoja" que Feijoo no proponía una mayor rigurosidad de la ley,
 tampoco negaba la epiqueya puesto que al cumplir las leyes se debía
 seguir "la mente del legislador" antes que la letra de la ley, por esta
 razón no era necesaria la clemencia más que en casos donde esta
-interpretación conllevara un rigor innecesario[^153].
+interpretación conllevara un rigor innecesario[^155].
 
 Tal percepción de que un exceso de benignidad podía conllevar al mal del
 reino de ningún modo era exclusiva de Feijoo. De hecho el mismo Carlos
@@ -1003,7 +1014,7 @@ coronación. El cuestionamiento del rey estaba dirigido a los posibles
 abusos que se habrían cometido en las provincias al libertar reos de
 delitos graves "con el pretexto de no estar bien probados estos delitos,
 ó por puro impulso de la piedad connatural á los ánimos
-españoles"[^154]. Melchor Gaspar de Jovellanos, quien fue el encargado
+españoles"[^156]. Melchor Gaspar de Jovellanos, quien fue el encargado
 de contestar la consulta llevada a la sala por vía reservada, consideró
 en primer lugar que, obviamente, la decisión de poner límites a su
 potestad misericordiosa era una decisión "de su soberana y bien
@@ -1014,14 +1025,14 @@ entonces. Por ende, la Sala consideraba que no era "conveniente destruir
 la generalidad de los indultos, ni limitar su efecto en un número
 determinado de personas", y que antes de representar esto un beneficio
 al reino implicaría la reducción del "principal atributo de la
-soberanía, y el ejercicio de la Real clemencia".[^155]
+soberanía, y el ejercicio de la Real clemencia".[^157]
 
 Las propuestas de Jovellanos para contrarrestar los posibles efectos
 nocivos de los indultos generales se resumían en excluir del perdón
 todos los delitos cometidos en Madrid, de tal modo que los delincuentes
 de las demás provincias no vinieran a refugiarse en esta y además se
 mostrara a la Corte como el espacio ejemplar de la justicia donde
-delinquir conllevaría una mayor gravedad.[^156] También proponía
+delinquir conllevaría una mayor gravedad.[^158] También proponía
 eliminar la posibilidad de que un reo que hubiese gozado del indulto
 pudiera volverlo a hacer por un delito diferente, bajo la lógica de que
 quien delinquía dos veces era un reincidente sin importar el crimen y
@@ -1029,7 +1040,7 @@ por otra parte se daba por supuesto que fue perdonado haciéndole falta
 castigo para su enmienda. Consideraba además que debería excluirse el
 homicidio en todas sus formas, aunque dejaba abierta la opción para que
 se conmutasen las penas en las situaciones menos perniciosas, lo cual
-podría extenderse a todos los delitos graves.[^157]
+podría extenderse a todos los delitos graves.[^159]
 
 Para Jovellanos la verdadera raíz del problema se encontraba en mezclar
 a los delincuentes menores con aquellos condenados por delitos graves en
@@ -1046,7 +1057,7 @@ tenor Jovellanos: "Entonces el homicida sin cualidad, el contrabandista,
 el amancebado, el jugador, y otros de esta clase, sentirían los efectos
 de la Real clemencia, sin que el público los viese enteramente libres, y
 sin que el Gobierno temiese que la absoluta impunidad los hiciese peores
-ó incorregibles"[^158].
+ó incorregibles"[^160].
 
 Tanto Feijoo como Jovellanos plantearon una moderada transformación de
 la clemencia regia, buscando limitar su ejercicio por los magistrados de
@@ -1054,10 +1065,10 @@ la monarquía e intentando que se tuviese más precaución con la concesión
 de libertad a los presos por delitos graves. La propuesta más innovadora
 en el contexto hispano la expuso Manuel de Lardizábal y Uribe, formado
 en jurisprudencia en el Colegio de San Ildefonso de México, cuando era
-Alcalde del Crimen del Consejo de Castilla[^159]. En ese momento Carlos
+Alcalde del Crimen del Consejo de Castilla[^161]. En ese momento Carlos
 III se encontraba en plena búsqueda de una reforma legislativa en
 materia penal que moderara las penas y a la vez mejorara la aplicación
-de la ley[^160]. En este contexto, Lardizábal plantea un *Discurso sobre
+de la ley[^162]. En este contexto, Lardizábal plantea un *Discurso sobre
 las penas contrahido a las leyes de España para facilitar su reforma*,
 que consistía básicamente en un ensayo sobre los principios de
 Montesquieu en *De l'esprit des lois*, de Beccaria en *Dei delitti e
@@ -1070,21 +1081,21 @@ de Montesquieu, en el cual decía: "La clemencia, esta virtud, que es la
 más bella prerrogativa del trono, exercitada con prudencia y sabiduría,
 puede producir admirables efectos. Quando tiene peligro es tan visible,
 que no se puede ocultar, y es también muy fácil saberla distinguir de la
-debilidad y de la impotencia"[^161], pero no debería por esto extenderse
+debilidad y de la impotencia"[^163], pero no debería por esto extenderse
 a los jueces, "porque la clemencia para perdonar, es virtud del
 legislador; pero no de los depositarios y executores de las
-leyes"[^162]. En este sentido, de lo que trata Lardizábal es del
+leyes"[^164]. En este sentido, de lo que trata Lardizábal es del
 principio según el cual la ley debía ser irremisible, que aquel que
 cometía un delito debería ser castigado, pero para ello la legislación
 debía sufrir una transformación radical garantizando la proporcionalidad
 de los delitos y las penas porque, citando a Montesquieu, "si se exâmina
 la causa de todas las relaxaciones se verá que proviene de la impunidad
-de los delitos, y no de la moderación de las penas"[^163].
+de los delitos, y no de la moderación de las penas"[^165].
 
 Además de esto, Lardizábal incluye la estrategia propuesta por Beccaria
 en la que se propone que la oferta de indulto a los delatores en casos
 graves de difícil averiguación se plasmara en una ley general en lugar
-de otorgarse en forma de perdón particular[^164]. La ventaja, según
+de otorgarse en forma de perdón particular[^166]. La ventaja, según
 planteaba Lardizábal, consistiría en evitar el fomento del vicio de
 traición en aquellos que buscaran el perdón como premio en tanto la ley
 prevendría la reunión para delinquir de los delincuentes, toda vez que
@@ -1094,9 +1105,9 @@ excepción para la utilidad pública, ya que como ley obstaculizaría el
 que se cometieran nuevos delitos. Advertía finalmente que la impunidad
 ofrecida por la ley debía cumplirse religiosamente, de tal manera que
 cumpliera con el efecto deseado, ya que en el caso de que se disimulara
-o falseara la fe y confianza pública se verían afectadas[^165]. Aunque
+o falseara la fe y confianza pública se verían afectadas[^167]. Aunque
 hay que apuntar que no era novedosa la idea de que el perdón debería
-cumplirse siempre que se ofreciese[^166], la innovación de la propuesta
+cumplirse siempre que se ofreciese[^168], la innovación de la propuesta
 de Lardizábal surgía del plasmar al perdón como ley, no como gracia, es
 decir, no como una actuación arbitraria del monarca o sus ministros que
 optaría por usar o no de la misericordia con los delatores, sino como
@@ -1726,7 +1737,18 @@ no pasa de ser un proyecto.
 [^115]: *Digesto*, Lib. XLVIII, tit. XIX, núm. 11 y 42. "Summa
     Theologiae", IIª-IIae, q. 157 a. 3 arg. 1-3.
 
-[^116]: *Manlia imperia*: entendido como el rigor romano, ejemplificado
+[^116]: Martha C. Nussbaum, *La ira y el perdón. Resentimiento,
+    generosidad, justicia*, trad. Víctor Altamirano (México: Fondo de
+    Cultura Económica, 2018), 320; Martha C. Nussbaum, *Sex & social
+    justice* (New York: Oxford University Press, 1999), 410 n. 3.
+
+[^117]: Véase la síntesis del análisis de la obra de Francesco
+    D\'Agostino, *Epieikeia: il tema dell\'equità nell\'antichità greca*
+    (Milán: A. Giuffre, 1973) en María José Falcón y Tella, *Equity and
+    Law*, trad. Peter Muckley (Leiden ; Boston: Martinus Nijhoff
+    Publishers, 2008), 19--20.
+
+[^118]: *Manlia imperia*: entendido como el rigor romano, ejemplificado
     por la historia narrada por Tito Livio en *Ab urbe condita* \[libro
     VIII, párrafos 7 y 8\] - Tito Manlio, hijo del cónsul Tito Manlio
     Torcuato, desobedeció la regla impuesta por el consejo de guerra
@@ -1743,26 +1765,30 @@ no pasa de ser un proyecto.
     ordenó asesinar por haber ofendido la autoridad consular. Se
     consideraba crueldad el castigo porque habían factores que minoraban
     la culpa: el \"ardimiento juvenil\" el \"celo por la Republica".
-    \"Pero la feróz, y desabrida virtud del duro Manlio, ni pesaba
+    "Pero la feróz, y desabrida virtud del duro Manlio, ni pesaba
     circunstancias, ni entendia epikeyas, y assi iniquamente privó á su
     Patria de un joven, que daba esperanzas de ser con el tiempo un gran
-    Caudillo.\" Feijoo,Teatro, VI, 27, p. 15
+    Caudillo." Feijoo, *Theatro crítico*, nueva edición corregida y
+    aumentada (Madrid: por Blas Roman, impresor de la Real Academia de
+    Derecho Español y Público, 1781), tomo VI, discurso I, paradoja
+    tercera "La que se llama clemencia de Principes y Magistrados,
+    perniciosa a los Pueblos", núm. 27, 15.
 
-[^117]: Cicerón, *De officiis*, Lib. I, núm. 33. "Ley rigurosa",
+[^119]: Cicerón, *De officiis*, Lib. I, núm. 33. "Ley rigurosa",
     Gerónimo Martín Caro y Cejudo, *Refranes y modos de hablar
     castellanos, con los latinos que les corresponden* (Madrid: imprenta
     real, 1792).
 
-[^118]: Castillo de Bovadilla, *Politica para corregidores*, lib. II,
+[^120]: Castillo de Bovadilla, *Politica para corregidores*, lib. II,
     cap. III, núm. 32. La máxima es retomada por Lorenzo Guardiola y
     Sáez, *El corregidor perfecto*, segunda impresión corregida y
     aumentada (Madrid: imprenta real, 1796) parte II, § IV, núm. 33.
 
-[^119]: Castillo de Bovadilla, lib. III, cap. XII, núm. 7.
+[^121]: Castillo de Bovadilla, lib. III, cap. XII, núm. 7.
 
-[^120]: Castillo de Bovadilla, lib. III, cap. XII, núm. 8.
+[^122]: Castillo de Bovadilla, lib. III, cap. XII, núm. 8.
 
-[^121]: "secundum August \[...\] misericordia debet servire rationi, ut
+[^123]: "secundum August \[...\] misericordia debet servire rationi, ut
     ita probetur misericordia, ut conservetur justitia, sive cum
     indigenti tribuitur, sive cum ignoscitur poenitenti". (Según San
     Agustín \[\...\] la misericordia debe servir a la razón, así como la
@@ -1771,13 +1797,13 @@ no pasa de ser un proyecto.
     arrepentido.) Gregorio López, glosa "Misericordia" a *Partidas*, P.
     VII, tít. 32, proemio.
 
-[^122]: "severitas legum insolentem restringat audaciam, misericordia
+[^124]: "severitas legum insolentem restringat audaciam, misericordia
     Principum reos subtrahat poenae". (que la severidad de las leyes
     restrinja la audacia de los insolentes y la misericordia de los
     príncipes remueva a los reos de la pena.) Gregorio López, glosa
     "Señaladamente" a P. VII, tít. 32, proemio.
 
-[^123]: "Se entendía por pena la enmienda o coerción, corporal o
+[^125]: "Se entendía por pena la enmienda o coerción, corporal o
     pecuniaria, aplicada por el delito cometido que los jueces pueden
     infligir para castigar a los delincuentes y para atemorizar a los
     demás de modo que no delincan en el futuro". Sebastián Terráneo,
@@ -1788,14 +1814,13 @@ no pasa de ser un proyecto.
     consideraba, por ejemplo, que un exceso de clemencia "da ocasión a
     todos los males, que causa el atrevimiento de los delinquentes,
     multiplicándose estos á excessivo número por falta de escarmiento"
-    Benito Jerónimo Feijoo y Montenegro, *Theatro critico universal*,
-    Tomo VI (Madrid: por Blas Roman, impresor de la Real Academia de
-    Derecho Español y Público, 1781), Disc. I, n. 23.
+    Feijoo, *Theatro crítico*, tomo VI, disc. I, paradoja tercera "La
+    que se llama clemencia", núm. 23, 13.
 
-[^124]: "*ut quos non allicit amor, coerceat timor*". Murillo Velarde,
+[^126]: "*ut quos non allicit amor, coerceat timor*". Murillo Velarde,
     *Cursus iuris canonici*, L. V, tít. XXXVII, "De pœnis", No. 319.
 
-[^125]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV. La "canción real"
+[^127]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV. La "canción real"
     incluida en las páginas preliminares del *Tratado*... de Juan López
     de Cuéllar juega además con la relación indulto-insulto: "Tu
     practica estudiosa, que dá leyes // A Consejos, á Principes, á
@@ -1804,9 +1829,10 @@ no pasa de ser un proyecto.
     llamar clemencia, y Regalia // La ofensa de la ley; que el suyo
     proprio // Es llamarla impiedad, y tiranía".
 
-[^126]: Feijoo, *Theatro critico*, Tomo VI, Disc. I, n. 23.
+[^128]: Feijoo, *Theatro crítico*, tomo VI, disc. I, paradoja tercera
+    "La que se llama clemencia", núm. 23, 13.
 
-[^127]: López de Cuéllar, *Tratado iuridico-politico*, núm. 31. También
+[^129]: López de Cuéllar, *Tratado iuridico-politico*, núm. 31. También
     lo planteó así Caussin: "el príncipe no puede dejar de castigar sin
     condenarse a sí mismo". *La corte santa*, tomo II, tratado I,
     prólogo, 9. Paolo Prodi señalaba además: "Paradójicamente -escribe
@@ -1819,12 +1845,12 @@ no pasa de ser un proyecto.
     derecho*, trad. Luciano Padilla López (Madrid: Katz Editores, 2008),
     42.
 
-[^128]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, "Limpie de
+[^130]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, "Limpie de
     delinquentes el Reyno, sin que tengan asylo los culpados", p. 125.
 
-[^129]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, 123.
+[^131]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV, 123.
 
-[^130]: "Nam severitas inflexibilis est circa inflictionem poenarum
+[^132]: "Nam severitas inflexibilis est circa inflictionem poenarum
     quando hoc recta ratio requirit, clementia autem diminutiva est
     poenarum etiam secundum rationem rectam, quando scilicet oportet, et
     in quibus oportet. Et ideo non sunt opposita, quia non sunt circa
@@ -1833,33 +1859,33 @@ no pasa de ser un proyecto.
     la clemencia tiende a aminorar los castigos, también según la recta
     razón, es decir, cuando y como conviene. Por eso no se oponen,
     porque no tienen el mismo objeto.) "Summa Theologiae", IIª-IIae, q.
-    157 a. 2 ad 1. También Feijoo, *Theatro critico*, Tomo VI, I,
-    \"Paradoxas politicas y morales\", paradoxa tercera, n. 21. Además,
-    la severidad no contradeciría la misericordia puesto que la
-    aplicación recta de justicia no implicaba dureza de corazón. Feijoo,
-    *Theatro critico*, Tomo VI, I, \"Paradoxas politicas y morales\",
-    paradoxa tercera, n. 31.
+    157 a. 2 ad 1. También Feijoo, *Theatro crítico*, tomo VI, disc. I,
+    paradoja tercera "La que se llama clemencia", núm. 21. Además, la
+    severidad no contradeciría la misericordia puesto que la aplicación
+    recta de justicia no implicaba dureza de corazón. Feijoo, *Theatro
+    crítico*, tomo VI, disc. I, paradoja tercera "La que se llama
+    clemencia", núm. 31.
 
-[^131]: Bartolomé Clavero, "Justicia y gobierno, economía y gracia", en
+[^133]: Bartolomé Clavero, "Justicia y gobierno, economía y gracia", en
     *Real Chancillería de Granada: V Centenario 1505-2005* (Granada:
     Consejería de Cultura, 2006), 121--48,
     http://www.bartolomeclavero.net/wp-content/uploads/2014/07/Justicia-Gobierno-Econom%C3%ADa-Gracia.pdf.
 
-[^132]: Garriga Acosta, "Orden jurídico y poder político", 67.
+[^134]: Garriga Acosta, "Orden jurídico y poder político", 67.
 
-[^133]: El *Diccionario de autoridades* definía una de las acepciones de
+[^135]: El *Diccionario de autoridades* definía una de las acepciones de
     gracia de la siguiente manera: "Tomada theologica y genericamente es
     dón de Dios sobre toda la actividad y exigencia de nuestra
     naturaleza, sin méritos ni proporción de parte nuestra, y siempre
     ordenado al logro de la bienaventuranza".
 
-[^134]: Alejandro Agüero Nazar, "Las categorías básicas de la cultura
+[^136]: Alejandro Agüero Nazar, "Las categorías básicas de la cultura
     jurisdiccional", en *De justicia de jueces a justicia de leyes:
     hacia la España de 1870*, ed. Marta Lorente Sariñena, Cuadernos de
     derecho judicial, VI--2006 (Madrid: Consejo General del Poder
     Judicial, 2007), 45.
 
-[^135]: Al respecto es ilustrativo el capítulo VIII del libro II del
+[^137]: Al respecto es ilustrativo el capítulo VIII del libro II del
     *Tratado de la religión y las virtudes* de Ribadeneyra, en el cual
     explica que las mercedes debían ser producto del agradecimiento a
     quien sus virtudes lo hacían merecedor de la donación y no por la
@@ -1873,67 +1899,67 @@ no pasa de ser un proyecto.
     ellas, y que las reparte a su voluntad, y que no ha de valer
     cohecho, ni dadivas que se den à sus criados".
 
-[^136]: Clavero, "Justicia y gobierno, economía y gracia"; *Antidora:
+[^138]: Clavero, "Justicia y gobierno, economía y gracia"; *Antidora:
     antropología católica de la economía moderna*, Per la storia del
     pensiero giuridico moderno 39 (Milán: Giuffrè, 1991); António Manuel
     Hespanha, "La economía de la gracia", en *La gracia del derecho:
     economía de la cultura en la edad moderna*, trad. Ana Cañellas
     Haurie (Madrid: Centro de estudios constitucionales, 1993), 151--76.
 
-[^137]: Giovanni Botero decía incluso que el exceso de mercedes hacía
+[^139]: Giovanni Botero decía incluso que el exceso de mercedes hacía
     del rey tirano al conducirlo al tributo abusivo o a la rapiña para
     solventar su exceso de liberalidad. Giovanni Botero, *Diez libros de
     la razón de estado. Con tres libros de las causas de la grandeza y
     magnificencia de las ciudades de Iuan Botero*, tr. Antonio de
     Herrera (Madrid: Luis Sánchez, 1593), 31.
 
-[^138]: Francisco Andújar Castillo, *Necesidad y venalidad: España e
+[^140]: Francisco Andújar Castillo, *Necesidad y venalidad: España e
     Indias 1704-1711*, Colección Historia de la sociedad política
     (Madrid: Centro de Estudios Políticos y Constitucionales, 2008),
     315--20.
 
-[^139]: Al respecto resalto el trabajo compilatorio de Pilar Ponce Leiva
+[^141]: Al respecto resalto el trabajo compilatorio de Pilar Ponce Leiva
     y Francisco Andújar Castillo, eds., *Mérito, venalidad y corrupción
     en España y América, siglos XVII y XVIII*, Colección Historia de
     España y su proyección internacional 10 (Valencia: Albatros, 2016).
 
-[^140]: Rudy Chaulet, *Crimes, rixes et bruits d'épées: homicides
+[^142]: Rudy Chaulet, *Crimes, rixes et bruits d'épées: homicides
     pardonnés en Castille au siècle d'or*, Espagne médiévale et moderne
     11 (Montpellier: Presses Universitaires de la Méditerranée, 2007),
     375--76; Rodríguez Flores, *El perdón real*, 66--69.
 
-[^141]: Tamar Herzog, *La administración como un fenómeno social: la
+[^143]: Tamar Herzog, *La administración como un fenómeno social: la
     justicia penal de la ciudad de Quito (1650 - 1750)*, Historia de la
     sociedad política (Madrid: Centro de Estudios Constitucionales,
     1995), 249--50.
 
-[^142]: Clavero, "Justicia y gobierno, economía y gracia"; Garriga
+[^144]: Clavero, "Justicia y gobierno, economía y gracia"; Garriga
     Acosta, "Orden jurídico y poder político", 67.
 
-[^143]: Salustiano de Dios, "El ejercicio de la gracia regia en Castilla
+[^145]: Salustiano de Dios, "El ejercicio de la gracia regia en Castilla
     entre 1250 y 1530, los inicios del Consejo de la Cámara", *Anuario
     de historia del derecho español*, núm. 60 (1990): 326--27.
 
-[^144]: Saavedra Fajardo, *Idea de un príncipe político christiano*,
+[^146]: Saavedra Fajardo, *Idea de un príncipe político christiano*,
     emp. 73, lema "compressa quiescunt".
 
-[^145]: Saavedra Fajardo, emp. 11, lema "ex pulsu noscitur" (en la
+[^147]: Saavedra Fajardo, emp. 11, lema "ex pulsu noscitur" (en la
     *editio prínceps* de 1640, emp. 10). Las referencias bíblicas
     tomadas por Saavedra son Eccl. 5:4 y Eccl. 4:34.
 
-[^146]: "Josefa Ramona de Gracian, esposa de Martín de Goenaga, reclama
+[^148]: "Josefa Ramona de Gracian, esposa de Martín de Goenaga, reclama
     al Ministro de Gracia y Justicia por la remisión a España de su
     esposo a pesar de haber sido perdonado en nombre de SM", La Guaira,
     15 de marzo de 1798, AHN, Consejo de Indias, Secretaría de
     Presidencia, Leg. 21672, exp. 3.
 
-[^147]: "Real resolución y libertad a Juan José Mendiri y Martín de
+[^149]: "Real resolución y libertad a Juan José Mendiri y Martín de
     Goenaga", Madrid, 25 de junio de 1802, AHN, Consejo de Indias,
     Secretaría de Presidencia, Leg. 21672, exp. 8, doc. 5.
 
-[^148]: Rodríguez Flores, 168, 173--74.
+[^150]: Rodríguez Flores, *El perdón real*, 168, 173--74.
 
-[^149]: Feijoo, *Theatro critico*, Tomo VI, I, \"Paradoxas politicas y
+[^151]: Feijoo, *Theatro critico*, Tomo VI, I, \"Paradoxas politicas y
     morales\", paradoxa tercera, n. 22-23. \"que en los hombres communes
     regularmente excede su crueldad á la impiedad de las fieras, pues
     estas perdonan á sus semejantes\" López de Cuéllar, *Tratado
@@ -1954,27 +1980,28 @@ no pasa de ser un proyecto.
     "Temple los ardores de la ira, porque no salgan al rostro afectos
     indecentes".
 
-[^150]: Rodríguez Flores, *El perdón real*, 89.
+[^152]: Rodríguez Flores, *El perdón real*, 89.
 
-[^151]: Feijoo, *Theatro critico*, Tomo VI, I, \"Paradoxas politicas y
-    morales\", paradoxa tercera, n.32-34.
+[^153]: Feijoo, *Theatro crítico*, tomo VI, disc. I, paradoja tercera
+    "La que se llama clemencia", núm. 32-34.
 
-[^152]: Javier Otaduy, "'Dulcor misericordiae'. Justicia y misericordia
+[^154]: Javier Otaduy, "'Dulcor misericordiae'. Justicia y misericordia
     en el ejercicio de la autoridad canónica. I. Historia", *Ius
     Canonicum* 56, núm. 112 (el 24 de noviembre de 2016): 587--92,
     https://doi.org/10.15581/016.112.585-619.
 
-[^153]: Benito Jerónimo Feijóo, *Ensayos escogidos* (Madrid: M. Aguilar,
+[^155]: Benito Jerónimo Feijóo, *Ensayos escogidos* (Madrid: M. Aguilar,
     1944), 261.
 
-[^154]: Gaspar Melchor de Jovellanos, "Informe de la Real Sala de
+[^156]: Gaspar Melchor de Jovellanos, "Informe de la Real Sala de
     Alcaldes al Consejo de Castilla, sobre indultos generales \[1779\]",
     en *Obras del excelentisimo señor D. Gaspar Melchor de Jovellanos*,
-    vol. VII (Barcelona: Imprenta de Francisco Oliva, 1840), 20.
+    ed. Venceslao de Linares y Pacheco, vol. VII (Barcelona: Imprenta de
+    Francisco Oliva, 1840), 20.
 
-[^155]: Jovellanos, 21--22.
+[^157]: Jovellanos, 21--22.
 
-[^156]: Valga la pena indicar que por lo general el delito cometido en
+[^158]: Valga la pena indicar que por lo general el delito cometido en
     la Corte o sus alrededores (Rastro) conllevaba una pena más
     rigurosa. Por ejemplo: Alicia Duñaiturria Laguarda, "Quitar la vida
     en el Madrid del siglo XVIII: entre el rigor y la clemencia", en *El
@@ -1982,22 +2009,22 @@ no pasa de ser un proyecto.
     - XVIII)*, ed. José Sánchez-Arcilla Bernal (Madrid: Dykinson, 2013),
     406.
 
-[^157]: Jovellanos, "Informe de la Real Sala de Alcaldes al Consejo de
+[^159]: Jovellanos, "Informe de la Real Sala de Alcaldes al Consejo de
     Castilla, sobre indultos generales \[1779\]", 22--24.
 
-[^158]: Jovellanos, 28. También sugería que según su gravedad fueran
+[^160]: Jovellanos, 28. También sugería que según su gravedad fueran
     enviados a los arsenales los delincuentes más peligrosos o a obras
     públicas los menos.
 
-[^159]: José Luis Orella Unzué, "Juristas ilustrados vascos: Manuel de
+[^161]: José Luis Orella Unzué, "Juristas ilustrados vascos: Manuel de
     Lardizábal y Uribe", *Sancho el sabio: Revista de cultura e
     investigación vasca*, núm. 9 (1998): 105--22.
 
-[^160]: José R. Casabo Rúiz, "Los orígenes de la codificación penal en
+[^162]: José R. Casabo Ruiz, "Los orígenes de la codificación penal en
     España: el plan de Código criminal de 1787", *Anuario de derecho
     penal y ciencias penales* 22, núm. 2 (1969): 313--42.
 
-[^161]: Lardizábal, *Discurso sobre las penas*, Cap. II, n. 26. Esta
+[^163]: Lardizábal, *Discurso sobre las penas*, Cap. II, n. 26. Esta
     idea está construida con los siguientes extractos: "Ce pouvoir que
     le prince a de pardonner, exécuté avec sagesse, peut avoir
     d\'admirables effets"., y "Quand la clémence a des dangers, ces
@@ -2007,9 +2034,9 @@ no pasa de ser un proyecto.
     vol. I, II vols. (Paris: Garnier, 1973), Liv. V, chap. XVI y Liv.
     VI, chap. XXI.
 
-[^162]: Lardizábal, Cap. II, n. 26.
+[^164]: Lardizábal, Cap. II, n. 26.
 
-[^163]: Ladizábal, Cap. II, n. 29. Montesquieu, *De l'Esprit des lois*,
+[^165]: Ladizábal, Cap. II, n. 29. Montesquieu, *De l'Esprit des lois*,
     Liv. VI, chap. XII. Valga recordar que en el régimen de justicia del
     Antiguo Régimen, la pena debía ser proporcional a la culpa pero no
     era un aspecto establecido en la ley sino dependía de la "benigna
@@ -2018,7 +2045,7 @@ no pasa de ser un proyecto.
     inclinase al lado de la clemencia y no del rigor. Andrés Mendo,
     *Principe perfecto*, doc. XXXI.
 
-[^164]: "Sembrerebbemi, che una Legge generale, che promettesse
+[^166]: "Sembrerebbemi, che una Legge generale, che promettesse
     l'impunità al complice palesatore di qualunque delitto, fosse
     preferibile ad una speciales dichiarazione in un caso particolare,
     perchè così preverrebbe le unioni col reciproco timore, che ciascun
@@ -2027,9 +2054,9 @@ no pasa de ser un proyecto.
     chiesto il loro socorso". Beccaria, *Dei delitti e delle pene*, 6a
     edición (Harlem: 1766), cap. XXXVII. Ladizábal, Cap. IV, §2, n. 35.
 
-[^165]: Lardizábal, Cap. IV, §2, n. 39.
+[^167]: Lardizábal, Cap. IV, §2, n. 39.
 
-[^166]: Saavedra Fajardo en su *idea de un príncipe político christiano*
+[^168]: Saavedra Fajardo en su *idea de un príncipe político christiano*
     ya había dejado claro que "concedido un perdón general debe el
     Principe mantenelle, no dándose después por entendido de las ofensas
     recibidas, porque obligaría á mayores conjuras \[...\] Si bien
