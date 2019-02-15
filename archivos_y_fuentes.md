@@ -1,6 +1,8 @@
 Abreviaturas
 ============
 
+ACC: Archivo Central del Cauca, Popayán.
+
 AGI: Archivo General de Indias, Sevilla.
 
 AGNC: Archivo General de la Nación de Colombia, Bogotá.
@@ -20,8 +22,8 @@ BNC: Biblioteca Nacional de Colombia, Bogotá.
 BDH-BNE: Biblioteca Digital Hispánica, Biblioteca Nacional de España,
 Madrid.
 
-Referencias bibliográficas
-==========================
+Referencias
+===========
 
 Archivos
 --------
@@ -36,7 +38,7 @@ Audiencia de Panamá, 358
 
 Audiencia de Quito, 398
 
-Audiencia de Santa Fe, 940
+Audiencia de Santa Fe, 193, 682, 940.
 
 Indiferente general, 415, 429, 430, 538 L.YY11.
 
@@ -48,9 +50,14 @@ Sección colonia:
 
 > Aduanas, tomo 11
 >
-> Juicios criminales, tomos 64, 102, 114, 130, 157
+> Caciques e indios, tomo 41.
+>
+> Juicios criminales, tomos 2, 6, 49, 54, 58, 64, 102, 103, 114, 130,
+> 148, 157, 176, 216.
 >
 > Miscelánea, tomo 59.
+>
+> Poblaciones varias, tomo 10.
 >
 > Real Audiencia
 
@@ -80,6 +87,13 @@ Consejo de Indias, Secretaría de Presidencia, 21672
 ### Biblioteca Nacional de Colombia (Bogotá)
 
 Fondo Pineda, tomo 852.
+
+Fuentes seriadas
+----------------
+
+*Gaceta de Madrid*, núm. 91, 13 de noviembre de 1804.
+
+*Gazeta ministerial de Sevilla*, núm. 2, 4 de junio de 1808.
 
 Libros manuscritos
 ------------------
@@ -174,7 +188,7 @@ Julián de Paredes, 1681.
 exercito y provincia en el Reino de la Nueva-España*. Madrid: \[s.n.\],
 1786.
 
-### Doctrina
+### Fuentes doctrinales, tratadística y práctica
 
 Álvarez de Velasco, Gabriel. *De privilegiis pauperum, et miserabilium
 personarum*. Segunda edición. Lyon: Sumptibus Horatii Boissat et Georgii
@@ -358,3 +372,6 @@ Romae. Pamplona: Ad Universitatis Studiorum Navarrensis, 2001.
 Universidad Rey Juan Carlos, *Biblioteca digital. Colección fondo
 antiguo*. 2018.
 [[https://eciencia.urjc.es/]{.underline}](https://eciencia.urjc.es/)
+
+Referencias bibliográficas
+--------------------------

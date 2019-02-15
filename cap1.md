@@ -1608,9 +1608,8 @@ no pasa de ser un proyecto.
     Indias", en *Actas del XIX congreso del Instituto Internacional de
     Historia del Derecho Indiano. Berlín 2016.*, ed. Thomas Duve, vol.
     II, II vols. (Madrid: Dykinson, 2017), 1163--83. Doctrinalmente, las
-    súplicas pueden analizarse a detalle siguiendo a Juan de Hevia
-    Bolaños, *Curia Philipica*, nueva impresión (Madrid: por Ramón Ruiz
-    en la imprenta de Ulloa, 1790), tomo I, parte V, § V y VI.
+    súplicas pueden analizarse a detalle siguiendo a Hevia Bolaños,
+    *Curia Philipica*, tomo I, parte V, § IV y V.
 
 [^94]: Anteriormente el tratadista aclaró que el temor de dios que
     constriñe al príncipe, al juez y al gobernador es filial, es decir,
