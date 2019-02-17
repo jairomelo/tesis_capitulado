@@ -1098,10 +1098,10 @@ la severidad requerida. Finalmente, de manera similar a la pena capital,
 los indultos podían ser consultados por los jueces a los oidores de tal
 manera que la decisión de liberar a un reo fuese ratificada o incluso
 determinada por el superior gobierno, así se salvaba su actuación frente
-a la vindicta pública.
+a la vindicta pública.[^132]
 
 De los 330 expedientes por homicidio hallados en la sección colonia del
-Archivo General de la Nación de Bogotá,[^132] poco más de la mitad se
+Archivo General de la Nación de Bogotá,[^133] poco más de la mitad se
 concentra en el periodo que corre entre 1790 y 1809. Como se observa en
 el gráfico 1, hubo tres momentos que marcan la tendencia, el primero que
 inicia en 1757, alcanza su pico más alto en 1762 con nueve casos vistos
@@ -1120,10 +1120,10 @@ Aunque se expidieron seis indulgencias universales que abarcaban a las
 provincias americanas, las peticiones se concentraron en las de los años
 1760, 1780, 1784 y 1803; siendo excepcional el perdón concedido a Manuel
 Timoteo y otros indios Coyaimas, acogidos a la real cédula de indulto de
-1771.[^133] Se eliminaron de esta serie los indultos que se concedieron
+1771.[^134] Se eliminaron de esta serie los indultos que se concedieron
 en 1809 y 1810 por motivo de la coronación de Fernando VII, ya que esta
 fue en realidad una gracia promulgada por el virrey Amar y Borbón a
-nombre del rey.[^134]
+nombre del rey.[^135]
 
 Gráfico 1. Casos por homicidio vistos en la Real Audiencia de Santa Fe e
 indultos concedidos por ese delito entre 1700 y 1810
@@ -1153,7 +1153,7 @@ notable está enmarcada en la gobernación de Antioquia, de la cual
 sabemos por las investigaciones señaladas previamente que concedieron
 indultos abrigándose en el perdón general, y aunque la relativa
 autonomía de dicha gobernación fue decayendo desde mediados del siglo
-XVIII,[^135] es claro que en términos de justicia criminal no se
+XVIII,[^136] es claro que en términos de justicia criminal no se
 recurría frecuentemente a consultar a la Audiencia. Claramente, la
 mayoría de indultos se centraban en las provincias cercanas al distrito
 de Santa Fe: las gobernaciones de Neiva, Mariquita, y el corregimiento
@@ -1163,38 +1163,134 @@ en el pueblo de Tiribitá (corregimiento de Guatavita); seguidos por la
 ciudad de Ibagué, la villa de Leyva, y Zipaquirá (cabecera del
 corregimiento homónimo).
 
-Si se contrasta con la distribución general de los casos por homicidio
-vistos por la Audiencia se
+Si se observa la distribución general de los casos por homicidio vistos
+por la Audiencia de Santa Fe (mapa 2) se observa que ese tribunal tenía
+conocimiento de causas que superaban su jurisdicción; no obstante, debe
+matizarse que para Mérida y Maracaibo, los sumarios fueron consultados
+antes de la creación de la Capitanía General de Venezuela, y en el caso
+de Caracas solamente fue un expediente de 1741, un año antes de retirar
+la dependencia de la provincia de Venezuela del virreinato del Nuevo
+Reino. Para el caso de la Audiencia de Quito, los sumarios se remitieron
+porque comprendían decisiones que estaban bajo jurisdicción del
+virrey[^137] o pretendían evitar a los oidores de ese distrito.[^138] De
+modo que a pesar del aparente desborde jurisdiccional, los límites se
+encontraban bien definidos. La distribución de los homicidios conocidos
+por la Audiencia reflejan claramente la dispersión poblacional del Nuevo
+Reino de Granada, con la notable excepción de Antioquia, con una gran
+concentración en el altiplano cundiboyacense, la provincia de Tunja,
+Girón, Pamplona, y los pueblos y ciudades de las gobernaciones de Neiva
+y Mariquita.[^139] La cantidad de casos provenientes de la villa de
+Mompox se explican por el carácter de dicha ciudad como nodo de una
+cantidad importante de poblaciones de calidad variopinta que se
+entrecruzaban por los ríos de los valles de los ríos Cauca, Magdalena y
+Sinú.[^140] Finalmente, Cartagena es un resultado esperado debido a su
+relevancia como una de las "llaves del imperio" y concentración
+poblacional.[^141]
 
-algunos de los cuales se encontraban en estado de rebeldía. Uno de estos
-reos, llamado Domingo Robayo, acumuló 12 años huido de las justicias de
-la Serrezuela (actualmente Madrid, Cundinamarca), a quienes se entregó
-en 1762 para acogerse al perdón general.
+Al sobreponer las representaciones (mapa 3) llama la atención la
+evidente discrepancia entre ambas series. Esto corrobora hasta cierto
+punto la idea de que si bien los perdones apuntan a la justicia
+criminal, las vías de justicia y clemencia corren por caminos
+diferentes. Mientras que la criminalidad tiene ciclos temporales y se
+dispersa geográficamente por todo el ámbito jurisdiccional del
+virreinato, el perdón no se otorga dependiendo de tales dinámicas sino
+por la facultad volitiva del monarca. Las consecuencias del indulto
+general no afectaban la criminalidad, en particular en el Nuevo Reino
+donde un aumento de los homicidios no tendría ninguna relación con la
+decisión del rey de otorgar una indulgencia universal, como tampoco lo
+era su aplicación, que no afectaba la cantidad de delincuentes en las
+provincias. Los indultos generales impactaban en cambio a la
+administración de justicia, específicamente porque representaban para
+los delincuentes la posibilidad de escapar del castigo, restablecerse a
+su lugar de origen; también les permitía a las autoridades locales
+rematar causas que se encontraban pendientes, evacuar procesos
+incompletos, e incluso solventar un traslado a presidio o destierro que
+no se podía ejecutar; incluso para la Audiencia significaba la
+posibilidad de amonestar a los oficiales que habían sido negligentes con
+sus procesos, forzar al mejoramiento de los testimonios y pruebas, o
+conmutar penas excesivas por castigos más útiles, como el servicio en
+presidio.
+
+Por otra parte, la cantidad de homicidios conocidos no coincidía con la
+cantidad de causas sentenciadas. Poco menos de la mitad de los
+expedientes, como se representa en el gráfico 2 con el rótulo "varias",
+comprende decisiones que implicaban ampliar las evidencias, remitir la
+causa o el reo a otra autoridad, informar sobre la evasión de un
+prisionero, retomar un procedimiento mal hecho, castigar a los jueces
+que dejaron dilatar un caso hasta el caso de hacerlo fenecer de hecho, o
+simplemente no es posible conocer el final de la causa por el deterioro
+o pérdida de parte del sumario. Dentro de los casos finiquitados, llama
+la atención que las decisiones de clemencia representan un porcentaje
+importante. Entre indultos y conmutaciones suman un 15 % de las
+sentencias, esto sin ni siquiera distinguir aquellos casos donde el juez
+decidió imponer pena de presidio o destierro a quien bien podría haber
+sido condenado a último suplicio. Incluso podría considerarse como una
+decisión de clemencia el caso del indio Isidro Equi, indio tributario de
+La Guaira, condenado por el asesinato de sus dos hijos políticos, a
+quien la Audiencia de Santa Fe decidió modificar la sentencia dada por
+el gobernador de Santa Marta de último suplicio por horca por muerte por
+garrote vil, pues se consideraba un método menos cruel de ejecución del
+reo.[^142] También se amonestó a una escuadra de milicianos que
+ejecutaron en Quibdó a un hombre después de un juicio sumario que se le
+llevó por homicidio, el capitán ordenó que debía aplicársele la muerte
+por horca, pero al no contar con un verdugo con experiencia el reo tardó
+mucho tiempo en morir por lo que se le ordenó a tres milicianos que
+dispararan al cuerpo. Por la falta de precisión de las armas de la época
+una de las balas fue a dar en otro miliciano que se encontraba tras el
+cuerpo del ahorcado hiriéndolo de muerte. Fue precisamente por ese
+motivo que la Audiencia supo de ese caso e inició la averiguación por el
+homicidio del miliciano, finalizando la causa con la advertencia a los
+oficiales que no ejecutaran a los condenados si no contaban con
+verdugos.[^143]
+
+Gráfico 2. Tipos de sentencias por homicidio dadas por los oidores de la
+Audiencia de Santa Fe, 1700-1810
 
 [\[CHART\]]{.chart}
 
-Mapa 1. Distribución geográfica de los indultos a homicidas, Audiencia
-de Santa Fe, 1760-1804
-
-![](media/image1.jpeg){width="5.567696850393701in"
-height="7.874015748031496in"}
-
-Fuente: AGNC, sección colonia, fondos juicios criminales y caciques e
-indios, 1760-1805. Werner Stangl, ed. *HGIS de las Indias (Proyecto FWF,
-P 26379-G18, 2015-2019)*, consultado el 13 de febrero de 2019,
-[[www.hgis-indias.net]{.underline}](www.hgis-indias.net).
-
-Mapa 2. Casos por homicidio vistos por la Audiencia de Santa Fe entre
-1700 y 1810
-
-![](media/image2.jpeg){width="5.567689195100613in"
-height="7.874015748031496in"}
-
 Fuente: AGNC, sección colonia, fondos juicios criminales, caciques e
-indios, y milicias y marina, 1700-1810. Werner Stangl, ed. *HGIS de las
-Indias (Proyecto FWF, P 26379-G18, 2015-2019)*, consultado el 13 de
-febrero de 2019,
-[[www.hgis-indias.net]{.underline}](www.hgis-indias.net).
+indios, y milicias y marina. 1700-1810.
+
+De la totalidad de casos revisados, solamente en dos ocasiones los
+oidores incrementaron el rigor de la sentencia con respecto a la
+dictaminada por las justicias ordinarias; en la primera (1766) se
+modificó la sentencia de 10 años de presidio en Cartagena por servicio
+perpetuo en el castillo del Morro de La Habana o pena de muerte, según
+fuera el arbitrio del juez de Tunja; en una segunda ocasión (1798) se
+incrementó de seis a diez años la pena de presidio en Cartagena señalada
+por el alcalde ordinario de Servitá. En todo caso, las sentencias de
+muerte fueron mínimas, lo cual coincide con la tendencia de la justicia
+criminal de la época. Asimismo, sólo en dos casos se regresó a la
+Audiencia la información de la ejecución, en cuatro casos el caso se
+encontraba en súplica para conmutación de la pena y en igual cantidad
+los sindicados fueron condenados en rebeldía o se encontraban prófugos.
+El uso limitado del último suplicio podía relacionarse con una tendencia
+utilitaria a utilizar a los delincuentes en trabajos de utilidad pública
+en calidad de servidumbre, sin paga y con una mínima ración apenas para
+su supervivencia.[^144] Pero también era fundamental el hecho de que al
+aplicar la pena de muerte no existía la posibilidad de restitución en el
+eventual caso de hallarse luego que el reo era inocente. Valga recordar
+lo dicho por el jurista Elizondo a finales del siglo XVIII: "juzgamos se
+siguen superiores ventajas de oírse \[las súplicas de los reos\], y
+dispensarse estos \[castigos públicos\] por los Soberanos para no
+exponer al inocente á la calamidad de una pena la mas grave, y
+sensible".[^145]
+
+Aunque pudiese parecer un asunto retórico, una ejecución realizada sobre
+alguien que luego se descubriera inocente representaba la posibilidad de
+ser juzgado por homicidio. Este fue el caso del juez, fiscal, asesor, y
+testigos implicados en la causa que se abrió contra Manuel José Libreros
+en la ciudad de Cartago. Este hombre fue condenado a muerte por horca
+con otros supuestos cómplices, los cuales poco antes de ser conducidos
+al patíbulo le pidieron perdón a Libreros por sus falsos testimonios
+contra él y confesaron ante el sacerdote quien logró detener la
+ejecución. La madre del reo inició la súplica para su liberación, a
+pesar de lo cual fue ejecutado poco tiempo después. La queja se llevó a
+la Audiencia de Santa Fe donde se inició proceso por homicidio contra
+los jueces y se recabaron las pruebas que demostraron la inocencia de
+Libreros. Paradójicamente, fueron los oficiales quienes posteriormente
+elevaron las súplicas para que se les perdonara, conmutara sus
+sentencias, y restituyeran en bienes y fama.[^146]
 
 [^1]: Al parecer el reinado de Enrique IV de Castilla también fue
     pródigo en este tipo de gracias, hasta el punto que las Cortes le
@@ -1769,9 +1865,9 @@ febrero de 2019,
     penal rioplatense", *IV Congreso del Instituto Internacional de
     Historia del Derecho Indiano*, 1976, 252--54; Agüero Nazar,
     *Castigar y perdonar*, 148--51. Así como el ya clásico trabajo de
-    William Taylor, *Drinking, Homicide, and Rebellion in Colonial
-    Mexican Villages* (Stanford, CA: Stanford University Press, 1979),
-    98--101.
+    William B. Taylor, *Embriaguez, homicidio y rebelión en las
+    poblaciones coloniales mexicanas* (México: Fondo de Cultura
+    Económica, 1987), 155.
 
 [^131]: En este sentido son relevantes los artículos de Alejandro Agüero
     "'Las penas impuestas por el Divino y Supremo Juez'. Religión y
@@ -1786,18 +1882,95 @@ febrero de 2019,
     Cuadernos de derecho judicial, VI--2006 (Madrid: Consejo General del
     Poder Judicial, 2007), 21--58.
 
-[^132]: Se excluyó deliberadamente el fondo justicia de la sección
+[^132]: Respecto al uso del homicidio como delito para interpretar el
+    uso del perdón, véase Roberto J. González Zalacaín, *El perdón real
+    en Castilla a fines de la Edad Media: el ejemplo de la Cornisa
+    Cantábrica*, Inéditos de historia 6 (Bilbao: Universidad del País
+    Vasco. Servicio Editorial, 2013); Rudy Chaulet, *Crimes, rixes et
+    bruits d'épées: homicides pardonnés en Castille au siècle d'or*,
+    Espagne médiévale et moderne 11 (Montpellier: Presses Universitaires
+    de la Méditerranée, 2007); Tomás Antonio Mantecón Movellán, "Los
+    criminales ante la concesión del indulto en la España del Siglo
+    XVIII", *Prohistoria* 5, núm. 5 (2001): 55--82; Claude Gauvard, *De
+    grace especial: crime, Etat et société en France à la fin du Moyen
+    Age*, vol. I, II vols. (Paris: Publications de la Sorbonne, 1991);
+    Robert Muchembled, *La violence au village: sociabilité et
+    comportements populaires en Artois du XVe au XVIIe siècle*
+    (Turnhout: Brepols, 1989); Natalie Zemon Davis, *Fiction in the
+    Archives: Pardon Tales and Their Tellers in Sixteenth-Century
+    France* (Stanford University Press, 1987).
+
+[^133]: Se excluyó deliberadamente el fondo justicia de la sección
     Archivo Anexo por las condiciones de catalogación de dicho conjunto
     documental.
 
-[^133]: "Indios de Coyaima: procesados por homicidio", AGNC, sección
+[^134]: "Indios de Coyaima: procesados por homicidio", AGNC, sección
     colonia, caciques e indios, tomo 41, doc. 2, ff. 463-531.
 
-[^134]: "Indulto publicado en Santa Fe el 14 de octubre de 1808", AGNC,
+[^135]: "Indulto publicado en Santa Fe el 14 de octubre de 1808", AGNC,
     sección colonia, juicios criminales, tomo 2, doc. 14, ff. 759r-761v.
     El 30 de mayo de ese año la Suprema Junta de Gobierno promulgó en
     Sevilla, también a nombre de Fernando VII, un indulto a los
     desertores que se presentaran en esa ciudad. *Gazeta ministerial de
     Sevilla*, núm. 2, 4 de junio de 1808, 15-16.
 
-[^135]: Montoya Gómez, "Los jueces y los desordenados", 67.
+[^136]: Montoya Gómez, "Los jueces y los desordenados", 67.
+
+[^137]: Por ejemplo, el caso de un empleado de correos condenado a la
+    pena de muerte, se envió al virrey para su ratificación como
+    superintendente y juez del tribunal de rentas; encargado de la
+    jurisdicción de correos. "Causa contra Francisco Pascual Llanos",
+    Cali, 1805-1809, AGNC, sección colonia, juicios criminales, tomo
+    134, doc. 12. También cursaban expedientes por la vía de la
+    jurisdicción militar, como fue una conmutación de la pena de muerte
+    a un soldado de la ciudad de Quito que realizó Manuel Guirior en
+    1775. "Causa contra Francisco Díaz", Quito, 1771-1775, AGNC, sección
+    colonia, milicias y marina, tomo 35, doc. 9.
+
+[^138]: En este caso, fue el hermano de una de las víctimas, vecino del
+    pueblo de Alausí, quien en 1807 envió su causa al virrey porque
+    consideraba que los jueces de Cuenca (cuyas redes, diría, se
+    extendían hasta la Audiencia de Quito) habían sido sobornados por
+    los asesinos. AGNC, sección colonia, juicios criminales, tomo 130,
+    doc. 5.
+
+[^139]: Marta Herrera Ángel, *Ordenar para controlar: ordenamiento
+    espacial y control político en las llanuras del Caribe y en los
+    Andes Centrales Neogranadinos, siglo XVIII*, Colección Espiral
+    (Bogotá: Instituto Colombiano de Antropología e Historia, Academia
+    Colombiana de la Historia, 2002).
+
+[^140]: Hugues R. Sánchez Mejía, "De arrochelados a vecinos: reformismo
+    borbónico e integración política en las gobernaciones de Santa Marta
+    y Cartagena, Nuevo Reino de Granada, 1740-1810", *Revista de Indias*
+    75, núm. 264 (el 30 de agosto de 2015): 459,
+    https://doi.org/10.3989/revindias.2015.015; Aline Helg, *Liberty &
+    Equality in Caribbean Colombia, 1770-1835* (Chapel Hill: University
+    of North Carolina Press, 2004), 43,
+    http://site.ebrary.com/id/10116519.
+
+[^141]: Hacia 1772 el presbítero Diego de Peredo contabilizaba 2920
+    vecinos viviendo dentro de las murallas de la ciudad, 9160 "almas de
+    confesión" ("gente libre de todas clases") y 2137 esclavos. Diego de
+    Peredo, "Noticia Historial de la provincia de Cartagena de las
+    Indias, año 1772", ed. José Agustín Blanco Barros, *Anuario
+    Colombiano de Historia Social y de la Cultura*, núm. 6--7 (1972):
+    132.
+
+[^142]: "Causa criminal contra Isidro Equi", Santa Marta - Santa Fe,
+    1798-1800, AGNC, sección colonia, miscelánea, tomo 112, doc. 69.
+
+[^143]: "Causa seguida a Joaquín de Rivera, por el homicidio de José
+    María Pérez", Quibdó, 1789, AGNC, sección colonia, juicios
+    criminales, tomo 138, doc. 7.
+
+[^144]: Taylor, *Embriaguez, homicidio y rebelión en las poblaciones
+    coloniales mexicanas*, 153; Muñoz Cogaría, "La administración de
+    justicia", 2013, 42--43; Patiño Millán, *Criminalidad, ley penal*,
+    342.
+
+[^145]: Elizondo, *Práctica universal*, tomo V, parte I, cap. VI, 82.
+
+[^146]: Algunos expedientes relevantes del caso fueron AGNC, sección
+    colonia, juicios criminales, tomos 2, doc. 24; tomo 131, doc. 2;
+    tomo 134, doc. 19; tomo 136, doc. 7 y 18.

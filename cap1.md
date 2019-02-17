@@ -1399,16 +1399,16 @@ no pasa de ser un proyecto.
     la mera *auctoritas*, sin *imperium* ni *potestas*. Agamben, *Estado
     de excepción*, 137.
 
-[^57]: Esta idea se puede extender al sentido de jurisdicción ordenada y
-    delegada. En palabras del jurista Jordán de Asso: "La ordinaria es:
-    la que reside con toda extensión en el Magistrado por razón de su
-    oficio. La delegada es: la que se dá á alguno para el conocimiento
-    de cierta y determinada causa". *Instituciones del derecho civil de
-    Castilla* \[1771\], cuarta edición (Madrid: Imprenta de Andrés de
-    Sotos, 1786), Lib. III, tit. I, 260. Asso sintetiza lo dicho en Juan
-    de Hevia Bolaños, *Curia Philipica* \[1603\], nueva impresión,
-    (Madrid: por Ramón Ruiz en la imprenta de Ulloa, 1790), tomo I,
-    parte I, § IV, núm. 2.
+[^57]: Esta idea se puede extender al sentido de jurisdicción ordinaria
+    y delegada. En palabras del jurista Jordán de Asso: "La ordinaria
+    es: la que reside con toda extensión en el Magistrado por razón de
+    su oficio. La delegada es: la que se dá á alguno para el
+    conocimiento de cierta y determinada causa". *Instituciones del
+    derecho civil de Castilla* \[1771\], cuarta edición (Madrid:
+    Imprenta de Andrés de Sotos, 1786), Lib. III, tit. I, 260. Asso
+    sintetiza lo dicho en Juan de Hevia Bolaños, *Curia Philipica*
+    \[1603\], nueva impresión, (Madrid: por Ramón Ruiz en la imprenta de
+    Ulloa, 1790), tomo I, parte I, § IV, núm. 2.
 
 [^58]: Un aspecto fundamental en la teoría de Costa es la definición del
     *processo del potere*: \"Chiamiamo processo del potere la dinamica

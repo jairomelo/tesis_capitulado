@@ -28,6 +28,10 @@ Referencias
 Archivos
 --------
 
+### Archivo Central del Cauca (Popayán)
+
+Sección colonia, fondo judicial, civil y criminal.
+
 ### Archivo General de Indias (Sevilla)
 
 Audiencia de Caracas, 81
@@ -53,9 +57,11 @@ Sección colonia:
 > Caciques e indios, tomo 41.
 >
 > Juicios criminales, tomos 2, 6, 49, 54, 58, 64, 102, 103, 114, 130,
-> 148, 157, 176, 216.
+> 131, 134, 136, 138, 148, 157, 176, 216.
 >
-> Miscelánea, tomo 59.
+> Milicias y marina, tomo 35.
+>
+> Miscelánea, tomos 59, 112.
 >
 > Poblaciones varias, tomo 10.
 >
@@ -102,8 +108,8 @@ Moreno y Escandón, Francisco Antonio. *Estado del virreynato de Santa
 Fee, Nuevo Reyno de Granada y Relación de su Gobierno y Mando del Exmo.
 Señor Bailío Don Pedro Mesía de la Cerda*. BDH-BNE, Mss/3118, 1772.
 
-Fuentes primarias publicadas
-----------------------------
+Fuentes primarias impresas
+--------------------------
 
 Abreu y Bertodano, José Antonio de. *Colección de los tratados de paz,
 alianza, neutralidad, garantía, protección, tregua, mediación, accesión,
@@ -348,6 +354,9 @@ Biblioteca Nacional de España. *Biblioteca digital hispánica*. 2018.
 
 ---------. *Portal de datos bibliográficos*. 2014.
 [[http://datos.bne.es/inicio.html]{.underline}](http://datos.bne.es/inicio.html)
+
+Boletín Oficial del Estado de España. *Gazeta: colección histórica*. sf.
+[[https://www.boe.es/buscar/gazeta.php]{.underline}](https://www.boe.es/buscar/gazeta.php)
 
 DADUN. Depósito Académico Digital Universidad de Navarra. *Fondo
 Antiguo*. 2013.
