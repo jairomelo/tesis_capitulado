@@ -42,7 +42,7 @@ Audiencia de Panamá, 358
 
 Audiencia de Quito, 398
 
-Audiencia de Santa Fe, 193, 682, 940.
+Audiencia de Santa Fe, 193, 577B, 682, 940.
 
 Indiferente general, 415, 429, 430, 538 L.YY11.
 
@@ -68,6 +68,8 @@ Sección colonia:
 > Real Audiencia
 
 Cundinamarca, tomo 17
+
+Virreyes, tomo 1.
 
 Sección archivo anexo:
 
@@ -209,6 +211,11 @@ Segunda edición. 2 vol. Madrid: Imprenta de la viuda de Ibarra,
 Asso, Ignacio Jordán de. *Instituciones del derecho civil de Castilla*
 \[1771\]*.* Edición cuarta. Madrid: Imprenta de Andrés de Sotos, 1786.
 
+Berart y Gassol, Gabriel. Gabriel Berart y Gassol, *Speculum
+visitationis secularis omnium magistratum, iudicum, decurionum,
+aliorumque Reipublicæ Administratorum \[...\]*. Barcelona: tipografía de
+Sebastián Matheuat, 1627.
+
 Bodin, Jean. *Los seis libros de la república*. Traducción de Gaspar de
 Añastro Isunza. Turín: por los herederos de Bevilaqua, 1590.
 
@@ -269,8 +276,11 @@ Martínez de Salazar, Antonio. *Colección de memorias y noticias del
 gobierno general y político del Consejo.* Madrid: Oficina de Antonio
 Sanz, 1764.
 
-Mastrillo, Garsia. *Ad indultum generale comentarius catholici Phillippi
-III*. Palermo: Apud Franciscum Ciottum Venetum, 1616.
+Mastrillo, Garsia. *Tractatus de magistratibus eorum imperio et
+iurisdictione*. 2 vol. Palermo: por Franciscum Ciottum Venetum, 1616.
+
+---------. *Ad indultum generale comentarius catholici Phillippi III*.
+Palermo: por Franciscum Ciottum Venetum, 1616.
 
 Matheu y Sanz, Lorenzo. *Tractatus de re criminali*. Lyon: apud
 Anissonios, Posuel et Rigaud, 1686.
@@ -309,6 +319,11 @@ Pérez, Antonio Xavier. *Teatro de la legislación universal de España e
 Indias, por orden cronológico de sus cuerpos y decisiones no
 recopiladas*. 28 vols. Madrid: imprenta de Manuel González, imprenta de
 Manuel Espinosa, 1791-1798.
+
+Petra, Pietro Antonio de la. *Tractatus in quo de potestate principis,
+et inferiorum ab eo; de excessibus etiam eorum circa prædicium alienum
+materia perquam copiose discutitur.* Frankfurt: tipografía de Segismundo
+Latomi, 1610.
 
 Ribadeneyra, Pedro de. *Tratado de la religión y virtudes que deve tener
 el Príncipe Christiano, para governar y conservar sus estados*. Amberes:
@@ -360,6 +375,9 @@ Biblioteca Nacional de España. *Biblioteca digital hispánica*. 2018.
 
 Boletín Oficial del Estado de España. *Gazeta: colección histórica*. sf.
 [[https://www.boe.es/buscar/gazeta.php]{.underline}](https://www.boe.es/buscar/gazeta.php)
+
+Consortium of European Research Libraries. *CERL Thesaurus*. 2018.
+[[https://thesaurus.cerl.org/]{.underline}](https://thesaurus.cerl.org/)
 
 DADUN. Depósito Académico Digital Universidad de Navarra. *Fondo
 Antiguo*. 2013.

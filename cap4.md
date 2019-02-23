@@ -280,29 +280,115 @@ indiana para remitir delitos.[^38]
 Entre 1583 y 1614 la concesión de la facultad perdió tres elementos que
 se pueden destacar. Primero, se eliminó la mención de que esta facultad
 estaba dada para que "nos amen con perfecto amor, como nos los amamos, y
-tengan mayor obligación para nos servir", cláusula que ya había sido
-utilizada en perdones particulares, como el concedido a los Comuneros en
-1522.[^39] En segundo lugar, se sustrajo la fórmula de "ciencia cierta y
-poderío Real absoluto".
-\[https://www.persee.fr/doc/cehm\_0396-9045\_2002\_num\_25\_1\_1239\];
-esta fórmula, representaba por una parte la reafirmación de la *summa
-potestas* del príncipe, pero sobre todo, fue parte del "gobierno por la
-gracia", ya que paradójicamente representaba la posición trascendente al
-sistema normativo que ocupaba el monarca, y por lo tanto, la posibilidad
-de restituir y restaurar una decisión lesiva a los intereses
-nobiliarios, con quienes se estaba negociando en el siglo XV cuando
-adquiere dicho cariz.\[p. 247\]. *Desde la página 251 hay que revisar*.
-Y finalmente, tal vez lo más relevante, se deja de estipular que el
-virrey podría perdonar "qualesquier personas \[...\] de qualquier genero
-de delito, aunque sea crimen lega maiestatis".[^40] El Arzobispo
-Feliciano de la Vega, provisor y vicario general del arzobispado limeño
-en tiempos de Solórzano, citaba en su *Relectionum Canonicarum* la
-cédula de 1583 para señalar que los virreyes podían remitir cualquier
-delito, "inclusive aquellos de *laesa maiestatis*", reservándose el
-derecho de la parte afectada; no obstante, se servía de la cédula de
-1614 para resaltar que tales remisiones sólo aplicarían en caso de
-rebeliones, para aumentar el real servicio y la quietud de la
-república.[^41]
+tengan mayor obligación para nos servir", la cual ya había sido
+utilizada en el perdón general concedido a los Comuneros castellanos en
+1522,[^39] y estaba también contenida en la provisión que llevó consigo
+el citado de la Gasca para la pacificación del Perú en 1546.[^40] Por
+otra parte, se sustrajo la fórmula de "ciencia cierta y poderío Real
+absoluto", que se le añadía a la declaración según la cual se otorgaba
+dicha facultad por mera voluntad regia. Esta fórmula, representaba por
+una parte la reafirmación de la *summa potestas* del príncipe, pero
+sobre todo, fue parte del "gobierno por la gracia", ya que
+paradójicamente representaba la posición trascendente al sistema
+normativo que ocupaba el monarca, y por lo tanto, la posibilidad de
+restituir y restaurar una decisión lesiva a los intereses nobiliarios,
+con quienes se estaba negociando en el siglo XV cuando adquiere dicho
+cariz.[^41] Para el caso específico del perdón real, la mención del
+"poderío absoluto" era la manera de hacer expresa la posición de
+predominio del rey por sobre todo el sistema jurídico, específicamente
+porque de esta manera afirmaba "la preeminencia real sobre la ley".[^42]
+Finalmente, tal vez lo más relevante, se deja de estipular en las
+facultades que el virrey podría perdonar "qualesquier personas \[...\]
+de qualquier genero de delito, aunque sea crimen *lega maiestatis*
+\[sic\]".[^43] El Arzobispo Feliciano de la Vega, provisor y vicario
+general del arzobispado limeño en tiempos de Solórzano, citaba en su
+*Relectionum Canonicarum* la cédula de 1583 para señalar que los
+virreyes podían remitir cualquier delito, "inclusive aquellos de *laesa
+maiestatis*", reservándose el derecho de la parte afectada; no obstante,
+se servía de la cédula de 1614 para resaltar que tales remisiones sólo
+aplicarían en caso de rebeliones, para aumentar el real servicio y la
+quietud de la república.[^44] La amplitud de esta atribución estuvo
+enmarcada durante el siglo XVI por una mayor confianza en que la
+actuación del facultado fuese mímesis del príncipe y con esto se
+incrementara la autoridad viceregia en las provincias indianas, se
+acallara la rebeldía de los españoles apostados en ultramar, y se
+favoreciera la lealtad de los indios.
+
+Los elementos que se "pierden" en la facultad de perdonar de los
+virreyes son evidencia del importante proceso de configuración del cargo
+que se llevó a cabo durante los reinados de los Austrias mayores,
+quienes a su vez aprovecharon el importante proceso de consolidación del
+poder absoluto del monarca, y su modo de delegación en corregidores y
+lugartenientes, que tuvo lugar durante el dominio de la casa Trastámara.
+En el siglo XVII la potestad de perdonar de los virreyes todavía se
+debatía en el campo de la tratadística, Solórzano citaba como parte de
+esta cuestión a Pietro Antonio de la Petra, jurisprudente de Plasencia,
+quien afirmaba que la facultad para perdonar penas corporales era
+prerrogativa reservada del príncipe, y que incluso si el magistrado
+gozaba de mixto y mero imperio, la plena jurisdicción no le incluía la
+potestad para remitir delitos.[^45] También recurría al barcelonés
+Gabriel Berart y Gassol (lo cita como Berarto) quien, al contrario,
+afirmaba que el virrey, como representante del rey, podía conceder
+gracias y remitir los delitos, tanto criminales como civiles, siempre y
+cuando no hubiese parte ofendida;[^46] de la misma manera que lo había
+interpretado Mastrillo.[^47] Estos tratadistas se referían a los
+virreyes aragoneses, los virreyes italianos, y los magistrados romanos;
+Solórzano, para el caso de los virreyes indianos, recurrió solamente a
+las cédulas de 1614 y apeló únicamente a la autoridad del arzobispo de
+la Vega para sustentar que para las jurisdicciones americanas no había
+lugar a discusión:
+
+> Berarto, y otros[^48] tratan bien asimismo si pueden perdonar o
+> componer delitos. O conceder nuevas revisiones en las causas
+> criminales yá sentenciadas en vista, y revista. Ya está decidido en
+> Indias por las cédulas de ellas: porque aunque las llevan de ordinario
+> los Virreyes para poder perdonarlos, por otras secretas, y por el
+> capitulo 13 de sus Instrucciones, se les ordena, que no lo hagan sino
+> raras veces, y con gran ocasión.[^49]
+
+La publicación y distribución de la *Recopilación de leyes de Indias*,
+sumada a la tendencia a privilegiar el ordenamiento legislativo
+compilado sobre la normatividad dispersa o la opinión doctrinaria, sería
+fundamental para delimitar la autoridad virreinal. En el caso de la
+potestad para perdonar y decretar indultos la *recopilación* era
+argumento suficiente para remitir delitos. Manuel Bernardo Álvarez,
+fiscal de la Audiencia, respondía al virrey José Solís acerca de la
+posibilidad de perdonar a un quiteño acusado de contrabando:
+
+> El Fiscal de Su Magestad a esta vista dise que por la Ley de Yndias
+> V\[uestra\] E\[xcelencia\] tiene facultad para perdonar qualquier
+> delito como lo pudiera haser la Real Persona, con que \[de\]pende del
+> arbitrio de V\[uestra\] Excelencia el perdonar o yndultar quando lo
+> tenga por c\[on\]ven\[ient\]e. El fiscal no le tiene, es acusador
+> forsoso, y como tal deve pedir las penas que corresponden a los
+> delitos que se cometen y assi mismo las execuciones de las
+> sentencias...[^50]
+
+El fiscal de ningún modo mentía al afirmar que era "acusador forzoso",
+pero de cierta manera salvó en su vista cualquier posibilidad de ser
+responsable por el perdón. La facultad de perdonar, en toda su amplitud
+permitía remitir delitos "como lo pudiera hacer la Real persona", de tal
+manera que toda la carga del arbitrio sobre la decisión particular
+recaía en el virrey, que finalmente podía tanto negar como denegar la
+solicitud. Ahora bien, no hay evidencia de que los virreyes asignados al
+Nuevo Reino abusaran de esta gracia, al contrario, todo indica que
+fueron bastante reservados en su uso. De hecho, es posible que
+representara mayor prestigio para el virrey el no haber tenido que usar
+de dicha atribución, al fin y al cabo, si se hacía uso del perdón
+significaba que fue necesario recurrir a éste como medida extraordinaria
+para garantizar la tranquilidad de la provincia. Por lo menos así lo
+dejó entrever el virrey Amar y Borbón, alrededor de 1808, cuando
+preparaba el borrador de su relación de mando y en este dejó consignado
+que "Durante el curso de los primeros cinco años del exercicio de mi
+autoridad fue constante la paz y el orden \^reciproco\^ establecido en
+estos Reales Dominios que me fueron confiados; y por eso no \[fue\]
+perentorio el arvitrio de perdonar crimenes ó exceptuar de indulto,
+conforme á la Real voluntad que me faculta al virey en los casos de
+Guerra y alteración".[^51] Paradójicamente, este virrey tuvo que
+recurrir poco después a dicha facultad y conceder un indulto general a
+nombre del rey *in absentia* para con ello ganar de los vasallos
+santafereños "la mas acrisolada lealtad y ternura al propio nuevo
+soberano".[^52]
 
  El perdón como forma de acrecentar la autoridad
 ------------------------------------------------
@@ -348,8 +434,8 @@ república.[^41]
 [^9]: John Huxtable Elliott, *Imperial Spain 1469-1716* (London:
     Penguin, 2002), 175.
 
-[^10]: Véase por ejemplo Solórzano Pereira, *Política indiana*, Cap.
-    XII, núm. 3-6.
+[^10]: Véase por ejemplo Solórzano Pereira, *Política indiana*, Lib. V,
+    Cap. XII, núm. 3-6.
 
 [^11]: Castillo de Bovadilla, *Política para corregidores*, Lib. I, Cap.
     II, núm. 6.
@@ -362,7 +448,7 @@ república.[^41]
     justicia dejen proveer al oidor más antiguo, sin votar, ni mostrar
     inclinación, ni voluntad".
 
-[^14]: Solórzano Pereira, *Política indiana*, Cap. XII, núm. 34.
+[^14]: Solórzano Pereira, *Política indiana*, Lib. V, Cap. XII, núm. 34.
 
 [^15]: Los tres cargos estaban estipulados en la *Recopilación de las
     leyes de los reinos de las Indias* (Lib. III, tít. III, leyes 5, 4 y
@@ -382,12 +468,12 @@ república.[^41]
 
 [^17]: Eissa-Barroso, *The Spanish Monarchy*, 43.
 
-[^18]: Solórzano Pereira, *Política indiana*, Cap. XII, núm. 48. Este
-    número da cuenta del debate en torno a la tolerancia o eliminación
-    del uso de símbolos, fiestas y rituales regios por parte de los
-    virreyes indianos.
+[^18]: Solórzano Pereira, *Política indiana*, Lib. V, Cap. XII, núm. 48.
+    Este número da cuenta del debate en torno a la tolerancia o
+    eliminación del uso de símbolos, fiestas y rituales regios por parte
+    de los virreyes indianos.
 
-[^19]: Solórzano Pereira, Cap. XII, núm. 47.
+[^19]: Solórzano Pereira, Lib. V, Cap. XII, núm. 47.
 
 [^20]: Véase por ejemplo Feliciano Barrios Pintado, "Las precedencias y
     honores de los virreyes en el ordenamiento jurídico indiano: Una
@@ -458,7 +544,7 @@ república.[^41]
 [^31]: Corresponde a las leyes del libro III, tít. III, núm. 2, 7-11,
     21, 25-28, 33, 53, 57, 66 y 72.
 
-[^32]: Solórzano Pereyra, *Política indiana*, Lib. V, cap. XII, núm. 8.
+[^32]: Solórzano Pereira, *Política indiana*, Lib. V, cap. XII, núm. 8.
     Véase específicamente la *Recopilación de las leyes de los reinos de
     las Indias*, lib. III, tít. III, ley 2.
 
@@ -486,14 +572,59 @@ república.[^41]
     Barrientos Grandon, *El gobierno de las Indias*, Colección historia
     1 (Madrid: Fundación Rafael del Pino, Marcial Pons, 2004), 142.
 
-[^39]: [[https://books.google.com.mx/books?id=ujpA64uJ9-gC&pg=PA162&lpg=PA162&dq=nos+amen+con+perfecto+amor,+como+nos+los+amamos,+y+tengan+mayor+obligaci%C3%B3n+para+nos+servir&source=bl&ots=\_O\_sJvU39u&sig=ACfU3U0fXOZAxPAG6\_jyjdTO1m9L\_KaJ8Q&hl=en&sa=X&ved=2ahUKEwjhrdPs3c\_gAhVJRa0KHRCBArIQ6AEwBXoECAgQAQ\#v=onepage&q=nos%20amen%20con%20perfecto%20amor%2C%20como%20nos%20los%20amamos%2C%20y%20tengan%20mayor%20obligaci%C3%B3n%20para%20nos%20servir&f=false]{.underline}](https://books.google.com.mx/books?id=ujpA64uJ9-gC&pg=PA162&lpg=PA162&dq=nos+amen+con+perfecto+amor,+como+nos+los+amamos,+y+tengan+mayor+obligaci%C3%B3n+para+nos+servir&source=bl&ots=_O_sJvU39u&sig=ACfU3U0fXOZAxPAG6_jyjdTO1m9L_KaJ8Q&hl=en&sa=X&ved=2ahUKEwjhrdPs3c_gAhVJRa0KHRCBArIQ6AEwBXoECAgQAQ#v=onepage&q=nos%20amen%20con%20perfecto%20amor%2C%20como%20nos%20los%20amamos%2C%20y%20tengan%20mayor%20obligaci%C3%B3n%20para%20nos%20servir&f=false)
+[^39]: Enrique Berzal de la Rosa, *Los comuneros: de la comunidad al
+    mito*, Serie Historia (Madrid: Sílex, 2008), 161--62. La
+    transcripción completa de la cédula puede consultarse en Diego José
+    Dormer, *Anales de Aragón desde el año MDXXV hasta el de MDXL*,
+    (Zaragoza: por los herederos de Diego Dormer, 1697), 140-149
 
-[^40]: Las variantes se identificaron mediante el software de
+[^40]: Fernando Pizarro de Orellana, *Varones ilustres del Nuevo Mundo*
+    (Madrid: por Diego Díaz de la Carrera, 1639), 388.
+
+[^41]: José Manuel Nieto Soria, "La nobleza y el «poderío real absoluto»
+    en la Castilla del siglo XV", *Cahiers d'Études Hispaniques
+    Médiévales* 25, núm. 1 (2002): 247,
+    https://doi.org/10.3406/cehm.2002.1239.
+
+[^42]: José Manuel Nieto Soria, "Los perdones reales en la confrontación
+    política de la Castilla Trastámara", *En la España medieval*, núm.
+    25 (2002): 216--17.
+
+[^43]: Las variantes se identificaron mediante el software de
     alineamiento de secuencias *CollateX*. Ronald Haentjens Dekker y
     Gregor Middel, *CollateX*, versión 1.7.1, Java/Python client, HTML,
     Java, Python (Ámsterdam: The Interedition Development Group, 2015),
     [[https://collatex.net]{.underline}](https://collatex.net).
 
-[^41]: Feliciano de la Vega, *Relectionum Canonicarum in secundum
+[^44]: Feliciano de la Vega, *Relectionum Canonicarum in secundum
     Decreatalium librum* (Lima: Jerónimo de Contreras, 1633), cap. IV, §
     *de adulteriis*, núm. 78-79.
+
+[^45]: Pietro Antonio de la Petra, *Tractatus in quo de potestate
+    principis*, (Frankfurt: tipografía de Segismundo Latomi, 1610), cap.
+    XXI, núm. 21.
+
+[^46]: Gabriel Berart y Gassol, *Speculum visitationis secularis ómnium
+    magistratum,* (Barcelona: tipografía de Sebastián Matheuat, 1627),
+    Cap. IX, núm. 33.
+
+[^47]: Garsia Mastrillo, *Tractatus de magistratibus eorum imperio et
+    iurisdictione*, tomo II (Palermo: por Franciscum Ciottum Venetum,
+    1616), Lib. V, cap. VI, núm. 147.
+
+[^48]: Hay una referencia a Fortunato Scacchi, *de juidiciis*, lib. I,
+    pág. 241; que no me fue posible consultar.
+
+[^49]: Solórzano Pereira, *Política indiana*, Lib. V, Cap. XIII, núm.
+    35.
+
+[^50]: "Francisco Cordero Vidal, vecino de Quito, su solicitud de
+    indulto", AGNC, sección colonia, aduanas, tomo 11, doc. 9, ff.
+    290r-v.
+
+[^51]: "Borrador de relación de estado del Virreinato de Amar y Borbón",
+    Santa Fe, *ca*. 1808, AGNC, sección colonia, virreyes, tomo 1, ff.
+    380v-381r.
+
+[^52]: "Indulto virrey Amar y Borbón", AGNC, sección colonia, juicios
+    criminales, tomo 2, doc. 14, f. 760r.
