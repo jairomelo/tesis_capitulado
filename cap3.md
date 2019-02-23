@@ -884,6 +884,9 @@ Patiño Millán, p. 84: "El Gobernador de Antioquia Víctor Salcedo remitió
 las peticiones de indulto a la Audiencia para que este tribunal
 decidiera si estos reos quedaban cobijados con el beneficio"
 
+1807 -\> "Que se observe la práctica de la corte de Madrid relativa a
+los indultos."
+
 El impacto de los indultos generales
 ------------------------------------
 

@@ -1067,7 +1067,7 @@ y tropas, como indicaba la pena regular.[^149]
     Añastro Isunza (Turín: por los herederos de Bevilaqua, 1590), lib.
     I, cap. VIII, 73. Noemí Goldman, "Soberanía en Iberoamérica.
     Dimensiones y dilemas de un concepto político fundamental,
-    1780-1870"., en *Soberanía. Diccionario político y social del mundo
+    1780-1870.", en *Soberanía. Diccionario político y social del mundo
     iberoamericano. Conceptos políticos fundamentales, 1770-1870*, ed.
     Javier Fernández Sebastián y Noemí Goldman, vol. 10, Iberconceptos 2
     (Madrid: Universidad del País Vasco, 2014), 17--21.
@@ -1081,8 +1081,9 @@ y tropas, como indicaba la pena regular.[^149]
 
 [^5]: Bodin, *Los seis libros*, lib. I, cap. VIII, 73.
 
-[^6]: Costa, "La soberanía en la cultura político-jurídica medieval",
-    54--55.
+[^6]: Pietro Costa, "La soberanía en la cultura político-jurídica
+    medieval: imágenes y teorías", *Res Publica* 17 (2007): 54--55,
+    http://revistas.um.es/respublica/article/view/60591.
 
 [^7]: Costa, 54--58.
 
@@ -1097,8 +1098,9 @@ y tropas, como indicaba la pena regular.[^149]
     otra guisa lo fiziere, dar le ya dios todo el contrario desto".
     *Partidas*, P. II, tít. 10, ley II.
 
-[^11]: *Partidas*, P. VII, tít. 32, ley I. Rodríguez Flores, *El perdón
-    real*, 25.
+[^11]: *Partidas*, P. VII, tít. 32, ley I. María Inmaculada Rodríguez
+    Flores, *El perdón real en Castilla (siglos XIII-XVIII)* (Salamanca:
+    Universidad de Salamanca, 1971), 25.
 
 [^12]: Rodríguez Flores, 15 y 25.
 
@@ -1106,7 +1108,9 @@ y tropas, como indicaba la pena regular.[^149]
 
 [^14]: Rodríguez Flores, *El perdón real*, 24.
 
-[^15]: Sandoval Parra, *Manera de galardón*, 37--38.
+[^15]: Victoria Sandoval Parra, *Manera de galardón: merced pecuniaria y
+    extranjería en el siglo XVII*, Sección de obras de historia (Madrid:
+    Fondo de Cultura Económica : Red Columnaria, 2014), 37--38.
 
 [^16]: "se observa que a las gracias se accede en mayor medida en las
     últimas voluntades que en los contratos" ("gratia magis videtur
@@ -1197,8 +1201,9 @@ y tropas, como indicaba la pena regular.[^149]
     Agustín Neira, 2a ed. 1a reimp. (Buenos Aires: Fondo de Cultura
     Económica, 2010), 640.
 
-[^38]: Argouse, "'Ausente como si fuésedes presente'. Perdón, memoria,
-    escribanos, Chile S. XVI-XVIII", 65.
+[^38]: Aude Argouse, "'Ausente como si fuésedes presente'. Perdón,
+    memoria, escribanos, Chile S. XVI-XVIII", *Mouseion*, núm. 18
+    (2014): 65, https://doi.org/10.18316/1676.
 
 [^39]: Argouse, 68.
 
@@ -1212,8 +1217,11 @@ y tropas, como indicaba la pena regular.[^149]
 [^42]: Joseph Blasco de Orozco, "Diario de lo acontezido en esta Plaza
     de Panamá", Panamá, 5 de octubre de 1766. AGI, Panamá, 358.
 
-[^43]: Véase por ejemplo el caso del tumult novohispano de 1624.
-    Ballone, *The 1624 Tumult of Mexico*, 248.
+[^43]: Véase por ejemplo el caso del tumult novohispano de 1624. Angela
+    Ballone, *The 1624 Tumult of Mexico in perspective (c. 1620-1650).
+    Authority and conflict resolution in the Iberian Atlantic*, European
+    expansion and indigenous response, volume 24 (Leiden ; Boston:
+    Brill, 2018), 248.
 
 [^44]: Ricœur, *La memoria, la historia, el olvido*, 640--41. Esta idea
     es desarrollada ampliamente por Ricœur en el apartado "el olvido
@@ -1259,10 +1267,14 @@ y tropas, como indicaba la pena regular.[^149]
 [^55]: Roberto J. González Zalacaín, *El perdón real en Castilla a fines
     de la Edad Media: el ejemplo de la Cornisa Cantábrica*, Inéditos de
     historia 6 (Bilbao: Universidad del País Vasco. Servicio Editorial,
-    2013), 159; Mantecón Movellán, "Los criminales ante la concesión",
-    68.
+    2013), 159; Tomás Antonio Mantecón Movellán, "Los criminales ante la
+    concesión del indulto en la España del Siglo XVIII", *Prohistoria*
+    5, núm. 5 (2001): 68.
 
-[^56]: Herzog, *La administración como un fenómeno social*, 248--49.
+[^56]: Tamar Herzog, *La administración como un fenómeno social: la
+    justicia penal de la ciudad de Quito (1650 - 1750)*, Historia de la
+    sociedad política (Madrid: Centro de Estudios Constitucionales,
+    1995), 248--49.
 
 [^57]: Rodríguez Flores, *El perdón real*, 58; Sandoval Parra, *Manera
     de galardón*, 26.
@@ -1288,7 +1300,10 @@ y tropas, como indicaba la pena regular.[^149]
 
 [^63]: Rodríguez Flores, *El perdón real*, 66--69.
 
-[^64]: Chaulet, *Crimes, rixes et bruits d'épées*, 375--76.
+[^64]: Rudy Chaulet, *Crimes, rixes et bruits d'épées: homicides
+    pardonnés en Castille au siècle d'or*, Espagne médiévale et moderne
+    11 (Montpellier: Presses Universitaires de la Méditerranée, 2007),
+    375--76.
 
 [^65]: Matheu i Sanz, *Tractatus de re criminali*, controversia XXI,
     núm. 47.
@@ -1349,7 +1364,9 @@ y tropas, como indicaba la pena regular.[^149]
     (México: Potrerillos, 1996), 93--98.
 
 [^80]: Un análisis en extenso de esta forma de perdón fue realizada por
-    Tomás y Valiente, "El perdón de la parte ofendida"; Rodríguez
+    Francisco Tomás y Valiente, "El perdón de la parte ofendida en el
+    Derecho penal castellano (siglos XVI, XVII y XVIII)", *Anuario de
+    historia del derecho español*, núm. 31 (1961): 55--114; Rodríguez
     Flores, *El perdón real*, 118--40.
 
 [^81]: Rodríguez Flores, *El perdón real*, 131.
@@ -1529,11 +1546,13 @@ y tropas, como indicaba la pena regular.[^149]
 [^128]: Vicente Vizcaíno, *Código y práctica criminal*, tomo III, núm.
     430, 373-374.
 
-[^129]: Mantecón Movellán, "El peso de la infrajudicialidad"; Benoît
-    Garnot, "Justice, infrajustice, parajustice et extra justice dans la
-    France d'Ancien Régime", *Crime, Histoire & Sociétés / Crime,
-    History & Societies* 4, núm. 1 (el 1 de enero de 2000): 103--20,
-    https://doi.org/10.4000/chs.855.
+[^129]: Tomás Antonio Mantecón Movellán, "El peso de la
+    infrajudicialidad en el control del crimen durante la Edad Moderna",
+    *Estudis: Revista de historia moderna*, núm. 28 (2002): 43--76;
+    Benoît Garnot, "Justice, infrajustice, parajustice et extra justice
+    dans la France d'Ancien Régime", *Crime, Histoire & Sociétés /
+    Crime, History & Societies* 4, núm. 1 (el 1 de enero de 2000):
+    103--20, https://doi.org/10.4000/chs.855.
 
 [^130]: Alejandro Agüero Nazar, "El testimonio procesal y la
     administración de justicia penal en la periferia de la Monarquía
@@ -1545,7 +1564,9 @@ y tropas, como indicaba la pena regular.[^149]
     Sumptibus Horatii Boissat et Georgii Remeus, 1663), parte II, q. I,
     núm. 9.
 
-[^132]: Barrientos Grandon, *El gobierno de las Indias*, 249.
+[^132]: Javier Barrientos Grandon, *El gobierno de las Indias*,
+    Colección historia 1 (Madrid: Fundación Rafael del Pino, Marcial
+    Pons, 2004), 249.
 
 [^133]: Angel Muñoz García, "Introducción", en *Privilegios de los
     indios: Thesaurus indicus, vol. II, Tít. XII, c I-X*, de Diego de

@@ -183,7 +183,7 @@ autoridad y la potestad, la primera entendida como la estima de los
 súbditos ganada por la virtud, la segunda como la jurisdicción, dominio
 y facultad para mandar;[^21] por lo tanto, es en la lógica compleja que
 justificaba divina y terrenalmente el perdón que se encuentra este
-enlace entre la autoridad y la clemencia que se manifestaba en las
+enlace entre la *auctoritas* y la clemencia que se manifestaba en las
 peticiones y concesiones de indulto durante el siglo XVIII del orbe
 indiano y del mismo modo en el ámbito del virreinato del Nuevo Reino de
 Granada.

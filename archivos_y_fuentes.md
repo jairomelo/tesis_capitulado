@@ -153,7 +153,7 @@ divesriones públicas, y sobre su origen en España". En *Colección de
 varias obras en prosa y verso del excelentísimo señor don Gaspar de
 Jovellanos*, IV:9-95. Madrid: imprenta de León Amarita, 1831.
 
-Levallier, Roberto, ed. *Gobernantes del Perú. Cartas y papeles*. XIV
+Levillier, Roberto, ed. *Gobernantes del Perú. Cartas y papeles*. XIV
 vols. Madrid: sucesores de Rivadeneira, 1921.
 
 ### Legislación
@@ -332,6 +332,9 @@ Solórzano Pereyra, Juan. *Política indiana* \[1647\]. Edición corregida
 y anotada por Francisco Ramiro de Valenzuela. Madrid: imprenta Real de
 la Gazeta, 1776.
 
+Vega, Feliciano de la. *Relectionum Canonicarum in secundum Decreatalium
+librum*. Lima: Jerónimo de Contreras, 1633.
+
 Villarroel, Gaspar de. *Govierno eclesiástico-pacífico y unión de los
 dos cuchillos pontificio y regio* \[1656\]. Reimpresión. Madrid: oficina
 de Antonio Marín, 1738.
@@ -381,6 +384,18 @@ Romae. Pamplona: Ad Universitatis Studiorum Navarrensis, 2001.
 Universidad Rey Juan Carlos, *Biblioteca digital. Colección fondo
 antiguo*. 2018.
 [[https://eciencia.urjc.es/]{.underline}](https://eciencia.urjc.es/)
+
+Software
+--------
+
+Brezina, Vaclav, Tony McEnery, y Matt Timperley. *\#LancsBox* (versión
+4.0). Windows, Java. Lancaster: Lancaster University, 2018.
+[[http://corpora.lancs.ac.uk/lancsbox/]{.underline}](http://corpora.lancs.ac.uk/lancsbox/).
+
+Dekker, Ronald Haentjens, y Gregor Middel. *CollateX* (versión 1.7.1).
+Java/Python client, HTML, Java, Python. Ámsterdam: The Interedition
+Development Group, 2015.
+[[https://collatex.net]{.underline}](https://collatex.net).
 
 Referencias bibliográficas
 --------------------------
