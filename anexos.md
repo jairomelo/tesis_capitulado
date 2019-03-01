@@ -1,7 +1,7 @@
 ANEXOS
 ======
 
-Anexo . Para que el Virrey de Nueva España y Gobernadores de aquel
+Anexo 1. Para que el Virrey de Nueva España y Gobernadores de aquel
 Reino, hagan publicar por bando lo resuelto por V. M. sobre que no se
 admitan a indulto las causas de ilícito comercio
 
@@ -50,7 +50,7 @@ Fecha: 10 de diciembre de 1725
 >
 > Igual para el Perú, en 10 de octubre.
 
-Anexo . Perdón general del virrey Sebastián de Eslava a los soldados de
+Anexo 2. Perdón general del virrey Sebastián de Eslava a los soldados de
 Cartagena
 
 Fuente: AGI, Santa Fe, 940
@@ -157,7 +157,7 @@ Fecha: 7 de abril de 1745
 >
 > Antemí Don Matheo Carraquilla Escrivano y Notario maior.
 
-Anexo . Cedula de S. M. concediendo indulto general a todo género de
+Anexo 3. Cedula de S. M. concediendo indulto general a todo género de
 personas, cuyos delitos no merezcan la pena ordinaria de muerte
 
 Fuente: Depósito Académico Digital Universidad de Navarra, Fondo
@@ -232,7 +232,7 @@ Fecha: 6 de diciembre de 1746
 > en Buen-Retiro á seis de Diciembre de mil setecientos y quarenta y
 > seis. YO EL REY. Don Cenón de Somodevilla.
 
-Anexo . Cédula de S. M. concediendo indulto general a todos los
+Anexo 4. Cédula de S. M. concediendo indulto general a todos los
 desertores de las tropas de tierra, armadas navales, y milicias
 regladas, que se presentaren dentro del término de tres meses siguientes
 a su publicación
@@ -305,7 +305,7 @@ Fecha: 9 de diciembre de 1746
 > Diciembre de mil setecientos quarenta y seis. YO EL REY. *Don Cenón de
 > Somodevilla* . = Es copia de la Original = *Ensenada*.
 
-Anexo . Real Cédula facultando al Virrey para perdonar delitos
+Anexo 5. Real Cédula facultando al Virrey para perdonar delitos
 
 Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
 Tomo 9, ff. 736r-738r.
@@ -368,7 +368,7 @@ Fecha: 20 de agosto de 1739
 >
 > Por mandado del Rey nuestro señor. Don Miguel de Villanueva
 
-Anexo . Indulto general de Carlos III con motivo de su exaltación al
+Anexo 6. Indulto general de Carlos III con motivo de su exaltación al
 trono (1760) y recepción en Santa Fe
 
 Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
@@ -533,7 +533,7 @@ Fecha: 28 de enero de 1760
 > al s\[eño\]r Fiscal y assi lo dixeron y rubricaron por ante mi de que
 > doy fee = tiene tres rubricas = antemi joseph de Rosas.
 
-Anexo . Auto de obedecimiento de la cédula de indulto de Carlos III en
+Anexo 7. Auto de obedecimiento de la cédula de indulto de Carlos III en
 la ciudad de Antioquia y villa de Medellín
 
 Fuente: Archivo Histórico de Medellín, Fondo Concejo de Medellín, SC
@@ -600,7 +600,7 @@ Fecha: 3 de noviembre de 1761
 >
 > Solorzano.
 
-Anexo . Representación de la tropa levantada en Panamá en 1766
+Anexo 8. Representación de la tropa levantada en Panamá en 1766
 
 Fuente: AGI, Panamá, 358
 
@@ -728,7 +728,7 @@ Fecha: 25 de septiembre de 1766
 >
 > Joachim Figueroa
 
-Anexo . Orden de indulto para quienes estuvieran presos por varios
+Anexo 9. Orden de indulto para quienes estuvieran presos por varios
 delitos, con exclusión de los reos por crímenes de lesa majestad
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 16, ff. 146-150.
@@ -820,7 +820,7 @@ Fecha: 23 de febrero de 1779
 > habilitado por S. M. en ausencia del Señor Secretario. Don Antonio de
 > Prado.
 
-Anexo . Real Cédula de indulto y perdón general a todos los reos,
+Anexo 10. Real Cédula de indulto y perdón general a todos los reos,
 concedida por el nacimiento del príncipe don Carlos Domingo Eusebio
 
 Fuente: Archivo Histórico de Medellín, Fondo Concejo de Medellín, SC
@@ -880,9 +880,9 @@ Fecha: 8 de junio de 1780
 > Por mandado del Rey nuestro señor Miguel de San Martin Cueto. Hay tres
 > rúbricas.
 
-Anexo . Edicto para manifestar al público el indulto general, concedido
-por nuestro Católico Monarca el Señor Don Carlos III a todos los
-comprehendidos en las revoluciones acaecidas en el año pasado de mil
+Anexo 11. Edicto para manifestar al público el indulto general,
+concedido por nuestro Católico Monarca el Señor Don Carlos III a todos
+los comprehendidos en las revoluciones acaecidas en el año pasado de mil
 setecientos ochenta y uno
 
 Fuente: Biblioteca Nacional de Colombia, Fondo Quijano, vol. 254, pza.
@@ -1357,7 +1357,7 @@ Fecha: 6 de agosto de 1782
 >
 > Antonio Arzobispo Virrey de Santa Fé
 
-Anexo . Real Decreto sobre indulto de militares procesados por delitos
+Anexo 12. Real Decreto sobre indulto de militares procesados por delitos
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 53, ff. 188-189.
 Archivo Histórico de Medellín, Fondo Concejo de Medellín, SC Colonia, SR
@@ -1439,7 +1439,7 @@ Fecha: 10 de octubre de 1783
 > guarde á V. \_\_\_ muchos años. Madrid 10 de Octubre de 1783. = Don
 > Matéo de Villamayor.
 
-Anexo . Indulto general de 1784
+Anexo 13. Indulto general de 1784
 
 Fuente: AGNC, S Colonia, F Real Audiencia, SC Cundinamarca, leg. 17, ff.
 744r-745v.
@@ -1522,7 +1522,7 @@ Fecha: 16 de enero de 1784
 >
 > Fuy presente, Calvo.
 
-Anexo . Indulto de desertores de 1789
+Anexo 14. Indulto de desertores de 1789
 
 Fuente: Félix Colón de Larreátegui, *Juzgados militares de España y sus
 Indias,* tomo IV (Madrid: por la viuda de Ibarra, 1789), 193-194, n. 1.
@@ -1591,7 +1591,7 @@ Fecha: 16 de enero de 1789
 >
 > Don Gerónimo Caballero
 
-Anexo . Real Decreto de Carlos IV sobre indulto a los desertores del
+Anexo 15. Real Decreto de Carlos IV sobre indulto a los desertores del
 ejército con motivo del matrimonio de su hijo Fernando
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 50, f. 1091.
@@ -1650,7 +1650,7 @@ Fecha: 5 de octubre de 1802
 >
 > Sr. Virey de Santa Fé
 
-Anexo . Indulto de la pena de privación de empleo a oficiales que se
+Anexo 16. Indulto de la pena de privación de empleo a oficiales que se
 hubieran casado sin el Real permiso
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 11, ff. 984-985.
@@ -1693,7 +1693,7 @@ Fecha: 5 de octubre de 1802
 >
 > \[José Antonio\] Caballero
 
-Anexo . Real Cédula sobre indulto general concedido con motivo del
+Anexo 17. Real Cédula sobre indulto general concedido con motivo del
 matrimonio del Príncipe
 
 Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
@@ -1775,7 +1775,7 @@ Fecha: 25 de julio de 1803
 >
 > Yo El Rey
 
-Anexo . Indulto de desertores: decreto del gobierno peninsular al
+Anexo 18. Indulto de desertores: decreto del gobierno peninsular al
 respecto
 
 Fuente: AGNC, Colonia, fondo milicias y marina, tomo 100, f. 13.
@@ -1829,7 +1829,7 @@ Fecha: 29 de octubre de 1804
 >
 > Sr. Virrey del Nuevo Reyno de Granada
 
-Anexo . Real Decreto de José Napoleón por el que se otorga el indulto
+Anexo 19. Real Decreto de José Napoleón por el que se otorga el indulto
 general a los oficiales y soldados desertores que prestasen el juramento
 prescrito en la Constitución.
 
@@ -1919,7 +1919,7 @@ Fecha: 23 de julio de 1808
 >
 > Al Ministro de Negocios extranjeros
 
-Anexo . Indulto promulgado por el virrey Antonio Amar y Borbón
+Anexo 20. Indulto promulgado por el virrey Antonio Amar y Borbón
 
 Fuente: AGNC, Sección Colonia, Juicios Criminales, Leg. 2, doc. 14, ff.
 758r-761v

@@ -1,5 +1,5 @@
-Capítulo IV. Indulto virreinal y perdón local: las escalas de ejecución de la clemencia en la jurisdicción virreinal neogranadina
-=================================================================================================================================
+Capítulo IV. La facultad clemente del virrey
+============================================
 
 El indulto general era la máxima demostración de clemencia del rey en
 sus vastos dominios. Como se señaló en el capítulo anterior, la
@@ -390,8 +390,343 @@ nombre del rey *in absentia* para con ello ganar de los vasallos
 santafereños "la mas acrisolada lealtad y ternura al propio nuevo
 soberano".[^52]
 
- El perdón como forma de acrecentar la autoridad
-------------------------------------------------
+ El indulto general a nombre del rey
+------------------------------------
+
+Aunque el perdón general era una suprema regalía la amplia facultad que
+se les había dado a los virreyes para remitir delitos en casos
+especiales, sin requerir consulta o ratificación del rey a través del
+Consejo de Indias, les permitía utilizar el nombre del rey para expedir
+decretos de indulto general. El término "perdón general" era comúnmente
+utilizado cuando se quería garantizar a los partícipes de un
+levantamiento que no serían castigados ni entonces, ni en el futuro; sin
+embargo, hubo dos ocasiones en las cuales los virreyes del Nuevo Reino
+utilizaron el "indulto general" de una manera mucho más amplia que
+cualquier otro perdón particular. Hablamos entonces de ofertas de
+remisión que apelan a la alegría o la felicidad pública, incluye a reos
+presentes y ausentes, estipula un plazo para acogerse a la gracia, y
+especifica los delitos incluidos y exceptuados en ella. Es decir, eran
+formas que se asimilaban al perdón general que podía dar el monarca,
+aunque limitados a la jurisdicción de dominio del virrey.
+
+Es de esperar que este tipo de indultos no fueran comunes. De hecho,
+solamente fueron expedidos dos decretos de este tipo mientras duró el
+cargo de virrey del Nuevo Reino, el primero fue expedido por el
+arzobispo virrey Caballero y Góngora el 7 de agosto de 1782, meses
+después de culminadas las acciones del levantamiento de los comunes del
+Socorro; y el segundo fue el mencionado indulto del virrey Amar y
+Borbón, expedido el 14 de octubre de 1808, en celebración del cumpleaños
+del rey cautivo. El indulto de 1782 es ampliamente conocido por la
+historiografía colombianista ya que hace parte de uno de los eventos
+reconocidos como el antecedente inmediato de la Independencia,
+reivindicado así desde las primeras narrativas históricas nacionales. El
+indulto general de 1808 ha recibido menos atención por parte de la
+historiografía colombianista posiblemente porque su "impacto político"
+fue bastante limitado. Ninguna de estas gracias fue un acto que
+exclusivamente se hubiese dado en el Nuevo Reino de Granada, de hecho,
+es sencillo encontrar paralelos con el indulto general que proclamó en
+1781 el virrey del Perú Agustín de Jáuregui a favor de los rebeldes,
+incluidos los cabecillas, que continuaron con la rebelión de Túpac
+Amaru; así como el indulto que el virrey novohispano José de Iturrigaray
+declaró en septiembre de 1808 a favor de todos los delincuentes del
+virreinato.[^53] También para el virreinato de Río de la Plata se
+concedieron indultos por parte del virrey Juan José Vértiz, en enero de
+1782, a los insurrectos peruanos que se habían replegado en la provincia
+de Charcas, y en enero de 1809 el virrey Santiago de Liniers indultó a
+quienes se levantaron contra el soberano en su jurisdicción.[^54]
+
+El paralelismo no implicó que los indultos tuviesen la misma amplitud,
+recepción o aplicación en todos los distritos virreinales. Es reconocido
+el hecho de que las ofertas de perdón a las cabezas rebeldes peruanas
+terminaron en la retractación de las autoridades, quienes encontraban
+justificaciones para ameritar el juicio y el castigo de los
+protagonistas de las revueltas, hecho que contribuyó a alimentar la
+desconfianza de los levantados frente a las ofertas de benignidad de las
+autoridades tanto peruanas como rioplatenses.[^55] De la misma manera,
+las sedes virreinales de Nueva España en 1808 y Buenos Aires en 1809,
+lidiaban con la confrontación directa a los titulares del solio del
+virrey; en contraste, al momento de expedirse el indulto en Santa Fe, la
+situación era tensa pero no había indicios de un ataque directo a la
+figura del vicario regio.
+
+### El indulto general de 1782
+
+Existe poco riesgo en afirmar que la "rebelión de los comuneros"
+constituye uno de los levantamientos más conocidos de la historia del
+Nuevo Reino de Granada.[^56] La sublevación protagonizada por la gente
+común, o comunes, del Socorro (de donde deriva su nombre), ha sido
+narrada como la expresión de la resistencia criolla ante el despotismo
+realista, se la consideró por muchos años como una oportunidad fallida
+de independencia y en algunos casos como "una revolución social
+abortada". [^57] Tras más de medio siglo de revisionismo
+historiográfico, la historia de Colombia ha encontrado consenso en
+considerar la rebelión de los comunes del Socorro como una "revuelta
+tradicional" que rechazó las medidas tomadas por el regente Gutiérrez de
+Piñeres, quien "por ignorancia de los hechos" habría evitado la
+negociación acostumbrada con los vasallos. Como resume Jorge Orlando
+Melo, la rebelión "buscaba corregir los errores y excesos y en ningún
+momento puso en duda la autoridad real."[^58] Sin embargo, a pesar de la
+relevancia de las sublevaciones locales en el gobierno del virreinato,
+no es prudente menospreciar las implicaciones de la rebelión de los
+comuneros en el orden político de las provincias del Nuevo Reino, ni
+descartar que, aunque no hubiese un interés por atacar la autoridad
+real, la relación entre las autoridades españolas y los vasallos
+americanos se modificaron significativamente en los años posteriores al
+levantamiento. Como lo explicó Anthony McFarlane hace dos lustros, si
+bien la rebelión comunera no fue un movimiento independentista, sí
+provocó una crisis política al demostrar a la corona que ya no era
+posible depender de la obediencia incondicional de sus súbditos en el
+Nuevo Reino de Granada.[^59]
+
+En sus inicios, la rebelión era similar a cualquier otro levantamiento
+local con pequeños disturbios en villas como Simacota, Mogotes y Charalá
+que rechazaban la imposición del estanco del tabaco y del aguardiente,
+además del impuesto de la armada de Barlovento al hilo de algodón,
+medidas introducidas por el visitador Gutiérrez de Piñeres desde
+mediados de 1780.[^60] Para marzo de 1781, cuando se impusieron nuevos
+cargas fiscales, se orquestó el levantamiento del pueblo del Socorro
+para el domingo 16, aprovechando la aglomeración de personas por ser día
+de mercado. Rápidamente la revuelta tuvo eco en otras poblaciones
+afectadas por las restricciones al cultivo del tabaco, específicamente
+Simacota, Pinchote y San Gil. Para mediados de abril el Socorro ya había
+presenciado tres importantes revueltas y de ellas emergió un liderazgo
+local que se encargó de concertar el movimiento regional en contra del
+visitador general y las innovaciones fiscales.[^61] Gracias a este
+encabezamiento y la organización de un "Supremo consejo de guerra", la
+rebelión alcanzó un nivel de coordinación poco frecuente en otras
+sublevaciones de la época, de tal manera que en pocas semanas lograron
+ocupar posiciones y sumar pueblos a su causa. Entre tanto, en la capital
+se desarrollaba una estrategia en la cual los oidores y el arzobispo
+Antonio Caballero y Góngora lograron convencer al regente Piñeres, quien
+fue el blanco del odio popular,[^62] para que huyera de Santa Fe y se
+refugiara en la seguridad de Cartagena, ciudad donde se encontraba el
+virrey Manuel Antonio Flórez organizando los preparativos para un
+posible ataque de las tropas inglesas.[^63] El movimiento se fortaleció
+significativamente con la unión de los pueblos de la provincia de Tunja,
+lo cual le brindó un carácter de levantamiento general al poder incluir
+indígenas dentro de sus capitanes y soldados, de los cuales el más
+destacado fue Ambrosio Pisco, quien sería conocido como el "príncipe de
+Bogotá"; con lo cual lograban imitar el carácter indígena de la temida
+rebelión de Túpac Amaru II.[^64]
+
+Francisco Berbeo, capitán de los sublevados, logró agrupar una fuerza
+cercana a los 20000 hombres, "mal apertrechados pero entusiastas", con
+los cuales logró establecerse a la distancia de un día de camino hasta
+Santa Fe. El 31 de mayo, Berbeo se reúne con el arzobispo de Santa Fe,
+Antonio Caballero y Góngora, comisionado por la Audiencia para llevar a
+cabo la pacificación de la sublevación. Tras esta reunión se separan los
+sublevados provenientes de Tunja y Sogamoso, quienes se instalan en la
+población de Cajicá con el propósito de frenar el avance de los
+socorranos y evitar su llegada a la capital. Entre tanto, Berbeo tenía
+la presión de conseguir un acuerdo con el arzobispo antes de la llegada
+de las tropas desplegadas por el virrey desde Cartagena.[^65] Entre más
+se dilataban las negociaciones se incrementaba la impaciencia de los
+comuneros, quienes en un momento llegaron a tumultuarse y a gritar
+"guerra, guerra a Santa Fe"; con lo cual generaron un nivel de tensión
+que obligó al arzobispo a aceptar los términos de las "capitulaciones"
+según lo exigían los rebeldes. Finalmente, la Audiencia aprueba los
+términos, justificándole al rey que actuaban así porque de otra manera
+se hubiese dado paso al saqueo de la capital y "la total destrucción de
+la autoridad real".[^66]
+
+Después de la firma de las capitulaciones vino un proceso en el cual las
+autoridades santafereñas buscaron estrategias para desaprobar las
+capitulaciones; de hecho, al momento de desarmarse los comuneros y
+restablecerse el orden en el reino el tratado fue formalmente anulado
+bajo el argumento de que éste había sido impuesto por la fuerza.[^67] La
+excusa de la cual se sirvieron para anular las "capitulaciones" fue el
+amotinamiento de los indios de Nemocón, reprimido con rapidez y rigor,
+dejando varios amotinados muertos y otros capturados, quienes fueron
+trasladados para ser juzgados a Santa Fe. Entre estos últimos se
+encontraba Ambrosio Pisco, acusado de traición y crimen de lesa
+majestad.[^68] Por otra parte, en el valle del río Magdalena el grupo al
+mando de José Antonio Galán, charaleño apostado en el lugar para evitar
+la comunicación entre Santa Fe y Cartagena por esta vía, desobedeció la
+orden de replegarse a sus pueblos y se hizo rebelde contra Berbeo y los
+demás capitanes comuneros. Finalmente, apostado en el poblado de Onzaga,
+fue capturado por una escuadra capitaneada por Salvador Plata, quien
+había sido capitán general de los comuneros del Socorro. Este personaje
+se ha constituido en la figura más reconocida del movimiento gracias a
+la mistificación del personaje hecha por la narrativa nacional, y luego
+por la izquierda del siglo XX, similar a la suscitada por la figura de
+Túpac Amaru II en el Perú.[^69] Si bien la gloria militar de Galán se
+reduce a un par de victorias en el valle del Magdalena, y a pesar de no
+haber logrado acarrear consigo la suficiente fuerza en hombres y
+alianzas como para avanzar hacia Santa Fe, se convirtió rápidamente en
+la figura que necesitaba la Audiencia de Santa Fe para ratificar la
+necesidad de actuar con rigor contra los rebeldes que no aceptaban
+acatar las órdenes de las autoridades santafereñas. En palabras de
+Phelan, "Había que volver a Galán un símbolo de la rebelión, a fin de
+sembrar el temor entre sus posibles imitadores".[^70]
+
+El juicio de Galán fue expedito pero no apresurado. Durante tres meses
+se llevó a cabo un proceso ordinario del cual resultó sentenciado a la
+pena ordinaria junto a sus tenientes, en tanto otros miembros de su
+tropa fueron condenados a castigo corporal de azotes. Aunque la
+ejecución de Galán y sus tenientes no alcanzó los niveles de
+espectacularidad de los suplicios de José Gabriel y Diego Cristóbal
+Túpac Amaru,[^71] el mensaje ejemplarizante que se quería transmitir con
+su martirio público fue evidente. La aplicación de último suplicio por
+horca y corte de miembros no era común, de hecho en la revisión de los
+casos por homicidio que se realizó en el Archivo General de la Nación de
+Bogotá solamente se hallaron dos sentencias de último suplicio que
+involucraron el desmembramiento *post mortem* de la mano derecha, que
+debía ser puesta posteriormente en una escarpia en el lugar donde se
+cometió el delito. Aun así, en ninguno de los casos se aplicó porque los
+reos lograron escapar de las cárceles.[^72] En todo caso, el derecho
+castellano especificaba que la pena ordinaria para el crimen de lesa
+majestad era morir "infame y ahorcado", perdimiento de bienes, infamia
+de los hijos y de su memoria, además de la destrucción de sus
+casas.[^73]
+
+No es exagerado afirmar que la Audiencia deseaba que la ejecución de
+Galán tuviese un gran impacto en aquellos que asistieran al suplicio o
+supieran de él por vía del rumor o la noticia. La sentencia por lesa
+majestad cumplió con lo determinado de manera ordinaria, pero se
+incluyeron algunos "toques macabras" (como los caracterizó Phelan).
+Galán fue penado con morir ahorcado, que su cuerpo fuera decapitado y
+dividido en cuatro partes, ordenándose que los restos se quemaran y los
+miembros distribuidos por los escenarios de la revuelta. La cabeza
+tendría como destino Guaduas, "teatro de sus escandalosos insultos", la
+mano derecha en el Socorro, la izquierda en la villa de San Gil, el pie
+derecho en Charalá (su lugar de nacimiento) y el izquierdo en Mogotes,
+escenario último de sus acciones. Finalmente, se declaró infame su
+descendencia, embargados sus bienes, se ordenó el derribo de su casa y
+que fuese sembrada con sal, "para que de esta manera se dé al olvido su
+infame nombre y acabe con tan vil persona tan detestable memoria, sin
+que quede otra cosa que el odio y espanto que inspira la fealdad del
+delito".[^74] Similar destino corrieron las vidas y cuerpos de los
+tenientes Isidro Molina, Lorenzo Alcantuz y Manuel Ortiz; en tanto los
+diecisiete cómplices restantes fueron azotados, pasados por debajo de la
+horca con un dogal al cuello, sus bienes confiscados y desterrados
+perpetuamente a los presidios de África. Otros cuatro individuos que se
+vieron involucrados en menor medida fueron desterrados de Santa Fe y las
+villas del Socorro y San Gil.[^75]
+
+El suplicio de Galán representó el final de la sublevación de los
+comuneros,[^76] pero el colofón de la revuelta fue el indulto general
+concedido por el ahora arzobispo-virrey Caballero y Góngora, con el cual
+extendió el perdón que había concedido el virrey Flórez en octubre de
+1781.[^77] Tras la huida del regente Piñeres, y con la ausencia del
+virrey Flórez, el prelado santafereño se convirtió en la cabeza de facto
+del poder político en el Nuevo Reino, ganando protagonismo y prestigio
+en la Corte gracias a la representación que hizo de su papel en la
+pacificación de los rebeldes. Sólo hasta la ejecución de Galán, le fue
+aceptada la renuncia que había estado solicitando el virrey Flórez y le
+fue trasladado el empleo a Juan de Torreázar Pimienta, gobernador de
+Cartagena, quien murió a los pocos días de arribar a Santa Fe, el 11 de
+junio de 1782. Caballero y Góngora, quien gozaba del favor real, además
+del apoyo del regente Piñeres (quien regresó a Santa Fe en febrero de
+1782), fue designado por el rey como el encargado de ejercer el
+virreinato *ad interim* en caso de que Flórez o Pimienta no pudiesen
+ejercer sus cargos. La coincidencia trágica de la muerte del virrey
+permitió que el arzobispo asumiera el empleo el 15 de junio de 1782 de
+manera temporal y fuese titulado como virrey en propiedad el 7 de abril
+de 1783 por un periodo de cinco años.[^78]
+
+Una de sus primeras acciones como virrey fue precisamente la publicación
+del "Edicto para manifestar al público el indulto general concedido por
+nuestro Catholico Monarca El Señor don Carlos III. A todos los
+comprehendidos en las revoluciones acaecidas en el año pasado de mil
+setecientos ochenta y uno".[^79] Desde el punto de vista formal, el
+indulto fue dividido en 13 capítulos, que se pueden agrupar en tres
+secciones. Del numeral 1 al 5 las cláusulas relativas a la remisión de
+los culpados por la rebelión, del 6 al 9 las promesas para la felicidad
+pública del reino, y desde el apartado 10 se convierte en una
+exhortación a los vasallos para el requerido obedecimiento y sumisión a
+la autoridad real. El edicto fue distribuido en un impreso de 20
+cuartillas y puede considerarse como uno de los primeros impresos de
+gran alcance en el Nuevo Reino de Granada. En prácticamente cualquier
+colección documental y patrimonial de Colombia se encuentra una o varias
+copias de este edicto, y es bastante frecuente encontrar ejemplares en
+archivos latinoamericanos, lo cual da cuenta de la dimensión de su
+distribución. El "Edicto" fue una de las armas publicitarias del
+gobierno de Caballero y Góngora, quien heredó del virrey Flórez el
+interés por utilizar la imprenta como una innovación que permitiría la
+pronta circulación de las determinaciones reales por las diferentes
+provincias virreinales. Casualmente, la conclusión de la rebelión
+comunera permitió que se utilizara la imprenta para comunicarse con el
+público con dos impresos: el edicto en cuestión y la exhortación del
+fraile Raymundo Azuero leída después del suplicio de Galán y sus
+cómplices, la cual se tituló *Premios a la obediencia: castigos a la
+inobediencia*.[^80]
+
+El edicto representó mucho más que un indulto general del arzobispo
+virrey, consistió en una declaración de un plan de reforma al virreinato
+en el cual se ofrecía una mano blanda para la justicia y las demandas
+fiscales, a la vez que se prometía la prosperidad del virreinato.
+Anthony McFarlane incluso consideró que en el texto del indulto estaba
+señalado el compromiso por un "nuevo pacto colonial, en el cual la
+corona ofreció los frutos del progreso económico a cambio de la
+obediencia incondicional a la autoridad real".[^81] Es evidente que la
+rebelión de los comunes del Nuevo Reino trajo como consecuencia un afán
+por revitalizar la conciencia del lazo entre los vasallos americanos y
+la Corona, que se puede interpretar al modo de François-Xavier Guerra
+como el "renacimiento del pactismo",[^82] y en este sentido fue la
+expresión del paternal amor, clemencia, piedad, y fraternal corrección
+del rey hacia sus vasallos, que debía corresponderse moralmente con la
+lealtad y obediencia del súbdito.[^83] A diferencia de la donación
+ofrecida por el indulto general, este ofrecimiento exigía y esperaba una
+respuesta superior de los agraciados, pues no sólo se les daba su
+libertad sino se les ofrecía el retorno a la fama, mercedes y
+privilegios que podrían haber perdido si no se hubiese otorgado dicha
+dádiva.
+
+Afortunadamente contamos con una clave de lectura para interpretar la
+intencionalidad del texto representada en la carta que le envió el
+arzobispo virrey a José de Gálvez, adjunta a seis copias del indulto, en
+la cual le explicó los motivos por los cuales incluyó ciertos puntos en
+el edicto. En la comunicación le dice al Secretario de Indias que el
+indulto lo promulgó "con el único y preferente objeto de dar puntual
+cumplimiento a quanto Su Magestad manda, y radicar más la tranquilidad
+conseguida en esos vastos Dominios".[^84] Más interesante aún es el
+hecho de que casi al finalizar su escrito el arzobispo virrey le haya
+dicho a Gálvez: "En mucha parte de este yndulto notará V. E. expresiones
+que no merecen estas gentes, pero hay ocasiones en que para decir a uno
+lo que debe hacer es menester suponer, y aun asegurar, que lo há
+hecho".[^85] Es decir, que aunque se acepte que muchas de las frases
+atenuantes de la culpabilidad de los partícipes (en especial los
+cabecillas) fuesen falsas, y que las concesiones se consideren
+inmerecidas, para lograr la obediencia de los vasallos era necesario
+representarlos como si en realidad hubiesen sido víctimas del engaño y
+tuvieran la filial inclinación a obedecer a su legítimo señor. De manera
+tal que políticamente era preferible conseguir la obediencia que errar
+en la merced, como se ratificó en el siguiente párrafo de la carta
+cuando dijo el virrey, "que hay crisis tan peligrosas y con tan
+violentas combulsiones, que es menester cortarlas al instante sin
+reparar en las malas, ó buenas, resultas de los medicamentos. Las que
+observamos son todas las mejores, y el Reyno se halla en una perfecta
+tranquilidad, obedientes los vasallos del Rey, y prontos todos á quanto
+se les mande".[^86] De tal manera que, le aseguraba Caballero a Gálvez,
+gracias a sus acciones se había apagado el fuego de la sedición en el
+Nuevo Reino de Granada.
+
+La excepcionalidad de este indulto en relación con todos los publicados
+por los virreyes americanos radica en que no se limitó a excusar la
+imposibilidad práctica para aplicar los castigos requeridos por la
+vindicta pública. Desde la primera línea el arzobispo se dirige "a todos
+y cada uno de nuestros súbditos de qualesquier estado y condición que
+sean", de cierta manera, parece hablarle a su grey antes que a los
+vasallos. Que una real orden abarcara a los vasallos en general no era
+algo excepcional, pero difícilmente se encuentra una cédula real que
+esté específicamente dirigida a los súbditos. No debe sin embargo
+confundirse con un sermón o un texto doctrinal. El edicto cumplió con la
+forma tradicional, evitando un gran despliegue de retórica o erudición,
+por lo que es claro que quería que fuese entendido de la manera más
+amplia posible, tal vez no alcanzando a los más rústicos, pero por lo
+menos a los principales de cada población. Podría considerarse que la
+innovación que planteó este edicto consistió en que más que centrarse en
+el arrepentimiento y reconciliación de los súbditos, condicionó el
+futuro de la felicidad pública a la tranquilidad del reino. De esta
+manera, no se ofrecía el perdón por un acto desinteresado de clemencia,
+sino con la condición de una "pronta y sincera conversión al
+soberano".[^87] Puede afirmarse que fue un indulto carente de virtud,
+desprovisto de clemencia y paternal amor. Al rey se le describe como
+"amable Soberano", el "más benigno y más liberal de los Monarcas", pero
+hay que resaltar que el arzobispo virrey se describía a sí mismo como
+"Padre y Pastor de una Grey", que ahora investido de autoridad tendría
+la capacidad para incrementar las gracias y beneficios que la
+liberalidad del rey se dignaría en concederles por su mediación.
 
 [^1]: María Asenjo-González, "Función pacificadora y judicial de los
     corregidores en las villas y ciudades castellanas, a fines de la
@@ -628,3 +963,153 @@ soberano".[^52]
 
 [^52]: "Indulto virrey Amar y Borbón", AGNC, sección colonia, juicios
     criminales, tomo 2, doc. 14, f. 760r.
+
+[^53]: Charles F. Walker, *The Tupac Amaru rebellion* (Cambridge, MA:
+    The Belknap Press of Harvard University Press, 2014), 247-248\*;
+    John Tutino, *Mexico City, 1808: Power, Sovereignty and Silver in an
+    Age of War and Revolution*, Diálogos Series (Albuquerque: University
+    of New Mexico Press, 2018), 198--99.
+
+[^54]: Fernando Cajías de la Vega, *Oruro 1781: Sublevación de indios y
+    rebelión criolla*, Travaux de l'IFEA (Lima: Institut français
+    d'études andines, 2016), caps. XXIV, párr. 17,
+    http://books.openedition.org/ifea/7477; Graciela Swiderski, ed.,
+    *Bandos de los virreyes y gobernadores del Río de la Plata,
+    1741-1809: catálogo cronológico y temático*, Colección Referencia 5
+    (Buenos Aires: Archivo General de la Nación, 1997), 83 y 129.
+
+[^55]: Ana María Lorandi y Cora Virginia Bunster, *La pedagogía del
+    miedo. Los borbones y el criollismo en el Cuzco 1780-1790* (Cuzco:
+    Institut français d'études andines, Centro de Estudios Regionales
+    Andinos Bartolomé de Las Casas, 2013).
+
+[^56]: Margarita Restrepo Olano, "Sublevaciones en el virreinato
+    neogranadino durante la segunda mitad del siglo XVIII: un balance
+    historiográfico", *Historia* 1, núm. 47 (2014): 169--70,
+    https://doi.org/10.4067/S0717-71942014000100008.
+
+[^57]: John Leddy Phelan, *El pueblo y el rey: la revolución comunera en
+    Colombia, 1781* (Bogotá: Universidad del Rosario, 2009), 332.
+
+[^58]: Jorge Orlando Melo, *Historia mínima de Colombia*, Colección
+    Historias mínimas (México: El Colegio de México, 2017), 91. Una
+    perspectiva reciente, contraria a la idea de una "revuelta
+    tradicional" y a favor de la revolución moderna campesina y popular,
+    es la de Héctor Jaime Martínez Covaleda, "La Revolución de 1781:
+    campesinos, tejedores y la 'rent seeking' en la Nueva Granada
+    (Colombia)" (Tesis doctoral, Universitat Pompeu Fabra, 2014),
+    https://dialnet.unirioja.es/servlet/tesis?codigo=142807.
+
+[^59]: Anthony McFarlane, *Colombia before Independence: Economy,
+    Society, and Politics under Bourbon Rule*, Cambridge Latin American
+    Studies 75 (New York: Cambridge University Press, 1993), 264.
+
+[^60]: Phelan, *El pueblo y el rey*, 70--73.
+
+[^61]: McFarlane, *Colombia before Independence*, 251--52. Véase también
+    la cronología elaborada por María Victoria Montoya Gómez, "Castigo y
+    perdón: el movimiento comunero. Nuevo Reino de Granada, 1781",
+    *Mouseion*, núm. 18 (2014): 39--40.
+
+[^62]: Véase los pasquines, en particular "nuestra cédula", transcritos
+    por Phelan, *El pueblo y el rey*, 100--115.
+
+[^63]: Allan J. Kuethe, *Military reform and society in New Granada,
+    1773-1808* (Gainesville: The University Presses of Florida, 1978),
+    82.
+
+[^64]: Phelan, *El pueblo y el rey*, 146--52; Jairo Antonio Melo Flórez,
+    "La Audiencia contra el príncipe de Bogotá. El proceso contra el
+    indígena Ambrosio Pisco en la insurrección comunera de Nueva Granada
+    de 1781", *Historia, crimen y justicia* (blog), el 14 de octubre de
+    2015, https://hccj.hypotheses.org/17.
+
+[^65]: El virrey Flórez sólo autorizó el envío de 500 hombres al mando
+    del coronel José Bernet, quienes salieron de Cartagena el 1° de
+    junio y llegaron a Santa Fe hasta el 6 de agosto. Kuethe, *Military
+    reform*, 86--87. No obstante, como señaló Phelan, "El avance lento
+    pero inexorable de esa pequeña pero poderosa expedición militar fue
+    un instrumento psicológico decisivo para que las autoridades
+    recuperaran el control después de la conclusión de las
+    capitulaciones". Phelan, *El pueblo y el rey*, 204.
+
+[^66]: "Caballero y Góngora a la junta", 16 de junio de 1781, *apud*
+    Phelan, *El pueblo y el rey*, 210.
+
+[^67]: Phelan, 218.
+
+[^68]: Phelan, 277. Para un comentario al documento del juicio véase
+    Melo Flórez, "La Audiencia contra el príncipe".
+
+[^69]: Phelan, *El pueblo y el rey*, 261--75; Walker, *The Tupac Amaru
+    rebellion*, 313-339\*.
+
+[^70]: Phelan, *El pueblo y el rey*, 283.
+
+[^71]: Walker, *The Tupac Amaru rebellion*, 198--200 y 290-291\*.
+
+[^72]: "Causa seguida a los esclavos Juan Antonio Velasco y Salvador
+    Martín por el homicidio de Juan Esteban de Hostos, su amo", AGNC,
+    sección colonia, juicios criminales, tomo 34, doc. 10 y tomo 49,
+    doc. 2. "Sumario contra Miguel Suárez y Alejo Rivas por homicidio",
+    AGNC, sección colonia, juicios criminales, tomo 76, doc. 2.
+
+[^73]: Francisco de la Pradilla, *Suma de las leyes penales*, (Madrid:
+    Imprenta del reino, 1639), parte primera, cap. III.
+
+[^74]: "Sentencias de José Antonio Galán y compañeros", en Juan Friede,
+    *Rebelión comunera de 1781: documentos*, vol. II, II vols. (Bogotá:
+    Instituto Colombiano de Cultura, 1981), 627.
+
+[^75]: "Sentencias de José Antonio Galán y compañeros", 627-628.
+
+[^76]: Allan J. Kuethe y Kenneth J. Andrien, *The Spanish Atlantic World
+    in the Eighteenth Century. War and the Bourbon Reforms, 1713--1796*
+    (Cambridge: Cambridge University Press, 2014), 300.
+
+[^77]: "Bando de Flores en que anuncia indulto a los sublevados y cargo
+    de traición a pertinaces", Cartagena de Indias, 26 de octubre de
+    1781, AGI, Santa Fe, 577B. Transcripción disponible en Friede,
+    *Rebelión comunera*, vol. II, 477-478; y Pablo E. Cárdenas
+    Acosta, *El movimiento comunal de 1781 en el Nuevo Reino de Granada
+    (Reivindicaciones históricas)*, vol. II, II vols., Biblioteca de
+    Historia Nacional, XCVII (Bogotá: Academia de Historia, editorial
+    Kelly, 1960), 163-165. Por una errata, Phelan menciona este indulto
+    como "el perdón provisional otorgado por el virrey Flórez en agosto
+    de 1781", *El pueblo y el rey*, 311.
+
+[^78]: Phelan, 308--10.
+
+[^79]: BNC, Fondo Quijano, vol. 254, pza. 10. **Véase anexo XX**
+
+[^80]: Francisco Ortega Martínez, "La publicidad ilustrada y el concepto
+    de opinión pública en la Nueva Granada", *Fronteras de la Historia*
+    17, núm. 1 (2012): 27; Francisco Ortega Martínez, "El nacimiento de
+    la opinión pública en la Nueva Granada, 1785-1830", en *Disfraz y
+    pluma de todos: opinión pública y cultura política, siglos XVIII y
+    XIX*, ed. Alexander Chaparro Silva y Francisco Ortega Martínez,
+    Colección Lecturas CES (Bogotá: Universidad Nacional de
+    Colombia-Sede Bogotá, Facultad de Ciencias Humanas, Centro de
+    Estudios Sociales, 2012), 50.
+
+[^81]: McFarlane, *Colombia before Independence*, 264.
+
+[^82]: François-Xavier Guerra, *Modernidad e independencias: ensayos
+    sobre las revoluciones hispánicas*, 3a. ed, 3a. reimp (México: Fondo
+    de Cultura Económica, MAPFRE, 2014), 169--73.
+
+[^83]: Hans-Joachim König, *En el camino hacia la nación: nacionalismo
+    en el proceso de formación del estado y de la nación de la Nueva
+    Granada, 1750 a 1856* (Bogotá: Banco de la República, 1994), 209.
+
+[^84]: "Caballero y Góngora a José de Gálvez", Santa Fe, 15 de octubre
+    de 1782, BLAA-RM, MSS756, vol. 1, ff. 41r-41v. Otra copia se puede
+    consultar en "No. 3, el Arzobispo virrey de Santa Fe dirije seis
+    exemplares del yndulto...", AGI, Santa Fe, 594. Incluyo la
+    transcripción en el **anexo XXI**
+
+[^85]: "Caballero y Góngora a José de Gálvez", f. 46v-47r.
+
+[^86]: "Caballero y Góngora a José de Gálvez", f. 47r.
+
+[^87]: "Edicto para manifestar al público", cap. I.

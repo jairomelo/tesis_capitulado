@@ -42,7 +42,7 @@ Audiencia de Panamá, 358
 
 Audiencia de Quito, 398
 
-Audiencia de Santa Fe, 193, 577B, 682, 940.
+Audiencia de Santa Fe, 193, 577B, 594, 682, 940.
 
 Indiferente general, 415, 429, 430, 538 L.YY11.
 
@@ -56,8 +56,8 @@ Sección colonia:
 >
 > Caciques e indios, tomo 41.
 >
-> Juicios criminales, tomos 2, 6, 49, 54, 58, 64, 102, 103, 114, 130,
-> 131, 134, 136, 138, 148, 157, 176, 216.
+> Juicios criminales, tomos 2, 6, 34, 49, 54, 58, 64, 76, 102, 103, 114,
+> 130, 131, 134, 136, 138, 148, 157, 176, 216.
 >
 > Milicias y marina, tomo 35.
 >
@@ -92,9 +92,15 @@ Fondo Concejo de Medellín, sección colonia, reales cédulas, tomos 33,
 
 Consejo de Indias, Secretaría de Presidencia, 21672
 
+### Biblioteca Luis Ángel Arango (Bogotá)
+
+Sala de libros raros y manuscritos, MSS756.
+
 ### Biblioteca Nacional de Colombia (Bogotá)
 
 Fondo Pineda, tomo 852.
+
+Fondo Quijano, tomo 254.
 
 Fuentes seriadas
 ----------------
@@ -127,6 +133,11 @@ Bentura Beleña, Eusebio. *Manifiesto de Eusebio Bentura Beleña*. Editado
 por Ignacio Almada Bay et al. Colección Fuentes. Zamora: El Colegio de
 Michoacán, Universidad de Guadalajara, El Colegio de Sonora, 2006.
 
+Cárdenas Acosta, Pablo E. *El movimiento comunal de 1781 en el Nuevo
+Reino de Granada (Reivindicaciones históricas)*. II vols. Biblioteca de
+Historia Nacional, XCVII. Bogotá: Academia de Historia, editorial Kelly,
+1960.
+
 *Diccionario de la lengua castellana compuesto por la Real Academia
 Española reducido á un tomo para su mas fácil uso*. Madrid: Joaquín
 Ibarra, 1780.
@@ -140,10 +151,20 @@ Escriche, Joaquín. *Diccionario razonado de legislación y
 jurisprudencia*. Nueva edición reformada y aumentada por León Galindo y
 José Vicente y Caravantes. Madrid: Imprenta de Eduardo Cuesta, 1874.
 
+Friede, Juan. *Rebelión comunera de 1781: documentos*. 2 vols. Bogotá:
+Instituto Colombiano de Cultura, 1981.
+
 Gálvez, José de. *Informe sobre las rebeliones populares de 1767 y otros
 documentos inéditos*. Editado por Felipe Castro Gutiérrez. Serie
 Historia novohispana 43. México: Universidad Nacional Autónoma de
 México, 1990.
+
+Huerto Vizcarra, Héctor, ed. *La rebelión de Túpac Amaru II*. Segunda
+edición. 7 vols. Nueva Colección Documental de la Independencia del
+Perú. Lima: Universidad Peruana de Ciencias Aplicadas, Congreso de la
+República, Fondo Editorial del Congreso del Perú, Asociación por la
+Cultura y la Educación Digital, Fundación M. J. Bustamante de la Fuente,
+Red INTERINDI, 2017.
 
 Jovellanos, Gaspar Melchor de. "Informe de la Real Sala de Alcaldes al
 Consejo de Castilla, sobre indultos generales \[1779\]". En *Obras del
@@ -155,7 +176,7 @@ divesriones públicas, y sobre su origen en España". En *Colección de
 varias obras en prosa y verso del excelentísimo señor don Gaspar de
 Jovellanos*, IV:9-95. Madrid: imprenta de León Amarita, 1831.
 
-Levillier, Roberto, ed. *Gobernantes del Perú. Cartas y papeles*. XIV
+Levillier, Roberto, ed. *Gobernantes del Perú. Cartas y papeles*. 14
 vols. Madrid: sucesores de Rivadeneira, 1921.
 
 ### Legislación
@@ -325,6 +346,9 @@ et inferiorum ab eo; de excessibus etiam eorum circa prædicium alienum
 materia perquam copiose discutitur.* Frankfurt: tipografía de Segismundo
 Latomi, 1610.
 
+Pradilla, Francisco de la. *Suma de las leyes penales*. Madrid: Imprenta
+del reino, 1639.
+
 Ribadeneyra, Pedro de. *Tratado de la religión y virtudes que deve tener
 el Príncipe Christiano, para governar y conservar sus estados*. Amberes:
 Imprenta plantiniana, 1597.
@@ -360,6 +384,13 @@ España*. Madrid: Imprenta de la viuda de Ibarra, 1797.
 Recursos digitales
 ------------------
 
+Agencia Española de Cooperación Internacional para el Desarrollo
+(AECID). *Biblioteca digital*. 2018.
+[[http://bibliotecadigital.aecid.es/bibliodig]{.underline}](http://bibliotecadigital.aecid.es/bibliodig)
+
+Archivo General de la Nación de Colombia. *ArchiDoc*. 2014.
+[[http://consulta.archivogeneral.gov.co/ConsultaWeb/]{.underline}](http://consulta.archivogeneral.gov.co/ConsultaWeb/)
+
 Archivo Nacional de Asunción. *Sección historia*. sf.
 [[http://historia.anasnc.senatics.gov.py/index.php/seccion-historia]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/seccion-historia)
 
@@ -383,6 +414,10 @@ DADUN. Depósito Académico Digital Universidad de Navarra. *Fondo
 Antiguo*. 2013.
 [[https://dadun.unav.edu/handle/10171/4687]{.underline}](https://dadun.unav.edu/handle/10171/4687)
 
+Eusko Ikaskuntza - Sociedad de Estudios Vascos. *Fondo Multimedia*.
+2019.
+[[http://www.eusko-ikaskuntza.eus/es/fondo-documental/fondo-multimedia/]{.underline}](http://www.eusko-ikaskuntza.eus/es/fondo-documental/fondo-multimedia/)
+
 Fondazione Biblioteca Europea di Informazione e Cultura (BEIC).
 *Biblioteca digitale*. 2017.
 [[https://www.beic.it]{.underline}](https://www.beic.it)
@@ -391,6 +426,10 @@ Instituto de Investigación Rafael Lapesa y Real Academia Española.
 *Diccionario de autoridades (1726-1739)*. Versión 1.1. 2013.
 [[http://web.frl.es/DA.html]{.underline}](http://web.frl.es/DA.html)
 
+Ministerio de Cultura y Deporte de España. *Portal de Archivos
+Españoles*. Versión 2.0. 2016.
+[[http://pares.mcu.es/ParesBusquedas20/catalogo/search]{.underline}](http://pares.mcu.es/ParesBusquedas20/catalogo/search)
+
 Real Academia de la Historia. *Diccionario Biográfico Español*. 2018.
 [[http://dbe.rah.es/]{.underline}](http://dbe.rah.es/)
 
@@ -398,6 +437,9 @@ Tomás de Aquino. "Summa Theologiae". En *S. Thomae de Aquino Opera
 omnia*, editado por Enrique Alarcón y Roberto Busa, Textum Leoninum
 Romae. Pamplona: Ad Universitatis Studiorum Navarrensis, 2001.
 [[http://www.corpusthomisticum.org/iopera.html]{.underline}](http://www.corpusthomisticum.org/iopera.html).
+
+Unión Europea. *Europeana Collections*. 2019.
+[[https://www.europeana.eu/]{.underline}](https://www.europeana.eu/)
 
 Universidad Rey Juan Carlos, *Biblioteca digital. Colección fondo
 antiguo*. 2018.
