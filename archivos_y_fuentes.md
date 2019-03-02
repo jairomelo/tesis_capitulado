@@ -102,6 +102,10 @@ Fondo Pineda, tomo 852.
 
 Fondo Quijano, tomo 254.
 
+### Universidad de Sevilla, Biblioteca Rector Machado y Núñez
+
+Fondo Antiguo, A 113/136.
+
 Fuentes seriadas
 ----------------
 
@@ -181,7 +185,9 @@ vols. Madrid: sucesores de Rivadeneira, 1921.
 
 ### Legislación
 
-*Cedulario de Encinas*. Madrid: Imprenta Real, 1596.
+*Cedulario de Encinas*. Madrid: Imprenta Real, 1596. Edición
+contemporánea por Alfonso García Gallo. Madrid: Ediciones de Cultura
+Hispánica, 1990.
 
 *Corpus Iuris Civilis*. *Digesto y Código de Justiniano.* Edición
 facsímil por editorial Lex Nova de 1989. Trad. Ildefonso L. García del
@@ -196,22 +202,36 @@ Library Program.
 quales son derimidas las questiones è pleytos que en España ocurren.
 Sabiamente sacadas de las leyes canonicas y civiles. Con la glossa del
 insigne Dottor Alfonso Diez de Montalvo* \[1491\]. Lyon: \[s.n.\], 1550.
+Copia digitalizada en
+[[http://bvpb.mcu.es/es/consulta/registro.cmd?id=401098]{.underline}](http://bvpb.mcu.es/es/consulta/registro.cmd?id=401098)
 
 *Las Siete Partidas del Sabio Rey don Alonso el nono \[sic\] nuevamente
 glosadas por el Licenciado Gregorio Lopez*. Salamanca: Andres de
-Portonaris, 1555.
+Portonaris, 1555. Copia digitalizada en
+[[http://bvrajyl.rajyl.es/i18n/catalogo\_imagenes/grupo.cmd?path=1000935]{.underline}](http://bvrajyl.rajyl.es/i18n/catalogo_imagenes/grupo.cmd?path=1000935)
+
+*Las Siete Partidas del Sabio Rey Don Alfonso el Nono \[sic\] copiadas
+de la edición de Salamanca de 1555*. Valencia: Joseph Thomás Lucas,
+1758. Copia facsimilar en México: Suprema Corte de Justicia de la
+Nación, 2004. Copia digital en
+[[https://catalog.hathitrust.org/Record/009264482]{.underline}](https://catalog.hathitrust.org/Record/009264482)
 
 *Novísima Recopilación de las leyes de España*. Madrid: \[s.n.\], 1805.
+Edición facsímil en Madrid: Área de programación editorial del Boletín
+Oficial del Estado, 1992.
 
 *Nueva Recopilación de las Leyes destos Reynos*. Alcalá de Henares: casa
-de Juan Iñiguez de Liquerica, 1681.
+de Juan Iñiguez de Liquerica, 1581. Edición aumentada en Madrid:
+imprenta de Juan Antonio Pimentel, 1745. Copia facsimilar de la edición
+madrileña de 1640 en Valladolid: Lex Nova, 1982.
 
 *Ordenanzas reales de Castilla*. Recopiladas y compuestas por Alonso
 Díaz de Montalvo. Glosadas por Diego Pérez de Salamanca. Madrid:
 Imprenta de Josef Doblado, 1779.
 
 *Recopilación de las leyes de los reinos de las Indias*. Madrid: por
-Julián de Paredes, 1681.
+Julián de Paredes, 1681. Edición contemporánea por Ramón Menéndez y
+Pidal y Juan Manzano. Madrid: Cultura Hispánica, 1973.
 
 *Real ordenanza para el establecimiento é instrucción de intendentes de
 exercito y provincia en el Reino de la Nueva-España*. Madrid: \[s.n.\],
@@ -430,8 +450,14 @@ Ministerio de Cultura y Deporte de España. *Portal de Archivos
 Españoles*. Versión 2.0. 2016.
 [[http://pares.mcu.es/ParesBusquedas20/catalogo/search]{.underline}](http://pares.mcu.es/ParesBusquedas20/catalogo/search)
 
+---------. *Biblioteca Virtual del Patrimonio Bibliográfico*. 2017.
+[[http://bvpb.mcu.es/es/inicio/inicio.do]{.underline}](http://bvpb.mcu.es/es/inicio/inicio.do)
+
 Real Academia de la Historia. *Diccionario Biográfico Español*. 2018.
 [[http://dbe.rah.es/]{.underline}](http://dbe.rah.es/)
+
+Real Academia de Jurisprudencia y Legislación. *IURIS digital*. sf.
+[[http://bvrajyl.rajyl.es/i18n/consulta/busqueda.cmd]{.underline}](http://bvrajyl.rajyl.es/i18n/consulta/busqueda.cmd)
 
 Tomás de Aquino. "Summa Theologiae". En *S. Thomae de Aquino Opera
 omnia*, editado por Enrique Alarcón y Roberto Busa, Textum Leoninum

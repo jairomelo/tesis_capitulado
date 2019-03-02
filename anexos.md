@@ -1155,14 +1155,14 @@ Fecha: 6 de agosto de 1782
 > medios legales para la seguridad \[p. 11\] de las Rentas, tan antiguos
 > como su establecimiento; y tambien lo ha sido el tédio, con que los mas
 > de los Traficantes han mirado siempre semejantes requisitos, unicamente
-> dirijidos á evitar los fraudes, y precaver las ilicitas y
-> clandestinasintroducciones de generos y efectos. Con todo nos consta,
-> que la ignorancia de algunos Empleados, y la malicia de otros, que
-> olvidados de sus obligaciones, de la suavidad, politica, y buen
-> tratamiento, á que siempre ha sido acreedor el publico y aún engreídos
-> con ciertas imaginadas facultades, que nunca tubieron, han ocasionado
-> gravisimas extorsiones á los particulares, y contribuido no poco, para
-> que se hicieran mas odiosas estas formalidades legales, que con el uso,
+> dirijidos á evitar los fraudes, y precaver las ilicitas y clandestinas
+> introducciones de generos y efectos. Con todo nos consta, que la
+> ignorancia de algunos Empleados, y la malicia de otros, que olvidados de
+> sus obligaciones, de la suavidad, politica, y buen tratamiento, á que
+> siempre ha sido acreedor el publico y aún engreídos con ciertas
+> imaginadas facultades, que nunca tubieron, han ocasionado gravisimas
+> extorsiones á los particulares, y contribuido no poco, para que se
+> hicieran mas odiosas estas formalidades legales, que con el uso,
 > suavidad y buen modo hubieran sido mas tolerables; mientras descubría el
 > Govierno, para remediarlos en tiempo, aquellos gravamenes, que
 > manifestaba sufriri el comun, por ciertos impedimentos y circunstancias
@@ -1171,35 +1171,36 @@ Fecha: 6 de agosto de 1782
 > por ahora en los generos y frutos de Castilla, que viniendo del Puerto
 > de Cartagena, como puerta principal del Reyno, ó de algunos otros
 > Puertos, para ser conducidos á lo interior de las Provincias con destino
-> al trato y Comercio, compongan carga, fardo, frangóte, caxon, ó petaca;
-> omitiendola en los de poca consideracion, ú otros encargos distintos de
-> la negociacion: que se observe la formalidad de las Guias, sin la
-> obligacion de Tornaguias siempre que desta Capital ó de la Villa de
-> Honda se lleven generos y frutos de Castilla destinados al Comercio
-> interior de las Provincias \[p. 12\] las quales Guias deberán manifestar
-> los Negociantes al Administrador ó Recaudador del Ramo de Alcabala, para
-> que al pie les ponga certificacion, de lo que hayan contribuido: que
-> tambien observe la misma formalidad, y con las mismas condiciones que
-> anteceden, siempre que desta Capital se saquen generos de la Tierra
-> destinados para el trafico interior del Reyno: que quando salgan desta
-> Capital ó de otros Parages del Reyno los referido efectos y frutos de la
-> Tierra, para circular por otras Provincias, deberán llevar Guia; y si se
-> embarcan en Honda, ú otros, de los que se regulan, y llaman Puertos,
-> deberán pagar los derechos establecidos: que del todo se omitirán las
-> Guias en los generos de Castilla y de la Tierra, que no alcancen á
-> componer media carga, ni sean destinados al trafico y Comercio: que
-> tambien se omitan las Guias en todos los generos y frutos de la Tierra,
-> que desde sus Haciendas sean encaminados derechamente á los diferentes
-> Pueblos de las Provincias para su trato, y venta; pero serán obligados
-> los Conductores á manifestarlos al Recaudador del derecho de Alcabala,
-> para contribuir lo perteneciente á este Ramo, verificada la venta: que
-> las personas que salieren desta Capital, para viajar por el Reyno con su
-> equipage, no necesitan de Guia; pero no por eso pueden escusarse al
-> reconocimiento, que hagan los Empleados para ello con la debida
-> urbanidad, y correspondiente tratamiento: finalmente declaramos, y
-> queremos, que á excepcion de las modificaciones que van expresadas, se
-> observe puntualmente todo lo demás, que contiene la Instruccion general
-> de veinte y seis de Agosto de mil setecientos y ochenta.
+> al trato y Comercio, compongan carga,[^4] fardo,[^5] frangóte,[^6]
+> caxon,[^7] ó petaca;[^8] omitiendola en los de poca consideracion, ú
+> otros encargos distintos de la negociacion: que se observe la formalidad
+> de las Guias, sin la obligacion de Tornaguias siempre que desta Capital
+> ó de la Villa de Honda se lleven generos y frutos de Castilla destinados
+> al Comercio interior de las Provincias \[p. 12\] las quales Guias
+> deberán manifestar los Negociantes al Administrador ó Recaudador del
+> Ramo de Alcabala, para que al pie les ponga certificacion, de lo que
+> hayan contribuido: que tambien observe la misma formalidad, y con las
+> mismas condiciones que anteceden, siempre que desta Capital se saquen
+> generos de la Tierra destinados para el trafico interior del Reyno: que
+> quando salgan desta Capital ó de otros Parages del Reyno los referido
+> efectos y frutos de la Tierra, para circular por otras Provincias,
+> deberán llevar Guia; y si se embarcan en Honda, ú otros, de los que se
+> regulan, y llaman Puertos, deberán pagar los derechos establecidos: que
+> del todo se omitirán las Guias en los generos de Castilla y de la
+> Tierra, que no alcancen á componer media carga, ni sean destinados al
+> trafico y Comercio: que tambien se omitan las Guias en todos los generos
+> y frutos de la Tierra, que desde sus Haciendas sean encaminados
+> derechamente á los diferentes Pueblos de las Provincias para su trato, y
+> venta; pero serán obligados los Conductores á manifestarlos al
+> Recaudador del derecho de Alcabala, para contribuir lo perteneciente á
+> este Ramo, verificada la venta: que las personas que salieren desta
+> Capital, para viajar por el Reyno con su equipage, no necesitan de Guia;
+> pero no por eso pueden escusarse al reconocimiento, que hagan los
+> Empleados para ello con la debida urbanidad, y correspondiente
+> tratamiento: finalmente declaramos, y queremos, que á excepcion de las
+> modificaciones que van expresadas, se observe puntualmente todo lo
+> demás, que contiene la Instruccion general de veinte y seis de Agosto de
+> mil setecientos y ochenta.
 >
 > \[p. 13\]
 >
@@ -1357,7 +1358,179 @@ Fecha: 6 de agosto de 1782
 >
 > Antonio Arzobispo Virrey de Santa Fé
 
-Anexo 12. Real Decreto sobre indulto de militares procesados por delitos
+Anexo 12. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
+indulto que ha concedido a los compreendidos en las alteraciones pasadas
+y hace distintas reflexiones acalarando las razones que ha tenido para
+expedirlo en los términos que está
+
+Fuente: \"Correspondencia reservada del Excelentísimo Señor Arzobispo
+Virrey Don Antonio Cavallero y Gongora; años de 83, 83 y 84\", BLAA,
+Sala de libros raros y manuscritos, MSS756, v. 1, ff. 41r-47v. AGI,
+Santa Fe, 594.
+
+Lugar: Santa Fe
+
+Fecha: 15 de octubre de 1783
+
+> \[f. 41r\] Excelentísimo Señor.
+>
+> Muy Señor mio. Acompaño a V. E. seis exemplares del yndulto que he
+> expedido en nombre de Su Mag\[esta\]d \[a\] todos los compreendidos en
+> las revolucion\[es\] acaecidas en este Reyno, con el unico y
+> preferente objeto de dar puntual cump\[limiento\] \[f. 41v\] a quanto
+> su Magestad manda y radicar mas la tranquilidad conseguida en esos
+> vastos Dominios.
+>
+> Para salvar, sin embargo de la generosidad de este yndulto las
+> pro\[vi\]dencias porsteriores, que se hayan de tom\[ar\] averiguadeis
+> que sean los motores, autor\[es\], y cavezas de la revelion del modo
+> que su Mag\[esta\]d previno a mi antecesor Don Manuel de Flores en su
+> R\[ea\]l Orden R\[e\]servada de 23 de Agosto del año p\[ró\]ximo
+> pasado, he puesto en el capit\[ul\]o 2° \[de\] dicho yndulto que se
+> concede en la misma conformidad y propios terminos con que su
+> Mag\[esta\]d ha sido servido dispensarlo, omitiendo cuidadosamente
+> expresar las palabras de motores, autores y cavezas del motín, y
+> sigiendo e\[n\] esto lo mismo que havia tratado de \[f. 42r\]
+> executarse con mi antecesor D\[on\] Juan Pimienta, y que
+> posteriorm\[ent\]e consulte con los dos Ministros mis u\[n\]icos
+> confidentes el Regente Visitador G\[enera\]l D\[o\]n Juan
+> Fran\[cis\]co Gutierres de Piñeres, y el Oydor Don Juan Antonio Mon. y
+> Velarde.
+>
+> Al cap\[ítul\]o 3° advertira V\[uestra\] E\[xcelencia\] extiendo esta
+> R\[eal\] gracia a los que acaudillaron las tropas sublevadas con el
+> titulo de Capitan. Por precisa necesidad me he visto obligado a poner
+> esta dispensacion a los nombrados Capitan\[e\]s pues de otro modo era
+> imposible sosegar los recelos de los principales sugetos de los
+> Pueblos, ni establecer solidam\[en\]te la tranquilidad publica del
+> Reyno. Por la desgracia de haverse traslucido \[f. 42v\] no sé cómo el
+> contenido de la citada Real Orden reservada de 22 de Agosto al Señor
+> Flores se sobresaltaron de nuevo estas gentes con la noticia que
+> esparcio un indio que se fingio chasqui mio, y publico havia llegado
+> correo de España y el Rey ordenaba el castigo de los capitanes, y que
+> yo les aconsejaba su fuga, de que di cuenta a V\[uestra\]
+> E\[xcelencia\] en mi carta particular fecha en Tunxa a 24 de Marzo de
+> este año incluyendole vajo el n° 1° la en que me avisaba de esta
+> perniciosa novedad el Misionero Capuchino Fray Joaq\[ui\]n de
+> Finestrad. Por entonces atribui esta sediciosa especie a malicia de
+> los enemigos de la Paz, pero haviendo averiguado despues, tubo \[f.
+> 43r\] su origen de haverse esparcido sordam\[en\]te el contexto de la
+> citada Real orden equivocando sea errada o maliciosam\[en\]te las
+> especies de cavezas, motores y motores \[sic\] con los Capitanes,
+> tenia acordado con el citado Don Juan Pimienta, que se indultaran á
+> estos expresam\[en\]te y yo lo he executado en la misma conformidad,
+> sin que por esto se falte a lo mandado por su Mag\[esta\]d pues
+> realmente compreendo que todos, o la mayor parte de los que fueron
+> capitanes no son de los que conviene castigar por que se les obligó a
+> los mas a que admitiesen estos encargos, y muchos los tomaron por
+> libertarse de las relacio\[e\]s y perjuicios que los discolos les
+> ocasionaran en sus caudales y personas si se huvieran \[f. 43v\]
+> negado a ello.
+>
+> En el mismo capitulo 3°, avilito para que puedan obtener, y exercer
+> todos los empleos honorificos, civiles y militares a que sean
+> acreedores por su merito manifestando seran despreciadas por este
+> superior Gov\[ier\]no las excepcion\[e\]s que les pongan con el
+> anterior o semejantes pretextos de haver sido Capitanes, o Caudillos,
+> de los sublevados, y castigados los que intenten manchar en adelante a
+> sus compatriotas con tan feo borrón.
+>
+> Ademas de que esta avilitaz\[io\]n me parecio forzosa consecuencia del
+> yndulto tube para ello el poderoso motibo de la constante pacificacion
+> de los Pueblos. Como en estos Paises, ni en los que tengo vistos de
+> \[f. 44r\] America hay amor del proximo, estan continuam\[en\]te
+> calumniandose con los mas ligeros motibos, con el de la sublevacion y
+> convocaz\[io\]n de la eleccion de Alcaldes en el presente año han sido
+> tantos los recursos que se hicieron a la R\[ea\]l Aud\[ienci\]a para
+> excluir a los electos que de no precisada a mandar por plano general
+> siguieran los Alcaldes del año anterior como vera V. E. por el
+> testim\[onio\] adjunto n° 1° estas consideraciones y la de evitar en
+> adelante innumerables ofensas a Dios y a los proximos, que veia como
+> precisas, y que tal vez podrian llegar a perturbar la tranquilidad de
+> los Pueblos, como que haviendo escogido por capitanes a los mas
+> principales hacendados \[f. 44v\] y sugetos distinguidos de ellos, y
+> quedando estos incapaces de obtener los primeros empleos de la
+> Republica recaerian precisam\[en\]te en gente rustica e incapaz de
+> administrar recta justicia me incline á concederles esta avilitacion
+> como medio unico de lograr el servicio de ambas Magesta\[de\]s.
+>
+> En el capítulo 7° mando se pague el Real derecho de Alcavala de los
+> frutos, y generos de la tierra en todo el distrito de las
+> Administraciones Principales de esta capital y Villa de Honda por los
+> Aranceles antiguos, que se practicaban y estuvieron en observancia
+> hasta fin de septiembre de 1780, en que principio la nueva planta,
+> esta providencia esta concevida en los mismos \[f. 45r\] terminos que
+> me la propuso el Reg\[en\]te Visitador en su oficio reservado de 2 de
+> Julio de este año de que incluyo copia n° 2°. Aunque no hubiera tan
+> poderoso apoyo esta resolucion me ha parecido la mas ventajosa a la
+> R\[ea\]l Haz\[ien\]da por el beneficio que de ella resulta, y que se
+> patentisa \[sic\] en el plano n° 3°, en el va incluso el R\[eal\] Dro
+> \[Derecho\] de Armada de Barlovento el qual pagan gustosos estos
+> naturales y con solo haver suprimido el nombre por que en su
+> ignorancia o capricho pesan mas los nombres que la realidad.
+>
+> En el capítulo 9° declaro que la formalidad de Guías y tornaguia solo
+> se rectifique por ahora en los generos y frutos de Castilla, y que
+> viniendo del Puerto de Cartag\[en\]a como Puerto \[f. 45v\] de
+> Cartag\[en\]a como puerto \[sic\] pr\[incip\]al del Reyno o de algunos
+> otros Puertos para ser conducidos a los interior de las Prov\[incia\]s
+> con destino al trato y comercio compongan carga, fardo, frangote,
+> caxon o petaca, omitiendola en los de poca consideracion y que sean
+> para el uso de los conductores, sus familias, u otros encargos
+> distintos de la negociasion. Que se observe la formalidad de las guias
+> sin la obligacion de tornaguias siempre, que esta capital, ó de la
+> Villa de Honda se lleven generos y frutos de Castilla destinados al
+> comercio interior de las prov\[incia\]s las quales guías deberan
+> manifestar los negociantes al Administrador o recaudador del Ramo de
+> Alcavala \[f. 46r\] para que al pie les ponga certificacion de lo que
+> hayan contribuido.
+>
+> Bien conozco que la obligacion de sacar Guias y presentar tornaguias
+> es el verdadero y unico modo de asegurar al Rey los Reales Derechos, y
+> evitar fraudes, pero como esta es la obligacion que estas gentes han
+> repugnado con mas terquedad, he tenido cuidado de suprimirles el
+> nombre salbando al mismo tiempo la realidad disponiendo se presenten
+> los Despachos a los respectibos Administradores de Alcavalas, y que
+> estos anoten en ellos lo que pagan por este R\[ea\]l Derecho. Es
+> constante que estos despachos deverian bolverlos los que los sacan a
+> sus respectivas oficinas de donde dimanaron para asegurar haver
+> contribuido con \[f. 46v\] todos los legitimos Dros \[Derechos\] y que
+> no se exageran los efectos de las Prov\[incia\]s ó Pueblos donde se
+> debieron llevar, que es en realidad la tornaguia, pero esta falta
+> podra repararse facilm\[ent\]e provid\[encia\]s particular\[e\]s para
+> dejar esta exaccion en el ultimo estado de perfeccion y no me parece
+> conven\[ien\]te intentar estrechar tanto y con tanta prontitud estas
+> gentes a reponer de un golpe todo lo que pocos meses hace creiamos
+> perdido por muchos años, el tiempo, la dulzura y el buen modo
+> conseguiran poco á poco lo que ahora se ha omitido.
+>
+> En mucha parte de este yndulto notara V. E. expresion\[e\]s que no
+> merecen estas gentes, pero hay ocasiones en que para decir á uno lo
+> que debe \[f. 47r\] hacer es menester suponer, y aun asegurar, que lo
+> ha hecho.
+>
+> Yo espero que esta disposicion meresca la aprovacion del Rey y de V.
+> E. como tan interesado en los aciertos rogando a V. E. se haga cargo
+> de la critica situacion en que se ha visto este Reyno, y que hay
+> crisis tan peligrosas y con tan violentas combulsiones, que es
+> menester cortarlas al instante sin reparar en las malas, ó buenas,
+> resultas de los medicamentos. Las que observamos todas son las
+> mejores, y el Reyno se halla en una perfecta tranquilidad, obedientes
+> los vasallos del Rey, y prontos todos á quanto se les mande, cuya
+> seguridad doy á V. E. con gran satisfaccion mia por la que resulta á
+> su Mag\[esta\]d \[f. 47v\] de ver enteram\[en\]te apagado el voras
+> fuego de la sedicion encendido en estos dominios.
+>
+> Nuestro Señor Guarde a V. E. muchos años
+>
+> Santa Fé 15 de Octubre de 1782
+>
+> B. L. M° de V. E. su mas reconocido capellan = An° Arzobispo de Santa
+> Fe
+>
+> *Excelentísimo Señor Don José de Galvez*
+
+Anexo 13. Real Decreto sobre indulto de militares procesados por delitos
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 53, ff. 188-189.
 Archivo Histórico de Medellín, Fondo Concejo de Medellín, SC Colonia, SR
@@ -1439,7 +1612,7 @@ Fecha: 10 de octubre de 1783
 > guarde á V. \_\_\_ muchos años. Madrid 10 de Octubre de 1783. = Don
 > Matéo de Villamayor.
 
-Anexo 13. Indulto general de 1784
+Anexo 14. Indulto general de 1784
 
 Fuente: AGNC, S Colonia, F Real Audiencia, SC Cundinamarca, leg. 17, ff.
 744r-745v.
@@ -1522,7 +1695,7 @@ Fecha: 16 de enero de 1784
 >
 > Fuy presente, Calvo.
 
-Anexo 14. Indulto de desertores de 1789
+Anexo 15. Indulto de desertores de 1789
 
 Fuente: Félix Colón de Larreátegui, *Juzgados militares de España y sus
 Indias,* tomo IV (Madrid: por la viuda de Ibarra, 1789), 193-194, n. 1.
@@ -1591,7 +1764,7 @@ Fecha: 16 de enero de 1789
 >
 > Don Gerónimo Caballero
 
-Anexo 15. Real Decreto de Carlos IV sobre indulto a los desertores del
+Anexo 16. Real Decreto de Carlos IV sobre indulto a los desertores del
 ejército con motivo del matrimonio de su hijo Fernando
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 50, f. 1091.
@@ -1650,7 +1823,7 @@ Fecha: 5 de octubre de 1802
 >
 > Sr. Virey de Santa Fé
 
-Anexo 16. Indulto de la pena de privación de empleo a oficiales que se
+Anexo 17. Indulto de la pena de privación de empleo a oficiales que se
 hubieran casado sin el Real permiso
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 11, ff. 984-985.
@@ -1693,7 +1866,7 @@ Fecha: 5 de octubre de 1802
 >
 > \[José Antonio\] Caballero
 
-Anexo 17. Real Cédula sobre indulto general concedido con motivo del
+Anexo 18. Real Cédula sobre indulto general concedido con motivo del
 matrimonio del Príncipe
 
 Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
@@ -1775,7 +1948,7 @@ Fecha: 25 de julio de 1803
 >
 > Yo El Rey
 
-Anexo 18. Indulto de desertores: decreto del gobierno peninsular al
+Anexo 19. Indulto de desertores: decreto del gobierno peninsular al
 respecto
 
 Fuente: AGNC, Colonia, fondo milicias y marina, tomo 100, f. 13.
@@ -1829,7 +2002,7 @@ Fecha: 29 de octubre de 1804
 >
 > Sr. Virrey del Nuevo Reyno de Granada
 
-Anexo 19. Real Decreto de José Napoleón por el que se otorga el indulto
+Anexo 20. Real Decreto de José Napoleón por el que se otorga el indulto
 general a los oficiales y soldados desertores que prestasen el juramento
 prescrito en la Constitución.
 
@@ -1919,7 +2092,7 @@ Fecha: 23 de julio de 1808
 >
 > Al Ministro de Negocios extranjeros
 
-Anexo 20. Indulto promulgado por el virrey Antonio Amar y Borbón
+Anexo 21. Indulto promulgado por el virrey Antonio Amar y Borbón
 
 Fuente: AGNC, Sección Colonia, Juicios Criminales, Leg. 2, doc. 14, ff.
 758r-761v
@@ -2028,7 +2201,7 @@ Fecha: 14 de octubre de 1808
 > ocho. = José Antonio Cortes = Es conforme con su original a que me
 > remito; y á efecto de pasarlo a la secretaria del Virreynato hise
 > sacar la presente que firmo en Santafe a veinte y quatro de octubre de
-> mil ocho cientos y ocho años= Ramon Bustamante
+> mil ocho cientos y ocho años= Ramon Bustamante.
 
 [^1]: En la transcripción de Colón de Larriátegui: \"Asimismo usando de
     su Real benignidad\...\" \[\"circular a los Capitanes Generales e
@@ -2038,3 +2211,25 @@ Fecha: 14 de octubre de 1808
 [^2]: \"Y ha declarado S.M.\" Colón de Larriátegui, *Juzgado militares*.
 
 [^3]: Hasta aquí cédula copiada por Colón de Larriátegui.
+
+[^4]: *Diccionario de Autoridades*: "El peso que lleva, o puede llevar
+    sobre sí el hombre o la béstia, transportándole de una parte a otra,
+    como tambien el carro o la nave."
+
+[^5]: *Diccionario de Autoridades*: "Lio grande de ropa, mui ajustada y
+    apretada, para poder llevarla de una parte a otra, lo que se hace
+    regularmente con las mercadurías que se han de transportar, y se
+    cubre con harpillera o lienzo embreado o encerado, para que no se
+    maltraten con los temporales."
+
+[^6]: *Diccionario de Autoridades*: "Especie de fardo, que es mayor o
+    menor que los regulares de dos en carga. Es término del Comercio
+    marítimo."
+
+[^7]: *Diccionario de Autoridades*: "La caxa grande, que clavada la tapa
+    con sus clavos al rededor, sirve para llevar de unas partes a otras
+    los géneros y cosas con seguridad, sin que se lastimen, ni
+    registren, por los que las condúcen."
+
+[^8]: *Diccionario de Autoridades*: "Especie de arca hecha de cueros o
+    pellejos fuertes, o de madera cubierta de ellos."

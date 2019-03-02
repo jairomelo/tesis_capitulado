@@ -412,7 +412,7 @@ aunque limitados a la jurisdicción de dominio del virrey.
 Es de esperar que este tipo de indultos no fueran comunes. De hecho,
 solamente fueron expedidos dos decretos de este tipo mientras duró el
 cargo de virrey del Nuevo Reino, el primero fue expedido por el
-arzobispo virrey Caballero y Góngora el 7 de agosto de 1782, meses
+arzobispo-virrey Caballero y Góngora el 7 de agosto de 1782, meses
 después de culminadas las acciones del levantamiento de los comunes del
 Socorro; y el segundo fue el mencionado indulto del virrey Amar y
 Borbón, expedido el 14 de octubre de 1808, en celebración del cumpleaños
@@ -583,7 +583,7 @@ No es exagerado afirmar que la Audiencia deseaba que la ejecución de
 Galán tuviese un gran impacto en aquellos que asistieran al suplicio o
 supieran de él por vía del rumor o la noticia. La sentencia por lesa
 majestad cumplió con lo determinado de manera ordinaria, pero se
-incluyeron algunos "toques macabras" (como los caracterizó Phelan).
+incluyeron algunos "toques macabros" (como los caracterizó Phelan).
 Galán fue penado con morir ahorcado, que su cuerpo fuera decapitado y
 dividido en cuatro partes, ordenándose que los restos se quemaran y los
 miembros distribuidos por los escenarios de la revuelta. La cabeza
@@ -632,7 +632,7 @@ setecientos ochenta y uno".[^79] Desde el punto de vista formal, el
 indulto fue dividido en 13 capítulos, que se pueden agrupar en tres
 secciones. Del numeral 1 al 5 las cláusulas relativas a la remisión de
 los culpados por la rebelión, del 6 al 9 las promesas para la felicidad
-pública del reino, y desde el apartado 10 se convierte en una
+pública del reino, y desde el apartado 11 se convierte en una
 exhortación a los vasallos para el requerido obedecimiento y sumisión a
 la autoridad real. El edicto fue distribuido en un impreso de 20
 cuartillas y puede considerarse como uno de los primeros impresos de
@@ -651,36 +651,36 @@ fraile Raymundo Azuero leída después del suplicio de Galán y sus
 cómplices, la cual se tituló *Premios a la obediencia: castigos a la
 inobediencia*.[^80]
 
-El edicto representó mucho más que un indulto general del arzobispo
-virrey, consistió en una declaración de un plan de reforma al virreinato
-en el cual se ofrecía una mano blanda para la justicia y las demandas
-fiscales, a la vez que se prometía la prosperidad del virreinato.
-Anthony McFarlane incluso consideró que en el texto del indulto estaba
-señalado el compromiso por un "nuevo pacto colonial, en el cual la
-corona ofreció los frutos del progreso económico a cambio de la
-obediencia incondicional a la autoridad real".[^81] Es evidente que la
-rebelión de los comunes del Nuevo Reino trajo como consecuencia un afán
-por revitalizar la conciencia del lazo entre los vasallos americanos y
-la Corona, que se puede interpretar al modo de François-Xavier Guerra
-como el "renacimiento del pactismo",[^82] y en este sentido fue la
-expresión del paternal amor, clemencia, piedad, y fraternal corrección
-del rey hacia sus vasallos, que debía corresponderse moralmente con la
-lealtad y obediencia del súbdito.[^83] A diferencia de la donación
-ofrecida por el indulto general, este ofrecimiento exigía y esperaba una
-respuesta superior de los agraciados, pues no sólo se les daba su
-libertad sino se les ofrecía el retorno a la fama, mercedes y
-privilegios que podrían haber perdido si no se hubiese otorgado dicha
-dádiva.
+El edicto representó mucho más que un indulto general del
+arzobispo-virrey, consistió en una declaración de un plan de reforma al
+virreinato en el cual se ofrecía una mano blanda para la justicia y las
+demandas fiscales, a la vez que se prometía la prosperidad del
+virreinato. Anthony McFarlane incluso consideró que en el texto del
+indulto estaba señalado el compromiso por un "nuevo pacto colonial, en
+el cual la corona ofreció los frutos del progreso económico a cambio de
+la obediencia incondicional a la autoridad real".[^81] Es evidente que
+la rebelión de los comunes del Nuevo Reino trajo como consecuencia un
+afán por revitalizar la conciencia del lazo entre los vasallos
+americanos y la Corona, que se puede interpretar al modo de
+François-Xavier Guerra como el "renacimiento del pactismo",[^82] y en
+este sentido fue la expresión del paternal amor, clemencia, piedad, y
+fraternal corrección del rey hacia sus vasallos, que debía
+corresponderse moralmente con la lealtad y obediencia del súbdito.[^83]
+A diferencia de la donación ofrecida por el indulto general, este
+ofrecimiento exigía y esperaba una respuesta superior de los agraciados,
+pues no sólo se les daba su libertad sino se les ofrecía el retorno a la
+fama, mercedes y privilegios que podrían haber perdido si no se hubiese
+otorgado dicha dádiva.
 
 Afortunadamente contamos con una clave de lectura para interpretar la
 intencionalidad del texto representada en la carta que le envió el
-arzobispo virrey a José de Gálvez, adjunta a seis copias del indulto, en
+arzobispo-virrey a José de Gálvez, adjunta a seis copias del indulto, en
 la cual le explicó los motivos por los cuales incluyó ciertos puntos en
 el edicto. En la comunicación le dice al Secretario de Indias que el
 indulto lo promulgó "con el único y preferente objeto de dar puntual
 cumplimiento a quanto Su Magestad manda, y radicar más la tranquilidad
 conseguida en esos vastos Dominios".[^84] Más interesante aún es el
-hecho de que casi al finalizar su escrito el arzobispo virrey le haya
+hecho de que casi al finalizar su escrito el arzobispo-virrey le haya
 dicho a Gálvez: "En mucha parte de este yndulto notará V. E. expresiones
 que no merecen estas gentes, pero hay ocasiones en que para decir a uno
 lo que debe hacer es menester suponer, y aun asegurar, que lo há
@@ -723,10 +723,129 @@ sino con la condición de una "pronta y sincera conversión al
 soberano".[^87] Puede afirmarse que fue un indulto carente de virtud,
 desprovisto de clemencia y paternal amor. Al rey se le describe como
 "amable Soberano", el "más benigno y más liberal de los Monarcas", pero
-hay que resaltar que el arzobispo virrey se describía a sí mismo como
+hay que resaltar que el arzobispo-virrey se describía a sí mismo como
 "Padre y Pastor de una Grey", que ahora investido de autoridad tendría
 la capacidad para incrementar las gracias y beneficios que la
 liberalidad del rey se dignaría en concederles por su mediación.
+
+El indulto tampoco enunciaba los delitos incluidos o excluidos de la
+gracia, tan sólo advierte que el perdón no abarcaba los derechos de
+terceros o del Real Fisco. Incluía sí a los reos presos y a los acusados
+ausentes que se presentaren en el plazo de un año, cuyas causas no
+serían tratadas por las justicias ordinarias sino deberías ser remitidas
+a la Real Audiencia para continuar los procedimientos en dicho tribunal
+y evitar que quedaran testimonios en los juzgados locales.[^88] En este
+sentido, abarcaba a los acusados de haber hecho parte de la sublevación,
+dejando a arbitrio del juez la gama de delitos que podía remitir y la
+acción a tomar dependiendo de la etapa procesal en la que se encontrara
+el reo. La costumbre especificaba que la base de los levantamientos
+quedaba indultada con el simple hecho de regresar a sus casas; de hecho,
+en 1774 una pragmática sanción de Carlos III determinó que en caso de
+conmoción popular, "todos los bulliciosos, que obedecieren, retirandose
+pacificamente al punto que se publique el Vando \[que los conminaba al
+orden\], quedarán indultados, á excepcion solamente de los que
+resultaren autores del bullicio, ó conmocion popular, pues en quanto á
+éstos, no ha de tener lugar indulto alguno".[^89]
+
+El indulto específicamente incluía a los denominados capitanes de los
+comuneros, quienes habrían tenido "la desgracia de acaudillar gentes y
+mandar tropas sublevadas".[^90] Librar a los cabecillas del castigo
+puede caracterizarse como un aspecto "controversial" del indulto del
+arzobispo-virrey. Como se indicó anteriormente,[^91] la práctica de la
+clemencia real prevenía que se castigasen los líderes del levantamiento,
+que sirvieran como ejemplo, y poder demostrar la piedad con los demás
+partícipes de las sublevaciones. Hábilmente, el indulto indicaba que la
+ejemplaridad del castigo había sido conseguida con el suplicio de Galán
+y sus cómplices, con lo cual quedaría "satisfecha la Justicia" a la vez
+que se habría escarmentado a los seguidores del "jefe
+invulnerable".[^92] Públicamente, Caballero y Góngora lo justificó de
+tres maneras: los capitanes fueron forzados por la turba, aceptaron los
+cargos para evitar mayores estragos, se vieron impulsados "por un efecto
+de su errónea y punible ignorancia".[^93] De esta manera, no serían
+caudillo en sentido estricto, pues no se les podría acusar de haber
+liderado la rebelión de manera premeditada; al contrario, su inopia los
+haría dignos de misericordia.[^94] En efecto, la remisión fue de lo más
+amplia pues no sólo les perdonaba y libraba de la pena, además restituía
+la fama de los líderes quienes quedaron declarados como "habilitados
+para que sin aquella infame nota que trahe consigo el negro título de
+Capitan de Levantados, puedan obtener, y exercer todos los empleos
+honoríficos, civiles y militares, á que sean acreedores por su
+mérito".[^95]
+
+En la carta a Gálvez, el prelado advertía que había omitido
+cuidadosamente del segundo capítulo del indulto las palabras "motores,
+autores y cabezas del motín", por lo que la ambigüedad en la
+determinación de los comprehendidos en el indulto era parte de la
+estrategia política de Caballero y Góngora para dejar el campo abierto a
+"providencias posteriores" que pudieran llevarse a cabo para enjuiciar a
+los líderes de la rebelión.[^96] Además, indicó que el haber incluido a
+los titulados como capitanes, que al parecer se podían diferenciar de
+las "cabezas" de la sublevación, había sido una medida que había tomado
+"pues de otro modo era imposible sosegar los recelos de los principales
+sugetos de los Pueblos, ni establecer solidamente la tranquilidad
+publica del Reyno". Según el arzobispo-virrey, la información con la
+cual Flórez determinaba que las capitulaciones habían sido invalidadas,
+y con ello el indulto que en éstas se exigía, se filtró en el pueblo de
+Nemocón y por ello se presentó nuevamente la revuelta. El malestar se
+habría originado porque los habitantes de dicho pueblo confundieron a
+los motores de la revuelta con los capitanes, estos últimos sujetos del
+indulto acordado con el virrey Pimienta como fue tratado en las
+capitulaciones.[^97]
+
+En la comunicación se enuncia una cuarta justificación para incluir a
+los capitanes en el indulto general, y consistía en que si se castigaban
+a estos sujetos, que habían sido forzados por la turba y llevados contra
+su voluntad a dirigir la rebelión, el gobierno de la república quedaría
+en manos de "gente rústica e incapaz de administrar recta
+justicia".[^98] Afirmaba el virrey que los capitanes eran principales,
+hacendados y vecinos distinguidos, que habían sido forzados a participar
+precisamente por las calidades que tenían. Dejar en poder de la gleba a
+las alcaldías conllevaría el riesgo de que la justicia fuera utilizada
+para iniciar vindictas personales, pues según lo habría visto en el
+Nuevo Reino, sus habitantes no demostraban amor al prójimo y por ello
+estaban continuamente calumniándose "con los más ligeros motivos".[^99]
+
+Por otra parte, en el indulto se hacía explícito que sería recompensada
+la "heoryca lealtad" de Salvador Plata y sus acaudillados por haber
+aprehendido a la hueste de Galán, con lo cual se habría quitado "el
+negro borron a su Patria" al evitar que se propagara la rebelión por las
+demás provincias. Caballero y Góngora conecta hábilmente el heroísmo del
+otrora capitán comunero con el hacerse digno de merced y el olvido para
+conseguir la restitución. Valga recordar que una de las máximas del
+indulto era que éste remitía la pena pero no borraba la infamia, por lo
+cual una orden para "borrar, si fuere posible, de la memoria de las
+gentes aquel triste monumento de infidelidad" representaba la
+recuperación del honor perdido por las ciudades que fueron escenarios de
+la insolencia.[^100] Por una parte, el arzobispo virrey ejecutó una
+acción de benignidad al ordenar que los miembros de Galán y las cabezas
+de los demás ajusticiados se retiraran de la vista del público y se les
+diese cristiana sepultura a unos hombres que "que públicamente
+arrepentidos borraron sus delitos con sus lagrymas, y su
+penitencia".[^101] Por otra parte, estaba concediendo un indulto a la
+provincia, algo que había explicado López de Cuéllar en su tratado sobre
+los indultos:
+
+> Siendo cierto, como lo es, que la Ciudad puede delinquir, y se la
+> puede castigar \[\...\] Tambien lo es que el Principe á las Ciudades,
+> Provincias, y Reynos, que delinquen, y sacudiendo el yugo de la
+> obediencia se revelan, si conociendo su error rendidos obedecen su
+> Imperio, puede perdonarlas, y restituyrlas á su antigua fama, y
+> privilegios, que por su delito avian perdido.[^102]
+
+Como lo expresó en el indulto y en la carta a Gálvez, la tranquilidad de
+la provincia y el haber contribuido a la captura de Galán eran evidencia
+suficiente de la humillación de las provincias infames. La
+reconciliación de la ciudad no se acompañó de una ceremonia de
+humillación pública que ratificara la lealtad y el ofrecimiento del
+perdón,[^103] como sucedió en Quito tras la "rebelión de los barrios" de
+1765.[^104] Por lo tanto, el hecho de retirar los miembros mutilados de
+las villas de Socorro, San Gil, y los pueblos de Guaduas, Charalá y
+Mogotes, se consideraría como suficiente para representar la vuelta de
+estos poblados a la gracia del rey.
+
+*Un párrafo acerca de las reformas fiscales*
+
+*Un párrafo acerca del exhorto -- nuevo pacto*
 
 [^1]: María Asenjo-González, "Función pacificadora y judicial de los
     corregidores en las villas y ciudades castellanas, a fines de la
@@ -1080,7 +1199,7 @@ liberalidad del rey se dignaría en concederles por su mediación.
 
 [^78]: Phelan, 308--10.
 
-[^79]: BNC, Fondo Quijano, vol. 254, pza. 10. **Véase anexo XX**
+[^79]: BNC, Fondo Quijano, vol. 254, pza. 10. **Véase anexo 11**
 
 [^80]: Francisco Ortega Martínez, "La publicidad ilustrada y el concepto
     de opinión pública en la Nueva Granada", *Fronteras de la Historia*
@@ -1106,10 +1225,57 @@ liberalidad del rey se dignaría en concederles por su mediación.
     de 1782, BLAA-RM, MSS756, vol. 1, ff. 41r-41v. Otra copia se puede
     consultar en "No. 3, el Arzobispo virrey de Santa Fe dirije seis
     exemplares del yndulto...", AGI, Santa Fe, 594. Incluyo la
-    transcripción en el **anexo XXI**
+    transcripción en el **anexo 12**
 
 [^85]: "Caballero y Góngora a José de Gálvez", f. 46v-47r.
 
 [^86]: "Caballero y Góngora a José de Gálvez", f. 47r.
 
 [^87]: "Edicto para manifestar al público", cap. I.
+
+[^88]: "Edicto para manifestar al público", cap. IV.
+
+[^89]: "Pragmatica sancion de S. M. en fuerza de ley, por la qual se
+    prescribe el orden con que se ha de proceder contra los que causen
+    bullicios ó commociones populares", (Madrid: Imprenta de Pedro
+    Marin, 1774), Universidad de Sevilla, Biblioteca Rector Machado y
+    Núñez, Fondo Antiguo, A 113/136.
+
+[^90]: "Edicto para manifestar al público", cap. III.
+
+[^91]: *Ut* *supra* núm. 1.1, nota 45.
+
+[^92]: "Edicto para manifestar al público", cap. V.
+
+[^93]: Edicto para manifestar al público", cap. III.
+
+[^94]: *Ut supra* cap. 2.4
+
+[^95]: Edicto para manifestar al público", cap. III. *Ut supra* cap.
+    2.1.1.
+
+[^96]: "Caballero y Góngora a José de Gálvez", ff. 41v-42r.
+
+[^97]: "Caballero y Góngora a José de Gálvez", f. 42r.
+
+[^98]: "Caballero y Góngora a José de Gálvez", f. 44v.
+
+[^99]: "Caballero y Góngora a José de Gálvez", f. 44r. Phelan, *El
+    pueblo y el rey*, 311.
+
+[^100]: *Ut supra* cap. 2.1.1. y 2.1.2.
+
+[^101]: "Edicto para manifestar al público", cap. V.
+
+[^102]: López de Cuéllar, *Tratado iuridico-politico*, núm. 51.
+
+[^103]: Verónica Salazar Baena afirma que dicha reconciliación se dio
+    con las ceremonias de juramentación de Carlos IV en 1789, "Fastos
+    monárquicos", 387.
+
+[^104]: Anthony McFarlane, "The Rebellion of the 'Barrios': Urban
+    Insurrection in Bourbon Quito", en *Reform and Insurrection in
+    Bourbon New Granada and Peru*, ed. John R Fisher, Allan J Kuethe, y
+    Anthony McFarlane (Baton Rouge: Louisiana State University Press,
+    1990), 238. Trataremos con detalle el perdón de Quito en el
+    siguiente capítulo.
