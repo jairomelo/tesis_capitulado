@@ -24,230 +24,230 @@ Dr. Víctor Gayol, El Colegio de Michoacán
 
 **[Índice]{.smallcaps}**
 
-[[Presentación]{.underline} 3](#presentación)
+[[Presentación]{.underline} 5](#presentación)
+
+[[Particularidades del avance]{.underline}
+12](#particularidades-del-avance)
 
 [[Capítulo I. La clemencia en el gobierno de la virtud]{.underline}
-4](#_Toc2547196)
+15](#_Toc2603615)
 
 [[1.1.]{.underline} [La clemencia en la dialéctica
-temor-amor]{.underline} 9](#la-clemencia-en-la-dialéctica-temor-amor)
+temor-amor]{.underline} 20](#la-clemencia-en-la-dialéctica-temor-amor)
 
 [[1.2.]{.underline} [La autoridad y la clemencia]{.underline}
-16](#la-autoridad-y-la-clemencia)
+27](#la-autoridad-y-la-clemencia)
 
 [[1.3.]{.underline} [El perdón como resultado virtuoso de la clemencia y
 la gracia]{.underline}
-21](#el-perdón-como-resultado-virtuoso-de-la-clemencia-y-la-gracia)
+32](#el-perdón-como-resultado-virtuoso-de-la-clemencia-y-la-gracia)
 
 [[1.3.1.]{.underline} [El perdón como resultado de la
-clemencia]{.underline} 24](#el-perdón-como-resultado-de-la-clemencia)
+clemencia]{.underline} 35](#el-perdón-como-resultado-de-la-clemencia)
 
 [[1.3.2.]{.underline} [El perdón como gracia]{.underline}
-31](#el-perdón-como-gracia)
+42](#el-perdón-como-gracia)
 
 [[1.4.]{.underline} [La clemencia en el pensamiento
 dieciochesco]{.underline}
-34](#la-clemencia-en-el-pensamiento-dieciochesco)
+45](#la-clemencia-en-el-pensamiento-dieciochesco)
 
 [[Capítulo II. El perdón en el orden normativo]{.underline}
-41](#capítulo-ii.-el-perdón-en-el-orden-normativo)
+52](#capítulo-ii.-el-perdón-en-el-orden-normativo)
 
 [[2.1.]{.underline} [Normatividad y perdón]{.underline}
-42](#normatividad-y-perdón)
+53](#normatividad-y-perdón)
 
 [[2.1.1.]{.underline} [Perdón, indulto y restitución]{.underline}
-45](#perdón-indulto-y-restitución)
+56](#perdón-indulto-y-restitución)
 
 [[2.1.2.]{.underline} [El olvido como condición del perdón]{.underline}
-49](#el-olvido-como-condición-del-perdón)
+60](#el-olvido-como-condición-del-perdón)
 
 [[2.2.]{.underline} [Clasificación de los perdones]{.underline}
-52](#clasificación-de-los-perdones)
+63](#clasificación-de-los-perdones)
 
 [[2.3.]{.underline} [Delitos excluidos del perdón]{.underline}
-59](#delitos-excluidos-del-perdón)
+70](#delitos-excluidos-del-perdón)
 
 [[2.4.]{.underline} [El privilegio de los dignos de
 misericordia]{.underline}
-67](#el-privilegio-de-los-dignos-de-misericordia)
+78](#el-privilegio-de-los-dignos-de-misericordia)
 
 [[Capítulo III. El indulto y perdón general]{.underline}
-73](#capítulo-iii.-el-indulto-y-perdón-general)
+84](#capítulo-iii.-el-indulto-y-perdón-general)
 
 [[3.1.]{.underline} [La motivación del perdón general]{.underline}
-76](#la-motivación-del-perdón-general)
+87](#la-motivación-del-perdón-general)
 
 [[3.2.]{.underline} [Piedad e "indulgencia general"]{.underline}
-81](#piedad-e-indulgencia-general)
+93](#piedad-e-indulgencia-general)
 
 [[3.3.]{.underline} [De los delitos exceptuados y aceptados]{.underline}
-86](#de-los-delitos-exceptuados-y-aceptados)
+97](#de-los-delitos-exceptuados-y-aceptados)
 
 [[3.4.]{.underline} [El plazo para acogerse a la gracia, la *abolitio* y
 la *dilatio*]{.underline}
-89](#el-plazo-para-acogerse-a-la-gracia-la-abolitio-y-la-dilatio)
+100](#el-plazo-para-acogerse-a-la-gracia-la-abolitio-y-la-dilatio)
 
 [[3.5.]{.underline} [El impacto de los indultos generales]{.underline}
-96](#el-impacto-de-los-indultos-generales)
+107](#el-impacto-de-los-indultos-generales)
 
 [[Capítulo IV. La facultad clemente del virrey]{.underline}
-113](#capítulo-iv.-la-facultad-clemente-del-virrey)
+124](#capítulo-iv.-la-facultad-clemente-del-virrey)
 
 [[4.1.]{.underline} [La facultad virreinal para perdonar
-delitos]{.underline} 117](#la-facultad-virreinal-para-perdonar-delitos)
+delitos]{.underline} 128](#la-facultad-virreinal-para-perdonar-delitos)
 
 [[4.2.]{.underline} [El indulto general a nombre del rey]{.underline}
-124](#el-indulto-general-a-nombre-del-rey)
+135](#el-indulto-general-a-nombre-del-rey)
 
 [[4.2.1.]{.underline} [El indulto general de 1782]{.underline}
-126](#el-indulto-general-de-1782)
+137](#el-indulto-general-de-1782)
 
-[[4.2.2.]{.underline} [El indulto general de Amar y Borbón]{.underline}
-141](#_Toc2547220)
+[[ANEXOS]{.underline} 153](#anexos)
 
-[[ANEXOS]{.underline} 143](#anexos)
+[[Abreviaturas]{.underline} 195](#abreviaturas)
 
-[[Abreviaturas]{.underline} 184](#abreviaturas)
+[[Referencias]{.underline} 196](#referencias)
 
-[[Referencias]{.underline} 185](#referencias)
+[[Archivos]{.underline} 196](#archivos)
 
-[[Archivos]{.underline} 185](#archivos)
+[[Fuentes seriadas]{.underline} 197](#fuentes-seriadas)
 
-[[Fuentes seriadas]{.underline} 186](#fuentes-seriadas)
-
-[[Libros manuscritos]{.underline} 186](#libros-manuscritos)
+[[Libros manuscritos]{.underline} 197](#libros-manuscritos)
 
 [[Fuentes primarias impresas]{.underline}
-186](#fuentes-primarias-impresas)
+197](#fuentes-primarias-impresas)
 
-[[Recursos digitales]{.underline} 190](#recursos-digitales)
+[[Recursos digitales]{.underline} 201](#recursos-digitales)
 
-[[Software]{.underline} 191](#software)
+[[Software]{.underline} 202](#software)
 
 [[Referencias bibliográficas]{.underline}
-191](#referencias-bibliográficas)
+202](#referencias-bibliográficas)
 
 **[Tablas]{.smallcaps}**
 
 [[Tabla 1. Indultos generales decretados entre 1707 y 1810]{.underline}
-75](#_Ref533024362)
+86](#_Ref533024362)
 
 **[Gráficos]{.smallcaps}**
 
 [[Gráfico 1. Casos por homicidio vistos en la Real Audiencia de Santa Fe
 e indultos concedidos por ese delito entre 1700 y 1810]{.underline}
-104](#_Toc2547372)
+115](#_Toc2603650)
 
 [[Gráfico 2. Tipos de sentencias por homicidio dadas por los oidores de
-la Audiencia de Santa Fe, 1700-1810]{.underline} 108](#_Ref1144260)
+la Audiencia de Santa Fe, 1700-1810]{.underline} 119](#_Ref1144260)
 
 **[Mapas]{.smallcaps}**
 
 [[Mapa 1. Distribución geográfica de los indultos a homicidas, Audiencia
-de Santa Fe, 1760-1804]{.underline} 110](#_Ref1064261)
+de Santa Fe, 1760-1804]{.underline} 121](#_Ref1064261)
 
 [[Mapa 2. Casos por homicidio vistos por la Audiencia de Santa Fe entre
-1700 y 1810]{.underline} 111](#_Ref2546549)
+1700 y 1810]{.underline} 122](#_Ref2546549)
 
 [[Mapa 3. Superposición de los casos por homicidio e indultos que
 cursaron por la Audiencia de Santa Fe, 1700-1810]{.underline}
-112](#_Ref2546526)
+123](#_Ref2546526)
 
 **[Anexos]{.smallcaps}**
 
 [[Anexo 1. Para que el Virrey de Nueva España y Gobernadores de aquel
 Reino, hagan publicar por bando lo resuelto por V. M. sobre que no se
 admitan a indulto las causas de ilícito comercio]{.underline}
-144](#_Toc530310418)
+153](#_Toc530310418)
 
 [[Anexo 2. Perdón general del virrey Sebastián de Eslava a los soldados
-de Cartagena]{.underline} 145](#_Toc508001345)
+de Cartagena]{.underline} 154](#_Toc508001345)
 
 [[Anexo 3. Cedula de S. M. concediendo indulto general a todo género de
 personas, cuyos delitos no merezcan la pena ordinaria de
-muerte]{.underline} 146](#_Toc530310419)
+muerte]{.underline} 156](#_Toc530310419)
 
 [[Anexo 4. Cédula de S. M. concediendo indulto general a todos los
 desertores de las tropas de tierra, armadas navales, y milicias
 regladas, que se presentaren dentro del término de tres meses siguientes
-a su publicación]{.underline} 148](#_Toc530310420)
+a su publicación]{.underline} 157](#_Toc530310420)
 
 [[Anexo 5. Real Cédula facultando al Virrey para perdonar
-delitos]{.underline} 149](#_Toc530310421)
+delitos]{.underline} 158](#_Toc530310421)
 
 [[Anexo 6. Indulto general de Carlos III con motivo de su exaltación al
-trono (1760) y recepción en Santa Fe]{.underline} 150](#_Toc530310422)
+trono (1760) y recepción en Santa Fe]{.underline} 160](#_Toc530310422)
 
 [[Anexo 7. Auto de obedecimiento de la cédula de indulto de Carlos III
 en la ciudad de Antioquia y villa de Medellín]{.underline}
-153](#_Toc530310423)
+163](#_Toc530310423)
 
 [[Anexo 8. Representación de la tropa levantada en Panamá en
-1766]{.underline} 154](#_Toc508001346)
+1766]{.underline} 164](#_Toc508001346)
 
 [[Anexo 9. Orden de indulto para quienes estuvieran presos por varios
 delitos, con exclusión de los reos por crímenes de lesa
-majestad]{.underline} 157](#_Toc530310424)
+majestad]{.underline} 166](#_Toc530310424)
 
 [[Anexo 10. Real Cédula de indulto y perdón general a todos los reos,
 concedida por el nacimiento del príncipe don Carlos Domingo
-Eusebio]{.underline} 158](#_Toc530310425)
+Eusebio]{.underline} 168](#_Toc530310425)
 
 [[Anexo 11. Edicto para manifestar al público el indulto general,
 concedido por nuestro Católico Monarca el Señor Don Carlos III a todos
 los comprehendidos en las revoluciones acaecidas en el año pasado de mil
-setecientos ochenta y uno]{.underline} 160](#_Toc530310426)
+setecientos ochenta y uno]{.underline} 169](#_Toc530310426)
 
 [[Anexo 12. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
 indulto que ha concedido a los compreendidos en las alteraciones pasadas
 y hace distintas reflexiones acalarando las razones que ha tenido para
-expedirlo en los términos que está]{.underline} 169](#_Toc2547604)
+expedirlo en los términos que está]{.underline} 178](#_Toc2603666)
 
 [[Anexo 13. Real Decreto sobre indulto de militares procesados por
-delitos]{.underline} 171](#_Toc530310427)
+delitos]{.underline} 181](#_Toc530310427)
 
-[[Anexo 14. Indulto general de 1784]{.underline} 173](#_Toc530310428)
+[[Anexo 14. Indulto general de 1784]{.underline} 183](#_Toc530310428)
 
 [[Anexo 15. Indulto de desertores de 1789]{.underline}
-175](#_Toc530310429)
+184](#_Toc530310429)
 
 [[Anexo 16. Real Decreto de Carlos IV sobre indulto a los desertores del
 ejército con motivo del matrimonio de su hijo Fernando]{.underline}
-176](#_Toc530310430)
+186](#_Toc530310430)
 
 [[Anexo 17. Indulto de la pena de privación de empleo a oficiales que se
-hubieran casado sin el Real permiso]{.underline} 177](#_Toc530310431)
+hubieran casado sin el Real permiso]{.underline} 187](#_Toc530310431)
 
 [[Anexo 18. Real Cédula sobre indulto general concedido con motivo del
-matrimonio del Príncipe]{.underline} 178](#_Toc530310432)
+matrimonio del Príncipe]{.underline} 188](#_Toc530310432)
 
 [[Anexo 19. Indulto de desertores: decreto del gobierno peninsular al
-respecto]{.underline} 179](#_Toc530310433)
+respecto]{.underline} 189](#_Toc530310433)
 
 [[Anexo 20. Real Decreto de José Napoleón por el que se otorga el
 indulto general a los oficiales y soldados desertores que prestasen el
 juramento prescrito en la Constitución.]{.underline}
-180](#_Toc530310434)
+190](#_Toc530310434)
 
 [[Anexo 21. Indulto promulgado por el virrey Antonio Amar y
-Borbón]{.underline} 182](#_Toc2547613)
+Borbón]{.underline} 192](#_Toc2603675)
 
 Presentación
 ============
 
-> Considerando muy sabiamente, aquel Monarcha de nuestra España, el
-> señor Henrique Quarto, que en el Soberano, para acreditar su rectitud,
-> había de concurrir un cúmulo de virtudes, entre las quales no habían
-> de obtener el menor lugar la Seberidad, y la Clemencia; quiso añadir á
-> sus Armas un geroglifico expresivo de estas prendas: colocó, pues, en
-> éllas la Granada, como fruto, en quien se dejan vér unidas la acritud,
-> y la dulzura \[...\] Esta divisa, con que quiso adornar aquel Sabio
-> Rey sus Armas, és, óh muy Ylustre Cabildo, la singular prerrogativa,
-> que goza esta muy noble Ciudad de Santa Fé; pues se dignó nuestro
-> Catholico Monarcha concederle, por escudo de las suyas, una Águila
-> Real con dos granadas; acaso para dar á conocer, quanto desea, que en
-> sus Ministros y Tribunales resplandezca aquel prudente gobierno, que
-> en las dulzuras de la Misericordia, junta lo acre de la justicia.
+Considerando muy sabiamente, aquel Monarcha de nuestra España, el señor
+Henrique Quarto, que en el Soberano, para acreditar su rectitud, había
+de concurrir un cúmulo de virtudes, entre las quales no habían de
+obtener el menor lugar la Seberidad, y la Clemencia; quiso añadir á sus
+Armas un geroglifico expresivo de estas prendas: colocó, pues, en éllas
+la Granada, como fruto, en quien se dejan vér unidas la acritud, y la
+dulzura \[...\] Esta divisa, con que quiso adornar aquel Sabio Rey sus
+Armas, és, óh muy Ylustre Cabildo, la singular prerrogativa, que goza
+esta muy noble Ciudad de Santa Fé; pues se dignó nuestro Catholico
+Monarcha concederle, por escudo de las suyas, una Águila Real con dos
+granadas; acaso para dar á conocer, quanto desea, que en sus Ministros y
+Tribunales resplandezca aquel prudente gobierno, que en las dulzuras de
+la Misericordia, junta lo acre de la justicia.
 
 Fray Raymundo Azero, *Premios de la obediencia: castigos de la
 inobediencia*.
@@ -521,15 +521,16 @@ el efecto jurídico del perdón general (libertad, remisión de la pena,
 restitución, efectos a futuro, costas y costos); y el proceso para
 acceder al indulto, desde la promulgación hasta la decisión final. El
 capítulo 4° es el más incompleto de la entrega, comprende la idea
-general del apartado, pero queda por desarrollar las particularidades
-del indulto general promulgado por el virrey Amar y Borbón en octubre de
-1808, en el marco de las ceremonias y actividades que tuvo como
-resultado la jura de Fernando VII y el reconocimiento de la autoridad de
-la Junta de Sevilla. Por otra parte, ese capítulo deberá dar cuenta de
-la negociación de la facultad de perdonar entre el virrey y las
-autoridades provinciales, especialmente durante el mando de Sebastián de
-Eslava; y de la concesión de perdones particulares que hicieron algunos
-virreyes amparados en la facultad plasmada en las "leyes de Indias".
+general pero queda por desarrollar las particularidades del indulto
+general promulgado por el virrey Amar y Borbón en octubre de 1808, en el
+marco de las ceremonias y actividades que tuvo como resultado la jura de
+Fernando VII y el reconocimiento de la autoridad de la Junta de Sevilla.
+Por otra parte, ese capítulo deberá dar cuenta de la negociación de la
+facultad de perdonar entre el virrey y las autoridades provinciales,
+especialmente durante el mando de Sebastián de Eslava; y de la concesión
+de perdones particulares que hicieron algunos virreyes amparados en la
+facultad plasmada en las "leyes de Indias", por lo que debería ampliarse
+en por lo menos dos subcapítulos.
 
 Respecto a los capítulos posteriores, se plantea la redacción de cuatro
 apartados más. El primero, dedicado a profundizar el ejercicio del
@@ -552,7 +553,7 @@ autoridad monárquica, específicamente la conspiració de Gual y España en
 Caracas (1797), la "rebelión de los pasquines" de Santa Fe (1794), y la
 creación de la efímera Junta Suprema de Quito (1809).
 
-[]{#_Toc2547196 .anchor}**[Capítulo I. La clemencia en el gobierno de la
+[]{#_Toc2603615 .anchor}**[Capítulo I. La clemencia en el gobierno de la
 virtud]{.smallcaps}**
 
 En abril de 1745 la plaza de Cartagena fue amenazada por el
@@ -2754,10 +2755,10 @@ fueron motivadas por el nacimiento de un príncipe (1628, 1657, 1662,
 1667, 1668), pero hubo otros motivos como la llegada del príncipe de
 Gales a la península en 1623, la celebración de la victoria militar en
 1652, la firma del tratado de paz entre Francia y España en 1679,[^354]
-y la recuperación de la salud de Carlos II en 1697.[^355] Muchos de
-estos indultos abarcaron a toda la monarquía, cuya aplicación era
-encargada a los virreyes y sus Audiencias, quienes se delegaban para
-distribuir copias de las cédulas en su jurisdicción.[^356]
+y la recuperación de la salud de Carlos II en 1697.[^355] La aplicación
+de estos indultos, específicamente los que abarcaban toda la monarquía,
+era encargada a los virreyes y sus Audiencias, quienes eran delegados
+para distribuir copias de las cédulas en su jurisdicción.[^356]
 
 Para el siglo XVIII se han identificado trece indultos generales (véase
 tabla 1) decretados con la motivación expresa del nacimiento de un
@@ -2778,7 +2779,12 @@ clemencia regia superaba con creces las limitaciones de la indulgencia
 pública. La paradoja era que aunque el indulto general abarcara un
 universo amplio de reos, estados procesales y delitos, sus efectos no
 eran tan profundos como los que se podrían obtener por un indulto
-particular o colectivo.
+particular o colectivo. En un indulto particular se podían restituir
+bienes, borrar la infamia para que el remitido pudiese acceder a
+empleos, e incluso se podía evadir el requisito del perdón de parte en
+beneficio de la utilidad pública. Los indultos generales indicaban una
+remisión de la pena, pero no incluían en muchos casos un beneficio mayor
+a la libertad del reo.
 
 En este tipo de perdones se manifestaba ostensiblemente el semblante
 gracioso del perdón, al ser expresión de la mera liberalidad y voluntad
@@ -2819,14 +2825,14 @@ excepciones superaban con creces el texto promulgado.
 Como se observa en el listado anterior, la política de indultos
 generales de Felipe V y Fernando VI fue relativamente parca. Durante las
 casi seis décadas que abarcaron ambos reinados sólo se promulgaron
-cuatro perdones universales y ninguno de éstos se extendió hasta los
+cuatro perdones generales y ninguno de éstos se extendió hasta los
 reinos de las Indias. En su lugar, estos monarcas prefirieron un
 gobierno de indultos particulares, limitados a la resolución de
 problemas puntuales y con pocos beneficiados. En contraste, el reinado
 de Carlos III se caracterizó por ser significativamente liberal. Durante
 su regencia se decretaron seis indultos generales, cuatro de los cuales
-abarcaron los dominios de ultramar. Carlos IV promulgó dos perdones
-públicos, siendo el de 1796 el único celebratorio del final de un
+abarcaron los dominios de ultramar. Carlos IV promulgó dos indultos
+generales, siendo el de 1796 el único celebratorio del final de un
 conflicto internacional que involucrara a España. El indulto de 1803
 puede vincularse con la paz de Amiens y el fin de la guerra con el Reino
 Unido, pero incluso los indultos a militares casados sin permiso y
@@ -3240,11 +3246,11 @@ El plazo para acogerse a la gracia, la *abolitio* y la *dilatio*
 No obstante lo planteado por Gómez, para aquellos procesos que no se
 encontraban en estado de sentencia definitiva, el indulto general se
 solía interpretar como *publica* *abolitio*. Siguiendo la tradición del
-*ius commune*, la *generali abolitione* construía una situación jurídica
-particular en la cual a los criminales cobijados por la gracia no se les
-extinguía el delito, sino quedaba suspensa la acusación por el tiempo de
-celebración (tradicionalmente 30 días para los indultados en la cárcel
-de la Corte), lapso durante el cual el acusador podía entablar
+*ius commune*, la *generali abolitione* determinaba una situación
+jurídica particular en la cual a los criminales cobijados por la gracia
+no se les extinguía el delito, sino quedaba suspensa la acusación por el
+tiempo de celebración (tradicionalmente 30 días para los indultados en
+la cárcel de la Corte), lapso durante el cual el acusador podía entablar
 nuevamente la causa. Después de dicho término, aquellos que habían sido
 liberados lo serían para siempre pues quedaba vetada la posibilidad de
 formular nuevamente la acusación.[^423] Esta interpretación estaba
@@ -3301,31 +3307,30 @@ de manera favorable al indultado siguiendo su arbitrio, e incluso
 apoyarse en una de las tantas opiniones que consideraban el perdón
 general desde su perspectiva más indulgente.[^432]
 
-Similar a la *abolitio*, la *dilatio* se relacionaba directamente con el
-plazo del juicio. El plazo, en sentido estricto, comprendía el espacio
-de tiempo acordado legalmente, por el juez, o por convenio de las
-partes, para responder a la demanda que se le hacía al acusado.[^433] La
-práctica legislativa castellana había definido unos términos
-relativamente precisos para resolver cada instancia judicial que solían
-asimilarse en los procesos civiles y criminales, destacándose la
-dilación citatoria de tres días, la probatoria de nueve días mínimo y
-máximo ochenta, y la ejecutoria, que era "arbitraria á la prudencia del
-Juez, dilatándola mas ó menos segun las circunstancias".[^434] En
-relación con el perdón general, la *dilatio* comprendía el término
-establecido para acogerse a la gracia, el cual prorrogaba los plazos
-judiciales dependiendo de la situación procesal de la causa. El tiempo
-para acogerse a la gracia y ejecutar los procedimientos necesarios para
-obtenerla estaba determinada por cada cédula de indulto, por lo general
-de tres a seis meses para los reos que estuvieran dentro de España y un
-año para los que estuvieran ausentes del reino, plazo que empezaba a
-correr desde el momento en que fuese publicado el edicto de perdón. No
-todas las cédulas de perdón general comprendían un plazo establecido,
-aquellas que se limitaban a la cárcel de Corte establecían un
-procedimiento por el cual dos ministros de Cámara hacían traer las
-causas de aquellos que tuvieran la posibilidad de recibir el beneficio
-de indulto y determinaban quienes podían ser dejados en libertad; en
-este caso, no había otro plazo más que el ordinario de una visita de
-cárcel.[^435]
+La *dilatio* se relacionaba directamente con el plazo del juicio que, en
+sentido estricto comprendía el espacio de tiempo acordado legalmente,
+por el juez, o por convenio de las partes, para responder a la demanda
+que se le hacía al acusado.[^433] La práctica legislativa castellana
+había definido unos términos relativamente precisos para resolver cada
+instancia judicial que solían asimilarse en los procesos civiles y
+criminales, destacándose la dilación citatoria de tres días, la
+probatoria de nueve días mínimo y máximo ochenta, y la ejecutoria, que
+era "arbitraria á la prudencia del Juez, dilatándola mas ó menos segun
+las circunstancias".[^434] En relación con el perdón general, la
+*dilatio* comprendía el término establecido para acogerse a la gracia,
+el cual prorrogaba los plazos judiciales dependiendo de la situación
+procesal de la causa. El tiempo para acogerse a la gracia y ejecutar los
+procedimientos necesarios para obtenerla estaba determinada por cada
+cédula de indulto, por lo general de tres a seis meses para los reos que
+estuvieran dentro de España y un año para los que estuvieran ausentes
+del reino, plazo que empezaba a correr desde el momento en que fuese
+publicado el edicto de perdón. No todas las cédulas de perdón general
+comprendían un plazo establecido, aquellas que se limitaban a la cárcel
+de Corte establecían un procedimiento por el cual dos ministros de
+Cámara hacían traer las causas de aquellos que tuvieran la posibilidad
+de recibir el beneficio de indulto y determinaban quienes podían ser
+dejados en libertad; en este caso, no había otro plazo más que el
+ordinario de una visita de cárcel.[^435]
 
 Garsia Mastrillo hacía la distinción entre plazo y *dilatio*, el primero
 correspondía al tiempo estipulado en la cédula, del cual hacía algunos
@@ -3720,29 +3725,30 @@ a la vindicta pública.[^476]
 De los 330 expedientes por homicidio hallados en la sección colonia del
 Archivo General de la Nación de Bogotá,[^477] poco más de la mitad se
 concentra en el periodo que corre entre 1790 y 1809. Como se observa en
-el gráfico 1, hubo tres momentos que marcan la tendencia, el primero que
-inicia en 1757, alcanza su pico más alto en 1762 con nueve casos vistos
-por el tribunal de la Audiencia, y desciende hasta su mínimo en 1769;
-luego se dibuja un valle con su punto mínimo en los años 1772 y 1785,
-cuando no se presentaron homicidios para su revisión, dos abruptos picos
-de 1774 a 1778 y de 1781 a 1784; finalmente, una continua tendencia
-ascendente desde 1786 hasta 1809 cuando, por obvias razones, desciende
-abruptamente hasta los dos casos conocidos en 1810. La línea de
-tendencia polinómica que se añadió a la gráfica permite visualizar la
-curva ascendente que se dibuja para la segunda mitad del siglo XVIII y
-las primeras décadas del XIX. Las barras representan los indultos
-concedidos o ratificados por la Real Audiencia en el mismo periodo,
-obviamente agrupados en los plazos de las cédulas de perdón general.
-Aunque se expidieron seis indulgencias universales que abarcaban a las
-provincias americanas, las peticiones se concentraron en las de los años
-1760, 1780, 1784 y 1803; siendo excepcional el perdón concedido a Manuel
-Timoteo y otros indios Coyaimas, acogidos a la real cédula de indulto de
-1771.[^478] Se eliminaron de esta serie los indultos que se concedieron
-en 1809 y 1810 por motivo de la coronación de Fernando VII, ya que esta
-fue en realidad una gracia promulgada por el virrey Amar y Borbón a
-nombre del rey.[^479]
+el **¡Error! No se encuentra el origen de la referencia.**, hubo tres
+momentos que marcan la tendencia, el primero que inicia en 1757, alcanza
+su pico más alto en 1762 con nueve casos vistos por el tribunal de la
+Audiencia, y desciende hasta su mínimo en 1769; luego se dibuja un valle
+con su punto mínimo en los años 1772 y 1785, cuando no se presentaron
+homicidios para su revisión, dos abruptos picos de 1774 a 1778 y de 1781
+a 1784; finalmente, una continua tendencia ascendente desde 1786 hasta
+1809 cuando, por obvias razones, desciende abruptamente hasta los dos
+casos conocidos en 1810. La línea de tendencia polinómica que se añadió
+a la gráfica permite visualizar la curva ascendente que se dibuja para
+la segunda mitad del siglo XVIII y las primeras décadas del XIX. Las
+barras representan los indultos concedidos o ratificados por la Real
+Audiencia en el mismo periodo, obviamente agrupados en los plazos de las
+cédulas de perdón general. Aunque se expidieron seis indulgencias
+universales que abarcaban a las provincias americanas, las peticiones se
+concentraron en las de los años 1760, 1780, 1784 y 1803; siendo
+excepcional el perdón concedido a Manuel Timoteo y otros indios
+Coyaimas, acogidos a la real cédula de indulto de 1771.[^478] Se
+eliminaron de esta serie los indultos que se concedieron en 1809 y 1810
+por motivo de la coronación de Fernando VII, ya que esta fue en realidad
+una gracia promulgada por el virrey Amar y Borbón a nombre del
+rey.[^479]
 
-[]{#_Toc2547372 .anchor}Gráfico 1. Casos por homicidio vistos en la Real
+[]{#_Toc2603650 .anchor}Gráfico 1. Casos por homicidio vistos en la Real
 Audiencia de Santa Fe e indultos concedidos por ese delito entre 1700 y
 1810
 
@@ -3879,13 +3885,13 @@ incrementó de seis a diez años la pena de presidio en Cartagena señalada
 por el alcalde ordinario de Servitá. En todo caso, las sentencias de
 muerte fueron mínimas, lo cual coincide con la tendencia de la justicia
 criminal de la época. Asimismo, sólo en dos casos se regresó a la
-Audiencia la información de la ejecución, en cuatro casos el caso se
-encontraba en súplica para conmutación de la pena y en igual cantidad
-los sindicados fueron condenados en rebeldía o se encontraban prófugos.
-El uso limitado del último suplicio podía relacionarse con una tendencia
-utilitaria a utilizar a los delincuentes en trabajos de utilidad pública
-en calidad de servidumbre, sin paga y con una mínima ración apenas para
-su supervivencia.[^488] Pero también era fundamental el hecho de que al
+Audiencia la información de la ejecución, cuatro causas se encontraban
+en estado de súplica para conmutación de la pena y en igual cantidad los
+sindicados fueron condenados en rebeldía o se encontraban prófugos. El
+uso limitado del último suplicio podía relacionarse con una tendencia a
+utilizar a los delincuentes en trabajos de utilidad pública en calidad
+de servidumbre, sin paga y con una mínima ración apenas para su
+supervivencia.[^488] Pero también era fundamental el hecho de que al
 aplicar la pena de muerte no existía la posibilidad de restitución en el
 eventual caso de hallarse luego que el reo era inocente. Valga recordar
 lo dicho por el jurista Elizondo a finales del siglo XVIII: "juzgamos se
@@ -3948,21 +3954,20 @@ Capítulo IV. La facultad clemente del virrey
 ============================================
 
 El indulto general era la máxima demostración de clemencia del rey en
-sus vastos dominios. Como se señaló en el capítulo anterior, la
-indulgencia universal podía abarcar a todos los reos y delitos que se
+sus vastos dominios, pudiendo abarcar a todos los reos y delitos que se
 encontraran en las cárceles o fugitivos. Otra escala de aplicación del
 perdón real la cumplían sus gobernadores en Indias, en particular los
 virreyes, quienes estaban facultados para perdonar delitos en nombre del
 monarca. El origen de esta facultad puede rastrearse hasta la época de
 los corregidores tardomedievales castellanos, quienes tenían entre sus
 potestades el perdón y olvido de las faltas para el restablecimiento de
-la paz en los municipios que a su cargo encargados.[^491] También, es
+la paz en los municipios encargados para su control.[^491] También, es
 posible que la idea de un virrey facultado para perdonar provenga de los
 lugartenientes (a veces nominados como virreyes) enviados a la Corona de
 Aragón desde el siglo XIII, quienes podían ocupar el lugar del rey y
 hacer lo que el monarca haría si estuviera presente, con el propósito
 específico de restablecer la paz donde se considerara necesario.[^492]
-Al titular a Cristóbal Colón como virrey, se incorporaron en su cuerpo
+Al investir a Cristóbal Colón como virrey, se incorporaron en su título
 elementos tanto de los lugartenientes castellanos como de la experiencia
 de los virreyes aragoneses encargados del gobierno de Sicilia; éstos
 diferían de los "virreyes castellanos" en tanto no eran enviados para
@@ -3977,17 +3982,16 @@ bajo su dominio.[^494] De hecho, como afirma Lalinde, el título de
 virrey concedió a Colón la facultad de actuar como "lugarteniente" del
 rey, lo cual implicaba una alta jurisdicción que prácticamente lo dotaba
 de mixto y mero imperio, tanto así que el almirante podía actuar como lo
-haría la monarca en persona.[^495]
+haría el monarca en persona.[^495]
 
 Como es sabido, las primeras tres décadas del siglo XVI fueron el
-escenario de un pleito entre el título de virrey y los herederos de
-Colón que quisieron alegar los derechos transaccionales adquiridos a
-través de las capitulaciones colombinas para adquirir el título
-virreinal. El alegato principal se enmarcaba en las limitaciones
-jurisdiccionales del virrey, ya que por una parte la corona de Castilla
-y Aragón impulsaba una figura virreinal limitada a la tradición del
-gobernador, limitado por instrucciones, privilegios y por la misma
-voluntad monárquica; por su parte, Diego Colón apelaba por una
+escenario de un pleito entre los herederos de Colón por los derechos
+transaccionales adquiridos a través de las capitulaciones colombinas
+para adquirir el título virreinal. El alegato principal se enmarcaba en
+las limitaciones jurisdiccionales del virrey, ya que por una parte la
+corona de Castilla y Aragón impulsaba una figura virreinal limitada a la
+tradición del gobernador, limitado por instrucciones, privilegios y por
+la misma voluntad monárquica; por su parte, Diego Colón apelaba por una
 limitación de los virreyes a futuro, pero consideraba que para él debía
 respetarse la figura de un virrey insubordinado a la Audiencia o
 cualquier otra autoridad Indiana.[^496] Superado el pleito colombino, se
@@ -4014,7 +4018,7 @@ cruzaron el Atlántico, las primeras al adquirir funciones de gobierno
 que no tenían en la península, y los segundos por haber sido
 restringidos como no lo estaban sus émulos aragoneses. De esta manera,
 diría Elliott, "donde un virrey en la Corona de Aragón era el *alter
-ego* del rey, envestido de potestad administrativa y judicial, sus
+ego* del rey, investido de potestad administrativa y judicial, sus
 equivalentes que la Nueva España y Perú fueron principalmente
 gobernadores, quienes gozaron de una enorme influencia en virtud de su
 alejamiento de la metrópoli, pero por esta misma razón, cuidadosamente
@@ -4067,7 +4071,7 @@ investigaciones más recientes han llegado a la conclusión de que "el
 poder político y la autoridad se articularon y fueron definidas en gran
 medida alrededor de rituales de poder".[^508] Solórzano, gran conocedor
 del virreinato indiano, sabía que los honores que se rendían a los
-virreyes no estaban intrínsecamente asociados a su empleo, y hecho
+virreyes no estaban intrínsecamente asociados a su empleo, y de hecho
 habían sido explícitamente prohibidos.[^509] Sin embargo, fue una
 práctica que se toleró porque, según su propia explicación, "saco é
 infiero que por la gran dignidad del cargo de los Virreyes, y la
@@ -4135,15 +4139,17 @@ Audiencia o gobernadores, con el propósito de restaurar la autoridad
 regia en una zona rebelde; por ejemplo, cuando se comisionó a Pedro de
 la Gasca en 1546 para apaciguar los poblados levantados en el Perú en
 rechazo de la implementación de las denominadas "Leyes Nuevas". En ese
-momento se le otorgó
+momento se le otorgó poder particular para la pacificación del
+territorio, lo cual quedó señalado en sus instrucciones de la siguiente
+manera:
 
-> poder particular para que si biereis que conbiene para la paçificacion
-> de la tierra podais perdonar todas y qualesquier personas que en
-> aquellas Provincias ovieren delinquido en qualquier genero de delito
-> que ovieren cometido segund y como y por la manera que nos lo
-> podriamos hazer, estareis adbertido que el perdon no se ha de hazer
-> sino en los casos y por la manera que nos lo podriamos hazer como
-> dicho es. [^517]
+> Tambien llevais poder particular para que si biereis que conbiene para
+> la paçificacion de la tierra podais perdonar todas y qualesquier
+> personas que en aquellas Provincias ovieren delinquido en qualquier
+> genero de delito que ovieren cometido segund y como y por la manera
+> que nos lo podriamos hazer, estareis adbertido que el perdon no se ha
+> de hazer sino en los casos y por la manera que nos lo podriamos hazer
+> como dicho es. [^517]
 
 La fórmula de la facultad para perdonar dada a los virreyes indianos
 quedaría definida por un doble cariz en apariencia contradictorio: por
@@ -4151,9 +4157,9 @@ una parte, la autoridad completa para usar de la indulgencia del rey, y
 por otra, la restricción a usar la potestad de dar indultos solamente en
 casos de servir a la pacificación de las provincias. La *Recopilación de
 las Indias* de León Pinelo señalaba que la norma que dio poder para
-remitir delitos fue la otorgada al Lorenzo Suárez de Mendoza el 9 de
-diciembre de 1583, después de habérsele nombrado virrey del Perú después
-de haber servido tres años en el mismo cargo en Nueva España, la cual ya
+remitir delitos fue la otorgada a Lorenzo Suárez de Mendoza el 9 de
+diciembre de 1583, después de habérsele nombrado virrey del Perú tras
+haber servido tres años en el mismo cargo en Nueva España, la cual ya
 había sido compilada por Diego de Encinas.[^518] La diferencia respecto
 a la atribución dada al virrey Toledo se enmarcaba en que adicional a la
 facultad de perdonar se le entregó una instrucción, que no estaría
@@ -4200,7 +4206,7 @@ quedaría como sigue:
 > necessarios, para que las Iusticias de todos nuestros Reynos y
 > Señorios no procedan contra los culpados, á la averiguacion y castigo,
 > assi de oficio, como á pedimento de parte, en quanto á lo criminal,
-> reservando su derecho en lo civil, daños. é interesses de las partes,
+> reservando su derecho en lo civil, daños, é interesses de las partes,
 > para que le pidan y sigan como les convenga.[^525]
 
 El oidor Prudencio Antonio de Palacios, cerca de 1744, comentaría esta
@@ -4566,10 +4572,10 @@ junio de 1782. Caballero y Góngora, quien gozaba del favor real, además
 del apoyo del regente Piñeres (quien regresó a Santa Fe en febrero de
 1782), fue designado por el rey como el encargado de ejercer el
 virreinato *ad interim* en caso de que Flórez o Pimienta no pudiesen
-ejercer sus cargos. La coincidencia trágica de la muerte del virrey
-permitió que el arzobispo asumiera el empleo el 15 de junio de 1782 de
-manera temporal y fuese titulado como virrey en propiedad el 7 de abril
-de 1783 por un periodo de cinco años.[^569]
+ejercer sus cargos. La muerte del virrey permitió que el arzobispo
+asumiera el empleo el 15 de junio de 1782 de manera temporal y fuese
+titulado como virrey en propiedad el 7 de abril de 1783 por un periodo
+de cinco años.[^569]
 
 Una de sus primeras acciones como virrey fue precisamente la publicación
 del "Edicto para manifestar al público el indulto general concedido por
@@ -6292,7 +6298,7 @@ Fecha: 6 de agosto de 1782
 >
 > Antonio Arzobispo Virrey de Santa Fé
 
-[]{#_Toc2547604 .anchor}Anexo 12. El Arzobispo virrey de Santa Fe dirige
+[]{#_Toc2603666 .anchor}Anexo 12. El Arzobispo virrey de Santa Fe dirige
 seis ejemplares del indulto que ha concedido a los compreendidos en las
 alteraciones pasadas y hace distintas reflexiones acalarando las razones
 que ha tenido para expedirlo en los términos que está
@@ -7028,7 +7034,7 @@ Fecha: 23 de julio de 1808
 >
 > Al Ministro de Negocios extranjeros
 
-[]{#_Toc2547613 .anchor}Anexo 21. Indulto promulgado por el virrey
+[]{#_Toc2603675 .anchor}Anexo 21. Indulto promulgado por el virrey
 Antonio Amar y Borbón
 
 Fuente: AGNC, Sección Colonia, Juicios Criminales, Leg. 2, doc. 14, ff.
@@ -10104,7 +10110,7 @@ del arte efímero al teatro*. Valencia: Pre-Textos, 2005.
     España de Felipe III*, Historia (Madrid: Marcial Pons, 2002),
     160--64.
 
-[^402]: Véase nota 19. Israel, *La ilustración radical*, 276.
+[^402]: Véase nota 11. Israel, *La ilustración radical*, 276.
 
 [^403]: Hespanha, "La senda amorosa del derecho", 40.
 
@@ -10643,7 +10649,7 @@ del arte efímero al teatro*. Valencia: Pre-Textos, 2005.
     652-653*. *
 
 [^517]: "Instrucciones a Pedro de la Gasca", Veneto, 16 de febrero de
-    1546. AGI, Indiferente general, leg. 415, f. 379v. Parte de la
+    1546. AGI, Indiferente general, 415, f. 379v. Parte de la
     transcripción fue tomada de Gibran Bautista y Lugo, "Castigar o
     perdonar. El gobierno de Felipe IV ante la rebelión de 1624 en
     México" (Tesis doctoral, Universidad Nacional Autónoma de México,
