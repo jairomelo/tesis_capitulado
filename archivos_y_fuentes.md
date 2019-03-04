@@ -28,11 +28,11 @@ Referencias
 Archivos
 --------
 
-### Archivo Central del Cauca (Popayán)
+***Archivo Central del Cauca (Popayán)***
 
 Sección colonia, fondo judicial, civil y criminal.
 
-### Archivo General de Indias (Sevilla)
+***Archivo General de Indias (Sevilla)***
 
 Audiencia de Caracas, 81
 
@@ -48,7 +48,7 @@ Indiferente general, 415, 429, 430, 538 L.YY11.
 
 Papeles de Cuba, 717.
 
-### Archivo General de la Nación de Colombia (Bogotá)
+***Archivo General de la Nación de Colombia (Bogotá)***
 
 Sección colonia:
 
@@ -75,7 +75,7 @@ Sección archivo anexo:
 
 > Reales cédulas y órdenes, tomo 16
 
-### Archivo Histórico de Antioquia (Medellín)
+***Archivo Histórico de Antioquia (Medellín)***
 
 Sección gobierno, fondo gobernación de Antioquia:
 
@@ -83,26 +83,26 @@ Sección gobierno, fondo gobernación de Antioquia:
 >
 > Reales órdenes, tomo 4
 
-### Archivo Histórico de Medellín (Medellín)
+***Archivo Histórico de Medellín (Medellín)***
 
 Fondo Concejo de Medellín, sección colonia, reales cédulas, tomos 33,
 37.
 
-### Archivo Histórico Nacional (Madrid)
+***Archivo Histórico Nacional (Madrid)***
 
 Consejo de Indias, Secretaría de Presidencia, 21672
 
-### Biblioteca Luis Ángel Arango (Bogotá)
+***Biblioteca Luis Ángel Arango (Bogotá)***
 
 Sala de libros raros y manuscritos, MSS756.
 
-### Biblioteca Nacional de Colombia (Bogotá)
+***Biblioteca Nacional de Colombia (Bogotá)***
 
 Fondo Pineda, tomo 852.
 
 Fondo Quijano, tomo 254.
 
-### Universidad de Sevilla, Biblioteca Rector Machado y Núñez
+***Universidad de Sevilla, Biblioteca Rector Machado y Núñez***
 
 Fondo Antiguo, A 113/136.
 
@@ -183,7 +183,7 @@ Jovellanos*, IV:9-95. Madrid: imprenta de León Amarita, 1831.
 Levillier, Roberto, ed. *Gobernantes del Perú. Cartas y papeles*. 14
 vols. Madrid: sucesores de Rivadeneira, 1921.
 
-### Legislación
+***Legislación***
 
 *Cedulario de Encinas*. Madrid: Imprenta Real, 1596. Edición
 contemporánea por Alfonso García Gallo. Madrid: Ediciones de Cultura
@@ -237,7 +237,7 @@ Pidal y Juan Manzano. Madrid: Cultura Hispánica, 1973.
 exercito y provincia en el Reino de la Nueva-España*. Madrid: \[s.n.\],
 1786.
 
-### Fuentes doctrinales, tratadística y práctica
+***Fuentes doctrinales, tratadística y práctica***
 
 Álvarez de Velasco, Gabriel. *De privilegiis pauperum, et miserabilium
 personarum*. Segunda edición. Lyon: Sumptibus Horatii Boissat et Georgii
@@ -409,7 +409,7 @@ Agencia Española de Cooperación Internacional para el Desarrollo
 [[http://bibliotecadigital.aecid.es/bibliodig]{.underline}](http://bibliotecadigital.aecid.es/bibliodig)
 
 Archivo General de la Nación de Colombia. *ArchiDoc*. 2014.
-[[http://consulta.archivogeneral.gov.co/ConsultaWeb/]{.underline}](http://consulta.archivogeneral.gov.co/ConsultaWeb/)
+[http://consulta.archivogeneral.gov.co/ConsultaWeb/]{.underline}
 
 Archivo Nacional de Asunción. *Sección historia*. sf.
 [[http://historia.anasnc.senatics.gov.py/index.php/seccion-historia]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/seccion-historia)

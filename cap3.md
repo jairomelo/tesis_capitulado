@@ -63,21 +63,21 @@ magistrados sicilianos
 
 Tabla 1. Indultos generales decretados entre 1707 y 1810
 
-  **Fecha**                  **Alcance**                                                                                                               **Afectados**               **Motivo**
-  -------------------------- ------------------------------------------------------------------------------------------------------------------------- --------------------------- ----------------------------------------------------------------------------------------------
-  28 de agosto de 1707       Todos los reos, excepto ladrones, gitanos, mujeres de la galera, y homicidas.                                             Cárceles de Madrid          Nacimiento del príncipe Luis Felipe.[^9]
-  25 de junio de 1718                                                                                                                                                              Nacimiento de la infanta María Ana Victoria[^10]
-  19 de noviembre de 1726                                                                                                                                                          Nacimiento de la infanta María Teresa[^11]
-  29 de septiembre de 1746   Todos los reos con las excepciones acostumbradas                                                                          Reinos de Castilla y León   Exaltación al trono de Fernando VI[^12]
-  28 de enero de 1760        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Exaltación al trono de Carlos III[^13]
-  24 de diciembre de 1765    Todos los reos con las excepciones acostumbradas                                                                          Corte y Reino               Matrimonio del príncipe de Asturias[^14]
-  10 de octubre de 1771      Todos los reos con las excepciones acostumbradas                                                                          Corte y Reino               Parto de la princesa de Asturias[^15]
-  11 de enero de 1779        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Parto de la princesa María Luisa.[^16]
-  8 de junio de 1780         Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Nacimiento del infante Carlos Domingo Eusebio.[^17]
-  16 de enero de 1784        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Parto de los infantes gemelos Carlos y Felipe por la princesa María Luisa de Parma.[^18]
-  10 de junio de 1796        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Matrimonio de las infantas doña María Amalia y doña María Luisa. Paz con los franceses.[^19]
-  25 de julio de 1803        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Matrimonio del príncipe de Asturias.[^20]
-  30 de noviembre de 1810    Todos los reos comunes y militares, con las excepciones acostumbradas, además de los delitos de espionaje e infidencia.   Toda la monarquía           Consejo de Regencia[^21]
+  **Fecha**             **Alcance**                                                                                                               **Afectados**               **Motivo**
+  --------------------- ------------------------------------------------------------------------------------------------------------------------- --------------------------- ----------------------------------------------------------------------------------------------
+  1707, agosto 28       Todos los reos, excepto ladrones, gitanos, mujeres de la galera, y homicidas.                                             Cárceles de Madrid          Nacimiento del príncipe Luis Felipe.[^9]
+  1718, junio 25                                                                                                                                                              Nacimiento de la infanta María Ana Victoria[^10]
+  1726, noviembre 19                                                                                                                                                          Nacimiento de la infanta María Teresa[^11]
+  1746, septiembre 29   Todos los reos con las excepciones acostumbradas                                                                          Reinos de Castilla y León   Exaltación al trono de Fernando VI[^12]
+  1760, enero 28        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Exaltación al trono de Carlos III[^13]
+  1765, diciembre 24    Todos los reos con las excepciones acostumbradas                                                                          Corte y Reino               Matrimonio del príncipe de Asturias[^14]
+  1771, octubre 10      Todos los reos con las excepciones acostumbradas                                                                          Corte y Reino               Parto de la princesa de Asturias[^15]
+  1779, enero 11        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Parto de la princesa María Luisa.[^16]
+  1780, junio 8         Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Nacimiento del infante Carlos Domingo Eusebio.[^17]
+  1784, enero 16        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Parto de los infantes gemelos Carlos y Felipe por la princesa María Luisa de Parma.[^18]
+  1796, junio 10        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Matrimonio de las infantas doña María Amalia y doña María Luisa. Paz con los franceses.[^19]
+  1803, julio 25        Todos los reos con las excepciones acostumbradas                                                                          Toda la monarquía           Matrimonio del príncipe de Asturias.[^20]
+  1810, noviembre 30    Todos los reos comunes y militares, con las excepciones acostumbradas, además de los delitos de espionaje e infidencia.   Toda la monarquía           Consejo de Regencia[^21]
 
  La motivación del perdón general
 ---------------------------------
@@ -201,7 +201,7 @@ nacimientos y matrimonios de príncipes. Incluso el Consejo de Regencia
 señaló que concedían un indulto general "deseando señalar el feliz
 acontecimiento de su instalación \[de las cortes de Cádiz\] con una
 demostracion de Clemencia en favor de los subditos españoles". Con
-Fernando VII que se inaugura una fórmula diferente:
+Fernando VII se inaugura una fórmula diferente:
 
 > Queriendo señalar con un rasgo de mi Real piedad el dia venturoso en
 > que, afianzando la paz y tranquilidad de mis dominios, doy á los

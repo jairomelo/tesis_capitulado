@@ -2006,7 +2006,7 @@ Anexo 20. Real Decreto de José Napoleón por el que se otorga el indulto
 general a los oficiales y soldados desertores que prestasen el juramento
 prescrito en la Constitución.
 
-Fuente: AHNE, ESTADO, 3092,Exp.11
+Fuente: AHNE, ESTADO, 3092, Exp.11
 
 Lugar: Madrid
 
@@ -2152,42 +2152,50 @@ Fecha: 14 de octubre de 1808
 > relacionado, y con respecto justamente al proximo cumpleaños del mismo
 > nuestro Rey y Señor Don Fernando Septimo; en yndultar de sus delitos y
 > penas merecidas por ellos, á los delinqüentes de las claces que se
-> expresan con las calidades, y en la forma siguiente= 1°. . . . Todos
-> los desertores, de mar, y tierra que dentro del termino de nueve dias
-> se presentaren á tomar otra ves las Armas, y alistarce en los cuerpos
-> de que se hubiece separado \[f. 760v\] ú otros iguales segun libres de
-> la pena que les corresponderia por su desercion actual debiendo cada
-> uno verificar la precentacion ante los xefes de los mismos cuerpos, si
-> se hallaren en los pueblos ó parages donde recidieren, y por su
-> defecto ante las Justicias de los mismos de quienes impetraran, y se
-> les franqueara la correspondiente certificacion que acredite habersele
-> presentado, y con ella ocurriran sin extraordinaria notable dilacion á
-> la respectiva comandancia militar el distrito, y cuerpo a que
-> pertenescan ó hayan de entrar para lo demas conducente á su recepcion.
-> = 2°. . . . Del mismo modo serán libres los contrabandistas de toda
+> expresan con las calidades, y en la forma siguiente.
+>
+> 1°. . . . Todos los desertores, de mar, y tierra que dentro del
+> termino de nueve dias se presentaren á tomar otra ves las Armas, y
+> alistarce en los cuerpos de que se hubiece separado \[f. 760v\] ú
+> otros iguales segun libres de la pena que les corresponderia por su
+> desercion actual debiendo cada uno verificar la precentacion ante los
+> xefes de los mismos cuerpos, si se hallaren en los pueblos ó parages
+> donde recidieren, y por su defecto ante las Justicias de los mismos de
+> quienes impetraran, y se les franqueara la correspondiente
+> certificacion que acredite habersele presentado, y con ella ocurriran
+> sin extraordinaria notable dilacion á la respectiva comandancia
+> militar el distrito, y cuerpo a que pertenescan ó hayan de entrar para
+> lo demas conducente á su recepcion.
+>
+> 2°. . . . Del mismo modo serán libres los contrabandistas de toda
 > clace de fraude con tal que ademas de ello no hayan cometido robos, ó
 > muertes, y baxo la condicion de alistarce en el servicio de Armas ó
 > Marina para defensa del Rey, y de la Nacion por el tiempo que
-> subcistan las actuales circunstancias. = 3°. . . . Ultimamente lo
-> seran todos los reos que se hallen encarcelados por qualquiera clace
-> de causas como no sean las de leza Magestad divina ó humana, asesinato
-> álevocia, robo, ú otro que merezca pena corporal, ó nota de infamia,
-> reservandose asi esta superioridad el resolver y determinar con
-> qualquiera de estas causas en que por particulares circunstancias
-> pueda conoserse \[761r\] y estimarse util el delinqüente á la Patria
-> para hacerlo á su favor con la mayor equidad posible asia el
-> delinqüente. = Y para que todo ello tenga el correspondiente efecto y
-> cumplimiento se comunicará á todos los Tribunales xefes, y Justicias
-> del Vireynato con encargo de que lo hagan publicar en sus respectivos
-> distritos, a fin de que llegue á noticia del público lo que se
-> verificará desde luego en esta capital, fixandose tambien copias en
-> los parages acostumbrados baxo la inteligencia y prevencion de que la
-> fecha de dicha publicacion en cada lugar será la que rija tambien,
-> para la graduacion ó cuenta de los terminos y plazos asignados, para
-> la presentacion de desertores y contrabandistas ú otros reos profugos
-> como para la del estado dependientes o conclusas y sentenciadas que
-> tubieren, los procesos y causas de los reclusos. Dado en Santafe á
-> catorce de octubre de mil ochocientos ocho = Antonio Amar =
+> subcistan las actuales circunstancias.
+>
+> 3°. . . . Ultimamente lo seran todos los reos que se hallen
+> encarcelados por qualquiera clace de causas como no sean las de leza
+> Magestad divina ó humana, asesinato álevocia, robo, ú otro que merezca
+> pena corporal, ó nota de infamia, reservandose asi esta superioridad
+> el resolver y determinar con qualquiera de estas causas en que por
+> particulares circunstancias pueda conoserse \[761r\] y estimarse util
+> el delinqüente á la Patria para hacerlo á su favor con la mayor
+> equidad posible asia el delinqüente. = Y para que todo ello tenga el
+> correspondiente efecto y cumplimiento se comunicará á todos los
+> Tribunales xefes, y Justicias del Vireynato con encargo de que lo
+> hagan publicar en sus respectivos distritos, a fin de que llegue á
+> noticia del público lo que se verificará desde luego en esta capital,
+> fixandose tambien copias en los parages acostumbrados baxo la
+> inteligencia y prevencion de que la fecha de dicha publicacion en cada
+> lugar será la que rija tambien, para la graduacion ó cuenta de los
+> terminos y plazos asignados, para la presentacion de desertores y
+> contrabandistas ú otros reos profugos como para la del estado
+> dependientes o conclusas y sentenciadas que tubieren, los procesos y
+> causas de los reclusos. Dado en Santafe á catorce de octubre de mil
+> ochocientos ocho.
+>
+> Antonio Amar
+>
 > Certific.^n^ } Bustamante = Certifico: yo el ynfrascripto Escribano
 > Receptor de esta Real Audiencia que el Bando precedente en que se
 > concede yndulto, á los desertores y demas delinquentes comprehendidos

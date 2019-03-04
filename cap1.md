@@ -82,9 +82,10 @@ lo consideraba ley animada no por ello lo liberaba de la razón, la moral
 y los dictámenes de la divinidad; por lo cual, un rey vicioso recaía en
 la categoría de tirano.[^9] Es por ello posible elaborar la hipótesis de
 que la clemencia era un elemento fundamental dentro del ejercicio del
-poder regio que decae de modo concomitante a la administrativización de
-la monarquía y el desarrollo de un nuevo sentido de legitimidad regia
-sustentado en el origen divino de los reyes.[^10]
+poder regio, la cual que decayó concomitantemente con la
+"administrativización" de la monarquía y el desarrollo de un nuevo
+sentido de legitimidad regia sustentado en el origen divino de los
+reyes.[^10]
 
 Del mismo modo, la perspectiva de las convenciones puede contribuir a
 dilucidar el sentido del perdón durante el siglo XVIII. Siguiendo la
@@ -438,24 +439,25 @@ majestad humana, y del proceso de secularización de las instituciones
 jurídico políticas actuales que ha simplificado el sentido de la
 autoridad al poder.[^61] En términos lexicográficos la división entre
 autoridad y potestad no fue tajante ni siquiera en la Edad Media,[^62]
-pero semánticamente la *iurisdictio* involucraba un orden normativo que
-no se ejercía exclusivamente con la fuerza, sino dependía en gran medida
-del acuerdo con los cuerpos de la república.[^63] Se entendía, incluso
-en el último tercio del siglo XVIII, que la divinidad había delegado su
-autoridad y potestad al rey para lo temporal y al papa para lo
-espiritual, pero ésta no se había otorgado, a los reyes específicamente,
-para su propio beneficio sino como *res publica*, es decir, para la
-búsqueda del bien común de aquellos cuerpos que se acercaron para su
-protección.[^64] La autoridad, con el fin de atraer a los súbditos y
-extender sobre ellos el dominio, se valdría del arsenal de virtudes que
-demostraban la excelencia del rey, tales como la rectitud, fortaleza,
-justicia, prudencia, sabiduría y el honor.[^65] El ejercicio
-irrefrenable de la fuerza podía en cambio desembocar en la tiranía,[^66]
-ya que al ser incapaz de contener la ira o la crueldad, el príncipe caía
-en la figura imperfecta del soberano, el cual podía incluso ser
-asesinado legítimamente (según los "tiranicidas" de los siglos XVI y
-XVII) o por lo menos justificar la revuelta cuando alguno de sus
-facultados actuaba de manera abusiva sobre los vasallos.[^67]
+pero semánticamente la *iurisdictio* involucraba un orden de
+competencias que no se ejercía exclusivamente con la fuerza, sino
+dependía en gran medida del acuerdo con los cuerpos de la
+república.[^63] Se entendía, incluso en el último tercio del siglo
+XVIII, que la divinidad había delegado su autoridad y potestad al rey
+para lo temporal y al papa para lo espiritual, pero ésta no se había
+otorgado, a los reyes específicamente, para su propio beneficio sino
+como *res publica*, es decir, para la búsqueda del bien común de
+aquellos cuerpos que se acercaron para su protección.[^64] La autoridad,
+con el fin de atraer a los súbditos y extender sobre ellos el dominio,
+se valdría del arsenal de virtudes que demostraban la excelencia del
+rey, tales como la rectitud, fortaleza, justicia, prudencia, sabiduría y
+el honor.[^65] El ejercicio irrefrenable de la fuerza podía en cambio
+desembocar en la tiranía,[^66] ya que al ser incapaz de contener la ira
+o la crueldad, el príncipe caía en la figura imperfecta del soberano, el
+cual podía incluso ser asesinado legítimamente (según los "tiranicidas"
+de los siglos XVI y XVII) o por lo menos justificar la revuelta cuando
+alguno de sus facultados actuaba de manera abusiva sobre los
+vasallos.[^67]
 
 El mundo hispánico del siglo XVIII fue el escenario de experimentación
 para un estilo de absolutismo, que sus críticos consideraron como
@@ -924,8 +926,8 @@ en libertad con la condición de no regresar a los reinos de Indias ni
 recaer en otra conspiración.[^149] Finalmente, la palabra real, al menos
 por la vía de Consejo, mantuvo intacta su autoridad.
 
-El nuevo pensamiento: la clemencia como vicio
----------------------------------------------
+La segunda mitad del siglo XVIII: la ambigüedad entre la clemencia y la obediencia
+----------------------------------------------------------------------------------
 
 El periodo borbónico, aunque planteó cambios y reformas a la monarquía,
 heredó de los Austrias el orden jurídico-político e institucional con el
