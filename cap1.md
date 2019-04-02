@@ -1357,9 +1357,22 @@ no pasa de ser un proyecto.
     pecuniario que se vio obligado a dar en favor de estos
     delincuentes", Caracas, 5 de agosto de 1771, AGI, Caracas, 81.
 
-[^44]: Allan J. Kuethe y Kenneth J. Andrien, *The Spanish Atlantic World
-    in the Eighteenth Century: War and the Bourbon Reforms, 1713--1796*
-    (Cambridge University Press, 2014), 91.
+[^44]: Kuethe y Andrien endilgan al cardenal Alberoni el establecimiento
+    del modelo a seguir en las rebeliones dieciochescas, fundamentado en
+    la combinación de "bayonetas con un perdón general, después de
+    identificar a los líderes sospechosos". Aunque es exagerado
+    considerar que el prelado innovó en el uso del castigo y del perdón
+    para la sofocación de las rebeliones, no por ello es menos cierto
+    que el tratamiento de estos levantamientos mantuvo una cierta
+    coherencia con la tradición que impelía al uso de medios suaves para
+    calmar los ánimos de los vasallos. Tal vez la ruptura vino a darse
+    con José de Gálvez, quien "demostraría" que era posible lograr la
+    pacificación de las provincias mediante el uso exclusivo de la
+    fuerza. Allan J. Kuethe y Kenneth J. Andrien, *El mundo atlántico
+    español durante el siglo XVIII. Guerra y reformas borbónicas,
+    1713-1796*, trad. Lourdes Ramos Kuethe, Primera edición en español
+    (Bogotá: Editorial Universidad del Rosario, Banco de la República,
+    2018), 78, doi.org/10.12804/th9789587841121.
 
 [^45]: Juan Eusebio Nieremberg, *Aforismos o dictámenes*, nueva edición
     (Bruselas: en casa de Juan Mommarte, 1664), Cent. VII, Dec. IV.

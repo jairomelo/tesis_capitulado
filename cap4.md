@@ -994,7 +994,7 @@ posible transformación en la monarquía hispana, capturada por el
 bonapartismo. La decisión de expedir un indulto general a nombre del rey
 pareciera innecesaria en ese momento, pero tenía la función de
 simbolizar la normalidad del ejercicio de la potestad del monarca
-cautivo cuya autoridad había sido restituida a los pueblos. Valga
+cautivo cuya autoridad había sido restituida a las ciudades. Valga
 recordar que en agosto de 1808 arribaron a los puertos sudamericanos las
 noticias de las abdicaciones de Bayona, los levantamientos en rechazo a
 José Bonaparte, y la formación de la autoproclamada Suprema Junta de
@@ -1342,9 +1342,12 @@ Sevilla.[^122]
 
 [^76]: "Sentencias de José Antonio Galán y compañeros", 627-628.
 
-[^77]: Allan J. Kuethe y Kenneth J. Andrien, *The Spanish Atlantic World
-    in the Eighteenth Century. War and the Bourbon Reforms, 1713--1796*
-    (Cambridge: Cambridge University Press, 2014), 300.
+[^77]: Allan J. Kuethe y Kenneth J. Andrien, *El mundo atlántico español
+    durante el siglo XVIII. Guerra y reformas borbónicas, 1713-1796*,
+    trad. Lourdes Ramos Kuethe, Primera edición en español (Bogotá:
+    Editorial Universidad del Rosario, Banco de la República, 2018),
+    337, doi.org/10.12804/th9789587841121; Kuethe, *Military reform*,
+    87--88.
 
 [^78]: "Bando de Flores en que anuncia indulto a los sublevados y cargo
     de traición a pertinaces", Cartagena de Indias, 26 de octubre de
