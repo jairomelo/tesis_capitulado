@@ -173,10 +173,10 @@ oidor Blas de Basaraz fue comisionado para apaciguar la rebelión en
 Papantla (Veracruz), sin auxilio armado y acompañado sólo de una pequeña
 escolta logró someter a los indígenas, capturar y trasladar los
 cabecillas hasta México, y finalmente los condenó a tres años de
-trabajos públicos.[^17] Habrá que esperar una década hasta que Gálvez
-sea nombrado Ministro de Indias y envíe los visitadores a los distritos
-audienciales americanos para poner a prueba su proyecto de renovación de
-gobierno en el continente. La reacción inmediata es harto conocida,
+trabajos públicos.[^17] Habrá que esperar una década, cuando Gálvez sea
+nombrado Ministro de Indias y envíe los visitadores a los distritos
+audienciales americanos, para poner a prueba su proyecto de renovación
+de gobierno en el continente. La reacción inmediata es harto conocida,
 especialmente en la serie de rebeliones andinas de 1781, esto será
 analizado en el capítulo siguiente.
 

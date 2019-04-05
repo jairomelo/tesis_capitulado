@@ -59,7 +59,7 @@ Sección colonia:
 > Juicios criminales, tomos 2, 6, 34, 49, 54, 58, 64, 76, 102, 103, 114,
 > 130, 131, 134, 136, 138, 148, 157, 176, 216.
 >
-> Milicias y marina, tomo 35.
+> Milicias y marina, tomos 4, 11, 16, 35. 50, 53.
 >
 > Miscelánea, tomos 59, 112.
 >
@@ -409,7 +409,7 @@ Agencia Española de Cooperación Internacional para el Desarrollo
 [[http://bibliotecadigital.aecid.es/bibliodig]{.underline}](http://bibliotecadigital.aecid.es/bibliodig)
 
 Archivo General de la Nación de Colombia. *ArchiDoc*. 2014.
-[http://consulta.archivogeneral.gov.co/ConsultaWeb/]{.underline}
+[[http://consulta.archivogeneral.gov.co/ConsultaWeb/]{.underline}](http://consulta.archivogeneral.gov.co/ConsultaWeb/)
 
 Archivo Nacional de Asunción. *Sección historia*. sf.
 [[http://historia.anasnc.senatics.gov.py/index.php/seccion-historia]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/seccion-historia)
