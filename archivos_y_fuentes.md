@@ -56,10 +56,10 @@ Sección colonia:
 >
 > Caciques e indios, tomo 41.
 >
-> Juicios criminales, tomos 2, 6, 34, 49, 54, 58, 64, 76, 102, 103, 114,
-> 130, 131, 134, 136, 138, 148, 157, 176, 216.
+> Juicios criminales, tomos 2, 6, 34, 49, 54, 58, 64, 76, 87, 102, 103,
+> 114, 130, 131, 134, 136, 138, 148, 157, 176, 216.
 >
-> Milicias y marina, tomos 4, 11, 16, 35. 50, 53.
+> Milicias y marina, tomos 4, 11, 16, 35, 50, 53.
 >
 > Miscelánea, tomos 59, 112.
 >
@@ -90,7 +90,7 @@ Fondo Concejo de Medellín, sección colonia, reales cédulas, tomos 33,
 
 ***Archivo Histórico Nacional (Madrid)***
 
-Consejo de Indias, Secretaría de Presidencia, 21672
+Consejo de Indias, Secretaría de Presidencia, 21672.
 
 ***Biblioteca Luis Ángel Arango (Bogotá)***
 
@@ -151,6 +151,10 @@ sentido de las voces, su naturaleza y calidad, con las phrases o modos
 de hablar, los proverbios o refranes, y otras cosas convenientes al uso
 de la lengua*. Madrid: imprenta de Francisco del Hierro, 1726-1739.
 
+*Documentos para la historia de la sublevación de José Gabriel de Tupac
+Amaru, cacique de la provincia de Tinta, en el Perú*. Buenos Aires:
+imprenta del Estado, 1836.
+
 Escriche, Joaquín. *Diccionario razonado de legislación y
 jurisprudencia*. Nueva edición reformada y aumentada por León Galindo y
 José Vicente y Caravantes. Madrid: Imprenta de Eduardo Cuesta, 1874.
@@ -176,12 +180,24 @@ excelentisimo señor D. Gaspar Melchor de Jovellanos*, VII:20--28.
 Barcelona: Imprenta de Francisco Oliva, 1840.
 
 ---------. "Memoria para el arreglo de la Policía de los espectáculos y
-divesriones públicas, y sobre su origen en España". En *Colección de
+diversiones públicas, y sobre su origen en España". En *Colección de
 varias obras en prosa y verso del excelentísimo señor don Gaspar de
 Jovellanos*, IV:9-95. Madrid: imprenta de León Amarita, 1831.
 
 Levillier, Roberto, ed. *Gobernantes del Perú. Cartas y papeles*. 14
 vols. Madrid: sucesores de Rivadeneira, 1921.
+
+Silvestre, Francisco. "Apuntes reservados particulares y generales del
+estado actual del Virreinato de Santafé de Bogotá, (1789)". En
+*Relaciones e informes de los gobernantes de la Nueva Granada*, editado
+por Germán Colmenares, II:35--152. Biblioteca Banco Popular 135. Bogotá:
+Fondo de promoción de la cultura del Banco Popular, 1989. Primera
+edición transcrita por Ricardo Salvador Pereira: "Descripción del Reyno
+de Santa Fe de Bogotá, escrita en 1789". *Anales de la Instrucción
+Pública de Colombia*,  Vol. 13 (p. 56-78; 147-158, 217-238) y Vol. 14
+(p. 193-227), 1889-1888. Reimpresión de la primera edición: *Descripción
+del Reyno de Santa Fe de Bogotá*. Biblioteca Popular de Cultura
+Colombiana. Bogotá: Ministerio de Educación Nacional, 1950.
 
 ***Legislación***
 
@@ -387,6 +403,9 @@ la clemencia". En Cicerón y Séneca. *Tratados Morales*, traducido por
 Menéndez y Pelayo, M. de Valbuena y Gallegos Roca Full, 347-378. Los
 clásicos. México: W. M. Jackson, 1974.
 
+Soledad, Fray Benito de la. *Memorial historial y política cristiana*.
+Viena: Juan van Ghelen, 1703.
+
 Solórzano Pereyra, Juan. *Política indiana* \[1647\]. Edición corregida
 y anotada por Francisco Ramiro de Valenzuela. Madrid: imprenta Real de
 la Gazeta, 1776.
@@ -413,6 +432,9 @@ Archivo General de la Nación de Colombia. *ArchiDoc*. 2014.
 
 Archivo Nacional de Asunción. *Sección historia*. sf.
 [[http://historia.anasnc.senatics.gov.py/index.php/seccion-historia]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/seccion-historia)
+
+Banco de la República de Colombia. *Biblioteca Virtual*. 2017.
+[[http://www.banrepcultural.org/biblioteca-virtual]{.underline}](http://www.banrepcultural.org/biblioteca-virtual)
 
 Bayerischen Staatsbibliothek y Münchener Digitalisierungszentrum.
 *Digitale Bibliothek*. 2018.

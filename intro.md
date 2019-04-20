@@ -1,6 +1,11 @@
 Introducción
 ============
 
+Argumento central:
+
+¿Hubo o no un cambio de actitud respecto a la potestad de perdonar por
+parte de los oficiales del virreinato del Nvo Reino?
+
 ### Conceptualización
 
 No está de más aclarar que esta investigación pretende evitar una
@@ -125,6 +130,16 @@ original.
 Periodización
 -------------
 
+ Contexto espacial
+------------------
+
+El virreinato de Santa Fe, en su configuración más conocida, alcanzada
+tras la separación de la provincia de Caracas, alcanzaba desde el norte
+hasta el sur una extensión de cerca de 2000 kilómetros, en tanto su
+longitud no fue claramente definida, como diría Francisco Silvestre,
+este era un virreinato "cuya extensión pasa de 800 leguas por lo
+largo,[^18] y que no se le conosen límites por lo ancho."[^19]
+
 [^1]: Pierre Rosanvallon y Javier Fernández Sebastián, "Historia
     intelectual y democracia. Entrevista con Pierre Rosanvallon",
     Revista de Libros, el 1 de mayo de 2007,
@@ -232,7 +247,7 @@ Periodización
     Capdequí, *Las instituciones del Nuevo Reino de Granada al tiempo de
     la independencia* (Madrid: Consejo Superior de Investigaciones
     Científicas, 1958), 385--86; Jesús Lalinde Abadía, "El régimen
-    virreinosenatorial en Indias", *Anuario de historia del derecho
+    virreino-senatorial en Indias", *Anuario de historia del derecho
     español* XXXVII (1967): 210--13.
 
 [^16]: Verónica Salazar Baena, "Fastos monárquicos en el Nuevo Reino de
@@ -244,3 +259,14 @@ Periodización
 [^17]: Diego Saavedra Fajardo, "Idea de un príncipe político cristiano",
     ed. Enrique Suárez Figaredo, *Lemir: Revista de Literatura Española
     Medieval y del Renacimiento*, núm. 20 (2016): 522.
+
+[^18]: Aproximadamente 4457 kilómetros si se toma como base la medida
+    tradicional que establecía la legua común en 20000 pies castellanos
+    (cerca de 5572 metros). Valentina Garza Martínez, "Medidas y caminos
+    en la época colonial: expediciones, visitas y viajes al norte de la
+    Nueva España (siglos XVI-XVIII)", *Fronteras de la Historia* 17,
+    núm. 2 (2012): 197 y 218.
+
+[^19]: Francisco Silvestre, *Relación de la provincia de Antioquia*,
+    Ediciones especiales 4 (Medellín: Secretaría de Educación y Cultura
+    de Antioquia, 1988), 483.

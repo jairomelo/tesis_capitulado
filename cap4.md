@@ -656,17 +656,21 @@ El edicto representó mucho más que un indulto general del
 arzobispo-virrey, consistió en una declaración de un plan de reforma al
 virreinato en el cual se ofrecía una mano blanda para la justicia y las
 demandas fiscales, a la vez que se prometía la prosperidad del
-virreinato. Anthony McFarlane incluso consideró que en el texto del
-indulto estaba señalado el compromiso por un "nuevo pacto colonial, en
-el cual la corona ofreció los frutos del progreso económico a cambio de
-la obediencia incondicional a la autoridad real".[^83] Es evidente que
-la rebelión de los comunes del Nuevo Reino trajo como consecuencia un
-afán por revitalizar la conciencia del lazo entre los vasallos
-americanos y la Corona, que se puede interpretar al modo de
-François-Xavier Guerra como el "renacimiento del pactismo",[^84] y en
+virreinato. Francisco Silvestre, gobernador de la provincia de
+Antioquia, escribiría en retrospectiva crítica que este indulto parecía
+por una parte "edicto pretorio" y por otra "carta pastoral, sin ser
+ninguno de los dos, "aunque redundante en palabras, que ofrecen mucho, y
+nada dicen, ni cumplen."[^83] Anthony McFarlane incluso consideró que en
+el texto del indulto estaba señalado el compromiso por un "nuevo pacto
+colonial, en el cual la corona ofreció los frutos del progreso económico
+a cambio de la obediencia incondicional a la autoridad real".[^84] Es
+evidente que la rebelión de los comunes del Nuevo Reino trajo como
+consecuencia un afán por revitalizar la conciencia del lazo entre los
+vasallos americanos y la Corona, que se puede interpretar al modo de
+François-Xavier Guerra como el "renacimiento del pactismo",[^85] y en
 este sentido fue la expresión del paternal amor, clemencia, piedad, y
 fraternal corrección del rey hacia sus vasallos, que debía
-corresponderse moralmente con la lealtad y obediencia del súbdito.[^85]
+corresponderse moralmente con la lealtad y obediencia del súbdito.[^86]
 A diferencia de la donación ofrecida por el indulto general, este
 ofrecimiento exigía y esperaba una respuesta superior de los agraciados,
 pues no sólo se les daba su libertad sino se les ofrecía el retorno a la
@@ -680,12 +684,12 @@ la cual le explicó los motivos por los cuales incluyó ciertos puntos en
 el edicto. En la comunicación le dice al Secretario de Indias que el
 indulto lo promulgó "con el único y preferente objeto de dar puntual
 cumplimiento a quanto Su Magestad manda, y radicar más la tranquilidad
-conseguida en esos vastos Dominios".[^86] Más interesante aún es el
+conseguida en esos vastos Dominios".[^87] Más interesante aún es el
 hecho de que casi al finalizar su escrito el arzobispo-virrey le haya
 dicho a Gálvez: "En mucha parte de este yndulto notará V. E. expresiones
 que no merecen estas gentes, pero hay ocasiones en que para decir a uno
 lo que debe hacer es menester suponer, y aun asegurar, que lo há
-hecho".[^87] Es decir, que aunque se acepte que muchas de las frases
+hecho".[^88] Es decir, que aunque se acepte que muchas de las frases
 atenuantes de la culpabilidad de los partícipes (en especial los
 cabecillas) fuesen falsas, y que las concesiones se consideren
 inmerecidas, para lograr la obediencia de los vasallos era necesario
@@ -698,7 +702,7 @@ violentas combulsiones, que es menester cortarlas al instante sin
 reparar en las malas, ó buenas, resultas de los medicamentos. Las que
 observamos son todas las mejores, y el Reyno se halla en una perfecta
 tranquilidad, obedientes los vasallos del Rey, y prontos todos á quanto
-se les mande".[^88] De tal manera que, le aseguraba Caballero a Gálvez,
+se les mande".[^89] De tal manera que, le aseguraba Caballero a Gálvez,
 gracias a sus acciones se había apagado el fuego de la sedición en el
 Nuevo Reino de Granada.
 
@@ -721,7 +725,7 @@ el arrepentimiento y reconciliación de los súbditos, condicionó el
 futuro de la felicidad pública a la tranquilidad del reino. De esta
 manera, no se ofrecía el perdón por un acto desinteresado de clemencia,
 sino con la condición de una "pronta y sincera conversión al
-soberano".[^89] Puede afirmarse que fue un indulto carente de virtud,
+soberano".[^90] Puede afirmarse que fue un indulto carente de virtud,
 desprovisto de clemencia y paternal amor. Al rey se le describe como
 "amable Soberano", el "más benigno y más liberal de los Monarcas", pero
 hay que resaltar que el arzobispo-virrey se describía a sí mismo como
@@ -735,7 +739,7 @@ terceros o del Real Fisco. Incluía sí a los reos presos y a los acusados
 ausentes que se presentaren en el plazo de un año, cuyas causas no
 serían tratadas por las justicias ordinarias sino deberías ser remitidas
 a la Real Audiencia para continuar los procedimientos en dicho tribunal
-y evitar que quedaran testimonios en los juzgados locales.[^90] En este
+y evitar que quedaran testimonios en los juzgados locales.[^91] En este
 sentido, abarcaba a los acusados de haber hecho parte de la sublevación,
 dejando a arbitrio del juez la gama de delitos que podía remitir y la
 acción a tomar dependiendo de la etapa procesal en la que se encontrara
@@ -746,32 +750,32 @@ conmoción popular, "todos los bulliciosos, que obedecieren, retirandose
 pacificamente al punto que se publique el Vando \[que los conminaba al
 orden\], quedarán indultados, á excepcion solamente de los que
 resultaren autores del bullicio, ó conmocion popular, pues en quanto á
-éstos, no ha de tener lugar indulto alguno".[^91]
+éstos, no ha de tener lugar indulto alguno".[^92]
 
 El indulto específicamente incluía a los denominados capitanes de los
 comuneros, quienes habrían tenido "la desgracia de acaudillar gentes y
-mandar tropas sublevadas".[^92] Librar a los cabecillas del castigo
+mandar tropas sublevadas".[^93] Librar a los cabecillas del castigo
 puede caracterizarse como un aspecto "controversial" del indulto del
-arzobispo-virrey. Como se indicó anteriormente,[^93] la práctica de la
+arzobispo-virrey. Como se indicó anteriormente,[^94] la práctica de la
 clemencia real prevenía que se castigasen los líderes del levantamiento,
 que sirvieran como ejemplo, y poder demostrar la piedad con los demás
 partícipes de las sublevaciones. Hábilmente, el indulto indicaba que la
 ejemplaridad del castigo había sido conseguida con el suplicio de Galán
 y sus cómplices, con lo cual quedaría "satisfecha la Justicia" a la vez
 que se habría escarmentado a los seguidores del "jefe
-invulnerable".[^94] Públicamente, Caballero y Góngora lo justificó de
+invulnerable".[^95] Públicamente, Caballero y Góngora lo justificó de
 tres maneras: los capitanes fueron forzados por la turba, aceptaron los
 cargos para evitar mayores estragos, se vieron impulsados "por un efecto
-de su errónea y punible ignorancia".[^95] De esta manera, no serían
+de su errónea y punible ignorancia".[^96] De esta manera, no serían
 caudillo en sentido estricto, pues no se les podría acusar de haber
 liderado la rebelión de manera premeditada; al contrario, su inopia los
-haría dignos de misericordia.[^96] En efecto, la remisión fue de lo más
+haría dignos de misericordia.[^97] En efecto, la remisión fue de lo más
 amplia pues no sólo les perdonaba y libraba de la pena, además restituía
 la fama de los líderes quienes quedaron declarados como "habilitados
 para que sin aquella infame nota que trahe consigo el negro título de
 Capitan de Levantados, puedan obtener, y exercer todos los empleos
 honoríficos, civiles y militares, á que sean acreedores por su
-mérito".[^97]
+mérito".[^98]
 
 En la carta a Gálvez, el prelado advertía que había omitido
 cuidadosamente del segundo capítulo del indulto las palabras "motores,
@@ -779,7 +783,7 @@ autores y cabezas del motín", por lo que la ambigüedad en la
 determinación de los comprehendidos en el indulto era parte de la
 estrategia política de Caballero y Góngora para dejar el campo abierto a
 "providencias posteriores" que pudieran llevarse a cabo para enjuiciar a
-los líderes de la rebelión.[^98] Además, indicó que el haber incluido a
+los líderes de la rebelión.[^99] Además, indicó que el haber incluido a
 los titulados como capitanes, que al parecer se podían diferenciar de
 las "cabezas" de la sublevación, había sido una medida que había tomado
 "pues de otro modo era imposible sosegar los recelos de los principales
@@ -791,27 +795,27 @@ Nemocón y por ello se presentó nuevamente la revuelta. El malestar se
 habría originado porque los habitantes de dicho pueblo confundieron a
 los motores de la revuelta con los capitanes, estos últimos sujetos del
 indulto acordado con el virrey Pimienta como fue tratado en las
-capitulaciones.[^99]
+capitulaciones.[^100]
 
 En la comunicación se enuncia una cuarta justificación para incluir a
 los capitanes en el indulto general, y consistía en que si se castigaban
 a estos sujetos, que habían sido forzados por la turba y llevados contra
 su voluntad a dirigir la rebelión, el gobierno de la república quedaría
 en manos de "gente rústica e incapaz de administrar recta
-justicia".[^100] Afirmaba el virrey que los capitanes eran principales,
+justicia".[^101] Afirmaba el virrey que los capitanes eran principales,
 hacendados y vecinos distinguidos, que habían sido forzados a participar
 precisamente por las calidades que tenían. Dejar en poder de la gleba a
 las alcaldías conllevaría el riesgo de que la justicia fuera utilizada
 para iniciar vindictas personales, pues según lo habría visto en el
 Nuevo Reino, sus habitantes no demostraban amor al prójimo y por ello
-estaban continuamente calumniándose "con los más ligeros motivos".[^101]
+estaban continuamente calumniándose "con los más ligeros motivos".[^102]
 Por otra parte, era la retribución a una estrategia que organizó
 Caballero y Góngora cuando se dedicó como arzobispo a calmar las
 provincias del Socorro y San Gil. En ese entonces había coordinados con
 los cabildos de esas ciudades el nombramiento de capitanes entre los
 vecinos principales y honrados, para que lideraran la sumisión a las
 justicias y con ello se pudiera detener cualquier nuevo brote de
-insurrección.[^102]
+insurrección.[^103]
 
 En el indulto se hacía explícito que sería recompensada la "heoryca
 lealtad" de Salvador Plata y sus acaudillados por haber aprehendido a la
@@ -823,12 +827,12 @@ restitución. Valga recordar que una de las máximas del indulto era que
 éste remitía la pena pero no borraba la infamia, por lo cual una orden
 para "borrar, si fuere posible, de la memoria de las gentes aquel triste
 monumento de infidelidad" representaba la recuperación del honor perdido
-por las ciudades que fueron escenarios de la insolencia.[^103] Por una
+por las ciudades que fueron escenarios de la insolencia.[^104] Por una
 parte, el arzobispo-virrey ejecutó una acción de benignidad al ordenar
 que los miembros de Galán y las cabezas de los demás ajusticiados se
 retiraran de la vista del público y se les diese cristiana sepultura a
 unos hombres que "que públicamente arrepentidos borraron sus delitos con
-sus lagrymas, y su penitencia".[^104] Por otra parte, estaba concediendo
+sus lagrymas, y su penitencia".[^105] Por otra parte, estaba concediendo
 un indulto a la provincia, algo que había explicado López de Cuéllar en
 su tratado sobre los indultos:
 
@@ -837,15 +841,15 @@ su tratado sobre los indultos:
 > Provincias, y Reynos, que delinquen, y sacudiendo el yugo de la
 > obediencia se revelan, si conociendo su error rendidos obedecen su
 > Imperio, puede perdonarlas, y restituyrlas á su antigua fama, y
-> privilegios, que por su delito avian perdido.[^105]
+> privilegios, que por su delito avian perdido.[^106]
 
 Como lo expresó en el indulto y en la carta a Gálvez, la tranquilidad de
 la provincia y el haber contribuido a la captura de Galán eran evidencia
 suficiente de la humillación de las provincias infames. La
 reconciliación de la ciudad no se acompañó de una ceremonia de
 humillación pública que ratificara la lealtad y el ofrecimiento del
-perdón,[^106] como sucedió en Quito tras la "rebelión de los barrios" de
-1765.[^107] Por lo tanto, el hecho de retirar los miembros mutilados de
+perdón,[^107] como sucedió en Quito tras la "rebelión de los barrios" de
+1765.[^108] Por lo tanto, el hecho de retirar los miembros mutilados de
 las villas de Socorro, San Gil, y los pueblos de Guaduas, Charalá y
 Mogotes, se consideraría como suficiente para representar la vuelta de
 estos poblados a la gracia del rey.
@@ -854,28 +858,28 @@ Por otra parte, el virrey ofrecía como evidencia de su nuevo mando,
 retirar algunas innovaciones fiscales que se consideraron como la causa
 del descontento popular. Esta era la ratificación de otro de los
 acuerdos realizados para desbandar la rebelión, específicamente los dos
-primeros puntos de las capitulaciones.[^108] Unos días después de la
+primeros puntos de las capitulaciones.[^109] Unos días después de la
 firma de las capitulaciones, en junio de 1781, el virrey Flórez comunicó
 en una carta circular al cabildo, justicias y regimiento de la villa del
 Socorro que se eliminaría el gravamen de armada de Barlovento además de
 las guías y contraguías, prometiendo la negociación del permiso de
 cultivo de tabaco, algo que no se incluyó posteriormente en el edicto de
-Caballero y Góngora.[^109] El impuesto a la armada de Barlovento había
+Caballero y Góngora.[^110] El impuesto a la armada de Barlovento había
 sido creado en 1635, implementado en el distrito de la Audiencia de
 Santa Fe en 1640, para contribuir al sostenimiento de las flotas del
 caribe que hacían presa de navíos con contrabando y de defender los
 puertos de ataques piratas, mediante el cobro de un 2 por ciento
-adicional a la alcabala.[^110] No era del todo falso la afirmación que
+adicional a la alcabala.[^111] No era del todo falso la afirmación que
 hacía el arzobispo-virrey de que la eliminación de este impuesto era
 simplemente nominal. Desde 1720 la tasa por armada se cobraba junto a la
 alcabala y para 1778, cuando fueron separados nominalmente por el
 regente Gutiérrez de Piñeres, fue percibido como si se estableciera una
-innovación tributaria.[^111] En realidad, y así lo manifestaba al
+innovación tributaria.[^112] En realidad, y así lo manifestaba al
 ministro Gálvez, lo único que hizo Caballero y Góngora fue restituir la
 tradición de cobrar el gravamen de armada de Barlovento junto a la
 alcabala como si fuese un único impuesto, "el qual pagan gustosos estos
 naturales y con solo haver suprimido el nombre porque en su ignorancia o
-capricho pesan mas los nombres que la realidad".[^112]
+capricho pesan mas los nombres que la realidad".[^113]
 
 Las guías y tornaguías fueron un sistema diseñado por Gutiérrez de
 Piñeres que buscaba controlar el tráfico de bienes al interior del Nuevo
@@ -887,12 +891,12 @@ bienes que habían llegado cumplían con el pago del gravamen
 correspondiente, o estaban respaldados por una fianza, y emitía una
 tornaguía. El malestar con este sistema surgía por la necesidad de los
 comerciantes de contratar un fiador y de pagar un notario para mover sus
-mercancías.[^113] Nuevamente Caballero y Góngora le aseguró a Gálvez que
+mercancías.[^114] Nuevamente Caballero y Góngora le aseguró a Gálvez que
 el retirar la exigencia de las tornaguías fue una necesidad ante la
 terquedad de los sublevados, pero que había tenido el cuidado de
 suprimir el nombre "salvando al mismo tiempo la realidad, disponiendo se
 presenten los despachos a los respectivos Administradores de Alcavalas,
-y que estos anoten en ellos lo que pagan por este Real Derecho".[^114]
+y que estos anoten en ellos lo que pagan por este Real Derecho".[^115]
 Era claro que, aunque el sistema de guías tenía un método para
 corroborar en destino que se hubiesen realizados las erogaciones
 correspondientes a la real hacienda, era necesario desarrollar una
@@ -918,12 +922,12 @@ e incluso destacado en bastardilla en el impreso, al decir que "*si*
 que les concede, y borraren los excesos pasados con las pruebas mas
 positivas de Obediencia y Lealtad, se harán acreedores á las
 felicidades, que se les preparan, y gozarán perpetuamente, de las
-ulteriores piedades de su Generoso Monarca*".[^115]
+ulteriores piedades de su Generoso Monarca*".[^116]
 
 Hans-Joachim König interpretó esta idea de obediencia filial como una
 estratagema política de Caballero y Góngora para expresar
 metafóricamente "la igualdad entre españoles europeos y los españoles
-americanos demandada por los Comuneros".[^116] Si se asume que los
+americanos demandada por los Comuneros".[^117] Si se asume que los
 puntos de las capitulaciones resumían las reivindicaciones generales de
 los diferentes partícipes de la rebelión es posible considerar que la
 interpretación de König coincide con el punto 22 de dicho documento:
@@ -940,7 +944,7 @@ interpretación de König coincide con el punto 22 de dicho documento:
 > estamos sujetos a un mismo Rey y Señor debemos vivir hermanablemente.
 > Y al que intentare señorearse y adelantarse a más de lo que
 > corresponde a la igualdad, por el mismo hecho sea separado de nuestra
-> sociabilidad.[^117]
+> sociabilidad.[^118]
 
 Sin embargo, la exhortación de Caballero y Góngora estaba más preocupada
 en sustentar la debida obediencia a las autoridades reales y
@@ -951,7 +955,7 @@ superior gobierno, y así lo expresó claramente cuando dijo:
 "representamos al vivo la Imagen de Dios y del Soberano dibujada con los
 tiernos colores de no pocas lágrimas derramadas á los pies del Santuario
 y del Trono, para interceder por la seguridad de sus vidas y
-Haciendas".[^118] Sin duda el punto 22 de las capitulaciones
+Haciendas".[^119] Sin duda el punto 22 de las capitulaciones
 correspondía a una reivindicación a favor de un gobierno de americanos,
 un evidente rechazo además al regente visitador quien asumió una
 política arrogante para la reforma acelerada de las convenciones
@@ -960,14 +964,14 @@ del cabildo mexicano de 1771, este enunciado de las capitulaciones es un
 manifiesto del descontento con el método empleado por José de Gálvez
 para implementar las reformas propuestas por Carlos III, en especial el
 destierro de las mediaciones y acuerdos para adelantar las
-innovaciones.[^119]
+innovaciones.[^120]
 
 El problema radica en que ni el texto del indulto de Caballero y
 Góngora, ni la carta explicativa, ni los textos de agradecimiento que
 circularon posteriormente, tratan de este punto. König contrapone el
 edicto del arzobispo-virrey con *El vasallo instruido* de Finestrad,
 señalando que este último se enfoca en la paterna autoridad monárquica
-en lugar del clamor de "hermandad" del primero.[^120] Sin embargo, el
+en lugar del clamor de "hermandad" del primero.[^121] Sin embargo, el
 edicto de indulto recalca permanentemente que el deber del súbdito es
 obedecer y no cuestionar las decisiones tomadas por las autoridades
 legítimas; de cierta manera, era una forma más sutil de expresar que los
@@ -984,7 +988,7 @@ liberal de los monarcas y sus más obedientes vasallos.
 
 El indulto general expedido por el virrey Antonio Amar y Borbón el 14 de
 octubre de 1808 no ha gozado de la misma atención que el edicto del
-arzobispo-virrey.[^121] No es de extrañar, toda vez que esta gracia no
+arzobispo-virrey.[^122] No es de extrañar, toda vez que esta gracia no
 fue expedida como mecanismo para concluir una rebelión, ni siquiera para
 contener un naciente descontento. A pesar de que para la fecha de su
 expedición existía una cierta incertidumbre entre los vecinos de Santa
@@ -998,7 +1002,7 @@ cautivo cuya autoridad había sido restituida a las ciudades. Valga
 recordar que en agosto de 1808 arribaron a los puertos sudamericanos las
 noticias de las abdicaciones de Bayona, los levantamientos en rechazo a
 José Bonaparte, y la formación de la autoproclamada Suprema Junta de
-Sevilla.[^122]
+Sevilla.[^123]
 
 [^1]: María Asenjo-González, "Función pacificadora y judicial de los
     corregidores en las villas y ciudades castellanas, a fines de la
@@ -1295,7 +1299,7 @@ Sevilla.[^122]
 
 [^64]: Allan J. Kuethe, *Military reform and society in New Granada,
     1773-1808* (Gainesville: The University Presses of Florida, 1978),
-    82.
+    82. La huída sería aprovechada por la "junta de tribunales" para
 
 [^65]: Phelan, *El pueblo y el rey*, 146--52; Jairo Antonio Melo Flórez,
     "La Audiencia contra el príncipe de Bogotá. El proceso contra el
@@ -1379,122 +1383,128 @@ Sevilla.[^122]
     Colombia-Sede Bogotá, Facultad de Ciencias Humanas, Centro de
     Estudios Sociales, 2012), 50.
 
-[^83]: McFarlane, *Colombia before Independence*, 264.
+[^83]: Francisco Silvestre, "Apuntes reservados particulares y generales
+    del estado actual del Virreinato de Santafé de Bogotá, (1789)" en
+    *Relaciones e informes de los gobernantes de la Nueva Granada*, ed.
+    Germán Colmenares, vol. II, Biblioteca Banco Popular 135 (Bogotá:
+    Fondo de promoción de la cultura del Banco Popular, 1989), 130.
 
-[^84]: François-Xavier Guerra, *Modernidad e independencias: ensayos
+[^84]: McFarlane, *Colombia before Independence*, 264.
+
+[^85]: François-Xavier Guerra, *Modernidad e independencias: ensayos
     sobre las revoluciones hispánicas*, 3a. ed, 3a. reimp (México: Fondo
     de Cultura Económica, MAPFRE, 2014), 169--73.
 
-[^85]: Hans-Joachim König, *En el camino hacia la nación: nacionalismo
+[^86]: Hans-Joachim König, *En el camino hacia la nación: nacionalismo
     en el proceso de formación del estado y de la nación de la Nueva
     Granada, 1750 a 1856* (Bogotá: Banco de la República, 1994), 209.
 
-[^86]: "Caballero y Góngora a José de Gálvez", Santa Fe, 15 de octubre
+[^87]: "Caballero y Góngora a José de Gálvez", Santa Fe, 15 de octubre
     de 1782, BLAA-RM, MSS756, vol. 1, ff. 41r-41v. Otra copia se puede
     consultar en "No. 3, el Arzobispo virrey de Santa Fe dirije seis
     exemplares del yndulto...", AGI, Santa Fe, 594. Incluyo la
     transcripción en el **anexo 12**
 
-[^87]: "Caballero y Góngora a José de Gálvez", f. 46v-47r.
+[^88]: "Caballero y Góngora a José de Gálvez", f. 46v-47r.
 
-[^88]: "Caballero y Góngora a José de Gálvez", f. 47r.
+[^89]: "Caballero y Góngora a José de Gálvez", f. 47r.
 
-[^89]: "Edicto para manifestar al público", cap. I.
+[^90]: "Edicto para manifestar al público", cap. I.
 
-[^90]: "Edicto para manifestar al público", cap. IV.
+[^91]: "Edicto para manifestar al público", cap. IV.
 
-[^91]: "Pragmatica sancion de S. M. en fuerza de ley, por la qual se
+[^92]: "Pragmatica sancion de S. M. en fuerza de ley, por la qual se
     prescribe el orden con que se ha de proceder contra los que causen
     bullicios ó commociones populares", (Madrid: Imprenta de Pedro
     Marin, 1774), Universidad de Sevilla, Biblioteca Rector Machado y
     Núñez, Fondo Antiguo, A 113/136.
 
-[^92]: "Edicto para manifestar al público", cap. III.
+[^93]: "Edicto para manifestar al público", cap. III.
 
-[^93]: *Ut* *supra* núm. 1.1, nota 45.
+[^94]: *Ut* *supra* núm. 1.1, nota 45.
 
-[^94]: "Edicto para manifestar al público", cap. V.
+[^95]: "Edicto para manifestar al público", cap. V.
 
-[^95]: Edicto para manifestar al público", cap. III.
+[^96]: Edicto para manifestar al público", cap. III.
 
-[^96]: *Ut supra* cap. 2.4
+[^97]: *Ut supra* cap. 2.4
 
-[^97]: Edicto para manifestar al público", cap. III. *Ut supra* cap.
+[^98]: Edicto para manifestar al público", cap. III. *Ut supra* cap.
     2.1.1.
 
-[^98]: "Caballero y Góngora a José de Gálvez", ff. 41v-42r.
+[^99]: "Caballero y Góngora a José de Gálvez", ff. 41v-42r.
 
-[^99]: "Caballero y Góngora a José de Gálvez", f. 42r.
+[^100]: "Caballero y Góngora a José de Gálvez", f. 42r.
 
-[^100]: "Caballero y Góngora a José de Gálvez", f. 44v.
+[^101]: "Caballero y Góngora a José de Gálvez", f. 44v.
 
-[^101]: "Caballero y Góngora a José de Gálvez", f. 44r. Phelan, *El
+[^102]: "Caballero y Góngora a José de Gálvez", f. 44r. Phelan, *El
     pueblo y el rey*, 311.
 
-[^102]: "Flores a la Real Audiencia", Cartagena, 22 de octubre de 1781,
+[^103]: "Flores a la Real Audiencia", Cartagena, 22 de octubre de 1781,
     AGI, Santa Fe, 664. Friede, *Rebelión comunera*, vol. II, 487-488.
 
-[^103]: *Ut supra* cap. 2.1.1. y 2.1.2.
+[^104]: *Ut supra* cap. 2.1.1. y 2.1.2.
 
-[^104]: "Edicto para manifestar al público", cap. V.
+[^105]: "Edicto para manifestar al público", cap. V.
 
-[^105]: López de Cuéllar, *Tratado iuridico-politico*, núm. 51.
+[^106]: López de Cuéllar, *Tratado iuridico-politico*, núm. 51.
 
-[^106]: Verónica Salazar Baena afirma que dicha reconciliación se dio
+[^107]: Verónica Salazar Baena afirma que dicha reconciliación se dio
     con las ceremonias de juramentación de Carlos IV en 1789, "Fastos
     monárquicos", 387.
 
-[^107]: Anthony McFarlane, "The Rebellion of the 'Barrios': Urban
+[^108]: Anthony McFarlane, "The Rebellion of the 'Barrios': Urban
     Insurrection in Bourbon Quito", en *Reform and Insurrection in
     Bourbon New Granada and Peru*, ed. John R Fisher, Allan J Kuethe, y
     Anthony McFarlane (Baton Rouge: Louisiana State University Press,
     1990), 238. Trataremos con detalle el perdón de Quito en el
     siguiente capítulo.
 
-[^108]: 1° "que ha de fenecer en el todo el ramo de Real hacienda,
+[^109]: 1° "que ha de fenecer en el todo el ramo de Real hacienda,
     titulado Barlovento, tan perpetuamente que jamás vuelva a oírse su
     nombre." 2° "Que las guías que tanto han molestado en el principio
     de su establecimiento a todo el Reino, cese para siempre jamás su
     molestia". AGI, Santa Fe, 557B, f. 750r. Friede, *Rebelión
     comunera*, vol. I, 78.
 
-[^109]: Montoya Gómez, "Castigo y perdón", 47.
+[^110]: Montoya Gómez, "Castigo y perdón", 47.
 
-[^110]: Oscar Rodríguez Salazar, "La caja real de Popayán 1738-1800",
+[^111]: Oscar Rodríguez Salazar, "La caja real de Popayán 1738-1800",
     *Anuario Colombiano de Historia Social y de la Cultura*, núm. 15
     (1987): 12--13.
 
-[^111]: Phelan, *El pueblo y el rey*, 49--50.
+[^112]: Phelan, *El pueblo y el rey*, 49--50.
 
-[^112]: "Caballero y Góngora a José de Gálvez", f. 45r.
+[^113]: "Caballero y Góngora a José de Gálvez", f. 45r.
 
-[^113]: Phelan, *El pueblo y el rey*, 50--51.
+[^114]: Phelan, *El pueblo y el rey*, 50--51.
 
-[^114]: "Caballero y Góngora a José de Gálvez", f. 46r.
+[^115]: "Caballero y Góngora a José de Gálvez", f. 46r.
 
-[^115]: "Edicto para manifestar al público", cap. XII.
+[^116]: "Edicto para manifestar al público", cap. XII.
 
-[^116]: König, *En el camino hacia la nación*, 210.
+[^117]: König, *En el camino hacia la nación*, 210.
 
-[^117]: "Las Capitulaciones de los Comuneros", 8 de junio de 1781, AGI,
+[^118]: "Las Capitulaciones de los Comuneros", 8 de junio de 1781, AGI,
     Santa Fe, 577B. Friede, *Rebelión comunera*, vol. I, 88.
 
-[^118]: "Edicto para manifestar al público", colofón.
+[^119]: "Edicto para manifestar al público", colofón.
 
-[^119]: Salvador Bernabeu Albert, *El criollo como voluntad y
+[^120]: Salvador Bernabeu Albert, *El criollo como voluntad y
     representación*, Prisma histórico 6 (Madrid : Aranjuez: Fundación
     MAPFRE ; Ediciones Doce Calles, 2006), 49.
 
-[^120]: König, *En el camino hacia la nación*, 210.
+[^121]: König, *En el camino hacia la nación*, 210.
 
-[^121]: De hecho, difícilmente se encuentra una referencia
+[^122]: De hecho, difícilmente se encuentra una referencia
     historiográfica a esta gracia además de la mención que hizo Mario
     Herrán Baquero a finales de la década de 1980. *El virrey don
     Antonio Amar y Borbón: la crisis del régimen colonial en la Nueva
     Granada*, Colección bibliográfica Banco de la República. Historia
     colombiana (Bogotá: Banco de la República, 1988).
 
-[^122]: Como señaló François-Xavier Guerra, la reacción a la acefalía
+[^123]: Como señaló François-Xavier Guerra, la reacción a la acefalía
     monárquica fue diferente en buena medida porque las noticias
     llegaron por separado. *Modernidad e independencias*, 130. También
     Jaime E. Rodríguez O., *La independencia de la América española*,
