@@ -120,33 +120,33 @@ justicia y gobierno,[^14] tenía que estar vinculado al universo místico
 del perdón cristiano y la misma justicia divina; de hecho, como lo han
 demostrado entre otros Óscar Mazín y Alejandro Agüero, la doctrina
 cristiana era indisociable de la administración de la justicia en
-Indias.[^15] Una representación ideal de esta idea se evidencia en *El
-indulto general* de Pedro Calderón de la Barca, un acto sacramental
-escrito para ser representado en la fiesta del Corpus de 1680. El tema
-fue escogido con el propósito de realizar una alegoría del indulto
-general concedido por Carlos II a los reos de Atocha con motivo de la
-boda con la reina María Ana de Neoburgo. La representación central del
-auto relacionaba el perdón real con la redención de la humanidad dada
-por Cristo. En el auto, Calderón representó en "el príncipe" tanto a
-Carlos II como a Jesucristo y en "la esposa" a la reina María, la
-Iglesia y la Virgen María, con lo cual se trataba de personificar los
-esponsales simbólicos que daban sentido a la monarquía como la forma de
-gobierno que reconciliaba el cielo y la tierra.[^16] Los versos de
-Calderón llaman la atención por la conjunción entre los elementos
-místicos y jurídicos involucrados en la tradición del indulto general
-español. No sólo escenificó el origen divino de la institución del
-perdón tras el sacrificio de Cristo, transmitido a los príncipes al ser
-sus vicarios en lo temporal; también representó los aspectos generales
-del proceso judicial asociado a la petición y concesión de los indultos
-como la visita de cárcel, la revisión de la causa, la petición del reo,
-la restitución de las deudas, el perdón de parte, entre otros. La
-Justicia y la Misericordia representaban los "polos de la monarquía", el
-rigor y la clemencia, con ellos la prudencia del juez que escucha a los
-reos; añade también al Ángel como procurador de pobres para defender la
-causa de los culpados (vv. 1269-1271). Al posicionarse para juzgar, los
-tres personajes mencionados debían salir cada uno portando una espada,
-una rama de olivo y una cruz respectivamente, tomando así la forma de
-"las armas de la Inquisición" (v. 1636).
+Indias.[^15] Una representación de esta idea se evidencia en *El indulto
+general* de Pedro Calderón de la Barca, un acto sacramental escrito para
+ser representado en la fiesta del Corpus de 1680. El tema fue escogido
+con el propósito de realizar una alegoría del indulto general concedido
+por Carlos II a los reos de Atocha con motivo de la boda con la reina
+María Ana de Neoburgo. La representación central del auto relacionaba el
+perdón real con la redención de la humanidad dada por Cristo. En el
+auto, Calderón representó en "el príncipe" tanto a Carlos II como a
+Jesucristo y en "la esposa" a la reina María, la Iglesia y la Virgen
+María, con lo cual se trataba de personificar los esponsales simbólicos
+que daban sentido a la monarquía como la forma de gobierno que
+reconciliaba el cielo y la tierra.[^16] Los versos de Calderón llaman la
+atención por la conjunción entre los elementos místicos y jurídicos
+involucrados en la tradición del indulto general español. No sólo
+escenificó el origen divino de la institución del perdón tras el
+sacrificio de Cristo, transmitido a los príncipes al ser sus vicarios en
+lo temporal; también representó los aspectos generales del proceso
+judicial asociado a la petición y concesión de los indultos como la
+visita de cárcel, la revisión de la causa, la petición del reo, la
+restitución de las deudas, el perdón de parte, entre otros. La Justicia
+y la Misericordia representaban los "polos de la monarquía", el rigor y
+la clemencia, con ellos la prudencia del juez que escucha a los reos;
+añade también al Ángel como procurador de pobres para defender la causa
+de los culpados (vv. 1269-1271). Al posicionarse para juzgar, los tres
+personajes mencionados debían salir cada uno portando una espada, una
+rama de olivo y una cruz respectivamente, tomando así la forma de "las
+armas de la Inquisición" (v. 1636).
 
 El cuadro alegórico presentado por Calderón es una síntesis de la imagen
 de la institución del indulto que tenía como propósito hacer comprender
@@ -216,7 +216,7 @@ de indultar a los príncipes y superiores para con esta canalizar su
 compasión. Según esta idea, era el miedo a la espada lo que compelía al
 delincuente agradecer la clemencia, ya que no era su inocencia la que
 generaba el perdón sino su culpabilidad. De allí la idea, tomada de
-Séneca y difundida vía Tomás de Aquino, según la cual perdonar consistía
+Séneca y difundida vía Tomás de Aquino, según la cual perdonar residía
 en no castigar a quien merecía serlo, es decir, en la remisión de un
 castigo que debía ser, en justicia, infligido.[^29]
 
@@ -300,7 +300,7 @@ historia, de los usos y fueros de la provincia, y sobre todo de la
 experiencia personal.[^43] Según Castillo de Bovadilla, este saber
 permitía discernir qué era justo y qué injusto, lo que en términos
 prácticos significaba discernir a quién castigar y a quién
-galardonar.[^44] El sentido de supeditar la clemencia y la severidad a
+galardonar.[^44] El sentido de limitar la clemencia y la severidad con
 la prudencia se sustentaba en la pretensión de conseguir el equilibrio
 entre amor y temor al supeditar la decisión del gobernante o del juez al
 conocimiento previo de lo que la costumbre demostraba eran actos de buen
@@ -317,22 +317,22 @@ castigo y después, o concomitantemente, la clemencia. Un ejemplo de lo
 anterior fue el indulto pecuniario que decretó, a nombre de Carlos III,
 el marqués de la Torre cuando fungió como gobernador y capitán general
 de Venezuela. Al poco tiempo de haberlo promulgado, le comunicó al rey
-acerca de los efectos positivos que tuvo el perdón decretado para
+acerca de los resultados positivos que tuvo el perdón decretado para
 detener el contrabando en la provincia de su mando, los cuales se
 habrían logrados gracias a que previamente se decretaron y ejecutaron
 medidas rigurosas contra los delincuentes para después ofrecerles la
-clemencia. En palabras del gobernador, el propósito de su estrategia
-consistía en "atraerlos \[delincuentes\] despues del escarmiento á
-lograr las quietudes del yndulto".[^46] Esta estrategia requería atraer
-a quien actuaba por su propia voluntad y de la misma manera lograr la
-sumisión de quien sólo ha sido reprimido pero no amansado. Con el
-castigo se afectaba el fuero externo y con el perdón se pretendía
-alcanzar el fuero interno, para el cual no habría potestad que lograra
-moldearlo desde el imperio temporal. El verbo "amansar" se usa aquí de
-manera deliberada porque el objetivo último de la clemencia consistía
-tanto en reforzar la lealtad de aquel que había cometido una falta
-menor, producto de su imperfección natural humana, como en doblegar al
-malvado consumido por el vicio y llevarlo al camino de la mansedumbre.
+clemencia. En palabras del gobernador, el propósito de su estrategia era
+"atraerlos \[delincuentes\] despues del escarmiento á lograr las
+quietudes del yndulto".[^46] Esta estrategia requería atraer a quien
+actuaba por su propia voluntad y de la misma manera lograr la sumisión
+de quien sólo ha sido reprimido pero no amansado. Con el castigo se
+afectaba el fuero externo y con el perdón se pretendía alcanzar el fuero
+interno, para el cual no habría potestad que lograra moldearlo desde el
+imperio temporal. El verbo "amansar" se usa aquí de manera deliberada
+porque el objetivo último de la clemencia radicaba en reforzar la
+lealtad de aquel que había cometido una falta menor, producto de su
+imperfección natural humana, así como en doblegar al malvado consumido
+por el vicio y llevarlo al camino de la mansedumbre.
 
 Puede considerarse que la monarquía actuaba con todo su imperio cuando
 podía combinar de manera efectiva castigo y clemencia, una estrategia
@@ -372,9 +372,9 @@ evidencia de utilidad, y con buena deliveracion, y consejo".[^51] El
 tipo ideal del uso de la clemencia correspondía con un arquetipo que el
 oficial tendría en cuenta antes de tomar una decisión, sin embargo,
 apegarse de modo estricto al seguimiento de la norma podría conllevar a
-efectos más nocivos que aquellos que podrían resultar tras el disimulo
-de la falta. Según Paolo Grossi, el disimulo desde el derecho canónico
-medieval "consiste en el comportamiento evasivo de un superior
+consecuencias más nocivos que aquellos que podrían resultar tras el
+disimulo de la falta. Según Paolo Grossi, el disimulo desde el derecho
+canónico medieval "consiste en el comportamiento evasivo de un superior
 eclesiástico ante un acto ilícito para evitar una ilicitud mayor".[^52]
 Como tantos préstamos del *iuris canonici* al derecho civil, el disimulo
 excusaba la lenidad en el castigo al preferir la conservación del orden
@@ -388,8 +388,8 @@ La autoridad y la clemencia
 ---------------------------
 
 Para comprender por qué la práctica del perdón requería de la clemencia
-es relevante aclarar previamente la distinción entre autoridad y
-potestad. En la tradición del *ius commune* la *auctoritas*
+es relevante aclarar previamente las particularidades de la autoridad y
+la potestad. En la tradición del *ius commune* la *auctoritas*
 representaría el aspecto del poder vinculado con el *ordo ordinans*, es
 decir, con el orden "puesto en orden" por la divinidad y que por su
 sentido místico era invisible a los hombres. La *potestas*, por otra
@@ -430,7 +430,7 @@ hacia el sentido de clemencia (*Gnade*) de manera similar al proceso
 vivido por el concepto de gracia en las lenguas romances; en particular
 en el italiano, que conserva el sentido de *grazia* como perdón.[^63]
 
-La dificultad que puede presentar la distinción entre *auctoritas* y
+La dificultad que puede presentar el separar la *auctoritas* y la
 *potestas* se encuentra en el sentido contemporáneo de la soberanía como
 el ejercicio pleno de la potestad, ya sea de la *civitas* o de la
 majestad humana, y del proceso de secularización de las instituciones
@@ -562,7 +562,7 @@ sino la evidencia de las buenas acciones que sólo podía realizar el
 monarca por sí mismo, sin poder delegar a nadie en su favor; por lo
 cual, se pretendía que se eligiesen oficiales con buenas costumbres
 antes que con conocimiento, como afirmaba Castillo de Bovadilla, si las
-leyes son buenas no tendrían ningún efecto si el juez era vicioso ya que
+leyes son buenas no tendrían ningún fruto si el juez era vicioso ya que
 en "la práctica de la Justicia ninguno puede bien usarla, si no está
 dotado de todas las virtudes \[...\], el gobernar es oficio de la
 prudencia, á la qual como sean anexas todas las virtudes, es necesario,
@@ -576,7 +576,7 @@ divino, para poderle dignamente sustentar".[^90] La justicia, la
 prudencia, la gracia o la clemencia formaban parte integral de la
 majestad de la entidad regia, haciendo incomprensible la figura de un
 príncipe cristiano carente de ellas.[^91] Un ejemplo de esta idea fue
-señalada por Juan de Mariana cuando afirmó: "La tiranía, que es la
+señalado por Juan de Mariana cuando afirmó: "La tiranía, que es la
 última y peor forma de gobierno, es también antitética de la monarquía,
 y ejerce sobre los súbditos un poder riguroso. Muchas veces el tirano
 arrebata el poder mediante la fuerza, pero, aun partiendo de un orden
@@ -843,18 +843,18 @@ donación y contradonación, en la práctica el abuso de esta prerrogativa
 trascendía dicha relación virtuosa entre la corona y sus vasallos.[^142]
 El exceso de gracia, como lo identificaron los hombres de la época, no
 replicaba en el bien de la monarquía sino en su decadencia. La venalidad
-era efecto de una práctica graciosa que se convirtió en regla antes que
-excepción; sin refutar su origen volitivo, la venta de cargos redundó en
-corrupción, en redes clientelares con la suficiente fortaleza para
-influenciar el gobierno de la monarquía en su beneficio.[^143] En este
-sentido, la amplia historiografía generada en las últimas décadas en
-torno al problema de la venalidad y la corrupción expone el contrapunto
-al funcionamiento ordenado de la gracia y los efectos adversos que tuvo
-el abuso de dicha regalía.[^144] Un patrón similar, aunque con
-diferentes consecuencias, se presentó con los denominados perdones "al
-sacar", práctica común en los reinos españoles de Europa durante los
-reinados de Felipe III y IV que buscaba, en compañía de otras
-estrategias, paliar la crisis financiera de la monarquía.[^145] En
+era resultado de una práctica graciosa que se convirtió en regla antes
+que excepción; sin refutar su origen volitivo, la venta de cargos
+redundó en corrupción, en redes clientelares con la suficiente fortaleza
+para influenciar el gobierno de la monarquía en su beneficio.[^143] En
+este sentido, la amplia historiografía generada en las últimas décadas
+en torno al problema de la venalidad y la corrupción expone el
+contrapunto al funcionamiento ordenado de la gracia y los efectos
+adversos que tuvo el abuso de dicha regalía.[^144] Un patrón similar,
+aunque con diferentes consecuencias, se presentó con los denominados
+perdones "al sacar", práctica común en los reinos españoles de Europa
+durante los reinados de Felipe III y IV que buscaba, en compañía de
+otras estrategias, paliar la crisis financiera de la monarquía.[^145] En
 Indias, la venta de indultos al parecer no gozó del mismo impulso que la
 venalidad, como lo señala Tamar Herzog para el caso quiteño, si los
 perdones al sacar fueron practicados no quedaron huellas en los
@@ -879,7 +879,7 @@ orden de la república. Esta función armonizadora de la gracia
 representaba una "realización de la justicia" mediante la acción, al
 margen del derecho que redundaba en la utilidad pública.[^147]
 
-El efecto de la gracia y la clemencia se suponía irrevocable, sin
+El resultado de la gracia y la clemencia se suponía irrevocable, sin
 embargo, la concesión podía revertirse si el beneficiario actuaba contra
 el rey.[^148] Volviendo al caso que sirvió como introducción a este
 capítulo, la decisión del rey de no ejercer el inmediato castigo de los
@@ -905,98 +905,28 @@ no sabe, que puede cumplir".[^150]
 
 Una interpretación contrafactual de los posibles efectos de retirar el
 perdón en la tropa sublevada puede ser analíticamente débil, sin
-embargo, hubo ocasiones donde el efecto de mantener la palabra empeñada
-fue usada como argumento a favor del reo. Como ejemplo sirve la
-comunicación que Josefa Ramona de Gracian envió al ministro de gracia y
-justicia, Melchor Gaspar de Jovellanos, en la cual reclamaba el
-apresamiento y remisión a España de su esposo, Martín de Goenaga, quien
-fue perdonado tras confesar haber sido cómplice de la denominada
-"conspiración de Gual y España" de 1797. Decía la suplicante a
-Jovellanos que ella siempre había entendido que los indultos bajo
-palabra real eran inviolables, y para reforzar esta idea añadía: "Que en
-el caso presente los Ministros del Real Acuerdo obraron con facultades
-en la publicacion y prometimiento pues que no lo habrian echo á no
-tenerlas muy lexitimas por no ser menos temibles y peligrosas, segun el
-politico Don Diego Sabedra, las conseqüencias de faltarse á los perdones
-prometidos que prometerlos banamente ó sin autoridad para ello".[^151]
-En 1802 el Consejo de Indias resolvió que Goenaga y otros que se
-acogieron al indulto estaban comprendidos por el perdón real, quedando
-en libertad con la condición de no regresar a los reinos de Indias ni
-recaer en otra conspiración.[^152] Finalmente, la palabra real, al menos
-por la vía de Consejo, mantuvo intacta su autoridad.
+embargo, hubo ocasiones donde el mantener la palabra empeñada sirvió
+como argumento a favor del reo. Como ejemplo sirve la comunicación que
+Josefa Ramona de Gracian envió al ministro de gracia y justicia, Melchor
+Gaspar de Jovellanos, en la cual reclamaba el apresamiento y remisión a
+España de su esposo, Martín de Goenaga, quien fue perdonado tras
+confesar haber sido cómplice de la denominada "conspiración de Gual y
+España" de 1797. Decía la suplicante a Jovellanos que ella siempre había
+entendido que los indultos bajo palabra real eran inviolables, y para
+reforzar esta idea añadía: "Que en el caso presente los Ministros del
+Real Acuerdo obraron con facultades en la publicacion y prometimiento
+pues que no lo habrian echo á no tenerlas muy lexitimas por no ser menos
+temibles y peligrosas, segun el politico Don Diego Sabedra, las
+conseqüencias de faltarse á los perdones prometidos que prometerlos
+banamente ó sin autoridad para ello".[^151] En 1802 el Consejo de Indias
+resolvió que Goenaga y otros que se acogieron al indulto estaban
+comprendidos por el perdón real, quedando en libertad con la condición
+de no regresar a los reinos de Indias ni recaer en otra
+conspiración.[^152] Finalmente, la palabra real, al menos por la vía de
+Consejo, mantuvo intacta su autoridad.
 
-El perdón como reconciliación e indulgencia cristiana
------------------------------------------------------
-
-La ceremonia de indulto comprendía una manera de escenificar la alianza
-simbólica entre los vasallos y el rey, personificado por sus oficiales y
-magistrados, con la cual se daba por restituida la autoridad de la
-corona. Para ello, los vasallos demostraban su sumisión mediante la
-genuflexión o la postración ante la autoridad que representaba la
-potestad del príncipe, prometían cesar la rebeldía, sin importar si ésta
-era justificada, y clamaban por la piedad del monarca. Esta práctica
-rememoraba el ritual cristiano de solicitud de la gracia divina y, de
-cierta manera, seguía canales similares para la obtención del don regio,
-incluso podía involucrar elementos similares a la confesión al
-entregarse a la autoridad y admitir sus delitos. Durante el siglo XVIII
-la ritualidad no fue ajena a los procesos de concesión del perdón
-general. La rebelión de Cartagena de 1745, que ha servido como eje
-articulador de este capítulo, muestra que los aspectos ceremoniales
-estaban vigentes aún en ese momento. [Otros ejemplos que traeremos a
-colación pretenden demostrar la pervivencia de la ritualidad en las
-ceremonias de perdón, sin perder de vista que las "grandes rebeliones"
-representaron una nueva relación con la autoridad regia que se vio
-reflejada en los espacios rituales.]{.underline}[^153] [ Siendo
-coherentes con la hipótesis planteada en este trabajo, el ceremonial del
-perdón como estrategia simbólica para la restauración de la autoridad
-habría caído en desuso ante el interés, o practicidad que representaba
-el acogerse a los indultos generales que periódicamente promulgaron
-Carlos III y Carlos IV. La amplitud de los perdones y la dilación de sus
-efectos en territorios americanos habrían hecho innecesaria la práctica
-ceremonial del perdón puesto que no era requisito para los efectos
-jurídicos del perdón.]{.underline}
-
-En términos institucionales, el indulto tenía los mismos efectos
-jurídicos (eliminación o conmutación de la pena, restitución de bienes y
-fama, entre otros) sin que fuese necesario llevar a cabo una
-ceremonia.[^154] No quiere esto decir que los aspectos simbólicos
-estuviesen separados de los actos jurídicos. En el proceso inquisitivo,
-el juramento se garantizaba no sólo por la advertencia de castigo en
-caso de falso testimonio, también se aseguraba la honestidad del testigo
-al hacerlo jurar ante "Dios Nuestro Señor" y exigirle hacer la señal de
-la santa cruz. La forma de hacer el juramento no era opcional, Hevia
-Bolaños lo decía claramente: "No vale el dicho del testigo, si no se
-dijo con juramento."[^155] Así estaba establecido desde los tiempos de
-*Las Partidas*,[^156] y en ningún momento se denota una modificación en
-la práctica de los tribunales.[^157] Esto no significaba una garantía
-contra los falsos testimonios, no obstante, las pocas voces en contra de
-la validez del juramento indican la relevancia y persistencia de los
-elementos simbólicos dentro del procedimiento civil y penal
-hispano.[^158]
-
-Bien podría el perdón estar asociado a una garantía simbólica como el
-juramento o la promesa, mas los aspectos rituales de la indulgencia no
-estaban asociados con la remisión de la pena sino con el intercambio
-entre clemencia y sumisión. Aunque el acto fuera dirigido por un
-gobernador o el virrey, éste se hacía a nombre del monarca, al cual se
-invocaba para hacer efectiva la restitución de la equidad. No está de
-más aclarar que las convenciones demandaban la recepción explícita de la
-facultad para perdonar o invocar el perdón real, de otro modo el indulto
-no sería válido. Así que valdría la pena cuestionarse el por qué se
-realizaban ceremonias para el perdón general aun cuando eran
-innecesarias para los efectos jurídicos del indulto. De esta manera se
-podría indagar en las motivaciones que llevaron a los soldados alzados
-de Cartagena de 1745 a demandar la procesión con el sagrado sacramento
-como requisito para aceptar el perdón, o las causas por las cuales los
-oficiales reales insistían en una ceremonia pública para ratificar el
-indulto que en todo caso ya estaba dado. Del mismo modo, valdría la pena
-explorar si existió algo que se pueda denominar como "ceremonia de
-perdón", ya que para validar una ritualidad asociada al indulto habría
-que comprobar el principio de repetición solemne, lo cual estaría en
-aparente contradicción con el sentido del ejercicio de la clemencia real
-como un acto excepcional.
-
-### El sagrado sacramento y la reconciliación
+Símbolos de la fe cristiana como intermediarios de la paz
+---------------------------------------------------------
 
 Los perdones del Viernes Santo correspondían a la jornada tradicional
 para liberar a los presos, lo cual hacía eco de los indultos romanos a
@@ -1005,15 +935,15 @@ remembranza de la liberación de Barrabás y la redención del "buen
 ladrón" hecha por Jesús en la cruz. La fiesta del Corpus, por otra
 parte, era el escenario ideal para simbolizar la reunión de la ciudad
 con la Corona y por esto, rememorar la unión de los cristianos salvados
-de la condenación eterna por el misterio de la eucaristía.[^159] Esta
+de la condenación eterna por el misterio de la eucaristía.[^153] Esta
 procesión constituía una representación del *corpus mysticum* en el cual
 el orden de primacía se convertía en un asunto primordial para demostrar
-la organización de la autoridad en la ciudad,[^160] paradójicamente,
+la organización de la autoridad en la ciudad,[^154] paradójicamente,
 también fue la fiesta del Corpus la que ayudó a construir la idea de la
-iglesia como cuerpo político.[^161] Durante la procesión, el sagrado
+iglesia como cuerpo político.[^155] Durante la procesión, el sagrado
 sacramento se convertía en el centro de la ciudad y quien estuviese más
 cerca de la custodia hacía evidente su poder dentro del cuerpo político,
-tanto secular como eclesiástico.[^162] Este es un tema que ha atraído la
+tanto secular como eclesiástico.[^156] Este es un tema que ha atraído la
 atención de la historiografía debido a los diversos conflictos
 corporativos en las ciudades europeas y americanas. Poco se ha tratado
 en cambio sobre el perdón y la fiesta del Corpus pues no eran dos
@@ -1024,7 +954,7 @@ esto no significa que se acostumbrara indultar en cada procesión del
 Santísimo Sacramento. La fiesta del Corpus no representaba un momento
 para ofrecer o cumplir el perdón sino para preparar la reconciliación o
 reforzar la armonía de la ciudad, que en el antiguo régimen era sinónimo
-del *ordo* natural.[^163]
+del *ordo* natural.[^157]
 
 Por otra parte, el indulto de Viernes Santo se convirtió en una
 tradición propia de la Corte del rey que no parece haberse replicado en
@@ -1034,7 +964,7 @@ momento desconozco si hubo solicitudes de indulto provenientes de Indias
 que fueran tramitadas como perdones de Viernes Santo, pero las
 investigaciones que hasta el momento se han adelantado para el ámbito
 peninsular parecen sugerir que no era el caso (al menos para las gracias
-concedidas).[^164] Si bien el fundamento simbólico que conllevaba iterar
+concedidas).[^158] Si bien el fundamento simbólico que conllevaba iterar
 el perdón cada semana de pasión fortalecía la idea de una alianza entre
 las coronas divina y humana, el propósito de reservar una fecha para la
 indulgencia regia tuvo como finalidad práctica el contribuir a temperar
@@ -1043,16 +973,16 @@ perdones que podrían concederse cada año. De este modo, todas las
 impetraciones se acumularían hasta que llegada la Semana Santa el
 confesor real le diera una relación de las súplicas al monarca, quien
 decidiría finalmente cuáles deberían recibir la merced del perdón. Esta
-convención se estableció desde por lo menos desde 1447,[^165] año de las
-nupcias entre Juan II de Castilla e Isabel de Portugal,[^166] pero sólo
+convención se estableció desde por lo menos desde 1447,[^159] año de las
+nupcias entre Juan II de Castilla e Isabel de Portugal,[^160] pero sólo
 se aplicó con regularidad en el periodo que fue de l573 hasta 1700.
 Durante el siglo XVIII los perdones de Viernes Santo parecen haber
 decaído en favor de los "indultos generales" promulgados desde la
-coronación de Carlos III.[^167] Se convirtió en la época borbónica en
+coronación de Carlos III.[^161] Se convirtió en la época borbónica en
 una tradición con poco impacto en el gobierno de la gracia, aunque con
 un importante arraigo que se mantiene hasta la actualidad, siendo las
 cofradías quienes cumplen un papel fundamental al ser las que fungen
-como mediadoras entre el reo y la justicia real.[^168]
+como mediadoras entre el reo y la justicia real.[^162]
 
 Claramente las festividades de semana santa, como otras del calendario
 litúrgico, hacían parte de la vida política de la monarquía católica,
@@ -1067,7 +997,7 @@ sacerdotes seculares y los 444 frailes apostados en la capital
 acompañarían la custodia con cantos gregorianos como primera y única
 línea de defensa de la ciudad. Era tal el nivel de desesperación que
 tenía la junta de tribunales que decidió que en caso de que no fueran
-atendidos sus ruegos, la ciudad se rendiría a los sublevados.[^169]
+atendidos sus ruegos, la ciudad se rendiría a los sublevados.[^163]
 Algunos meses antes, en el pueblo de Challapata, de la provincia de
 Paria en el virreinato del Perú, los indígenas del poblado habían
 decapitado al corregidor Manuel de la Bodega y Llano en retaliación por
@@ -1095,7 +1025,7 @@ Los demás soldados fueron finalmente perdonados y después de quitarles
 sus pertenencias les dejaron ir. Al final de su relato el capellán dijo:
 "No hay palabras con que poder explicar tanta inhumanidad, y la mas
 lamentable es no haber tenido estos bárbaros el debido respeto y
-veneración á tan Soberana Magestad".[^170]
+veneración á tan Soberana Magestad".[^164]
 
 Los dos casos anteriores, sumados a la actitud oficialmente irrespetuosa
 de los soldados de Cartagena con la imagen del Sagrado Sacramento,
@@ -1103,13 +1033,13 @@ muestran como la actitud de los habitantes de la monarquía católica en
 América con relación a los símbolos sagrados era significativamente
 heterogénea; reflejo sin duda de los diferentes procesos de
 evangelización que respondieron a circunstancias locales y que
-alcanzaron grados divergentes de piedad cristiana.[^171] Para los
+alcanzaron grados divergentes de piedad cristiana.[^165] Para los
 soldados españoles el Santísimo Sacramento representaba una autoridad
 superior a la de cualquier oficial en América, en cambio para los
 indígenas del norte de Potosí la custodia representaba los abusos del
 poder eclesiástico y regio combinados, por lo que en momentos de
 turbulencia la presentación de los símbolos sagrados no aminoraba la ira
-de la multitud.[^172] En los levantamientos que se suscitaron en Nueva
+de la multitud.[^166] En los levantamientos que se suscitaron en Nueva
 España tras la expulsión de los jesuitas la actitud frente al Sagrado
 Sacramento en general fue de respeto en las poblaciones amotinadas.
 Felipe Castro señaló que en no pocas ocasiones el sacar al público la
@@ -1120,7 +1050,7 @@ andadas. Incluso, Juan Francisco García Jove, teniente de cura del Valle
 de San Francisco, se pasó del lado de los sublevados indígenas y llegó
 al extremo de convertirlos en defensores del Santísimo Sacramento y de
 la patria, una actitud que podría leerse como desafiante ante la
-autoridad monárquica y eclesiástica de la Nueva España.[^173]
+autoridad monárquica y eclesiástica de la Nueva España.[^167]
 
 La devoción al cuerpo de cristo era fundamental para demostrar la unión
 de la iglesia y la corona, y sobre todo, su significación política
@@ -1156,7 +1086,7 @@ la soldadesca en los siguientes términos:
 > pobres en la realidad vasallos de SM no lo merezen, ya por lo que le
 > aman y por lo que á continuados golpes de las inclemencias de los
 > tiempos y a mi me fuera imposible responder de esta plaza y de este
-> Reino en iguales circunstanzias.[^174]
+> Reino en iguales circunstanzias.[^168]
 
 Como dijo Phelan para el caso de Santa Fe, el Santísimo Sacramento se
 convertía en la primera y única línea de defensa de la ciudad, y lo
@@ -1168,86 +1098,103 @@ ocasiones eran suficientes para detener las amenazas sobre las
 autoridades o la vida de las personas. No hay que olvidar que en otros
 momentos de amenaza como eran las epidemias, era costumbre hacer la
 procesión con una imagen de Cristo o La Virgen con el deseo de lograr
-así contener el maleficio.[^175] Por lo tanto, no era una reacción
+así contener el maleficio.[^169] Por lo tanto, no era una reacción
 extraordinaria o desesperada el enfrentar el desorden con los símbolos
 de la fe. Tampoco lo sería el no contenerse ante la presencia del
 Santísimo Sacramento, ya que finalmente los actos de los rebeldes, con
-contadas excepciones,[^176] evitaban la destrucción iconoclasta.
+contadas excepciones,[^170] evitaban la destrucción iconoclasta.
 Finalmente, si podían obtener perdón del rey ¿por qué no habrían de
 conseguirlo de la infinita piedad de Dios?
 
-### Piedad e "indulgencia general"
+Emoción y perdón
+----------------
 
 La clemencia se diferenciaba del perdón en tanto la primera representaba
 una virtud y la segunda una manifestación de la potestad, aunque ambas
-representaban la expresión de la superioridad del monarca.[^177] Por
-otra parte, la compasión no se comprende como un atributo exclusivo del
+representaban la expresión de la superioridad del monarca.[^171] Por
+otra parte, la compasión no se comprendía como un atributo exclusivo del
 monarca sino como una emoción, expresión de la humanidad del príncipe
-que antepone la simpatía a la búsqueda de retribución.[^178] Los
+que anteponía la simpatía a la búsqueda de retribución.[^172] Los
 sentimientos se expresaban en términos como piedad (sinónimo de
-misericordia, conmiseración y lástima),[^179] paternal amor y
+misericordia, conmiseración y lástima),[^173] paternal amor y
 benignidad. El rey, en la cédula de perdón general de 1746, señalaba que
 el indulto y el perdón eran "efectos de mi paternal amor, clemencia, y
-piedad";[^180] una combinación de sentimientos afables y moderación del
-ánimo para favorecer la compasión sobre aquel caído en desgracia. Como
-lo ha señalado Martha Nussbaum, la clemencia y la compasión no se
+piedad";[^174] una combinación de sentimientos afables y moderación del
+ánimo para favorecer la compasión sobre aquel caído en desgracia.
+
+Como lo ha señalado Martha Nussbaum, la clemencia y la compasión no se
 encuentran vinculadas de manera indisoluble, de hecho, la justicia en
 Occidente favorece el ejercicio de la moderación de las penas sin que se
-entremezclen las emociones en la decisión del juez.[^181] La acción
-jurídica no requiere una expresión sentimental, pero el enunciar la
-emotividad del acto gracioso hace explícito que el perdón general es un
-acto de misericordia, diferente a una remisión por merced.[^182]
+entremezclen las emociones en la decisión del juez.[^175] De una manera
+similar, António Manuel Hespanha afirmó en un ensayo que "los juristas,
+en tanto que técnicos por excelencia de lo social, así como los poderes
+públicos, no pueden, desde el punto de vista institucional, albergar
+amor dentro de sí; no pueden tampoco volcarlo, ni pueden hablar de él.
+En una palabra, *no pueden hacer el amor*". [^176] La acción jurídica no
+requiere una expresión sentimental, pero el enunciar la emotividad del
+acto gracioso hace explícito que el perdón general es un acto de
+misericordia, diferente a una remisión por merced.[^177]
 
 Según Nussbaum, las emociones políticas son aquellas que tienen como
 objetivo la nación, sus instituciones y abarcan a toda una comunidad de
-habitantes de un espacio común.[^183] Aunque el objetivo de esta
+habitantes de un espacio común.[^178] Aunque el objetivo de esta
 filósofa no consiste en realizar un análisis histórico de las emociones
 en la política sino construir una reflexión acerca de la utilidad de los
 sentimientos en la vida pública contemporánea, es posible extrapolar
 algunas de sus ideas para interpretar el porqué de la incorporación de
 términos que remiten a una emotividad pública durante nuestro periodo de
 estudio. Específicamente nos interesa la idea de que la emocionalidad
-política se encuentra en diálogo permanente con las instituciones, y es
-a través de ellas que "el gobierno" puede influenciar "la psicología de
-sus ciudadanos".[^184] Examinar los efectos perlocutivos de las
+política se encontraba en diálogo permanente con las instituciones, y es
+a través de ellas que "el gobierno" podía influenciar "la psicología de
+sus ciudadanos".[^179] Examinar las consecuencias perlocutivas de las
 expresiones emotivas del rey supera con creces las posibilidades de esta
 investigación, sin embargo, es posible inferir que las palabras del
-monarca adquirían su fuerza ilocutiva porque se les ocultaba a los
-vasallos su voz y su presencia, por lo cual, hablaba a través de su
-"cuerpo místico".[^185] La locución del príncipe se canalizaba a través
+monarca adquirían su fuerza ilocutiva porque se les privaba a los
+vasallos de su voz y su presencia, por lo cual, hablaba a través de su
+"cuerpo místico".[^180] La locución del príncipe se canalizaba a través
 de las autoridades de la monarquía quienes podían actuar "en nombre del
 rey", y gracias a esta facultad fue posible extender la jurisdicción
-real sin necesidad del acto de presencia del soberano. Durante la época
-de los Austrias, se construyó un modelo de comportamiento público del
-monarca fundamentado en la "invisibilidad" y, sobre todo,
-inaccesibilidad del rey. El limitar al mínimo el acceso a la persona
-regia fue fundamental para configurar el poder real hispano en la corte,
-y asimismo contribuyó a construir un modelo de proyección de la potestad
-regia a través de símbolos como el palio, los retratos, las medallas, o
-los escudos.[^186] La publicación de las cédulas por bando y el fijar
-copias de las mismas en las puertas de las casas de cabildo pueden
-considerarse igualmente como proyecciones de la locución regia que se
-extendía hasta los lugares más alejados del reino.
+real sin necesidad del acto de presencia del soberano.
+
+Durante la época de los Austrias, se construyó un modelo de
+comportamiento público del monarca fundamentado en la "invisibilidad" y,
+sobre todo, inaccesibilidad del rey. El limitar al mínimo el acceso a la
+persona regia fue fundamental para configurar el poder real hispano en
+la corte, y asimismo contribuyó a construir un modelo de proyección de
+la potestad regia a través de símbolos como el palio, los retratos, las
+medallas, o los escudos.[^181] La publicación de las cédulas por bando y
+el fijar copias de las mismas en las puertas de las casas de cabildo
+pueden considerarse igualmente como proyecciones de la locución regia
+que se extendía hasta los lugares más alejados del reino. Annick
+Lempérière denominó este fenómeno como un "régimen regalista de la
+publicación", el cual hacía "notorio y patente" aquellos actos públicos
+que se quería dar a conocer a los vasallos. De esta manera, "la
+selección de las noticias por publicar, así como el propio derecho de
+publicar, era una de las regalías menos compartidas. Se trataba de un
+privilegio exclusivo de las autoridades que representaban al rey".[^182]
+Por ello, no deberían tomarse a la ligera estos instrumentos con los
+cuales el rey transmitía a sus vasallos no sólo una gracia, sino también
+su compromiso paternal con sus amados hijos.
 
 Este tipo de emociones no se correspondían con los sentimientos
 vulgares. El amor del rey se entendía como un afecto, que podía
-entenderse incluso como una necesidad y fuerza de la naturaleza que
-aumentaba o disminuía la potencia del cuerpo, que dirigía su voluntad
-hacia el bien, y que incluso podía entenderse en el sentido del placer
-que producía la alegría.[^187] Pero el paternal amor del rey estaba
-enmarcado en la corrección fraterna, la metafórica piedad familiar en
-que el padre-pastor temperaba el rigor de las relaciones entre señor y
-súbdito.[^188] La seducción se fundamentaba en el acto de la gracia, el
+interpretarse como una necesidad y fuerza de la naturaleza que aumentaba
+o disminuía la potencia del cuerpo, que dirigía su voluntad hacia el
+bien, y que incluso podía relacionarse con el placer que producía la
+alegría.[^183] Pero el paternal amor del rey estaba enmarcado en el
+discurso de la corrección fraterna, la metafórica piedad familiar en que
+el padre-pastor temperaba el rigor de las relaciones entre señor y
+súbdito.[^184] La seducción se fundamentaba en el acto de la gracia, el
 paternal amor del rey se manifestaba no sólo en las palabras de la
 cédula sino en el acto de clemencia, de demostración de piedad y de
-benignidad; que a su vez generaba del vasallo "una deuda permanente de
-afecto" y con ello se sostiene un sistema de reciprocidad asimétrica en
+benignidad que a su vez generaba del vasallo "una deuda permanente de
+afecto"; y con ello se sostiene un sistema de reciprocidad asimétrica en
 la cual "el que recibe está obligado a dar más de lo que le ha sido
-dado\... De aquí que cuanto más se paga la deuda que origina la caridad
-más se debe; hasta el punto de que no resulta descabellado considerarla
-inextinguible".[^189] El problema estaba en que en este intercambio, si
+dado. De aquí que cuanto más se paga la deuda que origina la caridad más
+se debe; hasta el punto de que no resulta descabellado considerarla
+inextinguible".[^185] El problema estaba en que en este intercambio, si
 bien el rey esperaría recibir el servicio perpetuo del agraciado, la
-reciprocidad pareciera estar a favor del que recibe el don que de aquel
+reciprocidad pareciera estar a favor del que recibe el don y no de aquel
 que lo otorga.
 
 Los perdones generales se caracterizaban por su amplitud. Abarcaba a
@@ -1258,18 +1205,19 @@ indulto general incluían a todos los criminales y delitos cometidos
 antes de su promulgación; por lo tanto, en teoría, cualquier delincuente
 quedaba libre de acusación y toda imputación se tornaría nula; como
 comentaba Juan López de Cuéllar, "no hablando de las personas,
-comprehende á todas".[^190] Gasia Mastrillo fue uno de los tratadistas
-que consideró que el indulto general debía interpretarse como
-indulgencia, lo cual estaba muy acorde con la forma en que se expresaban
-estas gracias en el *Corpus Iuris Civilis* como *generalis
-indulgentia*;[^191] es decir, que incluía en su gracia los crímenes
-"enormísimos".[^192] De la misma manera, Antonio Gómez había planteado
-que por indulgencia y remisión, el príncipe "abandona el castigo del
+comprehende á todas".[^186] Garsia Mastrillo fue uno de los que
+consideró que el indulto general debía interpretarse como indulgencia,
+lo cual estaba muy acorde con la forma en que se expresaban estas
+gracias en el *Corpus Iuris Civilis* como *generalis indulgentia*;[^187]
+es decir, que incluía en su gracia los crímenes "enormísimos".[^188] De
+la misma manera, Antonio Gómez en sus *commentariorum* (obra de
+importante circulación incluso en el siglo XVIII) había planteado que
+por indulgencia y remisión, el príncipe "abandona el castigo del
 delincuente y lo libera de toda pena"; además, con el indulto general,
 se apartaba del castigo de los criminales "acusados, indagados o
 condenados"; por lo que desde su perspectiva, un perdón universal
 comprendía a todos los reclusos en prácticamente cualquier etapa
-procesal.[^193]
+procesal.[^189]
 
 En este sentido, el vasallo recibía una gracia desproporcionada para su
 acción. Cuando el reo obtenía la gracia completa (libertad, sin nota de
@@ -1283,19 +1231,19 @@ Corona, en este caso la remisión de la pena estaba atada a una promesa
 de merced futura que se daría al vasallo tras haber realizado el favor;
 pero en el perdón general, las condiciones para recibirlo eran mínimas,
 ni siquiera el haber estado en rebeldía era impedimento para acogerse a
-la gracia. La "esperanza de los indultos" era considerada una de las
-causas del desorden, no sólo en América sino en todo el imperio, y esto
-no era ajeno a la monarquía. No es extraño entonces que una de las
-primeras decisiones de Felipe V con respecto a los indultos en América
+la gracia. Por esta razón, la "esperanza de los indultos" era
+considerada una de las causas del desorden, no sólo en América sino en
+todo el imperio. No es extraño entonces que una de las primeras
+decisiones de Felipe V con respecto a los indultos en América
 consistiera precisamente en ordenar que se suspendieran los perdones a
 los contrabandistas reincidentes, considerando que era preciso para el
 exterminio del ilícito comercio "sentar por regla incontrastable que
 jamas havian de hallar los complises en este exeso el aliento que les
 fasilita la esperansa de los indultos que a sido causa de muchos
-fraudes".[^194]
+fraudes".[^190]
 
 A diferencia del sacramento de la penitencia, la remisión de la condena
-no exigía la contrición ni la atrición del reo para ser otorgada.[^195]
+no exigía la contrición ni la atrición del reo para ser otorgada.[^191]
 Aunque fuera prerrequisito para otorgar el perdón que el criminal
 tuviese una condena en firme, y en no pocas ocasiones se elevara la
 súplica manifestando el sufrimiento y dolor que se sufría en la prisión,
@@ -1304,44 +1252,50 @@ clemencia debiera pasar por alguna etapa de arrepentimiento por su
 culpa. Por otra parte, el perdón no se otorgaba después del castigo sino
 como una manera de evitarlo. En este sentido, la clemencia salva al que
 perdona, quien espera la recompensa en el empíreo por su sacrificio como
-buen cristiano. El que es perdonado debería actuar con gratitud, pues es
-la respuesta virtuosa a la gracia hecha por el bienhechor. En un tratado
-relativamente oscuro, fray Benito de la Soledad escribía en medio de la
-Guerra de Sucesión: "la Virtud de la Gratitud recarga sobre el que haze
-la gracia de los bienes proprios, y debito moral por razon de
-honestidad, y estrecha tanto Santo Tomas esta Virtud de ser agradecidos
-á los bienhechores, que affirma, que aunque él que haze la gracia sea
-utilizado, y la haga por su proprio interes, deve el que recibe el favor
-mostrarse agradecido." No manifestar agradecimiento tras recibir el don
-"es malignidad injusta."[^196]
+buen cristiano; por ello el rey en los perdones de Viernes Santo
+sancionaba su decisión al poner su mano sobre las causas y decir "yo os
+perdono, para que Dios me perdone", según Francisco Antonio de Elizondo
+"con el más vivo y tierno sentimiento".[^192] El que es perdonado
+debería actuar con gratitud, pues se consideraba la respuesta virtuosa a
+la gracia hecha por el bienhechor. En un tratado relativamente oscuro,
+fray Benito de la Soledad escribía en medio de la Guerra de Sucesión:
+"la Virtud de la Gratitud recarga sobre el que haze la gracia de los
+bienes proprios, y debito moral por razon de honestidad, y estrecha
+tanto Santo Tomas esta Virtud de ser agradecidos á los bienhechores, que
+affirma, que aunque él que haze la gracia sea utilizado, y la haga por
+su proprio interes, deve el que recibe el favor mostrarse agradecido."
+No manifestar agradecimiento tras recibir el don sería "malignidad
+injusta."[^193]
 
-Si para el perdón se exigiese retribución se estaría hablando de un
-contrato, y si había compensación de por medio era como sinónimo de
-agradecimiento, no como exigencia de la remisión; al menos desde un
-punto de vista estrictamente moral. Por esta misma razón, cuando aquel
-que impetraba el indulto ofrecía una compensación pecuniaria a la Real
-Hacienda, lo hacía en forma de obsequio, con lo cual la gracia no sería
-*stricto sensu* una compra sino la manera como el rey agradecía a través
-de sus oficiales la generosidad del vasallo. Para mostrar un ejemplo, la
-sarda doña María Ignacia Admiñahorta a nombre de su esposo, don José
-Ignacio Solinas, prófugo desde que fue acusado de dejar escapar unos
-presos que conducía a Cartagena, ofrecía al virrey el pago de 500 pesos
-a la Real Hacienda y 100 pesos "para que sirba á Su Magestad por la
-gracia del indulto que pido, en obsequio y reverencia de los felisisimos
-dias de Nuestro Catholico Monarca, que se celebran el dia 4 del presente
-mes de Noviembre \[de 1765\]."[^197] La aceptación de los 600 pesos y la
-concesión del indulto después de haber entregado esta cantidad en las
-cajas reales muestra que esta oferta no se consideraba como cohecho o
-baratería, de hecho era difícil considerar este donativo como un soborno
-puesto que, por una parte, no se estaba actuando en secreto, y por otra,
-no se estaba modificando la sentencia sino recibiendo una gracia, que
-estaba en una esfera distinta a la de la justicia.[^198] La petición de
-Admiñahorta también da cuenta de esta idea pues le resaltó al virrey que
-al conceder esta gracia no se faltaba a la justicia, ni se "deservía" al
+La lógica de la gracia excluía de plano la posibilidad de exigir una
+condición previa para otorgar el perdón. Si para el perdón se exigiese
+retribución se estaría hablando de un contrato, y si había compensación
+de por medio era considerado una forma de agradecimiento, no una
+exigencia de la remisión; al menos desde un punto de vista estrictamente
+moral. Por esta misma razón, cuando aquel que impetraba el indulto
+ofrecía una compensación pecuniaria a la Real Hacienda, lo hacía en
+forma de obsequio, con lo cual la gracia no sería *stricto sensu* una
+compra sino la manera en la que el rey agradecía, a través de sus
+oficiales, la generosidad del vasallo. Para mostrar un ejemplo, la sarda
+doña María Ignacia Admiñahorta a nombre de su esposo, don José Ignacio
+Solinas, prófugo desde que fue acusado de dejar escapar unos presos que
+conducía a Cartagena, ofrecía al virrey el pago de 500 pesos a la Real
+Hacienda y 100 pesos "para que sirba á Su Magestad por la gracia del
+indulto que pido, en obsequio y reverencia de los felisisimos dias de
+Nuestro Catholico Monarca, que se celebran el dia 4 del presente mes de
+Noviembre \[de 1765\]."[^194] Admiñahorta resaltó al virrey que al
+conceder esta gracia no se faltaba a la justicia, ni se "deservía" al
 soberano, tampoco se perjudicaba al público o se dañaba a un particular,
 "sino que antes bien se cubre la Real Hacienda," que de otro modo
 quedaría sin el pago de lo que su esposo y sus fiadores le adeudaban por
-el pago anticipado del traslado de los reos y sus prisiones.[^199]
+el pago anticipado del traslado de los reos y sus prisiones.[^195] La
+aceptación de los 600 pesos y la concesión del indulto después de haber
+entregado esta cantidad en las cajas reales muestra que esta oferta no
+se consideraba como cohecho o baratería, de hecho era difícil considerar
+este donativo como un soborno puesto que, por una parte, no se estaba
+actuando en secreto, y por otra, no se estaba modificando la sentencia
+sino recibiendo una gracia, que estaba en una esfera distinta a la de la
+justicia.[^196]
 
 Esto tiene mucho sentido con el "indulto general" otorgado por el rey de
 manera amplia a todos los reos comunes de las prisiones reales, ya que
@@ -1353,7 +1307,7 @@ supuesto, ya que no se construyó una estrategia con la cual garantizar
 que el redimido sería útil a la república. De hecho, no existía una
 manera de prevenir que después de libre el otrora reo no reincidiera en
 el delito. A pesar de esta asimetría, el indulto general tiene sentido
-dentro del universo de la economía de la gracia.[^200] Es imposible que
+dentro del universo de la economía de la gracia.[^197] Es imposible que
 la monarquía se hubiese legitimado solamente a través de indulgencias
 generales, pero éstas hacían parte del universo simbólico y pragmático
 del dominio regio sobre sus vasallos. El perdón general serviría para
@@ -1364,19 +1318,69 @@ amor paternal expresado en la cédula no sólo se dirigía a los reos, se
 extendía a todos aquellos que lo pudieran escuchar, directamente o por
 rumor. La "esperanza de indulto" implicaba arriesgarse a la insolencia,
 pero asimismo comprendía la certeza de que en caso de caer en la falta
-habría posibilidad de remisión. Es posible entonces que el servicio que
+habría posibilidad de remisión. Es probable entonces que el servicio que
 ganaba el rey con la promulgación de estas amplias gracias no lo fuera
 tanto de aquellos que libraba de sus prisiones como de la generalidad de
 los vasallos que asimilaban el padre de la monarquía con Jesucristo y su
 poder redentor.
 
-Es en ese sentido que el acto de perdonar se puede asimilar al
-sacramento de la penitencia, ya que es el rey quien sacrifica su derecho
-legítimo de castigar en favor del buen ladrón e incluso de un
-irredimible Barrabás. También en el perdón de parte la renuncia al
-derecho de obtener justicia es una forma de munificencia, misericordia,
-y caridad cristiana, con miras a obtener por medio de este sacrificio la
-salvación.
+La confesión y el perdón real
+-----------------------------
+
+En el momento que el rey decía sobre las causas de los reos a ser
+liberados "yo os perdono, para que Dios me perdone", actuaba de manera
+muy similar al párroco confesor que le decía al penitente en el momento
+de la absolución: "ego te absolvo a peccatis tuis in nomine Patris,
+etc." La penitencia era el mecanismo establecido por la iglesia católica
+para la remisión de los pecados, que consistía en tres pasos
+indispensables para retornar al favor de dios: el arrepentimiento
+(contrición o atrición), la confesión, y la absolución. La penitencia
+también era considerada como una virtud en tanto representaba el
+aborrecimiento del pecado, específicamente, el dolor que sentía el
+penitente por lo errores pasados.[^198] Era virtud en tanto la
+repugnancia de sus actos se debiese al haberse apartado de Dios con la
+falta, pero no podía considerarse arrepentimiento si este sólo se
+afligía por las consecuencias de sus actos;[^199] por ejemplo, si el
+ladrón se dolía por ser puesto preso pero no porque al robar violó un
+sagrado mandamiento, entonces no podía considerarse como virtud a su
+pena. Es por ello que, según explicaba Murillo Velarde, la penitencia no
+se hacía con la esperanza del perdón (*spe veniæ*), sino por la
+desesperación sobrenatural que produce el desagrado del pecado.[^200]
+Esta era la primera diferencia entre el perdón real y la penitencia, ya
+que el reo, sobre todo el ausente, confesaba su falta con el expreso
+propósito de obtener el indulto, con el sólo deseo de ser abrigado por
+la gracia regia.
+
+"Sacramento es gracia divina", dijo Martín de Azpilcueta en su manual de
+confesores y penitentes,[^201] por lo tanto, se debería entender como un
+don que Jesucristo brindó a los hombres (según quedó establecido
+definitivamente desde el concilio de Trento) tras su resurrección, y el
+cual habría sido encargado a sus apóstoles al haberles dicho: "A quienes
+remitiereis los pecados, les son remitidos; y a quienes se los
+retuviereis, les son retenidos".[^202] El sacramento de la penitencia es
+sinónimo de absolución hecha por el sacerdote a los pecados de aquel que
+los confiesa legítimamente y es de su jurisdicción espiritual;[^203] es
+decir, que ha incumplido con el decálogo, las obligaciones con la
+iglesia (oír misa entera los domingos, ayunar los días establecidos,
+pagar los diezmos, confesarse por lo menos una vez al año, y comulgar en
+Pascua), los siete sacramentos, o ha cometido pecados mortales. Desde el
+concilio de Trento se determinó que era herejía considerar que la
+absolución sacramental no es un acto judicial.[^204] Por lo tanto, se
+puede entender que la absolución era el acto judicial en el que el
+pecador se presentaba ante el tribunal (conciencia y sacerdote) para ser
+juzgado.[^205]
+
+Para ser absuelto, el pecador tenía que cumplir con tres actos de
+penitencia: la contrición, la confesión y la satisfacción.[^206]
+
+"No es contra razón, que uno torne a la gracia, y amistad de Dios por la
+contrición, que perdona los pecados, y quede obligado a la confesión.
+Como tampoco lo es, que uno sea perdonado del rey, y recibido a su
+gracia, y que quede obligado a servirle un año en las guerras de
+Africa".[^207]
+
+Restitución: obra de la justicia conmutativa, devuelve lo suyo a su
+dueño o "contenta" al acreedor.[^208]
 
 [^1]: Juan Marchena Fernández, "Sin temor de rey ni de dios. Violencia,
     corrupción y crisis de autoridad en la Cartagena colonial", en
@@ -1473,7 +1477,9 @@ salvación.
 
 [^18]: Julio Rodríguez-Puértolas, "La transposición de la realidad en
     los autos sacramentales de Lope de Vega", *Bulletin hispanique* 72,
-    núm. 1 (1970): 96--97, https://doi.org/10.3406/hispa.1970.4008.
+    núm. 1 (1970): 96--97, https://doi.org/10.3406/hispa.1970.4008;
+    Henry Kamen, *The Spanish Inquisition: A Historical Revision*,
+    Fourth Edition (New Haven: Yale University Press, 2014), 340.
 
 [^19]: Imitación no en el sentido de equiparación con la divinidad sino
     de ordenar las acciones terrenas acorde con las enseñanzas de dios.
@@ -1824,7 +1830,7 @@ salvación.
     221.
 
 [^81]: Hespanha, "De iustitia a disciplina", 229. En contra de esta
-    convención, Murillo Velarde afirmaba que el perdón, para que se
+    costumbre, Murillo Velarde afirmaba que el perdón, para que se
     hiciera "lícitamente", requería que se ejerciera pocas veces y con
     discreción y prudencia, para que no resultara de su uso continuado
     el daño a la república al incentivar los delitos. *Cursus iuris
@@ -2119,7 +2125,7 @@ salvación.
     que se llama clemencia", núm. 23, 13.
 
 [^129]: "*ut quos non allicit amor, coerceat timor*". Murillo Velarde,
-    *Cursus iuris canonici*, L. V, tít. XXXVII, "De pœnis", No. 319.
+    *Cursus iuris canonici*, L. V, tít. XXXVII, "De pœnis", núm. 319.
 
 [^130]: Andrés Mendo, *Príncipe perfecto*, doc. XXIV. La "canción real"
     incluida en las páginas preliminares del *Tratado*... de Juan López
@@ -2258,48 +2264,32 @@ salvación.
     Goenaga", Madrid, 25 de junio de 1802, AHN, Consejo de Indias,
     Secretaría de Presidencia, Leg. 21672, exp. 8, doc. 5.
 
-[^153]: Salazar Baena, "Fastos monárquicos", 390.
-
-[^154]: Basta remitirse al trabajo de Rodríguez Flores para reconocer la
-    ausencia de ritualidad en la concesión del indulto desde una
-    perspectiva estrictamente institucional.
-
-[^155]: Hevia Bolaños, *Curia Philipica*, Tomo I, part. I, §17, núm.
-    17-18.
-
-[^156]: *Partidas*, P. III, Tít. XVI, Ley 24.
-
-[^157]: María Paz Alonso Romero, *El proceso penal en Castilla (Siglos
-    XIII al XVIII)* (Salamanca: Universidad de Salamanca, 1982), 232.
-
-[^158]: Alonso Romero, 233.
-
-[^159]: María José del Río Barredo, *Madrid, urbs regia: la capital
+[^153]: María José del Río Barredo, *Madrid, urbs regia: la capital
     ceremonial de la monarquía católica*, Historia Estudios (Madrid:
     Marcial Pons, 2000), 214--15; Barbara R. Walters, Vincent J.
     Corrigan, y Peter T. Ricketts, *The Feast of Corpus Christi*
     (University Park, Pa: Pennsylvania State University Press, 2006),
     xvi.
 
-[^160]: Alejandro Cañeque, *The king's living image: the culture and
+[^154]: Alejandro Cañeque, *The king's living image: the culture and
     politics of viceregal power in colonial Mexico*, New World in the
     Atlantic world (New York, N.Y: Routledge, 2004), 18.
 
-[^161]: Walters, Corrigan, y Ricketts, *The Feast of Corpus Christi*,
+[^155]: Walters, Corrigan, y Ricketts, *The Feast of Corpus Christi*,
     36--37; Fernando Martínez Gil y Alfredo Rodríguez González, "Del
     Barroco a la Ilustración en una fiesta del Antiguo Régimen: el
     Corpus Christi", *Cuadernos de Historia Moderna* Anejo I (2002):
     155, https://doi.org/10.5209/CHMO.23806.
 
-[^162]: Cañeque, *The king's living image*, 136; Nelly Sigaut,
+[^156]: Cañeque, *The king's living image*, 136; Nelly Sigaut,
     "Procesión de Corpus Christi: La muralla simbólica de un reino de
     conquista. Valencia y México-Tenochtitlan", en *México en el mundo
     hispánico*, ed. Óscar Mazín Gómez, vol. 1, Colección Memorias
     (Zamora, Mich.: El Colegio de Michoacán, 2000), 382--83.
 
-[^163]: Sigaut, "Procesión de Corpus Christi", 392--93.
+[^157]: Sigaut, "Procesión de Corpus Christi", 392--93.
 
-[^164]: Estudios que específicamente utilizaron los perdones de Viernes
+[^158]: Estudios que específicamente utilizaron los perdones de Viernes
     Santo: Rudy Chaulet, "La violence en Castille au XVIIe siècle à
     travers les Indultos de Viernes Santo (1623-1699)", *Crime, Histoire
     & Sociétés / Crime, History & Societies* 1, núm. 2 (1997): 5--27,
@@ -2315,23 +2305,23 @@ salvación.
     criminales ante la concesión del indulto en la España del Siglo
     XVIII", *Prohistoria* 5, núm. 5 (2001): 55--82.
 
-[^165]: *Nueva Recopilación*, Lib. VIII, tít. 25, ley 2.
+[^159]: *Nueva Recopilación*, Lib. VIII, tít. 25, ley 2.
 
-[^166]: Adeline Rucquoi, *Historia medieval de la Península ibérica*
+[^160]: Adeline Rucquoi, *Historia medieval de la Península ibérica*
     (México: El Colegio de Michoacán, 2000), 230.
 
-[^167]: Mantecón Movellán, "Los criminales ante la concesión", 65.
+[^161]: Mantecón Movellán, "Los criminales ante la concesión", 65.
 
-[^168]: Juan Ramón Rodríguez Llamosi, "El perdón cristiano en el Derecho
+[^162]: Juan Ramón Rodríguez Llamosi, "El perdón cristiano en el Derecho
     español: los indultos a las Cofradías de penitencia.", en
     *Religiosidad popular: Cofradías de penitencia.*, vol. 1, 2 vols.
     (Madrid: Real Centro Universitario Escorial-María Cristina, 2017),
     7--22.
 
-[^169]: John Leddy Phelan, *El pueblo y el rey: la revolución comunera
+[^163]: John Leddy Phelan, *El pueblo y el rey: la revolución comunera
     en Colombia, 1781* (Bogotá: Universidad del Rosario, 2009), 180.
 
-[^170]: "Informe de Juan Antonio Beltrán", Challapata, 18 de enero de
+[^164]: "Informe de Juan Antonio Beltrán", Challapata, 18 de enero de
     1781, en *Documentos para la historia de la sublevación de José
     Gabriel de Tupac Amaru, cacique de la provincia de Tinta, en el
     Perú* (Buenos Aires: imprenta del Estado, 1836), 259-260. "Relación
@@ -2352,22 +2342,22 @@ salvación.
     *Revolution in the Andes: The Age of Túpac Amaru* (Duke University
     Press, 2013), 66--67.
 
-[^171]: Mazín Gómez, "La incorporación de las Indias en la Monarquía
+[^165]: Mazín Gómez, "La incorporación de las Indias en la Monarquía
     Hispánica: una lectura comparada", 289.
 
-[^172]: Sergio Serulnikov, *Subverting colonial authority: challenges to
+[^166]: Sergio Serulnikov, *Subverting colonial authority: challenges to
     Spanish rule in eighteenth-century southern Andes* (Durham: Duke
     University Press, 2003), 200--208.
 
-[^173]: Felipe Castro Gutiérrez, *Nueva ley y nuevo rey: reformas
+[^167]: Felipe Castro Gutiérrez, *Nueva ley y nuevo rey: reformas
     borbónicas y rebelión popular en Nueva España*, Colección
     Investigaciones (Zamora, Mich: El Colegio de Michoacán, 1996),
     177--79.
 
-[^174]: "Joseph Blas de Orozco a Julián de Arriaga", Panamá, 5 de
+[^168]: "Joseph Blas de Orozco a Julián de Arriaga", Panamá, 5 de
     octubre de 1766, AGI, Panamá, 358.
 
-[^175]: Elsa Malvido y Carlos Viesca, "La epidemia de cocoliztli de
+[^169]: Elsa Malvido y Carlos Viesca, "La epidemia de cocoliztli de
     1576", *Historias* 11 (1985): 27--33; Federico Fernández Basurte,
     "Epidemias y manifestaciones religiosas en la Málaga del siglo XVII:
     la Virgen de la Victoria", *Baética: Estudios de arte, geografía e
@@ -2379,58 +2369,59 @@ salvación.
     & Estudios Sociales de la Ciencia y la Tecnología* 1, núm. 3 (2010):
     1--28.
 
-[^176]: Como la quema de la iglesia de Sangarará (Cuzco) por las huestes
+[^170]: Como la quema de la iglesia de Sangarará (Cuzco) por las huestes
     de Túpac Amaru II en 1781. Huerto Vizcarra, *La rebelión de Túpac
     Amaru II*, 3:147--49.
 
-[^177]: Martha Nussbaum denomina "clemencia monárquica" a la expresión
+[^171]: Martha Nussbaum denomina "clemencia monárquica" a la expresión
     de dicha virtud construida en el pensamiento legal de Occidente, en
     especial durante la Edad Moderna. Nussbaum, *La ira y el perdón*,
     321.
 
-[^178]: Nussbaum, 321--23.
+[^172]: Nussbaum, 321--23.
 
-[^179]: Véase voz "piedad" en *Diccionario de autoridades*.
+[^173]: Véase voz "piedad" en *Diccionario de autoridades*.
 
-[^180]: "Cédula de S. M. concediendo indulto general á todo género de
+[^174]: "Cédula de S. M. concediendo indulto general á todo género de
     personas cuyos delitos no merezcan la pena ordinaria de muerte",
     DADUN, fondo antiguo, siglo 18, URI:
     [[http://hdl.handle.net/10171/30545]{.underline}](http://hdl.handle.net/10171/30545)
 
-[^181]: Como lo expresó de manera magistral António Manuel Hespanha:
-    "los juristas, en tanto que técnicos por excelencia de lo social,
-    así como los poderes públicos, no pueden, desde el punto de vista
-    institucional, albergar amor dentro de sí; no pueden tampoco
-    volcarlo, ni pueden hablar de él. En una palabra, *no pueden hacer
-    el amor*". "La senda amorosa del derecho", 36. Véase también Martha
-    C. Nussbaum, *Upheavals of thought: the intelligence of emotions*
-    (Cambridge ; New York: Cambridge University Press, 2001), 364--68.
+[^175]: Martha C. Nussbaum, *Upheavals of thought: the intelligence of
+    emotions* (Cambridge ; New York: Cambridge University Press, 2001),
+    364--68.
 
-[^182]: Victoria Sandoval Parra, *Manera de galardón: merced pecuniaria
+[^176]: "La senda amorosa del derecho", 36.
+
+[^177]: Victoria Sandoval Parra, *Manera de galardón: merced pecuniaria
     y extranjería en el siglo XVII*, Sección de obras de historia
     (Madrid: Fondo de Cultura Económica : Red Columnaria, 2014), 23; de
     Dios, "El ejercicio de la gracia regia en Castilla entre 1250 y
     1530, los inicios del Consejo de la Cámara", 339.
 
-[^183]: Martha C. Nussbaum, *Political emotions: why love matters for
+[^178]: Martha C. Nussbaum, *Political emotions: why love matters for
     justice* (Cambridge: The Belknap Press of Harvard University Press,
     2013), 2.
 
-[^184]: Nussbaum, 20.
+[^179]: Nussbaum, 20.
 
-[^185]: Kantorowicz, *Los dos cuerpos del rey*, cap. Introducción.
+[^180]: Kantorowicz, *Los dos cuerpos del rey*, cap. Introducción.
 
-[^186]: Antonio Feros, *El Duque de Lerma: realeza y privanza en la
+[^181]: Antonio Feros, *El Duque de Lerma: realeza y privanza en la
     España de Felipe III*, Historia (Madrid: Marcial Pons, 2002),
     160--64.
 
-[^187]: Véase nota 19. Jonathan I. Israel, *La ilustración radical. La
-    filosofía y la construcción de la modernidad 1650-1750*, Primera
-    edición electrónica (México: Fondo de Cultura Económica, 2017), 276.
+[^182]: Annick Lempérière, *Entre Dios y el rey: la república. La ciudad
+    de México de los siglos XVI al XIX*, trad. Ivette Hernández Perez
+    Vertti (México: Fondo de Cultura Económica, 2013), 249--50.
 
-[^188]: Hespanha, "La senda amorosa del derecho", 40.
+[^183]: Jonathan I. Israel, *La ilustración radical. La filosofía y la
+    construcción de la modernidad 1650-1750*, Primera edición
+    electrónica (México: Fondo de Cultura Económica, 2017), 276.
 
-[^189]: Hespanha, 38; Hespanha, "La economía de la gracia", 167--68.
+[^184]: Hespanha, "La senda amorosa del derecho", 40.
+
+[^185]: Hespanha, 38; Hespanha, "La economía de la gracia", 167--68.
     Claudio Lomnitz considera que este tipo de reciprocidad es negativa
     y asimétrica, es decir, "un tipo de intercambio en el que la
     coerción se emplea para inaugurar una relación de dominación que
@@ -2440,43 +2431,51 @@ salvación.
     Claudio Lomnitz, "Sobre reciprocidad negativa", *Revista de
     Antropología Social* 14 (2005): 334.
 
-[^190]: López de Cuéllar, *Tratado iuridico-politico*, núm. 109 y 115.
+[^186]: López de Cuéllar, *Tratado iuridico-politico*, núm. 109 y 115.
     Mastrillo, *Ad indultum generale*, cap. V, núm. 1.
 
-[^191]: Específicamente en el Código, lib. IX, tít. L.
+[^187]: Específicamente en el Código, lib. IX, tít. L.
 
-[^192]: Mastrillo, *Ad indultum generale*, cap. V, núm. 1.
+[^188]: Mastrillo, *Ad indultum generale*, cap. V, núm. 1.
 
-[^193]: "per indulgentia et remissionem principis, quia si rex, vel
+[^189]: "per indulgentia et remissionem principis, quia si rex, vel
     princeps remittat poenam delinquenti liberatur a tota poena
     \[\...\]. Et talis remissio potest per principem fieri dupliciter:
     primo generaliter remittendo poenam delinquentibus, accusatis,
-    inquisitis, vel condemnatis propter publica laetitiam". Gómez,
-    *Variæ resolutiones*, tomo III, cap. XIII, núm. 38.
+    inquisitis, vel condemnatis propter publica laetitiam". Antonio
+    Gómez, *Variae resolutiones juris civilis* \[1563\], editio
+    novissima (Londres: Petri Bruyset et sociorum, 1744), tomo III, cap.
+    XIII, núm. 38.
 
-[^194]: "Real Cédula dada en San Ildefonso al virrey del Perú,
+[^190]: "Real Cédula dada en San Ildefonso al virrey del Perú,
     suspendiendo el indulto por segunda vez a los delincuentes por
     contrabando", San Ildefonso, 10 de octubre de 1725, AGNC, sección
     colonia, miscelánea, tomo 59, doc. 2, f. 4r. La misma cédula se
     envió al virrey de Nueva España, AGI, Indiferente General, legajo
     538, libro YY11, f. 262r.
 
-[^195]: Acerca de la distinción entre perdón de los pecados por el
+[^191]: Acerca de la distinción entre perdón de los pecados por el
     sacramento de la penitencia y el perdón interpersonal véase David
     Konstan, *Before Forgiveness: The Origins of a Moral Idea*
     (Cambridge ; New York: Cambridge University Press, 2010), 143--45.
 
-[^196]: Fray Benito de la Soledad, *Memorial historial y política
+[^192]: Francisco Antonio de Elizondo, *Práctica universal forense de
+    los tribunales de España y de las Indias*, tomo V (Madrid: Joaquín
+    Ibarra, 1785), parte II, cap. XIV, núm. 6.
+
+[^193]: Fray Benito de la Soledad, *Memorial historial y política
     cristiana* (Viena: Juan van Ghelen, 1703), 207. Sobre la obra del
     fraile véase José María Iñurritegui Rodríguez, "Desdichada España.
     Despotismo y crisis política en el «Memorial historial» de fray
     Benito de la Soledad", *Cuadernos Dieciochistas* 15 (2015): 109--33.
 
-[^197]: "Doña Maria Ygnacia Admiñahorta, muger legítima de Don Joseph de
+[^194]: "Doña Maria Ygnacia Admiñahorta, muger legítima de Don Joseph de
     Solinas, solicita el indulto de su marido," AGNC, sección colonia,
     juicios criminales, tomo 87, doc. 27, f. 844v.
 
-[^198]: Al respecto es interesante el análisis que realizó Christoph
+[^195]: "Doña Maria Ygnacia Admiñahorta," f. 846r.
+
+[^196]: Al respecto es interesante el análisis que realizó Christoph
     Rosenmüller para el caso novohispano en "'The Execrable Offense of
     Fraud or Bribery': Corrupt Judges and Common People in the Visita of
     Imperial Mexico (1715--1727)", en *Corruption in the Iberian
@@ -2491,6 +2490,50 @@ salvación.
     Nacional de Ciencia y Tecnología : Instituto de Investigaciones
     Históricas, Universidad Nacional Autónoma de México, 2015), 93--95.
 
-[^199]: "Doña Maria Ygnacia Admiñahorta," f. 846r.
+[^197]: Hespanha, "La economía de la gracia".
 
-[^200]: Hespanha, "La economía de la gracia".
+[^198]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
+    "De pœnitentiis, et remisionibus", núm. 359.
+
+[^199]: Alonso de la Peña Montenegro, *Itinerario para párrocos de
+    indios* \[1668\], nueva edición purgada (Madrid: oficina de Pedro
+    Marín, 1771), lib. III, trat. III, "Tratado del dolor".
+
+[^200]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
+    núm. 359.
+
+[^201]: Martín de Azpilcueta, *Manual de confessores y penitentes*
+    \[1553\], (Salamanca: en casa de Andrea de Portonariis, 1556), cap.
+    XXII.
+
+[^202]: Jn 20:23. Concilio de Trento, sesión 14, "Doctrina de los
+    santísimos sacramento de la penitencia y extrema-unción, 25 de
+    noviembre de 1551", en *El Sacrosanto y Ecumenico Concilio de
+    Trento*, trad. Ignacio López de Ayala (Madrid: en la Imprenta Real,
+    1785), cap. I. Peña Montenegro, *Itinerario para párrocos*, lib.
+    III, trat. III, preámbulo, núm. 16. Murillo Velarde, *Cursus iuris
+    canonici*, lib. V, tít. XXXVIII, núm. 360.
+
+[^203]: Azpilcueta, *Manual de confessores*, cap. XXII, "Del sacramento
+    de la penitencia".
+
+[^204]: Azpilcueta, cap. V, "Del poder saber", núm. 7. Antonio Xavier
+    Pérez y López, *Teatro de la legislación universal de España e
+    Indias*, tomo XXII (Madrid: imprenta de don Antonio Espinosa, 1797),
+    voz "penitencias", §VI "Concilio tridentino, ses. 14, can. 9, 416.
+
+[^205]: John W. O'Malley, *Trent. What Happened at the Council*
+    (Cambridge, MA; Londres: Belknap Press of Harvard University Press,
+    2013), 153.
+
+[^206]: "in corde ejus contritio in ore ejus confessio, in opere tota
+    humilitas (id est satisfactio) haec est perfecta, et fructifera
+    poenitentia" ("en su corazón la contricción, en su boca la
+    confesión, en sus obras toda la humildad (esto es la satisfacción),
+    esta es la perfecta y fructífera penitencia.") Murillo Velarde,
+    *Cursus iuris canonici*, lib. V, tít. XXXVIII, núm. 361.
+
+[^207]: Azpilcueta, cap I, "De la contricson", núm. 15.
+
+[^208]: Azpilcueta, *Manual de confessores*, cap. XVII, "Que cosa es
+    restitucion", núm. 6.

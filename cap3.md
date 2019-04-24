@@ -121,14 +121,12 @@ o el "hacer la paz" era motivo de general alegría; equiparable al
 nacimiento de un príncipe o un tratado ventajoso. Asimismo, "cualquier
 victoria del Príncipe es la alegría del pueblo", por lo que ésta era
 suficiente justificación para conceder la indulgencia general.[^25]
-También el afamado tratadista Antonio Gómez en sus *commentariorum*
-(obra de importante circulación incluso en el siglo XVIII) señalaba que
-la victoria era una de las motivaciones de la indulgencia general.[^26]
-No pareciera existir ninguna contradicción entre relacionar la victoria
-militar o el final de un conflicto y el perdón general, sin embargo,
-parecía que era preferido por los reyes demostrar que su clemencia nacía
-de un hecho alegre, natural, que afectaba de manera directa a la persona
-del rey.
+También el afamado tratadista Antonio Gómez señalaba que la victoria era
+una de las motivaciones de la indulgencia general.[^26] No pareciera
+existir ninguna contradicción entre relacionar la victoria militar o el
+final de un conflicto y el perdón general, sin embargo, parecía que era
+preferido por los reyes demostrar que su clemencia nacía de un hecho
+alegre, natural, que afectaba de manera directa a la persona del rey.
 
 Tal vez el motivo no era determinante para promulgar un perdón general,
 al fin y al cabo no todos los nacimientos daban como resultado un
@@ -805,7 +803,7 @@ sentencias, y restituyeran en bienes y fama.[^92]
 [^4]: Mastrillo, *Ad indultum generale*, cap. I, n. 1. Sobre el indulto
     de 1606 y el tratado de Mastrillo véase: López de Cuéllar, *Tratado
     iuridico-politico*, n. 20. Elizondo, *Práctica universal forense*,
-    T. V, part. II, cap. XIV, núm. 3. Bautista y Lugo, "Castigar o
+    tomo V, parte II, cap. XIV, núm. 3. Bautista y Lugo, "Castigar o
     perdonar", 275.
 
 [^5]: José Antonio de Abreu y Bertodano, *Colección de los tratados de
@@ -814,7 +812,7 @@ sentencias, y restituyeran en bienes y fama.[^92]
     viuda de Peralta, 1752), II:369.
 
 [^6]: López de Cuéllar, *Tratado iuridico-politico*, n. 21-23. Elizondo,
-    *Práctica universal forense*, T. V, part. II, cap. XIV, núm. 5.
+    *Práctica universal forense*, tomo V, parte II, cap. XIV, núm. 5.
     Rodríguez Flores, *El perdón real*, 53.
 
 [^7]: La costumbre consistía en hacer llegar la real cédula dirigida al
@@ -898,9 +896,8 @@ sentencias, y restituyeran en bienes y fama.[^92]
     Díaz de Montalvo, glosas "perdón" y "por victoria" a *Partidas*, P.
     VII, tít. 32, ley 1.
 
-[^26]: Antonio Gómez, *Variae resolutiones juris civilis* \[1563\],
-    editio novissima (Londres: Petri Bruyset et sociorum, 1744), tomo
-    III "de delictis", cap. XIII, núm. 38.
+[^26]: Antonio Gómez, *Variae resolutiones*, tomo III "de delictis",
+    cap. XIII, núm. 38.
 
 [^27]: Así lo expresó el fiscal del Consejo de Indias en la consulta
     elevada por la Audiencia de Santa Fe por la solicitud de indulto de

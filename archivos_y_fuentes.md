@@ -142,6 +142,9 @@ Reino de Granada (Reivindicaciones históricas)*. II vols. Biblioteca de
 Historia Nacional, XCVII. Bogotá: Academia de Historia, editorial Kelly,
 1960.
 
+Concilio de Trento. *El Sacrosanto y Ecumenico Concilio de Trento*.
+Traducido por Ignacio López de Ayala. Madrid: en la Imprenta Real, 1785.
+
 *Diccionario de la lengua castellana compuesto por la Real Academia
 Española reducido á un tomo para su mas fácil uso*. Madrid: Joaquín
 Ibarra, 1780.
@@ -268,6 +271,9 @@ Segunda edición. 2 vol. Madrid: Imprenta de la viuda de Ibarra,
 Asso, Ignacio Jordán de. *Instituciones del derecho civil de Castilla*
 \[1771\]*.* Edición cuarta. Madrid: Imprenta de Andrés de Sotos, 1786.
 
+Azpilcueta, Martín de. *Manual de confessores y penitentes* \[1553\].
+Salamanca: en casa de Andrea de Portonariis, 1556.
+
 Berart y Gassol, Gabriel. Gabriel Berart y Gassol, *Speculum
 visitationis secularis omnium magistratum, iudicum, decurionum,
 aliorumque Reipublicæ Administratorum \[...\]*. Barcelona: tipografía de
@@ -372,10 +378,14 @@ Palafox y Mendoza, Juan de. *Historia Real Sagrada, luz de príncipes y
 súbditos* \[1643\]. Segunda impresión corregida y aumentada. Bruselas:
 casa de Francesco Foppens, 1655.
 
-Pérez, Antonio Xavier. *Teatro de la legislación universal de España e
-Indias, por orden cronológico de sus cuerpos y decisiones no
-recopiladas*. 28 vols. Madrid: imprenta de Manuel González, imprenta de
-Manuel Espinosa, 1791-1798.
+Peña Montenegro, Alonso de la. *Itinerario para párrocos de indios*
+\[1668\]. Nueva edición purgada. Madrid: oficina de Pedro Marín, 1771.
+
+Pérez y López, Antonio Xavier. *Teatro de la legislación universal de
+España e Indias, por orden cronológico de sus cuerpos y decisiones no
+recopiladas*. 28 vols. Madrid: imprentas de Manuel González, de Gerónimo
+Ortega y herederos de Ibarra, de Ramón Ruiz, de Antonio Espinosa,
+1791-1798.
 
 Petra, Pietro Antonio de la. *Tractatus in quo de potestate principis,
 et inferiorum ab eo; de excessibus etiam eorum circa prædicium alienum

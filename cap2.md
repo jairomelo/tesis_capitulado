@@ -1522,7 +1522,7 @@ y tropas, como indicaba la pena regular.[^190]
     XXXVII, "De pœnis", No. 322.
 
 [^24]: Antonio Xavier Pérez y López, *Teatro de la legislación universal
-    de España e Indias*, Tomo XVI (Madrid: imprenta de don Antonio
+    de España e Indias*, tomo XVI (Madrid: imprenta de don Antonio
     Espinosa, 1797), 320-321.
 
 [^25]: Este concepto será tratado con más detalle en el capítulo 3.
@@ -1701,9 +1701,8 @@ y tropas, como indicaba la pena regular.[^190]
 
 [^70]: Rodríguez Flores, *El perdón real*, 60.
 
-[^71]: Francisco Antonio de Elizondo, *Práctica universal forense de los
-    tribunales de España y de las Indias* (Madrid: Joaquín Ibarra,
-    1785), tomo V, parte I, cap. VI, 80.
+[^71]: Elizondo, *Práctica universal forense*, tomo V, parte I, cap. VI,
+    80.
 
 [^72]: *Nueva Recopilación*, Lib. VIII, tít. 24, ley 4.
 
