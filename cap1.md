@@ -1106,8 +1106,8 @@ contadas excepciones,[^170] evitaban la destrucción iconoclasta.
 Finalmente, si podían obtener perdón del rey ¿por qué no habrían de
 conseguirlo de la infinita piedad de Dios?
 
-Emoción y perdón
-----------------
+Emoción y clemencia
+-------------------
 
 La clemencia se diferenciaba del perdón en tanto la primera representaba
 una virtud y la segunda una manifestación de la potestad, aunque ambas
@@ -1323,64 +1323,6 @@ ganaba el rey con la promulgación de estas amplias gracias no lo fuera
 tanto de aquellos que libraba de sus prisiones como de la generalidad de
 los vasallos que asimilaban el padre de la monarquía con Jesucristo y su
 poder redentor.
-
-La confesión y el perdón real
------------------------------
-
-En el momento que el rey decía sobre las causas de los reos a ser
-liberados "yo os perdono, para que Dios me perdone", actuaba de manera
-muy similar al párroco confesor que le decía al penitente en el momento
-de la absolución: "ego te absolvo a peccatis tuis in nomine Patris,
-etc." La penitencia era el mecanismo establecido por la iglesia católica
-para la remisión de los pecados, que consistía en tres pasos
-indispensables para retornar al favor de dios: el arrepentimiento
-(contrición o atrición), la confesión, y la absolución. La penitencia
-también era considerada como una virtud en tanto representaba el
-aborrecimiento del pecado, específicamente, el dolor que sentía el
-penitente por lo errores pasados.[^198] Era virtud en tanto la
-repugnancia de sus actos se debiese al haberse apartado de Dios con la
-falta, pero no podía considerarse arrepentimiento si este sólo se
-afligía por las consecuencias de sus actos;[^199] por ejemplo, si el
-ladrón se dolía por ser puesto preso pero no porque al robar violó un
-sagrado mandamiento, entonces no podía considerarse como virtud a su
-pena. Es por ello que, según explicaba Murillo Velarde, la penitencia no
-se hacía con la esperanza del perdón (*spe veniæ*), sino por la
-desesperación sobrenatural que produce el desagrado del pecado.[^200]
-Esta era la primera diferencia entre el perdón real y la penitencia, ya
-que el reo, sobre todo el ausente, confesaba su falta con el expreso
-propósito de obtener el indulto, con el sólo deseo de ser abrigado por
-la gracia regia.
-
-"Sacramento es gracia divina", dijo Martín de Azpilcueta en su manual de
-confesores y penitentes,[^201] por lo tanto, se debería entender como un
-don que Jesucristo brindó a los hombres (según quedó establecido
-definitivamente desde el concilio de Trento) tras su resurrección, y el
-cual habría sido encargado a sus apóstoles al haberles dicho: "A quienes
-remitiereis los pecados, les son remitidos; y a quienes se los
-retuviereis, les son retenidos".[^202] El sacramento de la penitencia es
-sinónimo de absolución hecha por el sacerdote a los pecados de aquel que
-los confiesa legítimamente y es de su jurisdicción espiritual;[^203] es
-decir, que ha incumplido con el decálogo, las obligaciones con la
-iglesia (oír misa entera los domingos, ayunar los días establecidos,
-pagar los diezmos, confesarse por lo menos una vez al año, y comulgar en
-Pascua), los siete sacramentos, o ha cometido pecados mortales. Desde el
-concilio de Trento se determinó que era herejía considerar que la
-absolución sacramental no es un acto judicial.[^204] Por lo tanto, se
-puede entender que la absolución era el acto judicial en el que el
-pecador se presentaba ante el tribunal (conciencia y sacerdote) para ser
-juzgado.[^205]
-
-Para ser absuelto, el pecador tenía que cumplir con tres actos de
-penitencia: la contrición, la confesión y la satisfacción.[^206]
-
-"No es contra razón, que uno torne a la gracia, y amistad de Dios por la
-contrición, que perdona los pecados, y quede obligado a la confesión.
-Como tampoco lo es, que uno sea perdonado del rey, y recibido a su
-gracia, y que quede obligado a servirle un año en las guerras de
-Africa".[^207]
-
-Restitución: obra de la justicia conmutativa, devuelve lo suyo a su
-dueño o "contenta" al acreedor.[^208]
 
 [^1]: Juan Marchena Fernández, "Sin temor de rey ni de dios. Violencia,
     corrupción y crisis de autoridad en la Cartagena colonial", en
@@ -2491,49 +2433,3 @@ dueño o "contenta" al acreedor.[^208]
     Históricas, Universidad Nacional Autónoma de México, 2015), 93--95.
 
 [^197]: Hespanha, "La economía de la gracia".
-
-[^198]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
-    "De pœnitentiis, et remisionibus", núm. 359.
-
-[^199]: Alonso de la Peña Montenegro, *Itinerario para párrocos de
-    indios* \[1668\], nueva edición purgada (Madrid: oficina de Pedro
-    Marín, 1771), lib. III, trat. III, "Tratado del dolor".
-
-[^200]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
-    núm. 359.
-
-[^201]: Martín de Azpilcueta, *Manual de confessores y penitentes*
-    \[1553\], (Salamanca: en casa de Andrea de Portonariis, 1556), cap.
-    XXII.
-
-[^202]: Jn 20:23. Concilio de Trento, sesión 14, "Doctrina de los
-    santísimos sacramento de la penitencia y extrema-unción, 25 de
-    noviembre de 1551", en *El Sacrosanto y Ecumenico Concilio de
-    Trento*, trad. Ignacio López de Ayala (Madrid: en la Imprenta Real,
-    1785), cap. I. Peña Montenegro, *Itinerario para párrocos*, lib.
-    III, trat. III, preámbulo, núm. 16. Murillo Velarde, *Cursus iuris
-    canonici*, lib. V, tít. XXXVIII, núm. 360.
-
-[^203]: Azpilcueta, *Manual de confessores*, cap. XXII, "Del sacramento
-    de la penitencia".
-
-[^204]: Azpilcueta, cap. V, "Del poder saber", núm. 7. Antonio Xavier
-    Pérez y López, *Teatro de la legislación universal de España e
-    Indias*, tomo XXII (Madrid: imprenta de don Antonio Espinosa, 1797),
-    voz "penitencias", §VI "Concilio tridentino, ses. 14, can. 9, 416.
-
-[^205]: John W. O'Malley, *Trent. What Happened at the Council*
-    (Cambridge, MA; Londres: Belknap Press of Harvard University Press,
-    2013), 153.
-
-[^206]: "in corde ejus contritio in ore ejus confessio, in opere tota
-    humilitas (id est satisfactio) haec est perfecta, et fructifera
-    poenitentia" ("en su corazón la contricción, en su boca la
-    confesión, en sus obras toda la humildad (esto es la satisfacción),
-    esta es la perfecta y fructífera penitencia.") Murillo Velarde,
-    *Cursus iuris canonici*, lib. V, tít. XXXVIII, núm. 361.
-
-[^207]: Azpilcueta, cap I, "De la contricson", núm. 15.
-
-[^208]: Azpilcueta, *Manual de confessores*, cap. XVII, "Que cosa es
-    restitucion", núm. 6.
