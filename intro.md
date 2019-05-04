@@ -109,8 +109,10 @@ disponible en la actualidad.
 
 ### Fuentes doctrinales
 
+Doctrina como opinión y *auctoritas*:[^17]
+
 Saavedra Fajardo. La edición de 1642 publicada en Milán se considera
-como "de referencia"[^17] y fue de esta que se derivaron las
+como "de referencia"[^18] y fue de esta que se derivaron las
 reimpresiones del siglo XVIII e inicios del XIX (Madrid, 1724 y
 1789-1790; Valencia, 1786 y 1800-1801). La comparación entre las
 diferentes reimpresiones muestra que éstas fueron copias fieles a la
@@ -138,7 +140,7 @@ tras la separación de la provincia de Caracas, alcanzaba desde el norte
 hasta el sur una extensión de cerca de 2000 kilómetros, en tanto su
 longitud no fue claramente definida, como diría Francisco Silvestre,
 este era un virreinato "cuya extensión pasa de 800 leguas por lo
-largo,[^18] y que no se le conosen límites por lo ancho."[^19]
+largo,[^19] y que no se le conosen límites por lo ancho."[^20]
 
 [^1]: Pierre Rosanvallon y Javier Fernández Sebastián, "Historia
     intelectual y democracia. Entrevista con Pierre Rosanvallon",
@@ -256,17 +258,22 @@ largo,[^18] y que no se le conosen límites por lo ancho."[^19]
     Victoria Montoya Gómez, "Castigo y perdón: el movimiento comunero.
     Nuevo Reino de Granada, 1781", *Mouseion*, núm. 18 (2014): 35--53.
 
-[^17]: Diego Saavedra Fajardo, "Idea de un príncipe político cristiano",
+[^17]: Víctor Tau Anzoátegui, *El jurista en el Nuevo Mundo.
+    Pensamiento. Doctrina. Mentalidad*, Global Perspectives on Legal
+    History 7 (Frankfurt am Main: Max Planck Institute for European
+    Legal History, 2016), 101--40, https://doi.org/10.12946/gplh7.
+
+[^18]: Diego Saavedra Fajardo, "Idea de un príncipe político cristiano",
     ed. Enrique Suárez Figaredo, *Lemir: Revista de Literatura Española
     Medieval y del Renacimiento*, núm. 20 (2016): 522.
 
-[^18]: Aproximadamente 4457 kilómetros si se toma como base la medida
+[^19]: Aproximadamente 4457 kilómetros si se toma como base la medida
     tradicional que establecía la legua común en 20000 pies castellanos
     (cerca de 5572 metros). Valentina Garza Martínez, "Medidas y caminos
     en la época colonial: expediciones, visitas y viajes al norte de la
     Nueva España (siglos XVI-XVIII)", *Fronteras de la Historia* 17,
     núm. 2 (2012): 197 y 218.
 
-[^19]: Francisco Silvestre, *Relación de la provincia de Antioquia*,
+[^20]: Francisco Silvestre, *Relación de la provincia de Antioquia*,
     Ediciones especiales 4 (Medellín: Secretaría de Educación y Cultura
     de Antioquia, 1988), 483.

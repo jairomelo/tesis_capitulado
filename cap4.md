@@ -473,8 +473,8 @@ comuneros en el orden político de las provincias del Nuevo Reino, ni
 descartar que, aunque no hubiese un interés por atacar la autoridad
 real, la relación entre las autoridades españolas y los vasallos
 americanos se modificaron significativamente en los años posteriores al
-levantamiento. Como lo explicó Anthony McFarlane hace dos lustros, si
-bien la rebelión comunera no fue un movimiento independentista, sí
+levantamiento. Como lo explicó Anthony McFarlane hace dos décadas,
+aunque la rebelión comunera no fue un movimiento independentista, sí
 provocó una crisis política al demostrar a la corona que ya no era
 posible depender de la obediencia incondicional de sus súbditos en el
 Nuevo Reino de Granada.[^60]
@@ -1337,8 +1337,7 @@ Sevilla.[^123]
     doc. 2. "Sumario contra Miguel Suárez y Alejo Rivas por homicidio",
     AGNC, sección colonia, juicios criminales, tomo 76, doc. 2.
 
-[^74]: Francisco de la Pradilla, *Suma de las leyes penales*, (Madrid:
-    Imprenta del reino, 1639), parte primera, cap. III.
+[^74]: Pradilla, *Suma de las leyes penales*, parte primera, cap. III.
 
 [^75]: "Sentencias de José Antonio Galán y compañeros", en Juan Friede,
     *Rebelión comunera de 1781: documentos*, vol. II, II vols. (Bogotá:

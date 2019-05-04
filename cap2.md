@@ -863,409 +863,236 @@ la materia y de cierta manera puede dar visos de cierta
 "administrativización" de la política de indultos desde 1760 cuando se
 prefirió utilizar una plantilla en lugar de dejar abierta la posibilidad
 al arbitrio del juez para determinar cuáles delitos estaban excluidos de
-la gracia real.
+la gracia real. A pesar de lo anterior, excluir de la gracia a un reo no
+resultaba solamente por ser su delito de los señalados en la cédula
+real, si el consenso de los jueces implicaba excluir otros delitos que
+se consideraban de tal gravedad que no podían ser apartados de la
+vindicta pública. Uno de estos crímenes era el estupro, el cual se puede
+interpretar sintéticamente como la desfloración violenta o por engaños
+de una doncella.[^129] En el caso de este crimen, la definición y
+decisión jurídica se fundamentaba en el derecho canónico, ya que hacía
+parte del ámbito del pecado de la lujuria,[^130] pues en el regio se
+había decidido relativamente poco al respecto.[^131] En el fuero
+canónico se establecía que el juez debía ser misericordioso con aquellos
+que caían en la desgracia del pecado, excepto cuando los hechos debían
+ser juzgados como malos, es decir, en "el homicidio, el estupro, el
+adulterio y otros de este género \[v. gr. sodomía, incesto\]".[^132] Por
+su parte, el derecho civil comprendía que la pena por este delito debía
+corresponder a que el estuprador indemnizara (dotara) a la familia de la
+víctima con la mitad de sus bienes, y en caso de no tenerlos, debía ser
+azotado y desterrado. Si la violación había sido hecha por la fuerza la
+norma criminal ordinaria era la pena de muerte,[^133] aunque en la
+mayoría de ocasiones la pena se moderaba según el arbitrio del juez, y
+se prefería condenar al acusado a unos cuantos años en un
+presidio.[^134]
 
-La lista de delitos exceptuados de los perdones generales se puede
-ampliar a todos aquellos que involucraban injuria a tercero, conocidos
-como delitos privados, en particular los daños en bienes ajenos y la
-injuria, ya que en estos no intervenía la potestad real. En estos casos,
-el conflicto solía resolverse de modo "infrajudicial", donde uno o
-varios mediadores intervenían entre las partes para arbitrar la
-discordia, ya fuese porque la comunidad deseaba evitar el escándalo, el
-daño causado se consideraba tolerable según la percepción colectiva, se
-asumía que la sanción social era suficiente para detener la actuación
-del ofensor u ofensores, o simplemente no se consideraba que la justicia
-real tuviese la necesidad de iniciar un expediente, con los gastos que
-esto conllevaría para el demandante.[^129] Entre mayor fuese la igualdad
-jerárquica de las partes era más posible que los conflictos finalizaran
-en concordia o perdón, pocas veces formalizados por escrito aunque
-participase un juez local como mediador. Además, las ofensas que para
-ciertos sujetos podían considerarse de gran importancia no tenían el
-mismo valor para la justicia ordinaria, por lo cual se recomendaba al
-juez que no admitiera estas querellas "de poca monta".[^130] En estos
-niveles del conflicto local y familiar lo perdonable e imperdonable no
-necesariamente estaba en contraposición con la convención general del
-gobierno y justicia monárquico, era en estos ámbitos donde la axiología
-católica y el sentido virtuoso de la justicia cobraban mayor fuerza sin
-que esto se considerara una afrenta o contradicción al orden monárquico.
+Difícilmente un reo por este delito podría acceder al indulto real,
+aunque no estuviese estipulado entre aquellos excluidos del
+perdón,[^135] pero los jueces tendían a considerarlo un crimen de tal
+atrocidad que no podía ser remitido, a menos que fuese posible la
+restitución de la fama o los bienes de la familia afectada. En un caso
+conocido por la Audiencia de Santa Fe en 1804, un mulato de la villa del
+Socorro llamado José Leandro Angulo, de poco más de dieciséis años
+(según fue supuesto por su apariencia y nunca comprobado en el acta de
+bautismo), fue encontrado culpable de haber abusado María Rosa Vallejo
+de nueve años. Tras recibir los testimonios de las matronas que
+revisaron a la pequeña, de la madre, de la misma niña con asistencia del
+padre de menores (aunque en su testimonio no habló por "su corta edad y
+vergüenza"), y a pesar de que Angulo negó todas las acusaciones, fue
+condenado a dos años de prisión en Cartagena, en coincidencia con lo
+dictaminado por el letrado Esmaragdo Tavera.[^136] El procurador que
+defendió la causa del sindicado, Francisco Javier García, alegó que no
+había prueba suficiente para determinar la culpabilidad de su protegido,
+de hecho, cuestionaba que hubiese evidencia del estupro puesto que la
+niña fue revisada por matronas, no por cirujanos. Así que, por una
+parte, pedía la libertad de su reo por ser inocente, y por otra
+aprovechó la promulgación del indulto general de Carlos IV publicado el
+25 de julio de 1803 para acogerse a la gracia pues, según el procurador,
+"cubre a mi parte por ser el delito que se le atribuye de los
+comprehendidos en la gracia".[^137] Esta petición fue rechazada por el
+alcalde ordinario de la villa del Socorro, aunque nuevamente fue
+impetrada la gracia ante la Audiencia de Santa Fe, el fiscal del crimen
+determinó que el alcalde había decidido con mucha lenidad, ya que estos
+casos se podían castigar incluso con la pena de muerte, y no sólo
+rechazó la petición de indulto sino que recomendó aumentar la condena a
+cuatro años de presidio en Cartagena, como efectivamente lo hicieron los
+oidores en su decisión definitiva.[^138]
 
-Finalmente, si se tiene en cuenta la taxonomía de delitos exceptuados
-del perdón que da la pregunta ¿cuáles delitos eran perdonables? El
-problema que presenta esta pregunta radica en que las cédulas de perdón
-general, aunque fueron explícitas en cuanto los delitos exceptuados,
-eran relativamente ambiguas en cuanto a los aceptados en la gracia.
-Antonio de Elizondo decía que "en los indultos, quando no se expresan
-los delitos, sobre que se conceden, se extienden á todos, excepto el de
-traicion, alevosía, y otros atroces, no dilatándose, ú ampliándose á
-otros mayores, ó menores, por obrar solo dentro de sus límites, sin
-transcender á lo no expresado para restringirles, ni para incluir lo que
-no comprehenden".[^131] La aclaración de Elizondo no abarcaba sin
-embargo el complejo universo de delitos, atenuantes, agravantes, y penas
-que configuraban la justicia criminal y civil del siglo XVIII. La lógica
-básica se podía resumir en una frase: todo delito estaba incluido en el
-perdón si no estaba explícitamente excluido de la cédula de
-perdón.[^132] En muchos casos, los indultos simplemente incluían un
-delito, por ejemplo, contrabando,[^133] deserción,[^134] o matrimonio
-sin licencia;[^135] y en ocasiones, a los culpados por un delito
-específico dentro de un grupo delimitado, por ejemplo, los gitanos y
-vagabundos condenados por ilícito comercio o defección de las filas del
-ejército.[^136]
+Llama la atención del caso anterior que la condena fuera promulgada con
+tanta celeridad, además que el indulto fuera desestimado incluso
+contando con el perdón de la madre; aunque hay que señalar que este
+último se realizó de una modo relativamente informal ante el escribano,
+quien solamente apuntó: "dixo: que por su parte perdonava a Jose Leandro
+Angulo, y que no tenía qué pedir contra él en esta causa".[^139] El
+fiscal encargado para ver la causa en la villa del Socorro no menciona
+siquiera el apartamiento de la madre y determinó que el delito era "de
+los de mayor gravedad" y no podía ser comprendido en el real
+indulto.[^140] Algunos testigos fueron favorables con Angulo, y
+declararon que era un joven de buena conducta, sin visos de ser
+"enamorado", "sujeto a su padre".[^141] A pesar de lo anterior, el
+fiscal ratificó su posición en contra de cualquier atisbo de piedad y la
+necesaria condena rigurosa al sindicado:
 
-El proceso del perdón
----------------------
+> Que á este perverso executor se le debe castigar con todo el rigor de
+> las leyes por la refinada malicia con que obró derramando la sangre de
+> un cordero y\[g\]norante que se hallaba en el estado de ignociensia.
+>
+> Asi pues, no es digno este reo de que se le mire con asomo de piedad,
+> aplicándole la pena que por su enorme maldad merese; y agrabarcele por
+> las circunstancias que afean el hecho executado. El proceso clama
+> dando voces pidiendo el condigno castigo que tan merecido tiene se le
+> ha de aplicar, por tanto se le castigará con toda la pena establecida
+> por las Leyes, sin que haya remicion alguna, sirviéndole de
+> escarmiento, de contención, á este Reo, a los malhechores, y de
+> satisfacción al Publico.[^142]
 
-Como prerrogativa indelegable, la cédula de indulto general sólo podía
-ser expedida por el Consejo de Cámara de Castilla, organismo encargado
-de los asuntos de gracia y merced, redactada por su secretario quien
-firmaba al final como responsable de su elaboración por mandato de su
-majestad. A pesar de la creación del sistema de Secretarías de Estado,
-los perdones no fueron compartidos por la del Despacho de Gracia y
-Justicia. De la misma manera, los indultos que abarcaban el fuero
-militar o se extendían a América corrían por vía de los consejos de
-Guerra e Indias. En este sentido, los indultos se promulgaron y
-distribuyeron según las vías construidas durante el régimen
-polisinodial.
+Un lectura del expediente podría generar sospechas relacionadas con una
+posible acción irresponsable del alcalde del Socorro y su fiscal, con la
+cual habrían llevado a prisión a un posible inocente; de hecho así lo
+planteó el defensor de pobres en Santa Fe, Joaquín Eduardo Pontón, al
+recordar en su alegato que "es mas justo, y acertado (en exprecion de
+una ley de partida) dejar á un delinq\[uen\]te sin castigo que condenar
+á un inocente".[^143] La apelación a la epiqueya no fue escuchada en
+este caso, y como explicó Tomás y Valiente, el derecho de antiguo
+régimen estaba construido "precisamente para condenar tan sólo con
+indicios de culpa".[^144] No era por tanto "sospechoso" que se asumiera
+una posición que sin prueba plena apresurara la condena del reo, más
+cuando el delito había sido cometido contra una persona inocente. Por lo
+tanto, que un delito estuviese excluido del perdón no se basaba
+únicamente en lo expresado en la cédula real, para un delito como el
+estupro, ubicado dentro de una categoría ambigua entre pecado y
+crimen,[^145] el arbitrio y consenso de los jueces era fundamental para
+decidir si el reo era digno de ser abrazado por la gracia regia.
 
-El original se remitía al presidente del Consejo quien nombraba a un
-grupo de ministros quienes serían los encargados de declarar quiénes
-debían gozar del indulto. Al final de cada cédula se indicaban cuáles
-eran los dos consejeros encargados de formar el tribunal determinado
-para observar las causas y determinar cuáles reos podían ser agraciados
-con la libertad. Para el caso de la Corte, el procedimiento estaba
-claramente señalado, debía formarse dicho tribunal con los cuatro jueces
-"más modernos" y el fiscal de la Sala de Alcaldes de Casa y Corte, más
-los consejeros escogidos previamente. Tras formar el grupo, en una hora
-y día acordado por sus miembros, se daba lectura pública de la cédula a
-cargo del escribano de Cámara de la Sala; posteriormente, el alcalde de
-más reciente nombramiento presentaba las partidas de presos que
-impetraban indulto. Éste mismo juez era encargado de escribir los
-decretos en el libro y se daba certificación del escribano para que
-constara en los procesos, determinando que los reos acogidos por el
-indulto se pusiesen incontinenti en libertad.[^137]
+Por otra parte, la lista de delitos exceptuados de los perdones
+generales se puede ampliar a todos aquellos que involucraban injuria a
+tercero, conocidos como delitos privados, en particular los daños en
+bienes ajenos y la injuria, ya que en estos no intervenía la potestad
+real. En estos casos, el conflicto solía resolverse de modo
+"infrajudicial", donde uno o varios mediadores intervenían entre las
+partes para arbitrar la discordia, ya fuese porque la comunidad deseaba
+evitar el escándalo, el daño causado se consideraba tolerable según la
+percepción colectiva, se asumía que la sanción social era suficiente
+para detener la actuación del ofensor u ofensores, o simplemente no se
+consideraba que la justicia real tuviese la necesidad de iniciar un
+expediente, con los gastos que esto conllevaría para el
+demandante.[^146] Entre mayor fuese la igualdad jerárquica de las partes
+era más posible que los conflictos finalizaran en concordia o perdón,
+pocas veces formalizados por escrito aunque participase un juez local
+como mediador. Además, las ofensas que para ciertos sujetos podían
+considerarse de gran importancia no tenían el mismo valor para la
+justicia ordinaria, por lo cual se recomendaba al juez que no admitiera
+estas querellas "de poca monta".[^147] En estos niveles del conflicto
+local y familiar lo perdonable e imperdonable no necesariamente estaba
+en contraposición con la convención general del gobierno y justicia
+monárquico, era en estos ámbitos donde la axiología católica y el
+sentido virtuoso de la justicia cobraban mayor fuerza sin que esto se
+considerara una afrenta o contradicción al orden monárquico.
 
-Para el caso de las cédulas que abarcaban el continente americano y las
-islas Filipinas el procedimiento no estaba determinado de la misma
-manera que en Castilla, pero es probable que se imitara la forma de la
-Sala de Alcaldes de Madrid. En el perdón general de 1760 la Audiencia de
-Santa Fe notificaba su recepción e indicaban la forma en la que se
-recibía la cédula, según certificaba el escribano Josef de Rosas:
+Si se tiene en cuenta la taxonomía de delitos exceptuados del perdón
+queda la pregunta ¿cuáles delitos eran perdonables? El problema que
+presenta esta duda radica en que las cédulas de perdón general, aunque
+fueron explícitas en cuanto los delitos exceptuados, eran relativamente
+ambiguas en cuanto a los aceptados en la gracia. Antonio de Elizondo
+decía que "en los indultos, quando no se expresan los delitos, sobre que
+se conceden, se extienden á todos, excepto el de traicion, alevosía, y
+otros atroces, no dilatándose, ú ampliándose á otros mayores, ó menores,
+por obrar solo dentro de sus límites, sin transcender á lo no expresado
+para restringirles, ni para incluir lo que no comprehenden".[^148] La
+aclaración de Elizondo no abarcaba el complejo universo de delitos,
+atenuantes, agravantes, y penas que configuraban la justicia criminal y
+civil del siglo XVIII. La lógica básica se podía resumir en una frase:
+todo delito estaba incluido en el perdón si no estaba explícitamente
+excluido de la cédula de perdón.[^149] En muchos casos, los indultos
+simplemente incluían un delito, por ejemplo, contrabando,[^150]
+deserción,[^151] o matrimonio sin licencia;[^152] y en ocasiones, a los
+culpados por un delito específico dentro de un grupo delimitado, por
+ejemplo, los gitanos y vagabundos condenados por ilícito comercio o
+defección de las filas del ejército.[^153]
 
-> Estando en el R\[ea\]l Acuerdo de Justicia los S\[eñor\]es Virrey,
-> Presidente y oydores de la Audiencia y Chancillería Real de este nuevo
-> Reyno de Granada, hav\[iend\]o recivido y visto esta Real Cedula de su
-> Mag\[esta\]d, puestos en pie y destocados dixeron que la obedecian y
-> obedecieron en la forma acostumbrada, mandando se guarde, cumpla y
-> ejecute en todo y por todo su contenido, y que sacandose para archibar
-> su original, se de vista al s\[eño\]r Fiscal y assi lo dixeron y
-> rubricaron por ante mi de que doy fee.[^138]
+La amplitud de crímenes que abarcaba el indulto general abría una
+ventana para la impetración del indulto en la cual un crimen grave, por
+ejemplo el homicidio o el ilícito comercio, podía ser incluido en el
+perdón general si se lograba argumentar correctamente la súplica. En
+muchos casos, especialmente aquellos que llegaban por consulta o
+ratificación a la Real Audiencia, se generaba una contienda entre el
+fiscal y el suplicante, el acusador excluyendo y el acusado incluyendo
+su delito en la gracia. El fiscal, en su vista, remarcaba los agravantes
+que hacían del crimen indigno de perdón; el procurador resaltaba las
+bondades del acusado, el patetismo de su condición como reo, y la
+contingencia de sus acciones. Un ejemplo fue la solicitud de indulto que
+elevó Juan Silvestre Castañeda al juzgado ordinario de tenencia de La
+Mesa (jurisdicción de Tocaima). El suplicante, después de haber evitado
+su captura por el homicidio que cometió contra José Jiménez en el año de
+1798, se presentó ante el teniente de gobernador en diciembre de 1804
+para acogerse al indulto general del 25 de julio del año anterior.
+Inmediatamente recibida la súplica, el teniente ordenó se recogieran
+testimonios que corroboraran que Castañeda no estaba excluido de la
+gracia del indulto en caso de haber cometido un asesinato con alevosía.
+El fiscal nombrado para la vindicta pública, José Antonio Ortega,
+determinó que no había prueba de que el sindicado hubiese actuado con
+premeditación y, ya que no había parte agraviada que exigiera el
+seguimiento de la causa, no existía ningún inconveniente en otorgar el
+indulto.[^154] Para fortalecer el argumento a su favor, el defensor
+nombrado para Castañeda suplicaba se tuviera presente que el caso de su
+defendido era "idéntico" a aquellos en los que se concedía indulto, y
+añadía que "si a mi parte se le tratara como a reo \[...\] no tiene duda
+que aun no se le castigaría con el rigor de las leyes y que se le
+minoraría mucho la parte de la pena".[^155] El teniente de gobernador,
+don Pedro de Sanmiguel y Cacho, coincidió con esta calificación del
+delito y decidió que, al no ser de los delitos exceptuados, se declaraba
+al reo comprendido en la gracia.[^156]
 
-Como se observa, la ceremonia de recepción de estas cédulas se ajustaba
-a la de los demás mandatos del rey. En el caso del indulto de 1780, al
-ser recibido en la villa de Medellín, se añade que la carta fue besada y
-puesta sobre la cabeza, antes de ser obedecida y cumplida.[^139] Es
-decir, se mantuvieron las tradiciones performativas que se implementaron
-durante los siglos anteriores.
+Como era común en los indultos que concedían las justicias ordinarias,
+se elevó para su aprobación a la Real Audiencia, donde fue recibida por
+el fiscal del crimen, Manuel Martínez Mansilla, quien determinó "que la
+muerte executada en la persona de José Ximenes por Juan Silvestre
+Castañeda, lejos de consevirse haber sido en defensa o causal \[sic\],
+que son los casos en que se concede el indulto, se halla que fue
+executada con demasiada malicia y con alevosía".[^157] Castañeda
+argumentaba que su reacción se debió a la amenaza que hizo Jiménez a su
+padre con un sable, aun así, el fiscal decía que el reo debió haber
+optado por "la moderación en la defensa" y huir en consecuencia, en
+lugar de buscar un arma para defenderse. El acusador llevaba su
+argumento al extremo afirmando que por no haber optado por otra forma de
+defensa Castañeda podía ser acusado de haber actuado "con animo
+premeditado y conosida malisia", por lo cual era necesario refutar el
+indulto concedido por el teniente de gobernador, e incluso amonestar a
+dicho juez por la decisión que había tomado.[^158] No obstante el
+alegato del fiscal, los oidores Alba, Cortasar y Portocarrero,
+ratificaron la sentencia consultada por el teniente de La Mesa y por
+tanto, dieron vía libre para la liberación del reo.[^159]
 
-Respecto al procedimiento, la recepción en la gobernación de Antioquia
-brinda luces con relación a la manera en que se seleccionaban las
-causas. En primer lugar, se ordenaba que se publicara por bando en las
-calles de la ciudad y se fijara copia legalizada en las puertas
-principales de las casas de cabildo. Posteriormente, el escribano debía
-llevar a la vista de los cabildantes todas las causas de los reos para
-examinar los delitos y se declarase quiénes de ellos podían gozar del
-indulto, quienes debían ser liberados sin la menor dilación.[^140]
-
-\>\>\> "publicación en Riohacha" aunque no se había publicado todavía en
-Santa Fe: CRIMINALES-JUICIOS:SC.19,63,D.8
-
-\>\>\> No recepción de la cédula: Trátese en los mismos términos que la
-de 1765: CRIMINALES-JUICIOS:SC.19,129,D.51 y
-CRIMINALES-JUICIOS:SC.19,129,D.39
-
-\>\>\> Como se ha señalado a lo largo de este capítulo, los juzgados
-ordinarios solían consultar y pedir ratificación de la decisión de
-indultar a los reos. No es claro que esta haya sido una conducta
-obligatoria, pero cuando en 1797 el alcalde ordinario de Villa de Leiva
-preguntó al fiscal de la Audiencia si era necesario que dicho tribunal
-aprobara sus sentencias el procurador dijo: "que en toda sentencia en
-que sea qualquiera reo declarado por comprendido en la Real Gracia de
-yndulto, siempre que se haia presentado en tiempo i forma, deve ser
-consultada á este superior tribunal, que puede reformarla ó aprobarla;
-para lo qual hai las mismas razones que para consultar, como se hace
-toda otra sentencia de qualidad".[^141]
-
-Patiño Millán, p. 84: "El Gobernador de Antioquia Víctor Salcedo remitió
-las peticiones de indulto a la Audiencia para que este tribunal
-decidiera si estos reos quedaban cobijados con el beneficio"
-
-1807 -\> "Que se observe la práctica de la corte de Madrid relativa a
-los indultos."
-
-### El plazo para acogerse a la gracia, la abolitio y la dilatio 
-
-No obstante lo planteado por Gómez, para aquellos procesos que no se
-encontraban en estado de sentencia definitiva, el indulto general se
-solía interpretar como *publica* *abolitio*. Siguiendo la tradición del
-*ius commune*, la *generali abolitione* construía una situación jurídica
-particular en la cual a los criminales cobijados por la gracia no se les
-extinguía el delito, sino quedaba suspensa la acusación por el tiempo de
-celebración (tradicionalmente 30 días para los indultados en la cárcel
-de la Corte), lapso durante el cual el acusador podía entablar
-nuevamente la causa. Después de dicho término, aquellos que habían sido
-liberados lo serían para siempre pues quedaba vetada la posibilidad de
-formular nuevamente la acusación.[^142] Esta interpretación estaba
-inspirada en el códex justinianeo, específicamente en el punto que dice:
-"Cuando al tiempo en que nuestra indulgencia extinguió las acusaciones
-criminales no se hubiere entablado por ti la acusación, deja de haber la
-excepción de la abolición pública".[^143] En el caso del indulto
-general, el rey fungía como parte ofendida y retenía en sí la
-causa,[^144] motivo por el cual, a menos que durante el plazo
-establecido acusara nuevamente al indultado éste garantizaba su
-libertad.
-
-Aunque esta suspensión de la pena inherente a la *abolitio* pueda
-parecer una "ficción jurídica" tenía efectos prácticos, tal vez el más
-evidente era la posibilidad que un inculpado por un delito grave pudiese
-suspender la causa al impetrar el indulto, buscar el perdón de parte que
-lo remitiera de la condena, o por lo menos apostar por la conmutación de
-la pena ordinaria. Asimismo, en algunos indultos se extendía la gracia a
-los pobres presos por deudas por el término de treinta días usando la
-"fianza de la haz",[^145] obligación jurídica en la que el rey cumplía
-el rol de fiador del miserable para que éste pudiera acordar con sus
-acreedores una manera de saldar su deuda en el plazo mencionado. Si
-pasado el plazo no se había liquidado la deuda o la parte no desistía de
-la imputación, el fiado tendría que regresar a la cárcel; en caso de no
-hacerlo, el rey se obligaba a pagar la deuda que dejaba el pobre.[^146]
-Las cédulas contemplaban asimismo que se ayudaría a pagar sus deudas
-"con algún socorro" que por una única vez sería contribuido desde el
-ramo de penas de cámara.
-
-El gran inconveniente de tratar el indulto general como *abolitio*
-consistía en que no había con ello restitución de la fama, es decir, se
-borraba la acusación pero no el delito, por lo cual el indultado quedaba
-libre pero con la infame nota de delincuente.[^147] Como se ha dicho
-anteriormente, la restitución al estado original era fundamental para
-aquellos que requerían recuperar su oficio, negocios, o la honorabilidad
-de sus hijos manchada por el delito paterno; pero a menos que la cédula
-indicara de manera explícita que el rey incluía con el indulto la
-restitución de los bienes y fama, o se decía que con el perdón resultaba
-la plena libertad, el indultado solamente tenía garantizada su
-libertad.[^148] En este sentido habría que profundizar en algunos
-aspectos. La primera cuestión es que el acusado, en particular aquel que
-no estaba siendo procesado por delitos graves, no había ganado *infamia
-iuris*; sin embargo, el hecho de acogerse al perdón general era
-equiparable a la confesión del delito, por ende, el indulto irrogaba la
-infamia del reo.[^149] Otra cuestión es que el juez ordinario no contaba
-con la potestad para restituir bienes ni fama, por lo cual, aquel que
-había sido tachado de infamia tendría que recurrir directamente al rey o
-al virrey para que usando de sus facultades les perdonaran de manera
-particular.[^150] Por otra parte, los jueces encargados de determinar la
-sentencia de indulto tenían a su favor la regla de la interpretación; al
-no estar determinada por una cláusula específica la restitución de
-bienes, pero tampoco el embargo de los mismos, el tribunal podía decidir
-de manera favorable al indultado siguiendo su arbitrio, e incluso
-apoyarse en una de las tantas opiniones que consideraban el perdón
-general desde su perspectiva más indulgente.[^151]
-
-Similar a la *abolitio*, la *dilatio* se relacionaba directamente con el
-plazo del juicio. El plazo, en sentido estricto, comprendía el espacio
-de tiempo acordado legalmente, por el juez, o por convenio de las
-partes, para responder a la demanda que se le hacía al acusado.[^152] La
-práctica legislativa castellana había definido unos términos
-relativamente precisos para resolver cada instancia judicial que solían
-asimilarse en los procesos civiles y criminales, destacándose la
-dilación citatoria de tres días, la probatoria de nueve días mínimo y
-máximo ochenta, y la ejecutoria, que era "arbitraria á la prudencia del
-Juez, dilatándola mas ó menos segun las circunstancias".[^153] En
-relación con el perdón general, la *dilatio* comprendía el término
-establecido para acogerse a la gracia, el cual prorrogaba los plazos
-judiciales dependiendo de la situación procesal de la causa. El tiempo
-para acogerse a la gracia y ejecutar los procedimientos necesarios para
-obtenerla estaba determinada por cada cédula de indulto, por lo general
-de tres a seis meses para los reos que estuvieran dentro de España y un
-año para los que estuvieran ausentes del reino, plazo que empezaba a
-correr desde el momento en que fuese publicado el edicto de perdón. No
-todas las cédulas de perdón general comprendían un plazo establecido,
-aquellas que se limitaban a la cárcel de Corte establecían un
-procedimiento por el cual dos ministros de Cámara hacían traer las
-causas de aquellos que tuvieran la posibilidad de recibir el beneficio
-de indulto y determinaban quienes podían ser dejados en libertad; en
-este caso, no había otro plazo más que el ordinario de una visita de
-cárcel.[^154]
-
-Garsia Mastrillo hacía la distinción entre plazo y *dilatio*, el primero
-correspondía al tiempo estipulado en la cédula, del cual hacía algunos
-comentarios. En primer lugar, que era válido que durante el plazo se
-consiguiera un acuerdo económico entre la parte ofendida y el condenado,
-quedando al arbitrio del juez si validaba la conmutación o remisión de
-la pena. Por otra parte, Mastrillo indicaba que el tiempo del plazo
-correspondía efectivamente al de la *abolitio*, por lo cual si durante
-ese término el acusador no ratificaba su denuncia el perdón se
-consideraba legítimo. En tercer lugar, señalaba que el tiempo indicado
-para que el sindicado se presentase no se sumaba desde el día que
-impetraba el indulto sino desde la publicación de la cédula, de tal modo
-que un reo que suplicara el indulto faltando unos pocos días para
-finalizar el plazo tendría que contar con ese plazo para conseguir la
-gracia. Mastrillo indicaba que era necesario que todos los
-procedimientos para obtener el indulto (la presentación, la vista fiscal
-y la decisión), incluido el perdón o satisfacción de parte, se hicieran
-en el término demarcado. Si el perdón se otorgaba posteriormente se
-podía considerar denegado. Inclusive el "papel de indulto", la nota en
-el expediente, o cualquier escritura resultante de la libertad del
-preso, debería estar dentro del plazo señalado por la cédula.[^155]
-
-La *dilatio*, según Mastrillo, abarcaba los juicios civiles,
-específicamente los relativos a deudas. La diferencia estaba en que
-mientras el plazo permitía que el reo se presentara (en caso de los
-rebeldes o ausentes este plazo era fundamental) y el tribunal tuviera el
-tiempo para determinar la resolución, o pedir se corrigieran
-procedimientos elaborados de manera incorrecta por un juez anterior o
-juzgado inferior; la *dilatio* permitía que el deudor extendiera el
-tiempo requerido o acordado para satisfacer la deuda, o por lo menos
-para llegar a un acuerdo con su acreedor. El tiempo por el cual el rey
-decretaba la extensión del plazo para subsanar la deuda difería del
-plazo establecido para los delitos del ámbito criminal, el cual era
-indicado expresamente en el edicto de indulto.[^156] Como se puede
-observar, la dilación y la *abolitio* eran bastante similares, sin
-embargo, en sentido estricto, la primera se relacionaba con el tiempo
-para cumplir un procedimiento en tanto la segunda se definía como la
-suspensión de la sentencia. Escoger acogerse a una prórroga del plazo
-podía depender no sólo de una cédula de indulto, también eran relevantes
-los acuerdos entre partes, el arbitrio del juez, y la garantía que un
-acuerdo que liberara al sindicado de sentencia no fuera en detrimento
-del acreedor. La ventaja de la *abolitio* consistía en que permitía que
-en caso de un acuerdo, el denunciante pudiera volver sobre la acusación
-original y reiniciar el proceso para la satisfacción de sus deudas.
-
-Aunque los planteamientos de Mastrillo parezcan bastante restrictivos en
-realidad los plazos podían ser ampliados, al parecer sin una
-justificación explícita, por lo menos en un tribunal del nivel de la
-Audiencia de Santa Fe. En ocasiones el indulto se concedía después de
-pasado el plazo determinado, por ejemplo, en el caso de Simón Rodríguez,
-quien se encontraba en estado de rebeldía de la justicia tras haber
-asesinado a dos vecinos de Zipaquirá en 1744,[^157] se presentó en la
-cárcel de corte de Santa Fe el 16 de septiembre de 1762, a unos cuantos
-días de cumplirse el término de un año después de haberse pregonado en
-la capital virreinal el real indulto general de 1760. No contamos con la
-fecha exacta de la publicación por bando de la real cédula, pero no
-debieron pasar muchos días desde la orden dada por el tribunal de la
-Audiencia el 11 de septiembre de 1761. El primero de agosto de 1762, el
-procurador de pobres, Blas de Valenzuela, había presentado la
-impetración de indulto señalando que Rodríguez había certificado el
-perdón de las partes y dolientes de ambas víctimas. Es probable que el
-límite temporal de la gracia haya motivado la presentación del sindicado
-en la cárcel de corte en lugar de hacerlo ante el corregidor de
-Zipaquirá, especialmente si se tiene en cuenta que en los indultos de
-causas graves era común elevar consulta a la Audiencia para ratificar la
-remisión de la pena, lo cual conllevaría retrasos que podían invalidar
-la súplica. A pesar de la solicitud enviada en agosto, es solamente en
-el momento que Rodríguez se entrega en Santa Fe que se anotó en el
-expediente la marca de haberse dado por presentado. El procurador,
-previniendo que su protegido podría ser rechazado por haberse presentado
-al límite del plazo de la publicación de la cédula anotó en un otrosí a
-su presentación en Santa Fe que "dicho impetrante se hallava ya
-presentado en esta Real Audiencia con sertificacion de el dicho
-Corregidor de Sipaquirá de el perdon de las partes y como se haiga
-pedido se buelve a presentar para que no caresca de dicha Gracia".[^158]
-
-El problema fue que el reo se entregó con las certificaciones de perdón
-de una de sus víctimas, su primo hermano Ambrosio Rodríguez, por lo que
-el procurador tuvo que elevar la impetración de indulto y añadirle la
-solicitud de enviar carta al corregidor de Zipaquirá para que hiciera
-comparecer a las partes y las hiciera jurar el perdón, y luego las
-llamara nuevamente para que se ratificasen como se ordenaba en estos
-casos.[^159] En ese momento se puede considerar que el tribunal decidió
-tácitamente la dilación del término del indulto general, puesto que
-aceptó que el reo se dio por presentado en tiempo pero amplió el plazo
-para que este certificara el perdón de parte. El perdón de parte de los
-familiares de la segunda víctima, el también vecino de Zipaquirá José
-García, fue recibido el 17 de diciembre del mismo año. La demora en
-conseguir el perdón de parte se debió a que la madre del difunto exigió
-a cambio de su ratificación (el 21 de septiembre) el pago de 50
-patacones en compensación por los gastos en entierro y hábito mortuorio
-de su hijo.[^160] El procurador pidió que se exigiera a la parte que se
-ratificara en el perdón que ya había hecho anteriormente sin exigir
-ninguna cantidad a cambio, lo cual consiguió hasta el 13 de diciembre.
-Finalmente, el fiscal José Peñalver dio su visto para que Rodríguez
-fuera indultado por ambos asesinatos, y aunque tuvo que esperar la
-dilación por la suspensión de actividades judiciales de navidad, año
-nuevo y reyes, consiguió su libertad el 11 de enero de 1763, sin pago de
-costas y con la certificación firmada por el oidor semanero.[^161]
-
-En el término del mismo indulto general de 1760, Joseph de Miranda se
-presentó en la cárcel de la villa de Honda en septiembre de 1762
-suplicando la gracia. En una situación similar a la de Simón Rodríguez,
-llevaba como reo ausente ocho años por el homicidio cometido al golpear
-con una piedra a Salvador Gómez, indio de la jurisdicción de
-Honda.[^162] Aunque se presentó sobre el límite del tiempo no contaba
-con el perdón de la parte ofendida, por lo que el alcalde ordinario más
-antiguo (Pedro de Medina) ordenó citar a Nicolasa Villanueva, viuda de
-Gómez, para que determinara si perdonaba al ofensor y dijera si había
-alguien más que pudiera reclamar ser parte ofendida.[^163] Miranda tuvo
-que suplicar nuevamente en el mes de diciembre que el alcalde hiciera
-comparecer a la viuda para que desistiera y se apartara de la querella,
-dejando claro que él se había presentado a tiempo a impetrar
-indulto.[^164] Después de recibir el perdón de la parte, el alcalde
-envió el expediente a la Audiencia para consultar si era posible incluir
-al reo en el perdón general. El fiscal Peñalver consideró que Miranda se
-había presentado "despues de circunscripto el termino concedido para
-presentarse á solicitar la referida gracia dispensada por V\[uestra\]
-R\[eal\] P\[ersona\]" por lo cual "V\[uestra\] A\[lteza\] se ha de
-servir declarar no haver lugar, y mandarse devuelban los autos á la
-justicia ordinaria de la Villa de Honda, para que sigan y determinen la
-causa contra el referido Miranda conforme a derecho, que assi es
-justicia".[^165] A pesar de la advertencia del fiscal el Real Acuerdo
-determinó que Miranda debía gozar del indulto, ser liberado sin costa
-alguna y con certificación del escribano de Cámara firmada por el oidor
-semanero.[^166]
-
-La vista fiscal en la impetración de Miranda es evidencia de que una
-solicitud de indulto podía ser rechazada por haberse impetrado por fuera
-del plazo estipulado, y de la misma manera, la resolución favorable en
-ambos casos presentados muestra que el arbitrio del tribunal podía
-dilatar el plazo e incluso remitir la pena más allá del límite
-estipulado en la cédula de perdón general. No obstante, no se debe
-subestimar el requerimiento de presentarse dentro del término
-establecido, especialmente si se tiene en cuenta que la mayoría de
-solicitudes eran explícitas en señalar que se hacían dentro del plazo
-indicado por la gracia real. Por ejemplo, la solicitud de perdón de
-Eugenio Poveda era precisa en cuanto haberse presentado a tiempo:
-"Siendo pues que oy que se cuentan ocho de Marzo \[de 1783\] estamos
-\[d\]entro del término asignado, que se previene en la Real Cedula
-\[de\] indulto general que Su Magestad libró piadosamente en ocho de
-Junio de mil septecientos ochenta en acim\[ient\]o \[sic por acción\] de
-gracias por el nacimiento de Nuestro Principe Don Carlos Domingo
-Eucebio, qual se promulgó en esta villa \[del Socorro\] en trece de
-septiembre de ochenta y dos".[^167] El hacer explícitas las tres fechas
-claves (publicación, promulgación y presentación) evitaba que se
-rechazara la solicitud por un "formalismo", especialmente en este caso
-donde la solicitud distaba de la publicación de la cédula por casi tres
-años. Esta dilación fue aprovechada por el fiscal nombrado por la real
-justicia, Joseph Martínez, para requerir que se le aplicara la pena
-ordinaria de último suplicio argumentando que Poveda no se había
-presentado voluntariamente sino lo hizo después que fuera capturado
-(llevaba preso 16 días al momento de impetrar indulto), en una clara
-distinción entre la presentación del reo ausente y la captura casual,
-que no estaba señalada en la cédula de 1780.[^168] La reacción de Poveda
-consistió en requerir, por conveniencia a su derecho, que el escribano
-en presencia del fiscal nombrado certificara "el dia de la publicacion
-de la real sedula \[de\] indulto general, que sito en mi escrito que
-esta por cabeza".[^169] La dilación del proceso llegó a tal punto que
-Poveda pudo acogerse al nuevo indulto general de enero de 1784, el cual
-lo favorecía más que el anterior pues, argumentaba el procurador de
-pobres de la cárcel del Socorro, "parece que quando el antecedente
-\[indulto\] no le comprehendiere, debe comprehenderle en esta \[gracia\]
-por ser su delito de los que ahora expresamente quedan
-perdonados".[^170] Tanto el fiscal nombrado en el Socorro como el de la
-Audiencia habían sugerido rechazar la petición de indulto de Poveda
-porque el homicidio fue causado sobre una autoridad de la parroquia de
-Simacota, quien trataba de detenerlo al sorprenderlo contrabandeando
-tabaco. El haber conseguido presentarse a tiempo, además de dilatar el
-periodo de prueba dentro del cual obtuvo perdón de parte, le permitió a
-Poveda, por mera coincidencia, acogerse a un indulto más amplio y
-obtener así la remisión de la pena ordinaria a cambio del destierro de
-la vecindad del Socorro y las parroquias de Simacota, Monguí y
-Charalá.[^171]
+En otros casos, la contradicción se manifestaba entre el fiscal y los
+oidores, como en la solicitud de indulto de María Josefa Contreras,
+vecina de Santa Fe acusada de haber asesinado por azotes a una joven que
+tenía a su servicio. En este caso, la sindicada argumentaba que aunque
+el delito no se encontrara dentro de los beneficiados por la gracia real
+se le debía incluir por haberse presentado voluntariamente, igual que
+los demás "reos ausentes y rebeldes".[^160] Claramente el anterior no
+fue un argumento muy convincente pues los oidores rechazaron la súplica.
+Ante la negativa, el procurador de pobres, Cándido Nicolás Girón,
+solicitó los autos para "mejorarlos" y así poder solicitar nuevamente el
+perdón real. El fiscal Martínez Mansilla le advirtió a los oidores que
+la acusada, al haber recurrido directamente a la superior justicia
+corría el riesgo de quedar sin recurso de apelación tras pedir el
+expediente, por lo cual la súplica fue aceptada "por equidad" y se le
+permitió alegar en dicho grado.[^161] El procurador aprovecha la
+dilación para conseguir el perdón de los padres de la víctima, quienes
+claman en su carta por la piedad de María Josefa. Entonces, el abogado
+intenta argumentar por una parte que su defendida era inocente al haber
+sido acusada sin pruebas, y además, que aunque fuera culpable, estaría
+incluida en los delitos perdonables puesto que carecía de "libertad y
+deliberación" para realizar el asesinato.[^162] Para la decisión final,
+el fiscal Martínez retomó la vista que había presentado meses antes
+según la cual no era evidente la relación entre el castigo aplicado por
+María Josefa a su sirvienta y la muerte de la misma, por lo tanto este
+magistrado consideraba que el delito de la suplicante estaba comprendido
+en la gracia del indulto general.[^163] La vista de los oidores
+(Ezterripa, Inclán y Cortazar) consideró, a pesar de su súplica y perdón
+de parte, que debía aplicarse la condena de cuatro años de reclusión en
+la cárcel del divorcio de Santa Fe, lugar donde María Josefa cumplió su
+condena y fue liberada en 1808.[^164]
 
 El privilegio de los dignos de misericordia
 -------------------------------------------
@@ -1276,63 +1103,111 @@ privilegio de los hidalgos ser eximidos de castigo por respeto a la
 memoria de aquellos que beneficiaron la república. En el otro lado del
 espectro se hallaban los considerados dignos de misericordia o
 miserables, "aquellos cuya infelicidad mueve la compasión del
-emperador".[^172] Estos eran los rústicos, los menores huérfanos, las
-viudas, las mujeres casadas con maridos inútiles, y para el caso
-americano, los indios.[^173] Esta calidad les había representado un
-privilegio, entendido según la tradición jurídico-política de la época,
-como una ley privada (*privata lex*) emitida para un grupo particular,
-con el propósito específico de favorecer, de manera temporal, a aquellos
-que por una condición desfavorable requirieran del apoyo de la
-jurisdicción regia para enfrentar las inequidades que podían generar en
-ellos las querellas instauradas por otros, o defender los bienes del
-daño que podían causar aquellos que quisieran aprovechar su debilidad.
-Debe comprenderse entonces no como un derecho ordinario sino como una
-concesión, un favor concedido por el rey para superar o prevenir el daño
-con el fin de restituir las cosas (en el sentido amplio de *res*) al
-estado anterior al daño provocado por un contrato, transacción o
-querella.[^174]
+emperador".[^165] Estos eran los pobres, los rústicos, los menores
+huérfanos, las viudas, las mujeres casadas con maridos inútiles, los
+enfermos y, para el caso americano, los indígenas.[^166] Esta calidad
+les había representado un privilegio, entendido según la tradición
+jurídico-política de la época, como la ley privada (*privata lex*)
+emitida para una persona o grupo particular con el propósito específico
+de favorecer, de manera temporal, a aquellos que por una condición
+desfavorable requirieran del apoyo de la jurisdicción regia para
+enfrentar las inequidades que podían generar en ellos las querellas
+instauradas por otros, o defender los bienes del daño que podían causar
+aquellos que quisieran aprovechar su debilidad.[^167] Desde el siglo
+XVII la concepción del privilegio se asimiló progresivamente a la de
+derecho especial, por lo que ya no sólo abarcaba a los dignos de amparo
+sino se ampliaba a otros grupos como los militares, los nobles, e
+incluso algunos oficios como los fiscales.[^168]
 
-Los dignos de misericordia tenían una serie de privilegios tanto en la
-jurisdicción temporal como en la espiritual. Les competían los
-beneficios de restitución *in integrum*,[^175] la resolución sumaria y
-breve de los pleitos, el derecho de solicitar nuevas pruebas y
-testimonios cuando los consideraran nocivos a su causa, se les excusaba
-de la contumacia judicial,[^176] y tenían caso de Corte, es decir,
-podían acudir directamente a la audiencia, sala de alcaldes de corte o
-consejo, para litigar desde la primera instancia.[^177] Además de esto,
-Solórzano Pereyra aconsejaba que a los indios les fueran moderadas las
-penas y que se evitaran los castigos corporales, para lo cual
-recomendaba a los jueces que "usen más de oficio de padres que de jueces
-severos hasta que \[los indios\] se hallen más capaces de razón y más
-arraigada en la fe esta pobre gente". No obstante, esto no excusaba del
-uso riguroso de la justicia si se comprobaba que habían actuado con
-malicia para cometer delitos graves, como los mencionados en el apartado
-anterior, lo cual los hacía indignos de templanza y benignidad en la
-pena.[^178]
+Lo anterior no implica que existiese un fuero definido o un corpus de
+leyes que abarcara el privilegio de los pobres y miserables; al
+contrario, lo que caracterizaba dicha condición era la indeterminación.
+Paulino Castañeda ya había identificado en 1971 que hacer una relación
+de los privilegios concedidos a los miserables era prácticamente
+imposible.[^169] Más recientemente, Thomas Duve señaló que el privilegio
+"más allá de ser un instituto del derecho común, llegó a ser un modo de
+pensar, una práctica cultural más allá de la metodología o la teoría del
+privilegio".[^170] De manera sintética, podría considerarse que el
+privilegio era *privata lex* en el sentido que no hacía parte del
+derecho común, y en el caso de los pobres y miserables era una concesión
+de piedad y gracia que el monarca como legislador hacía sobre sus
+vasallos más necesitados de amparo y tutela. Como consecuencia, se
+entendía como una renuncia a aplicar la justicia ordinaria para
+favorecer la equidad sobre el rigor.[^171]
+
+Durante el régimen monárquico se configuró un estado de tutela especial
+para los nativos americanos, en el cual se combinaron tres conceptos
+jurídicos: el de rústico, persona miserable y de minoría de edad. La
+condición de rusticidad implicaba que los indígenas se hallaban
+excluidos de un derecho propio, en este sentido, se entendía que sus
+acciones se guiaban por sus costumbres, ajenas a la norma positiva. La
+condición de miserables los convertía en necesitados de amparo especial,
+específicamente de la protección de los misioneros y ministros de
+justicia, encabezados por el mismo monarca. Con respecto a la minoridad,
+ésta se entendía como una limitación de la razón humana, por lo que en
+general se consideraba que los indígenas no tenían la suficiente
+capacidad para discernir entre lo bueno y lo malo, lo sacro y lo
+blasfemo, la obediencia y el desorden.[^172] Había en esta
+categorización una preconcepción del indígena como débil y pusilánime,
+que debía por lo tanto ser protegido de los españoles que trataran de
+abusar de ellos.[^173] Claramente esto estaba atado a la condición
+jurídica que había establecido el breve *inter caetera* de 1493 en el
+que se dona a los reyes católicos el dominio legítimo sobre los
+habitantes de las Indias a cambio de encargarse de su protección y
+evangelización. En términos legislativos, la condición de miserable de
+los indígenas quedó plasmada definitivamente en una ley recopilada que
+sintetizaba dos cédulas, una de Felipe II en 1582 y otra de Felipe IV en
+1629, la cual decía: "Los indios son personas miserables, y de tan débil
+natural, que fácilmente se hallan molestados y oprimidos, y nuestra
+voluntad es que no padezcan vejaciones, y tengan el remedio y amparo
+conveniente por cuantas vías sean posibles".[^174]
+
+Por su condición subordinada, los pobres y dignos de misericordia tenían
+una serie de prerrogativas tanto en la jurisdicción temporal como en la
+espiritual. Les competían los beneficios de restitución *in
+integrum*,[^175] la resolución sumaria y breve de los pleitos, el
+derecho de solicitar nuevas pruebas y testimonios cuando los
+consideraran nocivos a su causa, se les excusaba de la contumacia
+judicial,[^176] se les excusaba en ciertos casos de pagos de
+costas,[^177] y tenían caso de Corte, es decir, podían acudir
+directamente a la audiencia, sala de alcaldes de corte o consejo, para
+litigar desde la primera instancia.[^178] Además de esto, Solórzano
+Pereyra aconsejaba que a los indios les fueran moderadas las penas y que
+se evitaran los castigos corporales, para lo cual recomendaba a los
+jueces que "usen más de oficio de padres que de jueces severos hasta que
+\[los indios\] se hallen más capaces de razón y más arraigada en la fe
+esta pobre gente". No obstante, esto no excusaba del uso riguroso de la
+justicia si se comprobaba que habían actuado con malicia para cometer
+delitos graves, lo cual los hacía indignos de templanza y benignidad en
+la pena.[^179] Por otra parte, para fortalecer el principio de amparo de
+los indígenas, el rey ordenaba que hubiese un tratamiento diferenciado
+respecto a los crímenes que cometían los españoles contra los indios y
+viceversa, de tal manera que fueran los primeros tratados con mayor
+rigor cuando abusaran de los indígenas que si lo hubieran hecho contra
+otros españoles.[^180]
 
 Ahora bien, el considerarse dignos de misericordia no era equiparable a
 ser merecedores de clemencia. Aunque son términos que pueden
 considerarse equivalentes, la taxonomía de las virtudes diferenciaba la
 clemencia de la misericordia. La primera se relacionaba con moderar la
 superioridad y la venganza, en tanto la segunda movía a la compasión y
-la piedad.[^179] El sentido de ser de la misericordia en la
-administración de justicia pretendía moderar la conducta de los jueces
-al evitar que se tratara de modo preferencial (con mansedumbre) a los
-ricos y a los pobres se les administrara con rigor. La misericordia no
-tenía que ver directamente con exculpar la pena que merecían en
-justicia, sino que en casos iguales o dudosos se favoreciera a los
-pobres y miserables.[^180] Se advertía además que la benevolencia con
-los miserables no debía desembocar en injusticia, como indicaba Castillo
-de Bovadilla se debía evitar que por resolver las causas a favor de
-éstos se causara injuria a otras personas o corporaciones, y no por
-aparentar servicio a la justicia se terminara haciendo perjuicio a
-otros.[^181]
+la piedad.[^181] La misericordia en la administración de justicia
+pretendía moderar la conducta de los jueces al evitar que se tratara de
+modo preferencial (con mansedumbre) a los ricos y por el contrario a los
+pobres se les tratara con rigor. La misericordia no tenía que ver
+directamente con exculpar la pena que merecían en justicia, sino que en
+casos iguales o dudosos se favoreciera a los pobres y miserables.[^182]
+Se advertía, además, que la benevolencia con los miserables no debía
+desembocar en injusticia, como indicaba Castillo de Bovadilla, se debía
+evitar que por resolver las causas a favor de éstos se causara injuria a
+otras personas o corporaciones, y no por aparentar servicio a la
+justicia se terminara haciendo perjuicio a otros.[^183]
 
 Lo que hacía de las personas miserables favorables al perdón era la
 minoración de sus faltas, las cuales se presumía partían de la
-ignorancia e imprudencia propias de su calidad y condición. Un ejemplo
-de ello se extrae del perdón general concedido por los oidores de la
-Audiencia a los rebeldes de los barrios de Quito en 1765:
+ignorancia e imprudencia propias de su calidad y condición.[^184] Un
+ejemplo de ello se extrae del perdón general concedido por los oidores
+de la Audiencia a los rebeldes de los barrios de Quito en 1765:
 
 > Por todo lo qual debieron mandar y mandaron que en forma de vando y ha
 > usanza de guerra se publique en esta ciudad y sus parroquias este
@@ -1346,7 +1221,7 @@ Audiencia a los rebeldes de los barrios de Quito en 1765:
 > conocer por todos modos la enormidad de este excecrable crimen, en
 > adelante no tendrán escusa ni podrá la misma piedad dejar de executar
 > todo el castigo que aclama la jurisdiccion bulnerada y la republica
-> escandalizada.[^182]
+> escandalizada.[^185]
 
 Esta concesión se basó en tres premisas: el indulto y perdón se
 concedieron por la misericordia y conmiseración que "debe ser" vista en
@@ -1355,16 +1230,15 @@ ignorancia; y la advertencia de que el reincidir anularía la posibilidad
 de acceder a la benignidad real. El defensor de los barrios, Domingo de
 Araujo, fue enfático en apuntar la condición miserable de los partícipes
 en "la inquietud," su estado de pobreza y el desprecio sufrido por los
-privilegiados de la ciudad.[^183] Es muy probable que los oidores
-asumieran que apelar a la condición de dignos de misericordia de los,
-para ellos, sublevados era la estrategia más adecuada en términos
-políticos para justificar el perdón general. Si esta interpretación es
-correcta, la acción de los magistrados fue acorde con lo planteado por
-Castillo de Bovadilla: "Que es mas licito indignarse el Juez contra los
-poderosos iniquos, que contra los pobres, porque la necesidad de ellos
-escusa la benignidad de los Jueces, y les mueve á que humana, y
-benignamente procedan mas presto á equidad, que á riguroso
-castigo".[^184]
+privilegiados de la ciudad.[^186] Es muy probable que los oidores
+asumieran que apelar a la condición de dignos de misericordia de los
+sublevados fuera la estrategia más adecuada en términos políticos para
+justificar el perdón general. Si esta interpretación es correcta, la
+acción de los magistrados estuvo acorde con lo planteado por Castillo de
+Bovadilla: "Que es mas licito indignarse el Juez contra los poderosos
+iniquos, que contra los pobres, porque la necesidad de ellos escusa la
+benignidad de los Jueces, y les mueve á que humana, y benignamente
+procedan mas presto á equidad, que á riguroso castigo".[^187]
 
 Si bien la supervivencia de la condición de los indios como miserables
 durante todo el periodo de dominio hispano puede confundirse con un
@@ -1373,7 +1247,7 @@ que los naturales podrían en algún momento igualarse a los demás
 vasallos del rey y con ello liberarse del tutelaje. Así lo esperaba el
 protector de naturales de la gobernación del Cauca en 1793 quien
 manifestó que "cultivando su razón puedan salir alguna vez del largo
-pupilaje a que los reduce la debilidad de su espíritu".[^185] Esta idea
+pupilaje a que los reduce la debilidad de su espíritu".[^188] Esta idea
 bien pudo provenir de la difusión de las ideas de Campillo y Cossío
 quien criticó el rigor de la conquista durante el reinado de Carlos V y
 en adelante el abusivo tratamiento de los indios; en tanto él proponía
@@ -1381,21 +1255,21 @@ que para establecer un buen "gobierno económico" era necesario "reducir
 á los Indios a la vida civil, tratarlos con benignidad y con dulzura;
 animarlos a la industria, y por este camino hacer de ellos vasallos
 útiles y Españoles, y no mirar con desprecio la calidad de Indios, ni
-oprimirlos, como se ha hecho y hace hoy".[^186] Resalta de inmediato en
+oprimirlos, como se ha hecho y hace hoy".[^189] Resalta de inmediato en
 la propuesta de Campillo que mientras los naturales tuviesen la "calidad
 de indios" debía ser tratados con benevolencia y suavidad, por lo tanto,
 la reforma del gobierno político estaba en concordancia con la idea
 tradicional del miserable, pero considerando que su minoridad podía ser
 superada y equiparárseles a la república de españoles.
 
-En un todo similar, Francisco Gil de Taboada, al asumir su empleo de
+En un tono similar, Francisco Gil de Taboada, al asumir su empleo de
 virrey del Perú en 1790 tras haber servido el mismo oficio en el Nuevo
 Reino durante algunos meses, temía que el régimen de intendencias y
 subdelegaciones condujera al restablecimiento del sistema de
-repartimiento abolido desde 1780.[^187] Según este oficial, continuar
-con el repartimiento condenaría a los indios eternamente a la
-"inmovilización" e "inercia", al contrario, era el "liberarlos" para el
-comercio lo que los sacaría de su condición de miserableza:
+repartimiento abolido una década antes.[^190] Según este oficial,
+continuar con el repartimiento condenaría a los indios eternamente a la
+"inmovilización" e "inercia", al contrario, "liberarlos" para el
+comercio sería lo que podría sacarlos de su condición de miserables:
 
 > El comercio es quien unicamente puede sacarlos de ese estado abatido
 > como lo ha hecho con los demas hombres, y para ellos debe protegerse
@@ -1404,7 +1278,7 @@ comercio lo que los sacaría de su condición de miserableza:
 > libremente en sus Pueblos los de las demas Castas, que se establescan
 > en éllos si les acomodare; que entablen y contraigan todo genero de
 > enlaces, que es precisamente lo que siempre ha procurado precaverse
-> por razon de los repartimientos y ambiciosas grangerias.[^188]
+> por razon de los repartimientos y ambiciosas grangerias.[^191]
 
 La política de privilegio de los indios como dignos de misericordia
 sería una constante del gobierno de las indias que no parece haberse
@@ -1414,16 +1288,104 @@ de Intendentes de Nueva España dejaba en claro que aunque se
 implementara el sistema de jueces españoles en poblados de indios, estos
 conservarían "el derecho y antigua costumbre," lo cual incluía
 claramente el "inclinar" la voluntad de los naturales "por los medios
-más suaves".[^189] Del mismo modo, la Ordenanza general de intendentes
+más suaves".[^192] Del mismo modo, la Ordenanza general de intendentes
 de 1803 conservaba el tratamiento diferenciado de los ociosos y
 "malentretenidos," considerando que aunque era necesario "desterrar la
 ociosidad de los Indios" y "aunque las circunstancias del tiempo hayan
 variado," se debía estimular el trabajo con "medios de suavidad" como
 premios y exhortaciones, antes que con el envío al servicio en presidios
-y tropas, como indicaba la pena regular.[^190]
+y tropas, como indicaba la pena regular.[^193]
 
-El sacramento de la penitencia y el perdón real
------------------------------------------------
+Aunque para los reinos de las Indias el estatus de los indígenas llame
+particularmente la atención, no por ello debe olvidarse que el
+privilegio de pobres y miserables abarcaba a cualquier vasallo del rey
+que pudiese ser ubicado en dicha categoría. Los reos, por ejemplo,
+adquirían de manera temporal un estatus de pobreza e incluso un noble
+podía ser tratado como miserable cuando estaba en la cárcel en espera de
+sentencia.[^194] Hay que tener en cuenta que este era un estado temporal
+que no equivalía al cumplimiento de la condena, puesto que al estar en
+presidio o destierro no se consideraba digno de ninguna
+conmiseración.[^195] De hecho, la mujer de un reo podía considerarse
+prácticamente en la condición de una viuda, no sólo porque su esposo
+sería incapaz de proveer, sino principalmente porque al ser encarcelado
+se ordenaba el embargo de bienes y rentas familiares. Por otra parte,
+hay que resaltar que el rey distribuía su clemencia con buena parte de
+las viudas de oficiales que quedaban desamparadas e impetraban por una
+pensión que les permitiera solventar su sostenimiento y el de sus
+hijos.[^196] Como ejemplo del tono de estas solicitudes vale la pena
+citar una carta que llegó a manos de José de Gálvez en 1780 en la que la
+samaria María Bárbara Agreda le solicita su intermediación para obtener
+una pensión del rey:
+
+> ¿A que aras podré llegar mejor con mi infeliz suerte que a las de el
+> Soberano? ¿Y por qué medio mas propicio que por el de Vuestra
+> Excelencia? Mi summa desgracia, arrastra mi razon, y me incita á que
+> llamando la atención de Vuestra Excelencia por un rato, le suplique
+> que atienda con benignidad a mis vozes, y haga que sonando sus ecos en
+> los piadosos oídos de el Monarcha; logre mi desamparo, la juztizia que
+> merezca.[^197]
+
+Como se puede observar del extracto anterior, aunque esta viuda alegara
+una condición de desamparo, tenía la capacidad para comunicarse con el
+rey a través del Secretario de Indias. Del mismo modo, una mujer que
+deseara impetrar perdón ante el juez tendría la posibilidad de apelar a
+un abogado que fungiera como intermediario para escribir la súplica. Un
+caso ilustrativo en este sentido fue el reclamo que hizo Josefa Ramona
+de Gracián, esposa en segundas nupcias de quien fuera el oficial mayor
+de la contaduría de Caracas, Martín de Goenaga, a quien se le acusó de
+haber participado en las reuniones conspirativas que se dieron en La
+Guaira en julio de 1797, episodio conocido como la "conspiración de Gual
+y España". En su comunicación al Ministro de Gracia y Justicia la
+reclamante pretendía que se revocara el destierro que había sido
+decretado por la Audiencia de Caracas, argumentando principalmente que
+la captura de su marido se había conseguido mediante el engaño de
+habérsele ofrecido indulto a nombre del rey. Claramente, la carta
+pretendía mover a la piedad del magistrado o del rey al mencionar la
+condición a la que había sido reducida como consecuencia de la
+"expatriación" de su esposo:
+
+> La triste y deplorable citación \[sic: situación\] á que me hallo
+> reducida con ocho hijos todos pupilos en la obligacion natural de
+> alimentarlos sin tener otras ayuda para ello que el fabor del cielo me
+> comprometen y presisan á no sesar de pedir y reclamar á mi esposo
+> mayormente dificultando de la justicia de su expatriamiento despues de
+> haberse prometido y empeñado la palabra y nombre del Rey para
+> seguridad de quantos denunciasen su ciencia ó implicacion directa ó
+> indirecta en el asunto.[^198]
+
+El memorial de Josefa Ramona de Gracián incluye más elementos que
+pretenden demostrar la inocencia de su esposo, y por otra parte,
+evidenciar que con las acciones injustas contra él se había generado una
+situación que había llevado a su familia a la miseria. Aunque de Gracián
+no ocultaba que había heredado una casa de su primer matrimonio, exponía
+que esto sólo había prevenido que cayeran en la "mendicidad ostiaria",
+debido al embargo de bienes ordenado por la Audiencia. Por otra parte,
+esta mujer enfrentaba no sólo la miseria propia de la reducción de
+medios de subsistencia, sino aquella que se generaría por consecuencia
+de la infamia:
+
+> Todo seria superable á los esfuerzos de un corazon christiano. La
+> ambre y la sed podrian ser suplidas como esta susediendo por la piedad
+> y misericordia del vecindario. La falta del exposo y padre de la
+> familia podria dulcificarla ó hacerla menos cencible una lisongera
+> esperanza ¡pero Señor! esta nota de infamia á la que no puede
+> sobrevivir la criatura menor acondicionada; este borron ó pena que por
+> las Leyes, y en opinion de todas las gentes hace al hombre indigno de
+> toda consideracion cibil, rompe los vinculos que le unian á los demas
+> hombres y que le sirve comos sucede en el Yndostan con los Pilichis de
+> afrentosa dibisa para que hullan de el sus semejantes \[...\][^199]
+>
+> ; esta nota esta pena ó este borron que segun las Leyes del Reyno hace
+> conciderar muerto al hombre en quanto á los bienes y comodidades de
+> esta vida; son los que no pueden superarse á fuer de toda resignacion,
+> pues todabia esta incierta la suerte de Goenaga y ya es la ora que su
+> Muger é hijos se ven aislados en medio de la sociedad porque despues
+> de haber eho publica su delacion con el repentido expatriamiento y
+> seqüestro de vienes todos les huyen, todos les miran sobrecogidos y
+> todos les reputan por desgraciados ¡Oh Dolor!
+
+El sacramento de la penitencia, el pecado y el perdón real
+----------------------------------------------------------
 
 En el momento que el rey decía sobre las causas de los reos a ser
 liberados "yo os perdono, para que Dios me perdone", actuaba de manera
@@ -1435,62 +1397,62 @@ indispensables para retornar al favor de dios: el arrepentimiento
 (contrición o atrición), la confesión, y la absolución. La penitencia
 también era considerada como una virtud en tanto representaba el
 aborrecimiento del pecado, específicamente, el dolor que sentía el
-penitente por lo errores pasados.[^191] Era virtud en tanto la
+penitente por lo errores pasados.[^200] Era virtud en tanto la
 repugnancia de sus actos se debiese al haberse apartado de Dios con la
 falta, pero no podía considerarse arrepentimiento si este sólo se
-afligía por las consecuencias de sus actos;[^192] por ejemplo, si el
+afligía por las consecuencias de sus actos;[^201] por ejemplo, si el
 ladrón se dolía por ser puesto preso pero no porque al robar violó un
 sagrado mandamiento, entonces no podía considerarse como virtud a su
 pena. Es por ello que, según explicaba Murillo Velarde, la penitencia no
 se hacía con la esperanza del perdón (*spe veniæ*), sino por la
-desesperación sobrenatural que produce el desagrado del pecado.[^193]
+desesperación sobrenatural que produce el desagrado del pecado.[^202]
 Esta era la primera diferencia entre el perdón real y la penitencia, ya
 que el reo, sobre todo el ausente, confesaba su falta con el expreso
 propósito de obtener el indulto, con el sólo deseo de ser abrigado por
 la gracia regia.
 
-"Sacramento es gracia divina", dijo Martín de Azpilcueta en su manual de
-confesores y penitentes,[^194] por lo tanto, se debería entender como un
-don que Jesucristo brindó a los hombres (según quedó establecido desde
-el concilio de Trento) tras su resurrección, cuya facultad para iterar
-el perdón habría sido concedida a los apóstoles tras su aparición al
-decirles (de acuerdo con Jn 20:23): "A quienes remitiereis los pecados,
-les son remitidos; y a quienes se los retuviereis, les son
-retenidos".[^195] Por esta razón se consideraba que de la misma manera
+"Sacramento es gracia divina", dijo Martín de Azpilcueta en su *Manual
+de confesores y penitentes*,[^203] por lo tanto, se debería entender
+como un don que Jesucristo brindó a los hombres (según quedó establecido
+desde el concilio de Trento) tras su resurrección, cuya facultad para
+iterar el perdón habría sido concedida a los apóstoles tras su aparición
+al decirles (de acuerdo con Jn 20:23): "A quienes remitiereis los
+pecados, les son remitidos; y a quienes se los retuviereis, les son
+retenidos".[^204] Por esta razón se consideraba que de la misma manera
 que sólo un sacerdote tenía la facultad para distribuir el bautismo y
 con ello liberar a los fieles del pecado original, eran éstos quienes
 tenían la capacidad de absolver de los pecados en nombre de dios; de
 allí que la fórmula *ego te absolvo a peccatis tui* fuera la establecida
-por el concilio tridentino para conferir la gracia divina.[^196] El
+por el concilio tridentino para conferir la gracia divina.[^205] El
 resaltar el rol indispensable del sacerdote en la absolución divina era
 una clara respuesta a las posibles interpretaciones que pudiesen hacerse
 desde el protestantismo, en particular aquellas que consideraban que el
 mero acto de atrición o contrición podía resultar en el perdón de
-dios.[^197] El sacramento de la penitencia es sinónimo de absolución
+dios.[^206] El sacramento de la penitencia es sinónimo de absolución
 hecha por el sacerdote a los pecados de aquel que los confiesa
-legítimamente y es de su jurisdicción espiritual;[^198] es decir, que ha
+legítimamente y es de su jurisdicción espiritual;[^207] es decir, que ha
 incumplido con el Decálogo, las obligaciones con la iglesia (oír misa
 entera los domingos, ayunar los días establecidos, pagar los diezmos,
-confesarse por lo menos una vez al año, y comulgar en Pascua), los siete
-sacramentos, o ha cometido pecados mortales.
+confesarse por lo menos una vez al año,[^208] y comulgar en Pascua), los
+siete sacramentos, o ha cometido pecados mortales.
 
 La forma sacramental de la absolución configura un tribunal en el que el
-pecador es juzgado por la conciencia y el sacerdote, [^199] pero no se
+pecador es juzgado por la conciencia y el sacerdote, [^209] pero no se
 representaba a la penitencia como una mímica de la justicia ordinaria
 (es decir, a la usanza de los tribunales temporales y eclesiásticos);
 por el contrario, los conciliares de Trento determinaron que la
 absolución sacramental era un acto judicial e interpretarla de otra
-manera sería señal de herejía.[^200] Como lo dijo Murillo Velarde: "Esta
+manera sería señal de herejía.[^210] Como lo dijo Murillo Velarde: "Esta
 absolución es un acto judicial y no un mero ministerio de pronunciar y
-de declarar que han sido perdonados los pecados de la confesión".[^201]
+de declarar que han sido perdonados los pecados de la confesión".[^211]
 La anterior era una ratificación de que el catolicismo consideraba que
-el único juez que podía dar la absolución era el sacerdote,[^202] en
+el único juez que podía dar la absolución era el sacerdote,[^212] en
 clara contraposición a las "herejías" de John Wycliffe y Martín Lutero,
 quienes no consideraban necesaria la ordenación sacerdotal para mediar
-en la absolución de los pecados.[^203]
+en la absolución de los pecados.[^213]
 
 En el acto judicial debían cumplirse con tres condiciones de penitencia:
-la contrición, la confesión y la satisfacción,[^204] de tal modo que en
+la contrición, la confesión y la satisfacción,[^214] de tal modo que en
 caso de que no se diera por satisfecho una de éstas, como en el caso de
 una confesión falsa o que ocultara información, el sacerdote tenía la
 facultad de aplazar la absolución. Una buena parte de la reforma
@@ -1505,39 +1467,153 @@ el favor recibido. Así lo resumía el tratadista: "No es contra razón,
 que uno torne a la gracia, y amistad de Dios por la contrición, que
 perdona los pecados, y quede obligado a la confesión. Como tampoco lo
 es, que uno sea perdonado del rey, y recibido a su gracia, y que quede
-obligado a servirle un año en las guerras de África".[^205] Para
+obligado a servirle un año en las guerras de África".[^215] Para
 extender la comparación de Azpilcueta, podría entenderse la absolución
 como una forma de perdón condicional, en el cual la gracia quedaba
 restringida al cumplimiento de una actividad, aunque en este caso no era
-un servicio sino el acto de la confesión.[^206]
+un servicio sino el acto de la confesión.[^216]
 
-De manera general, con la contrición se obtenía el perdón y con la
-confesión la absolución de la culpa. No obstante, esto sólo aplicaba
-para la falla en el fuero interno, es decir, libraba del dolor del
-arrepentimiento y del yerro del pecado, pero la pena temporal no estaría
-reparada hasta que se cumpliese con su satisfacción. La definición que
-daba el *Catecismo romano* a la satisfacción era "la recompensa de la
-injuria hecha a otro",[^207] y podía lograrse ya fuese después de la
-muerte en el purgatorio, en vida con obras satisfactorias, o con
-indulgencias; éste último era considerado como el modo "más fácil de
-satisfacer por los pecados" al favorecer el tesoro de la iglesia.[^208]
+Hasta ese punto la salvación quedaría garantizada para el confesor, sin
+embargo, permanecía el problema de la pena temporal. De manera general,
+con la contrición se obtenía el perdón y con la confesión la absolución
+de la culpa. No obstante, esto sólo aplicaba para la falla en el fuero
+interno, es decir, libraba del dolor del arrepentimiento y del yerro del
+pecado, pero la pena espiritual y temporal no estaría reparada hasta que
+se cumpliese con su satisfacción. La definición que daba el *Catecismo
+romano* a la satisfacción era "la recompensa de la injuria hecha a
+otro",[^217] y podía lograrse ya fuese después de la muerte en el
+purgatorio, en vida con obras satisfactorias, o con indulgencias; estas
+últimas consideradas como el modo "más fácil de satisfacer por los
+pecados" al favorecer el tesoro de la iglesia.[^218] Los canonistas
+dejaban claro que la satisfacción no era intrínseca al sacramento de la
+penitencia sino parte de ésta, de tal manera que no se pretendiera
+alcanzar la salvación al reparar el daño o restituir la cosa,[^219]
+evadiendo con ello la confesión. En aquellos casos en los cuales el
+pecador había incumplido en el fuero interno era suficiente con un acto
+de penitencia que fuese contrario a su falta, verbigracia, conminar al
+avaro a dar limosna, o al lujurioso a lastimar su carne.[^220] No
+obstante, en las situaciones en las que el yerro resultaba en una pena
+temporal, ésta debía ser satisfecha en ambos fueros: el interno y el
+externo. Lo anterior se puede ejemplificar con el delito de estupro.
+Alonso de la Peña recomendaba que a los indios culpables de violencia se
+les castigara en el fuero externo con azotes y en el fuero interno se
+les ordenara al agresor "que encomiende á Dios á la persona ofendida y
+agraviada";[^221] sin que fuera necesario que se casara con la víctima
+(como se acostumbraba en estos casos para liberar al ofensor de la
+sentencia), pues se consideraba que entre los indígenas "no llega á
+tanto la estimación que hacen de la virginidad, que pierdan
+casamiento".[^222]
 
-Lo anterior parece establecer un paralelo con lo expresado acerca de la
-distinción entre perdón, indulto y restitución. En efecto, el derecho
-canónico consideraba que la restitución era obra de la justicia
-conmutativa que devuelve lo suyo a su dueño o "contenta" al
-acreedor.[^209]
-
-Empero, el clérigo no podía condenar al pecador. A lo sumo, tenía la
-posibilidad de prorrogar el perdón con la expiación, pero nunca castigar
-a quien cometía una falta, sin importar su gravedad. Esta era tal vez la
+El sacramento de la penitencia, aunque podía conllevar una pena en el
+plano temporal, no era un acto jurídico equivalente en el derecho real.
+Por esto, la absolución hecha por el sacerdote no afectaba el derecho a
+la vindicta pública o a la satisfacción del afectado. Tampoco tenía el
+clérigo la potestad para condenar al pecador. A lo sumo, podía prorrogar
+el perdón con la expiación de la culpa, pero nunca castigar a quien
+cometía una falta, sin importar su gravedad. Esta era tal vez la
 diferencia más radical entre el tribunal ordinario y el sacramental, que
 mientras el primero buscaba purgar las culpas mediante la vindicta
 pública, para lo cual la confesión era considerada como el mecanismo por
 excelencia para determinar la culpabilidad del acusado; en el segundo se
 pretendía que la iglesia fuera ante todo dispensadora del perdón divino,
 por lo que la confesión en este caso no era condición para condenar sino
-para salvar.[^210]
+para salvar.[^223] Paolo Prodi, desde la lectura de la patrística,
+encontró que esta idea se construyó muy temprano en el derecho del alto
+medioevo europeo: "la penitencia no suprime el delito, pero mientras
+confesar al juez lleva a la pena, confesarse ante Dios lleva al
+perdón";[^224] siempre y cuando ésta última fuese verdadera.[^225] Por
+ende, ante una misma acción el sujeto debía responder por el pecado y el
+delito, parafraseando a Bartolomé Clavero, el confesante se encontraba
+entre dos fueros, aunque la transgresión fuese la misma.[^226] En la
+situación más extrema, el condenado a morir en el patíbulo al confesar
+sus fallas no se liberaba de la pena, pero "la confesión le abría la
+puerta del cielo".[^227]
+
+Gracias a la discusión abierta por Tomás y Valiente relacionada con la
+relación entre delito y pecado, seguida por una importante cantidad de
+investigadores, es posible comprender que, antes de la transición a un
+modelo de derecho liberal, la idea de pecado era correlativa a la de
+delito. No significa lo anterior que todo pecado fuese delito,
+evidentemente un pecador por avaricia, envidia, gula, pereza, o
+soberbia, no tendría que responder ante un tribunal ordinario porque sus
+acciones, aunque en contradicción con el actuar virtuoso del buen
+cristiano, no tenían una afectación en la comunidad o en un particular.
+Los delitos gravísimos, aquellos que por lo general estaban excluidos
+del perdón real, se encontraban en convergencia con los delitos
+mortales, de los cuales seguía la condena eterna. La sentencia de último
+suplicio era indicador de que la falla era irremisible en el fuero
+externo, a la vez que coincidía con una violación grave de la ley
+divina.[^228] El profesor Aniceto Masferrer ha cuestionado esta
+concordancia entre delito y pecado al considerar que deberían entenderse
+que estos crímenes se encuentran vinculados a una tradición propia más
+cercana a la moral que a la noción teológica del pecado. Argumenta que,
+aunque es imposible negar una relación entre delito y pecado, no es
+correcto considerar que delitos como la herejía, el adulterio, o el
+suicidio, fueran considerados como tales sólo por el hecho de ser
+pecados mortales. De hecho, si existiese una equivalencia entre delito y
+pecado, sería lógico que la remisión de los crímenes se pudiera obtener
+en el tribunal de la penitencia.[^229]
+
+La cuestión es que tratamos aquí de dos perdones diferentes, ofrecidos
+por dos potestades, una divina y una humana; por lo tanto, no es en la
+ambigüedad entre pecado y delito que se encuentra el problema que nos
+atañe sino en la divergencia de fueros. Es claro que en el tribunal de
+la penitencia solamente se podría salvar aquella parte del pecado que
+ofendió a Dios, pero no necesariamente la que afectó a la república. De
+la misma manera, así como se consideraba que no existía un pecado que no
+se pudiera perdonar, tampoco existía un crimen que no se pudiese
+indultar. La clemencia permitía que cualquier delincuente, sin importar
+la gravedad de su delito, pudiese aspirar a la gracia regia incluso al
+borde del patíbulo. Bartolomé Clavero resume lo anterior en la siguiente
+frase: "Los delitos, como los pecados, estaban para ser condenados, pero
+también para resultar perdonados; las penas, como las penitencias, para
+aplicarse, mas igualmente para condonarse".[^230] En un tribunal de
+fuero mixto como el de la Inquisición, el arrepentimiento del reo
+tendría un efecto de minoración de la pena que no se mostraría en un
+tribunal de la justicia real. Por lo tanto, en un juzgado que
+específicamente se había formado para perseguir el pecado, la confesión
+tenía el mismo efecto absolutorio (si cumplía con las condiciones de
+contrición, confesión y satisfacción) que en el sacramento de la
+penitencia.[^231] El problema estaría en la separación progresiva entre
+delito y pecado como jurisdicciones particulares del fuero común y del
+espiritual respectivamente, por lo que entre más se avanza hacia el
+siglo XIX será mayor la tendencia a considerar que a penitencia como
+exclusiva de la conciencia, dejando a los juzgados ordinarios la tarea
+de decidir de acuerdo con la ley sin consideraciones propias del fuero
+interno del acusado.[^232]
+
+El arrepentimiento podría considerarse como el punto de convergencia
+entre la absolución por la penitencia y el perdón real. Como se mostró
+anteriormente, el primer requisito fundamental del sacramento de la
+reconciliación era la contrición, sin ella, la confesión no sería
+considerada válida y la absolución sería nula. Los teólogos consideraban
+además que el arrepentirse del pecado no conllevaba solamente el hecho
+de lamentarse por haber errado, sino convencerse de no volver a pecar,
+por lo tanto, se apelaba a una especie de promesa de no reincidencia del
+relapso.[^233] Así como en la justicia ordinaria se consideraba que el
+temor al castigo era el freno del criminal, en la doctrina católica se
+pretendía inculcar en los fieles el temor al castigo eterno y al dolor
+que causarían las faltas en el más allá; y esto era especialmente
+importante para el caso del adoctrinamiento de los indígenas, pues como
+decía Peña Montenegro, "para con los Indios es muy provechoso llevarlos
+á la verdad por el temor; que son hijos del castigo".[^234] Para el caso
+del perdón real el arrepentimiento no era una condición *sine qua non*
+para acceder a la gracia, es decir, no se exigía un acto de contrición
+que demostrara que no reincidiría en el crimen después de liberado. Aun
+así, se daba por supuesto que aquellos que fueran liberados de sus
+prisiones corresponderían a los reos arrepentidos de haber fallado al
+rey y la república. En ocasiones, la cédula que facultaba al virrey del
+Nuevo Reino para perdonar delitos incluía la mención de haber otorgado
+el perdón por adelantado a los delincuentes de esas provincias por haber
+actuado con ignorancia, es decir sin maldad, y hallarse "ya arrepentidos
+y prontos a obedecer mis mandatos".[^235]
+
+Finestrad: Se lamentaba de que el perdón general dado a los rebeldes se
+hubiese dado sin un arrepentimiento manifiesto de la mayoría, y les
+advertía a los vasallos que el indulto regio no les garantizaba el
+divino: Sin penitencia no muda Dios de sentencia, ni se le obliga a que
+suspenda el rigor, pues el arrepentimiento seguramente desarma sus
+justos enojos".[^236]
 
 [^1]: Jesús Vallejo, "El príncipe ante el derecho en la cultura del 'ius
     commune'", en *Manual de Historia del Derecho*, ed. Marta Lorente
@@ -1935,10 +2011,11 @@ para salvar.[^210]
     Castillo de Bovadilla, *Política para corregidores*, Lib. II, cap.
     XIV, núm. 54.
 
-[^101]: Mario Sbriccoli, *Crimen laesae maiestatis. Il problema del
-    reato politico alle soglie della scienza penalistica moderna*,
-    Biblioteca per la storia del pensiero giuridico moderno 2 (Milano:
-    Giuffrè Editore, 1974), 175--85.
+[^101]: La complejidad del crimen de lesa majestad en el orden jurídico
+    europeo ha sido tratado profusamente por Mario Sbriccoli, *Crimen
+    laesae maiestatis. Il problema del reato politico alle soglie della
+    scienza penalistica moderna*, Biblioteca per la storia del pensiero
+    giuridico moderno 2 (Milano: Giuffrè Editore, 1974), 175--85.
 
 [^102]: Sobre las penas, flexibilidad en el castigo, y excepcionalidad
     en el indulto de este delito en la Castilla territorial, véase
@@ -2041,7 +2118,62 @@ para salvar.[^210]
 [^128]: Vicente Vizcaíno, *Código y práctica criminal*, tomo III, núm.
     430, 373-374.
 
-[^129]: Tomás Antonio Mantecón Movellán, "El peso de la
+[^129]: Pradilla, *Summa de leyes penales*, parte primera, cap. V, núm.
+    1.
+
+[^130]: Jean Delumeau, *Le péché et la peur: la culpabilisation en
+    Occident, XIIIe-XVIIIe siècles* (Paris: Fayard, 1983), 238--46.
+
+[^131]: Véase por ejemplo el escueto capítulo dedicado a los estupros
+    por Antonio Pérez López, tomo XIII, 170-173.
+
+[^132]: "ut mala sunt judicanda homicidium, stuprum, adulterium, et alia
+    hujusmodi". Murillo Velarde, *Cursus iuris canonici*, lib. V, tít.
+    XLI, cap. 2, "Beda in Homiliis".
+
+[^133]: Pradilla, *Summa de leyes penales*, parte primera, cap. V, núms.
+    3-4.
+
+[^134]: Escriche, *Diccionario razonado*, voz "Estupro", núm. III.
+    Francisco Tomás y Valiente, "«In dubio pro reo», libre apreciación
+    de la prueba y presunción de inocencia", *Revista Española de
+    Derecho Constitucional*, núm. 20 (1987): 13; María Paz Alonso
+    Romero, *El proceso penal en Castilla (Siglos XIII al XVIII)*
+    (Salamanca: Universidad de Salamanca, 1982), 244--55.
+
+[^135]: Mastrillo ni siquiera hace mención de este delito y López de
+    Cuéllar sólo lo hace para ilustrar la falsedad en la acusación.
+    *Tratado iuridico-político*, núm. 987-990.
+
+[^136]: "Sumario instruido por Alejandro de Prada, Alcalde del Socorro,
+    a Leandro Angulo", Socorro, 16 de mayo de 1804, AGNC, sección
+    colonia, juicios criminales, tomo 68, doc. 9, ff. 451r-482v.
+
+[^137]: "Sumario instruido por Alejandro de Prada", f. 462v.
+
+[^138]: "Sumario instruido por Alejandro de Prada", ff. 488r-v.
+
+[^139]: "Sumario instruido por Alejandro de Prada", ff. 464r-v.
+
+[^140]: "Sumario instruido por Alejandro de Prada", ff. 467r.
+
+[^141]: "Sumario instruido por Alejandro de Prada", ff. 472r-474r.
+
+[^142]: "Sumario instruido por Alejandro de Prada", ff. 478v-479r.
+
+[^143]: "Sumario instruido por Alejandro de Prada", f. 487r.
+
+[^144]: Tomás y Valiente, "«In dubio pro reo»", 12; Francisco Tomás y
+    Valiente, "El Derecho penal de la Monarquía absoluta (Siglos XVI,
+    XVII y XVIII)", en *Obras completas*, vol. I (Madrid: Centro de
+    Estudios Políticos y Constitucionales, 1997), 447--49.
+
+[^145]: Sobre la relación entre delito y crimen en el derecho de antiguo
+    régimen, véase Bartolomé Clavero, "Delito y pecado", en *Sexo
+    barroco y otras transgresiones premodernas*, de Francisco Tomás y
+    Valiente et al. (Madrid: Alianza, 1990), 57--89.
+
+[^146]: Tomás Antonio Mantecón Movellán, "El peso de la
     infrajudicialidad en el control del crimen durante la Edad Moderna",
     *Estudis: Revista de historia moderna*, núm. 28 (2002): 43--76;
     Benoît Garnot, "Justice, infrajustice, parajustice et extra justice
@@ -2049,23 +2181,23 @@ para salvar.[^210]
     Crime, History & Societies* 4, núm. 1 (el 1 de enero de 2000):
     103--20, https://doi.org/10.4000/chs.855.
 
-[^130]: Alejandro Agüero Nazar, "El testimonio procesal y la
+[^147]: Alejandro Agüero Nazar, "El testimonio procesal y la
     administración de justicia penal en la periferia de la Monarquía
     Católica, siglos XVII y XVIII", *Acta Historiae* 19 (2014): 51--53.
 
-[^131]: Elizondo, *Práctica universal forense*, T. V, part. II, cap.
+[^148]: Elizondo, *Práctica universal forense*, T. V, part. II, cap.
     XIV, núm. 18.
 
-[^132]: Como decía María Inmaculada Rodríguez "será la misma carta de
+[^149]: Como decía María Inmaculada Rodríguez "será la misma carta de
     perdón la que en último caso, dará el alcance y efectos del perdón
     para cada caso concreto." Rodríguez Flores, *El perdón real*, 59.
 
-[^133]: "Real Cédula de indulto", El Pardo, 16 de enero de 1784, AGNC,
+[^150]: "Real Cédula de indulto", El Pardo, 16 de enero de 1784, AGNC,
     sección colonia, fondo Real Audiencia, Cundinamarca, tomo 17, ff.
     744r-745v. AHM, fondo Concejo de Medellín, sección colonia, serie
     Reales Cédulas, tomo 37, ff. 195r-197r.
 
-[^134]: "Cedula de S. M. concediendo indulto general á todos los
+[^151]: "Cedula de S. M. concediendo indulto general á todos los
     desertores...", Buen Retiro, 6 de diciembre de 1746, DADUN, fondo
     antiguo, siglo 18, URI:
     [[http://hdl.handle.net/10171/30276]{.underline}](http://hdl.handle.net/10171/30276).
@@ -2084,7 +2216,7 @@ para salvar.[^210]
     su amado hijo Fernando", Barcelona, 5 de octubre de 1802, AGNC,
     sección colonia, fondo Milicias y Marina, tomo 50, f. 1091.
 
-[^135]: "Indulto concedido por el Rey a los militares que hubieren
+[^152]: "Indulto concedido por el Rey a los militares que hubieren
     contraído matrimonio sin licencia", Madrid, 26 de diciembre de 1766,
     AGNC, sección colonia, fondo Milicias y Marina, tomo 16, f. 1008.
     "Indulto de la pena de privación de empleo a oficiales que se
@@ -2092,221 +2224,214 @@ para salvar.[^210]
     1802, AGNC, sección colonia, fondo Milicias y Marina, tomo 11, ff.
     984-985.
 
-[^136]: "Pragmatica-Sancion en fuerza de ley en que se dan nuevas reglas
+[^153]: "Pragmatica-Sancion en fuerza de ley en que se dan nuevas reglas
     para contener y castigar la vagancia de los que hasta aquí se han
     conocido con el nombre de Gitanos ó castellanos nuevos, con lo demas
     que expresa", (Madrid: Imprenta de don Pedro Marín, 1783), art. XXXV
     y XL.
 
-[^137]: El procedimiento fue descrito por Antonio Martínez de Salazar en
-    la *Colección de memorias y noticias del gobierno*, cap. XLVI,
-    522-24.
+[^154]: "Causa seguida a Juan Silvestre Castañeda, por el homicidio de
+    José Jiménez", AGNC, sección colonia, juicios criminales, tomo 103,
+    doc. 23, f. 934r.
 
-[^138]: "Indulto general de Carlos III con motivo de su exaltación al
-    trono. Recepción en Santa Fe", Santa Fe, 1 de septiembre de 1761,
-    AGNC, Archivo Anexo, reales cédulas y órdenes, tomo 16.
+[^155]: "Causa seguida a Juan Silvestre Castañeda", f. 935r.
 
-[^139]: "Copia y cumplimiento en el cabildo de Medellín de la real
-    cédula de indulto y perdón general a todos los reos, concedida por
-    el nacimiento del príncipe don Carlos Domingo Eusebio", Medellín, 6
-    de febrero de 1781, AHM, Fondo Consejo de Medellín, Sección colonia,
-    reales cédulas, tomo 33, f. 334r. Idéntica fue la recepción de la
-    misma cédula en la gobernación de Paraguay el 4 de febrero de 1781,
-    la cual se puede consultar en el Archivo Nacional de Asunción,
-    sección historia,
-    [[http://historia.anasnc.senatics.gov.py/index.php/reales-cedulas-30]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/reales-cedulas-30)
+[^156]: "Causa seguida a Juan Silvestre Castañeda", f. 936v.
 
-[^140]: "Copia y cumplimiento en el cabildo de Medellín de la real
-    cédula de indulto", Medellín, 6 de febrero de 1781, AHM, Fondo
-    Consejo de Medellín, sección colonia, reales cédulas, tomo 33, f.
-    333r.
+[^157]: "Causa seguida a Juan Silvestre Castañeda", f. 938r.
 
-[^141]: "El alcalde de Leiva, consulta sobre la aplicación de un Real
-    Indulto", AGNC, sección colonia, juicios criminales, tomo 176, doc.
-    11, f. 774v
+[^158]: "Causa seguida a Juan Silvestre Castañeda", f. 938v-939r.
 
-[^142]: Mastrillo, *Ad indultum generale*, cap. V, núm. 3. Gregorio
-    López, glosa "gran alegría" a *Partidas*, P. VII, tít. XXXII, ley 1.
-    Rodríguez Flores, *El perdón real*, 209.
+[^159]: "Causa seguida a Juan Silvestre Castañeda", f. 940r.
 
-[^143]: "Quum eo tempore, quo indulgentia nostra crimina exstinxit,
-    accusatio a te instituta non fuerit, publicae abolitionis
-    praescriptio cessat". Código, lib. IX, tít. XLIII, "de generali
-    abolitione", núm. 2.
+[^160]: "Solicitud de María Josefa Contreras, para quedar comprendida en
+    la Real Gracia de indulto", AGNC, sección colonia, juicios
+    criminales, tomo 6, doc. 29, f. 534r.
 
-[^144]: López de Cuéllar, *Tratado iuridico-politico*, núm. 48.
+[^161]: Sobre esto véase Hevia Bolaños, *Curia philipica*, tomo I, parte
+    V, § IV, núm. 1.
 
-[^145]: "Al virrey y Audiencia de Lima, que los presos que estuvieren
-    por deudas civiles les hagan soltar por 30 dias para que se
-    conpongan con sus acreedores a honor del nacimiento del Principe
-    nuestro señor", Madrid, 30 de enero de 1630, AGI, Indiferente
-    general, 429, leg. 37, ff. 201v-202r. Rafael Diego-Fernández Sotelo
-    y Marina Mantilla Trolle, eds., *La Nueva Galicia en el ocaso del
-    Imperio Español: los papeles de derecho de la audiencia de la nueva
-    Galicia del licenciado Juan José Ruiz Moscoso, su agente fiscal y
-    regidor del Ayuntamiento de Guadalajara, 1780-1810*, vol. II,
-    Colección Fuentes (Zamora, Michoacán : Guadalajara, Jalisco: Colegio
-    de Michoacán ; Universidad de Guadalajara, 2003), 373. "Real Cédula
-    sobre indulto general concedido con motivo del matrimonio del
-    Príncipe (1803)", AGNC, Sección Archivo Anexo, Fondo Reales Cédulas
-    y Órdenes, tomo 35.
+[^162]: "Solicitud de María Josefa Contreras", ff. 537r-541r.
 
-[^146]: Joseph Juan y Colom, *Instrucción de escribanos en orden a lo
-    judicial* \[1736\], décima impresión (Madrid: imprenta de Antonio
-    Fernández, 1787), lib. III, ff. 218-219. María Paz Alonso Romero,
-    *El proceso penal en Castilla (Siglos XIII al XVIII)* (Salamanca:
-    Universidad de Salamanca, 1982), 203.
+[^163]: "Solicitud de María Josefa Contreras", ff. 536r y 541v-542r.
 
-[^147]: López de Cuéllar, *Tratado iuridico-politico*, núm. 116.
+[^164]: "Causa criminal seguida a la señora María Josefa Contreras, por
+    el homicidio de su joven sirvienta María Pineda", AGNC, sección
+    colonia, juicios criminales, tomo 6, doc. 27, ff. 523r-524r.
 
-[^148]: González de Salcedo, *Tratado iuridico-politico del
-    contrabando*, cap. 31, núm. 32, f. 179v.
-
-[^149]: López de Cuéllar, *Tratado iuridico-político*, núm. 49.
-
-[^150]: Rodríguez Flores, *El perdón real*, 204. Algunos ejemplos de
-    este tipo serán explicados más adelante.
-
-[^151]: Rodríguez Flores, 210--11.
-
-[^152]: Gregorio López, glosas a *Partidas*, P. III, tít. 15, ley I y
-    II. Álvarez Posadilla, *Práctica criminal*, tomo II, diálogo XXXI,
-    270.
-
-[^153]: Álvarez Posadilla, *Práctica criminal*, tomo II, diálogo XXXI,
-    271. Un listado extensivo de los tipos de dilaciones se encuentra en
-    la *Summa* de Hostiensis, lib. II, "De dilationibus", núm. 1.
-
-[^154]: Rodríguez Flores, *El perdón real*, 271.
-
-[^155]: Mastrillo, *Ad indultum generale*, cap. XXIV, núms. 85-91.
-
-[^156]: Mastrillo, *Ad indultum generale*, cap. LXVI, núms. 22-24.
-
-[^157]: Su caso había sido llevado de oficio. "Simón Rodríguez, causa
-    por homicidio y perdón de parte", AGNC, sección colonia, juicios
-    criminales, tomo 102, doc. 7, f. 254r.
-
-[^158]: "Simón Rodríguez, causa por homicidio y perdón de parte", f.
-    249v.
-
-[^159]: "Simón Rodríguez, causa por homicidio y perdón de parte", f.
-    249r.
-
-[^160]: "Simón Rodríguez, causa por homicidio y perdón de parte", f.
-    250v.
-
-[^161]: "Simón Rodríguez, causa por homicidio y perdón de parte", f.
-    254v.
-
-[^162]: "Causa seguida a José Miranda, por el homicidio de Salvador
-    Gómez", AGNC, sección colonia, juicios criminales, tomo 114, doc. 3,
-    f. 124r.
-
-[^163]: "Causa seguida a José Miranda, por el homicidio de Salvador
-    Gómez", f. 125r-v.
-
-[^164]: "Causa seguida a José Miranda, por el homicidio de Salvador
-    Gómez", f. 126r.
-
-[^165]: "Causa seguida a José Miranda, por el homicidio de Salvador
-    Gómez", f. 128r-v.
-
-[^166]: "Causa seguida a José Miranda, por el homicidio de Salvador
-    Gómez", f. 128v.
-
-[^167]: "Juicio criminal seguido a Eugenio Poveda por el homicidio de
-    Ignacio Javier de Uribe", AGNC, sección colonia, juicios criminales,
-    tomo 64, doc. 18, f. 369r.
-
-[^168]: "Juicio criminal seguido a Eugenio Poveda", f. 393r-v.
-
-[^169]: "Juicio criminal seguido a Eugenio Poveda", f. 394r.
-
-[^170]: "Juicio criminal seguido a Eugenio Poveda", f. 403r.
-
-[^171]: "Juicio criminal seguido a Eugenio Poveda", f. 404v.
-
-[^172]: "miseratione dignos, quorumque; infoelicitate ad compassionem
+[^165]: "miseratione dignos, quorumque; infoelicitate ad compassionem
     Imperator motus est". Gabriel Álvarez de Velasco, *De privilegiis
-    pauperum, et miserabilium personarum*, segunda edición (Lyon:
-    Sumptibus Horatii Boissat et Georgii Remeus, 1663), parte II, q. I,
-    núm. 9.
+    pauperum, et miserabilium personarum* \[1630\], segunda edición
+    (Lyon: Sumptibus Horatius Boissat et Georgius Remeus, 1663), parte
+    II, q. I, núm. 9.
 
-[^173]: Javier Barrientos Grandon, *El gobierno de las Indias*,
-    Colección historia 1 (Madrid: Fundación Rafael del Pino, Marcial
-    Pons, 2004), 249.
+[^166]: La bibliografía relativa al estatus de miserable de los
+    indígenas americanos y su privilegio ha aumentado progresivamente
+    durante las últimas décadas, de ésta vale la pena destacar: Thomas
+    Duve, "La condición jurídica del indio y su condición como persona
+    miserabilis en el Derecho Indiano", en *Un giudice e due leggi:
+    pluralismo normativo e conflitti agrari in Sud America*, ed. Mario
+    G. Losano (Milán: Giuffrè, 2004), 3--33; Francisco Javier Andrés
+    Santos y Luis Carlos Amezúa Amezúa, "La moderación de la pena en el
+    caso de las personae miserabiles en el pensamiento jurídico
+    hispano-americano de los siglos XVI y XVII", *Revista de historia
+    del derecho* 45 (2013): 245--64; Caroline Cunill, "El indio
+    miserable: nacimiento de la teoría legal en la América colonial del
+    siglo XV", *Cuadernos Inter.c.a.mbio* 8, núm. 9 (2011): 229--48;
+    Caroline Cunill, "L'Indien, personne misérable. Considérations
+    historiographiques sur le statut des peuples indigènes dans l'empire
+    hispanique", *Revue dhistoire moderne contemporaine* 64, núm. 2
+    (2017): 21--38.
 
-[^174]: Angel Muñoz García, "Introducción", en *Privilegios de los
-    indios: Thesaurus indicus, vol. II, Tít. XII, c I-X*, de Diego de
-    Avendaño, trad. Angel Muñoz García, Thesaurus Indicus 5 (Pamplona:
-    EUNSA, 2010), 15--17.
+[^167]: Paulino Castañeda Delgado, "La condición miserable del indio y
+    sus privilegios", *Anuario de estudios americanos* 28 (1971):
+    245--48.
 
-[^175]: Beneficio invocado de manera extraordinaria para reponer las
-    cosas al estado anterior al daño provocado por un contrato o
-    transacción. Murillo Velarde, *Cursus iuris canonici*, Lib. I, tít.
-    41, núm. 394.
+[^168]: Thomas Duve, "El privilegio en el Antiguo Régimen y las Indias.
+    Algunas anotaciones sobre su marco teórico-legal y la práctica
+    jurídica", en *Cuerpo político y pluralidad de derechos. Los
+    privilegios de las corporaciones novohispanas*, ed. Beatriz Rojas
+    (México: Instituto Mora, 2007), 33--35.
+
+[^169]: Castañeda Delgado, "La condición miserable del indio", 259. Lo
+    más cercano a una relación de los privilegios de las personas
+    miserables fue hecha por el lucano Giovanni Maria Novarius (o
+    Novario) en 1637, en la cual hace un recuento de 176 privilegios.
+    *Tractatus de miserabilium personarum privilegiis* (Nápoles:
+    tipografía de Dominici Maccarani, 1637), "elenchus singulorum
+    privilegiorum".
+
+[^170]: Duve, "El privilegio en el Antiguo Régimen", 34.
+
+[^171]: Novarius, *Tractatus de miserabilium*, praeludium primum,
+    privilegium 3 y 75.
+
+[^172]: Bartolomé Clavero, *Derecho indígena y cultura constitucional en
+    América* (Siglo XXI, 1994), 11--19.
+
+[^173]: Alejandro Cañeque, *The king's living image: the culture and
+    politics of viceregal power in colonial Mexico*, New World in the
+    Atlantic world (New York, N.Y: Routledge, 2004), 164--66.
+
+[^174]: *Recopilación de las leyes de los reinos de las Indias*, lib. I,
+    tít. VII, ley XIII. También puede consultarse la Cédula del 27 de
+    marzo de 1582 enviada específicamente a los clérigos de Nueva España
+    donde les previene de los maltratos que venían sufriendo los indios
+    de aquellos reinos y la necesidad de protegerlos de los abusos.
+    Ayala, *Diccionario de gobierno*, voz "Indios", núm. 133.
+
+[^175]: Novarius, *Tractatus de miserabilium*, privilegium 63. Beneficio
+    invocado de manera extraordinaria para reponer las cosas al estado
+    anterior al daño provocado por un contrato o transacción. Murillo
+    Velarde, *Cursus iuris canonici*, Lib. I, tít. 41, núm. 394.
 
 [^176]: Álvarez de Velasco, *De privilegiis pauperum*, parte I, q. LXV.
+    Novarius, *Tractatus de miserabilium*, privilegium 132.
 
-[^177]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII,
-    núm. 25-26.
+[^177]: *Recopilación de las leyes de los reinos de las Indias*, lib.
+    VII, tít. VI, ley XVIII y XXI.g
 
 [^178]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII,
+    núm. 25-26. Véase en particular el análisis de Cunill, "L'Indien,
+    personne misérable", 30--35. Parece que el caso de corte, aunque
+    estipulado doctrinalmente, fue un privilegio que no abarcó a los
+    indígenas americanos, por lo menos así se ha identificado por
+    Woodrow Borah, *El juzgado general de indios en la Nueva España*,
+    trad. Juan José Utrilla (México: Fondo de Cultura Económica, 1996),
+    94; María Eugenia Albornoz Vásquez, "Casos de corte y privilegios de
+    pobreza: lenguajes jurídicos coloniales y republicanos para el
+    rescate de derechos especiales en el momento de litigar por
+    injurias. Chile, 1700-1874", *Signos históricos* 16, núm. 32
+    (diciembre de 2014): 79--80.
+
+[^179]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII,
     núm. 28-31.
 
-[^179]: Es esclarecedora la definición de la voz "misericordia" brindada
+[^180]: Ayala, *Diccionario de gobierno*, voz "Indios", núm. 141 y 143.
+    *Recopilación de las leyes de los reinos de las Indias,* lib. VI,
+    tít. X, ley 21. Solórzano Pereyra, *Política indiana*, Lib. II, cap.
+    XXVIII, núm. 12.
+
+[^181]: Es esclarecedora la definición de la voz "misericordia" brindada
     por el *Diccionario de autoridades*: "Virtud, que aficiona y inclina
     al ánimo, para que se duela y compadezca de los trabajos y miserias
     ajenas".
 
-[^180]: Lorenzo Guardiola y Sáez, *El corregidor perfecto*, Segunda
+[^182]: Lorenzo Guardiola y Sáez, *El corregidor perfecto*, Segunda
     impresión corregida y aumentada (Madrid: imprenta real, 1796), parte
-    I, §III, núm. 16.
+    I, §III, núm. 16. Novarius, *Tractatus de miserabilium*, privilegium
+    78 y 101.
 
-[^181]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
-    cap. II, núm. 64.
+[^183]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
+    cap. II, núm. 64. Novarius, *Tractatus de miserabilium*, privilegium
+    75, núm. 12.
 
-[^182]: "Testimonio de la publicación del bando de indulto", Quito, 17
+[^184]: Sobre la asimilación del miserable con la ignorancia y
+    pusilanimidad: Cunill, "L'Indien, personne misérable", 22--24;
+    Cañeque, *The king's living image*, 166--67.
+
+[^185]: "Testimonio de la publicación del bando de indulto", Quito, 17
     de septiembre de 1765, AGI, Quito, 398, ff. 538v-539r.
 
-[^183]: "Carta del apoderado de los barrios de Quito, Don Antonio
+[^186]: "Carta del apoderado de los barrios de Quito, Don Antonio
     Araujo, exponiendo al virrey los motivos de la inquietud", Quito, 13
     de julio de 1765, AGI, Quito, 398, f. 410r.
 
-[^184]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
+[^187]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
     cap. II, núm. 63.
 
-[^185]: "Instrucción para el mejor gobierno de los pueblos de indios",
+[^188]: "Instrucción para el mejor gobierno de los pueblos de indios",
     en José María Arboleda Llorente, *El indio en la colonia. Estudio
     basado principalmente en documentos del Archivo Central del Cauca*
     (Bogotá: Prensas del Ministerio de Educación, 1948), 195--96.
 
-[^186]: José del Campillo y Cossío, *Nuevo sistema de gobierno económico
+[^189]: José del Campillo y Cossío, *Nuevo sistema de gobierno económico
     para la América* (Madrid: imprenta de Benito Cano, 1789), cap. I,
     núm. 29, 15.
 
-[^187]: Timothy Eagan Anna, *La caída del gobierno español en el Perú:
+[^190]: Timothy Eagan Anna, *La caída del gobierno español en el Perú:
     el dilema de la independencia*, Estudios históricos 35 (Lima: IEP,
     Inst. de Estudios Peruanos, 2003), 33.
 
-[^188]: "Carta nº 103 de Francisco Gil de Taboada y Lemos, virrey de
+[^191]: "Carta nº 103 de Francisco Gil de Taboada y Lemos, virrey de
     Perú, a Antonio Valdés, Secretario de Estado de Indias, Hacienda,
     Marina y Guerra". AGI, Audiencia de Lima, leg. 691, f. 385v.
 
-[^189]: *Real ordenanza para el establecimiento e instrucción de
+[^192]: *Real ordenanza para el establecimiento e instrucción de
     intendentes de exército y provincia en el reino de la Nueva España*
     (Madrid: \[s.n.\], 1786), art. 14 y 15.
 
-[^190]: *Ordenanza general formada de orden de Su Magestad, y mandada
+[^193]: *Ordenanza general formada de orden de Su Magestad, y mandada
     imprimir y publicar para el gobierno é instrucción de intendentes,
     subdelegados y demás empleados en Indias* (Madrid: imprenta de la
     viuda de Ibarra, 1803), art. 91.
 
-[^191]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
+[^194]: Un artículo muy interesante al respecto fue realizado por Pedro
+    Ortego Gil, "La estancia en prisión como causa de minoración de la
+    pena (siglos XVII-XVIII)", *Anuario de derecho penal y ciencias
+    penales* 54, núm. 1 (2001): 43--70.
+
+[^195]: Álvarez de Velasco, *De privilegiis pauperum*, parte II, q. XI.
+
+[^196]: Tan sólo habría que revisar las numerosas consultas disponibles
+    en AGI, Santa Fe, 546 y 548
+
+[^197]: "María Bárbara de Robles a José de Gálvez", Aranjuez, 8 de mayo
+    de 1780, AGI, Santa Fe, 1200.
+
+[^198]: "Josefa Ramona de Gracián a Gaspar Melchor de Jovellanos", La
+    Guaira, 15 de marzo de 1798, AHN, Consejo de Indias, Secretaría de
+    Presidencia, leg. 21672, exp. 3.
+
+[^199]: "Josefa Ramona de Gracián a Gaspar Melchor de Jovellanos". Es
+    probable que el ejemplo de los "Pulichis" del Indostán haya sido
+    tomado del periódico *Espíritu de los mejores diarios literarios que
+    se publican en Europa*, núm. 163, 12 de enero de 1789, 775.
+
+[^200]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
     "De pœnitentiis, et remisionibus", núm. 359.
 
-[^192]: Alonso de la Peña Montenegro, *Itinerario para párrocos de
+[^201]: Alonso de la Peña Montenegro, *Itinerario para párrocos de
     indios* \[1668\], nueva edición purgada (Madrid: oficina de Pedro
     Marín, 1771), lib. III, trat. III, "Tratado del dolor". *Catecismo
     del Santo Concilio de Trento para los Párrocos, ordenado por
@@ -2316,14 +2441,22 @@ para salvar.[^210]
     impresión (Madrid: en la imprenta de Benito Cano, 1787), par. II,
     cap. IV, núm. 2.
 
-[^193]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
+[^202]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
     núm. 359.
 
-[^194]: Martín de Azpilcueta, *Manual de confessores y penitentes*
+[^203]: Martín de Azpilcueta, *Manual de confessores y penitentes*
     \[1553\], (Salamanca: en casa de Andrea de Portonariis, 1556), cap.
-    XXII.
+    XXII. Sobre el "Manual de confesores" en el contexto de las reformas
+    tridentinas y su impacto posterior, véase Isabel Muguruza Roca, "Del
+    confesionario ibérico de la Contrarreforma a los manuales para
+    confesores en la América colonial: el Manual de confesores y
+    penitentes de Martín de Azpilcueta como texto de referencia",
+    *Indiana* 35, núm. 2 (2018): 34--42,
+    https://doi.org/10.18441/ind.v35i2.29-53. Para una visión general de
+    los manuales de confesores, véase Delumeau, *Le péché et la peur*,
+    222--29.
 
-[^195]: Concilio de Trento, sesión 14, "Doctrina de los santísimos
+[^204]: Concilio de Trento, sesión 14, "Doctrina de los santísimos
     sacramentos de la penitencia y extrema-unción, 25 de noviembre de
     1551", en *El Sacrosanto y Ecumenico Concilio de Trento*, trad.
     Ignacio López de Ayala (Madrid: en la Imprenta Real, 1785), cap. I.
@@ -2331,7 +2464,7 @@ para salvar.[^210]
     preámbulo, núm. 16. Murillo Velarde, *Cursus iuris canonici*, lib.
     V, tít. XXXVIII, núm. 360.
 
-[^196]: Otros canonistas consideraban otras fórmulas como válidas, por
+[^205]: Otros canonistas consideraban otras fórmulas como válidas, por
     lo que debe considerarse que el uso de la forma citada fue la
     adoptada y estipulada desde Trento como válida, aunque ya había sido
     planteada como la manera de proceder según Tomás de Aquino, "Summa
@@ -2339,7 +2472,7 @@ para salvar.[^210]
     de los santísimos sacramentos de la penitencia y extrema-unción",
     cap. III. Murillo Velarde, lib. V, tít. XXXVIII, núm. 364.
 
-[^197]: No todas las tendencias del protestantismo tuvieron la misma
+[^206]: No todas las tendencias del protestantismo tuvieron la misma
     posición frente a la absolución de los pecados. El luteranismo y el
     anglicanismo (en el siglo XIX también los metodistas) mantuvieron la
     confesión privada, como medio en la primera y como sacramento en la
@@ -2353,55 +2486,114 @@ para salvar.[^210]
     Handbook of Sacramental Theology*, Kindle edition (Oxford, United
     Kingdom ; New York, NY: Oxford University Press, 2015).
 
-[^198]: Azpilcueta, *Manual de confessores*, cap. XXII, "Del sacramento
+[^207]: Azpilcueta, *Manual de confessores*, cap. XXII, "Del sacramento
     de la penitencia".
 
-[^199]: John W. O'Malley, *Trent. What Happened at the Council*
+[^208]: Así había quedado impuesto desde el cuarto concilio de Letrán en
+    1215 como una estrategia para fortalecer la potestad de la iglesia
+    dentro de la pluralidad de fueros medievales. Paolo Prodi,
+    *Cristianesimo e potere*, edición electrónica (Bologna: Società
+    Editrice Il Mulino, 2013), cap. 8; Adriano Prosperi, *Delitto e
+    perdono. La pena di morte nell'orizzonte mentale dell'Europa
+    cristiana. XIV-XVIII secolo*, Nueva edición revisada (Turín:
+    Einaudi, 2016), 33.
+
+[^209]: John W. O'Malley, *Trent. What Happened at the Council*
     (Cambridge, MA; Londres: Belknap Press of Harvard University Press,
     2013), 153.
 
-[^200]: Azpilcueta, cap. V, "Del poder saber", núm. 7. Pérez y López,
+[^210]: Azpilcueta, cap. V, "Del poder saber", núm. 7. Pérez y López,
     *Teatro de la legislación*, tomo XXII, voz "penitencias", §VI
     "Concilio tridentino, ses. 14, can. 9, 416.
 
-[^201]: "Quæ absolutio est actus judicialis, et non nudum ministerium
+[^211]: "Quæ absolutio est actus judicialis, et non nudum ministerium
     pronuntiandi, et declarandi, remissa ese peccata confitendi".
     Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII, núm.
     364.
 
-[^202]: Así lo dejaba claro el catecismo de Trento: "Porque no concedió
+[^212]: Así lo dejaba claro el catecismo de Trento: "Porque no concedió
     el Señor á todos la potestad de tan santo ministerio, sino á solos
     los Obispos y Sacerdotes". *Catecismo del Santo Concilio*, par. I,
     cap. XI, núm. 6.
 
-[^203]: "Minister hujus Sacramenti est solus Sacerdos, ut contra Wiclef
+[^213]: "Minister hujus Sacramenti est solus Sacerdos, ut contra Wiclef
     \[sic\], Lutherum, et alios hæreticos credentes, ómnibus Christi
     fidelibus, etiam pueris, et foeminis, potestatem absolvendi ese
     concessam". Murillo Velarde, lib. V, tít. XXXVIII, núm. 366.
 
-[^204]: "in corde ejus contritio in ore ejus confessio, in opere tota
+[^214]: "in corde ejus contritio in ore ejus confessio, in opere tota
     humilitas (id est satisfactio) haec est perfecta, et fructifera
     poenitentia" ("en su corazón la contricción, en su boca la
     confesión, en sus obras toda la humildad (esto es la satisfacción),
     esta es la perfecta y fructífera penitencia.") Murillo Velarde, lib.
     V, tít. XXXVIII, núm. 361.
 
-[^205]: Azpilcueta, cap I, "De la contricson", núm. 15.
+[^215]: Azpilcueta, cap I, "De la contricson", núm. 15.
 
-[^206]: Sobre el perdón condicional al servicio en la guerra véase
+[^216]: Sobre el perdón condicionado al servicio en la guerra véase
     Rodríguez Flores, *El perdón real*, 73--74.
 
-[^207]: *Catecismo del Santo Concilio*, par. II, cap. V, núm. 62.
+[^217]: *Catecismo del Santo Concilio*, par. II, cap. V, núm. 62.
 
-[^208]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
+[^218]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
     núms. 376 y 381.
 
-[^209]: Azpilcueta, *Manual de confessores*, cap. XVII, "Que cosa es
+[^219]: Azpilcueta, *Manual de confessores*, cap. XVII, "Que cosa es
     restitucion", núm. 6.
 
-[^210]: Alejandro Agüero Nazar, *Castigar y perdonar cuando conviene a
+[^220]: Murillo Velarde, lib. V, tít. XXXVIII, núm. 377.
+
+[^221]: Peña Montenegro, *Itinerario para párrocos de indios*, lib. III,
+    trat. IV, sec. IV, núm. 4.
+
+[^222]: Peña Montenegro, lib. III, trat. IV, sec. IV, núm. 4.
+
+[^223]: Alejandro Agüero Nazar, *Castigar y perdonar cuando conviene a
     la República: la justicia penal de Córdoba del Tucumán, siglos XVII
     y XVIII* (Madrid: Centro de Estudios Políticos y Constitucionales,
     2008), 360--67; Jean Delumeau, *La confesión y el perdón. Las
     dificultades de la confesión, siglos XIII a XVIII*, trad. Mauro
     Armiño (Madrid: Alianza, 1992), 10.
+
+[^224]: Paolo Prodi, *Una historia de la justicia: de la pluralidad de
+    fueros al dualismo moderno entre conciencia y derecho*, trad.
+    Luciano Padilla López (Madrid: Katz Editores, 2008), 43.
+
+[^225]: "Que de pécheurs et de péchés dans le monde et dans toutes les
+    conditions! Mais le pardon est toujours là, grâce à la confession.
+    Encore faut-il se confesser loyalement". Delumeau, *Le péché et la
+    peur*, 517.
+
+[^226]: Clavero, "Delito y pecado", 63.
+
+[^227]: Prosperi, *Delitto e perdono*, 33.
+
+[^228]: Tomás y Valiente, "El Derecho penal", 346--48.
+
+[^229]: Aniceto Masferrer Domingo, "La distinción entre delito y pecado
+    en la tradición penal bajomedieval y moderna: una propuesta
+    revisionista de la historiografía española, europea y anglosajona",
+    *Anuario de historia del derecho español*, núm. 87 (2017): 723--24.
+
+[^230]: Clavero, "Delito y pecado", 78.
+
+[^231]: Enrique Gacto, "El delito de bigamia y la inquisición española",
+    en *Sexo barroco y otras transgresiones premodernas*, de Francisco
+    Tomás y Valiente et al. (Madrid: Alianza, 1990), 147--49.
+
+[^232]: Ese es precisamente el tema central de Prodi, *Una historia de
+    la justicia*.
+
+[^233]: Azpilcueta, *Manual de confessores*, cap. I, "De la contrición";
+    Peña Montenegro, *Itinerario para párrocos de indios*, lib. III,
+    trat. III, sec. XI-XII.
+
+[^234]: Peña Montenegro, lib. III, trat. III, sec. XIII, núm. 9.
+
+[^235]: "El rey concede facultad al virrey Pizarro para perdonar toda
+    especie de delitos", 30 de marzo de 1749, AGI, Santa Fe, 575.
+    "Cédula expedida al virrey Solís para indultar los delitos que en
+    ella se expresan", Buen Retiro, 18 de abril de 1753, AGI, Santa Fe,
+    547.
+
+[^236]: Finestrad, 295.

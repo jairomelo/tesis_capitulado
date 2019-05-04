@@ -261,90 +261,6 @@ términos de la *generalis indulgentia* expresaban que no era posible
 liberar a todos los presos de sus cadenas, siendo necesario excluir a
 los delincuentes más graves de la evasión de la pena.[^43]
 
-La amplitud de crímenes que abarcaba el indulto general abría una
-ventana para la impetración del indulto en la cual un crimen grave, por
-ejemplo el homicidio o el ilícito comercio, podía ser incluido en el
-perdón general si se lograba argumentar correctamente la súplica. En
-muchos casos, especialmente aquellos que llegaban por consulta o
-ratificación a la Real Audiencia, se generaba una contienda entre el
-fiscal y el suplicante, el acusador excluyendo y el acusado incluyendo
-su delito en la gracia. El fiscal, en su vista, remarcaba los agravantes
-que hacían del crimen indigno de perdón; el procurador resaltaba las
-bondades del acusado, el patetismo de su condición como reo, y la
-contingencia de sus acciones. Un ejemplo fue la solicitud de indulto que
-elevó Juan Silvestre Castañeda al juzgado ordinario de tenencia de La
-Mesa (jurisdicción de Tocaima). El suplicante, después de haber evitado
-su captura por el homicidio que cometió contra José Jiménez en el año de
-1798, se presentó ante el teniente de gobernador en diciembre de 1804
-para cogerse al indulto general del 25 de julio del año anterior.
-Inmediatamente recibida la súplica, el teniente ordenó se recibieran
-testimonios que corroboraran que Castañeda no estaba excluido de la
-gracia del indulto por haber cometido un asesinato con alevosía. El
-fiscal nombrado para la vindicta pública, José Antonio Ortega, determinó
-que no había prueba de que el sindicado hubiese actuado con
-premeditación, y siendo que no había parte agraviada que exigiera el
-seguimiento de la causa, no existía ningún inconveniente en otorgar el
-indulto.[^44] Para fortalecer el argumento a su favor, el defensor
-nombrado para Castañeda suplicaba se tuviera presente que el caso de su
-defendido era "idéntico" a aquellos en los que se concedía indulto, y
-añadía que "si a mi parte se le tratara como a reo \[...\] no tiene duda
-que aun no se le castigaría con el rigor de las leyes y que se le
-minoraría mucho la parte de la pena".[^45] El teniente de gobernador,
-don Pedro de Sanmiguel y Cacho, coincidió con esta calificación del
-delito y decidió que, al no ser de los delitos exceptuados, se declaraba
-al reo comprendido en la gracia.[^46]
-
-Como era común en los indultos que concedían las justicias ordinarias,
-se elevó para su aprobación a la Real Audiencia, donde fue recibida por
-el fiscal del crimen, Manuel Martínez Mansilla, quien determinó "que la
-muerte executada en la persona de José Ximenes por Juan Silvestre
-Castañeda, lejos de consevirse haber sido en defensa o causal \[sic\],
-que son los casos en que se concede el indulto, se halla que fue
-executada con demasiada malicia y con alevosía".[^47] Castañeda
-argumentaba que su reacción se debió a la amenaza que hizo Jiménez a su
-padre con un sable, aun así, el fiscal decía que el reo debió haber
-optado por "la moderación en la defensa" y huir en consecuencia, en
-lugar de buscar un arma para defenderse. El acusador llevaba su
-argumento al extremo afirmando que por no haber optado por otra forma de
-defensa Castañeda podía ser acusado de haber actuado "con animo
-premeditado y conosida malisia", por lo cual era necesario refutar el
-indulto concedido por el teniente de gobernador, e incluso amonestar a
-dicho juez por la decisión que había tomado.[^48] No obstante el alegato
-del fiscal, los oidores Alba, Cortasar y Portocarrero, ratificaron la
-sentencia consultada por el teniente de La Mesa y por tanto, dieron vía
-libre para la liberación del reo.[^49]
-
-En otros casos, la contradicción estaba entre el fiscal y los oidores,
-como en la solicitud de indulto a María Josefa Contreras, vecina de
-Santa Fe acusada de haber asesinado por azotes a una joven que tenía a
-su servicio. En este caso, la sindicada argumentaba que aunque el delito
-no se encontrara dentro de los beneficiados por la gracia real se le
-debía incluir por haberse presentado voluntariamente, igual que los
-demás "reos ausentes y rebeldes".[^50] Claramente el anterior no fue un
-argumento muy convincente pues los oidores rechazaron la súplica. Ante
-la negativa, el procurador de pobres, Cándido Nicolás Girón, solicitó
-los autos para "mejorarlos" y así poder solicitar nuevamente el perdón
-real. El fiscal Martínez Mansilla le advirtió a los oidores que la
-acusada, al haber recurrido directamente a la superior justicia corría
-el riesgo de quedar sin recurso de apelación tras pedir el expediente,
-por lo cual la súplica fue aceptada "por equidad" y se le permitió
-alegar en dicho grado.[^51] El procurador aprovecha la dilación para
-conseguir el perdón de los padres de la víctima, quienes claman en su
-carta por la piedad de María Josefa. Entonces, el abogado intenta
-argumentar por una parte que su defendida era inocente al haber sido
-acusada sin pruebas, y además, que aunque fuera culpable, estaría
-incluida en los delitos perdonables puesto que carecía de "libertad y
-deliberación" para realizar el asesinato.[^52] Para la decisión final,
-el fiscal Martínez retomó la vista que había presentado meses antes
-según la cual no era evidente la relación entre el castigo aplicado por
-María Josefa a su sirvienta y la muerte de la misma, por lo tanto este
-magistrado consideraba que el delito de la suplicante estaba comprendido
-en la gracia del indulto general.[^53] La vista de los oidores
-(Ezterripa, Inclán y Cortazar) consideró, a pesar de su súplica y perdón
-de parte, que debía aplicarse la condena de cuatro años de reclusión en
-la cárcel del divorcio de Santa Fe, lugar donde María Josefa cumplió su
-condena y fue liberada en 1808.[^54]
-
 Reos condenados, ausentes y rebeldes
 ------------------------------------
 
@@ -416,7 +332,7 @@ del fiscal se vuelca hacia las autoridades de Santiago, a quienes acusa
 de aprovechar el indulto para favorecer su negligencia, puesto que "si
 estos \[reos\] no se hubieren presentado voluntariamente en solicitud
 del indulto, jamas se habría hecho alto en sus crímenes, ni se hubiera
-tenido la menor noticia de los homicidios que ejecutaron".[^55]
+tenido la menor noticia de los homicidios que ejecutaron".[^44]
 
 Un caso particular fue el de la isla de Margarita (cuando aún formaba
 parte de la jurisdicción del virreinato santafereño), cuyo gobernador,
@@ -424,7 +340,7 @@ Alonso del Río y Castro, informó de la publicación del indulto por la
 coronación de Carlos III en los partidos de su competencia, añadiendo:
 "no habiendo en esta isla criminal alguno de esta naturaleza lo
 participo a VE para su inteligencia y que queda cumplida la Real
-voluntad".[^56] La ausencia de criminales en la ínsula no necesariamente
+voluntad".[^45] La ausencia de criminales en la ínsula no necesariamente
 derivaba de la carencia de desorden, sino muy probablemente se debía a
 lo que en el año de 1762 había expuesto el mismo oficial en un informe
 al virrey Mesía de la Cerda, en el cual advertía sobre la desordenada
@@ -434,14 +350,14 @@ arruinado la ciudad, llevado al exilio a parte de la nobleza, en tanto
 "los que de las demas calidades y colores hán podido labrar sus casitas
 lo hán echo por todo el territorio de la ciu\[da\]d, sembrándolas entre
 su maleza, de modo que ni la justicia puede vigilar sus excesos, y
-costumbres, ni la iglesia cuidar de sus almas".[^57] Esto no niega que
+costumbres, ni la iglesia cuidar de sus almas".[^46] Esto no niega que
 el gobierno ejecutara acciones para paliar el desorden de la ciudad,
 solamente se deduce que éstas no involucraban la acción penal. Por
 ejemplo, en 1759 el mismo gobernador aprovechó la solicitud de
 pobladores hecha por Iturriaga, comandante del Orinoco, para enviar
 media centena de "vagos y vagas" a que poblaran las recién creadas
-ciudades de Ciudad Real y Real Corona,[^58] con lo cual esperaba se
-redujeran "los excesos" y se corrigieran "los menos escandalosos".[^59]
+ciudades de Ciudad Real y Real Corona,[^47] con lo cual esperaba se
+redujeran "los excesos" y se corrigieran "los menos escandalosos".[^48]
 
 La situación de un territorio pequeño y relativamente aislado no parecía
 diferir demasiado de otras jurisdicciones más cercanas a la ciudad
@@ -450,36 +366,36 @@ gobernación de Antioquia, la cantidad de reos incluidos en indulto
 apenas pasaba de unos cuantos. Beatriz Patiño, en su investigación sobre
 la criminalidad y la penalidad entre los años 1750 y 1812 para dicha
 provincia, halló cuatro casos de indulto dentro de 362 causas por
-heridas e igual número de perdones entre 41 procesos por homicidio.[^60]
+heridas e igual número de perdones entre 41 procesos por homicidio.[^49]
 María Victoria Montoya, en una revisión más reciente para la
 jurisdicción de la ciudad de Antioquia en el mismo rango temporal,
 encontró cinco nuevos casos al profundizar en los delitos asociados con
-las "relaciones ilícitas".[^61] Los trabajos de Velazco Pedraza y
+las "relaciones ilícitas".[^50] Los trabajos de Velazco Pedraza y
 Ariza-Martínez, para la villa de San Gil y la ciudad de Santa Fe,
 muestran algunas evidencias del perdón particular, pero no exhiben casos
-de reos acogidos al indulto general.[^62] Tampoco lo hace el trabajo de
+de reos acogidos al indulto general.[^51] Tampoco lo hace el trabajo de
 Muñoz Cogaría, quien analizó la criminalidad y la penalidad en la
 gobernación de Popayán entre 1750 y 1820, aunque sí realiza algunos
-comentarios relativos a la moderación de las penas.[^63]
+comentarios relativos a la moderación de las penas.[^52]
 
 Una revisión de los catálogos del Archivo Central del Cauca (descritos
 de manera laudable por José María Arboleda) resulta en seis casos en los
 cuales se concedió perdón por un indulto general. El que más llama la
 atención es el indulto que se le otorgó a Miguel González, alias "el
 mico", acusado de dos homicidios en la jurisdicción de Buga, iba a ser
-ahorcado por el alcalde de la Santa Hermandad,[^64] pero se le conmutó
+ahorcado por el alcalde de la Santa Hermandad,[^53] pero se le conmutó
 la pena por destierro tras haber intervenido los alcaldes ordinarios de
 Buga y Popayán. En 1708, cuando se encontraba esperando se ejecutara la
 condena, llegó a la ciudad la noticia del indulto de Felipe V por el
 nacimiento del príncipe Felipe que había promulgado el año anterior.
 González se acoge a la gracia y le es otorgada por el gobernador de
 Popayán, Baltasar Carlos de Vivero, Marqués de San Miguel de la
-Vega.[^65] La cuestión radica en que el indulto de 1707 (véase tabla 1)
+Vega.[^54] La cuestión radica en que el indulto de 1707 (véase tabla 1)
 estaba limitado a los reos de las cárceles de Madrid y excluía
-explícitamente a "los que estuvieren por muerte donde haya parte".[^66]
+explícitamente a "los que estuvieren por muerte donde haya parte".[^55]
 Tamar Herzog indicó que este indulto general y el promulgado en 1746
 fueron conocidos en Quito, aunque "no dejaron huellas significativas ni
-en los documentos administrativos ni en los autos judiciales".[^67]
+en los documentos administrativos ni en los autos judiciales".[^56]
 Lastimosamente, tampoco se mencionaron los casos intrascendentes que
 pudieron acogerse a estos indultos o, en dado caso, si las cédulas que
 arribaron a la Audiencia quiteña contenían una extensión a dicha
@@ -492,14 +408,14 @@ la candidatura de Manuel José de la Cruz Moreno al cabildo de Anserma la
 revisión de antecedentes mostró que éste había sido cobijado por el
 indulto promulgado el 19 de septiembre de 1783, aunque no era un perdón
 general sino particular para desertores del ejército y la real
-armada.[^68] Tampoco es claro a cuál indulto general se acogió el indio
+armada.[^57] Tampoco es claro a cuál indulto general se acogió el indio
 Félix Pillimué, sospechoso de haber asesinado a su esposa, ya que el
 gobernador señaló que no podía juzgarlo "por indicios y sospechas", por
-lo que lo daba por cobijado por el indulto de 11 de abril de 1804.[^69]
+lo que lo daba por cobijado por el indulto de 11 de abril de 1804.[^58]
 En la Gaceta de Madrid de ese año no se encuentran registros de un
 perdón general promulgado en esa fecha. El único que se acerca es un
 indulto a los desertores otorgado por el cumpleaños de Carlos IV el 29
-de octubre de ese año.[^70] De los tres casos precedentes queda la
+de octubre de ese año.[^59] De los tres casos precedentes queda la
 sensación de un cierto acomodo de la categoría del indulto general a las
 necesidades particulares de las autoridades de la gobernación payanesa.
 
@@ -508,13 +424,13 @@ indulto general de 1784 se incluyó a José Vázquez, alias "el papero",
 quien había herido de muerte a su amigo estando los dos ebrios.
 Consiguió el perdón tras demostrar que el asesinato había sido
 accidental y haber obtenido el perdón de parte, aunque se le conminó a
-pagar las costas para salir en libertad.[^71] También se incluyó al
+pagar las costas para salir en libertad.[^60] También se incluyó al
 español Joseph Irasmendi, quien había asesinado en una riña a un indio
 trabajador de la hacienda donde era mayordomo. Había sido condenado a la
 pena de último suplicio por horca y a ser arrastrado por caballos, pero
 en la apelación el defensor elevó la súplica para ser incluido en el
 perdón general presentando a su favor el perdón que le hiciera el dicho
-indio durante la confesión que hizo poco antes de morir.[^72] En el
+indio durante la confesión que hizo poco antes de morir.[^61] En el
 indulto general de julio de 1803 se incluyó al indio de Toboima, Nicolás
 Vitonque, quien asesinó a un negro en el camino de la ciudad de Popayán
 a su pueblo. Según el indio, la herida que le hizo al negro Juan
@@ -523,30 +439,30 @@ a que unos indios brujos le habían dado "la yerba de la borrachera" y en
 su estado de alucinación se encontró con el negro, que vestía una capa
 de paja, y lo confundió con un oso. Con dictamen de asesor, el alcalde
 ordinario incluyó a Vitonque en la gracia de indulto, sentencia que fue
-confirmada en consulta que elevó a la Audiencia de Quito.[^73]
+confirmada en consulta que elevó a la Audiencia de Quito.[^62]
 
 Los datos surgidos desde las provincias mencionadas parecieran coincidir
 con lo señalado por Tamar Herzog para la ciudad de Quito: un uso
 marginal del indulto en los procesos judiciales, una relevancia del
 discurso del "buen gobierno" por el ejercicio de la clemencia antes que
 un impacto en la administración de justicia, y una "economía de la
-gracia" que no repercutía en la ciudad andina.[^74] Claramente, si nos
+gracia" que no repercutía en la ciudad andina.[^63] Claramente, si nos
 enfocáramos en el plano audiencial durante el siglo XVII e inicios del
 siglo XVIII coincidiríamos en buena medida con los planteamientos de
 Herzog; de hecho, en una pesquisa superficial sobre los casos de indulto
 que conoció la Audiencia de Santa Fe, entre 1655 y 1675 sólo se
 encontraron siete procesos en los cuales se usó de la cédula de indulto
-general.[^75] El problema no consistía necesariamente en una "economía
+general.[^64] El problema no consistía necesariamente en una "economía
 de la gracia" ausente de las ciudades americanas sino que todo parece
 indicar que los indultos generales comenzaron a tener efectos
 significativos para las provincias de ultramar hasta mediados del siglo
-XVIII.[^76] Esto no implica que no existiese una "economía de la gracia"
+XVIII.[^65] Esto no implica que no existiese una "economía de la gracia"
 en Indias antes de la coronación de Carlos III, tan sólo que ésta no era
 canalizada a través de los indultos general o particulares, sino de
 otras formas, como el acuerdo, los apartamientos, la conmutación, el
 complejo universo de la justicia de jueces que privilegiaba la
 negociación sobre la querella, y a lo cual se le debe sumar un elemento
-en suma relevante como era la negligencia de los jueces menores.[^77]
+en suma relevante como era la negligencia de los jueces menores.[^66]
 
 Al observar el efecto del indulto general desde la perspectiva de la
 Audiencia de Santa Fe es notable la cantidad de perdones que fueron
@@ -588,10 +504,10 @@ la severidad requerida. Finalmente, de manera similar a la pena capital,
 los indultos podían ser consultados por los jueces a los oidores de tal
 manera que la decisión de liberar a un reo fuese ratificada o incluso
 determinada por el superior gobierno, así se salvaba su actuación frente
-a la vindicta pública.[^78]
+a la vindicta pública.[^67]
 
 De los 330 expedientes por homicidio hallados en la sección colonia del
-Archivo General de la Nación de Bogotá,[^79] poco más de la mitad se
+Archivo General de la Nación de Bogotá,[^68] poco más de la mitad se
 concentra en el periodo que corre entre 1790 y 1809. Como se observa en
 el gráfico 1, hubo tres momentos que marcan la tendencia, el primero que
 inicia en 1757, alcanza su pico más alto en 1762 con nueve casos vistos
@@ -610,10 +526,10 @@ Aunque se expidieron seis indulgencias universales que abarcaban a las
 provincias americanas, las peticiones se concentraron en las de los años
 1760, 1780, 1784 y 1803; siendo excepcional el perdón concedido a Manuel
 Timoteo y otros indios Coyaimas, acogidos a la real cédula de indulto de
-1771.[^80] Se eliminaron de esta serie los indultos que se concedieron
+1771.[^69] Se eliminaron de esta serie los indultos que se concedieron
 en 1809 y 1810 por motivo de la coronación de Fernando VII, ya que esta
 fue en realidad una gracia promulgada por el virrey Amar y Borbón a
-nombre del rey.[^81]
+nombre del rey.[^70]
 
 Gráfico 1. Casos por homicidio vistos en la Real Audiencia de Santa Fe e
 indultos concedidos por ese delito entre 1700 y 1810
@@ -643,7 +559,7 @@ notable está enmarcada en la gobernación de Antioquia, de la cual
 sabemos por las investigaciones señaladas previamente que concedieron
 indultos abrigándose en el perdón general, y aunque la relativa
 autonomía de dicha gobernación fue decayendo desde mediados del siglo
-XVIII,[^82] es claro que en términos de justicia criminal no se recurría
+XVIII,[^71] es claro que en términos de justicia criminal no se recurría
 frecuentemente a consultar a la Audiencia. Claramente, la mayoría de
 indultos se centraban en las provincias cercanas al distrito de Santa
 Fe: las gobernaciones de Neiva, Mariquita, y el corregimiento de Tunja.
@@ -662,20 +578,20 @@ de Caracas solamente fue un expediente de 1741, un año antes de retirar
 la dependencia de la provincia de Venezuela del virreinato del Nuevo
 Reino. Para el caso de la Audiencia de Quito, los sumarios se remitieron
 porque comprendían decisiones que estaban bajo jurisdicción del
-virrey[^83] o pretendían evitar a los oidores de ese distrito.[^84] De
+virrey[^72] o pretendían evitar a los oidores de ese distrito.[^73] De
 modo que a pesar del aparente desborde jurisdiccional, los límites se
 encontraban bien definidos. La distribución de los homicidios conocidos
 por la Audiencia reflejan claramente la dispersión poblacional del Nuevo
 Reino de Granada, con la notable excepción de Antioquia, con una gran
 concentración en el altiplano cundiboyacense, la provincia de Tunja,
 Girón, Pamplona, y los pueblos y ciudades de las gobernaciones de Neiva
-y Mariquita.[^85] La cantidad de casos provenientes de la villa de
+y Mariquita.[^74] La cantidad de casos provenientes de la villa de
 Mompox se explican por el carácter de dicha ciudad como nodo de una
 cantidad importante de poblaciones de calidad variopinta que se
 entrecruzaban por los ríos de los valles de los ríos Cauca, Magdalena y
-Sinú.[^86] Finalmente, Cartagena es un resultado esperado debido a su
+Sinú.[^75] Finalmente, Cartagena es un resultado esperado debido a su
 relevancia como una de las "llaves del imperio" y concentración
-poblacional.[^87]
+poblacional.[^76]
 
 Al sobreponer las representaciones (mapa 3) llama la atención la
 evidente discrepancia entre ambas series. Esto corrobora hasta cierto
@@ -720,7 +636,7 @@ La Guaira, condenado por el asesinato de sus dos hijos políticos, a
 quien la Audiencia de Santa Fe decidió modificar la sentencia dada por
 el gobernador de Santa Marta de último suplicio por horca por muerte por
 garrote vil, pues se consideraba un método menos cruel de ejecución del
-reo.[^88] También se amonestó a una escuadra de milicianos que
+reo.[^77] También se amonestó a una escuadra de milicianos que
 ejecutaron en Quibdó a un hombre después de un juicio sumario que se le
 llevó por homicidio, el capitán ordenó que debía aplicársele la muerte
 por horca, pero al no contar con un verdugo con experiencia el reo tardó
@@ -731,7 +647,7 @@ cuerpo del ahorcado hiriéndolo de muerte. Fue precisamente por ese
 motivo que la Audiencia supo de ese caso e inició la averiguación por el
 homicidio del miliciano, finalizando la causa con la advertencia a los
 oficiales que no ejecutaran a los condenados si no contaban con
-verdugos.[^89]
+verdugos.[^78]
 
 Gráfico 2. Tipos de sentencias por homicidio dadas por los oidores de la
 Audiencia de Santa Fe, 1700-1810
@@ -757,14 +673,14 @@ los sindicados fueron condenados en rebeldía o se encontraban prófugos.
 El uso limitado del último suplicio podía relacionarse con una tendencia
 utilitaria a utilizar a los delincuentes en trabajos de utilidad pública
 en calidad de servidumbre, sin paga y con una mínima ración apenas para
-su supervivencia.[^90] Pero también era fundamental el hecho de que al
+su supervivencia.[^79] Pero también era fundamental el hecho de que al
 aplicar la pena de muerte no existía la posibilidad de restitución en el
 eventual caso de hallarse luego que el reo era inocente. Valga recordar
 lo dicho por el jurista Elizondo a finales del siglo XVIII: "juzgamos se
 siguen superiores ventajas de oírse \[las súplicas de los reos\], y
 dispensarse estos \[castigos públicos\] por los Soberanos para no
 exponer al inocente á la calamidad de una pena la mas grave, y
-sensible".[^91]
+sensible".[^80]
 
 Aunque pudiese parecer un asunto retórico, una ejecución realizada sobre
 alguien que luego se descubriera inocente representaba la posibilidad de
@@ -780,7 +696,7 @@ la Audiencia de Santa Fe donde se inició proceso por homicidio contra
 los jueces y se recabaron las pruebas que demostraron la inocencia de
 Libreros. Paradójicamente, fueron los oficiales quienes posteriormente
 elevaron las súplicas para que se les perdonara, conmutara sus
-sentencias, y restituyeran en bienes y fama.[^92]
+sentencias, y restituyeran en bienes y fama.[^81]
 
 [^1]: Al parecer el reinado de Enrique IV de Castilla también fue
     pródigo en este tipo de gracias, hasta el punto que las Cortes le
@@ -990,69 +906,40 @@ sentencias, y restituyeran en bienes y fama.[^92]
     Libro XLVIII, tít. XVII, "ad senatusconsultum turpillianum, et de
     abolitionibus criminum", núm. 17.
 
-[^44]: "Causa seguida a Juan Silvestre Castañeda, por el homicidio de
-    José Jiménez", AGNC, sección colonia, juicios criminales, tomo 103,
-    doc. 23, f. 934r.
-
-[^45]: "Causa seguida a Juan Silvestre Castañeda", f. 935r.
-
-[^46]: "Causa seguida a Juan Silvestre Castañeda", f. 936v.
-
-[^47]: "Causa seguida a Juan Silvestre Castañeda", f. 938r.
-
-[^48]: "Causa seguida a Juan Silvestre Castañeda", f. 938v-939r.
-
-[^49]: "Causa seguida a Juan Silvestre Castañeda", f. 940r.
-
-[^50]: "Solicitud de María Josefa Contreras, para quedar comprendida en
-    la Real Gracia de indulto", AGNC, sección colonia, juicios
-    criminales, tomo 6, doc. 29, f. 534r.
-
-[^51]: Sobre esto véase Hevia Bolaños, *Curia philipica*, tomo I, parte
-    V, § IV, núm. 1.
-
-[^52]: "Solicitud de María Josefa Contreras", ff. 537r-541r.
-
-[^53]: "Solicitud de María Josefa Contreras", ff. 536r y 541v-542r.
-
-[^54]: "Causa criminal seguida a la señora María Josefa Contreras, por
-    el homicidio de su joven sirvienta María Pineda", AGNC, sección
-    colonia, juicios criminales, tomo 6, doc. 27, ff. 523r-524r.
-
-[^55]: "Memorial de Juan de la Cruz Camacho, quien pagaba prisión por el
+[^44]: "Memorial de Juan de la Cruz Camacho, quien pagaba prisión por el
     homicidio de Martín de la Cruz, acogiéndose a un real indulto",
     Santa Fe, 6 de noviembre de 1805, AGNC, sección colonia, juicios
     criminales, tomo 148, doc. 19, f. 1005r.
 
-[^56]: "Publicación del indulto de 1760 en la isla de Margarita", Isla
+[^45]: "Publicación del indulto de 1760 en la isla de Margarita", Isla
     Margarita, 27 de octubre de 1762, AGNC, sección colonia, juicios
     criminales, tomo 130, doc. 24, f. 357v.
 
-[^57]: "Isla de Margarita: informe sobre su situación", Isla Margarita,
+[^46]: "Isla de Margarita: informe sobre su situación", Isla Margarita,
     3 de noviembre de 1762, AGNC, sección colonia, poblaciones varias,
     tomo 10, f. 801v
 
-[^58]: La primera corresponde al actual caserío Las Bonitas, del
+[^47]: La primera corresponde al actual caserío Las Bonitas, del
     municipio de Cedeño en el estado de Bolívar (Venezuela). La segunda
     se habría fundado cerca de Caicara del Orinoco, capital del mismo
     municipio, en la margen del río Cuchivero. Véase el mapa adjunto.
 
-[^59]: Citado en José del Rey Fajardo, *Los Jesuitas en Venezuela. Las
+[^48]: Citado en José del Rey Fajardo, *Los Jesuitas en Venezuela. Las
     misiones germen de la nacionalidad*, vol. V (Caracas: Universidad
     Católica Andrés Bello, Pontificia Universidad Javeriana, 2007), 283.
 
-[^60]: Beatriz Amalia Patiño Millán, *Criminalidad, ley penal y
+[^49]: Beatriz Amalia Patiño Millán, *Criminalidad, ley penal y
     estructura social en la provincia de Antioquia 1750-1820*, Segunda
     edición, Colección Memoria viva del bicentenario, Antioquia (Bogotá:
     Editorial Universidad del Rosario, 2013), 414 y 430.
 
-[^61]: María Victoria Montoya Gómez, "Los jueces y los desordenados: la
+[^50]: María Victoria Montoya Gómez, "Los jueces y los desordenados: la
     administración de justicia y los esfuerzos por ordenar vistos a
     través de las relaciones ilícitas. El caso de la ciudad de
     Antioquia, 1750-1809" (Tesis doctoral, Instituto de Investigaciones
     Históricas, Universidad Nacional Autónoma de México, 2013), 236.
 
-[^62]: Julián Andrei Velasco Pedraza, *Justicia para los vasallos de su
+[^51]: Julián Andrei Velasco Pedraza, *Justicia para los vasallos de su
     majestad: administración de justicia en la Villa de San Gil, siglo
     XVIII*, Colección Textos de ciencias humanas (Bogotá: Editorial
     Universidad del Rosario, 2015), 166--67; Juan Sebastián Ariza
@@ -1064,7 +951,7 @@ sentencias, y restituyeran en bienes y fama.[^92]
     (Editorial Universidad del Rosario, 2015), 139 y 145,
     http://books.scielo.org/id/jx8dk.
 
-[^63]: Andrés David Muñoz Cogaría, "'Gentes abandonadas a una conducta
+[^52]: Andrés David Muñoz Cogaría, "'Gentes abandonadas a una conducta
     la más degradante y criminal': delitos contra la propiedad y el
     honor en la Gobernación de Popayán (1750-1820)", *Historia Caribe*
     9, núm. 24 (2014): 37; "La administración de justicia penal y la
@@ -1074,49 +961,49 @@ sentencias, y restituyeran en bienes y fama.[^92]
     gobernación de Popayán (1750-1820)" (Tesis de pregrado, Universidad
     del Valle, 2011), 103 y 135--39.
 
-[^64]: Sobre la particular jurisdicción de este oficial véase Velasco
+[^53]: Sobre la particular jurisdicción de este oficial véase Velasco
     Pedraza, *Justicia para los vasallos de su majestad*, 112--21;
     Alejandro Agüero Nazar, *Castigar y perdonar cuando conviene a la
     República: la justicia penal de Córdoba del Tucumán, siglos XVII y
     XVIII* (Madrid: Centro de Estudios Políticos y Constitucionales,
     2008), 103--8.
 
-[^65]: "Causa contra Miguel González (alias el mico) por el alcalde
+[^54]: "Causa contra Miguel González (alias el mico) por el alcalde
     ordinario de Popayán", Buga y Popayán, 1706-1708, ACC, sección
     colonia, fondo judicial, núm. 74, sig. 8160 (Col. J I -13 cr).
 
-[^66]: Rodríguez Flores, *El perdón real*, 271.
+[^55]: Rodríguez Flores, *El perdón real*, 271.
 
-[^67]: Tamar Herzog, *La administración como un fenómeno social: la
+[^56]: Tamar Herzog, *La administración como un fenómeno social: la
     justicia penal de la ciudad de Quito (1650 - 1750)*, Historia de la
     sociedad política (Madrid: Centro de Estudios Constitucionales,
     1995), 248.
 
-[^68]: "Expediente formado sobre elección de cabildantes de Anserma",
+[^57]: "Expediente formado sobre elección de cabildantes de Anserma",
     Anserma y Popayán, 1783, ACC, sección colonia, fondo judicial, núm.
     711, sig. 7868 (Col. C III -11 g).
 
-[^69]: "Juicio criminal seguido ante el Gobernador de Popayán contra
+[^58]: "Juicio criminal seguido ante el Gobernador de Popayán contra
     Félix Pillimué", Guambía, 1806, ACC, sección colonia, fondo
     judicial, núm. 451, sig. 9898 (Col. J II -8 cr).
 
-[^70]: *Gaceta de Madrid*, núm. 91, 13 de noviembre de 1804, 1008.
+[^59]: *Gaceta de Madrid*, núm. 91, 13 de noviembre de 1804, 1008.
 
-[^71]: "Causa criminal seguida a José Vázquez", Popayán, 1784, ACC,
+[^60]: "Causa criminal seguida a José Vázquez", Popayán, 1784, ACC,
     sección colonia, fondo judicial, núm. 236, sig. 7861 (Col. J I -8
     cr).
 
-[^72]: "Expediente formado de los autos del proceso que se le sigue al
+[^61]: "Expediente formado de los autos del proceso que se le sigue al
     español Joseph Irasmendi", Popayán, 1784, ACC, sección colonia,
     fondo judicial, núm. 490, sig. 11988 (Col. J III -22 cr).
 
-[^73]: "Autos criminales seguidor contra Nicolás Vitonque", Popayán,
+[^62]: "Autos criminales seguidor contra Nicolás Vitonque", Popayán,
     1805, ACC, sección colonia, fondo judicial, núm. 450, sig. 9897
     (Col. J II -8 cr).
 
-[^74]: Herzog, *La administración como un fenómeno social*, 248--49.
+[^63]: Herzog, *La administración como un fenómeno social*, 248--49.
 
-[^75]: "El visitador Antonio Rodríguez al rey", Santa Fe, 23 de mayo de
+[^64]: "El visitador Antonio Rodríguez al rey", Santa Fe, 23 de mayo de
     1632, AGI, Audiencia de Santa Fe, leg. 193, n. 94. "Petición de
     indulto de Agustín de Buitrago y José de Espinosa", Santa Fe, 1655,
     AGNC, SC Colonia, Juicios Criminales, leg. 2, ff. 711-714. "Petición
@@ -1131,7 +1018,7 @@ sentencias, y restituyeran en bienes y fama.[^92]
     Zurbarán", Santa Fe, 1675, AGNC, SC Colonia, Juicios Criminales,
     leg. 216, ff. 512-518.
 
-[^76]: En esta misma tendencia podemos encontrar los hallazgos de
+[^65]: En esta misma tendencia podemos encontrar los hallazgos de
     trabajos para las provincias del Río de la Plata, en particular
     Abelardo Levaggi, "Las instituciones de clemencia en el Derecho
     penal rioplatense", *IV Congreso del Instituto Internacional de
@@ -1141,7 +1028,7 @@ sentencias, y restituyeran en bienes y fama.[^92]
     poblaciones coloniales mexicanas* (México: Fondo de Cultura
     Económica, 1987), 155.
 
-[^77]: En este sentido son relevantes los artículos de Alejandro Agüero
+[^66]: En este sentido son relevantes los artículos de Alejandro Agüero
     "'Las penas impuestas por el Divino y Supremo Juez'. Religión y
     justicia secular en Córdoba del Tucumán, siglos XVII y XVIII",
     *Jahrbuch für Geschichte Lateinamerikas* 46, núm. 1 (2013):
@@ -1154,7 +1041,7 @@ sentencias, y restituyeran en bienes y fama.[^92]
     Cuadernos de derecho judicial, VI--2006 (Madrid: Consejo General del
     Poder Judicial, 2007), 21--58.
 
-[^78]: Respecto al uso del homicidio como delito para interpretar el uso
+[^67]: Respecto al uso del homicidio como delito para interpretar el uso
     del perdón, véase Roberto J. González Zalacaín, *El perdón real en
     Castilla a fines de la Edad Media: el ejemplo de la Cornisa
     Cantábrica*, Inéditos de historia 6 (Bilbao: Universidad del País
@@ -1172,23 +1059,23 @@ sentencias, y restituyeran en bienes y fama.[^92]
     Archives: Pardon Tales and Their Tellers in Sixteenth-Century
     France* (Stanford University Press, 1987).
 
-[^79]: Se excluyó deliberadamente el fondo justicia de la sección
+[^68]: Se excluyó deliberadamente el fondo justicia de la sección
     Archivo Anexo por las condiciones de catalogación de dicho conjunto
     documental.
 
-[^80]: "Indios de Coyaima: procesados por homicidio", AGNC, sección
+[^69]: "Indios de Coyaima: procesados por homicidio", AGNC, sección
     colonia, caciques e indios, tomo 41, doc. 2, ff. 463-531.
 
-[^81]: "Indulto publicado en Santa Fe el 14 de octubre de 1808", AGNC,
+[^70]: "Indulto publicado en Santa Fe el 14 de octubre de 1808", AGNC,
     sección colonia, juicios criminales, tomo 2, doc. 14, ff. 759r-761v.
     El 30 de mayo de ese año la Suprema Junta de Gobierno promulgó en
     Sevilla, también a nombre de Fernando VII, un indulto a los
     desertores que se presentaran en esa ciudad. *Gazeta ministerial de
     Sevilla*, núm. 2, 4 de junio de 1808, 15-16.
 
-[^82]: Montoya Gómez, "Los jueces y los desordenados", 67.
+[^71]: Montoya Gómez, "Los jueces y los desordenados", 67.
 
-[^83]: Por ejemplo, el caso de un empleado de correos condenado a la
+[^72]: Por ejemplo, el caso de un empleado de correos condenado a la
     pena de muerte, se envió al virrey para su ratificación como
     superintendente y juez del tribunal de rentas; encargado de la
     jurisdicción de correos. "Causa contra Francisco Pascual Llanos",
@@ -1199,20 +1086,20 @@ sentencias, y restituyeran en bienes y fama.[^92]
     1775. "Causa contra Francisco Díaz", Quito, 1771-1775, AGNC, sección
     colonia, milicias y marina, tomo 35, doc. 9.
 
-[^84]: En este caso, fue el hermano de una de las víctimas, vecino del
+[^73]: En este caso, fue el hermano de una de las víctimas, vecino del
     pueblo de Alausí, quien en 1807 envió su causa al virrey porque
     consideraba que los jueces de Cuenca (cuyas redes, diría, se
     extendían hasta la Audiencia de Quito) habían sido sobornados por
     los asesinos. AGNC, sección colonia, juicios criminales, tomo 130,
     doc. 5.
 
-[^85]: Marta Herrera Ángel, *Ordenar para controlar: ordenamiento
+[^74]: Marta Herrera Ángel, *Ordenar para controlar: ordenamiento
     espacial y control político en las llanuras del Caribe y en los
     Andes Centrales Neogranadinos, siglo XVIII*, Colección Espiral
     (Bogotá: Instituto Colombiano de Antropología e Historia, Academia
     Colombiana de la Historia, 2002).
 
-[^86]: Hugues R. Sánchez Mejía, "De arrochelados a vecinos: reformismo
+[^75]: Hugues R. Sánchez Mejía, "De arrochelados a vecinos: reformismo
     borbónico e integración política en las gobernaciones de Santa Marta
     y Cartagena, Nuevo Reino de Granada, 1740-1810", *Revista de Indias*
     75, núm. 264 (el 30 de agosto de 2015): 459,
@@ -1221,7 +1108,7 @@ sentencias, y restituyeran en bienes y fama.[^92]
     of North Carolina Press, 2004), 43,
     http://site.ebrary.com/id/10116519.
 
-[^87]: Hacia 1772 el presbítero Diego de Peredo contabilizaba 2920
+[^76]: Hacia 1772 el presbítero Diego de Peredo contabilizaba 2920
     vecinos viviendo dentro de las murallas de la ciudad, 9160 "almas de
     confesión" ("gente libre de todas clases") y 2137 esclavos. Diego de
     Peredo, "Noticia Historial de la provincia de Cartagena de las
@@ -1229,20 +1116,20 @@ sentencias, y restituyeran en bienes y fama.[^92]
     Colombiano de Historia Social y de la Cultura*, núm. 6--7 (1972):
     132.
 
-[^88]: "Causa criminal contra Isidro Equi", Santa Marta - Santa Fe,
+[^77]: "Causa criminal contra Isidro Equi", Santa Marta - Santa Fe,
     1798-1800, AGNC, sección colonia, miscelánea, tomo 112, doc. 69.
 
-[^89]: "Causa seguida a Joaquín de Rivera, por el homicidio de José
+[^78]: "Causa seguida a Joaquín de Rivera, por el homicidio de José
     María Pérez", Quibdó, 1789, AGNC, sección colonia, juicios
     criminales, tomo 138, doc. 7.
 
-[^90]: Taylor, *Embriaguez, homicidio y rebelión en las poblaciones
+[^79]: Taylor, *Embriaguez, homicidio y rebelión en las poblaciones
     coloniales mexicanas*, 153; Muñoz Cogaría, "La administración de
     justicia", 2013, 42--43; Patiño Millán, *Criminalidad, ley penal*,
     342.
 
-[^91]: Elizondo, *Práctica universal*, tomo V, parte I, cap. VI, 82.
+[^80]: Elizondo, *Práctica universal*, tomo V, parte I, cap. VI, 82.
 
-[^92]: Algunos expedientes relevantes del caso fueron AGNC, sección
+[^81]: Algunos expedientes relevantes del caso fueron AGNC, sección
     colonia, juicios criminales, tomos 2, doc. 24; tomo 131, doc. 2;
     tomo 134, doc. 19; tomo 136, doc. 7 y 18.

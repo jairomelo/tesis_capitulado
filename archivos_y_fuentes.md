@@ -42,7 +42,8 @@ Audiencia de Panamá, 358
 
 Audiencia de Quito, 398
 
-Audiencia de Santa Fe, 193, 577B, 594, 682, 940.
+Audiencia de Santa Fe, 193, 546, 547, 548, 575, 577B, 594, 682, 940,
+1200.
 
 Indiferente general, 415, 429, 430, 538 L.YY11.
 
@@ -56,8 +57,8 @@ Sección colonia:
 >
 > Caciques e indios, tomo 41.
 >
-> Juicios criminales, tomos 2, 6, 34, 49, 54, 58, 64, 76, 87, 102, 103,
-> 114, 130, 131, 134, 136, 138, 148, 157, 176, 216.
+> Juicios criminales, tomos 2, 6, 34, 49, 54, 58, 64, 68, 76, 87, 102,
+> 103, 114, 130, 131, 134, 136, 138, 148, 157, 176, 216.
 >
 > Milicias y marina, tomos 4, 11, 16, 35, 50, 53.
 >
@@ -259,8 +260,9 @@ exercito y provincia en el Reino de la Nueva-España*. Madrid: \[s.n.\],
 ***Fuentes doctrinales, tratadística y práctica***
 
 Álvarez de Velasco, Gabriel. *De privilegiis pauperum, et miserabilium
-personarum*. Segunda edición. Lyon: Sumptibus Horatii Boissat et Georgii
-Remeus, 1663.
+personarum* \[1630\]. Segunda edición. 2 t. en 1 vol. Lyon: Sumptibus
+Horatius Boissat et Georgius Remeus, 1663. Copia digital en
+[[http://data.onb.ac.at/rec/AC09653684]{.underline}](http://data.onb.ac.at/rec/AC09653684)
 
 Álvarez Posadilla, Juan. *Práctica criminal por principios, o modo y
 forma de instruir los procesos criminales en sumario y plenario de las
@@ -367,6 +369,9 @@ Madrid: por la viuda de Alonso Martin, 1629.
 ---------. *Aforismos o dictámenes*. Nueva edición. Bruselas: en casa de
 Juan Mommarte, 1664.
 
+Novarius (o Novario), Giovanni Maria. *Tractatus de miserabilium
+personarum privilegiis* Nápoles: tipografía de Dominici Maccarani, 1637.
+
 Núñez de Toledo, Hernán. *Glosa sobre las trezientas del famoso poeta
 Juan de Mena*. Sevilla: Iuan Varela, 1528.
 
@@ -392,8 +397,8 @@ et inferiorum ab eo; de excessibus etiam eorum circa prædicium alienum
 materia perquam copiose discutitur.* Frankfurt: tipografía de Segismundo
 Latomi, 1610.
 
-Pradilla, Francisco de la. *Suma de las leyes penales*. Madrid: Imprenta
-del reino, 1639.
+Pradilla, Francisco de la. *Suma de las leyes penales.* Madrid: Imprenta
+del Reyno, 1639.
 
 Ribadeneyra, Pedro de. *Tratado de la religión y virtudes que deve tener
 el Príncipe Christiano, para governar y conservar sus estados*. Amberes:
@@ -484,6 +489,10 @@ Españoles*. Versión 2.0. 2016.
 
 ---------. *Biblioteca Virtual del Patrimonio Bibliográfico*. 2017.
 [[http://bvpb.mcu.es/es/inicio/inicio.do]{.underline}](http://bvpb.mcu.es/es/inicio/inicio.do)
+
+Österreichische Nationalbibliothek. *Digitale Bibliothek und Kataloge*.
+2019.
+[[https://www.onb.ac.at/digitale-bibliothek-kataloge]{.underline}](https://www.onb.ac.at/digitale-bibliothek-kataloge)
 
 Real Academia de la Historia. *Diccionario Biográfico Español*. 2018.
 [[http://dbe.rah.es/]{.underline}](http://dbe.rah.es/)
