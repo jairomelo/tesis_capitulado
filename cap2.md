@@ -1103,37 +1103,38 @@ privilegio de los hidalgos ser eximidos de castigo por respeto a la
 memoria de aquellos que beneficiaron la república. En el otro lado del
 espectro se hallaban los considerados dignos de misericordia o
 miserables, "aquellos cuya infelicidad mueve la compasión del
-emperador".[^165] Estos eran los pobres, los rústicos, los menores
-huérfanos, las viudas, las mujeres casadas con maridos inútiles, los
-enfermos y, para el caso americano, los indígenas.[^166] Esta calidad
-les había representado un privilegio, entendido según la tradición
-jurídico-política de la época, como la ley privada (*privata lex*)
-emitida para una persona o grupo particular con el propósito específico
-de favorecer, de manera temporal, a aquellos que por una condición
-desfavorable requirieran del apoyo de la jurisdicción regia para
-enfrentar las inequidades que podían generar en ellos las querellas
-instauradas por otros, o defender los bienes del daño que podían causar
-aquellos que quisieran aprovechar su debilidad.[^167] Desde el siglo
-XVII la concepción del privilegio se asimiló progresivamente a la de
-derecho especial, por lo que ya no sólo abarcaba a los dignos de amparo
-sino se ampliaba a otros grupos como los militares, los nobles, e
-incluso algunos oficios como los fiscales.[^168]
+emperador".[^165] Estos eran, entre otros,[^166] los pobres, los
+rústicos, los menores huérfanos, las viudas, las mujeres casadas con
+maridos inútiles, los enfermos y, para el caso americano, los
+indígenas.[^167] Esta calidad les había representado un privilegio,
+entendido según la tradición jurídico-política de la época, como la ley
+privada (*privata lex*) emitida para una persona o grupo particular con
+el propósito específico de favorecer, de manera temporal, a aquellos que
+por una condición desfavorable requirieran del apoyo de la jurisdicción
+regia para enfrentar las inequidades que podían generar en ellos las
+querellas instauradas por otros, o defender los bienes del daño que
+podían causar aquellos que quisieran aprovechar su debilidad.[^168]
+Desde el siglo XVII la concepción del privilegio se asimiló
+progresivamente a la de derecho especial, por lo que ya no sólo abarcaba
+a los dignos de amparo sino se ampliaba a otros grupos como los
+militares, los nobles, e incluso algunos oficios como los
+fiscales.[^169]
 
 Lo anterior no implica que existiese un fuero definido o un corpus de
 leyes que abarcara el privilegio de los pobres y miserables; al
 contrario, lo que caracterizaba dicha condición era la indeterminación.
 Paulino Castañeda ya había identificado en 1971 que hacer una relación
 de los privilegios concedidos a los miserables era prácticamente
-imposible.[^169] Más recientemente, Thomas Duve señaló que el privilegio
+imposible.[^170] Más recientemente, Thomas Duve señaló que el privilegio
 "más allá de ser un instituto del derecho común, llegó a ser un modo de
 pensar, una práctica cultural más allá de la metodología o la teoría del
-privilegio".[^170] De manera sintética, podría considerarse que el
+privilegio".[^171] De manera sintética, podría considerarse que el
 privilegio era *privata lex* en el sentido que no hacía parte del
 derecho común, y en el caso de los pobres y miserables era una concesión
 de piedad y gracia que el monarca como legislador hacía sobre sus
 vasallos más necesitados de amparo y tutela. Como consecuencia, se
 entendía como una renuncia a aplicar la justicia ordinaria para
-favorecer la equidad sobre el rigor.[^171]
+favorecer la equidad sobre el rigor.[^172]
 
 Durante el régimen monárquico se configuró un estado de tutela especial
 para los nativos americanos, en el cual se combinaron tres conceptos
@@ -1147,10 +1148,10 @@ justicia, encabezados por el mismo monarca. Con respecto a la minoridad,
 ésta se entendía como una limitación de la razón humana, por lo que en
 general se consideraba que los indígenas no tenían la suficiente
 capacidad para discernir entre lo bueno y lo malo, lo sacro y lo
-blasfemo, la obediencia y el desorden.[^172] Había en esta
+blasfemo, la obediencia y el desorden.[^173] Había en esta
 categorización una preconcepción del indígena como débil y pusilánime,
 que debía por lo tanto ser protegido de los españoles que trataran de
-abusar de ellos.[^173] Claramente esto estaba atado a la condición
+abusar de ellos.[^174] Claramente esto estaba atado a la condición
 jurídica que había establecido el breve *inter caetera* de 1493 en el
 que se dona a los reyes católicos el dominio legítimo sobre los
 habitantes de las Indias a cambio de encargarse de su protección y
@@ -1160,18 +1161,18 @@ sintetizaba dos cédulas, una de Felipe II en 1582 y otra de Felipe IV en
 1629, la cual decía: "Los indios son personas miserables, y de tan débil
 natural, que fácilmente se hallan molestados y oprimidos, y nuestra
 voluntad es que no padezcan vejaciones, y tengan el remedio y amparo
-conveniente por cuantas vías sean posibles".[^174]
+conveniente por cuantas vías sean posibles".[^175]
 
 Por su condición subordinada, los pobres y dignos de misericordia tenían
 una serie de prerrogativas tanto en la jurisdicción temporal como en la
 espiritual. Les competían los beneficios de restitución *in
-integrum*,[^175] la resolución sumaria y breve de los pleitos, el
+integrum*,[^176] la resolución sumaria y breve de los pleitos, el
 derecho de solicitar nuevas pruebas y testimonios cuando los
 consideraran nocivos a su causa, se les excusaba de la contumacia
-judicial,[^176] se les excusaba en ciertos casos de pagos de
-costas,[^177] y tenían caso de Corte, es decir, podían acudir
+judicial,[^177] se les excusaba en ciertos casos de pagos de
+costas,[^178] y tenían caso de Corte, es decir, podían acudir
 directamente a la audiencia, sala de alcaldes de corte o consejo, para
-litigar desde la primera instancia.[^178] Además de esto, Solórzano
+litigar desde la primera instancia.[^179] Además de esto, Solórzano
 Pereyra aconsejaba que a los indios les fueran moderadas las penas y que
 se evitaran los castigos corporales, para lo cual recomendaba a los
 jueces que "usen más de oficio de padres que de jueces severos hasta que
@@ -1179,33 +1180,33 @@ jueces que "usen más de oficio de padres que de jueces severos hasta que
 esta pobre gente". No obstante, esto no excusaba del uso riguroso de la
 justicia si se comprobaba que habían actuado con malicia para cometer
 delitos graves, lo cual los hacía indignos de templanza y benignidad en
-la pena.[^179] Por otra parte, para fortalecer el principio de amparo de
+la pena.[^180] Por otra parte, para fortalecer el principio de amparo de
 los indígenas, el rey ordenaba que hubiese un tratamiento diferenciado
 respecto a los crímenes que cometían los españoles contra los indios y
 viceversa, de tal manera que fueran los primeros tratados con mayor
 rigor cuando abusaran de los indígenas que si lo hubieran hecho contra
-otros españoles.[^180]
+otros españoles.[^181]
 
 Ahora bien, el considerarse dignos de misericordia no era equiparable a
 ser merecedores de clemencia. Aunque son términos que pueden
 considerarse equivalentes, la taxonomía de las virtudes diferenciaba la
 clemencia de la misericordia. La primera se relacionaba con moderar la
 superioridad y la venganza, en tanto la segunda movía a la compasión y
-la piedad.[^181] La misericordia en la administración de justicia
+la piedad.[^182] La misericordia en la administración de justicia
 pretendía moderar la conducta de los jueces al evitar que se tratara de
 modo preferencial (con mansedumbre) a los ricos y por el contrario a los
 pobres se les tratara con rigor. La misericordia no tenía que ver
 directamente con exculpar la pena que merecían en justicia, sino que en
-casos iguales o dudosos se favoreciera a los pobres y miserables.[^182]
+casos iguales o dudosos se favoreciera a los pobres y miserables.[^183]
 Se advertía, además, que la benevolencia con los miserables no debía
 desembocar en injusticia, como indicaba Castillo de Bovadilla, se debía
 evitar que por resolver las causas a favor de éstos se causara injuria a
 otras personas o corporaciones, y no por aparentar servicio a la
-justicia se terminara haciendo perjuicio a otros.[^183]
+justicia se terminara haciendo perjuicio a otros.[^184]
 
 Lo que hacía de las personas miserables favorables al perdón era la
 minoración de sus faltas, las cuales se presumía partían de la
-ignorancia e imprudencia propias de su calidad y condición.[^184] Un
+ignorancia e imprudencia propias de su calidad y condición.[^185] Un
 ejemplo de ello se extrae del perdón general concedido por los oidores
 de la Audiencia a los rebeldes de los barrios de Quito en 1765:
 
@@ -1221,7 +1222,7 @@ de la Audiencia a los rebeldes de los barrios de Quito en 1765:
 > conocer por todos modos la enormidad de este excecrable crimen, en
 > adelante no tendrán escusa ni podrá la misma piedad dejar de executar
 > todo el castigo que aclama la jurisdiccion bulnerada y la republica
-> escandalizada.[^185]
+> escandalizada.[^186]
 
 Esta concesión se basó en tres premisas: el indulto y perdón se
 concedieron por la misericordia y conmiseración que "debe ser" vista en
@@ -1230,7 +1231,7 @@ ignorancia; y la advertencia de que el reincidir anularía la posibilidad
 de acceder a la benignidad real. El defensor de los barrios, Domingo de
 Araujo, fue enfático en apuntar la condición miserable de los partícipes
 en "la inquietud," su estado de pobreza y el desprecio sufrido por los
-privilegiados de la ciudad.[^186] Es muy probable que los oidores
+privilegiados de la ciudad.[^187] Es muy probable que los oidores
 asumieran que apelar a la condición de dignos de misericordia de los
 sublevados fuera la estrategia más adecuada en términos políticos para
 justificar el perdón general. Si esta interpretación es correcta, la
@@ -1238,7 +1239,7 @@ acción de los magistrados estuvo acorde con lo planteado por Castillo de
 Bovadilla: "Que es mas licito indignarse el Juez contra los poderosos
 iniquos, que contra los pobres, porque la necesidad de ellos escusa la
 benignidad de los Jueces, y les mueve á que humana, y benignamente
-procedan mas presto á equidad, que á riguroso castigo".[^187]
+procedan mas presto á equidad, que á riguroso castigo".[^188]
 
 Si bien la supervivencia de la condición de los indios como miserables
 durante todo el periodo de dominio hispano puede confundirse con un
@@ -1247,7 +1248,7 @@ que los naturales podrían en algún momento igualarse a los demás
 vasallos del rey y con ello liberarse del tutelaje. Así lo esperaba el
 protector de naturales de la gobernación del Cauca en 1793 quien
 manifestó que "cultivando su razón puedan salir alguna vez del largo
-pupilaje a que los reduce la debilidad de su espíritu".[^188] Esta idea
+pupilaje a que los reduce la debilidad de su espíritu".[^189] Esta idea
 bien pudo provenir de la difusión de las ideas de Campillo y Cossío
 quien criticó el rigor de la conquista durante el reinado de Carlos V y
 en adelante el abusivo tratamiento de los indios; en tanto él proponía
@@ -1255,7 +1256,7 @@ que para establecer un buen "gobierno económico" era necesario "reducir
 á los Indios a la vida civil, tratarlos con benignidad y con dulzura;
 animarlos a la industria, y por este camino hacer de ellos vasallos
 útiles y Españoles, y no mirar con desprecio la calidad de Indios, ni
-oprimirlos, como se ha hecho y hace hoy".[^189] Resalta de inmediato en
+oprimirlos, como se ha hecho y hace hoy".[^190] Resalta de inmediato en
 la propuesta de Campillo que mientras los naturales tuviesen la "calidad
 de indios" debía ser tratados con benevolencia y suavidad, por lo tanto,
 la reforma del gobierno político estaba en concordancia con la idea
@@ -1266,7 +1267,7 @@ En un tono similar, Francisco Gil de Taboada, al asumir su empleo de
 virrey del Perú en 1790 tras haber servido el mismo oficio en el Nuevo
 Reino durante algunos meses, temía que el régimen de intendencias y
 subdelegaciones condujera al restablecimiento del sistema de
-repartimiento abolido una década antes.[^190] Según este oficial,
+repartimiento abolido una década antes.[^191] Según este oficial,
 continuar con el repartimiento condenaría a los indios eternamente a la
 "inmovilización" e "inercia", al contrario, "liberarlos" para el
 comercio sería lo que podría sacarlos de su condición de miserables:
@@ -1278,7 +1279,7 @@ comercio sería lo que podría sacarlos de su condición de miserables:
 > libremente en sus Pueblos los de las demas Castas, que se establescan
 > en éllos si les acomodare; que entablen y contraigan todo genero de
 > enlaces, que es precisamente lo que siempre ha procurado precaverse
-> por razon de los repartimientos y ambiciosas grangerias.[^191]
+> por razon de los repartimientos y ambiciosas grangerias.[^192]
 
 La política de privilegio de los indios como dignos de misericordia
 sería una constante del gobierno de las indias que no parece haberse
@@ -1288,13 +1289,13 @@ de Intendentes de Nueva España dejaba en claro que aunque se
 implementara el sistema de jueces españoles en poblados de indios, estos
 conservarían "el derecho y antigua costumbre," lo cual incluía
 claramente el "inclinar" la voluntad de los naturales "por los medios
-más suaves".[^192] Del mismo modo, la Ordenanza general de intendentes
+más suaves".[^193] Del mismo modo, la Ordenanza general de intendentes
 de 1803 conservaba el tratamiento diferenciado de los ociosos y
 "malentretenidos," considerando que aunque era necesario "desterrar la
 ociosidad de los Indios" y "aunque las circunstancias del tiempo hayan
 variado," se debía estimular el trabajo con "medios de suavidad" como
 premios y exhortaciones, antes que con el envío al servicio en presidios
-y tropas, como indicaba la pena regular.[^193]
+y tropas, como indicaba la pena regular.[^194]
 
 Aunque para los reinos de las Indias el estatus de los indígenas llame
 particularmente la atención, no por ello debe olvidarse que el
@@ -1302,17 +1303,17 @@ privilegio de pobres y miserables abarcaba a cualquier vasallo del rey
 que pudiese ser ubicado en dicha categoría. Los reos, por ejemplo,
 adquirían de manera temporal un estatus de pobreza e incluso un noble
 podía ser tratado como miserable cuando estaba en la cárcel en espera de
-sentencia.[^194] Hay que tener en cuenta que este era un estado temporal
+sentencia.[^195] Hay que tener en cuenta que este era un estado temporal
 que no equivalía al cumplimiento de la condena, puesto que al estar en
 presidio o destierro no se consideraba digno de ninguna
-conmiseración.[^195] De hecho, la mujer de un reo podía considerarse
+conmiseración.[^196] De hecho, la mujer de un reo podía considerarse
 prácticamente en la condición de una viuda, no sólo porque su esposo
 sería incapaz de proveer, sino principalmente porque al ser encarcelado
 se ordenaba el embargo de bienes y rentas familiares. Por otra parte,
 hay que resaltar que el rey distribuía su clemencia con buena parte de
 las viudas de oficiales que quedaban desamparadas e impetraban por una
 pensión que les permitiera solventar su sostenimiento y el de sus
-hijos.[^196] Como ejemplo del tono de estas solicitudes vale la pena
+hijos.[^197] Como ejemplo del tono de estas solicitudes vale la pena
 citar una carta que llegó a manos de José de Gálvez en 1780 en la que la
 samaria María Bárbara Agreda le solicita su intermediación para obtener
 una pensión del rey:
@@ -1323,7 +1324,7 @@ una pensión del rey:
 > llamando la atención de Vuestra Excelencia por un rato, le suplique
 > que atienda con benignidad a mis vozes, y haga que sonando sus ecos en
 > los piadosos oídos de el Monarcha; logre mi desamparo, la juztizia que
-> merezca.[^197]
+> merezca.[^198]
 
 Como se puede observar del extracto anterior, aunque esta viuda alegara
 una condición de desamparo, tenía la capacidad para comunicarse con el
@@ -1339,7 +1340,7 @@ y España". En su comunicación al Ministro de Gracia y Justicia la
 reclamante pretendía que se revocara el destierro que había sido
 decretado por la Audiencia de Caracas, argumentando principalmente que
 la captura de su marido se había conseguido mediante el engaño de
-habérsele ofrecido indulto a nombre del rey. Claramente, la carta
+habérsele ofrecido indulto a nombre del rey.[^199] Claramente, la carta
 pretendía mover a la piedad del magistrado o del rey al mencionar la
 condición a la que había sido reducida como consecuencia de la
 "expatriación" de su esposo:
@@ -1351,18 +1352,18 @@ condición a la que había sido reducida como consecuencia de la
 > mayormente dificultando de la justicia de su expatriamiento despues de
 > haberse prometido y empeñado la palabra y nombre del Rey para
 > seguridad de quantos denunciasen su ciencia ó implicacion directa ó
-> indirecta en el asunto.[^198]
+> indirecta en el asunto.[^200]
 
 El memorial de Josefa Ramona de Gracián incluye más elementos que
 pretenden demostrar la inocencia de su esposo, y por otra parte,
 evidenciar que con las acciones injustas contra él se había generado una
-situación que había llevado a su familia a la miseria. Aunque de Gracián
-no ocultaba que había heredado una casa de su primer matrimonio, exponía
-que esto sólo había prevenido que cayeran en la "mendicidad ostiaria",
-debido al embargo de bienes ordenado por la Audiencia. Por otra parte,
-esta mujer enfrentaba no sólo la miseria propia de la reducción de
-medios de subsistencia, sino aquella que se generaría por consecuencia
-de la infamia:
+situación que había llevado a su familia al borde de la miseria. Aunque
+de Gracián no ocultaba que había heredado una casa de su primer
+matrimonio, exponía que esto sólo había prevenido que cayeran en la
+"mendicidad ostiaria",[^201] debido al embargo de bienes ordenado por la
+Audiencia. Por otra parte, esta mujer enfrentaba no sólo la desgracia
+propia de la reducción de medios de subsistencia, sino aquella que se
+generaría por consecuencia de la infamia:
 
 > Todo seria superable á los esfuerzos de un corazon christiano. La
 > ambre y la sed podrian ser suplidas como esta susediendo por la piedad
@@ -1372,248 +1373,74 @@ de la infamia:
 > sobrevivir la criatura menor acondicionada; este borron ó pena que por
 > las Leyes, y en opinion de todas las gentes hace al hombre indigno de
 > toda consideracion cibil, rompe los vinculos que le unian á los demas
-> hombres y que le sirve comos sucede en el Yndostan con los Pilichis de
-> afrentosa dibisa para que hullan de el sus semejantes \[...\][^199]
->
-> ; esta nota esta pena ó este borron que segun las Leyes del Reyno hace
+> hombres y que le sirve como sucede en el Yndostan con los Pulichis de
+> afrentosa dibisa para que hullan de el sus semejantes; [^202] esta
+> nota, esta pena, ó este borron, que segun las Leyes del Reyno hace
 > conciderar muerto al hombre en quanto á los bienes y comodidades de
-> esta vida; son los que no pueden superarse á fuer de toda resignacion,
-> pues todabia esta incierta la suerte de Goenaga y ya es la ora que su
-> Muger é hijos se ven aislados en medio de la sociedad porque despues
-> de haber eho publica su delacion con el repentido expatriamiento y
-> seqüestro de vienes todos les huyen, todos les miran sobrecogidos y
-> todos les reputan por desgraciados ¡Oh Dolor!
+> esta vida; son los que no pueden superarse á fuer\[za\] de toda
+> resignacion, pues todabia esta incierta la suerte de Goenaga y ya es
+> la ora que su Muger é hijos se ven aislados en medio de la sociedad
+> porque despues de haber echo publica su delacion con el repentino
+> expatriamiento y seqüestro de vienes todos les huyen, todos les miran
+> sobrecogidos y todos les reputan por desgraciados ¡Oh Dolor![^203]
 
-El sacramento de la penitencia, el pecado y el perdón real
-----------------------------------------------------------
+Nótese que la suplicante, por medio de su procurador, no se atribuye el
+estatus de "pobre de solemnidad", en su lugar, clama piedad y
+misericordia para que el rey, al usar esas virtudes, ratificara el
+indulto que se ofreció en su nombre y, en consecuencia, pudiese
+recuperar la vida civil que habría perdido tras la nota de infamia
+acarreada a su familia por el destierro de Goenaga. En este caso, el
+privilegio que quiere reclamar es el de ser una de las familias
+principales de La Guaira, de hecho así lo enuncia de modo literal:
+"V\[uestra\] M\[ajestad\] siguiendo el loable egemplo de sus abuelos con
+la humanidad, religion y beneficencia que le distingue entre los demas
+soberanos del universo, no es capaz de permitir la ruina y destruccion
+del honor de una familia de las principales de este Pueblo". Pero
+también apelaba a un sentido del miserable como era la necesidad de
+amparo, surgida por la desgracia que representó perder a su esposo y
+enfrentar la infelicidad de la infamia. En el memorial, esta mujer
+solicitaba ser favorecida con la misericordia del monarca a través de su
+marido, finalmente, era la petición para la restauración de la felicidad
+y fortuna que se consideraba injustamente arrebatada tras la oferta
+engañosa del indulto real. Ser miserable no implicaba carecer de medios
+de fortuna,[^204] de la misma manera, no fueron pocos los tratadistas
+que consideraron que la condición de viuda se extendía a todas las
+formas del "marido inútil", entre ellos quienes estuviesen cautivos,
+exiliados, o condenados a galeras.[^205] Por esta razón, no era una
+contradicción el apelar al amparo de la majestad del mismo modo que lo
+haría cualquier otra viuda.
 
-En el momento que el rey decía sobre las causas de los reos a ser
-liberados "yo os perdono, para que Dios me perdone", actuaba de manera
-muy similar al párroco confesor que le decía al penitente en el momento
-de la absolución: "ego te absolvo a peccatis tuis in nomine Patris,
-etc." La penitencia era el mecanismo establecido por la iglesia católica
-para la remisión de los pecados, que consistía en tres pasos
-indispensables para retornar al favor de dios: el arrepentimiento
-(contrición o atrición), la confesión, y la absolución. La penitencia
-también era considerada como una virtud en tanto representaba el
-aborrecimiento del pecado, específicamente, el dolor que sentía el
-penitente por lo errores pasados.[^200] Era virtud en tanto la
-repugnancia de sus actos se debiese al haberse apartado de Dios con la
-falta, pero no podía considerarse arrepentimiento si este sólo se
-afligía por las consecuencias de sus actos;[^201] por ejemplo, si el
-ladrón se dolía por ser puesto preso pero no porque al robar violó un
-sagrado mandamiento, entonces no podía considerarse como virtud a su
-pena. Es por ello que, según explicaba Murillo Velarde, la penitencia no
-se hacía con la esperanza del perdón (*spe veniæ*), sino por la
-desesperación sobrenatural que produce el desagrado del pecado.[^202]
-Esta era la primera diferencia entre el perdón real y la penitencia, ya
-que el reo, sobre todo el ausente, confesaba su falta con el expreso
-propósito de obtener el indulto, con el sólo deseo de ser abrigado por
-la gracia regia.
+Otro caso similar fue el de Ignacia Admiñahorta, de quien ya tratamos en
+el capítulo anterior, aunque su situación difería ligeramente al de
+María Josefa de Gracián en tanto su esposo no estaba preso sino huido en
+los montes. La súplica de indulto incluía, como era natural, una
+manifestación de la miseria a la que había sido reducida su familia por
+la prolongada ausencia de su marido. El perdonar a su esposo
+significaría restituir su familia al *pristinum statum* previo a la
+acusación:
 
-"Sacramento es gracia divina", dijo Martín de Azpilcueta en su *Manual
-de confesores y penitentes*,[^203] por lo tanto, se debería entender
-como un don que Jesucristo brindó a los hombres (según quedó establecido
-desde el concilio de Trento) tras su resurrección, cuya facultad para
-iterar el perdón habría sido concedida a los apóstoles tras su aparición
-al decirles (de acuerdo con Jn 20:23): "A quienes remitiereis los
-pecados, les son remitidos; y a quienes se los retuviereis, les son
-retenidos".[^204] Por esta razón se consideraba que de la misma manera
-que sólo un sacerdote tenía la facultad para distribuir el bautismo y
-con ello liberar a los fieles del pecado original, eran éstos quienes
-tenían la capacidad de absolver de los pecados en nombre de dios; de
-allí que la fórmula *ego te absolvo a peccatis tui* fuera la establecida
-por el concilio tridentino para conferir la gracia divina.[^205] El
-resaltar el rol indispensable del sacerdote en la absolución divina era
-una clara respuesta a las posibles interpretaciones que pudiesen hacerse
-desde el protestantismo, en particular aquellas que consideraban que el
-mero acto de atrición o contrición podía resultar en el perdón de
-dios.[^206] El sacramento de la penitencia es sinónimo de absolución
-hecha por el sacerdote a los pecados de aquel que los confiesa
-legítimamente y es de su jurisdicción espiritual;[^207] es decir, que ha
-incumplido con el Decálogo, las obligaciones con la iglesia (oír misa
-entera los domingos, ayunar los días establecidos, pagar los diezmos,
-confesarse por lo menos una vez al año,[^208] y comulgar en Pascua), los
-siete sacramentos, o ha cometido pecados mortales.
+> absuelto por el indulto solicitara yo, con la mayor eficacia, el lugar
+> donde se hallasse, para que con la noticia de su livertad volviesse ya
+> indemnisado á poner mano en su honrada industria y travajo, no solo
+> para substentar su familia (como antes de su infortunio honrradamente
+> lo hacia) sino tambien para ir pagando á su Acreedor, que fuera de
+> especial consuelo ir cobrando aunque por partes lo que tiene por
+> perdido para subenir á las notorias estrecheses que padece. Y tambien
+> redunda en beneficio espiritual y temporal de su familia, por la
+> educacion y criansa, á mas de los alimentos, pues una pobre madre, por
+> falta de vestuario para sus hijos deja de ponerlos á la escuela,
+> ocultandolos en cueros en el rincon de su casa, por no exponerlos
+> desnudos á la irrisison y verguensa.[^206]
 
-La forma sacramental de la absolución configura un tribunal en el que el
-pecador es juzgado por la conciencia y el sacerdote, [^209] pero no se
-representaba a la penitencia como una mímica de la justicia ordinaria
-(es decir, a la usanza de los tribunales temporales y eclesiásticos);
-por el contrario, los conciliares de Trento determinaron que la
-absolución sacramental era un acto judicial e interpretarla de otra
-manera sería señal de herejía.[^210] Como lo dijo Murillo Velarde: "Esta
-absolución es un acto judicial y no un mero ministerio de pronunciar y
-de declarar que han sido perdonados los pecados de la confesión".[^211]
-La anterior era una ratificación de que el catolicismo consideraba que
-el único juez que podía dar la absolución era el sacerdote,[^212] en
-clara contraposición a las "herejías" de John Wycliffe y Martín Lutero,
-quienes no consideraban necesaria la ordenación sacerdotal para mediar
-en la absolución de los pecados.[^213]
+El fiscal de la Real Audiencia, José Peñalver Veque,
 
-En el acto judicial debían cumplirse con tres condiciones de penitencia:
-la contrición, la confesión y la satisfacción,[^214] de tal modo que en
-caso de que no se diera por satisfecho una de éstas, como en el caso de
-una confesión falsa o que ocultara información, el sacerdote tenía la
-facultad de aplazar la absolución. Una buena parte de la reforma
-protestante se sustentó en el hecho de que el mero acto de la contrición
-era suficiente para lograr la remisión, y de hecho, así se establecía
-por la teología católica. Siguiendo a Azpilcueta es posible entender que
-en la doctrina de la iglesia de Roma el dolor causado por el
-arrepentimiento y aborrecimiento del pecado hacía al pecador retornar a
-la gracia y amistad de Dios, por lo cual quedaba perdonado; pero
-concomitantemente estaba obligado a la confesión como contradonación por
-el favor recibido. Así lo resumía el tratadista: "No es contra razón,
-que uno torne a la gracia, y amistad de Dios por la contrición, que
-perdona los pecados, y quede obligado a la confesión. Como tampoco lo
-es, que uno sea perdonado del rey, y recibido a su gracia, y que quede
-obligado a servirle un año en las guerras de África".[^215] Para
-extender la comparación de Azpilcueta, podría entenderse la absolución
-como una forma de perdón condicional, en el cual la gracia quedaba
-restringida al cumplimiento de una actividad, aunque en este caso no era
-un servicio sino el acto de la confesión.[^216]
-
-Hasta ese punto la salvación quedaría garantizada para el confesor, sin
-embargo, permanecía el problema de la pena temporal. De manera general,
-con la contrición se obtenía el perdón y con la confesión la absolución
-de la culpa. No obstante, esto sólo aplicaba para la falla en el fuero
-interno, es decir, libraba del dolor del arrepentimiento y del yerro del
-pecado, pero la pena espiritual y temporal no estaría reparada hasta que
-se cumpliese con su satisfacción. La definición que daba el *Catecismo
-romano* a la satisfacción era "la recompensa de la injuria hecha a
-otro",[^217] y podía lograrse ya fuese después de la muerte en el
-purgatorio, en vida con obras satisfactorias, o con indulgencias; estas
-últimas consideradas como el modo "más fácil de satisfacer por los
-pecados" al favorecer el tesoro de la iglesia.[^218] Los canonistas
-dejaban claro que la satisfacción no era intrínseca al sacramento de la
-penitencia sino parte de ésta, de tal manera que no se pretendiera
-alcanzar la salvación al reparar el daño o restituir la cosa,[^219]
-evadiendo con ello la confesión. En aquellos casos en los cuales el
-pecador había incumplido en el fuero interno era suficiente con un acto
-de penitencia que fuese contrario a su falta, verbigracia, conminar al
-avaro a dar limosna, o al lujurioso a lastimar su carne.[^220] No
-obstante, en las situaciones en las que el yerro resultaba en una pena
-temporal, ésta debía ser satisfecha en ambos fueros: el interno y el
-externo. Lo anterior se puede ejemplificar con el delito de estupro.
-Alonso de la Peña recomendaba que a los indios culpables de violencia se
-les castigara en el fuero externo con azotes y en el fuero interno se
-les ordenara al agresor "que encomiende á Dios á la persona ofendida y
-agraviada";[^221] sin que fuera necesario que se casara con la víctima
-(como se acostumbraba en estos casos para liberar al ofensor de la
-sentencia), pues se consideraba que entre los indígenas "no llega á
-tanto la estimación que hacen de la virginidad, que pierdan
-casamiento".[^222]
-
-El sacramento de la penitencia, aunque podía conllevar una pena en el
-plano temporal, no era un acto jurídico equivalente en el derecho real.
-Por esto, la absolución hecha por el sacerdote no afectaba el derecho a
-la vindicta pública o a la satisfacción del afectado. Tampoco tenía el
-clérigo la potestad para condenar al pecador. A lo sumo, podía prorrogar
-el perdón con la expiación de la culpa, pero nunca castigar a quien
-cometía una falta, sin importar su gravedad. Esta era tal vez la
-diferencia más radical entre el tribunal ordinario y el sacramental, que
-mientras el primero buscaba purgar las culpas mediante la vindicta
-pública, para lo cual la confesión era considerada como el mecanismo por
-excelencia para determinar la culpabilidad del acusado; en el segundo se
-pretendía que la iglesia fuera ante todo dispensadora del perdón divino,
-por lo que la confesión en este caso no era condición para condenar sino
-para salvar.[^223] Paolo Prodi, desde la lectura de la patrística,
-encontró que esta idea se construyó muy temprano en el derecho del alto
-medioevo europeo: "la penitencia no suprime el delito, pero mientras
-confesar al juez lleva a la pena, confesarse ante Dios lleva al
-perdón";[^224] siempre y cuando ésta última fuese verdadera.[^225] Por
-ende, ante una misma acción el sujeto debía responder por el pecado y el
-delito, parafraseando a Bartolomé Clavero, el confesante se encontraba
-entre dos fueros, aunque la transgresión fuese la misma.[^226] En la
-situación más extrema, el condenado a morir en el patíbulo al confesar
-sus fallas no se liberaba de la pena, pero "la confesión le abría la
-puerta del cielo".[^227]
-
-Gracias a la discusión abierta por Tomás y Valiente relacionada con la
-relación entre delito y pecado, seguida por una importante cantidad de
-investigadores, es posible comprender que, antes de la transición a un
-modelo de derecho liberal, la idea de pecado era correlativa a la de
-delito. No significa lo anterior que todo pecado fuese delito,
-evidentemente un pecador por avaricia, envidia, gula, pereza, o
-soberbia, no tendría que responder ante un tribunal ordinario porque sus
-acciones, aunque en contradicción con el actuar virtuoso del buen
-cristiano, no tenían una afectación en la comunidad o en un particular.
-Los delitos gravísimos, aquellos que por lo general estaban excluidos
-del perdón real, se encontraban en convergencia con los delitos
-mortales, de los cuales seguía la condena eterna. La sentencia de último
-suplicio era indicador de que la falla era irremisible en el fuero
-externo, a la vez que coincidía con una violación grave de la ley
-divina.[^228] El profesor Aniceto Masferrer ha cuestionado esta
-concordancia entre delito y pecado al considerar que deberían entenderse
-que estos crímenes se encuentran vinculados a una tradición propia más
-cercana a la moral que a la noción teológica del pecado. Argumenta que,
-aunque es imposible negar una relación entre delito y pecado, no es
-correcto considerar que delitos como la herejía, el adulterio, o el
-suicidio, fueran considerados como tales sólo por el hecho de ser
-pecados mortales. De hecho, si existiese una equivalencia entre delito y
-pecado, sería lógico que la remisión de los crímenes se pudiera obtener
-en el tribunal de la penitencia.[^229]
-
-La cuestión es que tratamos aquí de dos perdones diferentes, ofrecidos
-por dos potestades, una divina y una humana; por lo tanto, no es en la
-ambigüedad entre pecado y delito que se encuentra el problema que nos
-atañe sino en la divergencia de fueros. Es claro que en el tribunal de
-la penitencia solamente se podría salvar aquella parte del pecado que
-ofendió a Dios, pero no necesariamente la que afectó a la república. De
-la misma manera, así como se consideraba que no existía un pecado que no
-se pudiera perdonar, tampoco existía un crimen que no se pudiese
-indultar. La clemencia permitía que cualquier delincuente, sin importar
-la gravedad de su delito, pudiese aspirar a la gracia regia incluso al
-borde del patíbulo. Bartolomé Clavero resume lo anterior en la siguiente
-frase: "Los delitos, como los pecados, estaban para ser condenados, pero
-también para resultar perdonados; las penas, como las penitencias, para
-aplicarse, mas igualmente para condonarse".[^230] En un tribunal de
-fuero mixto como el de la Inquisición, el arrepentimiento del reo
-tendría un efecto de minoración de la pena que no se mostraría en un
-tribunal de la justicia real. Por lo tanto, en un juzgado que
-específicamente se había formado para perseguir el pecado, la confesión
-tenía el mismo efecto absolutorio (si cumplía con las condiciones de
-contrición, confesión y satisfacción) que en el sacramento de la
-penitencia.[^231] El problema estaría en la separación progresiva entre
-delito y pecado como jurisdicciones particulares del fuero común y del
-espiritual respectivamente, por lo que entre más se avanza hacia el
-siglo XIX será mayor la tendencia a considerar que a penitencia como
-exclusiva de la conciencia, dejando a los juzgados ordinarios la tarea
-de decidir de acuerdo con la ley sin consideraciones propias del fuero
-interno del acusado.[^232]
-
-El arrepentimiento podría considerarse como el punto de convergencia
-entre la absolución por la penitencia y el perdón real. Como se mostró
-anteriormente, el primer requisito fundamental del sacramento de la
-reconciliación era la contrición, sin ella, la confesión no sería
-considerada válida y la absolución sería nula. Los teólogos consideraban
-además que el arrepentirse del pecado no conllevaba solamente el hecho
-de lamentarse por haber errado, sino convencerse de no volver a pecar,
-por lo tanto, se apelaba a una especie de promesa de no reincidencia del
-relapso.[^233] Así como en la justicia ordinaria se consideraba que el
-temor al castigo era el freno del criminal, en la doctrina católica se
-pretendía inculcar en los fieles el temor al castigo eterno y al dolor
-que causarían las faltas en el más allá; y esto era especialmente
-importante para el caso del adoctrinamiento de los indígenas, pues como
-decía Peña Montenegro, "para con los Indios es muy provechoso llevarlos
-á la verdad por el temor; que son hijos del castigo".[^234] Para el caso
-del perdón real el arrepentimiento no era una condición *sine qua non*
-para acceder a la gracia, es decir, no se exigía un acto de contrición
-que demostrara que no reincidiría en el crimen después de liberado. Aun
-así, se daba por supuesto que aquellos que fueran liberados de sus
-prisiones corresponderían a los reos arrepentidos de haber fallado al
-rey y la república. En ocasiones, la cédula que facultaba al virrey del
-Nuevo Reino para perdonar delitos incluía la mención de haber otorgado
-el perdón por adelantado a los delincuentes de esas provincias por haber
-actuado con ignorancia, es decir sin maldad, y hallarse "ya arrepentidos
-y prontos a obedecer mis mandatos".[^235]
-
-Finestrad: Se lamentaba de que el perdón general dado a los rebeldes se
-hubiese dado sin un arrepentimiento manifiesto de la mayoría, y les
-advertía a los vasallos que el indulto regio no les garantizaba el
-divino: Sin penitencia no muda Dios de sentencia, ni se le obliga a que
-suspenda el rigor, pues el arrepentimiento seguramente desarma sus
-justos enojos".[^236]
+> sin embargo de que esta pretencion a primera vista parece irregular y
+> de mal exemplo, con todo, consideradas las circunstancias lastimosas
+> que se expresan, de quan viudez de la impetrante y horfandad de sus
+> hijos, y \[e\]specie de destierro a que se ha sujetado el Solinas
+> \[...\] podrá Vuestra Excelencia si fuere servido arbitrar segun sus
+> superiores facultades en la solicitud de la referida
+> \[Ad\]Miñaorta.[^207]
 
 [^1]: Jesús Vallejo, "El príncipe ante el derecho en la cultura del 'ius
     commune'", en *Manual de Historia del Derecho*, ed. Marta Lorente
@@ -1772,10 +1599,10 @@ justos enojos".[^236]
 
 [^39]: Argouse, 68.
 
-[^40]: Citado en Víctor Tau Anzoátegui, *El Jurista en el Nuevo Mundo*,
-    vol. 7, Global Perspectives on Legal History (Frankfurt am Main: Max
-    Planck Institute for European Legal History, 2016), 180,
-    https://doi.org/10.12946/gplh7.
+[^40]: Citado en Víctor Tau Anzoátegui, *El jurista en el Nuevo Mundo.
+    Pensamiento. Doctrina. Mentalidad*, Global Perspectives on Legal
+    History 7 (Frankfurt am Main: Max Planck Institute for European
+    Legal History, 2016), 180, https://doi.org/10.12946/gplh7.
 
 [^41]: Feijoo, *Theatro crítico universal,* discurso XI, núm. 30.
 
@@ -2265,7 +2092,13 @@ justos enojos".[^236]
     (Lyon: Sumptibus Horatius Boissat et Georgius Remeus, 1663), parte
     II, q. I, núm. 9.
 
-[^166]: La bibliografía relativa al estatus de miserable de los
+[^166]: Un listado amplio y por lo general aceptado fue el elaborado por
+    Álvarez de Velasco, *De privilegiis pauperum*, parte II, q. III.
+    También véase Paulino Castañeda Delgado, "La condición miserable del
+    indio y sus privilegios", *Anuario de estudios americanos* 28
+    (1971): 253--58.
+
+[^167]: La bibliografía relativa al estatus de miserable de los
     indígenas americanos y su privilegio ha aumentado progresivamente
     durante las últimas décadas, de ésta vale la pena destacar: Thomas
     Duve, "La condición jurídica del indio y su condición como persona
@@ -2283,17 +2116,15 @@ justos enojos".[^236]
     hispanique", *Revue dhistoire moderne contemporaine* 64, núm. 2
     (2017): 21--38.
 
-[^167]: Paulino Castañeda Delgado, "La condición miserable del indio y
-    sus privilegios", *Anuario de estudios americanos* 28 (1971):
-    245--48.
+[^168]: Castañeda Delgado, "La condición miserable del indio", 245--48.
 
-[^168]: Thomas Duve, "El privilegio en el Antiguo Régimen y las Indias.
+[^169]: Thomas Duve, "El privilegio en el Antiguo Régimen y las Indias.
     Algunas anotaciones sobre su marco teórico-legal y la práctica
     jurídica", en *Cuerpo político y pluralidad de derechos. Los
     privilegios de las corporaciones novohispanas*, ed. Beatriz Rojas
     (México: Instituto Mora, 2007), 33--35.
 
-[^169]: Castañeda Delgado, "La condición miserable del indio", 259. Lo
+[^170]: Castañeda Delgado, "La condición miserable del indio", 259. Lo
     más cercano a una relación de los privilegios de las personas
     miserables fue hecha por el lucano Giovanni Maria Novarius (o
     Novario) en 1637, en la cual hace un recuento de 176 privilegios.
@@ -2301,37 +2132,37 @@ justos enojos".[^236]
     tipografía de Dominici Maccarani, 1637), "elenchus singulorum
     privilegiorum".
 
-[^170]: Duve, "El privilegio en el Antiguo Régimen", 34.
+[^171]: Duve, "El privilegio en el Antiguo Régimen", 34.
 
-[^171]: Novarius, *Tractatus de miserabilium*, praeludium primum,
+[^172]: Novarius, *Tractatus de miserabilium*, praeludium primum,
     privilegium 3 y 75.
 
-[^172]: Bartolomé Clavero, *Derecho indígena y cultura constitucional en
+[^173]: Bartolomé Clavero, *Derecho indígena y cultura constitucional en
     América* (Siglo XXI, 1994), 11--19.
 
-[^173]: Alejandro Cañeque, *The king's living image: the culture and
+[^174]: Alejandro Cañeque, *The king's living image: the culture and
     politics of viceregal power in colonial Mexico*, New World in the
     Atlantic world (New York, N.Y: Routledge, 2004), 164--66.
 
-[^174]: *Recopilación de las leyes de los reinos de las Indias*, lib. I,
+[^175]: *Recopilación de las leyes de los reinos de las Indias*, lib. I,
     tít. VII, ley XIII. También puede consultarse la Cédula del 27 de
     marzo de 1582 enviada específicamente a los clérigos de Nueva España
     donde les previene de los maltratos que venían sufriendo los indios
     de aquellos reinos y la necesidad de protegerlos de los abusos.
     Ayala, *Diccionario de gobierno*, voz "Indios", núm. 133.
 
-[^175]: Novarius, *Tractatus de miserabilium*, privilegium 63. Beneficio
+[^176]: Novarius, *Tractatus de miserabilium*, privilegium 63. Beneficio
     invocado de manera extraordinaria para reponer las cosas al estado
     anterior al daño provocado por un contrato o transacción. Murillo
     Velarde, *Cursus iuris canonici*, Lib. I, tít. 41, núm. 394.
 
-[^176]: Álvarez de Velasco, *De privilegiis pauperum*, parte I, q. LXV.
+[^177]: Álvarez de Velasco, *De privilegiis pauperum*, parte I, q. LXV.
     Novarius, *Tractatus de miserabilium*, privilegium 132.
 
-[^177]: *Recopilación de las leyes de los reinos de las Indias*, lib.
+[^178]: *Recopilación de las leyes de los reinos de las Indias*, lib.
     VII, tít. VI, ley XVIII y XXI.g
 
-[^178]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII,
+[^179]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII,
     núm. 25-26. Véase en particular el análisis de Cunill, "L'Indien,
     personne misérable", 30--35. Parece que el caso de corte, aunque
     estipulado doctrinalmente, fue un privilegio que no abarcó a los
@@ -2344,256 +2175,110 @@ justos enojos".[^236]
     injurias. Chile, 1700-1874", *Signos históricos* 16, núm. 32
     (diciembre de 2014): 79--80.
 
-[^179]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII,
+[^180]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII,
     núm. 28-31.
 
-[^180]: Ayala, *Diccionario de gobierno*, voz "Indios", núm. 141 y 143.
+[^181]: Ayala, *Diccionario de gobierno*, voz "Indios", núm. 141 y 143.
     *Recopilación de las leyes de los reinos de las Indias,* lib. VI,
     tít. X, ley 21. Solórzano Pereyra, *Política indiana*, Lib. II, cap.
     XXVIII, núm. 12.
 
-[^181]: Es esclarecedora la definición de la voz "misericordia" brindada
+[^182]: Es esclarecedora la definición de la voz "misericordia" brindada
     por el *Diccionario de autoridades*: "Virtud, que aficiona y inclina
     al ánimo, para que se duela y compadezca de los trabajos y miserias
     ajenas".
 
-[^182]: Lorenzo Guardiola y Sáez, *El corregidor perfecto*, Segunda
+[^183]: Lorenzo Guardiola y Sáez, *El corregidor perfecto*, Segunda
     impresión corregida y aumentada (Madrid: imprenta real, 1796), parte
     I, §III, núm. 16. Novarius, *Tractatus de miserabilium*, privilegium
     78 y 101.
 
-[^183]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
+[^184]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
     cap. II, núm. 64. Novarius, *Tractatus de miserabilium*, privilegium
     75, núm. 12.
 
-[^184]: Sobre la asimilación del miserable con la ignorancia y
+[^185]: Sobre la asimilación del miserable con la ignorancia y
     pusilanimidad: Cunill, "L'Indien, personne misérable", 22--24;
     Cañeque, *The king's living image*, 166--67.
 
-[^185]: "Testimonio de la publicación del bando de indulto", Quito, 17
+[^186]: "Testimonio de la publicación del bando de indulto", Quito, 17
     de septiembre de 1765, AGI, Quito, 398, ff. 538v-539r.
 
-[^186]: "Carta del apoderado de los barrios de Quito, Don Antonio
+[^187]: "Carta del apoderado de los barrios de Quito, Don Antonio
     Araujo, exponiendo al virrey los motivos de la inquietud", Quito, 13
     de julio de 1765, AGI, Quito, 398, f. 410r.
 
-[^187]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
+[^188]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
     cap. II, núm. 63.
 
-[^188]: "Instrucción para el mejor gobierno de los pueblos de indios",
+[^189]: "Instrucción para el mejor gobierno de los pueblos de indios",
     en José María Arboleda Llorente, *El indio en la colonia. Estudio
     basado principalmente en documentos del Archivo Central del Cauca*
     (Bogotá: Prensas del Ministerio de Educación, 1948), 195--96.
 
-[^189]: José del Campillo y Cossío, *Nuevo sistema de gobierno económico
+[^190]: José del Campillo y Cossío, *Nuevo sistema de gobierno económico
     para la América* (Madrid: imprenta de Benito Cano, 1789), cap. I,
     núm. 29, 15.
 
-[^190]: Timothy Eagan Anna, *La caída del gobierno español en el Perú:
+[^191]: Timothy Eagan Anna, *La caída del gobierno español en el Perú:
     el dilema de la independencia*, Estudios históricos 35 (Lima: IEP,
     Inst. de Estudios Peruanos, 2003), 33.
 
-[^191]: "Carta nº 103 de Francisco Gil de Taboada y Lemos, virrey de
+[^192]: "Carta nº 103 de Francisco Gil de Taboada y Lemos, virrey de
     Perú, a Antonio Valdés, Secretario de Estado de Indias, Hacienda,
     Marina y Guerra". AGI, Audiencia de Lima, leg. 691, f. 385v.
 
-[^192]: *Real ordenanza para el establecimiento e instrucción de
+[^193]: *Real ordenanza para el establecimiento e instrucción de
     intendentes de exército y provincia en el reino de la Nueva España*
     (Madrid: \[s.n.\], 1786), art. 14 y 15.
 
-[^193]: *Ordenanza general formada de orden de Su Magestad, y mandada
+[^194]: *Ordenanza general formada de orden de Su Magestad, y mandada
     imprimir y publicar para el gobierno é instrucción de intendentes,
     subdelegados y demás empleados en Indias* (Madrid: imprenta de la
     viuda de Ibarra, 1803), art. 91.
 
-[^194]: Un artículo muy interesante al respecto fue realizado por Pedro
+[^195]: Un artículo muy interesante al respecto fue realizado por Pedro
     Ortego Gil, "La estancia en prisión como causa de minoración de la
     pena (siglos XVII-XVIII)", *Anuario de derecho penal y ciencias
     penales* 54, núm. 1 (2001): 43--70.
 
-[^195]: Álvarez de Velasco, *De privilegiis pauperum*, parte II, q. XI.
+[^196]: Álvarez de Velasco, *De privilegiis pauperum*, parte II, q. III
+    y XI.
 
-[^196]: Tan sólo habría que revisar las numerosas consultas disponibles
+[^197]: Tan sólo habría que revisar las numerosas consultas disponibles
     en AGI, Santa Fe, 546 y 548
 
-[^197]: "María Bárbara de Robles a José de Gálvez", Aranjuez, 8 de mayo
+[^198]: "María Bárbara de Robles a José de Gálvez", Aranjuez, 8 de mayo
     de 1780, AGI, Santa Fe, 1200.
 
-[^198]: "Josefa Ramona de Gracián a Gaspar Melchor de Jovellanos", La
+[^199]: Los detalles de este indulto y los argumentos para expatriar a
+    quienes se acogieron serán analizados en un capítulo posterior.
+
+[^200]: "Josefa Ramona de Gracián a Gaspar Melchor de Jovellanos", La
     Guaira, 15 de marzo de 1798, AHN, Consejo de Indias, Secretaría de
     Presidencia, leg. 21672, exp. 3.
 
-[^199]: "Josefa Ramona de Gracián a Gaspar Melchor de Jovellanos". Es
-    probable que el ejemplo de los "Pulichis" del Indostán haya sido
-    tomado del periódico *Espíritu de los mejores diarios literarios que
-    se publican en Europa*, núm. 163, 12 de enero de 1789, 775.
+[^201]: La *ostiaria mendicitas* se refería a la de aquellos que se
+    postraban *ad portas* de la iglesia para pedir limosna de los
+    fieles. Viene del adjetivo latino *ostiarius*, *ii*; el cual indica
+    que algo está relacionado con una puerta.
 
-[^200]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
-    "De pœnitentiis, et remisionibus", núm. 359.
+[^202]: Es probable que el ejemplo de los "Pulichis" del Indostán haya
+    sido tomado del periódico *Espíritu de los mejores diarios
+    literarios que se publican en Europa*, núm. 163, 12 de enero de
+    1789, 775.
 
-[^201]: Alonso de la Peña Montenegro, *Itinerario para párrocos de
-    indios* \[1668\], nueva edición purgada (Madrid: oficina de Pedro
-    Marín, 1771), lib. III, trat. III, "Tratado del dolor". *Catecismo
-    del Santo Concilio de Trento para los Párrocos, ordenado por
-    disposición de San Pío V, traducido en lengua castellana por el P.
-    Fr. Agustín Zorita, religioso dominico. Según la impresión que de
-    orden del Papa Clemente XIII se hizo en Roma, año de 1761*, Tercera
-    impresión (Madrid: en la imprenta de Benito Cano, 1787), par. II,
-    cap. IV, núm. 2.
+[^203]: "Josefa Ramona de Gracián a Gaspar Melchor de Jovellanos".
 
-[^202]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
-    núm. 359.
+[^204]: Castañeda Delgado, "La condición miserable del indio", 255.
 
-[^203]: Martín de Azpilcueta, *Manual de confessores y penitentes*
-    \[1553\], (Salamanca: en casa de Andrea de Portonariis, 1556), cap.
-    XXII. Sobre el "Manual de confesores" en el contexto de las reformas
-    tridentinas y su impacto posterior, véase Isabel Muguruza Roca, "Del
-    confesionario ibérico de la Contrarreforma a los manuales para
-    confesores en la América colonial: el Manual de confesores y
-    penitentes de Martín de Azpilcueta como texto de referencia",
-    *Indiana* 35, núm. 2 (2018): 34--42,
-    https://doi.org/10.18441/ind.v35i2.29-53. Para una visión general de
-    los manuales de confesores, véase Delumeau, *Le péché et la peur*,
-    222--29.
+[^205]: \"Vidua etiam dicitur quoad fori privilegium mulier illa, quæ
+    virum quidem habet, sed captivatum, vel exulem, vel ad triremes
+    damnatum\" Giacomo Menochio, *De arbitrariis judicum* \[1569\],
+    edición enmendada y ampliada (Génova: Samuelis de Tournes, 1690),
+    lib. II, c. 66, núm. 9.
 
-[^204]: Concilio de Trento, sesión 14, "Doctrina de los santísimos
-    sacramentos de la penitencia y extrema-unción, 25 de noviembre de
-    1551", en *El Sacrosanto y Ecumenico Concilio de Trento*, trad.
-    Ignacio López de Ayala (Madrid: en la Imprenta Real, 1785), cap. I.
-    Peña Montenegro, *Itinerario para párrocos*, lib. III, trat. III,
-    preámbulo, núm. 16. Murillo Velarde, *Cursus iuris canonici*, lib.
-    V, tít. XXXVIII, núm. 360.
+[^206]: "Doña Maria Ygnacia Admiñahorta", AGNC, sección colonia, juicios
+    criminales, tomo 87, doc. 27, f. 845r-v.
 
-[^205]: Otros canonistas consideraban otras fórmulas como válidas, por
-    lo que debe considerarse que el uso de la forma citada fue la
-    adoptada y estipulada desde Trento como válida, aunque ya había sido
-    planteada como la manera de proceder según Tomás de Aquino, "Summa
-    Theologiae", IIIª q. 84 a. 3 arg. 1. Concilio de Trento, "Doctrina
-    de los santísimos sacramentos de la penitencia y extrema-unción",
-    cap. III. Murillo Velarde, lib. V, tít. XXXVIII, núm. 364.
-
-[^206]: No todas las tendencias del protestantismo tuvieron la misma
-    posición frente a la absolución de los pecados. El luteranismo y el
-    anglicanismo (en el siglo XIX también los metodistas) mantuvieron la
-    confesión privada, como medio en la primera y como sacramento en la
-    segunda, para alcanzar la absolución. El reformismo radical,
-    tendencias más radicales, como la del suizo Huldrych Zwingli,
-    apelaban a la innecesaria intermediación de un sacerdote para el
-    perdón de los pecados. Calvino se situó relativamente en medio de
-    estas dos tendencias al considerar que era factible una forma
-    colectiva de confesión e intermediación del ministro para su
-    absolución. Hans Boersma y Matthew Levering, eds., *The Oxford
-    Handbook of Sacramental Theology*, Kindle edition (Oxford, United
-    Kingdom ; New York, NY: Oxford University Press, 2015).
-
-[^207]: Azpilcueta, *Manual de confessores*, cap. XXII, "Del sacramento
-    de la penitencia".
-
-[^208]: Así había quedado impuesto desde el cuarto concilio de Letrán en
-    1215 como una estrategia para fortalecer la potestad de la iglesia
-    dentro de la pluralidad de fueros medievales. Paolo Prodi,
-    *Cristianesimo e potere*, edición electrónica (Bologna: Società
-    Editrice Il Mulino, 2013), cap. 8; Adriano Prosperi, *Delitto e
-    perdono. La pena di morte nell'orizzonte mentale dell'Europa
-    cristiana. XIV-XVIII secolo*, Nueva edición revisada (Turín:
-    Einaudi, 2016), 33.
-
-[^209]: John W. O'Malley, *Trent. What Happened at the Council*
-    (Cambridge, MA; Londres: Belknap Press of Harvard University Press,
-    2013), 153.
-
-[^210]: Azpilcueta, cap. V, "Del poder saber", núm. 7. Pérez y López,
-    *Teatro de la legislación*, tomo XXII, voz "penitencias", §VI
-    "Concilio tridentino, ses. 14, can. 9, 416.
-
-[^211]: "Quæ absolutio est actus judicialis, et non nudum ministerium
-    pronuntiandi, et declarandi, remissa ese peccata confitendi".
-    Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII, núm.
-    364.
-
-[^212]: Así lo dejaba claro el catecismo de Trento: "Porque no concedió
-    el Señor á todos la potestad de tan santo ministerio, sino á solos
-    los Obispos y Sacerdotes". *Catecismo del Santo Concilio*, par. I,
-    cap. XI, núm. 6.
-
-[^213]: "Minister hujus Sacramenti est solus Sacerdos, ut contra Wiclef
-    \[sic\], Lutherum, et alios hæreticos credentes, ómnibus Christi
-    fidelibus, etiam pueris, et foeminis, potestatem absolvendi ese
-    concessam". Murillo Velarde, lib. V, tít. XXXVIII, núm. 366.
-
-[^214]: "in corde ejus contritio in ore ejus confessio, in opere tota
-    humilitas (id est satisfactio) haec est perfecta, et fructifera
-    poenitentia" ("en su corazón la contricción, en su boca la
-    confesión, en sus obras toda la humildad (esto es la satisfacción),
-    esta es la perfecta y fructífera penitencia.") Murillo Velarde, lib.
-    V, tít. XXXVIII, núm. 361.
-
-[^215]: Azpilcueta, cap I, "De la contricson", núm. 15.
-
-[^216]: Sobre el perdón condicionado al servicio en la guerra véase
-    Rodríguez Flores, *El perdón real*, 73--74.
-
-[^217]: *Catecismo del Santo Concilio*, par. II, cap. V, núm. 62.
-
-[^218]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
-    núms. 376 y 381.
-
-[^219]: Azpilcueta, *Manual de confessores*, cap. XVII, "Que cosa es
-    restitucion", núm. 6.
-
-[^220]: Murillo Velarde, lib. V, tít. XXXVIII, núm. 377.
-
-[^221]: Peña Montenegro, *Itinerario para párrocos de indios*, lib. III,
-    trat. IV, sec. IV, núm. 4.
-
-[^222]: Peña Montenegro, lib. III, trat. IV, sec. IV, núm. 4.
-
-[^223]: Alejandro Agüero Nazar, *Castigar y perdonar cuando conviene a
-    la República: la justicia penal de Córdoba del Tucumán, siglos XVII
-    y XVIII* (Madrid: Centro de Estudios Políticos y Constitucionales,
-    2008), 360--67; Jean Delumeau, *La confesión y el perdón. Las
-    dificultades de la confesión, siglos XIII a XVIII*, trad. Mauro
-    Armiño (Madrid: Alianza, 1992), 10.
-
-[^224]: Paolo Prodi, *Una historia de la justicia: de la pluralidad de
-    fueros al dualismo moderno entre conciencia y derecho*, trad.
-    Luciano Padilla López (Madrid: Katz Editores, 2008), 43.
-
-[^225]: "Que de pécheurs et de péchés dans le monde et dans toutes les
-    conditions! Mais le pardon est toujours là, grâce à la confession.
-    Encore faut-il se confesser loyalement". Delumeau, *Le péché et la
-    peur*, 517.
-
-[^226]: Clavero, "Delito y pecado", 63.
-
-[^227]: Prosperi, *Delitto e perdono*, 33.
-
-[^228]: Tomás y Valiente, "El Derecho penal", 346--48.
-
-[^229]: Aniceto Masferrer Domingo, "La distinción entre delito y pecado
-    en la tradición penal bajomedieval y moderna: una propuesta
-    revisionista de la historiografía española, europea y anglosajona",
-    *Anuario de historia del derecho español*, núm. 87 (2017): 723--24.
-
-[^230]: Clavero, "Delito y pecado", 78.
-
-[^231]: Enrique Gacto, "El delito de bigamia y la inquisición española",
-    en *Sexo barroco y otras transgresiones premodernas*, de Francisco
-    Tomás y Valiente et al. (Madrid: Alianza, 1990), 147--49.
-
-[^232]: Ese es precisamente el tema central de Prodi, *Una historia de
-    la justicia*.
-
-[^233]: Azpilcueta, *Manual de confessores*, cap. I, "De la contrición";
-    Peña Montenegro, *Itinerario para párrocos de indios*, lib. III,
-    trat. III, sec. XI-XII.
-
-[^234]: Peña Montenegro, lib. III, trat. III, sec. XIII, núm. 9.
-
-[^235]: "El rey concede facultad al virrey Pizarro para perdonar toda
-    especie de delitos", 30 de marzo de 1749, AGI, Santa Fe, 575.
-    "Cédula expedida al virrey Solís para indultar los delitos que en
-    ella se expresan", Buen Retiro, 18 de abril de 1753, AGI, Santa Fe,
-    547.
-
-[^236]: Finestrad, 295.
+[^207]: "Doña Maria Ygnacia Admiñahorta", 845v-846r.

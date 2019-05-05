@@ -1285,7 +1285,7 @@ conducía a Cartagena, ofrecía al virrey el pago de 500 pesos a la Real
 Hacienda y 100 pesos "para que sirba á Su Magestad por la gracia del
 indulto que pido, en obsequio y reverencia de los felisisimos dias de
 Nuestro Catholico Monarca, que se celebran el dia 4 del presente mes de
-Noviembre \[de 1765\]."[^198] Admiñahorta resaltó al virrey que al
+Noviembre \[de 1765\]".[^198] Admiñahorta resaltó al virrey que al
 conceder esta gracia no se faltaba a la justicia, ni se "deservía" al
 soberano, tampoco se perjudicaba al público o se dañaba a un particular,
 "sino que antes bien se cubre la Real Hacienda," que de otro modo
@@ -1326,6 +1326,237 @@ el servicio que ganaba el rey con la promulgación de estas amplias
 gracias no lo fuera tanto de aquellos que libraba de sus prisiones como
 de la generalidad de los vasallos que asimilaban el padre de la
 monarquía con Jesucristo y su poder redentor.
+
+El sacramento de la penitencia, el pecado y el perdón real
+----------------------------------------------------------
+
+En el momento que el rey decía sobre las causas de los reos a ser
+liberados "yo os perdono, para que Dios me perdone", actuaba de manera
+muy similar al párroco confesor que le decía al penitente en el momento
+de la absolución: "*ego te absolvo a peccatis tuis in nomine Patris*,
+etc." La penitencia era el mecanismo establecido por la iglesia católica
+para la remisión de los pecados, que consistía en tres pasos
+indispensables para retornar al favor de dios: el arrepentimiento
+(contrición o atrición), la confesión, y la absolución. La penitencia
+también era considerada como una virtud en tanto representaba el
+aborrecimiento del pecado, específicamente, el dolor que sentía el
+penitente por lo errores pasados.[^203] Era virtud en tanto la
+repugnancia de sus actos se debiese al haberse apartado de Dios con la
+falta, pero no podía considerarse arrepentimiento si este sólo se
+afligía por las consecuencias de sus actos;[^204] por ejemplo, si el
+ladrón se dolía por ser puesto preso pero no porque al robar violó un
+sagrado mandamiento, entonces no podía considerarse como virtud a su
+pena. Es por ello que, según explicaba Murillo Velarde, la penitencia no
+se hacía con la esperanza del perdón (*spe veniæ*), sino por la
+desesperación sobrenatural que produce el desagrado del pecado.[^205]
+Esta era la primera diferencia entre el perdón real y la penitencia, ya
+que el reo, sobre todo el ausente, confesaba su falta con el expreso
+propósito de obtener el indulto, con el sólo deseo de ser abrigado por
+la gracia regia.
+
+"Sacramento es gracia divina", dijo Martín de Azpilcueta en su *Manual
+de confesores y penitentes*,[^206] por lo tanto, se debería entender
+como un don que Jesucristo brindó a los hombres (según quedó establecido
+desde el concilio de Trento) tras su resurrección, cuya facultad para
+iterar el perdón habría sido concedida a los apóstoles tras su aparición
+al decirles (de acuerdo con Jn 20:23): "A quienes remitiereis los
+pecados, les son remitidos; y a quienes se los retuviereis, les son
+retenidos".[^207] Por esta razón se consideraba que de la misma manera
+que sólo un sacerdote tenía la facultad para distribuir el bautismo y
+con ello liberar a los fieles del pecado original, eran éstos quienes
+tenían la capacidad de absolver de los pecados en nombre de dios; de
+allí que la fórmula *ego te absolvo a peccatis tui* fuera la establecida
+por el concilio tridentino para conferir la gracia divina.[^208] El
+resaltar el rol indispensable del sacerdote en la absolución divina era
+una clara respuesta a las posibles interpretaciones que pudiesen hacerse
+desde el protestantismo, en particular aquellas que consideraban que el
+mero acto de atrición o contrición podía resultar en el perdón de
+dios.[^209] El sacramento de la penitencia es sinónimo de absolución
+hecha por el sacerdote a los pecados de aquel que los confiesa
+legítimamente y es de su jurisdicción espiritual;[^210] es decir, que ha
+incumplido con el Decálogo, las obligaciones con la iglesia (oír misa
+entera los domingos, ayunar los días establecidos, pagar los diezmos,
+confesarse por lo menos una vez al año,[^211] y comulgar en Pascua), los
+siete sacramentos, o ha cometido pecados mortales.
+
+La forma sacramental de la absolución configura un tribunal en el que el
+pecador es juzgado por la conciencia y el sacerdote, [^212] pero no se
+representaba a la penitencia como una mímica de la justicia ordinaria
+(es decir, a la usanza de los tribunales temporales y eclesiásticos);
+por el contrario, los conciliares de Trento determinaron que la
+absolución sacramental era un acto judicial e interpretarla de otra
+manera sería señal de herejía.[^213] Como lo dijo Murillo Velarde: "Esta
+absolución es un acto judicial y no un mero ministerio de pronunciar y
+de declarar que han sido perdonados los pecados de la confesión".[^214]
+La anterior era una ratificación de que el catolicismo consideraba que
+el único juez que podía dar la absolución era el sacerdote,[^215] en
+clara contraposición a las "herejías" de John Wycliffe y Martín Lutero,
+quienes no consideraban necesaria la ordenación sacerdotal para mediar
+en la absolución de los pecados.[^216]
+
+En el acto judicial debían cumplirse con tres condiciones de penitencia:
+la contrición, la confesión y la satisfacción,[^217] de tal modo que en
+caso de que no se diera por satisfecho una de éstas, como en el caso de
+una confesión falsa o que ocultara información, el sacerdote tenía la
+facultad de aplazar la absolución. Una buena parte de la reforma
+protestante se sustentó en el hecho de que el mero acto de la contrición
+era suficiente para lograr la remisión, y de hecho, así se establecía
+por la teología católica. Siguiendo a Azpilcueta es posible entender que
+en la doctrina de la iglesia de Roma el dolor causado por el
+arrepentimiento y aborrecimiento del pecado hacía al pecador retornar a
+la gracia y amistad de Dios, por lo cual quedaba perdonado; pero
+concomitantemente estaba obligado a la confesión como contradonación por
+el favor recibido. Así lo resumía el tratadista: "No es contra razón,
+que uno torne a la gracia, y amistad de Dios por la contrición, que
+perdona los pecados, y quede obligado a la confesión. Como tampoco lo
+es, que uno sea perdonado del rey, y recibido a su gracia, y que quede
+obligado a servirle un año en las guerras de África".[^218] Para
+extender la comparación de Azpilcueta, podría entenderse la absolución
+como una forma de perdón condicional, en el cual la gracia quedaba
+restringida al cumplimiento de una actividad, aunque en este caso no era
+un servicio sino el acto de la confesión.[^219]
+
+Hasta ese punto la salvación quedaría garantizada para el confesor, sin
+embargo, permanecía el problema de la pena temporal. De manera general,
+con la contrición se obtenía el perdón y con la confesión la absolución
+de la culpa. No obstante, esto sólo aplicaba para la falla en el fuero
+interno, es decir, libraba del dolor del arrepentimiento y del yerro del
+pecado, pero la pena espiritual y temporal no estaría reparada hasta que
+se cumpliese con su satisfacción. La definición que daba el *Catecismo
+romano* a la satisfacción era "la recompensa de la injuria hecha a
+otro",[^220] y podía lograrse ya fuese después de la muerte en el
+purgatorio, en vida con obras satisfactorias, o con indulgencias; estas
+últimas consideradas como el modo "más fácil de satisfacer por los
+pecados" al favorecer el tesoro de la iglesia.[^221] Los canonistas
+dejaban claro que la satisfacción no era intrínseca al sacramento de la
+penitencia sino parte de ésta, de tal manera que no se pretendiera
+alcanzar la salvación al reparar el daño o restituir la cosa,[^222]
+evadiendo con ello la confesión. En aquellos casos en los cuales el
+pecador había incumplido en el fuero interno era suficiente con un acto
+de penitencia que fuese contrario a su falta, verbigracia, conminar al
+avaro a dar limosna, o al lujurioso a lastimar su carne.[^223] No
+obstante, en las situaciones en las que el yerro resultaba en una pena
+temporal, ésta debía ser satisfecha en ambos fueros: el interno y el
+externo. Lo anterior se puede ejemplificar con el delito de estupro.
+Alonso de la Peña recomendaba que a los indios culpables de violencia se
+les castigara en el fuero externo con azotes y en el fuero interno se
+les ordenara al agresor "que encomiende á Dios á la persona ofendida y
+agraviada";[^224] sin que fuera necesario que se casara con la víctima
+(como se acostumbraba en estos casos para liberar al ofensor de la
+sentencia), pues se consideraba que entre los indígenas "no llega á
+tanto la estimación que hacen de la virginidad, que pierdan
+casamiento".[^225]
+
+El sacramento de la penitencia, aunque podía conllevar una pena en el
+plano temporal, no era un acto jurídico equivalente en el derecho real.
+Por esto, la absolución hecha por el sacerdote no afectaba el derecho a
+la vindicta pública o a la satisfacción del afectado. Tampoco tenía el
+clérigo la potestad para condenar al pecador. A lo sumo, podía prorrogar
+el perdón con la expiación de la culpa, pero nunca castigar a quien
+cometía una falta, sin importar su gravedad. Esta era tal vez la
+diferencia más radical entre el tribunal ordinario y el sacramental, que
+mientras el primero buscaba purgar las culpas mediante la vindicta
+pública, para lo cual la confesión era considerada como el mecanismo por
+excelencia para determinar la culpabilidad del acusado; en el segundo se
+pretendía que la iglesia fuera ante todo dispensadora del perdón divino,
+por lo que la confesión en este caso no era condición para condenar sino
+para salvar.[^226] Paolo Prodi, desde la lectura de la patrística,
+encontró que esta idea se construyó muy temprano en el derecho del alto
+medioevo europeo: "la penitencia no suprime el delito, pero mientras
+confesar al juez lleva a la pena, confesarse ante Dios lleva al
+perdón";[^227] siempre y cuando ésta última fuese verdadera.[^228] Por
+ende, ante una misma acción el sujeto debía responder por el pecado y el
+delito, parafraseando a Bartolomé Clavero, el confesante se encontraba
+entre dos fueros, aunque la transgresión fuese la misma.[^229] En la
+situación más extrema, el condenado a morir en el patíbulo al confesar
+sus fallas no se liberaba de la pena, pero "la confesión le abría la
+puerta del cielo".[^230]
+
+Gracias a la discusión abierta por Tomás y Valiente relacionada con la
+relación entre delito y pecado, seguida por una importante cantidad de
+investigadores, es posible comprender que, antes de la transición a un
+modelo de derecho liberal, la idea de pecado era correlativa a la de
+delito. No significa lo anterior que todo pecado fuese delito,
+evidentemente un pecador por avaricia, envidia, gula, pereza, o
+soberbia, no tendría que responder ante un tribunal ordinario porque sus
+acciones, aunque en contradicción con el actuar virtuoso del buen
+cristiano, no tenían una afectación en la comunidad o en un particular.
+Los delitos gravísimos, aquellos que por lo general estaban excluidos
+del perdón real, se encontraban en convergencia con los delitos
+mortales, de los cuales seguía la condena eterna. La sentencia de último
+suplicio era indicador de que la falla era irremisible en el fuero
+externo, a la vez que coincidía con una violación grave de la ley
+divina.[^231] El profesor Aniceto Masferrer ha cuestionado esta
+concordancia entre delito y pecado al considerar que deberían entenderse
+que estos crímenes se encuentran vinculados a una tradición propia más
+cercana a la moral que a la noción teológica del pecado. Argumenta que,
+aunque es imposible negar una relación entre delito y pecado, no es
+correcto considerar que delitos como la herejía, el adulterio, o el
+suicidio, fueran considerados como tales sólo por el hecho de ser
+pecados mortales. De hecho, si existiese una equivalencia entre delito y
+pecado, sería lógico que la remisión de los crímenes se pudiera obtener
+en el tribunal de la penitencia.[^232]
+
+La cuestión es que tratamos aquí de dos perdones diferentes, ofrecidos
+por dos potestades, una divina y una humana; por lo tanto, no es en la
+ambigüedad entre pecado y delito que se encuentra el problema que nos
+atañe sino en la divergencia de fueros. Es claro que en el tribunal de
+la penitencia solamente se podría salvar aquella parte del pecado que
+ofendió a Dios, pero no necesariamente la que afectó a la república. De
+la misma manera, así como se consideraba que no existía un pecado que no
+se pudiera perdonar, tampoco existía un crimen que no se pudiese
+indultar. La clemencia permitía que cualquier delincuente, sin importar
+la gravedad de su delito, pudiese aspirar a la gracia regia incluso al
+borde del patíbulo. Bartolomé Clavero resume lo anterior en la siguiente
+frase: "Los delitos, como los pecados, estaban para ser condenados, pero
+también para resultar perdonados; las penas, como las penitencias, para
+aplicarse, mas igualmente para condonarse".[^233] En un tribunal de
+fuero mixto como el de la Inquisición, el arrepentimiento del reo
+tendría un efecto de minoración de la pena que no se mostraría en un
+tribunal de la justicia real. Por lo tanto, en un juzgado que
+específicamente se había formado para perseguir el pecado, la confesión
+tenía el mismo efecto absolutorio (si cumplía con las condiciones de
+contrición, confesión y satisfacción) que en el sacramento de la
+penitencia.[^234] El problema estaría en la separación progresiva entre
+delito y pecado como jurisdicciones particulares del fuero común y del
+espiritual respectivamente, por lo que entre más se avanza hacia el
+siglo XIX será mayor la tendencia a considerar que a penitencia como
+exclusiva de la conciencia, dejando a los juzgados ordinarios la tarea
+de decidir de acuerdo con la ley sin consideraciones propias del fuero
+interno del acusado.[^235]
+
+El arrepentimiento podría considerarse como el punto de convergencia
+entre la absolución por la penitencia y el perdón real. Como se mostró
+anteriormente, el primer requisito fundamental del sacramento de la
+reconciliación era la contrición, sin ella, la confesión no sería
+considerada válida y la absolución sería nula. Los teólogos consideraban
+además que el arrepentirse del pecado no conllevaba solamente el hecho
+de lamentarse por haber errado, sino convencerse de no volver a pecar,
+por lo tanto, se apelaba a una especie de promesa de no reincidencia del
+relapso.[^236] Así como en la justicia ordinaria se consideraba que el
+temor al castigo era el freno del criminal, en la doctrina católica se
+pretendía inculcar en los fieles el temor al castigo eterno y al dolor
+que causarían las faltas en el más allá; y esto era especialmente
+importante para el caso del adoctrinamiento de los indígenas, pues como
+decía Peña Montenegro, "para con los Indios es muy provechoso llevarlos
+á la verdad por el temor; que son hijos del castigo".[^237] Para el caso
+del perdón real el arrepentimiento no era una condición *sine qua non*
+para acceder a la gracia, es decir, no se exigía un acto de contrición
+que demostrara que no reincidiría en el crimen después de liberado. Aun
+así, se daba por supuesto que aquellos que fueran liberados de sus
+prisiones corresponderían a los reos arrepentidos de haber fallado al
+rey y la república. En ocasiones, la cédula que facultaba al virrey del
+Nuevo Reino para perdonar delitos incluía la mención de haber otorgado
+el perdón por adelantado a los delincuentes de esas provincias por haber
+actuado con ignorancia, es decir sin maldad, y hallarse "ya arrepentidos
+y prontos a obedecer mis mandatos".[^238]
+
+Finestrad: Se lamentaba de que el perdón general dado a los rebeldes se
+hubiese dado sin un arrepentimiento manifiesto de la mayoría, y les
+advertía a los vasallos que el indulto regio no les garantizaba el
+divino: Sin penitencia no muda Dios de sentencia, ni se le obliga a que
+suspenda el rigor, pues el arrepentimiento seguramente desarma sus
+justos enojos".[^239]
 
 [^1]: Juan Marchena Fernández, "Sin temor de rey ni de dios. Violencia,
     corrupción y crisis de autoridad en la Cartagena colonial", en
@@ -1666,7 +1897,9 @@ monarquía con Jesucristo y su poder redentor.
 [^63]: Un aspecto fundamental en la teoría de Costa es la definición del
     *processo del potere*: \"Chiamiamo processo del potere la dinamica
     della relazione P\[otente\]-S\[oggeto\] in tutti i suoi elementi
-    oggetivi e soggetivi".
+    oggetivi e soggetivi". Pietro Costa, *Iurisdictio. Semantica del
+    potere politico nella pubblicistica medievale (1100-1433)* (Milano:
+    Giuffrè Editore, 1969), 84.
 
 [^64]: Max Weber, *Wirtschaft und Gesellschaft: Grundriss der
     verstehenden Soziologie*, ed. Johannes Winckelmann, 5a ed.
@@ -1998,8 +2231,13 @@ monarquía con Jesucristo y su poder redentor.
     33.
 
 [^121]: "bonus princeps nulli debet esse formidabilis, nisi sontibus ac
-    scelerosis \[sic\], at ita rursus, ut his quoque spes veniæ reliqua
-    fiat, si modo fuerint sanabiles". Erasmus, *Institutio*, 33.
+    scelerosis, at ita rursus, ut his quoque spes veniæ reliqua fiat, si
+    modo fuerint sanabiles". Erasmus, *Institutio*, 33. *Scelerosis* es
+    una forma retórica particular en la que Erasmo utilizaba el verbo
+    *scelero*, que significa "deshonrar", la cual se solía usar por los
+    poetas para nombrar el daño resultado del vicio o el crimen. Véase
+    la consulta "scelero" en el *Latin World Study Tool*
+    ([[http://cort.as/-Hfvn]{.underline}](http://cort.as/-Hfvn))
 
 [^122]: *Digesto*, Lib. XLVIII, tit. XIX, núm. 11 y 42. "Summa
     Theologiae", IIª-IIae, q. 157 a. 3 arg. 1-3.
@@ -2457,3 +2695,173 @@ monarquía con Jesucristo y su poder redentor.
 [^201]: Hespanha, "La economía de la gracia".
 
 [^202]: Cañeque, "The Emotions of Power", 114--15.
+
+[^203]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
+    "De pœnitentiis, et remisionibus", núm. 359.
+
+[^204]: Alonso de la Peña Montenegro, *Itinerario para párrocos de
+    indios* \[1668\], nueva edición purgada (Madrid: oficina de Pedro
+    Marín, 1771), lib. III, trat. III, "Tratado del dolor". *Catecismo
+    del Santo Concilio de Trento para los Párrocos, ordenado por
+    disposición de San Pío V, traducido en lengua castellana por el P.
+    Fr. Agustín Zorita, religioso dominico. Según la impresión que de
+    orden del Papa Clemente XIII se hizo en Roma, año de 1761*, Tercera
+    impresión (Madrid: en la imprenta de Benito Cano, 1787), par. II,
+    cap. IV, núm. 2.
+
+[^205]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
+    núm. 359.
+
+[^206]: Martín de Azpilcueta, *Manual de confessores y penitentes*
+    \[1553\], (Salamanca: en casa de Andrea de Portonariis, 1556), cap.
+    XXII. Sobre el "Manual de confesores" en el contexto de las reformas
+    tridentinas y su impacto posterior, véase Isabel Muguruza Roca, "Del
+    confesionario ibérico de la Contrarreforma a los manuales para
+    confesores en la América colonial: el Manual de confesores y
+    penitentes de Martín de Azpilcueta como texto de referencia",
+    *Indiana* 35, núm. 2 (2018): 34--42,
+    https://doi.org/10.18441/ind.v35i2.29-53. Para una visión general de
+    los manuales de confesores, véase Jean Delumeau, *Le péché et la
+    peur: la culpabilisation en Occident, XIIIe-XVIIIe siècles* (Paris:
+    Fayard, 1983), 222--29.
+
+[^207]: Concilio de Trento, sesión 14, "Doctrina de los santísimos
+    sacramentos de la penitencia y extrema-unción, 25 de noviembre de
+    1551", en *El Sacrosanto y Ecumenico Concilio de Trento*, trad.
+    Ignacio López de Ayala (Madrid: en la Imprenta Real, 1785), cap. I.
+    Peña Montenegro, *Itinerario para párrocos*, lib. III, trat. III,
+    preámbulo, núm. 16. Murillo Velarde, *Cursus iuris canonici*, lib.
+    V, tít. XXXVIII, núm. 360.
+
+[^208]: Otros canonistas consideraban otras fórmulas como válidas, por
+    lo que debe considerarse que el uso de la forma citada fue la
+    adoptada y estipulada desde Trento como válida, aunque ya había sido
+    planteada como la manera de proceder según Tomás de Aquino, "Summa
+    Theologiae", IIIª q. 84 a. 3 arg. 1. Concilio de Trento, "Doctrina
+    de los santísimos sacramentos de la penitencia y extrema-unción",
+    cap. III. Murillo Velarde, lib. V, tít. XXXVIII, núm. 364.
+
+[^209]: No todas las tendencias del protestantismo tuvieron la misma
+    posición frente a la absolución de los pecados. El luteranismo y el
+    anglicanismo (en el siglo XIX también los metodistas) mantuvieron la
+    confesión privada, como medio en la primera y como sacramento en la
+    segunda, para alcanzar la absolución. El reformismo radical,
+    tendencias más radicales, como la del suizo Huldrych Zwingli,
+    apelaban a la innecesaria intermediación de un sacerdote para el
+    perdón de los pecados. Calvino se situó relativamente en medio de
+    estas dos tendencias al considerar que era factible una forma
+    colectiva de confesión e intermediación del ministro para su
+    absolución. Hans Boersma y Matthew Levering, eds., *The Oxford
+    Handbook of Sacramental Theology*, Kindle edition (Oxford, United
+    Kingdom ; New York, NY: Oxford University Press, 2015).
+
+[^210]: Azpilcueta, *Manual de confessores*, cap. XXII, "Del sacramento
+    de la penitencia".
+
+[^211]: Así había quedado impuesto desde el cuarto concilio de Letrán en
+    1215 como una estrategia para fortalecer la potestad de la iglesia
+    dentro de la pluralidad de fueros medievales. Paolo Prodi,
+    *Cristianesimo e potere*, edición electrónica (Bologna: Società
+    Editrice Il Mulino, 2013), cap. 8; Adriano Prosperi, *Delitto e
+    perdono. La pena di morte nell'orizzonte mentale dell'Europa
+    cristiana. XIV-XVIII secolo*, Nueva edición revisada (Turín:
+    Einaudi, 2016), 33.
+
+[^212]: John W. O'Malley, *Trent. What Happened at the Council*
+    (Cambridge, MA; Londres: Belknap Press of Harvard University Press,
+    2013), 153.
+
+[^213]: Azpilcueta, cap. V, "Del poder saber", núm. 7. Pérez y López,
+    *Teatro de la legislación*, tomo XXII, voz "penitencias", §VI
+    "Concilio tridentino, ses. 14, can. 9, 416.
+
+[^214]: "Quæ absolutio est actus judicialis, et non nudum ministerium
+    pronuntiandi, et declarandi, remissa ese peccata confitendi".
+    Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII, núm.
+    364.
+
+[^215]: Así lo dejaba claro el catecismo de Trento: "Porque no concedió
+    el Señor á todos la potestad de tan santo ministerio, sino á solos
+    los Obispos y Sacerdotes". *Catecismo del Santo Concilio*, par. I,
+    cap. XI, núm. 6.
+
+[^216]: "Minister hujus Sacramenti est solus Sacerdos, ut contra Wiclef
+    \[sic\], Lutherum, et alios hæreticos credentes, ómnibus Christi
+    fidelibus, etiam pueris, et foeminis, potestatem absolvendi ese
+    concessam". Murillo Velarde, lib. V, tít. XXXVIII, núm. 366.
+
+[^217]: "in corde ejus contritio in ore ejus confessio, in opere tota
+    humilitas (id est satisfactio) haec est perfecta, et fructifera
+    poenitentia" ("en su corazón la contricción, en su boca la
+    confesión, en sus obras toda la humildad (esto es la satisfacción),
+    esta es la perfecta y fructífera penitencia.") Murillo Velarde, lib.
+    V, tít. XXXVIII, núm. 361.
+
+[^218]: Azpilcueta, cap I, "De la contricson", núm. 15.
+
+[^219]: Sobre el perdón condicionado al servicio en la guerra véase
+    Rodríguez Flores, *El perdón real*, 73--74.
+
+[^220]: *Catecismo del Santo Concilio*, par. II, cap. V, núm. 62.
+
+[^221]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
+    núms. 376 y 381.
+
+[^222]: Azpilcueta, *Manual de confessores*, cap. XVII, "Que cosa es
+    restitucion", núm. 6.
+
+[^223]: Murillo Velarde, lib. V, tít. XXXVIII, núm. 377.
+
+[^224]: Peña Montenegro, *Itinerario para párrocos de indios*, lib. III,
+    trat. IV, sec. IV, núm. 4.
+
+[^225]: Peña Montenegro, lib. III, trat. IV, sec. IV, núm. 4.
+
+[^226]: Agüero Nazar, *Castigar y perdonar*, 360--67; Delumeau, *La
+    confesión y el perdón*, 10.
+
+[^227]: Prodi, *Una historia de la justicia*, 43.
+
+[^228]: "Que de pécheurs et de péchés dans le monde et dans toutes les
+    conditions! Mais le pardon est toujours là, grâce à la confession.
+    Encore faut-il se confesser loyalement". Delumeau, *Le péché et la
+    peur*, 517.
+
+[^229]: Bartolomé Clavero, "Delito y pecado", en *Sexo barroco y otras
+    transgresiones premodernas*, de Francisco Tomás y Valiente et al.
+    (Madrid: Alianza, 1990), 63.
+
+[^230]: Prosperi, *Delitto e perdono*, 33.
+
+[^231]: Francisco Tomás y Valiente, "El Derecho penal de la Monarquía
+    absoluta (Siglos XVI, XVII y XVIII)", en *Obras completas*, vol. I
+    (Madrid: Centro de Estudios Políticos y Constitucionales, 1997),
+    346--48.
+
+[^232]: Aniceto Masferrer Domingo, "La distinción entre delito y pecado
+    en la tradición penal bajomedieval y moderna: una propuesta
+    revisionista de la historiografía española, europea y anglosajona",
+    *Anuario de historia del derecho español*, núm. 87 (2017): 723--24.
+
+[^233]: Clavero, "Delito y pecado", 78.
+
+[^234]: Enrique Gacto, "El delito de bigamia y la inquisición española",
+    en *Sexo barroco y otras transgresiones premodernas*, de Francisco
+    Tomás y Valiente et al. (Madrid: Alianza, 1990), 147--49.
+
+[^235]: Ese es precisamente el tema central de Prodi, *Una historia de
+    la justicia*.
+
+[^236]: Azpilcueta, *Manual de confessores*, cap. I, "De la contrición";
+    Peña Montenegro, *Itinerario para párrocos de indios*, lib. III,
+    trat. III, sec. XI-XII.
+
+[^237]: Peña Montenegro, lib. III, trat. III, sec. XIII, núm. 9.
+
+[^238]: "El rey concede facultad al virrey Pizarro para perdonar toda
+    especie de delitos", 30 de marzo de 1749, AGI, Santa Fe, 575.
+    "Cédula expedida al virrey Solís para indultar los delitos que en
+    ella se expresan", Buen Retiro, 18 de abril de 1753, AGI, Santa Fe,
+    547.
+
+[^239]: Finestrad, 295.

@@ -357,6 +357,10 @@ Menochio, Giacomo. *De praesumptionibus, coniecturis, signis et indiciis
 commentaria* \[1595\]. 2 vol. Colonia: Ioannis Antonii et Samuelis de
 Tourmes, 1670.
 
+---------. *De arbitrariis judicum quaestionibus et caussis libri duo*
+\[1569\]. Edición enmendada y aumentada. Génova: Samuelis de Tournes,
+1690.
+
 Murillo Velarde, Pedro. *Cursus iuris canonici, hispani et indici*
 \[1743\]. Editio tertia. Madrid: Tipografía de Ulloa y Ramón Ruiz, 1791.
 Traducción española por Alberto Carrillo Cázares (coord.) *Curso de
@@ -463,6 +467,10 @@ Biblioteca Nacional de España. *Biblioteca digital hispánica*. 2018.
 
 Boletín Oficial del Estado de España. *Gazeta: colección histórica*. sf.
 [[https://www.boe.es/buscar/gazeta.php]{.underline}](https://www.boe.es/buscar/gazeta.php)
+
+Crane, Gregory R., ed. *Perseus Digital Library*. Versión 4.0 "Hopper".
+2007.
+[[http://www.perseus.tufts.edu/hopper/]{.underline}](http://www.perseus.tufts.edu/hopper/)
 
 Consortium of European Research Libraries. *CERL Thesaurus*. 2018.
 [[https://thesaurus.cerl.org/]{.underline}](https://thesaurus.cerl.org/)

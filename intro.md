@@ -109,6 +109,12 @@ disponible en la actualidad.
 
 ### Fuentes doctrinales
 
+El Fondo Especial del Colegio de Michoacán alberga una importante
+colección de fuentes doctrinales, en particular pero no exclusivamente
+del derecho canónico, y la colección general contiene un amplísimo
+catálogo de recopilaciones y facsímiles de obras jurídicas fundamentales
+para el derecho hispano-indiano.
+
 Doctrina como opinión y *auctoritas*:[^17]
 
 Saavedra Fajardo. La edición de 1642 publicada en Milán se considera
@@ -141,6 +147,66 @@ hasta el sur una extensión de cerca de 2000 kilómetros, en tanto su
 longitud no fue claramente definida, como diría Francisco Silvestre,
 este era un virreinato "cuya extensión pasa de 800 leguas por lo
 largo,[^19] y que no se le conosen límites por lo ancho."[^20]
+
+Metodología
+-----------
+
+Para los personajes fueron fundamentales los trabajos de Ainara Vásquez,
+Juana María Marín, Julián Andrei Velasco, y Víctor Manuel Uribe-Urán.
+Con estas obras fue posible tener a la mano un diccionario biográfico
+bastante amplio de varios magistrados y oficiales del Nuevo Reino.
+
+Aspectos formales
+-----------------
+
+Transcripción: se optó por respetar la grafía original, aunque
+modernizando la puntuación y desarrollando las abreviaturas. Para evitar
+ambigüedades se modernizó la acentuación cuando fuese necesario y se
+indican entre corchetes las adiciones que se hacen para suplir el
+deterioro en el documento. En ocasiones se consideró necesario aclarar
+una palabra mal escrita, por lo que se añadió al *sic* una etiqueta que
+corrige la errata (v. gr. "citación \[sic: situación\]")
+
+Recursos electrónicos: La consulta de fuentes primarias y doctrina
+hubiese constituido una tarea titánica de no ser por los recursos
+electrónicos al alcance del investigador. Sin duda, la abundancia de
+fuentes ha modificado la lógica de la consulta de fuentes doctrinales ya
+que el motor de búsqueda puede constituir una guía de lectura
+problemática. Para evitar el naufragio en el océano de la abundancia se
+optó por un método simple: evitar en lo posible el uso de metabuscadores
+con poca o ninguna curaduría. Aunque *Google Books* es una herramienta
+que permite hacer pesquisas específicas, no es tanto una utilidad para
+el descubrimiento significativo de textos; básicamente, porque la
+compañía dio prioridad a la cantidad sobre la profundidad lo que,
+incluso con un proceso de automatización avanzado, genera una importante
+cantidad de errores y malinterpretaciones en las búsquedas.[^21]
+Derivado de lo anterior, se prefirió el uso de repositorios con
+curadurías especializadas así como buscadores relacionados con éstos
+sitios, específicamente *Europeana* y la *Biblioteca Virtual del
+Patrimonio Bibliográfico*.[^22] En la sección de referencias
+bibliográficas se incluyó un apartado para listar los diferentes
+recursos electrónicos disponibles en la Web: archivos, bibliotecas,
+diccionarios, recursos para consultas semánticas, y ediciones digitales
+críticas. En las obras cuya edición específica es de difícil consulta se
+incluyó un enlace al repositorio que las alberga.
+
+Latín
+-----
+
+Para la comprensión de los textos latinos fue fundamental, sin duda
+alguna, la asesoría de la doctora Rosa Lucas, del Centro de Estudios de
+las Tradiciones; tanto su curso como la respuesta a las consultas
+subsiguientes brindaron las bases para la comprensión de la lengua
+latina, pero sobre todo, para tener el cuidado de no malinterpretar el
+sentido de palabras con falsos cognados o el intercambio descuidado de
+adjetivos por nombres. Como herramientas de ayuda fueron fundamentales,
+en primer lugar, los métodos clásicos para el aprendizaje del latín; por
+otra parte, fue de gran utilidad la aplicación *Latin Word Study Tool*
+de la biblioteca *Perseus*
+([[http://www.perseus.tufts.edu/hopper/]{.underline}](http://www.perseus.tufts.edu/hopper/))
+que permite consultar el significado de la palabra, casos,
+conjugaciones, y su contexto entre un corpus de más de 68 millones de
+palabras.
 
 [^1]: Pierre Rosanvallon y Javier Fernández Sebastián, "Historia
     intelectual y democracia. Entrevista con Pierre Rosanvallon",
@@ -277,3 +343,14 @@ largo,[^19] y que no se le conosen límites por lo ancho."[^20]
 [^20]: Francisco Silvestre, *Relación de la provincia de Antioquia*,
     Ediciones especiales 4 (Medellín: Secretaría de Educación y Cultura
     de Antioquia, 1988), 483.
+
+[^21]: Un corto ensayo fue escrito al respecto en Jairo Antonio Melo
+    Flórez, "Lectura distante, fragmentada y colaborativa en el archivo
+    infinito", *Relaciones. Estudios de Historia y Sociedad* 38, núm.
+    149 (2017): 169--89.
+
+[^22]: Unión Europea, *Europeana Collections*, 2019,
+    [[https://www.europeana.eu/]{.underline}](https://www.europeana.eu/)
+    ; Ministerio de Cultura y Deporte de España, *Biblioteca Virtual del
+    Patrimonio Bibliográfico*, 2017,
+    [[http://bvpb.mcu.es/es/inicio/inicio.do]{.underline}](http://bvpb.mcu.es/es/inicio/inicio.do)
