@@ -3,7 +3,7 @@ ANEXOS
 
 Anexo 1. Para que el Virrey de Nueva España y Gobernadores de aquel
 Reino, hagan publicar por bando lo resuelto por V. M. sobre que no se
-admitan a indulto las causas de ilícito comercio
+admitan a indulto las causas de ilícito comercio (1725)
 
 Fuente: AGI, *Indiferente General*, legajo 538, libro YY11, ff.
 262r-263r.
@@ -51,7 +51,7 @@ Fecha: 10 de diciembre de 1725
 > Igual para el Perú, en 10 de octubre.
 
 Anexo 2. Perdón general del virrey Sebastián de Eslava a los soldados de
-Cartagena
+Cartagena (1745)
 
 Fuente: AGI, Santa Fe, 940
 
@@ -158,7 +158,7 @@ Fecha: 7 de abril de 1745
 > Antemí Don Matheo Carraquilla Escrivano y Notario maior.
 
 Anexo 3. Cedula de S. M. concediendo indulto general a todo género de
-personas, cuyos delitos no merezcan la pena ordinaria de muerte
+personas, cuyos delitos no merezcan la pena ordinaria de muerte (1746)
 
 Fuente: Depósito Académico Digital Universidad de Navarra, Fondo
 Antiguo, siglo 18, URI: http://hdl.handle.net/10171/30545.
@@ -235,7 +235,7 @@ Fecha: 6 de diciembre de 1746
 Anexo 4. Cédula de S. M. concediendo indulto general a todos los
 desertores de las tropas de tierra, armadas navales, y milicias
 regladas, que se presentaren dentro del término de tres meses siguientes
-a su publicación
+a su publicación (1746)
 
 Fuente: Depósito Académico Digital Universidad de Navarra, Fondo
 Antiguo, siglo 18, URI: http://hdl.handle.net/10171/30276
@@ -305,7 +305,7 @@ Fecha: 9 de diciembre de 1746
 > Diciembre de mil setecientos quarenta y seis. YO EL REY. *Don Cenón de
 > Somodevilla* . = Es copia de la Original = *Ensenada*.
 
-Anexo 5. Real Cédula facultando al Virrey para perdonar delitos
+Anexo 5. Real Cédula facultando al Virrey para perdonar delitos (1739)
 
 Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
 Tomo 9, ff. 736r-738r.
@@ -534,7 +534,7 @@ Fecha: 28 de enero de 1760
 > doy fee = tiene tres rubricas = antemi joseph de Rosas.
 
 Anexo 7. Auto de obedecimiento de la cédula de indulto de Carlos III en
-la ciudad de Antioquia y villa de Medellín
+la ciudad de Antioquia y villa de Medellín (1761)
 
 Fuente: Archivo Histórico de Medellín, Fondo Concejo de Medellín, SC
 Colonia, SR Reales Cédulas, tomo 13, ff. 54v-56r.
@@ -600,7 +600,118 @@ Fecha: 3 de noviembre de 1761
 >
 > Solorzano.
 
-Anexo 8. Representación de la tropa levantada en Panamá en 1766
+Anexo . Solicitud de indulto del procurador de menores de la ciudad de
+Antioquia a favor del negro bozal "Antonio" y aceptación por el alcalde
+ordinario (1761)
+
+Fuente: Archivo Histórico de Antioquia, Criminal, B. 41, leg. 1740-1770,
+doc. 11, ff. 33r-35v.
+
+Lugar: Ciudad de Antioquia
+
+Fecha: 4 y 7 de noviembre de 1761
+
+> \[f. 33r\]
+>
+> S\[eñor\] Alcalde Hordinario
+>
+> Don Manuel Antonio de Toro Cataño, defensor de menores. Ante Vmd.
+> paresco segun derecho y digo: que estando siguiendo \^las defensas\^ a
+> fabor del negro Antonio de nación bosal, esclavo de Don Francisco
+> Piedrahita, en la causa criminal que pende en su jusgado por la muerte
+> que dicho negro dió a otro negro de Don Diego de la Cierra, y aunque
+> por lo actuado asta aquí no resulta mayor culpa por demostrar los
+> autos con bastate probabiblidad que hiso la muerte casual e
+> inculpablemente \[sic\], y al mismo tiempo se considera moralmente,
+> segun las circunstancias que ocirren, que no se dará en el proseso
+> prueba que conbensa de contrario, y que siempre quedaran existentes y
+> en su fuerza las beementes presunciones que resultan a su fabor en
+> virtud de las quales deviera ser declarado por libre, como lo dicen
+> los mas celebres Doctores juristas, fundados en disposiciones del
+> derecho, y entre ellos Antonio Gomes, en su celebre tratado de
+> delitos, quienes por qualquiera de las presunciones que resultan a
+> fabor de dicho reo en el proseso afirman que no se puede aplicar la
+> pena hordinaria, y concurriendo tantas como concurren ni aún la
+> arvitraria, pues para que se aplique esta conforme a derecho era
+> necesario e indispensable que hubiese algunas presunciones o \[f.
+> 33v\] semiplena prueba que no se bensiesen y destruyesen por las
+> contrarias, y como tengo demostrado en mis alegatos, la única
+> presuncion que resulta contra dicho reo y que nase del mismo echo se
+> alla bensida y destruida por las contrarias que nasen de las
+> circunstancias del echo. Pero como ayer 3 del corriente se publicó al
+> son de caxas en esta ciudad una Real Cedula de Su Magestad, por la
+> qual en demostracion de su benebolencia por la exaltacion a su Real
+> Trono, usando de la plenitud de su poder se sirve de conseder yndulto
+> a todos los reos criminosos que se allasen en las carseles al tiempo
+> de la publicacion de dicho yndulto a esepcion de los que en dicha
+> cedula se expresan, y que estos siguiendose la causa de oficio y no
+> haviendo parte querellante o que pida en el proseso, sean luego al
+> punto libres y sueltos de las priciones sin mas actuarse contra ellos,
+> condonandole de echo graciosamente el delito y todas sus penas, asi
+> personales como pecuniarias y de fisco, y que de su delito no puedan
+> ser mas acusados ni jusgados, y siendo como es la causa que se sigue
+> en el jusgado de Vmd. contra dicho negro Reo de oficio por no haver
+> abido parte que se querelle ni que pida, y así simo ser el delito que
+> aparentemente se le imputa a dicho reo, aunque lo fuera en la realidad
+> de los compreendidos en dicho yndulto como se demuestra por dicha Real
+> Cedula, cumpliendo en esta parte con el cargo de mi oficio y deseando
+> que este miserable se aprobeche del \[f. 34r\] fabor general de
+> nuestro Monarca, suplico a Vmd. rendidamente se sirva de mandar que el
+> presente escrivano le trayga a la vista dicha Real horden, caso que lo
+> tenga por conveniente, y en su virtud mandar se ponga en livertad
+> dicho negro, en cumplimiento de la Real Voluntad mediante a que no
+> cabe duda de ser uno de los comprendidos en la gracia, y no pedir otra
+> cosa Su Magestad para que se execute. El Defensor de menores pide
+> justicia. Antioquia, Nobiembre 4 de 1761
+>
+> Manuel Antonio de Toro Cataño.
+>
+> \[f. 34v\]
+>
+> En la ciudad de Antioquia á siete de Noviembre de mil setesientos
+> sesenta y un años, el señor Don Alonso Joseph del \[f. 35r\] Campillo,
+> Alcalde hordinario mas antiguo de dicha ciudad y su jurisdiccion:
+> haviendo visto estos autos, y en ellos que el delito del negro Antonio
+> no es de los comprehendidos por termino ninguno de los exceptuados por
+> la Real Zedula que su Magestad (que Dios guarde) se sirvió librar en
+> Buen Retiro a veinte y ocho de Henero del año próximo pasado de
+> setesientos y sesenta, dignandose su Magestad conceder que se
+> extendiese hasta estas Yndias por Real decreto ó declaratoria de
+> veinte y ocho de Disiembre del mismo año, sobre la indulgencia y
+> perdon con que tan liberalmente su catholica y Real piedad se digna
+> haver por perdonados misericordiosamente á todos los reos, que se
+> hallen presos en las carceles al tiempo de la publicasion de su dicha
+> Real y soberana Zedula, con excepción de los que estubiesen por los
+> crimenes, y delitos, que su Magestad misma tubo por bien exceptuar;
+> con que siendo este del referido negro Antonio de los comprehendidos
+> legitimamente en el perdon Real, dixo su merced dicho señor jues, que
+> le debía de declarar, y declara en el Real nombre de Su Magestad por
+> perdonado y absuelto de toda la culpa, de que se avía hecho meresedor
+> por el delito de la muerte que dió, aunque con \[f. 35v\]
+> involuntariedad, segun parece de los autos, al dicho negro también
+> Antonio esclabo, que fue de Don Diego Hernandez de Sierra, para que en
+> consequencia del Real perdon sea dicho negro Antonio libre desde el
+> dia de la fecha en adelante de toda la culpa, y pena, que por dicho
+> delito se avía hecho merecedor, hasta de las prisiones en que há
+> estado, y se halla, cuya diligencia se participará immediatamente á su
+> amo Don Francisco de Piedrayta, vezino de la villa de Medellín, para
+> que como acrehedor legitimo á su servidumbre disponga de él, segun
+> fuere su conveniencia, con excepcion de que si tubiere dicho negro
+> causales para ser amparado de la Real justicia, en no bolver al poder
+> de su dicho amo, y que se le de otro de nuebo, se reserba haser assí,
+> y lo mismo entregarsele á él, ó á su amo por el pressente escribano,
+> la copia que Su Magestad manda de la Real Zedula, y de este auto
+> declaratorio, signado y firmado en forma, que haga fee. Y por este
+> auto declaratorio con fuersa de difinitivo á esta causa en el estado
+> que la cogio el soberano, y Real orden de Su Magestad, assi lo
+> declaró, pronunció, mandó, y firmó, su merced dicho señor jues por
+> ante mi de que doy fee.
+>
+> Alonso Joseph del Campillo
+>
+> Juan Antonio de Orellana. Escribano público.
+
+Anexo 9. Representación de la tropa levantada en Panamá (1766)
 
 Fuente: AGI, Panamá, 358
 
@@ -728,8 +839,8 @@ Fecha: 25 de septiembre de 1766
 >
 > Joachim Figueroa
 
-Anexo 9. Orden de indulto para quienes estuvieran presos por varios
-delitos, con exclusión de los reos por crímenes de lesa majestad
+Anexo 10. Orden de indulto para quienes estuvieran presos por varios
+delitos, con exclusión de los reos por crímenes de lesa majestad (1779)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 16, ff. 146-150.
 
@@ -820,8 +931,9 @@ Fecha: 23 de febrero de 1779
 > habilitado por S. M. en ausencia del Señor Secretario. Don Antonio de
 > Prado.
 
-Anexo 10. Real Cédula de indulto y perdón general a todos los reos,
+Anexo 11. Real Cédula de indulto y perdón general a todos los reos,
 concedida por el nacimiento del príncipe don Carlos Domingo Eusebio
+(1780)
 
 Fuente: Archivo Histórico de Medellín, Fondo Concejo de Medellín, SC
 Colonia, SR Reales Cédulas, tomo 33, ff. 332r-334v.
@@ -880,10 +992,10 @@ Fecha: 8 de junio de 1780
 > Por mandado del Rey nuestro señor Miguel de San Martin Cueto. Hay tres
 > rúbricas.
 
-Anexo 11. Edicto para manifestar al público el indulto general,
+Anexo 12. Edicto para manifestar al público el indulto general,
 concedido por nuestro Católico Monarca el Señor Don Carlos III a todos
 los comprehendidos en las revoluciones acaecidas en el año pasado de mil
-setecientos ochenta y uno
+setecientos ochenta y uno (1782)
 
 Fuente: Biblioteca Nacional de Colombia, Fondo Quijano, vol. 254, pza.
 10.
@@ -1358,10 +1470,10 @@ Fecha: 6 de agosto de 1782
 >
 > Antonio Arzobispo Virrey de Santa Fé
 
-Anexo 12. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
+Anexo 13. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
 indulto que ha concedido a los compreendidos en las alteraciones pasadas
 y hace distintas reflexiones acalarando las razones que ha tenido para
-expedirlo en los términos que está
+expedirlo en los términos que está (1783)
 
 Fuente: \"Correspondencia reservada del Excelentísimo Señor Arzobispo
 Virrey Don Antonio Cavallero y Gongora; años de 83, 83 y 84\", BLAA,
@@ -1530,7 +1642,8 @@ Fecha: 15 de octubre de 1783
 >
 > *Excelentísimo Señor Don José de Galvez*
 
-Anexo 13. Real Decreto sobre indulto de militares procesados por delitos
+Anexo 14. Real Decreto sobre indulto de militares procesados por delitos
+(1783)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 53, ff. 188-189.
 Archivo Histórico de Medellín, Fondo Concejo de Medellín, SC Colonia, SR
@@ -1612,7 +1725,7 @@ Fecha: 10 de octubre de 1783
 > guarde á V. \_\_\_ muchos años. Madrid 10 de Octubre de 1783. = Don
 > Matéo de Villamayor.
 
-Anexo 14. Indulto general de 1784
+Anexo 15. Indulto general (1784)
 
 Fuente: AGNC, S Colonia, F Real Audiencia, SC Cundinamarca, leg. 17, ff.
 744r-745v.
@@ -1695,7 +1808,7 @@ Fecha: 16 de enero de 1784
 >
 > Fuy presente, Calvo.
 
-Anexo 15. Indulto de desertores de 1789
+Anexo 16. Indulto de desertores (1789)
 
 Fuente: Félix Colón de Larreátegui, *Juzgados militares de España y sus
 Indias,* tomo IV (Madrid: por la viuda de Ibarra, 1789), 193-194, n. 1.
@@ -1764,8 +1877,8 @@ Fecha: 16 de enero de 1789
 >
 > Don Gerónimo Caballero
 
-Anexo 16. Real Decreto de Carlos IV sobre indulto a los desertores del
-ejército con motivo del matrimonio de su hijo Fernando
+Anexo 17. Real Decreto de Carlos IV sobre indulto a los desertores del
+ejército con motivo del matrimonio de su hijo Fernando (1802)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 50, f. 1091.
 
@@ -1823,8 +1936,8 @@ Fecha: 5 de octubre de 1802
 >
 > Sr. Virey de Santa Fé
 
-Anexo 17. Indulto de la pena de privación de empleo a oficiales que se
-hubieran casado sin el Real permiso
+Anexo 18. Indulto de la pena de privación de empleo a oficiales que se
+hubieran casado sin el Real permiso (1802)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 11, ff. 984-985.
 
@@ -1866,8 +1979,8 @@ Fecha: 5 de octubre de 1802
 >
 > \[José Antonio\] Caballero
 
-Anexo 18. Real Cédula sobre indulto general concedido con motivo del
-matrimonio del Príncipe
+Anexo 19. Real Cédula sobre indulto general concedido con motivo del
+matrimonio del Príncipe (1803)
 
 Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
 Tomo 35.
@@ -1948,8 +2061,8 @@ Fecha: 25 de julio de 1803
 >
 > Yo El Rey
 
-Anexo 19. Indulto de desertores: decreto del gobierno peninsular al
-respecto
+Anexo 20. Indulto de desertores: decreto del gobierno peninsular al
+respecto (1804)
 
 Fuente: AGNC, Colonia, fondo milicias y marina, tomo 100, f. 13.
 
@@ -2002,9 +2115,9 @@ Fecha: 29 de octubre de 1804
 >
 > Sr. Virrey del Nuevo Reyno de Granada
 
-Anexo 20. Real Decreto de José Napoleón por el que se otorga el indulto
+Anexo 21. Real Decreto de José Napoleón por el que se otorga el indulto
 general a los oficiales y soldados desertores que prestasen el juramento
-prescrito en la Constitución.
+prescrito en la Constitución (1808)
 
 Fuente: AHNE, ESTADO, 3092, Exp.11
 
@@ -2092,7 +2205,7 @@ Fecha: 23 de julio de 1808
 >
 > Al Ministro de Negocios extranjeros
 
-Anexo 21. Indulto promulgado por el virrey Antonio Amar y Borbón
+Anexo 22. Indulto promulgado por el virrey Antonio Amar y Borbón (1808)
 
 Fuente: AGNC, Sección Colonia, Juicios Criminales, Leg. 2, doc. 14, ff.
 758r-761v

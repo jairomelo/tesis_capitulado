@@ -45,7 +45,7 @@ Audiencia de Quito, 398
 Audiencia de Santa Fe, 193, 546, 547, 548, 575, 577B, 594, 682, 940,
 1200.
 
-Indiferente general, 415, 429, 430, 538 L.YY11.
+Indiferente general, 415, 429, 430, 538 YY10 - YY11.
 
 Papeles de Cuba, 717.
 
@@ -58,9 +58,9 @@ Sección colonia:
 > Caciques e indios, tomo 41.
 >
 > Juicios criminales, tomos 2, 6, 34, 49, 54, 58, 64, 68, 76, 87, 102,
-> 103, 114, 130, 131, 134, 136, 138, 148, 157, 176, 216.
+> 103, 114, 130, 131, 134, 136, 138, 148, 157, 176, 216, 217.
 >
-> Milicias y marina, tomos 4, 11, 16, 35, 50, 53.
+> Milicias y marina, tomos 4, 11, 16, 35, 50, 53, 99.
 >
 > Miscelánea, tomos 59, 112.
 >
@@ -69,6 +69,8 @@ Sección colonia:
 > Real Audiencia
 
 Cundinamarca, tomo 17
+
+Magdalena, tomo 4
 
 Virreyes, tomo 1.
 
@@ -86,8 +88,8 @@ Sección gobierno, fondo gobernación de Antioquia:
 
 ***Archivo Histórico de Medellín (Medellín)***
 
-Fondo Concejo de Medellín, sección colonia, reales cédulas, tomos 33,
-37.
+Fondo Concejo de Medellín, sección colonia, reales cédulas, tomos 13,
+33, 37.
 
 ***Archivo Histórico Nacional (Madrid)***
 
@@ -120,6 +122,9 @@ Libros manuscritos
 Moreno y Escandón, Francisco Antonio. *Estado del virreynato de Santa
 Fee, Nuevo Reyno de Granada y Relación de su Gobierno y Mando del Exmo.
 Señor Bailío Don Pedro Mesía de la Cerda*. BDH-BNE, Mss/3118, 1772.
+
+*Papeles referentes a los esclavos negros en América*. BDH-BNE,
+Mss/8734, sf.
 
 Fuentes primarias impresas
 --------------------------

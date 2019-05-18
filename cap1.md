@@ -908,7 +908,7 @@ Una interpretación contrafactual de los posibles efectos de retirar el
 perdón en la tropa sublevada puede ser analíticamente débil, sin
 embargo, hubo ocasiones donde el mantener la palabra empeñada sirvió
 como argumento a favor del reo. Como ejemplo sirve la comunicación que
-Josefa Ramona de Gracian envió al ministro de gracia y justicia, Melchor
+Josefa Ramona de Gracián envió al ministro de gracia y justicia, Melchor
 Gaspar de Jovellanos, en la cual reclamaba el apresamiento y remisión a
 España de su esposo, Martín de Goenaga, quien fue perdonado tras
 confesar haber sido cómplice de la denominada "conspiración de Gual y
