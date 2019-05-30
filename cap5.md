@@ -1,328 +1,1447 @@
-Capítulo V. El perdón y el desorden
-===================================
+La aplicación particular del perdón \[título temporal\]
+=======================================================
 
-Ordenar el desorden fue uno de los objetivos principales del gobierno de
-la justicia en el orbe hispánico-indiano. El desorden era lo opuesto a
-la república, aquello que confundía, perturbaba o pervertía el orden
-primigenio, natural y divino del mundo. El sujeto desordenado era aquel
-cuya vida no se regía por los principios virtuosos que demarcaban el
-arquetipo de una vida cristiana, obediente, respetuosa, temerosa y
-amorosa de sus majestades divina y humana. Por su naturaleza imperfecta,
-el hombre se dejaría llevar por sus impulsos irrestrictamente hacia los
-vicios, origen de todo mal, y sólo de la mano de la justicia del cielo y
-de la tierra serían capaces de contener al intemperante y asegurar con
-ello su vida en común. Recomendaba Andrés Mendo a los príncipes que no
-permitieran gente ociosa en sus reinos pues del ocio se engendran los
-delitos; puntualmente decía: "Vanse introduciendo desordenes en las
-Republicas, porque viven no pocos en ociosidad, que los engendra;
-Evitarianse muchos, si no se consietiese."[^1] También el rey podía ser
-un desordenado al caer en la gula, la pereza o la ira, con el agravante
-que de su mal ejemplo sería imitado por sus vasallo; por ende, el
-desorden del rey es asimismo el de la república.[^2] De un modo más
-amplio, el desorden podía extenderse hacia cualquier desviación de la
-equidad, podía ser asimismo un abuso de la virtud, como lo decía
-Saavedra Fajardo en la empresa ya citada en el primer capítulo: "la
-*cleméncia* desordenada cria desprecios, ocasiona desacátos, y causa la
-ruina de los Estádos."[^3] Siguiendo esta idea, puede considerarse que
-en tanto la justicia se consideraba vinculada con la equidad, el
-desorden lo estaba con la iniquidad; en esencia, es una contraposición
-entre los extremos de la bondad y la maldad. Actuar en justicia o, lo
-que es lo mismo, restaurar la equidad, implicaba temperar vicio y
-virtud, reducir todo a su justo medio y con ello conseguir la paz de los
-pueblos.
+Este capítulo se ciñe a la jurisdicción de la Audiencia de Santa Fe,
+sería de esperar que en una posible futura investigación, se realice una
+comparación entre audiencias del orbe Indiano.
 
-Aunque las instrucciones dadas a los oficiales encargados del gobierno
-resaltaban el uso prioritario de los "medios suaves" a la vez que
-desincentivaban el uso de la fuerza, el margen de acción legítima del
-pacificador le permitía escoger cualquiera de los dos caminos según lo
-dictara su prudencia. Como se ha señalado anteriormente, el problema no
-radicaba tanto en qué medio se utilizaba sino en los efectos que se
-conseguían tras su uso. Que la benevolencia o el rigor fueran utilizados
-era un asunto secundario, en tanto se lograra recuperar la tranquilidad
-o reducir a los rebeldes; cuando fracasaba la actuación del oficial
-enviado a contener el desorden venía la amonestación por su desatino. No
-obstante, el medio preferido para contener el desorden fue la
-combinación de negociación, perdón y, si era posible, la ejecución de
-unos cuantos castigos ejemplarizantes. Incluso los cabecillas, como
-mostró William B. Taylor para el caso novohispano, eran muchas veces
-puestos en libertad antes de ejecutar las sentencias o indultados con la
-advertencia de aplicar severo castigo en caso de reincidir en su
-rebeldía.[^4] Si bien se suele relacionar esta política de negociación
-con los indígenas rebeldes, las investigaciones que se han dedicado en
-las últimas décadas a explorar las poblaciones de origen africano,
-específicamente aquellas que optaron por el cimarronaje y la erección de
-palenques, muestran cada vez más que, por una parte, el desorden fue un
-acto excepcional y localizado y, por otra parte, que la política de
-pactos fue utilizada comúnmente con estas poblaciones, llegando a
-reconocer sus poblados, autoridades y costumbres.[^5]
+La criminalidad y el perdón
+---------------------------
 
-Desde por los menos la década de 1770 se hace evidente un cambio en la
-estrategia de pacificación de la frontera del virreinato. La expulsión
-de los jesuitas implicó el remplazo de las misiones como la punta de
-lanza de la pacificación de los indígenas rebeldes, a partir de ese
-momento, la mano militar se presentó como la opción que redundaría en
-los mejores y más eficaces resultados para culminar el proceso de
-control y colonización de la frontera. Como afirmó Allan Kuethe, "the
-winning of souls, previously an important consideration along with
-extending government control, became almost an afterthought, eclipsed by
-the desire for a rapid and effective occupation."[^6] A pesar de esto,
-el principio de "reducción por medios suaves" no fue suplantado. Se
-consideraba que el uso del rigor sería efectivo para calmar los ánimos,
-incrementar la autoridad regia en regiones sin pacificar, y demostrar,
-al final de cuentas, que el poderío de la corona podría apaciguar por la
-fuerza a quienes no quisieran hacerlo por la vía pacífica.
+En noviembre de 1794 el alcalde ordinario de Santa Marta, Ramón José de
+Zúñiga, recibió la noticia de un grupo de mulatos y negros que se
+encontraban recreándose con juegos prohibidos en la casa de una mujer
+llamada Simona Noriega; entre ellos un esclavo de doña María Luisa
+Guerra de nombre Pedro, un miliciano del regimiento de dicha ciudad
+llamado Toribio Pereira, y el mulato Juan José Martínez, apodado
+"Macuto", natural del pueblo homónimo en la jurisdicción de La Guaira.
+Lo que llamó la atención de los presentes fue que "Macuto" tuviese en su
+poder monedas de oro y plata fuerte "que no parecía averlas de tener al
+parecer de miserable".[^1] Por esta razón, el alcalde ordinario ordenó
+interrogar a Simona Noriega y dar con el paradero de los involucrados en
+los juegos ilícitos. A los pocos días fue capturado Juan Víctor López,
+vecino de Coro de aproximadamente 25 años, quien testificó que había
+estado pasando de puerto en puerto entre Haití, Cuba y Jamaica, hasta
+que en esta isla fue recogido por una balandra propiedad del francés
+"Monsieur Loré", la cual contaba con una tripulación compuesta por un
+blanco natural de Maracaibo y vecino de Valledupar de nombre Martín
+Cortés, el esclavo bozal del amo del buque llamado "Cofí", y el mulato
+"Macuto". López dijo que fue hecho contramaestre de la embarcación y que
+fondearon en los Cayos de San Luis, en la colonia francesa de Santo
+Domingo, cuando un "alboroto con los mulatos" hizo que convenciera a la
+tripulación de cortar las amarras, abandonar al capitán francés, y huir
+del lugar en búsqueda de costa firme. De allí lograron arribar a las
+costas de Bocas de Ceniza y vararon cerca al puerto de Caimán, en las
+playas del pueblo de Tubará, donde inspeccionaron los baúles del barco y
+procedieron a repartirse los valores que encontraron en ellos. [^2]
 
-Tal vez el mejor ejemplo de esta idea la haya presentado el entonces
-fiscal protector de indios, Antonio Moreno y Escandón, quien en 1772
-representaba al rey, a nombre del virrey Messía de la Cerda, la
-desilusión con el sistema de pacificación liderado por las misiones.[^7]
-En su *Estado del virreinato* decía, que este reino padecía de "la
-conocida desgracia de que apenas tiene provincia que no viva infestada
-por alguna parte de yndios bárbaros que repentinam\[en\]te acometen con
-desorden a los españoles, causando con las inquietudes estragos en vidas
-y haciendas."[^8] Aprovechaba para quejarse por la obligación que tenía,
-como protector de naturales, de procurar reducir a los rebeldes con
-suavidad y sin el uso de las armas. Decía que después de tres siglos de
-aplicar esa estrategia ningún fruto se había producido, y al contrario,
-había hecho más rebeldes a los indios quienes aceptaban bautizarse e
-introducir las costumbres españolas en sus pueblos para, después de
-conseguir la paz, atacar nuevamente a los españoles. Por ello,
-solicitaba al rey que se "dignase á facultar este sup\[eri\]or gobierno,
-á fin de que en defensa de sus Dominios y vasallos, pudiese proceder con
-fuerza contra los yndios rebeldes, qüando la defensa natural y la
-conservación del terreno, é impedir los progresos de Naciones
-extrangeras obligan á ello."[^9]
+Las pesquisas con los testigos dieron a entender que la declaración de
+López intentaba ocultar hechos más graves. Uno de los jugadores dio
+cuenta de que Martín Cortés había sacado un puñal en medio de una pelea
+y dijo: "¡Ah puñal! cuidado cómo te doblas, que en ciertas partes del
+mundo has sido bueno"; asimismo, otro testigo diría que en una
+conversación con "Cofí", cuando le preguntó si Cortés era su amo, éste
+había dicho que no lo era y que le había quitado la vida al suyo; por lo
+que dedujeron que era posible que poco tiempo antes hubiese cometido un
+homicidio.[^3] El 26 de noviembre se llevó a cabo el interrogatorio de
+"Macuto", quien había sido capturado hacía poco, donde confirmó que
+durante el viaje desde Jamaica hasta un puerto del Santo Domingo
+francés[^4] el capitán Loré insultaba a la tripulación española y
+blasfemaba contra la religión católica, por lo cual el contramaestre
+López y el blanco Cortés aprovecharon que Loré se encontraba dormido
+para asesinarlo y tomar el barco. Después de esto, otros dos tripulantes
+franceses que no había mencionado López, un mulato libre y un negro
+esclavo, trataron de hacerle frente a los españoles; "Macuto" tiró por
+la borda al primero de ellos en tanto Cortés terminó con la vida del
+segundo con un golpe de hacha. "Cofí" se salvó porque notaron en él
+"bastante inclinación a los españoles", y supusieron que sentía
+animadversión por el capitán de quien recibía continuos maltratos.[^5]
+De hecho, según la confesión del bozal, lo obligaron a tirar al mar el
+cuerpo del capitán amenazándolo con matarlo si se rehusaba.[^6]
+Finalmente, la confesión de Martín Cortés de Rivera, quien se había
+entregado voluntariamente a las autoridades de Maracaibo por un delito
+menor y trasladado luego en prisiones a Santa Marta, corroboró el
+testimonio de "Macuto", y selló así las evidencias de que habían
+cometido un triple asesinato en el piélago.[^7]
 
-La búsqueda por un cambio de táctica tuvo mucho que ver con el espectro
-de José de Gálvez y su exitosa campaña para pacificar Nueva España tras
-los levantamientos que se generaron por la expulsión de la orden
-jesuita.[^10] Entre 1765 y 1769 el regente visitador se encargó de
-distribuir castigos ejemplares a las poblaciones indígenas del obispado
-de Michoacán y del noreste del virreinato. Por ejemplo, en agosto de
-1769 Gálvez sentenció a muerte a los cabecillas del alzamiento en los
-pueblos del Río Fuerte (hoy en el estado de Sinaloa), ordenó la pena de
-horca, la decapitación y la exhibición en picota de las cabezas de los
-líderes de la rebelión en la entrada de sus pueblos de origen. Además,
-se dictaminó la confiscación de bienes, la destrucción de sus casas y el
-sembrado de sal de los sitios donde vivían. A los demás reos se los
-envió al arsenal de San Blas (hoy en Nayarit) y se les cortó el cabello.
-Sólo después de establecido el castigo se ofreció, "por mera
-conmiseración", el indulto y perdón general a los habitantes de los
-pueblos que se habían levantado y que estuviesen "rendidos y reducidos"
-en sus casas. El edicto de Gálvez establecía que el perdón se haría
-válido para aquellos que se presentaran en el término de treinta días y
-no abarcaba a aquellos indígenas que se encontraban escondidos y
-fugitivos.[^11]
+Ante una condena inminente, los defensores de cada uno de los reos
+recurrieron a los mejores argumentos para tratar de demostrar que las
+acciones de sus protegidos no fueron premeditadas ni alevosas; pero tal
+vez el argumento más radical, y a la vez el que más se utilizó en la
+defensa, fue que la acción de la tripulación no fue motivada por la
+malicia, o el deseo de hurtar los bienes del capitán de la balandra,
+sino que fue una reacción airada de unos vasallos leales al rey de
+España, que simplemente no pudieron soportar las continuas blasfemias y
+palabras injuriosas contra el monarca, por lo cual fraguaron un plan
+para detener la avanzada de un representante de la asamblea francesa,
+con quien no hacía mucho se había declarado la guerra. En este sentido,
+decía el procurador autor de este argumento, el abogado Juan José
+Martínez: "mi defendido ejecutó este hecho sin otra refleccion, que la
+de revatir a un Erege contra Dios, enemigo de nuestro católico Rey, que
+lo llevaba al Cayo (de Santo Domingo) a seguir su asamblea maldita".[^8]
+El defensor de Martín Cortés utilizó el mismo argumento, al cual añadió
+que la expedición a los Cayos tenía como propósito recibir a un corsario
+con el cual ejercer la piratería en las costas españolas del Caribe. No
+sólo eso, aconsejaba que se calificara estos homicidios como de menor
+gravedad al haber sido cometidos contra tres franceses, "nuestros
+enemigos contra quienes tiene SM declarada la guerra".[^9]
 
-Tanto para el virrey Croix como para Gálvez, los levantamientos fueron
-evidente resultado de la nociva política antigua que había hecho
-insolentes a los pueblos americanos, gracias en buena medida a la
-indulgencia que evadían el condigno castigo de los vasallos rebeldes.
-Tan temprano como en 1767, Croix decía: "mucho mal hay hoy en este
-reino; el fatal y abominable sistema de mis antecesores ha puesto este
-país en el extremo de la maldad, en la inobediencia, en la impunidad, y
-sobre todo consentidos todos desde el primero hasta el último, sin
-exceptuar a nadie, de hacer su antojo sin respetar a Dios ni al rey y
-con desprecio de las leyes."[^12] En su informe de 1767 Gálvez decía:
+Poco se avanzó en los alegatos en defensa de los reos a través de las
+diferentes etapas procesales, incluso el abogado José Camilo de Torres y
+Tenorio (quien años después formaría parte de los próceres
+independentistas), ya en la etapa de súplica, defendía el argumento
+según el cual estos hombres habrían evitado un ataque contra los
+dominios del rey español. Incluso podría tomarse este acto como la
+manera en que la providencia quiso actuar a favor del rey católico en
+venganza por los abusos del ejército francés:
 
-> "A este origen (la orden de los jesuitas) que me parece ser el primero
-> de la rebelión, debemos añadir el de la antigua y constante impunidad
-> en que han vivido los pueblos de este reino, pues como los hombres
-> vulgares y de baja extracción no conocen otro freno que el del castigo
-> y éste no lo tenían en las conmociones populares que se disimulaban
-> siempre con el pretexto de ser respetable el gran número de
-> delincuentes, rompía la plebe por todo y hacía que pasasen sus
-> caprichos y osadías como leyes inviolables, reduciendo las más de las
-> veces a escandalosas capitulaciones lo que dictaban la insolencia y la
-> infidelidad..."[^13]
+> No dudo que el Tribunal, trayendo brevemente á la memoria las tristes
+> y dolorosas escenas, que ha visto la Nacion Española en sus fronteras,
+> cometidas por el barbaro furór de los individuos del exercito francés
+> en los pacificos é innocentes labradores, vuelva una mirada pasiva
+> sobre estos reos, reconociendo en ellos tal vez, unos instrumentos de
+> los altos designios de la Providencia, que castiga de los modos y en
+> tiempos que menos se esperaba los delitos de los hombres que han
+> violado los derechos de la justicia y de la humanidad.[^10]
 
-Cuatro años después Gálvez dijo: "la demasiado indulgencia, o más
-propiamente la absoluta impunidad que por mucho tiempo consiguió la
-gente popular de los reales de minas y otros pueblos del reino, fue
-introduciendo el espíritu de rebelión hasta el punto de romper
-frecuentemente el vasallaje y la obediencia, a que sólo se sujetan los
-hombres de ningunas obligaciones por el temor del castigo, y como este
-Imperio estaba desarmado, no era fácil imponer respeto a los
-delincuentes cuando la justicia no llenaba los vacíos del poder."[^14]
+Contrasta la importante cantidad de doctrina utilizada por los
+defensores para sustentar sus alegatos con la escueta asesoría fiscal
+del abogado de la Real Audiencia, don Manuel Campuzano. Sin duda se le
+presentaba un caso más fácil, por lo que desde el principio de su
+asesoría definió el acto como homicidio proditorio, por haber sido
+cometido en alta mar, donde era imposible para las víctimas el obtener
+auxilio; además de haber sufrido el capitán un ataque por sorpresa
+mientras dormía. Los hechos simplemente no favorecían a los reos, con la
+excepción del esclavo "Cofí": las confesiones indicaban que cada uno
+había cometido un acto homicida, incluso "Macuto", que se consideraba
+menos culpado, había arrojado a un hombre al mar, lo cual se consideraba
+un acto de completa alevosía. A esto se le sumaba la destrucción de las
+cartas y papeles del barco, por lo que no podían probar la intención del
+capitán de dirigirse a Los Cayos para tratar con los corsarios, ni mucho
+menos el plan de atacar las embarcaciones españolas en el Caribe.
+Tampoco jugaba a su favor el no haber declarado por buena presa los
+efectos sacados del barco, y en cambio haber desfondado la balandra para
+que se hundiera junto con los demás efectos que no pudieron cargar. De
+tal manera que el único rudimento legal al que apeló el asesor fueron
+aquellas que determinaban que por ser homicidios "proditorios y
+alevosos" debían sufrir la pena de horca en la forma tradicional.[^11]
+La asesoría del letrado fue aceptada completamente por el gobernador de
+la provincia de Santa Marta, don Antonio de Samper, quien sentenció el 5
+de septiembre de 1795 a los tres reos principales a la pena de último
+suplicio y absolvió al esclavo "Cofí", determinando que debía ser puesto
+en subasta pública junto a los demás efectos que se decomisaron a los
+condenados.
 
-Es inevitable comparar las expresiones del virrey Croix y de Gálvez con
-las apreciaciones de Feijoo, Jovellanos, y otros pensadores de la
-innovación del sistema de gobierno monárquico. La biblioteca del
-madrileño evidencia que en su posesión se encontraban las obras de
-Montesquieu, Fenelón, Pufendorf, además del *Theatro crítico universal*
-de Feijoo, que no es una obra de extrañar en la biblioteca de un
-coleccionista de la época. También contaba con una pequeña colección de
-manuscritos, entre los cuáles resaltan de inmediato el *Nuevo sistema
-económico* de Campillo y Cossío, una obra de la cual consta su
-influencia en el visitador y luego Secretario de Indias; y la antes
-nombrada *Descripción y estado del virreinato de Santa Fe* de Francisco
-Moreno y Escandón.
+El 27 de agosto de 1796 se realizó la publicación por bando del indulto
+concedido por Carlos IV, promulgado hacía solamente dos meses en
+celebración del matrimonio de las infantas María Amalia y María Luisa, y
+de la paz con los franceses. Después de una doble ratificación de la
+sentencia por el gobernador de Santa Marta y la aprobación del dictamen
+por la Audiencia de Santa Fe, el abogado Francisco Antonio Linero, quien
+había defendido a Martín Cortés y ahora lo hacía también con "Macuto",
+decidió aprovechar esta gracia como una última carta que podría detener
+la ejecución de sus partes y presentar una impetración para el indulto
+de sus defendidos que fue recibida el 24 de octubre de ese año. Según el
+abogado, los homicidios no deberían ser calificados como alevosos pues
+sus defendidos no actuaron en la muerte del capitán Loré y, por otra
+parte, la muerte de los dos franceses que confesaron fueron con el
+propósito de defender la vida. Aunque ya no apeló al argumento de la
+defensa de la monarquía, dejó sentado en su impetración que el haber
+pertenecido a naciones enemigas implicaba un inminente riesgo para la
+tripulación española. Decía en ese tenor: "la razón habla en este caso,
+que seguido el primer hecho \[el asesinato del capitán\] la commocion
+que habría entre la tripulacion francesa, ellos eran tres contando con
+el negro Cofí, y tres los españoles, y siendo igual el partido; que
+confiansa podrían tener de aquellos que reputaban por enemigos? Que
+seguridad se podrían prometer? luego, no justificandose que haya
+intervenido la qualidad de alevoso, debe compreenderle el yndulto que
+solicitan".[^12] Por otra parte, alegaba que si bien se podía negar el
+indulto porque también se les condenaba por hurto, este acto debía
+considerarse como coaccionado por Víctor López, quien de otra manera
+habría actuado contra ellos. Al respecto decía el abogado: "el caso es
+apurado, pero debiendose jusgar por lo mas piadoso conforme a la regla
+general de derecho que permite en los dudosos perdonar al delinqüente
+por no condenar al inocente; espero de la justificada piedad de VS. que
+pues mis partes no son ladrones de oficio con los que debe entenderse el
+Real Yndulto, y no con los que lo han sido involuntarios, se sirva
+declararlos compreendidos en la gracia del Real Yndulto".[^13]
 
-No obstante, autores como Taylor consideran que la estrategia de Gálvez
-consistió sencillamente en la excepción a la costumbre de negociación
-con indulgencia, por lo menos para el caso novohispano.[^15] Del mismo
-modo, Felipe Castro considera que la eliminación de la política de
-negociación e indulgencia no tuvo mayor arraigo. Además, hay que tener
-en cuenta que si bien el visitador se encargó de ensalzar sus victorias,
-hasta el punto de aseverar que había asegurado la subordinación y
-fidelidad de los pueblos por un centenar de años,[^16] tanto en Nueva
-España como en otras regiones de Indias la negociación era la estrategia
-considerada más prudente por parte de los oficiales. Incluso, al mismo
-tiempo que Gálvez se encontraba castigando a los reos de Guanajuato, el
-oidor Blas de Basaraz fue comisionado para apaciguar la rebelión en
-Papantla (Veracruz), sin auxilio armado y acompañado sólo de una pequeña
-escolta logró someter a los indígenas, capturar y trasladar los
-cabecillas hasta México, y finalmente los condenó a tres años de
-trabajos públicos.[^17] Habrá que esperar una década, cuando Gálvez sea
-nombrado Ministro de Indias y envíe los visitadores a los distritos
-audienciales americanos, para poner a prueba su proyecto de renovación
-de gobierno en el continente. La reacción inmediata es harto conocida,
-especialmente en la serie de rebeliones andinas de 1781, esto será
-analizado en el capítulo siguiente.
+El fiscal nombrado para la causa, Ramón Zúñiga, rechazó la impetración
+del abogado Linero al considerar que no era necesario hacer una revisión
+de un caso juzgado y que había sido ratificado por la Audiencia de Santa
+Fe. Incluso dejó consignado que si ninguno de los abogados defensores en
+Santa Fe había impetrado el indulto, con su "conocimiento fino, y
+cuidado con el que allí se examinan las causas", se debía a que la causa
+ya había sido juzgada por ese tribunal, y no podría considerarse lo
+contrario en uno de menor jurisdicción. El gobernador Campuzano estuvo
+de acuerdo con el fiscal, pero consideró que debía enviar la súplica a
+la Audiencia porque \"para quitar la vida al hombre, ningun detenimiento
+hay largo\". Finalmente, el Real Acuerdo de justicia rechazó la
+solicitud del indulto en enero de 1797, finalizando con ello cualquier
+posibilidad jurídica para evitar el último suplicio de los
+condenados.[^14]
 
-La hipótesis que guía este capítulo es simple: el éxito de la táctica de
-Gálvez en Nueva España sirvió como experiencia validadora de una nueva
-estrategia de control y pacificación de los territorios indianos que
-optó por la imposición de la potestad antes que por la atracción por la
-benevolencia de los poblados rebeldes. La expulsión de los jesuitas fue
-la causa precedente que permitió este cambio de paradigma, sirvió para
-culpar a los misioneros de haber criado la rebeldía de los pueblos a su
-cargo, y las rebeliones que surgieron tras la expulsión de los ignacios
-en Nueva España justificaron la necesidad de traspasar la
-responsabilidad de la pacificación a los oficiales de la monarquía. El
-nombramiento de Gálvez como ministro de las Indias en 1776 puede
-considerarse como la consolidación de un proyecto para el control
-definitivo de las provincias americanas, la "nueva conquista de América"
-como lo denominó Lynch; y el envío de los Regentes Visitadores a las
-audiencias sudamericanas fue la manera de ejecutar el plan. En este
-sentido, se ha prestado mayor atención al resultado inmediato de la
-implementación de esta política, es decir, las "grandes rebeliones
-andinas", tal como las denominó Scarlett O'Phelan; sin embargo, cabe
-cuestionarse si hubo una modificación sustancial en la manera como se
-enfrentaron los desórdenes de las fronteras, que para las provincias del
-virreinato se enmarcaban en las rutas de comercio ilícito y de expansión
-minera: el Darién, el Chocó y la Guajira. Por otra parte, en este
-capítulo se abordan los aspectos comunes y divergentes con respecto a
-otros puntos del Nuevo Reino, Quito y Venezuela que se consideraban
-problemáticos, específicamente la provincia de los Pastos, la región
-Zulia-Maracaibo, y las áreas de avanzada hacia los Llanos por Santiago
-de las Atalayas.
+El perdón particular del virrey Solís
+-------------------------------------
 
-"Este reino nunca podrá florecer si no se pone remedio al desorden"
--------------------------------------------------------------------
+En este caso, Agustín de la Rosa Abreu y su hijo fueron acusados del
+homicidio de un mulato esclavo de su propiedad, hecho por el cual el
+primero fue condenado en julio de 1750 a servir diez años en las
+carracas de Cádiz, además del embargo de sus bienes. En julio de 1754
+Antonio García, procurador de número de la Real Audiencia de Santa Fe,
+eleva una súplica al virrey para que su parte sea indultada de la pena
+de destierro a cambio de pagar en las reales cajas de Maracaibo la suma
+de cien patacones. El alegato del procurador fue simple: el homicidio
+fue a lo sumo accidental y no había prueba plena de que la muerte
+hubiese sobrevenido del castigo que hizo su parte al mulatillo esclavo,
+a lo cual se sumaba que el reo era de avanzada edad y ya había
+permanecido en la prisión del castillo de Maracaibo por un lustro. Pocos
+días después de recibida la impetración, el virrey Solís respondió
+afirmativamente a la solicitud de Antonio García para indultar a su
+parte, conmutándole la pena de presidio por la de diez años de destierro
+de la provincia de Maracaibo, a cambio de que consignaran
+mancomunadamente, entre él y su hijo, 200 pesos para el aumento de la
+Real Hacienda. Posteriormente, el procurador solicitó que se extendiera
+la gracia del indulto al hijo de Rosa Abreu y se le conmutase la pena de
+cuatro años de presidio por el mismo tiempo de destierro; además, pedía
+que se tuviera en cuenta que padre e hijo estaban reducidos a la pobreza
+después del embargo de bienes para que se les concediera la libertad
+bajo fianza por seis meses, de modo que cumplido el plazo se diera por
+satisfecha la promesa de compensación a la Real Hacienda. Esta petición
+también fue aceptada por el Virrey.[^15]
 
-En este apartado, tratar específicamente el problema del desorden, por
-qué consideraba los oficiales reales que era urgente el ordenar y
-controlar.
-
-La campaña de pacificación en el Darién y la Guajira
-----------------------------------------------------
-
-Desde las instrucciones entregadas a Eslava se impelía a los virreyes
-que emprendieran las campañas de pacificación de los indígenas de la
-región de Riohacha y los del Darién (véase mapa x). Varios intereses
-motivaron el esfuerzo por pacificar estas regiones. En la Guajira el
-principal interés era la pesca de perlas,[^18] en el Darién el detener
-la extracción ilegal de oro por vía de los ríos Atrato y San Juan.[^19]
-Asimismo, se consideraba necesario ocupar estas regiones para evitar la
-construcción de enclaves extranjeros en sus costas. En general, estos
-territorios estaban mal defendidos, encargados para su protección a
-oficiales que debían proteger pequeñas fortalezas, con pocos hombres y
-pertrechos.
-
-Una de las paradojas del control del Darién consistió en el haber
-prohibido desde 1730 a los vasallos españoles la navegación de los ríos
-Atrato y San Juan, so pena de vida; por lo cual tuvieron que ingresar
-los productos del comercio lícito a través de rutas más largas, con el
-consecuente aumento de los precios de los bienes de consumo destinados a
-las minas. De la misma manera, la prohibición del tránsito por esta ruta
-recaía solamente en los españoles, por lo cual, dejaba el terreno libre
-a los extranjeros e "indios rebeldes" para comerciar y generar alianzas.
-Esta tranquilidad para explorar el río, permitía a los colonos de los
-demás imperios conocer el terreno mejor que los españoles, así como
-establecer pequeños poblados costeros y ribereños. Moreno y Escandón,
-como un modo de alertar sobre la necesidad de reabrir el paso por estos
-ríos, decía que en caso de invasión al Chocó la provincia estaría
-indefensa, puesto que la ruta por Panamá o Cartagena, aunque más corta,
-estaba cerrada a los españoles, "haciendose preciso pedir los auxilios á
-las ciudades de afuera, y á esta capital de modo que por la excesiva
-distancia, qüando llegue há pasado el tiempo oportuno y pueden estar
-perdidas las provincias."[^20]
-
-De esta prohibición fue víctima el mismo gobernador Pestaña
-
-Los cimarrones
---------------
-
-Los "huidos a los montes"
+El privilegio y el perdón
 -------------------------
 
-[^1]: Mendo, *Principe perfecto*, doc. XXVI.
+Uno de los interrogantes que surge al abordar el perdón en la sociedad
+corporativa del Antiguo Régimen, especialmente en el ámbito Indiano, es
+la posible aplicación diferenciada de la clemencia, es decir, si el
+indulto favorecía más a ciertas corporaciones que a otras. Esta es una
+cuestión problemática, pues no existía una tradición normativa que
+determinara una jerarquización en la aplicación del perdón basada en la
+calidad. A vuelo de pájaro, sería la gravedad de la pena y no la calidad
+del delincuente la que determinaría el mayor favorecimiento; pero no hay
+que olvidar que el perdón se acostumbraba a administrar por las vías de
+la misericordia, la merced y la gracia, así, el delincuente podía estar
+comprendido en cualquier tipo de privilegio que le permitiera apelar a
+su miseria, nobleza, o mérito, para evitar el castigo. La cuestión está
+en que el privilegio no justificaba el crimen, por tanto, no existiría
+una garantía para salir impune de las faltas solamente por pertenecer a
+cierta corporación.
 
-[^2]: Saavedra Fajardo, *Idea de un príncipe político christiano*, emp.
-    13, lema "censura patent" (en la *editio prínceps* de 1640, emp. 12,
-    lema "defectus principium patent".)
+El perdón abarcaba a todos los vasallos del rey sin que fuese (en
+apariencia) relevante su calidad, la infelicidad del reo o de quien
+voluntariamente desertaba para huir de la justicia equiparaba de cierta
+manera a los criminales independientemente de su condición. Obviamente
+en la súplica la condición privilegiada era fundamental, el apelar a la
+minoridad, la rusticidad, la viudez, la infelicidad, era tan importante
+como indicar los servicios al rey (propios o familiares), la riqueza, la
+principalía, incluso la devoción y sacrificio a dios y a la república.
+Pero era en la vista del fiscal y en la decisión del juez donde se
+determinaba si éste privilegio podía ser un argumento que contribuiría a
+otorgar o negar la gracia. Manuel Silvestre Martínez, en su *Librería de
+jueces*, consideraba que los jueces debían administrar la gracia regia
+sin interpretación, negando el perdón solamente a aquellos reos cuyos
+delitos se señalaban como imperdonables en la cédula de indulto
+general;[^16] en ese sentido, apelar al privilegio sería innecesario.
+Pero la práctica demuestra que en no pocas ocasiones la petición de
+perdón llevaba a solicitar nuevas pruebas, reafirmar testimonios,
+reiniciar procesos que se encontraban suspendidos o simplemente se
+habían extraviado, por lo que en estos caso el "pedimento" se convertía
+en súplica, en la cual el apelar al privilegio podía marcar la
+diferencia entre seguir preso o restablecerse a la república.
 
-[^3]: Saavedra Fajardo, *Idea de un príncipe político christiano*, emp.
-    22, lema "præsidia maiestatis".
+Se ha apuntado previamente que una de las maneras de alcanzar el perdón
+era demostrando los méritos propios o heredados, por lo cual era un
+privilegio de los hidalgos ser eximidos de castigo por respeto a la
+memoria de aquellos que beneficiaron la república. En el otro lado del
+espectro se hallaban los considerados dignos de misericordia o
+miserables, "aquellos cuya infelicidad mueve la compasión del
+emperador".[^17] Estos eran, entre otros,[^18] los pobres, los rústicos,
+los menores huérfanos, las viudas, las mujeres casadas con maridos
+inútiles, los enfermos y, para el caso americano, los esclavos e
+indígenas.[^19] Esta calidad les había representado un privilegio,
+entendido según la tradición del *ius commune* como la ley privada
+(*privata lex*) emitida para una persona o grupo particular con el
+propósito específico de favorecer, de manera temporal, a aquellos que
+por una condición desfavorable requirieran del apoyo de la jurisdicción
+regia para enfrentar las inequidades que podían generar en ellos las
+querellas instauradas por otros, o defender los bienes del daño que
+podían causar aquellos que quisieran aprovechar su debilidad.[^20] Desde
+el siglo XVII la concepción del privilegio se asimiló progresivamente a
+la de derecho especial, por lo que ya no sólo abarcaba a los dignos de
+amparo sino se ampliaba a otros grupos como los militares, los nobles, e
+incluso algunos oficios como los fiscales.[^21]
 
-[^4]: William B. Taylor, *Embriaguez, homicidio y rebelión en las
-    poblaciones coloniales mexicanas* (México: Fondo de Cultura
-    Económica, 1987), 182--84.
+Lo anterior no implica que existiese un fuero definido o un corpus de
+leyes que abarcara el privilegio de los pobres y miserables; al
+contrario, lo que caracterizaba dicha condición era la indeterminación.
+Paulino Castañeda ya había identificado en 1971 que hacer una relación
+de los privilegios concedidos a los miserables era prácticamente
+imposible.[^22] Más recientemente, Thomas Duve señaló que el privilegio
+"más allá de ser un instituto del derecho común, llegó a ser un modo de
+pensar, una práctica cultural más allá de la metodología o la teoría del
+privilegio".[^23] De manera sintética, podría considerarse que el
+privilegio era *privata lex* en el sentido que no hacía parte del
+derecho común, y en el caso de los pobres y miserables era una concesión
+de piedad y gracia que el monarca como legislador hacía sobre sus
+vasallos más necesitados de amparo y tutela. Como consecuencia, se
+entendía como una renuncia a aplicar la justicia ordinaria para
+favorecer la equidad sobre el rigor.[^24]
 
-[^5]: Luis Prado Arellano, "Esclavismo, consenso y rebelión en la costa
-    pacífica neogranadina, 1810-1830", en *El siglo XVIII americano:
-    estudios de historia colonial*, ed. Catalina Reyes Cárdenas, Juan
-    David Montoya Guzmán, y Sebastián Gómez González, Kindle (Medellín:
-    Universidad Nacional de Colombia, Sede Medellín, Facultad de
-    Ciencias Humanas y Económicas, 2013).
+Durante el régimen monárquico se configuró un estado de tutela especial
+para los nativos americanos, en el cual se combinaron tres conceptos
+jurídicos: el de rústico, persona miserable y de minoría de edad. La
+condición de rusticidad implicaba que los indígenas se hallaban
+excluidos de un derecho propio, en este sentido, se entendía que sus
+acciones se guiaban por sus costumbres, ajenas a la norma positiva. La
+condición de miserables los convertía en necesitados de amparo especial,
+específicamente de la protección de los misioneros y ministros de
+justicia, encabezados por el mismo monarca. Con respecto a la minoridad,
+ésta se entendía como una limitación de la razón humana, por lo que en
+general se consideraba que los indígenas no tenían la suficiente
+capacidad para discernir entre lo bueno y lo malo, lo sacro y lo
+blasfemo, la obediencia y el desorden.[^25] Había en esta categorización
+una preconcepción del indígena como débil y pusilánime, que debía por lo
+tanto ser protegido de los españoles que trataran de abusar de
+ellos.[^26] Claramente esto estaba atado a la condición jurídica que
+había establecido el breve *inter caetera* de 1493 en el que se dona a
+los reyes católicos el dominio legítimo sobre los habitantes de las
+Indias a cambio de encargarse de su protección y evangelización. En
+términos legislativos, la condición de miserable de los indígenas quedó
+plasmada definitivamente en una ley recopilada que sintetizaba dos
+cédulas, una de Felipe II en 1582 y otra de Felipe IV en 1629, la cual
+decía: "Los indios son personas miserables, y de tan débil natural, que
+fácilmente se hallan molestados y oprimidos, y nuestra voluntad es que
+no padezcan vejaciones, y tengan el remedio y amparo conveniente por
+cuantas vías sean posibles".[^27]
 
-[^6]: Allan J. Kuethe, *Military reform and society in New Granada,
-    1773-1808*, A University of Florida Book 22 (Gainesville: Univ. Pr.
-    of Florida, 1978), 130.
+Por su condición subordinada, los pobres y dignos de misericordia tenían
+una serie de prerrogativas tanto en la jurisdicción temporal como en la
+espiritual. Les competían los beneficios de restitución *in
+integrum*,[^28] la resolución sumaria y breve de los pleitos, el derecho
+de solicitar nuevas pruebas y testimonios cuando los consideraran
+nocivos a su causa, se les excusaba de la contumacia judicial,[^29] se
+les exceptuaba en ciertos casos de pagos de costas,[^30] y tenían caso
+de Corte, es decir, podían acudir directamente a la audiencia, sala de
+alcaldes de corte o consejo, para litigar desde la primera
+instancia.[^31] Además de esto, Solórzano Pereyra aconsejaba que a los
+indios les fueran moderadas las penas y que se evitaran los castigos
+corporales, para lo cual recomendaba a los jueces que "usen más de
+oficio de padres que de jueces severos hasta que \[los indios\] se
+hallen más capaces de razón y más arraigada en la fe esta pobre gente".
+No obstante, esto no excusaba del uso riguroso de la justicia si se
+comprobaba que habían actuado con malicia para cometer delitos graves,
+lo cual los hacía indignos de templanza y benignidad en la pena.[^32]
+Por otra parte, para fortalecer el principio de amparo de los indígenas,
+el rey ordenaba que hubiese un tratamiento diferenciado respecto a los
+crímenes que cometían los españoles contra los indios y viceversa, de
+tal manera que fueran los primeros tratados con mayor rigor cuando
+abusaran de los indígenas que si lo hubieran hecho contra otros
+españoles.[^33]
 
-[^7]: Kuethe, 132.
+Ahora bien, el considerarse dignos de misericordia no era equiparable a
+ser merecedores de clemencia. Aunque son términos que pueden
+considerarse equivalentes, la taxonomía de las virtudes diferenciaba la
+clemencia de la misericordia. La primera se relacionaba con moderar la
+superioridad y la venganza, en tanto la segunda movía a la compasión y
+la piedad.[^34] La misericordia en la administración de justicia
+pretendía moderar la conducta de los jueces al evitar que se tratara de
+modo preferencial (con mansedumbre) a los ricos y por el contrario a los
+pobres se les tratara con rigor. La misericordia no tenía que ver
+directamente con exculpar la pena que merecían en justicia, sino que en
+casos iguales o dudosos se favoreciera a los pobres y miserables.[^35]
+Se advertía, además, que la benevolencia con los miserables no debía
+desembocar en injusticia, como indicaba Castillo de Bovadilla, se debía
+evitar que por resolver las causas a favor de éstos se causara injuria a
+otras personas o corporaciones, y no por aparentar servicio a la
+justicia se terminara haciendo perjuicio a otros.[^36]
 
-[^8]: Francisco Antonio Moreno y Escandón, *Estado del virreynato de
-    Santa Fee, Nuevo Reyno de Granada y Relación de su Gobierno y
-    Mando*, BDH-BNE, Mss/3118, 1772, f. 21r.
+Lo que hacía de las personas miserables favorables al perdón era la
+minoración de sus faltas, las cuales se presumía partían de la
+ignorancia e imprudencia propias de su calidad y condición.[^37] Un
+ejemplo de ello se extrae del perdón general concedido por los oidores
+de la Audiencia a los rebeldes de los barrios de Quito en 1765:
 
-[^9]: Moreno y Escandón, *Estado del virreynato*, f. 23v.
+> Por todo lo qual debieron mandar y mandaron que en forma de vando y ha
+> usanza de guerra se publique en esta ciudad y sus parroquias este
+> indulto y perdón a que la benignidad de su excelencia concurre, á
+> continuacion del que en nombre del Rey nuestro Señor tubo concedido
+> este Tribunal ussando de la real misericordia y conmiseracion con que
+> se deben ver las personas miserables, contemplando que en los pecados
+> que cometen proceden por su ignorancia sin aquella perfecta
+> deliveracion y conocimiento que agraba el delito, pero haviendo por
+> las pudentissimas providencias dadas por este Tribunal, hechoseles
+> conocer por todos modos la enormidad de este excecrable crimen, en
+> adelante no tendrán escusa ni podrá la misma piedad dejar de executar
+> todo el castigo que aclama la jurisdiccion bulnerada y la republica
+> escandalizada.[^38]
 
-[^10]: Felipe Castro Gutiérrez, *Nueva ley y nuevo rey: reformas
-    borbónicas y rebelión popular en Nueva España*, Colección
-    Investigaciones (Zamora, Mich: El Colegio de Michoacán, 1996).
+Esta concesión se basó en tres premisas: el indulto y perdón se
+concedieron por la misericordia y conmiseración que "debe ser" vista en
+las personas miserables; el presupuesto de que su acción surgió de la
+ignorancia; y la advertencia de que el reincidir anularía la posibilidad
+de acceder a la benignidad real. El defensor de los barrios, Domingo de
+Araujo, fue enfático en apuntar la condición miserable de los partícipes
+en "la inquietud," su estado de pobreza y el desprecio sufrido por los
+privilegiados de la ciudad.[^39] Es muy probable que los oidores
+asumieran que apelar a la condición de dignos de misericordia de los
+sublevados fuera la estrategia más adecuada en términos políticos para
+justificar el perdón general. Si esta interpretación es correcta, la
+acción de los magistrados estuvo acorde con lo planteado por Castillo de
+Bovadilla: "Que es mas licito indignarse el Juez contra los poderosos
+iniquos, que contra los pobres, porque la necesidad de ellos escusa la
+benignidad de los Jueces, y les mueve á que humana, y benignamente
+procedan mas presto á equidad, que á riguroso castigo".[^40]
 
-[^11]: Eusebio Bentura Beleña, *Manifiesto de Eusebio Bentura Beleña*,
-    ed. Ignacio Almada Bay et al., Colección Fuentes (Zamora: El Colegio
-    de Michoacán, Universidad de Guadalajara, El Colegio de Sonora,
-    2006), 114-115.
+Si bien la supervivencia de la condición de los indios como miserables
+durante todo el periodo de dominio hispano puede confundirse con un
+derecho adquirido, el avance de la cultura ilustrada planteó la idea de
+que los naturales podrían en algún momento igualarse a los demás
+vasallos del rey y con ello liberarse del tutelaje. Así lo esperaba el
+protector de naturales de la gobernación del Cauca en 1793 quien
+manifestó que "cultivando su razón puedan salir alguna vez del largo
+pupilaje a que los reduce la debilidad de su espíritu".[^41] Esta idea
+bien pudo provenir de la difusión de las ideas de Campillo y Cossío
+quien criticó el rigor de la conquista durante el reinado de Carlos V y
+en adelante el abusivo tratamiento de los indios; en tanto él proponía
+que para establecer un buen "gobierno económico" era necesario "reducir
+á los Indios a la vida civil, tratarlos con benignidad y con dulzura;
+animarlos a la industria, y por este camino hacer de ellos vasallos
+útiles y Españoles, y no mirar con desprecio la calidad de Indios, ni
+oprimirlos, como se ha hecho y hace hoy".[^42] Resalta de inmediato en
+la propuesta de Campillo que mientras los naturales tuviesen la "calidad
+de indios" debía ser tratados con benevolencia y suavidad, por lo tanto,
+la reforma del gobierno político estaba en concordancia con la idea
+tradicional del miserable, pero considerando que su minoridad podía ser
+superada y equiparárseles a la república de españoles.
 
-[^12]: Citado en Castro Gutiérrez, *Nueva ley y nuevo rey*, 96.
+En un tono similar, Francisco Gil de Taboada, al asumir su empleo de
+virrey del Perú en 1790 tras haber servido el mismo oficio en el Nuevo
+Reino durante algunos meses, temía que el régimen de intendencias y
+subdelegaciones condujera al restablecimiento del sistema de
+repartimiento abolido una década antes.[^43] Según este oficial,
+continuar con el repartimiento condenaría a los indios eternamente a la
+"inmovilización" e "inercia", al contrario, "liberarlos" para el
+comercio sería lo que podría sacarlos de su condición de miserables:
 
-[^13]: José de Gálvez, *Informe sobre las rebeliones populares de 1767 y
-    otros documentos inéditos*, ed. Felipe Castro Gutiérrez, Serie
-    Historia novohispana 43 (México: Universidad Nacional Autónoma de
-    México, 1990), 25.
+> El comercio es quien unicamente puede sacarlos de ese estado abatido
+> como lo ha hecho con los demas hombres, y para ellos debe protegerse
+> la libertad, y sofocar todo genero de violencia, facilitando el que
+> con ellos traten, y contraten todos los hombres que entren y salgan
+> libremente en sus Pueblos los de las demas Castas, que se establescan
+> en éllos si les acomodare; que entablen y contraigan todo genero de
+> enlaces, que es precisamente lo que siempre ha procurado precaverse
+> por razon de los repartimientos y ambiciosas grangerias.[^44]
 
-[^14]: Citado en Castro Gutiérrez, 97.
+La política de privilegio de los indios como dignos de misericordia
+sería una constante del gobierno de las indias que no parece haberse
+modificado tras las innovaciones planteadas por reformas como la
+implementación de un régimen de Intendentes. De hecho, la Real Ordenanza
+de Intendentes de Nueva España dejaba en claro que aunque se
+implementara el sistema de jueces españoles en poblados de indios, estos
+conservarían "el derecho y antigua costumbre," lo cual incluía
+claramente el "inclinar" la voluntad de los naturales "por los medios
+más suaves".[^45] Del mismo modo, la Ordenanza general de intendentes de
+1803 conservaba el tratamiento diferenciado de los ociosos y
+"malentretenidos," considerando que aunque era necesario "desterrar la
+ociosidad de los Indios" y "aunque las circunstancias del tiempo hayan
+variado," se debía estimular el trabajo con "medios de suavidad" como
+premios y exhortaciones, antes que con el envío al servicio en presidios
+y tropas, como indicaba la pena regular.[^46]
 
-[^15]: Taylor, *Embriaguez, homicidio y rebelión en las poblaciones
-    coloniales mexicanas*, 184--85.
+1.  ### El perdón para los indios
 
-[^16]: Felipe Castro Gutiérrez, "Del paternalismo autoritario al
-    autoritarismo burocrático: los éxitos y fracasos de José de Gálvez
-    (1764-1767)", en *Mexico in the Age of Democratic Revolutions,
-    1750-1850*, ed. Jaime E. Rodríguez O. (Boulder: Lynne Rienner,
-    1994), 29.
+2.  ### El perdón para "las viudas"
 
-[^17]: Castro Gutiérrez, 30.
+Aunque para los reinos de las Indias el estatus de los indígenas llame
+particularmente la atención, no por ello debe olvidarse que el
+privilegio de pobres y miserables abarcaba a cualquier vasallo del rey
+que pudiese ser ubicado en dicha categoría. Los reos, por ejemplo,
+adquirían de manera temporal un estatus de pobreza e incluso un noble
+podía ser tratado como miserable cuando estaba en la cárcel en espera de
+sentencia.[^47] Hay que tener en cuenta que este era un estado temporal
+que no equivalía al cumplimiento de la condena, puesto que al estar en
+presidio o destierro no se consideraba digno de ninguna
+conmiseración.[^48] De hecho, la mujer de un reo podía considerarse
+prácticamente en la condición de una viuda, no sólo porque su esposo
+sería incapaz de proveer, sino principalmente porque al ser encarcelado
+se ordenaba el embargo de bienes y rentas familiares. Por otra parte,
+hay que resaltar que el rey distribuía su clemencia con buena parte de
+las viudas de oficiales que quedaban desamparadas e impetraban por una
+pensión que les permitiera solventar su sostenimiento y el de sus
+hijos.[^49] Como ejemplo del tono de estas solicitudes vale la pena
+citar una carta que llegó a manos de José de Gálvez en 1780 en la que la
+samaria María Bárbara Agreda le solicita su intermediación para obtener
+una pensión del rey:
 
-[^18]: Las instrucciones a Eslava exaltaban la riqueza de la pesquería
-    de "perlas tan celebradas" aunque lamentaban que "siendo oy mayor
-    que nunca su abundancia, valor y tamaño, se halla quasi abandonada
-    su pesquería." AGI, SANTA\_FE,541,L.1, f. 32v.
+> ¿A que aras podré llegar mejor con mi infeliz suerte que a las de el
+> Soberano? ¿Y por qué medio mas propicio que por el de Vuestra
+> Excelencia? Mi summa desgracia, arrastra mi razon, y me incita á que
+> llamando la atención de Vuestra Excelencia por un rato, le suplique
+> que atienda con benignidad a mis vozes, y haga que sonando sus ecos en
+> los piadosos oídos de el Monarcha; logre mi desamparo, la juztizia que
+> merezca.[^50]
 
-[^19]: "Instrucciones a Eslava", f. 36r.
+Como se puede observar del extracto anterior, aunque esta viuda alegara
+una condición de desamparo, tenía la capacidad para comunicarse con el
+rey a través del Secretario de Indias. Del mismo modo, una mujer que
+deseara impetrar perdón ante el juez tendría la posibilidad de apelar a
+un abogado que fungiera como intermediario para escribir la súplica. Un
+caso ilustrativo en este sentido fue el reclamo que hizo Josefa Ramona
+de Gracián, ya que en su comunicación al Ministro de Gracia y Justicia
+la reclamante pretendía que se revocara el destierro que había sido
+decretado por la Audiencia de Caracas, argumentando principalmente que
+la captura de su marido se había conseguido mediante el engaño de
+habérsele ofrecido indulto a nombre del rey.[^51] Claramente, la carta
+pretendía mover a la piedad del magistrado o del rey al mencionar la
+condición a la que había sido reducida como consecuencia de la
+"expatriación" de su esposo:
 
-[^20]: *Estado del virreinato*, ff. 17v-19r.
+> La triste y deplorable citación \[sic: situación\] á que me hallo
+> reducida con ocho hijos todos pupilos en la obligacion natural de
+> alimentarlos sin tener otras ayuda para ello que el fabor del cielo me
+> comprometen y presisan á no sesar de pedir y reclamar á mi esposo
+> mayormente dificultando de la justicia de su expatriamiento despues de
+> haberse prometido y empeñado la palabra y nombre del Rey para
+> seguridad de quantos denunciasen su ciencia ó implicacion directa ó
+> indirecta en el asunto.[^52]
+
+El memorial de Josefa Ramona de Gracián incluye más elementos que
+pretenden demostrar la inocencia de su esposo, y por otra parte,
+evidenciar que con las acciones injustas contra él se había generado una
+situación que había llevado a su familia al borde de la miseria. Aunque
+de Gracián no ocultaba que había heredado una casa de su primer
+matrimonio, exponía que esto sólo había prevenido que cayeran en la
+"mendicidad ostiaria",[^53] debido al embargo de bienes ordenado por la
+Audiencia. Por otra parte, esta mujer enfrentaba no sólo la desgracia
+propia de la reducción de medios de subsistencia, sino aquella que se
+generaría por consecuencia de la infamia:
+
+> Todo seria superable á los esfuerzos de un corazon christiano. La
+> ambre y la sed podrian ser suplidas como esta susediendo por la piedad
+> y misericordia del vecindario. La falta del exposo y padre de la
+> familia podria dulcificarla ó hacerla menos cencible una lisongera
+> esperanza ¡pero Señor! esta nota de infamia á la que no puede
+> sobrevivir la criatura menor acondicionada; este borron ó pena que por
+> las Leyes, y en opinion de todas las gentes hace al hombre indigno de
+> toda consideracion cibil, rompe los vinculos que le unian á los demas
+> hombres y que le sirve como sucede en el Yndostan con los Pulichis de
+> afrentosa dibisa para que hullan de el sus semejantes; [^54] esta
+> nota, esta pena, ó este borron, que segun las Leyes del Reyno hace
+> conciderar muerto al hombre en quanto á los bienes y comodidades de
+> esta vida; son los que no pueden superarse á fuer\[za\] de toda
+> resignacion, pues todabia esta incierta la suerte de Goenaga y ya es
+> la ora que su Muger é hijos se ven aislados en medio de la sociedad
+> porque despues de haber echo publica su delacion con el repentino
+> expatriamiento y seqüestro de vienes todos les huyen, todos les miran
+> sobrecogidos y todos les reputan por desgraciados ¡Oh Dolor![^55]
+
+Nótese que la suplicante, por medio de su procurador, no se atribuye el
+estatus de "pobre de solemnidad", en su lugar, clama piedad y
+misericordia para que el rey, al usar esas virtudes, ratificara el
+indulto que se ofreció en su nombre y, en consecuencia, pudiese
+recuperar la vida civil que habría perdido tras la nota de infamia
+acarreada a su familia por el destierro de Goenaga. En este caso, el
+privilegio que quiere reclamar es el de ser una de las familias
+principales de La Guaira, de hecho así lo enuncia de modo literal:
+"V\[uestra\] M\[ajestad\] siguiendo el loable egemplo de sus abuelos con
+la humanidad, religion y beneficencia que le distingue entre los demas
+soberanos del universo, no es capaz de permitir la ruina y destruccion
+del honor de una familia de las principales de este Pueblo". Pero
+también apelaba a un sentido del miserable como era la necesidad de
+amparo, surgida por la desgracia que representó perder a su esposo y
+enfrentar la infelicidad de la infamia. En el memorial, esta mujer
+solicitaba ser favorecida con la misericordia del monarca a través de su
+marido, finalmente, era la petición para la restauración de la felicidad
+y fortuna que se consideraba injustamente arrebatada tras la oferta
+engañosa del indulto real.
+
+Ser miserable no era lo mismo que alcanzar la indigencia,[^56] por ello,
+no era una contradicción que Josefa de Gracián apelara al amparo del rey
+en este caso, aunque no se encontrara en condición de mendicidad. La
+condición de infortunio a la que apelaba era a la viudez, producto por
+la separación de su esposo, sumado al hecho de inutilizarlo al impedirle
+realizar un trabajo que redituara para la subsistencia de la familia. No
+fueron pocos los tratadistas que consideraron que la condición de viuda
+se extendía a todas las formas del "marido inútil", entre ellos quienes
+estuviesen cautivos, exiliados, o condenados a galeras.[^57]
+
+Otro caso similar fue el de Ignacia Admiñahorta, de quien ya tratamos en
+el capítulo anterior, aunque su situación difería ligeramente al de
+María Josefa de Gracián en tanto su esposo no estaba preso sino huido en
+los montes. La súplica de indulto incluía, como era natural, una
+manifestación de la miseria a la que había sido reducida su familia por
+la prolongada ausencia de su marido. El perdonar a su esposo
+significaría restituir su familia al *pristinum statum* previo a la
+acusación, retornar el sostenimiento de la familia, y cumplir con los
+compromisos adquiridos antes de la huida. El compromiso de Admiñahorta
+consistiría en contactarlo en "el lugar donde se hallasse", para
+informarle de la remisión de la pena y pudiera, en consecuencia,
+retornar a sus labores:
+
+> absuelto por el indulto solicitara yo, con la mayor eficacia, el lugar
+> donde se hallasse, para que con la noticia de su livertad volviesse ya
+> indemnisado á poner mano en su honrada industria y travajo, no solo
+> para substentar su familia (como antes de su infortunio honrradamente
+> lo hacia) sino tambien para ir pagando á su Acreedor, que fuera de
+> especial consuelo ir cobrando aunque por partes lo que tiene por
+> perdido para subenir á las notorias estrecheses que padece. Y tambien
+> redunda en beneficio espiritual y temporal de su familia, por la
+> educacion y criansa, á mas de los alimentos, pues una pobre madre, por
+> falta de vestuario para sus hijos deja de ponerlos á la escuela,
+> ocultandolos en cueros en el rincon de su casa, por no exponerlos
+> desnudos á la irrision y vergüensa.[^58]
+
+El fiscal de la Real Audiencia, José Peñalver Veque, probablemente
+aplicando su formación como doctor en cánones por la universidad de
+Alcalá,[^59] resaltó que aunque la solicitud de Admiñahorta parecía "a
+primera vista \[...\] irregular y mal exemplo", teniendo en cuenta que
+por una parte se estaba evitando la aplicación de justicia al impetrar
+un indulto particular, y por otra parte se estaba ofreciendo a cambio
+del indulto una suma en contraprestación; aun así, "consideradas las
+circunstancias lastimosas que se expresan, de quan viudez de la
+impetrante, y horfandad de sus hijos, y \[e\]specie de destierro a que
+se ha sujetado el Solinas \[...\] podrá Vuestra Excelencia si fuere
+servido arbitrar según sus superiores facultades en la solicitud de la
+referida Miñaorta \[sic\]".[^60] Ya fuera por clemencia o por favorecer
+a la Real Hacienda, el fiscal dedicó unas pocas líneas para justificar
+la decisión de actuar en favor de la "viuda", de los "huérfanos", y del
+marido inútil.
+
+Otra mujer que solicitó el perdón a nombre de su esposo, quien también
+se hallaba prófugo de la justicia, fue Juana María Fernández, avecindada
+en Riohacha. Su esposo, don Juan Benito Salas había sido culpado de
+haber participado en el levantamiento que terminó con la muerte del
+teniente de gobernador José Pestaña en 1753 y fue condenado a servir por
+ocho años en el castillo del Morro de la Habana. La petición fue elevada
+al alcalde ordinario en febrero de 1781, poco después de haberse
+conocido en esos territorios el indulto general promulgado por Carlos
+III el 8 de junio de 1780.[^61] Aunque no hay datos sobre la calidad o
+estatus de esta familia, ni si formaban parte de la principalía
+riohachera, Juana Fernández provenía de una familia que le permitió
+heredar algunos bienes, en particular una capellanía que había sido
+dejada en testamento por su abuela, de la cual esperaba la erogación por
+censo de 700 pesos. La súplica por el desembargo de sus bienes había
+iniciado en 1776 sin ninguna decisión hasta el momento en que se conoció
+del indulto general, por lo cual aprovechó para impetrar el indulto de
+su esposo ausente por más de dos décadas en alguna "nación extranjera".
+Al igual que las impetrantes mencionadas anteriormente, Fernández apeló
+a la misericordia del juez en vista del abandono de su esposo ausente y
+la consecuente reducción a la escasez y pobreza, que la habría obligado
+a realizar labores honestas, aunque "propias de esclava".[^62]
+
+Al llegar la solicitud a consulta del gobernador, decidió que ésta debía
+ser revisada por la Audiencia de Santa Fe, siendo aquel tribunal el que
+se encargó del juicio de los involucrados en el levantamiento y muerte
+del teniente de gobernador Pestaña. Esto pudo ser una dilación para
+Fernández, pero también fue la posibilidad de clamar a la misericordia
+del virrey, de tal manera que si no se encontraba a su esposo dentro de
+los reos cobijados por el indulto general, aún quedaba la posibilidad de
+que éste usara de su facultad para perdonar y decidiera a favor de Juan
+Benito Salas. Así, decía en su pedimento enviado en agosto de 1782 al
+virrey: "haviendose divulgado en toda esta Provincia, que el christiano
+pecho de Vuestra Excelencia se hace cargo con madura réflex\[io\]n de
+los acaecidos y que al pobre le dá el lugar que tiene en Dios, muy
+consolada hago este mi humilde recurso, suplicando a la piedad de
+Vuestra Excelencia se digne expedir su benigna determinación".[^63]
+Valga resaltar que desde junio de ese año el cargo de virrey se
+encontraba encargado *ad interim* al Arzobispo de Santa Fe, Antonio
+Caballero y Góngora, por lo que era de esperar que un emisario del brazo
+eclesiástico actuara con mayor suavidad en favor de la impetrante. Este
+hecho difícilmente habría sido pasado por alto por Fernández o, mejor
+aún, por su apoderado, quien más que resaltar la pobreza de la familia y
+el deseo de recuperar sus bienes, abogaba por la defensa del alma de
+Benito Salas, quien se encontraba expatriado en "tierras de herejes"
+(probablemente en las colonias holandesas del caribe). Vale la pena
+citar en extenso este sugestivo e inusual alegato:
+
+> Aunque peligre mi corta herenzia y dona hecha por mi abuela, [quiero
+> mas el alma de mi esposo, que ha veinte años se halla entre
+> extrangeros de nuestra santa fe catholica]{.underline}, y con su
+> avansada edad [de setenta años, y quasi ciego]{.underline}, tal ves la
+> astucia infernal le puede hacer claudicar. Y no siendo el piadoso
+> ánimo del Rey Nuestro Señor, ni el del charitativo de Vuestra
+> Excelencia, en quien reciden sus Reales facultades, el que se pierda y
+> condene una alma redimida con la sangre preciosisima de Nuestro
+> Redemptor Jesuchristo, por ella, y por las entrañas piadosisimas de su
+> S\[antísi\]ma M\[adr\]e, imploro la charidad de Vuestra Excelencia
+> suplicandole se agrade indultar y perdonar a mi esposo.[^64]
+
+Los extractos subrayados de seguro llamaron la atención a Manuel
+Silvestre Martínez, fiscal del crimen de la Audiencia de Santa Fe, como
+buen bachiller en cánones y más por su experticia como jurista (la cual
+dejó plasmada en su *Librería de jueces utilísima* de 1763) sabía que
+este era un argumento que apelaba no sólo a la piedad del juez, en este
+caso el virrey, además remitía a uno de los elementos fundamentales de
+la monarquía católica como era la salvación de las almas y la defensa de
+la iglesia de Roma. El conjunto de males que presentaba Fernández no
+podía ser más patético: hambre, miseria, ataques de los indios Guajiros,
+"y él últimamente metido entre hereges, ateistas, francmasones,
+careciendo del pasto espiritual, y su alma expuesta á eterna
+condenación".[^65] Podría insinuarse que el resaltar este temor por el
+alma de su esposo no era sino una treta para recuperar sus bienes, pero
+independientemente de su motivación ulterior, el hacer énfasis en la
+carencia espiritual era otra manera de hacer explícita la necesidad de
+amparo y el deber del sosiego que debía proveer por una parte el rey y
+por otra la religión, ambos brazos en propiedad del arzobispo-virrey.
+Finalmente, no es posible conocer la decisión final ya que el expediente
+culmina con la remisión que hizo el virrey a la Audiencia para que este
+tribunal determinara en justicia si era factible el uso de la
+misericordia. Caballero y Góngora dijo estar "compadecido \[...\] de los
+trabajos en que se halla este matrimonio", y estaba de acuerdo con que
+el solicitante merecía el perdón, aunque dejó la decisión final en manos
+de los oidores.[^66]
+
+### El perdón para los esclavos
+
+Con respecto a los esclavos el privilegio de misericordia es sumamente
+ambiguo, al menos en términos doctrinales. Desde una dimensión
+estrictamente legislativa, los esclavos podían ser mancipados de tres
+maneras: al ser capturados en guerra justa, cuando un hombre libre de
+más de veinte años "se dexa" vender, y al nacer de madre esclava.[^67]
+En esta justificación legal el único viso de misericordia es la mención
+a que la esclavitud fue instituida por los emperadores para evitar matar
+a los capturados durante las guerras. Sin embargo, la gran cantidad de
+esclavos "etíopes" (como se solía denominar a las personas negras de
+origen africano) no habían sido mancipados en batalla, sino comprados a
+comerciantes negreros de las costas africanas.[^68] La contradicción
+moral entre la protección de los indígenas y el comercio de esclavos no
+fue ajena para los tratadistas, especialmente del orden eclesiástico,
+quienes argumentaron en algunas ocasiones la ilegitimidad de la
+participación de la monarquía católica en la trata de personas. Dos
+tratados del siglo XVII escritos por frailes capuchinos, el aragonés
+Francisco José de Jaca (*Resolución sobre la libertad de los negros*) y
+el francés Epifanio de Moirans (*Servi liberi seu naturalis mancipiorum
+libertatis iusta defensio*), pusieron en evidencia dicha contradicción,
+sin que por ello el gobierno o la justicia del Nuevo Mundo se haya visto
+afectada.[^69]
+
+Más allá de la justificación de la trata de esclavos, un problema que
+trasciende significativamente las posibilidades de este trabajo, se
+quiere plantear que a partir de los principios normativos que
+legitimaron la posibilidad de someter a esclavitud (voluntaria o
+involuntaria) a otros, se constituyó una esfera de dominio entre el amo
+y el esclavo propia de la servidumbre, en la cual este último le debía
+lealtad y sumisión absoluta a su señor.[^70] En este sentido, la
+jurisdicción sobre los esclavos recaía directamente sobre los amos,
+quienes se arrogaban el mero imperio para castigar las faltas que éstos
+cometieren dentro de su señorío.[^71] Esta relación de dominio era una
+mímesis del vasallaje de los súbditos al rey, por tanto, recaía en los
+dueños de esclavos la condición de administrar la potestad de manera
+virtuosa sin llegar a la tiranía del castigo injustificado, de tal modo
+que donde la ley de Partida señalaba que "llenero poder ha el señor
+sobre su siervo, para fazer del lo que quisiere" Gregorio López acotaba
+que el castigo debía ser para enmendar la ofensa a su señor,[^72] y aún
+con justa causa el amo no podría castigar con ira descontrolada a sus
+siervos, y en caso de suceder, éstos podrían acudir al juez para su
+defensa.[^73] De allí que si bien el dueño tenía el imperio sobre sus
+esclavos, la Corona tenía el dominio sobre todo aquello que trascendiera
+el señorío, y la tiranía del amo podía justificar el cambio de
+propietario o incluso la libertad del esclavo.[^74]
+
+El problema del perdón en el ámbito de los mancipados estaba en que la
+primera línea de clemencia estaba en manos de sus amos, quienes por su
+potestad podrían decidir aplicar o remitir un castigo. Evidentemente,
+esto implica una dificultad mayor, puesto que el esclavista no estaba
+obligado a adelantar sumarias que dieran cuenta de las súplicas de sus
+esclavos. Por lo general, las muestras de gracia de los amos hacia sus
+siervos se manifestaban en las cartas de libertad y testamentos que le
+regresaban la libertad a los esclavos en gratitud por su servicio o
+lealtad. Karen Mejía y Luis Miguel Córdova identificaron para el caso de
+la provincia de Antioquia que la manumisión graciosa podía otorgarse de
+manera condicionada o incondicional, de tal manera que el esclavo podía
+esperar la libertad después de servir fielmente a su amo hasta su
+muerte, por pagar misas para la salvación de su alma, o incluso por
+pagar su funeral.[^75] La manumisión incondicional era una merced por
+medio de la cual el amo simplemente premiaba a su esclavo por los
+servicios prestados.[^76] Estas manifestaciones graciosas prometidas en
+las vísperas del lecho de muerte, verbalmente o plasmadas en los
+testamentos, mostraban la cara munificente de la esclavitud (si es
+posible concebir alguna), aquella en las cuales las relaciones entre amo
+y siervo se manifestaban en términos de lealtad, buenos servicios, y
+amor;[^77] lo cual no enmascara la abundancia de solicitudes de libertad
+sustentadas en la sevicia de los dueños y sus subordinados.
+
+Como bien ha señalado Rafael Antonio Díaz, las relaciones entre amos y
+esclavos eran sumamente complejas, aunque en términos generales fuese un
+asunto de propiedad esta no era una condición que necesariamente
+conllevara a la crueldad o la misericordia. Los dueños de las minas no
+tenían una relación necesariamente cercana con sus esclavos, por lo
+menos no de la manera en que la tendría una viuda con sus sirvientes; y
+en todo caso, ninguna correspondería con una forma predeterminada de
+tratamiento al mancipado o de una respuesta de este último frente a su
+señor.[^78] Es precisamente en la rica historiografía que se está
+abriendo paso desde las últimas décadas donde estos matices son
+visibles, ya no solo en la fuga, rebelión, y cimarronaje; sino también
+en los enfrentamientos, directos o mediados, de los esclavos con la
+administración de justicia ordinaria.[^79] En general, lo que se ha
+podido observar en la interacción entre esclavos y justicia es que los
+esclavos podían ser oídos en los tribunales de la justicia ordinaria
+para llevar adelante sus causas en derecho, adquiriendo además el
+privilegio de miserables por ser sujetos de servidumbre, lo cual les
+confería el derecho de ser asesorados por un procurador de pobres o de
+menores sin cobro de costas, además de poder acudir a la justicia como
+caso de corte.[^80]
+
+Los casos por cimarronaje, libertad y por delitos comunes tuvieron cada
+uno sus particularidades. Los primeros serán tratados en un capítulo
+posterior pues se entendían de manera similar a la rebelión, lo que
+permitía a los esclavos impetrar el perdón mediante acciones
+colectivas.[^81] En este apartado nos centraremos en las solicitudes
+particulares derivadas de una causa judicial que se adelantaba contra un
+esclavo por sus delitos, las cuales han sido identificadas en el fondo
+*Negros y Esclavos* del Archivo General de la Nación de Colombia y en la
+sección *Criminal* del Archivo Histórico de Antioquia. Aunque sólo fue
+posible identificar cinco casos, es bastante probable que futuras
+pesquisas en archivos regionales y en el Archivo Nacional del Ecuador
+permitan construir una visión más detallada de la clemencia del gobierno
+y la justicia ordinaria con los esclavos.
+
+Una de las características de la impetración de perdón en el contexto
+servil, era que la súplica era elevada por el amo a nombre de su
+esclavo, dejando claro que remitir la pena era un acto de piedad tanto
+con el sindicado como con su dueño, a quien la pena ordinaria le
+privaría de los servicios que requería. Era por tanto una petición de
+indulto que implicaba la restitución del mancipado, pero no como quien
+restituía una mercancía sino como quien recupera un siervo. Una muestra
+de lo anterior puede inferirse de la petición que realizó Juan Félix
+Ramírez de Arellano, un hacendado
+
+Otro ejemplo de lo anterior fue la solicitud de indulto que realizó en
+1804 don Pedro Mejía a favor de su esclavo Marcos, acusado de haber
+asesinado en una hacienda de Arma de Rionegro a Francisco, un negro que
+corría a cargo de don José Antonio Botero.[^82] El proceso difícilmente
+lograba probar de manera semiplena la culpabilidad del sindicado, de
+hecho ninguno de los peritos que revisó el cuerpo de Francisco logró
+encontrar evidencia de que su muerte hubiese sido ocasionada por un acto
+voluntario, tampoco los testigos brindaron pruebas que permitieran si
+quiera ubicar a Marcos en el momento de la muerte de Francisco. El
+procurador general de Arma de Rionegro, Gregorio de Uribe, actuando como
+agente fiscal (una "monstruosidad" según expresó posteriormente el
+fiscal del crimen de la Audiencia de Santa Fe)[^83] se apegó a las
+consideraciones del asesor letrado del cabildo de Medellín, don Ignacio
+Uribe, quien desestimó cualquier posibilidad de inocencia del esclavo
+Marcos, afirmando incluso que si no habían muestras visibles de heridas
+en Francisco era porque las heridas eran "difícil de advertirse en los
+cadáveres de cutis negro", y prefería considerar que la muerte fue
+ocasionada violentamente por "un golpe en el cerebro" que no dejó
+huellas.[^84]
+
+Los argumentos del procurador de menores y del mismo Pedro Mejía fueron
+desestimados por el alcalde Francisco Félix Vallejo, quien parecía
+volcarse hacia la aplicación de la pena ordinaria al esclavo y el cobro
+de las costas del proceso al dueño. Afortunadamente, la promulgación del
+indulto general de 25 de julio de 1803 abrió la posibilidad de que la
+Audiencia conociera de la causa y de paso obtener la remisión de la pena
+y la recuperación del siervo. La petición del dueño del esclavo Marcos
+representa un ejemplo de la manera como se impetraba indulto por el
+mancipado y por sí mismo:
+
+> Don Pedro Mexia vesino de hesta ciudad, ante Vd, segun derecho
+> paresco, y digo: que haviendose promulgado el Real yndulto, que la
+> piedad del Rey (Dios lo guarde) ha consedido a sus vasallos, y
+> estandose siguiendo causa con nombre de criminal a mi esclavo Marcos,
+> sin que de su merito haiga resultado prueba; ni actor que acuse, lo
+> presento á gozar de él, no por razon de el ymputado delito, sino por
+> redimir á este infelis calumniado de la larga pricion con que se le
+> aflige, eximiendome tambien de la carencia de su serv\[ici\]o; y de
+> los graves costos y costas, con que se me perjudica.[^85]
+
+Hábilmente, Mejía incluía en la impetración la indicación de que el
+perdón no podía ser decidido por el juez local, por lo que suplicaba
+fuera vista su solicitud en el tribunal de la Audiencia, y entre tanto
+se diera por suspendida cualquier actuación judicial. El alcalde aceptó
+la petición de Mejía, aunque decía que se estaban perfeccionando las
+pruebas y que no se suspendería la tasación de las costas con las que se
+obligó al dueño de Marcos. El fiscal encargado de ver la causa fue
+Manuel Martínez Mansilla quien no encontró motivos para denegar la
+gracia del indulto a Marcos, no tanto porque fuera merecedor de ésta
+sino porque no encontró mérito para hacerle cargo por homicidio; vista
+con la cual estuvo de acuerdo el Real Acuerdo, el cual ordenó al
+gobernador de Antioquia devolviera al esclavo a Mejía y además multó al
+alcalde Vallejo "por los defectos en que incurrió en la actuación de
+este proceso".[^86]
+
+Beatriz Patiño Millán infería que los indultos otorgados a los esclavos,
+por lo menos el par que ella pudo identificar, fueron concedidos "ante
+la imposibilidad de probar que hubieran cometido el crimen o que
+hubieran actuado con alevosía o premeditación";[^87] es decir, por una
+especie de corrección ante la actuación errónea de la justicia. En el
+juicio del esclavo Marcos las deficiencias en el proceso fueron
+evidentes, pero en el segundo caso identificado por Patiño Millán, en el
+cual se acusó en 1761 al negro bozal llamado Antonio por homicidio de
+otro esclavo en el sitio de Quirimaná,[^88] la posibilidad de que éste
+saliera libre parecía menos clara. En este juicio no se contó con la
+mediación de los amos, ni de la víctima ni del sindicado, contando por
+ello con la defensa de oficio del procurador de menores, Manuel Antonio
+de Toro Cataño. En esta ocasión no había duda de que la muerte había
+sido ocasionada por el reo, quien argumentó que después de haberse
+fugado de la hacienda de su amo don Francisco Piedrahita, por haber sido
+comprado contra su voluntad y haberse enemistado con uno de sus
+compañeros de esclavitud, se encontró con un esclavo de don Diego
+Hernández de Sierra (también llamado Antonio) quien le prometió pagarle
+por unos días de trabajo. El incumplimiento de la promesa llevó a una
+riña en la cual el acusado terminó golpeando a la víctima en la cien
+matándolo en el lugar.
+
+Después del asesinato, el esclavo Antonio se refugió en sagrado en la
+iglesia de Jesús Nazareno de la ciudad de Antioquia, del cual salió
+porque manifestó que no tenía comida, tras lo cual fue capturado por la
+guardia que dispuso para el efecto el alcalde ordinario Alonso José del
+Campillo. Debido a que no se contaba con testigos presenciales, la
+acusación se fundamentó en la confesión del esclavo, lo cual derivó en
+un enfrentamiento entre el procurador general, Fermín García, y el
+defensor de menores. El primero requería la pena ordinaria, asegurando
+que el confesante había perjurado pues algunos testigos habían dicho que
+el cadáver mostraba heridas en el cuello, además de demostrarse la
+sevicia del acto al no haber dado sepultura al cuerpo. El segundo,
+aseveraba que el esclavo había confesado de manera simple, sin
+contradicciones ni anfibologías, lo que "en persona rústica es señal
+evidente de que dice la verdad", además de iniciar una refutación de la
+malicia en el acto de Antonio, sustentándose en las leyes tercera y
+cuarta del título 23, libro octavo, de la *Nueva Recopilación*, según
+las cuales al resultar el homicidio de un acto de defensa se podía
+excusar al agresor.[^89]
+
+Tras unos cuantos alegatos entre los procuradores, el defensor de
+menores aprovechó que el tres de noviembre de 1761 se publicó en
+Antioquia la cédula de indulto general por la coronación de Carlos III
+(véase anexo 7) y al día siguiente presentó su solicitud ante el mismo
+alcalde ordinario. Como se puede observar, la impetración del procurador
+Toro Cataño (copiada en el anexo 8) se dividió en dos partes, la primera
+dedicada a exponer al alcalde ordinario más antiguo que no había
+posibilidad de demostrar plenamente la culpabilidad del esclavo Antonio
+en la muerte de su tocayo, en tanto la segunda puntualizó los aspectos
+jurídicos de la gracia expuestos en la cédula, de tal manera que fuera
+evidente que su defendido estaba incluido dentro de los sujetos
+perdonados por el rey.[^90] La aprobación del alcalde Campillo se
+conformó con los argumentos del procurador, calificando el delito de
+Antonio como involuntario y validando así que el esclavo podría quedar
+remitido de la pena. Finalmente, se ordenó que la decisión fuese
+comunicada a su amo, "para que como acrehedor legitimo á su servidumbre
+disponga de él, segun fuere su conveniencia, con excepcion de que si
+tubiere dicho negro causales para ser amparado de la Real justicia, en
+no bolver al poder de su dicho amo, y que se le de otro de nuebo".[^91]
+Aunque no quedó consignado en el expediente si el esclavo Antonio fue
+retornado a quien lo había comprado contra su voluntad, fue indicado que
+pertenecía a otro amo al ser requerido nuevamente por la justicia por
+haber dado muerte alevosa, la noche del 3 de marzo de 1777, al zambo
+Juan José Samarra (o Zamarra), alcaide de la cárcel de la villa de
+Medellín.[^92] No tenemos copia del caso subsiguiente, pero difícilmente
+podría haber aspirado a ninguna clase de indulto al haber cometido otro
+homicidio.
+
+No todos los casos resultaban claramente en la concesión del indulto.
+Eusebio Rodríguez, propiedad de don Francisco José de Arboleda, había
+escapado por temor al castigo por haber dejado perder en el mar un
+canasto de maíz. Durante su etapa prófuga cometió una serie de hurtos y
+violaciones en los campos de la zona, especialmente en los ranchos de
+los indios, de los cuales secuestraba mujeres para ser luego violadas.
+Los testimonios de los abusos del negro Eusebio eran abundantes,
+resaltando entre ellos la violación de una niña indígena aproximadamente
+diez años, el secuestro de la esposa del indio Bautista Abaría, y el
+haber herido por la espalda a Prudencio "el Pomeño". Tras la ejecución
+de este último acto fue perseguido por los familiares y amigos de
+Prudencio, capturado, amarrado y entregado al teniente de gobernador de
+Nóvita, quien se encargó de recibir los testimonios y luego pasarlos a
+la Real Audiencia para su aprobación. Los testimonios y la confesión del
+reo fueron tan contundentes que el procurador síndico sólo pudo
+solicitar que se redujese la pena de cien azotes que había sido impuesta
+por el teniente de Nóvita, por no haber sido "tanta la malicia" que
+impidiera la equidad del tribunal. Los oidores no sólo consideraron que
+el esclavo fue culpable, sino que aumentaron la sentencia a ocho años de
+servicio en el presidio de Cartagena, y condenaron al pago de las costas
+del proceso al amo.[^93]
+
+En agosto de 1804 don Ignacio Hurtado, fungiendo como defensor del
+esclavo (probablemente a instancia de Francisco de Arboleda), aprovechó
+que el reo no había sido remitido a Cartagena para impetrar el indulto
+general de 1803 a su favor ante el teniente de gobernador de Nóvita.
+Hurtado alegó que los delitos del esclavo Eusebio (estupro y heridas) no
+estaban dentro de los excluidos en el perdón real, por lo que debía ser
+puesto en libertad.[^94] El fiscal del crimen rechazó la solicitud
+señalando que "la conducta de este tal \[esclavo\], es la de un //
+facineroso de aquellos que mas inquietan la pub\[li\]ca tranquilidad, y
+que por lo tanto deben ser apartados de la sociedad como miembros
+corrompidos que inficionan la masa comun. Sea pues por autor de una
+herida alevosa, o por el cumulo de circunstancias que le hacen indigno
+del perdón, no se halla en el caso de merecer la pena del indulto".[^95]
+Los oidores de la Audiencia aceptaron lo dicho por el fiscal y
+rechazaron la solicitud del defensor, aunque no quedó consignado en el
+expediente si el reo fue conducido finalmente al presidio cartagenero.
+
+¿Mejor perdonar al delincuente que castigar al inocente?
+--------------------------------------------------------
+
+Un principio común del derecho penal dictaba que siempre era mejor
+absolver al delincuente que condenar al inocente, así quedó impuesto en
+la tradición del *ius commune* según un rescripto de Trajano que sirvió
+a Ulpiano para determinar que no se podía condenar a alguien sólo por
+sospechas, manifiesto en la máxima latina *satius enim esse impunitum
+relinqui facinus nocentis quam innocentem damnari*.[^96]
+
+[^1]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    153v.
+
+[^2]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    156v-159r.
+
+[^3]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    208r-v.
+
+[^4]: En los testimonios se dice que el nombre de dicho puerto era
+    "Sabricó", posiblemente confusión con el topónimo del poblado de
+    *Les Abricots*.
+
+[^5]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    220r-221v.
+
+[^6]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    243r.
+
+[^7]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    246r-252v.
+
+[^8]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    348r.
+
+[^9]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    369r.
+
+[^10]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    397r.
+
+[^11]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    371v-375v. Las leyes citadas fueron de la *Nueva Recopilación,* lib.
+    VIII, tít. 23, ley 10, y tít. 26, ley 10.
+
+[^12]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    411r.
+
+[^13]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    411r.
+
+[^14]: AGNC, sección colonia, negros y esclavos, Magdalena, tomo 2, f.
+    411v-417r.
+
+[^15]: AGNC, sección colonia, negros y esclavos, Venezuela, tomo 1, ff.
+    96r-97v.
+
+[^16]: Manuel Silvestre Martínez, *Librería de juezes utilissima, y
+    universal, para abogados, alcaldes mayores, y ordinarios*, Tercera
+    impresión, vol. 1, 8 vols. (Madrid: Imprenta de Andrés Ramírez,
+    1766), cap. 4, núm. 53, 287.
+
+[^17]: "miseratione dignos, quorumque; infoelicitate ad compassionem
+    Imperator motus est". Gabriel Álvarez de Velasco, *De privilegiis
+    pauperum, et miserabilium personarum* \[1630\], segunda edición
+    (Lyon: Sumptibus Horatius Boissat et Georgius Remeus, 1663), parte
+    II, q. I, núm. 9.
+
+[^18]: La condición de miserable podía ampliarse a prácticamente
+    cualquier situación humana que condujese a la infelicidad, algunas
+    de las cuales pueden resultar extrañas a los ojos contemporáneos,
+    como los enamorados o los deportistas. Véase al respecto Thomas
+    Duve, "Sonderrecht in der Frühen Neuzeit", *Mitteilungen des
+    Sonderforschungsbereichs "Pluralisierung und Autorität in der Frühen
+    Neuzeit. 15. -- 17. Jahrhundert"* 2007, núm. 1 (2007): 37--38.
+
+[^19]: La bibliografía relativa al estatus de miserable de los indígenas
+    americanos y su privilegio ha aumentado progresivamente durante las
+    últimas décadas, de ésta vale la pena destacar: Thomas Duve, "La
+    condición jurídica del indio y su condición como persona miserabilis
+    en el Derecho Indiano", en *Un giudice e due leggi: pluralismo
+    normativo e conflitti agrari in Sud America*, ed. Mario G. Losano
+    (Milán: Giuffrè, 2004), 3--33; Francisco Javier Andrés Santos y Luis
+    Carlos Amezúa Amezúa, "La moderación de la pena en el caso de las
+    personae miserabiles en el pensamiento jurídico hispano-americano de
+    los siglos XVI y XVII", *Revista de historia del derecho* 45 (2013):
+    245--64; Caroline Cunill, "El indio miserable: nacimiento de la
+    teoría legal en la América colonial del siglo XV", *Cuadernos
+    Inter.c.a.mbio* 8, núm. 9 (2011): 229--48; Caroline Cunill,
+    "L'Indien, personne misérable. Considérations historiographiques sur
+    le statut des peuples indigènes dans l'empire hispanique", *Revue
+    dhistoire moderne contemporaine* 64, núm. 2 (2017): 21--38. También
+    es relevante el "apéndice bibliográfico" en Mauricio Novoa, "La
+    práctica judicial y su influencia en Solórzano: La Audiencia de Lima
+    y los privilegios de indios a inicios del siglo XVII", en *Juan de
+    Solórzano y Pereira: pensar la colonia desde la colonia*, ed. Diana
+    Bonett y Felipe Castañeda (Bogotá: Universidad de los Andes, 2006),
+    148--51.
+
+[^20]: Paulino Castañeda Delgado, "La condición miserable del indio y
+    sus privilegios", *Anuario de estudios americanos* 28 (1971):
+    245--48.
+
+[^21]: Thomas Duve, "El privilegio en el Antiguo Régimen y las Indias.
+    Algunas anotaciones sobre su marco teórico-legal y la práctica
+    jurídica", en *Cuerpo político y pluralidad de derechos. Los
+    privilegios de las corporaciones novohispanas*, ed. Beatriz Rojas
+    (México: Instituto Mora, 2007), 33--35.
+
+[^22]: Castañeda Delgado, "La condición miserable del indio", 259. Lo
+    más cercano a una relación de los privilegios de las personas
+    miserables fue hecha por el lucano Giovanni Maria Novarius (o
+    Novario) en 1637, en la cual hace un recuento de 176 privilegios.
+    *Tractatus de miserabilium personarum privilegiis* (Nápoles:
+    tipografía de Dominici Maccarani, 1637), "elenchus singulorum
+    privilegiorum".
+
+[^23]: Duve, "El privilegio en el Antiguo Régimen", 34.
+
+[^24]: Novarius, *Tractatus de miserabilium*, praeludium primum,
+    privilegium 3 y 75.
+
+[^25]: Bartolomé Clavero, *Derecho indígena y cultura constitucional en
+    América* (Siglo XXI, 1994), 11--19.
+
+[^26]: Alejandro Cañeque, *The king's living image: the culture and
+    politics of viceregal power in colonial Mexico*, New World in the
+    Atlantic world (New York, N.Y: Routledge, 2004), 164--66.
+
+[^27]: *Recopilación de las leyes de los reinos de las Indias*, lib. I,
+    tít. VII, ley XIII. También puede consultarse la Cédula del 27 de
+    marzo de 1582 enviada específicamente a los clérigos de Nueva España
+    donde les previene de los maltratos que venían sufriendo los indios
+    de aquellos reinos y la necesidad de protegerlos de los abusos.
+    Ayala, *Diccionario de gobierno*, voz "Indios", núm. 133.
+
+[^28]: Novarius, *Tractatus de miserabilium*, privilegium 63. Beneficio
+    invocado de manera extraordinaria para reponer las cosas al estado
+    anterior al daño provocado por un contrato o transacción. Murillo
+    Velarde, *Cursus iuris canonici*, Lib. I, tít. LXI, núm. 394.
+
+[^29]: Álvarez de Velasco, *De privilegiis pauperum*, parte I, q. LXV.
+    Novarius, *Tractatus de miserabilium*, privilegium 132.
+
+[^30]: *Recopilación de las leyes de los reinos de las Indias*, lib.
+    VII, tít. VI, ley XVIII y XXI.g
+
+[^31]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII, núm.
+    25-26. Véase en particular el análisis de Cunill, "L'Indien,
+    personne misérable", 30--35. Parece que el caso de corte, aunque
+    estipulado doctrinalmente, fue un privilegio que no abarcó a los
+    indígenas americanos, por lo menos así se ha identificado por
+    Woodrow Borah, *El juzgado general de indios en la Nueva España*,
+    trad. Juan José Utrilla (México: Fondo de Cultura Económica, 1996),
+    94; María Eugenia Albornoz Vásquez, "Casos de corte y privilegios de
+    pobreza: lenguajes jurídicos coloniales y republicanos para el
+    rescate de derechos especiales en el momento de litigar por
+    injurias. Chile, 1700-1874", *Signos históricos* 16, núm. 32
+    (diciembre de 2014): 79--80.
+
+[^32]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII, núm.
+    28-31.
+
+[^33]: Ayala, *Diccionario de gobierno*, voz "Indios", núm. 141 y 143.
+    *Recopilación de las leyes de los reinos de las Indias,* lib. VI,
+    tít. X, ley 21. Solórzano Pereyra, *Política indiana*, Lib. II, cap.
+    XXVIII, núm. 12.
+
+[^34]: Es esclarecedora la definición de la voz "misericordia" brindada
+    por el *Diccionario de autoridades*: "Virtud, que aficiona y inclina
+    al ánimo, para que se duela y compadezca de los trabajos y miserias
+    ajenas".
+
+[^35]: Lorenzo Guardiola y Sáez, *El corregidor perfecto*, Segunda
+    impresión corregida y aumentada (Madrid: imprenta real, 1796), parte
+    I, §III, núm. 16. Novarius, *Tractatus de miserabilium*, privilegium
+    78 y 101.
+
+[^36]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
+    cap. II, núm. 64. Novarius, *Tractatus de miserabilium*, privilegium
+    75, núm. 12.
+
+[^37]: Sobre la asimilación del miserable con la ignorancia y
+    pusilanimidad: Cunill, "L'Indien, personne misérable", 22--24;
+    Cañeque, *The king's living image*, 166--67.
+
+[^38]: "Testimonio de la publicación del bando de indulto", Quito, 17 de
+    septiembre de 1765, AGI, Quito, 398, ff. 538v-539r.
+
+[^39]: "Carta del apoderado de los barrios de Quito, Don Antonio Araujo,
+    exponiendo al virrey los motivos de la inquietud", Quito, 13 de
+    julio de 1765, AGI, Quito, 398, f. 410r.
+
+[^40]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
+    cap. II, núm. 63.
+
+[^41]: "Instrucción para el mejor gobierno de los pueblos de indios", en
+    José María Arboleda Llorente, *El indio en la colonia. Estudio
+    basado principalmente en documentos del Archivo Central del Cauca*
+    (Bogotá: Prensas del Ministerio de Educación, 1948), 195--96.
+
+[^42]: José del Campillo y Cossío, *Nuevo sistema de gobierno económico
+    para la América* (Madrid: imprenta de Benito Cano, 1789), cap. I,
+    núm. 29, 15.
+
+[^43]: Timothy Eagan Anna, *La caída del gobierno español en el Perú: el
+    dilema de la independencia*, Estudios históricos 35 (Lima: IEP,
+    Inst. de Estudios Peruanos, 2003), 33.
+
+[^44]: "Carta nº 103 de Francisco Gil de Taboada y Lemos, virrey de
+    Perú, a Antonio Valdés, Secretario de Estado de Indias, Hacienda,
+    Marina y Guerra". AGI, Audiencia de Lima, leg. 691, f. 385v.
+
+[^45]: *Real ordenanza para el establecimiento e instrucción de
+    intendentes de exército y provincia en el reino de la Nueva España*
+    (Madrid: \[s.n.\], 1786), art. 14 y 15.
+
+[^46]: *Ordenanza general formada de orden de Su Magestad, y mandada
+    imprimir y publicar para el gobierno é instrucción de intendentes,
+    subdelegados y demás empleados en Indias* (Madrid: imprenta de la
+    viuda de Ibarra, 1803), art. 91.
+
+[^47]: Un artículo muy interesante al respecto fue realizado por Pedro
+    Ortego Gil, "La estancia en prisión como causa de minoración de la
+    pena (siglos XVII-XVIII)", *Anuario de derecho penal y ciencias
+    penales* 54, núm. 1 (2001): 43--70.
+
+[^48]: Álvarez de Velasco, *De privilegiis pauperum*, parte II, q. III y
+    XI.
+
+[^49]: Tan sólo habría que revisar las numerosas consultas disponibles
+    en AGI, Santa Fe, 546 y 548
+
+[^50]: "María Bárbara de Robles a José de Gálvez", Aranjuez, 8 de mayo
+    de 1780, AGI, Santa Fe, 1200.
+
+[^51]: Los detalles de este indulto y los argumentos para expatriar a
+    quienes se acogieron serán analizados en un capítulo posterior.
+
+[^52]: "Josefa Ramona de Gracian, esposa de Martín de Goenaga", La
+    Guaira, 15 de marzo de 1798, AHN, Consejo de Indias, Secretaría de
+    Presidencia, leg. 21672, exp. 3.
+
+[^53]: La *ostiaria mendicitas* se refería a la de aquellos que se
+    postraban *ad portas* de la iglesia para pedir limosna de los
+    fieles. Viene del adjetivo latino *ostiarius*, *ii*; el cual indica
+    que algo está relacionado con una puerta.
+
+[^54]: Es probable que el ejemplo de los "Pulichis" del Indostán haya
+    sido tomado del periódico *Espíritu de los mejores diarios
+    literarios que se publican en Europa*, núm. 163, 12 de enero de
+    1789, 775.
+
+[^55]: "Josefa Ramona de Gracian, esposa de Martín de Goenaga".
+
+[^56]: Castañeda Delgado, "La condición miserable del indio", 255.
+
+[^57]: \"Vidua etiam dicitur quoad fori privilegium mulier illa, quæ
+    virum quidem habet, sed captivatum, vel exulem, vel ad triremes
+    damnatum\" Giacomo Menochio, *De arbitrariis judicum* \[1569\],
+    edición enmendada y ampliada (Génova: Samuelis de Tournes, 1690),
+    lib. II, c. 66, núm. 9.
+
+[^58]: "Doña Maria Ygnacia Admiñahorta", AGNC, sección colonia, juicios
+    criminales, tomo 87, doc. 27, f. 845r-v.
+
+[^59]: Algunos datos sobre este fiscal se pueden encontrar en Ainara
+    Vázquez Varela, *"De la primera sangre de este reino": las élites
+    dirigentes de Santa Fe (1700-1750)*, 1. ed, Colección Textos de
+    ciencias humanas (Bogotá: Universidad Colegio Mayor de Nuestra
+    Señora del Rosario, 2010), 81 y 88--89.
+
+[^60]: "Doña Maria Ygnacia Admiñahorta", 845v-846r.
+
+[^61]: Juana Fernández ya había realizado una petición de indulto para
+    su esposo en junio de 1780 a través del gobernador de Santa Marta y
+    Riohacha, don Antonio de Narváez y la Torre, la cual fue rechazada
+    por el fiscal de la Audiencia de Santa Fe pues hasta el momento sólo
+    se conocía el indulto de desertores promulgado el 23 de febrero de
+    1779. AGNC, sección colonia, juicios criminales, tomo 217, doc. 15,
+    ff. 593r-594v. La orden de publicación del indulto general de
+    desertores (4 de mayo de 1780) fue dada por el gobernador de la
+    provincia de Santa Marta en agosto de 1780, es probable que el
+    indulto general hubiese sido publicado en las ciudades de dicha
+    provincia a las pocas semanas. "El gobernador de Santa Marta acusa
+    recibo de la real orden de indulto a desertores", Santa Marta, 19 de
+    octubre de 1780, AGNC, sección colonia, milicias y marina, tomo 99,
+    f. 777.
+
+[^62]: "Doña Juana María Fernández, sobre que se le indulte a su
+    marido", AGNC, sección colonia, Real Audiencia -- Magdalena, tomo 4,
+    doc. 2.
+
+[^63]: "Doña Juana María Fernández", f. 39r.
+
+[^64]: "Doña Juana María Fernández". Subrayados en el original.
+
+[^65]: "Doña Juana María Fernández", f. 39v.
+
+[^66]: "Doña Juana María Fernández", f. 40r.
+
+[^67]: *Partidas*, P. IV, tít. 21, ley I. Murillo Velarde, *Cursus iuris
+    canonici*, Lib. IV, tít. X, núm. 99.
+
+[^68]: Valga resaltar que la condición del esclavo no era de un simple
+    objeto de propiedad, representaba una dualidad jurídica en la cual
+    se no se entendía la trata de esclavos en el modo de la simple venta
+    de un hombre sino en términos de *traditio*, es decir, de
+    transferencia del dominio o señorío sobre la cosa, de tal manera que
+    no era solamente un objeto que se compraba y vendía, sino un sujeto
+    que tenía derechos. La tradición historiográfica que ha comprendido
+    que los esclavos no eran meros objetos de propiedad se remite al
+    trabajo pionero de Frank Tannenbaum, *Slave and Citizen. The Negro
+    in the Americas* (New York: Vintage Books, 1946), 48--57. Desde una
+    perspectiva más reciente, véase: Alejandro Guzmán Brito, "La
+    tradición como modo de adquirir el dominio en el derecho romano, en
+    el común y en el iusnaturalismo y su destino en los derechos patrios
+    de la América española", *Revista chilena de derecho* 42, núm. 1
+    (2015): 329--44, https://doi.org/10.4067/S0718-34372015000100013;
+    Carolina González Undurraga, "'Para que mi justicia no perezca'.
+    Esclavos y cultura judicial en Santiago de Chile, segunda mitad del
+    siglo XVIII", en *Autoridades y prácticas judiciales en el Antiguo
+    Régimen: problemas jurisdiccionales en el Río de la Plata, Córdoba,
+    Tucumán, Cuyo y Chile*, ed. María Paula Polimene (Rosario:
+    Prohistoria Ediciones, 2011), 59; Luis Prado Arellano, "Esclavismo,
+    consenso y rebelión en la costa pacífica neogranadina, 1810-1830",
+    en *El siglo XVIII americano: estudios de historia colonial*, ed.
+    Catalina Reyes Cárdenas, Juan David Montoya Guzmán, y Sebastián
+    Gómez González, Kindle (Medellín: Universidad Nacional de Colombia,
+    Sede Medellín, Facultad de Ciencias Humanas y Económicas, 2013),
+    sec. Cartografiando el "pacto colonial"; María Cristina Navarrete,
+    *Génesis y desarrollo de la esclavitud en Colombia siglos XVI y
+    XVII* (Universidad del Valle, 2005), 211--33.
+
+[^69]: Sin duda el juicio al que se les sometió y el tácito
+    desterramiento de América coadyuvó a que las denuncias de los
+    frailes se fuesen diluyendo. Al respecto véase el estudio preliminar
+    a Francisco José de Jaca, *Resolución sobre la libertad de los
+    negros y sus originarios, en estado de paganos y después ya
+    cristianos. La primera condena de la esclavitud en el pensamiento
+    hispano*, ed. Miguel Anxo Pena González (Madrid: Consejo Superior de
+    Investigaciones Científicas, 2002).
+
+[^70]: *Partidas*, P. IV, tít. 21, ley. V.
+
+[^71]: *Partidas*, P. IV, tít. 21, ley. VI.
+
+[^72]: Gregorio López, glosa "Quisiere" a *Partidas*, P. IV, tít. 21,
+    ley. VI.
+
+[^73]: "non potest et cum causa dominus immodice fævire in servos: sed
+    oportet, ut fiat per iudicem.", Gregorio López, glosa "Juez" a
+    *Partidas*, P. IV, tít. 21, ley. VI.
+
+[^74]: Así podría entenderse del "espíritu" de la cédula de 15 de abril
+    de 1540 inserta en la *Recopilación de las leyes de los reinos de
+    las Indias*, lib. VII, tít. V, ley VIII.
+
+[^75]: Karen Mejía Velásquez y Luis Miguel Córdoba Ochoa, "La manumisión
+    de esclavos por compra y gracia en la Provincia de Antioquia,
+    1780-1830", *HiSTOReLo. Revista de Historia Regional y Local* 9,
+    núm. 17 (2017): 271--75,
+    https://doi.org/10.15446/historelo.v9n17.57540.
+
+[^76]: Un análisis pormenorizado de esta forma de manumisión fue
+    realizado por Karent Viviana Portilla Herrera, "Aforramientos,
+    pactos y condiciones en los procesos de manumisión, Cali 1750-1810",
+    *Ciencia Nueva. Revista de historia y política* 1, núm. 2 (2017):
+    95--113.
+
+[^77]: Este lenguaje es evidente en los casos presentados por Mejía
+    Velásquez y Córdoba Ochoa, "La manumisión de esclavos", 275--76;
+    Portilla Herrera, "Aforramientos, pactos y condiciones", 100--107.
+
+[^78]: Rafael Antonio Díaz Díaz, *Esclavitud, región y ciudad: el
+    sistema esclavista urbano-regional en Santafé de Bogotá, 1700-1750*
+    (Bogotá: Pontificia Universidad Javeriana, 2001), 221--22. También
+    es relevante su ensayo "¿Es posible la libertad en la esclavitud? a
+    propósito de la tensión entre la libertad y la esclavitud en la
+    nueva granada", *Historia Crítica*, núm. 24 (2017): 67--74,
+    https://doi.org/10.7440/histcrit24.2002.04.
+
+[^79]: Para el caso de la historiografía colombiana el punto de partida
+    lo dio Hermes Tovar en 1992 cuando dijo que el acercamiento de los
+    esclavos a la justicia "significaba para los negros un instrumento
+    muy poderoso contra sus amos y dueños de haciendas", al cual le
+    otorgó el calificativo de "contestatario". Hermes Tovar Pinzón, *De
+    una chispa se forma una hoguera: esclavitud, insubordinación y
+    liberación* (Tunja: Universidad Pedagógica y Tecnológica de
+    Colombia, 1992), 22. Algunos ejemplos de este enfoque para el caso
+    del virreinato de Santa Fe, además de los citados anteriormente, son
+    Roger Pita Pico, "Los procesos judiciales por líos amorosos entre
+    amos y esclavas en el Nuevo Reino de Granada en el periodo colonial:
+    inequidades, estrategias y oportunidades", *Justicia* 24, núm. 35
+    (el 14 de marzo de 2019), https://doi.org/10.17081/just.24.35.3401;
+    Jeisson Alberto Ducuara Nieto, "'La única libertad que tienen estos
+    infelices es la de solicitar amo'. Esclavos y justicia en Ibagué
+    1750-1810", *Revista Grafía* 13, núm. 2 (2016): 29--47; Fanny
+    Beatriz Rangel Buitrago, "Entre la libertad y la esclavitud: Dominga
+    Pérez en el litigio por su libertad y la de sus hijas" (Tesis para
+    optar por el título de maestría en Historia, Universidad de
+    Cartagena, Facultad de Humanidades, Programa de Historia, 2011);
+    Marcela Echeverri, "'Enraged to the limit of despair': Infanticide
+    and Slave Judicial Strategies in Barbacoas, 1788--98", *Slavery and
+    Abolition* 30, núm. 3 (2009): 403--26; María Eugenia Chaves, *Honor
+    y libertad. Discursos y recursos en la estrategia de libertad de una
+    mujer esclava (Guayaquil a fines del periodo colonial)* (Gotemburgo:
+    Departamento de Historia e Instituto Iberoamericano de la
+    Universidad de Gotemburgo, 2001).
+
+[^80]: González Undurraga, "Para que mi justicia no perezca", 61--62.
+
+[^81]: Sobre las acciones colectivas: Renée Soulodre-La France, "Los
+    Esclavos de Su Magestad. Slave Protest and Politics in Late Colonial
+    New Granada", en *Slaves, Subjects, and Subversives. Blacks in
+    Colonial Latin America*, ed. Jane G. Landers y Barry M. Robinson
+    (Albuquerque: University of New Mexico Press, 2006), 176--78.
+
+[^82]: Este caso fue indicado por Beatriz Amalia Patiño Millán,
+    *Criminalidad, ley penal y estructura social en la provincia de
+    Antioquia 1750-1820*, Segunda edición, Colección Memoria viva del
+    bicentenario, Antioquia (Bogotá: Editorial Universidad del Rosario,
+    2013), 84.
+
+[^83]: Como estaba señalado en la *Recopilación de las leyes de Indias*
+    (lib. IV, tít. XI, ley I), la función del procurador general de las
+    ciudades y villas consistía en la asistencia de sus negocios. A
+    partir de la promulgación de la cédula del 31 de mayo de 1789 "sobre
+    la educación, trato y ocupaciones de los esclavos", se determinó que
+    el procurador síndico general debía asumir el papel de "Protector de
+    los Esclavos". Véase la transcripción de la cédula en Manuel Lucena
+    Salmoral, *Los códigos negros de la América Española*, 2a ed.
+    (Alcalá de Henares: Ediciones UNESCO, Universidad de Alcalá, 2000),
+    279--84. Probablemente por esta razón el fiscal del crimen de la
+    Audiencia calificó la actuación del procurador de Medellín como
+    "monstruosa".
+
+[^84]: AGNC, sección colonia, negros y esclavos, Antioquia, tomo 4, doc.
+    17, ff. 952v-253r, 967r y 969r.
+
+[^85]: Rionegro, mayo 22 de 1804, AGNC, sección colonia, negros y
+    esclavos, Antioquia, tomo 4, doc. 17, f. 981r.
+
+[^86]: AGNC, sección colonia, negros y esclavos, Antioquia, tomo 4, doc.
+    17, ff. 987v-988r
+
+[^87]: Patiño Millán, *Criminalidad, ley penal*, 343.
+
+[^88]: Actualmente una vereda del municipio de Ebejicó, Antioquia (ca.
+    6.273594,-75.795547).
+
+[^89]: AHA, sección miscelánea, Criminal, B. 41, leg. 1740-1770, doc.
+    11, f. 21v.
+
+[^90]: AHA, sección miscelánea, Criminal, B. 41, leg. 1740-1770, doc.
+    11, f. 33r-v.
+
+[^91]: AHA, sección miscelánea, Criminal, B. 41, leg. 1740-1770, doc.
+    11, f. 35r.
+
+[^92]: AHM, Concejo de Medellín, Colonia, Actas, tomo 24, ff. 29v.
+
+[^93]: AGNC, sección colonia, negros y esclavos, Cauca, tomo 3, ff.
+    933r-990v. Una mención a este proceso fue realizada por Orian
+    Jiménez Meneses, "Nómadas, errantes y vagabundos en el Nuevo Reino
+    de Granada durante los siglos XVI, XVII y XVIII", *Nómadas*, núm. 10
+    (1999): 191.
+
+[^94]: AGNC, sección colonia, negros y esclavos, Cauca, tomo 3, f. 992v.
+
+[^95]: AGNC, sección colonia, negros y esclavos, Cauca, tomo 3, f.
+    994r-v.
+
+[^96]: *Digesto*, Lib. LXVIII, tít. 19, núm. 5.

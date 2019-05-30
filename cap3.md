@@ -90,10 +90,7 @@ jurídicas y políticas que estructuraban el quehacer de los tribunales en
 las diversas jurisdicciones que tenían que hacerse cargo de conceder o
 negar la liberación de los reos a nombre del rey. Si bien los edictos
 regios hacían claridad sobre los aspectos básicos de la gracia, las
-excepciones superaban con creces el texto promulgado. La complejidad del
-indulto general se refleja, sin duda, en los comentarios de Garsia
-Mastrillo al indulto general de 1606. Al estar dirigida a los
-magistrados sicilianos
+excepciones superaban con creces el texto promulgado.
 
 Tabla 1. Indultos generales decretados entre 1707 y 1810
 

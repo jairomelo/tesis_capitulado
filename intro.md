@@ -44,6 +44,36 @@ la espera de ser hallados, por lo cual debemos resignarnos a las
 respuestas de aquellos que respondieron positivamente a la oferta de
 perdón regio.
 
+Cultura del perdón derivada de la cultura cristiana en la cual se
+insertaba la cultura jurídica. Todos los caminos conducen a Roma, y en
+la cultura jurídica de la monarquía borbónica no era esto un simple
+dicho. Si la casa Borbón emprendió un proceso de reforma institucional
+para evitar los vicios dejados durante el dominio de los Austrias, esto
+no implicó una disociación con la fuerte institucionalidad católica.
+
+La cultura de la época se entiende, aún en esos tiempos de "ilustración"
+y "racionalismo", como embebida en una fuerte creencia en la
+incuestionable verdad del cristianismo. En el caso del perdón y la
+misericordia, la salvación del alma es fundamental. El reconocido
+apotegma "perdónanos como nosotros perdonamos a los que nos ofenden" era
+una ilocución común al conceder el perdón, no sólo entre el pueblo
+llano, sino desde el mismo solio del rey, quien concedía indultos los
+Viernes Santos acompañados de la frase "yo os perdono para que Dios me
+perdone".[^6] No era este entonces un asunto baladí, ni mera formalidad,
+de hecho, era ajeno al formulario el apelar a dios con el propósito de
+blindar un contrato; se exigía jurar a dios para decir la verdad o
+cumplir la promesa, al fin y al cabo no podía existir mayor fianza que
+la del alma,[^7] pero para abandonar la injuria no era necesario apelar
+a la divinidad, se hacía porque de este modo un acto gratuito de
+sacrificio se podía hacer merecedor a la gracia en el empíreo. De hecho,
+era un asunto serio, tanto que el defensor de un cuatrero fue
+recriminado y casi amonestado por haberse atrevido al pedirle al alcalde
+ordinario de Girón que indultara a su parte "porque si no perdonamos,
+tampoco Dios nos perdonará". El Fiscal consideró que este era un
+"supersticioso uso de la oración" del padre nuestro, un exceso con el
+que se había faltado a la fe "que como católico cristiano debía
+guardar".[^8]
+
 ### Historiografía
 
 Haber profundizado en el perdón real del antiguo régimen desde diversas
@@ -51,40 +81,40 @@ perspectivas nos ha permitido desentrañar un campo de estudio con una
 riqueza que no es detectable a simple vista. Son reconocidos los
 trabajos de Tomás y Valiente sobre el perdón de parte y la monografía de
 María Inmaculada Rodríguez sobre el perdón real como los textos
-canónicos para el ámbito hispano.[^6] Para un contexto más amplio son
+canónicos para el ámbito hispano.[^9] Para un contexto más amplio son
 imprescindibles las obras de Natalie Zemon Davis y Claude Gauvard, ambas
 enfocadas en Francia, la primera con un interés en la cultura francesa
 del siglo XVI vista a través de las *lettres de remision*, en tanto la
 segunda explora el perdón como parte de un análisis amplio del crimen y
-el castigo hacia finales del medioevo francés.[^7] Ya en el mundo
+el castigo hacia finales del medioevo francés.[^10] Ya en el mundo
 americano, el trabajo de Alejandro Agüero para la provincia de Córdoba
 de Tucumán se ha instalado como el referente obligado para comprender la
 flexibilidad de la justicia de antiguo régimen desde la perspectiva de
-la clemencia, el perdón y el disimulo;[^8] que viene a complementar el
-clásico, pero no obsoleto, trabajo de Abelardo Levaggi.[^9]
+la clemencia, el perdón y el disimulo;[^11] que viene a complementar el
+clásico, pero no obsoleto, trabajo de Abelardo Levaggi.[^12]
 
 Es apenas obvio que la bibliografía no se agota en este puñado de obras
 y, aunque no sea posible identificar una "línea de investigación"
 dedicada al perdón y el indulto, progresivamente aumentan los
 investigadores interesados en el tema desde ambos lados del
-Atlántico.[^10] Destaco aquí los trabajos de Víctor Manuel Uribe-Urán,
+Atlántico.[^13] Destaco aquí los trabajos de Víctor Manuel Uribe-Urán,
 Sarissa Carneiro, Gribrán Bautista Lugo y Angela Ballone, para el caso
-de Nueva España;[^11] las investigaciones de Violet Soen para el Flandes
-hispano;[^12] los textos derivados de la investigación sobre la práctica
+de Nueva España;[^14] las investigaciones de Violet Soen para el Flandes
+hispano;[^15] los textos derivados de la investigación sobre la práctica
 de escribanos y el perdón para el ámbito chileno realizados por Aude
 Argouse y María Eugenia Albornoz (ambas editoras de la revista "Historia
-y Justicia"),[^13] así como el trabajo de Gaune y Undurraga sobre la
-circulación del discurso del perdón entre Roma y Santiago.[^14] Para el
+y Justicia"),[^16] así como el trabajo de Gaune y Undurraga sobre la
+circulación del discurso del perdón entre Roma y Santiago.[^17] Para el
 ámbito de nuestro interés vale señalar las menciones dispersas de Tamar
 Herzog acerca de la práctica del indulto en el ámbito de la Audiencia de
 Quito, similares a las menciones de Ots Capdequí sobre el Nuevo Reino o
-de Lalinde para la institución virreinosenatorial.[^15] Específicamente
+de Lalinde para la institución virreinosenatorial.[^18] Específicamente
 dedicadas al ámbito del Nuevo Reino de Granada y con una mayor
 profundidad en el análisis se destacan los trabajos de Verónica Salazar
 y María Montoya Gómez, el primero entrelazando celebraciones regias con
 peticiones de perdón o ratificación de la reconciliación tras las
 rebeliones, el segundo, enfocado en el indulto general dado a los
-comuneros del Socorro en 1782.[^16]
+comuneros del Socorro en 1782.[^19]
 
 Debido a la amplitud temática que pretende abarcar este proyecto se ha
 preferido distribuir el balance historiográfico en cada capítulo, esto
@@ -115,10 +145,10 @@ del derecho canónico, y la colección general contiene un amplísimo
 catálogo de recopilaciones y facsímiles de obras jurídicas fundamentales
 para el derecho hispano-indiano.
 
-Doctrina como opinión y *auctoritas*:[^17]
+Doctrina como opinión y *auctoritas*:[^20]
 
 Saavedra Fajardo. La edición de 1642 publicada en Milán se considera
-como "de referencia"[^18] y fue de esta que se derivaron las
+como "de referencia"[^21] y fue de esta que se derivaron las
 reimpresiones del siglo XVIII e inicios del XIX (Madrid, 1724 y
 1789-1790; Valencia, 1786 y 1800-1801). La comparación entre las
 diferentes reimpresiones muestra que éstas fueron copias fieles a la
@@ -146,7 +176,7 @@ tras la separación de la provincia de Caracas, alcanzaba desde el norte
 hasta el sur una extensión de cerca de 2000 kilómetros, en tanto su
 longitud no fue claramente definida, como diría Francisco Silvestre,
 este era un virreinato "cuya extensión pasa de 800 leguas por lo
-largo,[^19] y que no se le conosen límites por lo ancho."[^20]
+largo,[^22] y que no se le conosen límites por lo ancho."[^23]
 
 Metodología
 -----------
@@ -179,11 +209,11 @@ que permite hacer pesquisas específicas, no es tanto una utilidad para
 el descubrimiento significativo de textos; básicamente, porque la
 compañía dio prioridad a la cantidad sobre la profundidad lo que,
 incluso con un proceso de automatización avanzado, genera una importante
-cantidad de errores y malinterpretaciones en las búsquedas.[^21]
+cantidad de errores y malinterpretaciones en las búsquedas.[^24]
 Derivado de lo anterior, se prefirió el uso de repositorios con
 curadurías especializadas así como buscadores relacionados con éstos
 sitios, específicamente *Europeana* y la *Biblioteca Virtual del
-Patrimonio Bibliográfico*.[^22] En la sección de referencias
+Patrimonio Bibliográfico*.[^25] En la sección de referencias
 bibliográficas se incluyó un apartado para listar los diferentes
 recursos electrónicos disponibles en la Web: archivos, bibliotecas,
 diccionarios, recursos para consultas semánticas, y ediciones digitales
@@ -231,32 +261,44 @@ palabras.
     and the Event: Reflections on the Limits of Contextualization", *New
     Literary History* 42, núm. 4, (2011): 557--71.
 
-[^6]: Francisco Tomás y Valiente, "El perdón de la parte ofendida en el
+[^6]: Francisco Antonio de Elizondo, *Práctica universal forense de los
+    tribunales de España y de las Indias*, tomo V (Madrid: Joaquín
+    Ibarra, 1785), parte II, cap. XIV, núm. 6.
+
+[^7]: Los testamentos son una fuente privilegiada para el estudio de la
+    salvación del alma, de la cual hay una interesante tradición
+    historiográfica.
+
+[^8]: "Petición de perdón por el defensor de un cuatrero", Girón, 10 de
+    julio de 1799, AHRS, archivo histórico judicial de Girón, paq. 59,
+    leg. 19, f. 30r.
+
+[^9]: Francisco Tomás y Valiente, "El perdón de la parte ofendida en el
     Derecho penal castellano (siglos XVI, XVII y XVIII)", *Anuario de
     historia del derecho español*, núm. 31 (1961): 55--114; María
     Inmaculada Rodríguez Flores, *El perdón real en Castilla (siglos
     XIII-XVIII)* (Salamanca: Universidad de Salamanca, 1971).
 
-[^7]: Natalie Zemon Davis, *Fiction in the Archives: Pardon Tales and
+[^10]: Natalie Zemon Davis, *Fiction in the Archives: Pardon Tales and
     Their Tellers in Sixteenth-Century France* (Stanford University
     Press, 1987); Claude Gauvard, *De grace especial: crime, Etat et
     société en France à la fin du Moyen Age*, vol. I, II vols. (Paris:
     Publications de la Sorbonne, 1991).
 
-[^8]: Alejandro Agüero Nazar, *Castigar y perdonar cuando conviene a la
+[^11]: Alejandro Agüero Nazar, *Castigar y perdonar cuando conviene a la
     República: la justicia penal de Córdoba del Tucumán, siglos XVII y
     XVIII* (Madrid: Centro de Estudios Políticos y Constitucionales,
     2008).
 
-[^9]: Abelardo Levaggi, "Las instituciones de clemencia en el Derecho
+[^12]: Abelardo Levaggi, "Las instituciones de clemencia en el Derecho
     penal rioplatense", *IV Congreso del Instituto Internacional de
     Historia del Derecho Indiano*, 1976, 243--98.
 
-[^10]: Un listado colaborativo de obras dedicadas al perdón y al indulto
+[^13]: Un listado colaborativo de obras dedicadas al perdón y al indulto
     puede consultarse en
     [[https://www.zotero.org/groups/1716155/historia\_del\_perdn\_y\_el\_indulto]{.underline}](https://www.zotero.org/groups/1716155/historia_del_perdn_y_el_indulto)
 
-[^11]: Víctor Manuel Uribe-Urán, "Innocent Infants or Abusive
+[^14]: Víctor Manuel Uribe-Urán, "Innocent Infants or Abusive
     Patriarchs? Spousal Homicides, the Punishment of Indians and the Law
     in Colonial Mexico, 1740s--1820s", *Journal of Latin American
     Studies* 38, núm. 04 (2006): 793--828,
@@ -274,7 +316,7 @@ palabras.
     conflict resolution in the Iberian Atlantic*, European expansion and
     indigenous response, volume 24 (Leiden ; Boston: Brill, 2018).
 
-[^12]: Violet Soen, "¿Cómo practicar la virtud? Protagonistas y
+[^15]: Violet Soen, "¿Cómo practicar la virtud? Protagonistas y
     pareceres en la querella sobre la virtud de la clemencia durante la
     guerra de Flandes (1565-1585)", en *El gobierno de la virtud:
     política y moral en la Monarquía Hispánica (siglos XVI-XVIII)*, ed.
@@ -289,7 +331,7 @@ palabras.
     (1578-1592)", *Journal of Early Modern History* 16, núm. 1 (2012):
     1--22, https://doi.org/10.1163/157006512X620627.
 
-[^13]: Aude Argouse, "'Ausente como si fuésedes presente'. Perdón,
+[^16]: Aude Argouse, "'Ausente como si fuésedes presente'. Perdón,
     memoria, escribanos, Chile S. XVI-XVIII", *Mouseion*, núm. 18
     (2014): 55--74, https://doi.org/10.18316/1676; María Eugenia
     Albornoz Vásquez, "Cortar la causa, no admitir más escrito, obligar
@@ -299,13 +341,13 @@ palabras.
     (España y América, siglos XVI-XIX)*, ed. Elisa Caselli (Madrid:
     Fondo de Cultura Económica, red columnaria, 2016), 125--57.
 
-[^14]: Rafael Gaune y Verónica Undurraga, "El Perdón como espacio
+[^17]: Rafael Gaune y Verónica Undurraga, "El Perdón como espacio
     normativo. Circulación, mediación y traducción de discursos
     religiosos entre Roma y Santiago, Siglo XVII", *Jahrbuch für
     Geschichte Lateinamerikas -- Anuario de Historia de America Latina*
     52, núm. 1 (2016): 87, https://doi.org/10.7767/jbla-2015-0106.
 
-[^15]: Tamar Herzog, *La administración como un fenómeno social: la
+[^18]: Tamar Herzog, *La administración como un fenómeno social: la
     justicia penal de la ciudad de Quito (1650 - 1750)*, Historia de la
     sociedad política (Madrid: Centro de Estudios Constitucionales,
     1995), 248--50; Tamar Herzog, "El rescate de una fuente histórica:
@@ -318,38 +360,38 @@ palabras.
     virreino-senatorial en Indias", *Anuario de historia del derecho
     español* XXXVII (1967): 210--13.
 
-[^16]: Verónica Salazar Baena, "Fastos monárquicos en el Nuevo Reino de
+[^19]: Verónica Salazar Baena, "Fastos monárquicos en el Nuevo Reino de
     Granada. La imagen del rey y los intereses locales. Siglos
     XVII-XVIII" (Tesis doctoral, Universidad de Barcelona, 2013); María
     Victoria Montoya Gómez, "Castigo y perdón: el movimiento comunero.
     Nuevo Reino de Granada, 1781", *Mouseion*, núm. 18 (2014): 35--53.
 
-[^17]: Víctor Tau Anzoátegui, *El jurista en el Nuevo Mundo.
+[^20]: Víctor Tau Anzoátegui, *El jurista en el Nuevo Mundo.
     Pensamiento. Doctrina. Mentalidad*, Global Perspectives on Legal
     History 7 (Frankfurt am Main: Max Planck Institute for European
     Legal History, 2016), 101--40, https://doi.org/10.12946/gplh7.
 
-[^18]: Diego Saavedra Fajardo, "Idea de un príncipe político cristiano",
+[^21]: Diego Saavedra Fajardo, "Idea de un príncipe político cristiano",
     ed. Enrique Suárez Figaredo, *Lemir: Revista de Literatura Española
     Medieval y del Renacimiento*, núm. 20 (2016): 522.
 
-[^19]: Aproximadamente 4457 kilómetros si se toma como base la medida
+[^22]: Aproximadamente 4457 kilómetros si se toma como base la medida
     tradicional que establecía la legua común en 20000 pies castellanos
     (cerca de 5572 metros). Valentina Garza Martínez, "Medidas y caminos
     en la época colonial: expediciones, visitas y viajes al norte de la
     Nueva España (siglos XVI-XVIII)", *Fronteras de la Historia* 17,
     núm. 2 (2012): 197 y 218.
 
-[^20]: Francisco Silvestre, *Relación de la provincia de Antioquia*,
+[^23]: Francisco Silvestre, *Relación de la provincia de Antioquia*,
     Ediciones especiales 4 (Medellín: Secretaría de Educación y Cultura
     de Antioquia, 1988), 483.
 
-[^21]: Un corto ensayo fue escrito al respecto en Jairo Antonio Melo
+[^24]: Un corto ensayo fue escrito al respecto en Jairo Antonio Melo
     Flórez, "Lectura distante, fragmentada y colaborativa en el archivo
     infinito", *Relaciones. Estudios de Historia y Sociedad* 38, núm.
     149 (2017): 169--89.
 
-[^22]: Unión Europea, *Europeana Collections*, 2019,
+[^25]: Unión Europea, *Europeana Collections*, 2019,
     [[https://www.europeana.eu/]{.underline}](https://www.europeana.eu/)
     ; Ministerio de Cultura y Deporte de España, *Biblioteca Virtual del
     Patrimonio Bibliográfico*, 2017,

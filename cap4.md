@@ -1004,6 +1004,15 @@ noticias de las abdicaciones de Bayona, los levantamientos en rechazo a
 José Bonaparte, y la formación de la autoproclamada Suprema Junta de
 Sevilla.[^123]
 
+Ídem: Medellín CRIMINALES-JUICIOS:SC.19,205,D.9 \>\> Patiño Millán,
+Antioquia, "La costumbre de que se promulgaran indultos con motivo de la
+jura de un Rey, nacimiento de un infante, importantes victorias
+militares, etc., llevó a // que varios reos se acogieran al Real perdón
+en 1808 cuando Carlos IV abdicó a favor de Fernando VII. Las autoridades
+de la provincia tuvieron que aclarar que no habían recibido Real Orden
+ni providencia de indulto, lo que era obvio pues en ese momento España
+estaba siendo invadida por tropas francesas." pp. 84-85.
+
 [^1]: María Asenjo-González, "Función pacificadora y judicial de los
     corregidores en las villas y ciudades castellanas, a fines de la
     edad media", *Medievalista. Online*, núm. 18 (2015): párr. 36,

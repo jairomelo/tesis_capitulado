@@ -57,12 +57,22 @@ Sección colonia:
 >
 > Caciques e indios, tomo 41.
 >
-> Juicios criminales, tomos 2, 6, 34, 49, 54, 58, 64, 68, 76, 87, 102,
-> 103, 114, 130, 131, 134, 136, 138, 148, 157, 176, 216, 217.
+> Juicios criminales, tomos 2, 6, 34, 49, 54, 58, 63, 64, 67, 68, 76,
+> 87, 102, 103, 114, 130, 131, 134, 136, 138, 148, 157, 176, 216, 217.
 >
 > Milicias y marina, tomos 4, 11, 16, 35, 50, 53, 99.
 >
 > Miscelánea, tomos 59, 112.
+>
+> Negros y esclavos
+>
+> Antioquia, tomo 4.
+>
+> Cauca, tomo 3.
+>
+> Magdalena, tomo 2.
+>
+> Venezuela, tomo 1.
 >
 > Poblaciones varias, tomo 10.
 >
@@ -76,6 +86,8 @@ Virreyes, tomo 1.
 
 Sección archivo anexo:
 
+Justicia, tomo 6
+
 > Reales cédulas y órdenes, tomo 16
 
 ***Archivo Histórico de Antioquia (Medellín)***
@@ -86,14 +98,25 @@ Sección gobierno, fondo gobernación de Antioquia:
 >
 > Reales órdenes, tomo 4
 
+Sección miscelánea, fondo criminal, tomo B.41
+
 ***Archivo Histórico de Medellín (Medellín)***
 
-Fondo Concejo de Medellín, sección colonia, reales cédulas, tomos 13,
-33, 37.
+Fondo Concejo de Medellín, Sección colonia
+
+Actas, tomo 24.
+
+Procesos, tomo 76.
+
+Reales cédulas, tomos 13, 33, 37.
 
 ***Archivo Histórico Nacional (Madrid)***
 
 Consejo de Indias, Secretaría de Presidencia, 21672.
+
+***Archivo Histórico Regional de Santander (Bucaramanga)***
+
+Archivo histórico judicial de Girón, paquetes 5b y 19.
 
 ***Biblioteca Luis Ángel Arango (Bogotá)***
 
@@ -175,6 +198,9 @@ Gálvez, José de. *Informe sobre las rebeliones populares de 1767 y otros
 documentos inéditos*. Editado por Felipe Castro Gutiérrez. Serie
 Historia novohispana 43. México: Universidad Nacional Autónoma de
 México, 1990.
+
+Garriga, Josef. *Continuación y suplemento del prontuario de don Severo
+Aguirre*. Madrid: imprenta de don Ramón Ruíz, 1804.
 
 Huerto Vizcarra, Héctor, ed. *La rebelión de Túpac Amaru II*. Segunda
 edición. 7 vols. Nueva Colección Documental de la Independencia del
@@ -275,9 +301,6 @@ causas del oficio de justicia contra los abusos introducidos* \[1794\].
 Segunda edición. 2 vol. Madrid: Imprenta de la viuda de Ibarra,
 1796-1797.
 
-Asso, Ignacio Jordán de. *Instituciones del derecho civil de Castilla*
-\[1771\]*.* Edición cuarta. Madrid: Imprenta de Andrés de Sotos, 1786.
-
 Azpilcueta, Martín de. *Manual de confessores y penitentes* \[1553\].
 Salamanca: en casa de Andrea de Portonariis, 1556.
 
@@ -297,12 +320,20 @@ Caussin, Nicolas. *La corte santa*. Traducción de Pedro González de
 Godoy, quinta impresión. Barcelona: imprenta de Juan Pablo y Juan Marti,
 1718.
 
+Colón de Larreátegui, Félix. *Juzgados militares de España y sus Indias*
+\[1788\]. Tercera edición corregida y aumentada. 4 vol. Madrid: Ibarra,
+1817.
+
 Elizondo, Francisco Antonio de. *Práctica universal forense de los
 tribunales de España y de las Indias*. 8 tomos. Madrid: Joaquín Ibarra,
 1783-1788.
 
 Erasmus, Desiderius. *Institutio Principis Christiani* \[1516\].
 Basilea: Froben, 1519.
+
+Febrero, José. *Librería de escribanos, é instrucción jurídica theorico
+practica de principiantes.* 3 vol. Madrid: Imprenta de don Pedro Marín,
+1789. Edición facsimilar en Madrid: Consejo General del Notariado, 1990.
 
 Gómez, Antonio. *Variæ resolutiones juris civilis, communis, et regii*
 \[1563\]. Editio novissima. Londres : Petri Bruyset et sociorum, 1744.
@@ -321,6 +352,9 @@ Madrid: por Ramón Ruiz en la imprenta de Ulloa, 1790.
 
 Hostiensis (Enrique de Segusio). *Summa Aurea* \[ca. 1253, 1ª impresión
 1512\]. Basilea: Thomam Guarinum, 1573.
+
+Jordán de Asso, Ignacio. *Instituciones del derecho civil de Castilla*
+\[1771\]*.* Edición cuarta. Madrid: Imprenta de Andrés de Sotos, 1786.
 
 Juan y Colom, Joseph. *Instruccion de escribanos en orden a lo judicial;
 utilisima tambien para procuradores y litigantes donde sucintamente se
@@ -366,6 +400,9 @@ Tourmes, 1670.
 \[1569\]. Edición enmendada y aumentada. Génova: Samuelis de Tournes,
 1690.
 
+Monterroso y Alvarado, Gabriel de. *Práctica civil y criminal, y
+instrucción de escribanos* \[1563\]*.* Madrid: Juan de la Cuesta, 1609.
+
 Murillo Velarde, Pedro. *Cursus iuris canonici, hispani et indici*
 \[1743\]. Editio tertia. Madrid: Tipografía de Ulloa y Ramón Ruiz, 1791.
 Traducción española por Alberto Carrillo Cázares (coord.) *Curso de
@@ -392,6 +429,9 @@ Palafox y Mendoza, Juan de. *Historia Real Sagrada, luz de príncipes y
 súbditos* \[1643\]. Segunda impresión corregida y aumentada. Bruselas:
 casa de Francesco Foppens, 1655.
 
+Palomares, Tomás de. *Estilo nuevo de escrituras públicas* \[1645\].
+Madrid: Imprenta Real, 1656.
+
 Peña Montenegro, Alonso de la. *Itinerario para párrocos de indios*
 \[1668\]. Nueva edición purgada. Madrid: oficina de Pedro Marín, 1771.
 
@@ -412,6 +452,9 @@ del Reyno, 1639.
 Ribadeneyra, Pedro de. *Tratado de la religión y virtudes que deve tener
 el Príncipe Christiano, para governar y conservar sus estados*. Amberes:
 Imprenta plantiniana, 1597.
+
+Rodríguez de San Miguel, Juan N. *Pandectas hispano-megicanas*. 3 vol.
+México: oficina de Mariano Galván Rivera, 1839-1840.
 
 Saavedra Fajardo, Diego de. *Idea de un príncipe político cristiano
 representada en cien empresas*. Mónaco, s.n., 1640, Milán, s.n., 1642.
@@ -453,6 +496,9 @@ Agencia Española de Cooperación Internacional para el Desarrollo
 
 Archivo General de la Nación de Colombia. *ArchiDoc*. 2014.
 [[http://consulta.archivogeneral.gov.co/ConsultaWeb/]{.underline}](http://consulta.archivogeneral.gov.co/ConsultaWeb/)
+
+Archivo Histórico de Medellín. *Repositorio digital*. 2019.
+[[https://ahmedellin.janium.net/janium-bin/busqueda\_rapida.pl?Id=20131203095407]{.underline}](https://ahmedellin.janium.net/janium-bin/busqueda_rapida.pl?Id=20131203095407)
 
 Archivo Nacional de Asunción. *Sección historia*. sf.
 [[http://historia.anasnc.senatics.gov.py/index.php/seccion-historia]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/seccion-historia)
@@ -521,7 +567,12 @@ Romae. Pamplona: Ad Universitatis Studiorum Navarrensis, 2001.
 Unión Europea. *Europeana Collections*. 2019.
 [[https://www.europeana.eu/]{.underline}](https://www.europeana.eu/)
 
-Universidad Rey Juan Carlos, *Biblioteca digital. Colección fondo
+Universidad de Granada. *Fondo Antiguo*. *Repositorio Institucional*.
+sf.
+[[http://digibug.ugr.es/handle/10481/163]{.underline}](http://digibug.ugr.es/handle/10481/163)
+\[acceso con registro\]
+
+Universidad Rey Juan Carlos. *Biblioteca digital. Colección fondo
 antiguo*. 2018.
 [[https://eciencia.urjc.es/]{.underline}](https://eciencia.urjc.es/)
 

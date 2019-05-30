@@ -600,7 +600,7 @@ Fecha: 3 de noviembre de 1761
 >
 > Solorzano.
 
-Anexo . Solicitud de indulto del procurador de menores de la ciudad de
+Anexo 8. Solicitud de indulto del procurador de menores de la ciudad de
 Antioquia a favor del negro bozal "Antonio" y aceptación por el alcalde
 ordinario (1761)
 
@@ -931,7 +931,65 @@ Fecha: 23 de febrero de 1779
 > habilitado por S. M. en ausencia del Señor Secretario. Don Antonio de
 > Prado.
 
-Anexo 11. Real Cédula de indulto y perdón general a todos los reos,
+Anexo 11. Apartamiento de querella por precio (1780)
+
+Fuente: AGNC, sección colonia, juicios criminales, tomo 148, doc. 1, ff.
+81r-82r.
+
+Lugar: Santa Fe
+
+Fecha: 10 de mayo de 1780
+
+> *En virtud de transacion se aparta de la querella.*
+>
+> MPS
+>
+> Don Agustín Josef Sanches, pobre de solmnidad y recidente en esta
+> ciudad, en los autos con Don Joaquin Montesdeoca sobre agravios e
+> injusta pricion que penden en esta Real Audiencia, premisso lo
+> nesesario en la mejor forma de derecho, paresco ante Vuestra Alteza y
+> digo: que precediendo mi solicitud, dimanó de la justificacion de
+> Vuestra Alteza que dicho Don Joaquin dejara para el juicio fianza
+> segura de jusgado, y sentenciada hasta en la cantidad de mil pesos, y
+> para verificarlo que fuera arrestado en la Real carzel de Corte, y
+> como se halle conducido á ella para dicho fin, y teniendo ya el pleno
+> conocimiento de la inbiolable guarda de justicia, que es notoria de
+> vuestro rexio tribunal, y por otros motivos que le havran ocurrido,
+> solicita por medio de personas de resp\[e\]to el que yo me aparte de
+> la querella, y perdone el agravio ofreciendome por vausa de esto, y
+> para resarsir mis perdidas, darme en buena moneda quatro cientos
+> pesos. Por cuio motivo y que conosco el arrepentimiento del agravio
+> con mas // que no es mi animo el molestarlo ni aflixirlo, con poca
+> caridad, sino solo el ocurrir a los quebrantos que apdeci, y no quedar
+> agraviado, y assi mismo, viendo los daños que se me siguen a mi y a mi
+> familia, deteniendome para un dilatado pleito en que vendré á padecer
+> indecibles incomodidades; tengo por mas combeniente haseptar lo
+> propuesto de transacion de la demanda, y apartame como me aparto
+> (luego que se me entreguen los dichos quatro cientos pesos) de toda
+> accion, acusacion, y querella, que por esta causa tocarme pueda contra
+> dicho don Joaquin, ni que por los agravios á mi inferidos se le siga
+> el menor daño, ni molestia, y que se reputen tan perfectam\[en\]te
+> estinguidos como si no hubiera precedido ni el menor movim\[ien\]to en
+> mi ofensa, y en virtud de esta manifestacion de mi voluntad, ocurro á
+> Vuestra Alteza para que se digne mandar el que quede libre de todo
+> reato, como por sentencia absolutoria, dicho don Joaquin, y que con
+> toda promtitud se le alse la carzeleria a que está reducido, que asi
+> corresponde en virtud de la transaccion y desistencia, y en meritos de
+> justicia mediante la que
+>
+> A Vuestra Alteza reverentemente suplico se digne ádmitir mi
+> dessistencia de la querella que por causa de los agravios de estos
+> autos corresponda // y que quede del todo libre dicho don Joaquin,
+> segun llevo pedido, que juro y protexto en devida forma lo necesario,
+> etc.
+>
+> Don Francisco Gonzales Manrique \[abogado asesor letrado\]
+>
+> Agustín Josef Sanches
+>
+> Luis de Ovalle \[Procurador de número de la Real Audiencia\]
+
+Anexo 12. Real Cédula de indulto y perdón general a todos los reos,
 concedida por el nacimiento del príncipe don Carlos Domingo Eusebio
 (1780)
 
@@ -992,7 +1050,7 @@ Fecha: 8 de junio de 1780
 > Por mandado del Rey nuestro señor Miguel de San Martin Cueto. Hay tres
 > rúbricas.
 
-Anexo 12. Edicto para manifestar al público el indulto general,
+Anexo 13. Edicto para manifestar al público el indulto general,
 concedido por nuestro Católico Monarca el Señor Don Carlos III a todos
 los comprehendidos en las revoluciones acaecidas en el año pasado de mil
 setecientos ochenta y uno (1782)
@@ -1470,7 +1528,7 @@ Fecha: 6 de agosto de 1782
 >
 > Antonio Arzobispo Virrey de Santa Fé
 
-Anexo 13. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
+Anexo 14. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
 indulto que ha concedido a los compreendidos en las alteraciones pasadas
 y hace distintas reflexiones acalarando las razones que ha tenido para
 expedirlo en los términos que está (1783)
@@ -1642,7 +1700,7 @@ Fecha: 15 de octubre de 1783
 >
 > *Excelentísimo Señor Don José de Galvez*
 
-Anexo 14. Real Decreto sobre indulto de militares procesados por delitos
+Anexo 15. Real Decreto sobre indulto de militares procesados por delitos
 (1783)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 53, ff. 188-189.
@@ -1725,7 +1783,7 @@ Fecha: 10 de octubre de 1783
 > guarde á V. \_\_\_ muchos años. Madrid 10 de Octubre de 1783. = Don
 > Matéo de Villamayor.
 
-Anexo 15. Indulto general (1784)
+Anexo 16. Indulto general (1784)
 
 Fuente: AGNC, S Colonia, F Real Audiencia, SC Cundinamarca, leg. 17, ff.
 744r-745v.
@@ -1808,7 +1866,7 @@ Fecha: 16 de enero de 1784
 >
 > Fuy presente, Calvo.
 
-Anexo 16. Indulto de desertores (1789)
+Anexo 17. Indulto de desertores (1789)
 
 Fuente: Félix Colón de Larreátegui, *Juzgados militares de España y sus
 Indias,* tomo IV (Madrid: por la viuda de Ibarra, 1789), 193-194, n. 1.
@@ -1877,7 +1935,7 @@ Fecha: 16 de enero de 1789
 >
 > Don Gerónimo Caballero
 
-Anexo 17. Real Decreto de Carlos IV sobre indulto a los desertores del
+Anexo 18. Real Decreto de Carlos IV sobre indulto a los desertores del
 ejército con motivo del matrimonio de su hijo Fernando (1802)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 50, f. 1091.
@@ -1936,7 +1994,7 @@ Fecha: 5 de octubre de 1802
 >
 > Sr. Virey de Santa Fé
 
-Anexo 18. Indulto de la pena de privación de empleo a oficiales que se
+Anexo 19. Indulto de la pena de privación de empleo a oficiales que se
 hubieran casado sin el Real permiso (1802)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 11, ff. 984-985.
@@ -1979,7 +2037,7 @@ Fecha: 5 de octubre de 1802
 >
 > \[José Antonio\] Caballero
 
-Anexo 19. Real Cédula sobre indulto general concedido con motivo del
+Anexo 20. Real Cédula sobre indulto general concedido con motivo del
 matrimonio del Príncipe (1803)
 
 Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
@@ -2061,7 +2119,7 @@ Fecha: 25 de julio de 1803
 >
 > Yo El Rey
 
-Anexo 20. Indulto de desertores: decreto del gobierno peninsular al
+Anexo 21. Indulto de desertores: decreto del gobierno peninsular al
 respecto (1804)
 
 Fuente: AGNC, Colonia, fondo milicias y marina, tomo 100, f. 13.
@@ -2115,7 +2173,7 @@ Fecha: 29 de octubre de 1804
 >
 > Sr. Virrey del Nuevo Reyno de Granada
 
-Anexo 21. Real Decreto de José Napoleón por el que se otorga el indulto
+Anexo 22. Real Decreto de José Napoleón por el que se otorga el indulto
 general a los oficiales y soldados desertores que prestasen el juramento
 prescrito en la Constitución (1808)
 
@@ -2205,7 +2263,7 @@ Fecha: 23 de julio de 1808
 >
 > Al Ministro de Negocios extranjeros
 
-Anexo 22. Indulto promulgado por el virrey Antonio Amar y Borbón (1808)
+Anexo 23. Indulto promulgado por el virrey Antonio Amar y Borbón (1808)
 
 Fuente: AGNC, Sección Colonia, Juicios Criminales, Leg. 2, doc. 14, ff.
 758r-761v
