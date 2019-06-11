@@ -184,6 +184,9 @@ condenados.[^14]
 El perdón particular del virrey Solís
 -------------------------------------
 
+Si a los reyes se les apodara, el virrey Solís debería tener el
+apelativo de "clemente".
+
 En este caso, Agustín de la Rosa Abreu y su hijo fueron acusados del
 homicidio de un mulato esclavo de su propiedad, hecho por el cual el
 primero fue condenado en julio de 1750 a servir diez años en las
@@ -907,30 +910,32 @@ excusar al agresor.[^89]
 Tras unos cuantos alegatos entre los procuradores, el defensor de
 menores aprovechó que el tres de noviembre de 1761 se publicó en
 Antioquia la cédula de indulto general por la coronación de Carlos III
-(véase anexo 7) y al día siguiente presentó su solicitud ante el mismo
-alcalde ordinario. Como se puede observar, la impetración del procurador
-Toro Cataño (copiada en el anexo 8) se dividió en dos partes, la primera
-dedicada a exponer al alcalde ordinario más antiguo que no había
-posibilidad de demostrar plenamente la culpabilidad del esclavo Antonio
-en la muerte de su tocayo, en tanto la segunda puntualizó los aspectos
-jurídicos de la gracia expuestos en la cédula, de tal manera que fuera
-evidente que su defendido estaba incluido dentro de los sujetos
-perdonados por el rey.[^90] La aprobación del alcalde Campillo se
-conformó con los argumentos del procurador, calificando el delito de
-Antonio como involuntario y validando así que el esclavo podría quedar
-remitido de la pena. Finalmente, se ordenó que la decisión fuese
-comunicada a su amo, "para que como acrehedor legitimo á su servidumbre
-disponga de él, segun fuere su conveniencia, con excepcion de que si
-tubiere dicho negro causales para ser amparado de la Real justicia, en
-no bolver al poder de su dicho amo, y que se le de otro de nuebo".[^91]
-Aunque no quedó consignado en el expediente si el esclavo Antonio fue
-retornado a quien lo había comprado contra su voluntad, fue indicado que
-pertenecía a otro amo al ser requerido nuevamente por la justicia por
-haber dado muerte alevosa, la noche del 3 de marzo de 1777, al zambo
-Juan José Samarra (o Zamarra), alcaide de la cárcel de la villa de
-Medellín.[^92] No tenemos copia del caso subsiguiente, pero difícilmente
-podría haber aspirado a ninguna clase de indulto al haber cometido otro
-homicidio.
+(véase anexo "Auto de obedecimiento de la cédula de indulto de Carlos
+III en la ciudad de Antioquia... (1761)") y al día siguiente presentó su
+solicitud ante el mismo alcalde ordinario. Como se puede observar, la
+impetración del procurador Toro Cataño (copiada en el anexo "Solicitud
+de indulto del procurador de menores de la ciudad de Antioquia...
+(1761)") se dividió en dos partes, la primera dedicada a exponer al
+alcalde ordinario más antiguo que no había posibilidad de demostrar
+plenamente la culpabilidad del esclavo Antonio en la muerte de su
+tocayo, en tanto la segunda puntualizó los aspectos jurídicos de la
+gracia expuestos en la cédula, de tal manera que fuera evidente que su
+defendido estaba incluido dentro de los sujetos perdonados por el
+rey.[^90] La aprobación del alcalde Campillo se conformó con los
+argumentos del procurador, calificando el delito de Antonio como
+involuntario y validando así que el esclavo podría quedar remitido de la
+pena. Finalmente, se ordenó que la decisión fuese comunicada a su amo,
+"para que como acrehedor legitimo á su servidumbre disponga de él, segun
+fuere su conveniencia, con excepcion de que si tubiere dicho negro
+causales para ser amparado de la Real justicia, en no bolver al poder de
+su dicho amo, y que se le de otro de nuebo".[^91] Aunque no quedó
+consignado en el expediente si el esclavo Antonio fue retornado a quien
+lo había comprado contra su voluntad, fue indicado que pertenecía a otro
+amo al ser requerido nuevamente por la justicia por haber dado muerte
+alevosa, la noche del 3 de marzo de 1777, al zambo Juan José Samarra (o
+Zamarra), alcaide de la cárcel de la villa de Medellín.[^92] No tenemos
+copia del caso subsiguiente, pero difícilmente podría haber aspirado a
+ninguna clase de indulto al haber cometido otro homicidio.
 
 No todos los casos resultaban claramente en la concesión del indulto.
 Eusebio Rodríguez, propiedad de don Francisco José de Arboleda, había

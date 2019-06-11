@@ -711,7 +711,318 @@ Fecha: 4 y 7 de noviembre de 1761
 >
 > Juan Antonio de Orellana. Escribano público.
 
-Anexo 9. Representación de la tropa levantada en Panamá (1766)
+Anexo . Carta del apoderado de los barrios de Quito, Don Antonio Araujo,
+exponiendo al virrey los motivos de la inquietud (1765)
+
+Fuente: AGI, Quito, 398
+
+Lugar: Quito
+
+Fecha: 13 de julio de 1765
+
+> \[f. 409r\] Exmo Sr.
+>
+> Aunque es empresa dificil justificar hechos que tienen apariencias de
+> sublevacion sin embargo, como la Real Audiencia me nombrase procurador
+> á pedimento de los barrios de San Roque, San Sebastian, San Blas, y
+> Santa Barbara para su defensa, no puedo excusarme de exponer á VE
+> humildemente aquellas mismas razones, que los moradores de dichos
+> Barrios, congregados en un cuerpo me expresaron, á fin de que pr medio
+> de este informe sincerasse su conducta para el respetabilissimo juicio
+> de VE. En primer lugar desean eficacissimamente persuadir y hacer
+> sensible á VE el calamitoso estado de pobreza á que se ha reducido
+> esta provincia, antes floreciente de riquezas y comercio, mas el dia
+> de oy tan atrasada y consumida, que puede considerarse con razon la
+> mas pobre en toda la America. Y para que este concepto no parezca
+> encarecimiento de hombres sediciosos que procuran con color de
+> necesidad honestar sus atrevimientos, expresan á VE las \[f. 409v\]
+> causas que han inducido el total consumo de dinero en la provincia de
+> Quito. Es constante que á ella por ningun conducto se le introduze
+> dinero, no es fecuda de minerales, ni tiene oficinas de moneda. Antes
+> la comunicacion del Perú, mediante el comercio de los paños que se
+> fabrican en esta Provincia le acarreaba el dinero necesario para su
+> regular subsistencia. El dia de oy se halla cortado este comercio á
+> beneficio del de Cartagena, por haverlo conseguido assi los
+> comerciantes Europeos de la carrera de Cartagena con informes
+> subrepticio, que presentaron en esse supremo govierno, y assi el
+> ingreso no solo es incierto pero ciertamente ninguno. Mas las salidas
+> son indefectibles, porque los derechos reales de Tributos, Alcavalas y
+> Estancos han deducido y deducen todos los años crecidissimas sumas de
+> plata, su comercio con Cartagena no solo la emriqueze, pero la consume
+> notoriamente, porque los mercaderes le acarrean inmensas cantidades de
+> ropas de Castilla, que vendidas en precios correspondientes á esta
+> distancia, sacan de esta Provincia todos los años sumas increibles de
+> dinero. Consideradas assi por mayor estas causas, manifiestan con
+> quanta evidencia es posible la extrema \[f. 410r\] pobreza a que se há
+> reducido esta provincia, porque si por ninguna parte le entra dinero,
+> y se le extrahe por conductos tan incesantes, es preciso, segun el
+> orden natural de las cosas, que haya llegado á consumirse y que el
+> curso de tantos años, gastando la perennemente, la tenga casi acabada.
+> Padecen esta calamidad las personas de mayor lustre, cuya riqueza se
+> reduze al nombre de sus haziendas, tan gravadas y recargadas de censos
+> y pensiones que sus poseedores mas son esclavos de los fundos para
+> satisfacer sus servidumbres, que dueños de sus frutos. Y si los que
+> tienen estigmacion de ricos viven en tal inopia, qual será la
+> condicion de la plebe?
+>
+> Los Barrios de esta ciudad se componen de los individuos mas pobres,
+> su miserable y penosa constituzion los hace ya tocar el ultimo termino
+> de la Pobreza. Aun en circunstancias tan graves no fue la ereccion de
+> la Aduana resistida de los Barrios, cuya insigne lealtad jamás reclama
+> contra los ordenes superriores, preciandose de saberlos obedecer y
+> executar, y entendiendo que la obediencia de los subditos no tiene
+> arbitrio para discurrir en quanto á los intereses de la \[f. 410v\]
+> Real Hazienda, aun con el pretexto de combeniencia ó de imposibilidad.
+>
+> Exigiose con efecto la causa de Aduana, sin resistencia del Pueblo, y
+> assimismo huviera subsistido, si á lo menos en los principios se
+> procediesse con algun termino moderado. Pero no se guardó en esto la
+> debida prudenncia, porque aun no bien establecida, se exigian sus
+> derechos, con nimio rigor, no solo a los tratantes, sino aun a las
+> personas privilegiadas y de los viveres que se introduzen para
+> alimento, sin causa de venta ni comercio. Se cobraron á los Religiosos
+> á los clerigos seculares, á los yndios y á otras personas miserables.
+> El abuso que hubo en esto, si bien no se executase por disposizion de
+> el aduanero Don Juan Diaz de Herrera, es cierto, que practicandose por
+> sus receptores subalternos consternó á todos, especialmente á la
+> plebe, que como tiene la considerazion mas preocupada de las
+> calamidades presentes, es mas sensible á las exacciones. Aunque el
+> expresar los hechos particulares, que persuaden á que el abuso seria
+> negocio de una relacion mui extensa, á que no da lugar la brevedad de
+> este informe, no obstante confiados en la humanissima attencion de VE
+> tienen \[f. 411r\] aliento los Barrios para exponer algunos hechos
+> notables. Fuera de cobrarse á las Religiones aquel derecho de sus
+> alimentos, como de las ovejas que se trahian á la recoleccion de San
+> Diego por via de limosna, se exigieron de las especies de regalo, como
+> de dos arrobas de cacao al Padre Thomas Poolo de la Compañía de Jesus,
+> á Don Nicolas Carrion le llevaron el valor de treinta pepinos por
+> derecho de Aduana, y lo mismo se practicó con don Vicente de Borja por
+> una carguita de fruta, con el Maestr de Campo Don Manuel Guerrero por
+> un poco de hortaliza, con Joseph de Ybarrondo por otra cestilla de
+> fruta, y con otors muchos, que seria mui largo nombrar. Los yndios
+> eran obligados á pagar el mismo derecho de sus carguitas de sal,
+> legumbres, agi, huebos, esteras y otras menudenzias, deteniendoselas y
+> mandandoles bolver al otro dia, y como esta gente es de suyo
+> pusilanime, no bolvian mas á recaudarlas, creyendo que havian
+> incurrido en caso de comiso y perdimento. El hecho es cierto de
+> haverse hallado cantidad de todas estas especies en la casa de Aduana.
+> Ahora los rumores que se divulgaban mediante la indiscreta credulidad
+> \[f. 411v\] del vulgo eran de que por los contados de Presidios
+> rusticos y urbanos, havian de pagar sus dueños el tres por ciento. Que
+> se imponia el tributo de quatro á los niños que naciesen en adelante.
+> Que numeraban las piedras de los Rios, que bañan esta ciudad, para que
+> las labanderas, que usan ellas, pagassen un real por cada piedra. Que
+> se estancaba el Tabaco, el Azucar, las Papas, el Maiz, y la Sal. Si
+> bien el rumor en quanto á la Sal tuvo fundamento porque con efecto,
+> despues del insulto se halló en la casa cantidad de sal y de esteras,
+> estas especies afligian gravemente los animos de todos. No fueron mas
+> piadosos los rumores por lo respectivo á las Aguardientes, pues se
+> decia, que en la Aduana se componia este licor con los otros simples
+> mas ardientes y malignos, quales son la cal, el chamico, el ballico,
+> la cabuya y otras especiesde qualidad de leteria, á fin de darles una
+> fortaleza suprema para mexor reputazion de la Aguardiente. Confirmose
+> todo para la opinion del vulgo con haver salido la mañana, que
+> precedió á la noche de la invasion don Bartholomé Puyol, Don Miguel
+> Erboso, Don Domingo Andraca y otros sugetos á reconocer y numerar los
+> huertos urbanos de esta ciudad \[f. 412r\] y en efecto registraron
+> todo el Barrio de San Roque y parte del de San Sebastian, imponiendo
+> el gravamen de quatro pesos por solar de tierra, sin embargo de los
+> clamores con que se les representó, que aquellos retacitos de tierra
+> no fructifican mas que una corta hortaliza, insuficiente aun para el
+> gasto domestico, y el consuelo fue responderles, que con levantarse
+> una horca en cada barrio se allanarian las dificultades, y satisfarian
+> las quexas. Esta fue la ultima disposicion que preparó el insulto de
+> la Aduana executado la noche veinte y dos de Mayo de este presente
+> año. La accion fue solamente estrepitosa, sin que los Barrios
+> pretendiesen mas que suspender el curso de la Aduana, y la imposicion
+> de los pechos con demostraciones de tumulto, dando lugar para mejor
+> informe á VE á fin de que se aliviasse á esta Provincia de las
+> expresadas imposiciones. No executaron estrago considerable aquella
+> noche á excepcion de haver quebrantado las Puertas de la casa y
+> derramado los caldos, no hubo efusion de sangre, saqueo ni otro
+> desorden, y la gente de los Barrios se retiró toda poco despues de
+> media noche. POr la mañana la acometieron y debastaron los yndios
+> hasta el estado en que se haia \[f. 412v\] este primer movimiento se
+> pacificó facilmente y al otro dia se restituyó la plebe á su ordinaria
+> tranquilidad y disciplina politica con entera sumision á la justicia.
+> Assi hubiera perseverado si otros accidentes, que sobrevinieron de
+> nuevo no la turbassen en el todo. Como los españoles europeos por
+> respctos nacionales aborrecen á los españoles americanos de esta
+> Provincia y mucho mas á los mestizos y criollos plebeyoos, estimularon
+> al corregidor Don Manuel Sanchez Pareja, para que con pretexto de
+> ronda se diesse principio al castigo de los amotinados
+> representandooles, que matando en cada Barrio algun numero
+> considerable de gente, humillarian del todo el ordullo y ardimiento de
+> la plebe. Con este proyecto sallieron la noche del veinte y tres de
+> junio y pasando por el Barrio de San Sebastian hallaron algunos mozos
+> blancos, que dentro de sus tiendas se entretenian en tripudios
+> vulgares, y los azotaron con nimia severidad. El dia siguiente
+> dispusieron los mismos españoles (conocidos por chapetones) que la
+> ronda se executasse con el rigor dispuesto; y para esto pasó el
+> corregidor a consultarla á los señores oydores. Los señores Don Luis
+> de Santa Cruz, Don Juan Navarro, y Dn Gregorio Zapata fueron de
+> parecer contrario, aconsejando \[f. 413r\] al corregidor que usasse de
+> alguna templanza, y lenidad entretanto que las cosas tomaban mejor
+> temperamento, que segun el aspecto de la plebe aun no combenía apurar
+> el castigo; que hay ocasiones, en que conviene el disimulo y suele á
+> beneficio del tiempo apagar mayores sediciones. Que no era bien con el
+> ruido de los castigos dar materia á los quexosos para nuevas
+> inquietudes. Especialmente haviendose dado ya cuenta de lo acaecido á
+> VE de donde en todo caso debia esperarse la mas oportuna resolucion.
+> El Corregidor expuso que para aquel procedimiento tenia orden superior
+> á que havia de obedecer, sin embarazarse en otros pareceres. Y con
+> esta determinacion pasó aquella misma noche al Barrio de San Sebastian
+> donde los chapetones, que le acompañaban mataron dos mozos á balazos é
+> hirieron otros dos mortalmente de lo quales murió despues el uno. Como
+> la plebe reputa á los chapetones por sus mas sangrientos enemigos, en
+> un momento se conmoció el Barrio de San Sebastian y los demas Barrios
+> á la voz de que los chapetones iban matando á quantos encontraban y
+> que havian determinado acabar con todos, Y vea aqui VE el origen de un
+> nuevo tumulto mas encendido, que el primero \[f. 413v\] el horror de
+> los chapetones, de que estaba preocupado el vulgo, hizo facilmente
+> concebir, que aquellas muertes no eran decretos de la justicia, ni
+> hubo quien creyesse que el insulto pasado se castigaba en aquellos
+> hombres innozentes no convencidos de haver tenido parte en la
+> conjuracion, y assi la gente de los barrios lo atribuyó al odio de los
+> nacionales que con él especiosos pretexto de el motin, querian
+> desahogar sus pasiones, ensangrentandose en aquellos mozos indefensos
+> y humildes. Y aunque despues se há dicho de parte de los chapetones,
+> que hallaron gente armada al ingreso de dicho Barrio, esta especie es
+> calumniosa, porque ciertamente el Barrio reposaba tranquilo en sus
+> horas regulares de quietud, á excepcion de quatro ó cinco mozos de
+> aquellos que suelen pasar las noches bebiendo y paseando las calles.
+> Armaronse pues luego todos los barrios, creyendo que podian resistir
+> con fuerza la que solo havian concebido violencia de los chapetones. Y
+> merece reflexion que no se enderezasse el tumulto á la casa real ni á
+> la plaza, sino á la de Don Angel Yzquierdo \[f. 414r\] Europeo. Es el
+> caso que a dicho Don Angel se le cayeron algunas proposiciones llenas
+> de ardor contra los Barrios desde un dia antes, y aquella noche le
+> havian visto herir á los mozos muertos, manejando el fusil. En efecto
+> invadieron la casa sin hacer estrago en ella, de donde tomaron ocasion
+> los ladrones, que como en todas partes infestan esta ciudad, y le
+> saquearon el Almazen en que se cree haver tenido la mayor parte los
+> mismos sirvientes de Don Angel. Entonces se vió que los chapetones,
+> que afectan servir á SM en todo trance, ocurrieron á defender la casa
+> de Don Angel, no haviendo hecho otro tanto por la Aduana. Como las
+> armas de los chapetones eran ventajosas, y la gente tumultuada iba sin
+> orden y sin disciplina militar, executaron en ella un considerable
+> estrago. Sin embargo cedieron los chapetones á la multitud, aunque
+> confusa, y en la mayor parte desarmada, y se retiraron á la plaza,
+> donde estaba ya la gente noble de esta ciudad prebenida y ordenada.
+> Pero \[f. 414v\] los Barrios tubieron tiempo de disponerse mexor y á
+> las dos de la mañana abansaron imptuosamente á la Plaza. La accion fue
+> dudosa hasta las tres, en que los Barrios havian ganado la mayor parte
+> del Pretil, desamparando todos los chapetones sus puestos y ganarian
+> la Plaza enteramente si por la parte del Pretil no fuesen rechazados
+> vigorosamente por el Capitan Don Nicolas Calisto de Alarcon con mui
+> pocos criollos de su Compañia, hasta sacarlos enteramente del Pretil y
+> mas de media quadra de la calle recta del Colegio de la Compañia de
+> Jesus, y fueron asimismo resistidos del Señor Don Juan Navarro los que
+> acometieron por el Pretil de la casa episcopal y retirados con muerte
+> de muchos con lo que se retiraron todos. A la mañana siguiente
+> atacaron la plaza por todas quatro partes, pero se retiraron luego.
+> Despues no hubo refriega considerable, sino es que los chapetones
+> discurrian por las calles haciendo bastante estrago en los que
+> encontraban, sin entrar á los Barrios. Hasta este dia creian estos que
+> el ataque havia sido solo contra los \[f. 415r\] chapetones, sin
+> pensar que se violentasse á la justicia, ni que huviesse desacato á
+> SM. Luego que dió lugar el estrepito de las Armas, los curas, los
+> religiosos de todos ordenes y sus capitanes pacificadores les dieron á
+> entender que el tumulto se dirigia contra la Justicia, y en ofensa de
+> SM (que Dios guarde) significandoles la gravedad de su delito. Lo que
+> bbastó para contenerlos, expresando todos haver procedido con absoluta
+> ignorancia de esto. Por lo que sin embargo de que los chapetones
+> havian desertado el Pretil, estaban refugiados en divrsos lugares
+> sagrados, se estubieron quieros los Barrios, ni hubo mas noveddad que
+> la de pedir las armas, de las que se llevó la mayor parte á depositar
+> en el Camarin de Nuestra Señora del Rosario, á custodia de la REligion
+> de Predicadores. Y este pedimento hizo la plebe infima del tumulto,
+> como menos instruida y mas atemorizada de los chapetones,
+> persuadiendose que de este modo los desarmaban para la venganza y
+> aseguraban su propria salud. Para pedirlas, expresaron el motivo \[f.
+> 415v\] de que amenazaba á la ciudad la conjuracion secreta de los
+> yndios, á quiens ofrecian contener armandose, como con efecto los
+> contubieron, porque el Barrio de San Roque guardó la entrada de los
+> Yndios por el arco llamdo de Maria Magdalena, el de San Sebastian
+> guardó el Puente del Rio de Machangara, y el de San Blas su entrada de
+> Añaquito, verificandose que los yndios acometieron por todas tres
+> partes en multitud considerable. Aquel temor y esta defensa induxeron
+> el exceso de pedir las armas, aun entendiendo que les era licito y no
+> ofensivo á SM el precautelarse de los que reputaban enemigos
+> implacables. Ahora, excelentisimo señor, han sido plenamente
+> instruidos por sus Capitanes, Curas y demas Predicadores de los
+> excesos perpetrados y llenos de confusion y arrepentimiento ocurren á
+> la commiseracion de VE. Tiene la confianza de que VE los mirará mas
+> como Padre benefico, que como juez inexorable. Piden el perdon,
+> suplicando rendidamente que la justiciada integridad de VE tenga
+> presente que los errores cometidos \[f. 416r\] fueron abortos de su
+> ignorancia, mas que conjuraciones prebenidas maliciosamente. Que la
+> gente de Quito há sido siempre fidelissima á su Catholico Monarca,
+> siempree pacífica y la mas apartad de bullicios. Que por una parte su
+> extrema pobreza, no bien significada todavia, y poor otra los pechos,
+> con que se les amenazaba, estimularon al pueblo mas humilde y quieto
+> del mundo á tomar las armas. Que las inconsideradas deliberaciones de
+> el vulgo hán merecido en todos tiempos y en todas partes, indulgencia
+> y disculpa en fuerza de su ignominia y falta de conocimiento. Que
+> ninguno de los movimientos populares se enderezó contra la justicia ó
+> el Herario real, y aun teniendo á los juezes desarmados no abusaaron
+> de esta oportunidad para cometer algun insulto, contentandose con
+> asegurar de este modo sus vidas. Y si pidieron constantemente que
+> salieran los chapetones de esta ciudad exceptuaron siempre á los
+> casados en ella, reduciendo su pedimento á los casados en otras
+> provincias y á los solteros, que no havin manifestado sus partidas de
+> registro conforme á las Leyes municipales. Y aun en este pedimento
+> conforme \[f. 416v\] á derecho dicen, que no hubieran insistido con
+> tanta constancia, si los chapetones con su porte no se huviessen
+> conciliado desde mucho tiempo el odio popular. Porque son
+> demasiadamente ostentosos, afectando siempre cierta superioridad
+> odiosa, respecto de los criollos hasta querer deprimir la Nobleza
+> Patricia, y respecto de la plebe es mas insufrible su tratto, porque
+> los llaman mestizos, improperandolos y vilipendiandolos. Sueles
+> hallarse aun entre los mismos chapetones de mexor policia, cuyo tratto
+> es mui distinto, locusion blanda y agradable, los quales son tenidos
+> en grande estima, y reputados por Noble y de buena educacion. Que
+> tenga VE asimismo presente, que al punto que entendieron los Barrios
+> el tamaño de su delito, se dispusieron a restituir las armas y las
+> restituyeron con efecto, sin reservar alguna con señales evidentes de
+> verdadero arrepentimiento. Suplicaron á la Real Audiencia, que
+> pareciesse en publico, y les manifestasse el retrato de su catholico
+> Monarcha. Y á vista suya en este acto tan solemne, pidieron rendidos
+> el perdon de sus yerros. El qual concedió \[f. 417r\] la Real
+> Audiencia, segun consta de los testimonios que acompañan á este
+> informe. Que se prometen guardará VE esta palabra, que se les há dado
+> en nombre de su Soberano. Que con ocasion del tumulto se há derramado
+> mucha sangre de gente miserable. Pues en opinion de algunos llegan los
+> muertos al numero de quinientos y por el computo mas moderado llegan á
+> trescientos, fuera de los heridos, sin que los chapetones hayan
+> perdido un solo individuo, pues los que murieron por parte de la
+> justicia fueron todos criollos de aquellos, que se exponian á los
+> trances mas peligrosos. Toda esta sangre parece bastante vindicta de
+> la justicia, y quando no lo sea esperar de la benignidad de VE el mas
+> seguor perdon, como vasallos fieles, rendidos y humildes de SM para
+> que para acreditar la buena disposicion de sus animos no han omitido
+> todas las demostraciones de que son capaces, prestando sus fueron á la
+> justicia, para \[f. 417v\] atajar los desordenes que acarrean
+> semejantes inquietudes, acompañando la de cada Barrio todas las noches
+> para las rondas con el numero de gentes que se les ha pedido. De que
+> resulta hallarse en tan breve tiempo enteramente pacificada la ciudad,
+> y tal vez reducida á mas segura obediencia de la justicia. Fuera de
+> esto se han ofrecido poor escrito á oponerse á los yndios (cuyos
+> tratados secretos se ignoran) con animo de sacrificar en servicio de
+> SM hasta la ultima gota de su sangre, si fuesse nezesario. Cuyo
+> testimonio incluyo á VE. En tal estado solo esperan efectos de
+> clemencia y benignidad, que produciran la mas segura y constante
+> obediencia. Que son todas las razones que me expresaron dichos Barrios
+> fidelissimamente dirigidas á VE en virtud del nombramiento. Cuyo
+> testimonio incluyo.
+>
+> Nuestro señor guarde\... Quito y Julio 13 de 1765.
+>
+> Exmo Sr. Domingo de Araujo
+>
+> Exmo Sr. Pedro Mesia de la Zerda.
+
+Anexo 10. Representación de la tropa levantada en Panamá (1766)
 
 Fuente: AGI, Panamá, 358
 
@@ -839,7 +1150,7 @@ Fecha: 25 de septiembre de 1766
 >
 > Joachim Figueroa
 
-Anexo 10. Orden de indulto para quienes estuvieran presos por varios
+Anexo 11. Orden de indulto para quienes estuvieran presos por varios
 delitos, con exclusión de los reos por crímenes de lesa majestad (1779)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 16, ff. 146-150.
@@ -931,7 +1242,7 @@ Fecha: 23 de febrero de 1779
 > habilitado por S. M. en ausencia del Señor Secretario. Don Antonio de
 > Prado.
 
-Anexo 11. Apartamiento de querella por precio (1780)
+Anexo . Apartamiento de querella por precio (1780)
 
 Fuente: AGNC, sección colonia, juicios criminales, tomo 148, doc. 1, ff.
 81r-82r.
@@ -989,12 +1300,15 @@ Fecha: 10 de mayo de 1780
 >
 > Luis de Ovalle \[Procurador de número de la Real Audiencia\]
 
-Anexo 12. Real Cédula de indulto y perdón general a todos los reos,
+Anexo 13. Real Cédula de indulto y perdón general a todos los reos,
 concedida por el nacimiento del príncipe don Carlos Domingo Eusebio
 (1780)
 
-Fuente: Archivo Histórico de Medellín, Fondo Concejo de Medellín, SC
-Colonia, SR Reales Cédulas, tomo 33, ff. 332r-334v.
+Fuente: AHM, Fondo Concejo de Medellín, SC Colonia, SR Reales Cédulas,
+tomo 33, ff. 332r-334v. AGNC, sección colonia, juicios criminales, tomo
+139, doc. 11, ff. 542r-544v. Félix Colón de Larreátegui, *Juzgados
+militares de España y sus Indias,* tomo IV (Madrid: por la viuda de
+Ibarra, 1789), 192, n. 1.
 
 Lugar: Aranjuez
 
@@ -1050,7 +1364,7 @@ Fecha: 8 de junio de 1780
 > Por mandado del Rey nuestro señor Miguel de San Martin Cueto. Hay tres
 > rúbricas.
 
-Anexo 13. Edicto para manifestar al público el indulto general,
+Anexo 14. Edicto para manifestar al público el indulto general,
 concedido por nuestro Católico Monarca el Señor Don Carlos III a todos
 los comprehendidos en las revoluciones acaecidas en el año pasado de mil
 setecientos ochenta y uno (1782)
@@ -1528,7 +1842,52 @@ Fecha: 6 de agosto de 1782
 >
 > Antonio Arzobispo Virrey de Santa Fé
 
-Anexo 14. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
+Anexo . Petición de indulto de Eugenio Poveda (1783)
+
+Fuente: AGNC, sección colonia, juicios criminales, tomo 64, doc. 18, f.
+369r-v.
+
+Lugar: Socorro
+
+Fecha: 8 de marzo de 1783
+
+> \[f. 369r\] Señor Alcalde Ordinario mas antiguo
+>
+> Eugenio Pobeda vecino de esta villa, pobre de toda solemnidad, preso
+> en esta Real Carcel ante Vuestra Merced, segun derecho y como mas
+> favorable al mio combenga digo: Que yo hace cosa de seys semanas que
+> padesco preso acerrosado de su orden en esta Real Carcel por la muerte
+> de Ygnacio de Urive, que le resultó de reyerta que tubimos y por
+> defenderme de la fueria con que la vida me tiró á quitar, una noche
+> tarde de ella, que de hecho, y caso pensado, y bien prevenido, salió
+> al encuentro mio, al de Bartolomé Buga, de Don Vicente Pelaes, y de
+> Ygnacio Martines, que ibamos juntos con nuestras maletas á costillas,
+> quales nos iba á quitar despoticamente para apropiarselas como lo
+> probaré en caso necesario. Y como quiera que yo hubiera andado recliso
+> lo mas del tiempo solicitando el mas oportuno para el efecto de
+> vindicarme y que viniendo á ello fui preso en Poyma \[sic = Poima\] y
+> remitido á su Jusgado. Siendo pues que oy que se cuentan ocho de Marzo
+> estamos \[d\]entro del término asignado, que se previene en la Real
+> Cedula \[de\] indulto general que Su Magestad libró piadosamente en
+> ocho de Junio de mil septecientos ochenta en acim\[ient\]o de gracias
+> por el nacimiento de Nuestro Principe Don Carlos Domingo Eucebio, qual
+> se promulgo en esta villa en trece de septiembre de ochenta y dos.
+> Espero que en su observacion se declare mi delito por incluso en los
+> perdonados por Su Magestad en dicho Real Yndulto general haci por
+> razon de hacer esta mi precentacion en tiempo, y mejor en derecho,
+> como por el Perdon de la viuda que se contiene deve preceder qual
+> protesto precentar a su tiempo con las demas pruebas de mi
+> yncumbencia, con que haga ver mi ignocencia, que no lo hago haora
+> porque no estan en mi poder y \[f. 369v\] solo si esta mi precentacion
+> porque no se rinda el termino asignado y me seda perjuicio. Por todo
+> lo qual, y justicia conforme.
+>
+> A Vuestra Merced suplico provea y mande hacer como solicito, protesto
+> y juro en devida forma no proceder de malicia y lo necesario etc.
+>
+> Eugenio Pobeda
+
+Anexo 16. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
 indulto que ha concedido a los compreendidos en las alteraciones pasadas
 y hace distintas reflexiones acalarando las razones que ha tenido para
 expedirlo en los términos que está (1783)
@@ -1700,7 +2059,7 @@ Fecha: 15 de octubre de 1783
 >
 > *Excelentísimo Señor Don José de Galvez*
 
-Anexo 15. Real Decreto sobre indulto de militares procesados por delitos
+Anexo 17. Real Decreto sobre indulto de militares procesados por delitos
 (1783)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 53, ff. 188-189.
@@ -1783,7 +2142,7 @@ Fecha: 10 de octubre de 1783
 > guarde á V. \_\_\_ muchos años. Madrid 10 de Octubre de 1783. = Don
 > Matéo de Villamayor.
 
-Anexo 16. Indulto general (1784)
+Anexo 18. Indulto general (1784)
 
 Fuente: AGNC, S Colonia, F Real Audiencia, SC Cundinamarca, leg. 17, ff.
 744r-745v.
@@ -1866,7 +2225,7 @@ Fecha: 16 de enero de 1784
 >
 > Fuy presente, Calvo.
 
-Anexo 17. Indulto de desertores (1789)
+Anexo 19. Indulto de desertores (1789)
 
 Fuente: Félix Colón de Larreátegui, *Juzgados militares de España y sus
 Indias,* tomo IV (Madrid: por la viuda de Ibarra, 1789), 193-194, n. 1.
@@ -1935,7 +2294,7 @@ Fecha: 16 de enero de 1789
 >
 > Don Gerónimo Caballero
 
-Anexo 18. Real Decreto de Carlos IV sobre indulto a los desertores del
+Anexo 20. Real Decreto de Carlos IV sobre indulto a los desertores del
 ejército con motivo del matrimonio de su hijo Fernando (1802)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 50, f. 1091.
@@ -1994,7 +2353,7 @@ Fecha: 5 de octubre de 1802
 >
 > Sr. Virey de Santa Fé
 
-Anexo 19. Indulto de la pena de privación de empleo a oficiales que se
+Anexo 21. Indulto de la pena de privación de empleo a oficiales que se
 hubieran casado sin el Real permiso (1802)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 11, ff. 984-985.
@@ -2037,7 +2396,7 @@ Fecha: 5 de octubre de 1802
 >
 > \[José Antonio\] Caballero
 
-Anexo 20. Real Cédula sobre indulto general concedido con motivo del
+Anexo 22. Real Cédula sobre indulto general concedido con motivo del
 matrimonio del Príncipe (1803)
 
 Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
@@ -2119,7 +2478,7 @@ Fecha: 25 de julio de 1803
 >
 > Yo El Rey
 
-Anexo 21. Indulto de desertores: decreto del gobierno peninsular al
+Anexo 23. Indulto de desertores: decreto del gobierno peninsular al
 respecto (1804)
 
 Fuente: AGNC, Colonia, fondo milicias y marina, tomo 100, f. 13.
@@ -2173,7 +2532,7 @@ Fecha: 29 de octubre de 1804
 >
 > Sr. Virrey del Nuevo Reyno de Granada
 
-Anexo 22. Real Decreto de José Napoleón por el que se otorga el indulto
+Anexo 24. Real Decreto de José Napoleón por el que se otorga el indulto
 general a los oficiales y soldados desertores que prestasen el juramento
 prescrito en la Constitución (1808)
 
@@ -2263,7 +2622,7 @@ Fecha: 23 de julio de 1808
 >
 > Al Ministro de Negocios extranjeros
 
-Anexo 23. Indulto promulgado por el virrey Antonio Amar y Borbón (1808)
+Anexo 25. Indulto promulgado por el virrey Antonio Amar y Borbón (1808)
 
 Fuente: AGNC, Sección Colonia, Juicios Criminales, Leg. 2, doc. 14, ff.
 758r-761v
@@ -2383,9 +2742,7 @@ Fecha: 14 de octubre de 1808
 > mil ocho cientos y ocho años= Ramon Bustamante.
 
 [^1]: En la transcripción de Colón de Larriátegui: \"Asimismo usando de
-    su Real benignidad\...\" \[\"circular a los Capitanes Generales e
-    Inspectores del Ejército, madrid, 8 de abril de 1780.\" *Juzgados
-    militares*\[1789\], T. IV, p. 192, \"Indulto\", núm. 2, nota 1.
+    su Real benignidad\...\"
 
 [^2]: \"Y ha declarado S.M.\" Colón de Larriátegui, *Juzgado militares*.
 

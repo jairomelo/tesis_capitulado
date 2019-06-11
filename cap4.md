@@ -1374,7 +1374,8 @@ estaba siendo invadida por tropas francesas." pp. 84-85.
 
 [^79]: Phelan, 308--10.
 
-[^80]: BNC, Fondo Quijano, vol. 254, pza. 10. **Véase anexo 11**
+[^80]: BNC, Fondo Quijano, vol. 254, pza. 10. **Véase anexo "Edicto para
+    manifestar al público el indulto general ... (1782)"**
 
 [^81]: Sobre el uso de la imprenta por la administración santafereña
     véase Renán Silva, *Los ilustrados de Nueva Granada, 1760-1808:
@@ -1411,7 +1412,8 @@ estaba siendo invadida por tropas francesas." pp. 84-85.
     de 1782, BLAA-RM, MSS756, vol. 1, ff. 41r-41v. Otra copia se puede
     consultar en "No. 3, el Arzobispo virrey de Santa Fe dirije seis
     exemplares del yndulto...", AGI, Santa Fe, 594. Incluyo la
-    transcripción en el **anexo 12**
+    transcripción en el **anexo "El arzobispo virrey de Santa Fe dirige
+    seis ejemplares del indulto... (1783)"**
 
 [^88]: "Caballero y Góngora a José de Gálvez", f. 46v-47r.
 

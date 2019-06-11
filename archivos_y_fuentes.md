@@ -34,13 +34,13 @@ Sección colonia, fondo judicial, civil y criminal.
 
 ***Archivo General de Indias (Sevilla)***
 
-Audiencia de Caracas, 81
+Audiencia de Caracas, 81.
 
-Audiencia de Lima, 691
+Audiencia de Lima, 691.
 
-Audiencia de Panamá, 358
+Audiencia de Panamá, 299, 358.
 
-Audiencia de Quito, 398
+Audiencia de Quito, 358, 398.
 
 Audiencia de Santa Fe, 193, 546, 547, 548, 575, 577B, 594, 682, 940,
 1200.
@@ -53,16 +53,17 @@ Papeles de Cuba, 717.
 
 Sección colonia:
 
-> Aduanas, tomo 11
+> Aduanas, tomo 11.
 >
-> Caciques e indios, tomo 41.
+> Caciques e indios, tomo 41, 54, 139.
 >
-> Juicios criminales, tomos 2, 6, 34, 49, 54, 58, 63, 64, 67, 68, 76,
-> 87, 102, 103, 114, 130, 131, 134, 136, 138, 148, 157, 176, 216, 217.
+> Juicios criminales, tomos 2, 6, 34, 40, 49, 54, 58, 63, 64, 67, 68,
+> 75, 76, 87, 90, 102, 103, 114, 130, 131, 134, 136, 138, 148, 157, 176,
+> 205, 216, 217.
 >
 > Milicias y marina, tomos 4, 11, 16, 35, 50, 53, 99.
 >
-> Miscelánea, tomos 59, 112.
+> Miscelánea, tomos 10, 59, 112.
 >
 > Negros y esclavos
 >
@@ -78,25 +79,27 @@ Sección colonia:
 >
 > Real Audiencia
 
-Cundinamarca, tomo 17
+Cundinamarca, tomo 17.
 
-Magdalena, tomo 4
+Magdalena, tomo 4.
 
 Virreyes, tomo 1.
 
 Sección archivo anexo:
 
-Justicia, tomo 6
+Justicia, tomo 6.
 
-> Reales cédulas y órdenes, tomo 16
+> Reales cédulas y órdenes, tomo 16.
 
 ***Archivo Histórico de Antioquia (Medellín)***
 
 Sección gobierno, fondo gobernación de Antioquia:
 
-> Reales cédulas, tomo 2
+> Decretos superiores, tomo 18.
 >
-> Reales órdenes, tomo 4
+> Reales cédulas, tomo 2.
+>
+> Reales órdenes, tomo 4.
 
 Sección miscelánea, fondo criminal, tomo B.41
 
@@ -105,6 +108,8 @@ Sección miscelánea, fondo criminal, tomo B.41
 Fondo Concejo de Medellín, Sección colonia
 
 Actas, tomo 24.
+
+Despachos, tomo 11.
 
 Procesos, tomo 76.
 
@@ -155,19 +160,23 @@ Fuentes primarias impresas
 Abreu y Bertodano, José Antonio de. *Colección de los tratados de paz,
 alianza, neutralidad, garantía, protección, tregua, mediación, accesión,
 reglamento de límites, comercio, navegación, etc. hechos por los
-pueblos, reyes y príncipes de España*. (Madrid: Antonio Marín, Juan de
-Zúñiga y la viuda de Peralta, 1752)
+pueblos, reyes y príncipes de España*. Madrid: Antonio Marín, Juan de
+Zúñiga y la viuda de Peralta, 1752.
 
 Ayala, Manuel José de. *Diccionario de gobierno y legislación de
 Indias*. Editado por Milagros del Vas Mingo. 13 vols. Madrid: Instituto
 de Cooperación Iberoamericana : Ediciones de Cultura Hispánica, 1988.
+
+Bello, Andrés. *Obras completas de don Andrés Bello*. Editado por Miguel
+Luis Amunátegui. 15 vols. Santiago de Chile: Impreso por Pedro G.
+Ramírez, 1885.
 
 Bentura Beleña, Eusebio. *Manifiesto de Eusebio Bentura Beleña*. Editado
 por Ignacio Almada Bay et al. Colección Fuentes. Zamora: El Colegio de
 Michoacán, Universidad de Guadalajara, El Colegio de Sonora, 2006.
 
 Cárdenas Acosta, Pablo E. *El movimiento comunal de 1781 en el Nuevo
-Reino de Granada (Reivindicaciones históricas)*. II vols. Biblioteca de
+Reino de Granada (Reivindicaciones históricas)*. 2 vols. Biblioteca de
 Historia Nacional, XCVII. Bogotá: Academia de Historia, editorial Kelly,
 1960.
 
@@ -190,6 +199,8 @@ imprenta del Estado, 1836.
 Escriche, Joaquín. *Diccionario razonado de legislación y
 jurisprudencia*. Nueva edición reformada y aumentada por León Galindo y
 José Vicente y Caravantes. Madrid: Imprenta de Eduardo Cuesta, 1874.
+
+Feijoo...
 
 Friede, Juan. *Rebelión comunera de 1781: documentos*. 2 vols. Bogotá:
 Instituto Colombiano de Cultura, 1981.
@@ -330,6 +341,9 @@ tribunales de España y de las Indias*. 8 tomos. Madrid: Joaquín Ibarra,
 
 Erasmus, Desiderius. *Institutio Principis Christiani* \[1516\].
 Basilea: Froben, 1519.
+
+Escalona y Agüero, Gaspar de. *Gazophilacium regium perubicum* \[1647\].
+Madrid: Tipografía de Blasii Roman, 1775.
 
 Febrero, José. *Librería de escribanos, é instrucción jurídica theorico
 practica de principiantes.* 3 vol. Madrid: Imprenta de don Pedro Marín,
