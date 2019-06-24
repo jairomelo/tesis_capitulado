@@ -55,11 +55,13 @@ Sección colonia:
 
 > Aduanas, tomo 11.
 >
-> Caciques e indios, tomo 41, 54, 139.
+> Caciques e indios, tomo 41, 45, 54, 75.
+>
+> Historia eclesiástica, tomo 4.
 >
 > Juicios criminales, tomos 2, 6, 34, 40, 49, 54, 58, 63, 64, 67, 68,
-> 75, 76, 87, 90, 102, 103, 114, 130, 131, 134, 136, 138, 148, 157, 176,
-> 205, 216, 217.
+> 75, 76, 87, 90, 102, 103, 114, 130, 131, 134, 135, 136, 138, 139, 148,
+> 157, 163, 170, 176, 205, 216, 217.
 >
 > Milicias y marina, tomos 4, 11, 16, 35, 50, 53, 99.
 >
@@ -105,9 +107,9 @@ Sección miscelánea, fondo criminal, tomo B.41
 
 ***Archivo Histórico de Medellín (Medellín)***
 
-Fondo Concejo de Medellín, Sección colonia
+Sección colonia, fondo Concejo de Medellín
 
-Actas, tomo 24.
+Actas, tomos 24, 73.
 
 Despachos, tomo 11.
 

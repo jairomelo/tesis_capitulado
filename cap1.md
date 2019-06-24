@@ -1530,24 +1530,25 @@ los españoles una tierna Madre en mi muy amada y querida Esposa la
 REINA, y no pudiendo gozar completamente de la felicidad que me prepara
 este dia sin aliviar antes en cuanto permitan las leyes y la situacion
 del Reino la suerte de los desgraciados que gimen bajo el peso de sus
-crímenes".[^234] Es posible que la inclusión en los indultos de la
-palabra "felicidad" fuese simplemente lexicográfico, pero la cédula real
-sería leída en cada ciudad del reino donde hubiese una autoridad, su
-copia fijada en las puertas del cabildo, por lo tanto la fuerza
-ilocutiva de la palabra era diferente al estar plasmada en un edicto
-regio que en un periódico, libro, panfleto, o pasquín.[^235] Vincular la
-clemencia con una palabra fundamental del léxico "ilustrado", apropiada
-por los republicanos de principios del siglo XIX, de cierta manera
-"moderniza" una categoría tradicional arraigada no en el "barroco" sino
-en la misma configuración del ordenamiento normativo hispano. Como se
-puede observar en la fórmula fernandina, la única modificación a la
-tradición del indulto general (en cuanto a su motivación) se relaciona
-con aprovechar la sinonimia con el término alegría para incorporar la
-palabra felicidad y servirse de la carga semántica que había
-desarrollado durante las últimas décadas. A pesar de ello, el sentido
-general del indulto se mantuvo: una extensión de la extraordinaria
-alegría del rey hacia sus vasallos por medio de una expresión de
-indulgencia, clemencia y piedad.
+crímenes".[^234]
+
+Es posible que la inclusión en los indultos de la palabra "felicidad"
+fuese simplemente lexicográfico, pero la cédula real sería leída en cada
+ciudad del reino donde hubiese una autoridad, su copia fijada en las
+puertas del cabildo, por lo tanto la fuerza ilocutiva de la palabra era
+diferente al estar plasmada en un edicto regio que en un periódico,
+libro, panfleto, o pasquín.[^235] Vincular la clemencia con una palabra
+fundamental del léxico "ilustrado", apropiada por los republicanos de
+principios del siglo XIX, de cierta manera "moderniza" una categoría
+tradicional arraigada no en el "barroco" sino en la misma configuración
+del ordenamiento normativo hispano. Como se puede observar en la fórmula
+fernandina, la única modificación a la tradición del indulto general (en
+cuanto a su motivación) se relaciona con aprovechar la sinonimia con el
+término alegría para incorporar la palabra felicidad y servirse de la
+carga semántica que había desarrollado durante las últimas décadas. A
+pesar de ello, el sentido general del indulto se mantuvo: una extensión
+de la extraordinaria alegría del rey hacia sus vasallos por medio de una
+expresión de indulgencia, clemencia y piedad.
 
 El sacramento de la penitencia, el pecado y el perdón real
 ----------------------------------------------------------
@@ -2702,14 +2703,15 @@ y prontos a obedecer mis mandatos".[^271]
     hispánico*, ed. Óscar Mazín Gómez, vol. 1, Colección Memorias
     (Zamora, Mich.: El Colegio de Michoacán, 2000), 382--83.
 
-[^160]: AHM, Concejo de Medellín, Colonia, Procesos, tomo 76, f. 226v.
-    Véase también Luis Felipe Vélez Pérez, "Éxtasis festivo y piedad
-    pública. Celebraciones religiosas en la Villa de la Candelaria de
-    Medellín, 1766-1829" (Tesis de Maestría, Universidad Nacional de
-    Colombia, Facultad de Ciencias Humanas y Económicas, 2018), 60--61.
+[^160]: AHM, sección colonia, Concejo de Medellín, procesos, tomo 76, f.
+    226v. Véase también Luis Felipe Vélez Pérez, "Éxtasis festivo y
+    piedad pública. Celebraciones religiosas en la Villa de la
+    Candelaria de Medellín, 1766-1829" (Tesis de Maestría, Universidad
+    Nacional de Colombia, Facultad de Ciencias Humanas y Económicas,
+    2018), 60--61.
 
-[^161]: AHM, Concejo de Medellín, Colonia, Reales Cédulas, tomo 33, f.
-    334v. Vélez Pérez, 204.
+[^161]: AHM, sección colonia, Concejo de Medellín, Reales Cédulas, tomo
+    33, f. 334v. Vélez Pérez, 204.
 
 [^162]: Sigaut, "Procesión de Corpus Christi", 392--93.
 
@@ -2995,7 +2997,9 @@ y prontos a obedecer mis mandatos".[^271]
     plenario...* \[1794\], segunda edición (Madrid: imprenta de la viuda
     de Ibarra, 1796) tomo II, diálogo XL, 482.
 
-[^215]: Pérez y López, *Teatro de la legislación*, tomo XVI, 320.
+[^215]: Antonio Xavier Pérez y López, *Teatro de la legislación
+    universal de España e Indias*, tomo XVI (Madrid: imprenta de don
+    Antonio Espinosa, 1797), 320.
 
 [^216]: "Quia bellum es perditio corporis et animæ et homines ad
     pauperta". "Principis enim victoria est populorum laetitia". Alfonso
