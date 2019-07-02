@@ -704,104 +704,127 @@ las condiciones originales de la concesión dada a su familia antes de la
 rebelión: producir, poblar y proteger una parte de los dominios de
 Indias.
 
-### La rebelión de "los contrabandistas" de la Guajira y el perdón al cacique Cecilio
+### La rebelión de Natá
 
 La particular clemencia del virrey Solís 
 -----------------------------------------
 
-Del gobierno del virrey José Solís Folch, dice Margarita Restrepo Olano
-que fue tranquilo, sin mayores conflictos internos, sumados a la
-ausencia de amenazas externas. Concluyó así que "Solís fue un buen
-virrey: no tuvo grandes problemas que resolver, pero tampoco los creó, y
-los que debió afrontar lo hizo con serenidad y eficacia".[^81] Fue
-asimismo un virrey particular, nombrado bastante joven para desempeñar
-el cargo, cuando apenas se encontraba iniciando su carrera militar,
-recientemente nombrado guardia de Corps, consiguió ser ascendido a
-mariscal de campo casi al mismo tiempo de ser nombrado virrey. A
-diferencia de su antecesor Eslava y de su sucesor Flórez, el virrey
+El gobierno del virrey José Solís Folch de Cardona, dice Margarita
+Restrepo Olano, fue tranquilo, sin mayores conflictos internos, sumados
+a la ausencia de amenazas externas. Se podría considerar entonces que
+Solís fue "un buen virrey: no tuvo grandes problemas que resolver, pero
+tampoco los creó, y los que debió afrontar lo hizo con serenidad y
+eficacia".[^81] Fue asimismo un virrey particular, nombrado bastante
+joven para desempeñar el cargo, cuando apenas se encontraba iniciando su
+carrera militar, recientemente nombrado guardia de Corps, consiguió ser
+ascendido a mariscal de campo casi al mismo tiempo de ser nombrado
+virrey. Solís Folch de Cardona hacía parte de una familia de nobleza
+titulada, castellanos por parte de su padre y valencianos por parte de
+madre, con importante influencia en la Corte madrileña. Su hermano
+Francisco Antonio se forjó en la carrera eclesiástica, alcanzó la
+dignidad de cardenal y fungió como Arzobispo de Sevilla desde 1755. Su
+otro hermano, Alonso, cuarto duque de Montellano y caballero de la orden
+del Toisón de Oro, fue nombrado virrey del reino de Navarra en
+1768.[^82]
+
+A diferencia de su antecesor Eslava y de su sucesor Flórez, el virrey
 Solís no asumió personalmente la defensa de Cartagena durante la guerra
 de los Siete Años, aunque cumplió con incrementar la carga fiscal para
 socorrer a dicha plaza e impulsó algunos proyectos modestos para el
-refuerzo del deteriorado castillo cartagenero.[^82] Tampoco era claro el
-futuro del virrey pues su principal padrino, el marqués de Ensenada,
-cayó de la gracia del rey tras el "golpe palaciego" de 1754, y a pesar
-de que no hubo persecución al "partido" de Somodevilla, tampoco era
-claro que Solís pudiese seguir avanzando en la carrera hacia una
-membresía en el Consejo de Guerra o se le trasladara a otro
-virreinato.[^83] Tuvo algunos enfrentamientos con los magistrados de la
-Audiencia de Santa Fe, a los cuales acusaba de entorpecer sus
-procedimientos y de invadir su jurisdicción, aunque por otra parte,
-logró entrelazar buenas relaciones con los cabildantes de la ciudad. Al
-finalizar su gobierno, decidió no regresar a Madrid y en cambio se
-ordenó rápidamente como franciscano y se recluyó en el convento de San
-Diego, lo cual generó ciertas sospechas que fueron incluidas en el
-juicio de residencia que se le siguió en 1763, del que fue exonerado de
-todos los cargos.[^84]
+refuerzo del deteriorado castillo cartagenero.[^83] Tuvo algunos
+enfrentamientos con los magistrados de la Audiencia de Santa Fe, a los
+cuales acusaba de entorpecer sus procedimientos y de invadir su
+jurisdicción, aunque por otra parte, logró entrelazar buenas relaciones
+con los cabildantes de la ciudad. Al finalizar su gobierno, decidió no
+regresar a Madrid y en cambio se ordenó rápidamente como franciscano,
+recluyéndose en el convento de San Diego, lo cual generó ciertas
+sospechas que fueron incluidas en el juicio de residencia que se le
+siguió en 1763, del que fue exonerado de todos los cargos.[^84]
 
-### Los indultos particulares del virrey Solís
+Es difícil interpretar las motivaciones del virrey Solís para no
+regresar a España y cambiar la carrera militar por la vida de fraile,
+tampoco sería prudente asimilar una tendencia a la clemencia partiendo
+del supuesto de una vocación religiosa. Lo que se puede entrever de su
+gobierno, en líneas generales, es que dejó en manos de los gobernadores
+las tareas de defensa del territorio y de combate al contrabando,
+enfocando su mandato en la mejora de la fiscalidad. Por otra parte, lo
+que sí parece evidenciar una relación entre su gobierno y su futura
+ordenación fue el beneficio a las órdenes religiosas y la lenidad con la
+que se aplicó el proyecto de secularización de doctrinas, situación que
+contrasta con lo experimentado en el virreinato de Nueva España, e
+incluso en la Audiencia de Quito.[^85] Antes que lanzar hipótesis
+difíciles de sustentar, consideramos que el actuar de Solís, aunque fue
+particular en cuanto a las gracias que concedió, no significó otra cosa
+que hacer uso de la facultad que se le había otorgado. Por otra parte,
+es interesante notar como frente al desconcierto que se manifestaba tras
+el asesinato de José de Pestaña en la Guajira el virrey, en un comienzo,
+dejó actuar al gobernador, aunque después vira hacia el perdón cuando
+así se lo sugiere el mismo Fernando VI.
+
+### Los perdones particulares del virrey Solís
 
 En la pesquisa documental realizada para esta investigación, un
 expediente que llamó la atención desde el inicio fue la petición
 descrita erróneamente como "Indulto concedido al gobernador de Girón,
-Pedro Velásquez, después del juicio de residencia que se le
-siguió".[^85] La verdad es que no es un proceso simple para seguir, y
+Pedro Velázquez, después del juicio de residencia que se le
+siguió".[^86] La verdad es que no es un proceso simple para seguir, y
 menos para resumir en unas cuantas líneas. A finales de 1758, Pedro
-Velásquez, avecindado en Santa Fe desde hacía varios años, elevó una
+Velázquez, avecindado en Santa Fe desde hacía varios años, elevó una
 súplica al virrey Solís en la cual le solicitó se le restituyera la
 honra que podría verse afectada tras un injusto proceso que lo habría
 llevado al destierro de la provincia de Girón. Todo habría empezado en
 1746, cuando el gobernador y alcalde mayor de entonces, don Agustín
-Gutiérrez de los Ríos,[^86] acusó a Velásquez de haber defraudado la
+Gutiérrez de los Ríos,[^87] acusó a Velázquez de haber defraudado la
 Real Hacienda y de promover el desorden en la provincia. Según declaró
 el hijo de Velázquez, el doctor en cánones y presbítero don José, el
 acoso al que fue sometido su padre le forzó a abandonar la ciudad de
 Girón y dirigirse a Santa Fe con toda su familia. Gutiérrez de los Ríos
 elevó entonces un informe al virrey Eslava en el cual le daba cuenta de
-los abusos de Velásquez, por lo que el destierro fue ratificado por una
+los abusos de Velázquez, por lo que el destierro fue ratificado por una
 real orden en la que se le conminaba al desterrado que no podría volver
 a dicha ciudad, so pena de multa por dos mil pesos y remisión a la
 cárcel gironesa.
 
-Poco tiempo después, Velásquez solicitó al virrey que le permitiera
+Poco tiempo después, Velázquez solicitó al virrey que le permitiera
 regresar temporalmente a Girón con el propósito de atender algunos
 negocios que había dejado en la ciudad. Por haber presentado en su
 súplica que la salida de la provincia había sido voluntaria, resultado
 de la persecución a su persona y familia, el virrey Eslava concedió el
 permiso y moderó la real orden de tal modo que fuera suspendido el
 destierro por seis meses, para que así pudiera transar, cobrar y
-arreglar sus negocios.[^87] En su viaje de regreso, que hizo en compañía
+arreglar sus negocios.[^88] En su viaje de regreso, que hizo en compañía
 de su hijo José, se alojaron en el sitio de Piedecuesta, a unos 16
 kilómetros de la ciudad de Girón, donde estuvieron casi cinco días
 esperando a ser atendidos por el gobernador, quien se encontraba
 dirigiendo la visita que hacía a la provincia el obispo de Quito. En ese
-lugar, Velásquez fue apresado por el alguacil mayor, y se ordenó el
+lugar, Velázquez fue apresado por el alguacil mayor, y se ordenó el
 embargo de bienes por haber incumplido con la orden de destierro, a
 pesar de que el gobernador ya había recibido la real orden de suspensión
 y la había obedecido. Gutiérrez de los Ríos había incumplido la orden de
 Eslava porque, según dijo, afectaba el "decoro" de su empleo. Ante esto,
 el virrey decidió suspender indefinidamente el destierro, permitiéndole
-a Velásquez transitar libremente por la provincia de Girón, amonestando
+a Velázquez transitar libremente por la provincia de Girón, amonestando
 en consecuencia al gobernador por no haber prestado la obediencia debida
-al despacho virreinal.[^88]
+al despacho virreinal.[^89]
 
-Todo indica que Velásquez logró superar el destierro desde entonces.
+Todo indica que Velázquez logró superar el destierro desde entonces.
 Incluso, fue nombrado gobernador de Girón por segunda vez, por orden del
-virrey Pizarro; oficio que ejerció entre 1751 y 1753.[^89] En esos
+virrey Pizarro; oficio que ejerció entre 1751 y 1753.[^90] En esos
 términos, pareciera que la suspensión indefinida del destierro no había
 interferido con su nombramiento, ni que las rencillas con el otrora
 gobernador Gutiérrez de los Ríos hubiese trascendido. No obstante,
-existía cierto resquemor por parte de Velásquez, de que en algún momento
+existía cierto resquemor por parte de Velázquez, de que en algún momento
 pudiese utilizarse la primera real orden como argumento para afectar la
 honorabilidad de sus herederos. Por esa razón, apeló al virrey para que
 le fuera restituida la fama, específicamente, que se le regresaran los
 originales del informe de Gutiérrez de los Ríos, y la decisión tomada
 por el virrey, para que se les declarara sin ningún efecto. El virrey
-Solís aceptó la petición de Velásquez, declaró nulo el destierro por
+Solís aceptó la petición de Velázquez, declaró nulo el destierro por
 haber surgido de actuaciones viciadas de subrepción y obrepción, y
 determinó que no se le pudiese afectar en su buena opinión, fama, honor
-propio, ni en el de sus descendientes.[^90]
+propio, ni en el de sus descendientes.[^91]
 
-Dos años después, Velásquez volvió a presentarse ante el virrey Solís,
+Dos años después, Velázquez volvió a presentarse ante el virrey Solís,
 pero esta vez lo hizo para pedir indulto. Las características de su
 petición son las que hacen de este caso digno de mención. El
 exgobernador le manifestó al virrey que, a pesar del decreto concedido
@@ -811,7 +834,7 @@ de las rencillas con sus enemigos en la provincia. En sus palabras, le
 pidió al virrey que: "hallándose en V. E. la superior facultad de el
 indulto y el perdon, ocurro á esta para que usando de ella en mi
 beneficio se sirva aplicármela como si en la realidad fuese yo
-perjudicador de la Real hazienda".[^91] Es realmente extraña esta
+perjudicador de la Real hazienda".[^92] Es realmente extraña esta
 petición, pues de cierta manera falsea una confesión. No solicitó ser
 declarado inocente pues primero debería ser citado, oído, y vencer en
 juicio; lo cual implicaría alargar más su angustia e invertir en las
@@ -821,20 +844,20 @@ dice, "antes de cometer los tales delitos". Para declararlo como
 indultado no se presentaba impedimento, pues no había parte que
 requiriera satisfacción; tampoco en los juicios de residencias que se le
 habían llevado tenía antecedentes como reo por deudas. Finalmente,
-ofreció a cambio del perdón el depositar dos mil patacones en las reales
-cajas.[^92]
+ofreció a cambio del perdón el depositar dos mil patacones en la Caja
+Real.[^93]
 
 El virrey Solís aceptó la solicitud, considerando que aunque era público
-y notorio que Velásquez no tenía nota negativa en la Audiencia, y que
+y notorio que Velázquez no tenía nota negativa en la Audiencia, y que
 "se ha portado bien y fielmente con toda Christiandad, amor, y celo al
 real servicio, sin que aiga delito ó culpa sobre que recaiga el yndulto
-que solicita".[^93] Ordenaba así, nuevamente, que nadie podría acusarlo
+que solicita".[^94] Ordenaba así, nuevamente, que nadie podría acusarlo
 de defraudador de la real hacienda, en ningún tribunal de la monarquía.
 Como corolario, declaraba que los delitos de fraude, usurpación, y
 omisión que se hubiesen cometido durante el ejercicio de sus empleos
 como gobernador eran perdonados, después que se recibieran en las cajas
 reales los dos mil patacones prometidos, como efectivamente se cumplió
-dos días después de expedido el decreto.[^94]
+dos días después de expedido el decreto.[^95]
 
 Claramente, el expediente en mención llama la atención por los aspectos
 excepcionales del mismo, en particular, la petición de un perdón sin
@@ -842,14 +865,205 @@ culpa, de un indulto sin delito, y de una remisión a futuro. Por otra
 parte, la actuación del virrey pareciera ser excesiva. No habiendo
 juicio de por medio, ni asesoría de letrado, este oficial decidió usar
 de su facultad en honor al mérito de quien consideró fiel y amoroso al
-real servicio. También recurrió a un argumento de misericordia, pues
-sustentó la aceptación de la erogación prometida por la avanzada edad
-del impetrante, y las enfermedades que le requerían quietud y retiro.
-Podría suponerse un acto de gobierno en el que el virrey declaraba por
-concluida la rencilla entre las familias Gutiérrez de los Ríos y
-Velásquez, pero la lectura del expediente no indica ningún acto que
-fuera más allá de la concesión arbitraria del perdón por parte de Solís.
-Esa fue, entonces, una actuación del virrey que afectó la justicia.
+real servicio. Recurrió a un argumento de misericordia, pues sustentó la
+aceptación de la erogación prometida por la avanzada edad del
+impetrante, y las enfermedades que le requerían quietud y retiro, pero
+no fue la única justificación para conceder el indulto. Podría suponerse
+un acto de gobierno en el que el virrey declaraba por concluida la
+rencilla entre las familias Gutiérrez de los Ríos y Velázquez, pero la
+lectura del expediente no indica ningún acto que fuera más allá de la
+concesión arbitraria del perdón por parte de Solís. Lo que sí queda
+expresado es un acto de perdón por merced, es decir, como gratificación
+por méritos surgida tras la súplica, no por haber sido movido a la
+misericordia o por su mera voluntad (gracia); la cual vino acompañada de
+una usual oferta de donación a las reales cajas.[^96]
+
+La petición de perdón de don Pedro Ignacio Sánchez Arroyave, hecha por
+su madre, la septuagenaria doña Margarita, podría considerarse otro caso
+de perdón por merced. Según indica el real decreto donde consta el
+indulto, "un hombre inferior", el sargento de infantería Juan José
+Rondón, habría perseguido a Sánchez para atacarlo "con lanzas, sus hijas
+y un perro", y este último, viéndose en desventaja, optó por defenderse
+con su pistola en lugar de utilizar un arma permitida. El disparo hecho
+por Sánchez, dice el procurador de su madre, fue dirigido al perro, y al
+sargento solamente lo habría herido levemente con un arma blanca. Rondón
+denunció a don Pedro y se inició el proceso por los jueces ordinarios de
+la villa de Medellín, motivo por el cual estuvo prisionero con grilletes
+durante nueve meses. En el transcurso de su prisión, Rondón se apartó de
+la querella, pero fue seguida de oficio por el gobernador, quien
+finalmente lo condenó al pago de costas y dos años de destierro.
+
+Similar al caso de Pedro Velázquez, la impetración de la madre de Pedro
+Ignacio Sánchez no se dirigía hacia la simple remisión de la pena, la
+cual estaba pronta a ser cumplida, sino al perdón del delito y su
+consecuente *restitutio famae*. Nuevamente es una petición para
+restituirse al *pristinum statum* que podía conseguirse con el perdón
+del delito. El efecto que se esperaba queda claramente definido en la
+súplica: "que pueda quedar libre de el \[delito\] sin que ninguna
+justicia le pueda molestar, sino que, como que no lo hubiera executado,
+pueda vivir en su domicilio libre, como antes que contragese este exesso
+lo asia, obteniendo los empleos de republica como los ha obtenido, y sin
+obstáculo alguno en los venideros".[^97] Era esta una apelación al
+merecimiento, por su familia y por los servicios en empleos de república
+de su hijo, pero era también un llamado a la clemencia:
+
+> Su aflixida Madre, ocurre a la Soverana piedad de vuestra excelencia
+> por medio de su poder, para que su Gran Clemencia se digne condonarle,
+> y indultarle asi del recuadro y pricion mandada hazer, como de la pena
+> que por el exprezado delito pudiera purgar, lo que pareze tener lugar
+> lo primero en la ynacta misericordia del magnánimo pecho de vuestra
+> excelencia, reflexcionando el desconsuelo y desabrigo que padece la
+> madre viuda de este reo provocado, siendo el único auxilio que tiene
+> para alimentarse a si y a sus hijas, y quatro nietas que lo que le
+> sufraga el expresado Don Pedro, el que hallándose prófugo abrá de
+> pereser y mendigar su desente familia, que ha de hacer fuerza a la
+> generosidad y grandeza de el animo de vuestra excelencia para que
+> conceda el perdon de este delito.[^98]
+
+En estas pocas y enrevesadas líneas se percibe un fuerte argumento a
+favor del perdón del reo, pues se clama a la clemencia innata del virrey
+antes que a su facultad para conceder indultos. Las consecuencias que
+conllevaría el ceñirse a la justicia serían poco menos que excesivas si
+se tiene en cuenta la calidad del delito: el desamparar a la viuda,
+arrastrar a una familia decente a la mendicidad (es decir, llevarla a la
+indecencia) por fuerza del hambre, y condenar a muerte al prófugo. En
+esos términos, llevar a cabo el castigo excedería la pena condigna, y
+teniendo en cuenta que ya se habría cumplido parte de la condena, habría
+por lo menos garantía de arrepentimiento.
+
+Para finalizar su petición, el capitán Gálvez ofreció cien pesos a
+beneficio de la Real Hacienda, para "influir" en el "christianisimo
+corazón" del virrey. El fiscal no presentó ninguna objeción, por lo que
+el virrey Solís pudo decretar que se le concedería el perdón a Ignacio
+Sánchez, después de haberse consignado la cifra prometida en la Real
+Caja, por la herida dada a Juan José Rondón, y por el porte y uso de un
+arma prohibida. El mismo día se llevó a cabo la erogación y la concesión
+del perdón, dentro de cuyo edicto se resaltó que se otorgaba porque
+aunque se disparó el arma prohibida no se ocasionó la muerte de nadie.
+También se dejó consignado que este perdón conllevaba la restitución de
+la fama del reo, con lo cual podría tener empleos de la república y
+gozar de los demás derechos que le competían antes de haber cometido el
+delito. Por lo cual, se le devolvieron a Pedro Ignacio Sánchez los autos
+que se adelantaron en la Real Audiencia y se expidió el superior
+despacho que ordenaba el perdón, el cual fue obedecido en el cabildo de
+la villa de Medellín el 18 de marzo de 1756.[^99]
+
+Solís también le concedió perdón a Francisco Cordero Vidal, vecino de
+Quito, condenado a pérdida de bienes después de acusársele de
+contrabando. Este hombre perteneciente a una de las redes familiares
+notables de Quito, había sido sentenciado después de que en plena Guerra
+del Asiento vio impedido su embarco desde Guayaquil para dirigirse a la
+península, por lo que, ayudado por algunos misioneros jesuitas, optó por
+tomar la vía fluvial del Marañón para entrar al Amazonas y salir al
+Atlántico por la gobernación del Gran Pará.[^100] En la ciudad de Belém
+le solicitó al gobernador que le permitiera embarcarse hacia Lisboa bajo
+la protección portuguesa, requerimiento que fue rechazado por el oficial
+portugués por ser vasallos del rey de España. Después de tres meses sin
+poder emprender el viaje, Cordero decidió regresar a Quito, para lo cual
+cambió algunas alhajas que tenía por ropas portuguesas, con las cuales
+pretendía suplir en parte los costos que le había representado su
+aventura. Para su mala fortuna, la noticia de esa transacción fue
+conocida por la Audiencia de Quito, cuyos oidores ordenaron se le
+"descaminase" de los bienes adquiridos en Belém.[^101] Posteriormente se
+le siguió causa pero, como Cordero pudo demostrar con facturas que el
+juez encargado pretendía defraudar a la Real Hacienda, se le condenó a
+la pérdida de bienes y no tuvo pena personal.[^102]
+
+La impetración de Cordero no consistió en la devolución de sus bienes
+(como se podría esperar), sino en la remisión del "reato" derivado de la
+trasgresión, de la cual aceptaba culpa por haber actuado con ignorancia.
+El virrey Solís le perdonó, aunque con la salvedad de que su sentencia
+solamente incluía la pérdida de bienes y no lo inhabilitaba para obtener
+empleos de república.[^103] ¿Por qué Cordero pidió perdón si no existía
+dicho impedimento? Aunque el reato fuera un concepto más cercano al
+orden teológico, relativo a la idea de que el pecado original no se
+borró a pesar del perdón de Cristo, permite entender el sentido de "lo
+que permanece" después del crimen.[^104] No parece coincidencia que en
+los tres casos presentados la preocupación principal para la obtención
+del perdón no haya sido la remisión de la pena sino el eliminar el
+reato, lo cual se lograba mediante la manifestación explícita del virrey
+que expedía un instrumento escrito para que el restituido a la fama
+pretendiera evitar las acciones en su contra.
+
+¿Podía el perdón del virrey aminorar o eliminar la animadversión de los
+vecinos y jueces con el que había adquirido la infamia? Es difícil
+saberlo con certeza, para ello habría que hacer seguimiento a cada caso
+en particular. Cordero Vidal conservó el título del obraje de Calpi en
+Riobamba, herencia de su abuelo don Juan de Orozco,[^105] pero no he
+hallado otro documento que indique su vinculación a un empleo de
+república. Pedro Ignacio Sánchez de Arroyave no parece haber accedido a
+nuevos oficios, con excepción tal vez de algunas comisiones.[^106] Por
+su parte, José Velázquez Zubillaga, el presbítero hijo del exgobernador
+don Pedro, continuó su carrera eclesiástica y, hasta donde nos es
+posible saber, continuaba en la jurisdicción de Girón para 1779.[^107]
+No es claro entonces si la *restitutio famae* tuvo efectos que
+trascendieran el mero acto del virrey, pero debemos suponer que existía
+cierta utilidad en pedir esta merced y erogar una cantidad para la Real
+Hacienda.
+
+Un caso que no representó una concesión de perdón por merced fue el
+otorgado a Nicolás Ramírez, vecino de La Palma, sentenciado en ausencia
+a seis años en el presidio de Cartagena por haber dado muerte a Antonio
+de Torres en 1751. La petición de perdón fue presentada en noviembre de
+1760 por Domingo Ortiz, procurador de la Real Audiencia, en nombre del
+padre del condenado, Javier Ramírez. Su impetración apelaba a la
+misericordia del virrey, no se negó la culpabilidad, pero se matizó el
+crimen al sustentar que había sido provocado por el occiso.
+Sencillamente, se apeló a la "facultad de conceder indultos y perdon,
+con que ha beneficiado a muchos la Superior Clemencia de Vuestra
+Excelencia", para que restituyera "al estado hábil en que antes se
+hallaba" y anulara la condena, para permitirle así retornar a su casa y
+continuar "sirviendo en varias haciendas".[^108] Nicolás Ramírez era
+dueño de esclavos, como se evidencia en la apelación por la súplica de
+libertad de una esclava de su propiedad hecha en el año de 1750,[^109] y
+tal vez por ello su interés en la remisión de la pena radicaba
+únicamente en el poder retomar sus negocios. El fiscal protector de
+indios, Fernando Bustillos Gutiérrez,[^110] actuando como fiscal del
+crimen, consideró que debido a que el homicidio había sido causado en
+legítima defensa y a haber pasado nueve años de destierro voluntario,
+podía ser perdonado si el virrey así lo deseaba, a cambio de pagar
+cincuenta pesos "por la razón de esta gracia". Solís aceptó la solicitud
+de perdón, requiriendo solamente que la cantidad se aumentara a cien
+pesos.[^111] Lastimosamente, no contamos con el expediente de la causa
+contra Ramírez, por lo que no es posible saber con certeza si obtuvo el
+indulto.
+
+Llama la atención que el procurador haya resaltado que el virrey había
+"beneficiado a muchos" con su facultad de perdonar delitos. Aunque
+cuatro casos para nueve años de gobierno no parecen construir una
+tendencia, por lo menos evidencian una actuación que era ajena a los
+demás virreyes. La pregunta que queda entonces consiste en ¿cuántos
+fueron los perdones del virrey Solís? Mencionar el haber favorecido a
+varios vasallos pudo ser una fórmula retórica para halagar la clemencia
+del virrey, pero es muy probable que estemos también ante una
+problemática documental. La petición de perdón del exgobernador
+Velázquez es clara en demandar que, respecto a los autos obrados y en
+curso, "todo se ha de romper y quitar". Por otra parte, Pedro Ignacio
+Sánchez, ya indultado, pidió que se le devolvieran los autos originales
+de su impetración y solo se dejara testimonio en el archivo de la Real
+Audiencia, que corresponde al documento al que pudimos tener acceso. Lo
+más probable es que la respuesta parcial solamente se encuentre al hacer
+una revisión profunda en los archivos regionales de la jurisdicción del
+virrey del Nuevo Reino de Granada, lo cual, obviamente, sobrepasa las
+posibilidades de este trabajo.
+
+Es posible inferir que la actuación de Solís fue particular, y que si
+tenemos en cuenta sus peculiaridades como gobernante "prudente",
+posiblemente tendiente a la clemencia antes que al rigor. Por otra
+parte, no hay evidencia diferente a que los perdones particulares de
+Solís favorecieron a miembros de las "familias decentes" de su
+jurisdicción. No fueron crímenes graves los que tuvo que perdonar, ni
+sentencias excesivas las que necesitó remitir. Podría considerarse que
+sus indultos tuvieron un interés pecuniario al estar condicionados a una
+suma que ingresara a la Caja Real, pero solamente una revisión detallada
+de los cargos de "depósitos y condenas" podría brindar luces en este
+sentido.[^112] A pesar de los pocos datos que se han podido consultar,
+fue posible evidenciar una faceta del "virrey-fraile" que hasta el
+momento era desconocida, la cual de seguro puede ser enriquecida con los
+ingentes esfuerzos de la comunidad de historiadores enfocados en la
+reconstrucción de los gobiernos de los virreyes del Nuevo Reino.
+
+### La prudencia del virrey, la clemencia del rey: el caso del "cacique Cecilio"
 
 La complejidad del perdón durante la década de Mesía de la Cerda
 ----------------------------------------------------------------
@@ -1204,17 +1418,30 @@ La complejidad del perdón durante la década de Mesía de la Cerda
 [^81]: Margarita Restrepo Olano, *Nueva Granada en tiempos del virrey
     Solís, 1753-1761* (Bogotá: Universidad del Rosario, 2009), 263.
 
-[^82]: Restrepo Olano, 159--64.
+[^82]: Para rastrear la familia del virrey Solís nos valimos del
+    *Diccionario biográfico español* de la Real Academia de Historia en
+    su versión electrónica.
+    [[http://dbe.rah.es/db\~e]{.underline}](http://dbe.rah.es/db~e)
 
-[^83]: Pedro Voltes, *La vida y la época de Fernando VI* (Barcelona:
-    Planeta, 1998), 192; Restrepo Olano, *Nueva Granada*, 29--31.
+[^83]: Restrepo Olano, *Nueva Granada*, 159--64.
 
 [^84]: AGNC, sección colonia, virreyes, tomo 16, doc. 130, ff. 897-986.
-    Restrepo Olano, *Nueva Granada*, 66--69.
+    Restrepo Olano, 66--69.
 
-[^85]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11.
+[^85]: Una síntesis de la importantísima exploración historiográfica
+    para el caso Novohispano puede consultarse en Clara García Ayluardo,
+    "Re-formar la Iglesia novohispana", en *Las reformas borbónicas,
+    1750-1808*, ed. Clara García Ayluardo (México: Fondo de Cultura
+    Económica, 2010), 250--57. Para la Audiencia de Quito destaco el
+    trabajo de Sabrina Guerra Moscoso, "La disputa por el control de las
+    doctrinas en la Real Audiencia de Quito: Un estudio microhistórico
+    sobre la tensión entre y dentro del Estado, la Iglesia y las redes
+    de poder local, Guano, siglo XVIII" (Tesis doctoral, Universitat
+    Jaume I, 2008), http://hdl.handle.net/10803/84085.
 
-[^86]: Según indica Amado Guerrero, el cargo de alcalde mayor gozaba de
+[^86]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11.
+
+[^87]: Según indica Amado Guerrero, el cargo de alcalde mayor gozaba de
     tan poco prestigio en Girón que durante algún tiempo el gobernador
     tuvo que ejercer ese oficio. Amado Antonio Guerrero Rincón,
     "Conflicto y poder político en la sociedad colonial. Girón siglo
@@ -1227,27 +1454,101 @@ La complejidad del perdón durante la década de Mesía de la Cerda
     "Gobernadores de San Juan de Girón", *Estudio* 5, núm. 55 (1936):
     186.
 
-[^87]: Cartagena, 30 de enero de 1748, AGNC, sección colonia,
+[^88]: Cartagena, 30 de enero de 1748, AGNC, sección colonia,
     residencias Santander, tomo 37, doc. 11, f. 642r-643r.
 
-[^88]: Cartagena, 25 de octubre de 1748, AGNC, sección colonia,
+[^89]: Cartagena, 25 de octubre de 1748, AGNC, sección colonia,
     residencias Santander, tomo 37, doc. 11, f. 645r-669v.
 
-[^89]: El cargo lo ejerció por primera vez entre 1727 y 1736. Restrepo
+[^90]: El cargo lo ejerció por primera vez entre 1727 y 1736. Restrepo
     Sáenz, "Gobernadores de San Juan de Girón", 185. AGNC, sección
     colonia, residencias Santander, tomo 36, doc. 14, ff. 882-979.
 
-[^90]: Santa Fe, 13 de diciembre de 1758, AGNC, sección colonia,
+[^91]: Santa Fe, 13 de diciembre de 1758, AGNC, sección colonia,
     residencias Santander, tomo 37, doc. 11, f. 672r-676v.
 
-[^91]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11,
+[^92]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11,
     f. 680v.
 
-[^92]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11,
+[^93]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11,
     f. 681r.
 
-[^93]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11,
+[^94]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11,
     f. 680r-680v.
 
-[^94]: Santa Fe, 11 de diciembre de 1760. AGNC, sección colonia,
+[^95]: Santa Fe, 11 de diciembre de 1760. AGNC, sección colonia,
     residencias Santander, tomo 37, doc. 11, f. 681r-682r.
+
+[^96]: Victoria Sandoval Parra, *Manera de galardón: merced pecuniaria y
+    extranjería en el siglo XVII* (Madrid: Fondo de Cultura Económica :
+    Red Columnaria, 2014), 64--66, 71--94.
+
+[^97]: AHM, sección colonia, Concejo de Medellín, reales despachos, tomo
+    11, ff. 299r-v.
+
+[^98]: AHM, sección colonia, Concejo de Medellín, reales despachos, tomo
+    11, ff. 299r.
+
+[^99]: AHM, sección colonia, Concejo de Medellín, reales despachos, tomo
+    11, ff. 301r-304r.
+
+[^100]: Una interesante descripción de la ruta del Marañón y el Amazonas
+    teniendo como punto de referencia el reino de Quito fue realizada
+    por el jesuita Samuel Fritz en 1707 para Felipe V. Una copia con muy
+    buena resolución puede consultarse en
+    [[https://gallica.bnf.fr/ark:/12148/btv1b8446616z]{.underline}](https://gallica.bnf.fr/ark:/12148/btv1b8446616z).
+    Sobre el eje Quito -- Gran-Pará durante la Guerra de la Oreja de
+    Jenkins véase Sebastián Gómez González, "A 'Guerra da Orelha de
+    Jenkins': historias entrelaçadas em contextos anglo-hispânicos
+    (1739-1748)", en *Entre extremos: experiências fronteiriças e
+    transfronteiriças nas regiões do rio Amazonas e do rio da Prata --
+    América Latina, séculos XVI-XX*, ed. Adilson Júnior Ishihara Brito y
+    Carlos Augusto Bastos (Curitiba: CRV, 2018), 101--3.
+
+[^101]: "Descaminar" es una voz arcaica que representaba el acto
+    jurídico de aprehender las mercancías o dinero sin cédula de guía.
+    Al respecto véase Castillo de Bovadilla, *Política para
+    corregidores*, lib. IV, cap. V, núms. 9-10, 18-31.
+
+[^102]: AGNC, sección colonia, aduanas, tomo 11, doc. 9, ff. 289r-v.
+
+[^103]: AGNC, sección colonia, aduanas, tomo 11, doc. 9, ff. 290v.
+
+[^104]: Un estudio desde el punto de vista teológico contemporáneo del
+    reato puede consultarse en Pedro Fernández Rodríguez, *El sacramento
+    de la penitencia: teología del pecado y del perdón*, 2a ed. (Madrid:
+    EDIBESA, 2003), 106--19.
+
+[^105]: Santa Fe, enero de 1757, AGNC, sección colonia, miscelánea, tomo
+    2, doc. 49, ff. 801r-803r.
+
+[^106]: AHM, sección colonia, Concejo de Medellín, procesos, tomo 11,
+    ff. 288-296.
+
+[^107]: AGNC, sección archivo anexo, Bulas de Cruzada, tomo 43, doc. 16.
+
+[^108]: AGNC, sección colonia, juicios criminales, tomo 2, doc. 15, ff.
+    768r-v.
+
+[^109]: AGNC, sección colonia, negros y esclavos, Cundinamarca, tomo 3,
+    doc. 4; tomo 9, doc. 54; miscelánea, tomo 95, doc. 75.
+
+[^110]: Bustillo fue una de las figuras cercanas al virrey Solís,
+    fungiendo como fiscal protector de la Audiencia desde 1756 hasta su
+    muerte en 1764. Antes había cumplido los oficios de abogado en la
+    Audiencia de México y escribano mayor de Guadalajara. Montserrat
+    Domínguez Ortega, "El virrey Solís y las reformas borbónicas" (Tesis
+    doctoral, Universidad Complutense de Madrid, 2005), 396--97.
+
+[^111]: AGNC, sección colonia, juicios criminales, tomo 2, doc. 15, ff.
+    769r-v.
+
+[^112]: Trato de manera muy ruda esta posible veta de investigación,
+    pues implica una compleja revisión en los libros de hacienda con su
+    consecuente categorización, más allá de las cartas-cuenta (el
+    tradicional método de Klein y TePaske), exige la inmersión en los
+    libros mayores de la Real Hacienda para identificar los detalles de
+    los ingresos en las Cajas Reales. Sergio T. Serrano Hernández, "La
+    fiscalidad novohispana en el siglo XVII. Fuentes viejas: nuevos
+    enfoques. El caso de San Luis Potosí" (Ponencia presentada en el 3er
+    Congreso Latinoamericano de Historia Económica, octubre de 2012).

@@ -65,13 +65,15 @@ Sección colonia:
 >
 > Milicias y marina, tomos 4, 11, 16, 35, 50, 53, 99.
 >
-> Miscelánea, tomos 10, 59, 112.
+> Miscelánea, tomos 2, 10, 59, 95, 112.
 >
 > Negros y esclavos
 >
 > Antioquia, tomo 4.
 >
 > Cauca, tomo 3.
+>
+> Cundinamarca, tomo 3, 9.
 >
 > Magdalena, tomo 2.
 >
@@ -85,9 +87,13 @@ Cundinamarca, tomo 17.
 
 Magdalena, tomo 4.
 
+Residencias Santander, tomo 37.
+
 Virreyes, tomo 1.
 
 Sección archivo anexo:
+
+Bulas de Cruzada, 43.
 
 Justicia, tomo 6.
 
@@ -113,7 +119,7 @@ Actas, tomos 24, 73.
 
 Despachos, tomo 11.
 
-Procesos, tomo 76.
+Procesos, tomos 11, 76.
 
 Reales cédulas, tomos 13, 33, 37.
 
@@ -123,7 +129,7 @@ Consejo de Indias, Secretaría de Presidencia, 21672.
 
 ***Archivo Histórico Regional de Santander (Bucaramanga)***
 
-Archivo histórico judicial de Girón, paquetes 5b y 19.
+Archivo Histórico Judicial de Girón, paquetes 5b y 19.
 
 ***Biblioteca Luis Ángel Arango (Bogotá)***
 
@@ -491,7 +497,10 @@ Viena: Juan van Ghelen, 1703.
 
 Solórzano Pereyra, Juan. *Política indiana* \[1647\]. Edición corregida
 y anotada por Francisco Ramiro de Valenzuela. Madrid: imprenta Real de
-la Gazeta, 1776.
+la Gazeta, 1776. Edición crítica digital en *La Escuela de Salamanca.
+Una Colección Digital de Fuentes*, ed. por Thomas Duve y Matthias
+Lutz-Bachmann.
+[[https://id.salamanca.school/texts/W0010]{.underline}](https://id.salamanca.school/texts/W0010).
 
 Vega, Feliciano de la. *Relectionum Canonicarum in secundum Decreatalium
 librum*. Lima: Jerónimo de Contreras, 1633.

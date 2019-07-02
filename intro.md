@@ -1,17 +1,187 @@
 Introducción
 ============
 
-Argumento central:
+*Sed nisi peccassem, quid tu concedere poses?*
 
-¿Hubo o no un cambio de actitud respecto a la potestad de perdonar por
-parte de los oficiales del virreinato del Nvo Reino?
+*Materiam veniae sors tibi nostra dedit.*
+
+Ovidio, *Tristia*, lib. II, 31-32.
+
+El poeta latino, desterrado de su tierra, escribía una súplica al César
+que había ofendido con sus versos: "¡Oh misericordioso César! Que mi
+regalo poético pueda temperar tu ira. No puedo negar que es justa y la
+merezco -- por la vergüenza últimamente no ha salido de mis labios. Pero
+si no hubiese pecado ¿Qué tendrías para perdonar? Mi destino te ha dado
+el material para la clemencia".[^1] Estos versos no sería otra cosa
+diferente a un ejemplo curioso, propio de la vanidad del historiador, si
+no fuese porque estaban escritos, en un pésimo latín,[^2] en una de las
+súplicas de indulto que se le pasaron al virrey José Solís Folch en
+1755. Quien hizo la petición fue el capitán Miguel de Gálvez, peninsular
+recién asignado al cabildo de Santa Fe, capital del distrito del
+virreinato del Nuevo Reino de Granada, como apoderado de doña Margarita
+Arroyave, vecina notable de la villa de Medellín.
+
+Los dos versos que sirven de epígrafe son una interesante síntesis del
+tema de esta investigación. Es el castigado, que eleva su voz al César,
+tratando de moverlo a la clemencia, de moderar su ira, de alcanzar la
+remisión de sus faltas. Pero es asimismo la oportunidad del emperador
+para demostrar su clemencia, su gracia, su merced. Humillado, en el
+exilio, Ovidio clama por el perdón. Altivo, en el trono, el príncipe
+blande en una mano la espada del castigo, en el otro la rama de olivo
+del perdón. Es una idea clásica del gobierno del imperio que se
+transmite en esencia al sistema monárquico gracias a la tradición del
+*ius commune*. Pero no es sólo la norma la que transmite la idea de la
+clemencia del príncipe, lo es también la autoridad de los autores
+gentiles de la Roma clásica, y en menor medida de la Grecia antigua. La
+cita que copió el capitán Gálvez seguramente fue tomada de la
+introducción "al lector" hecha por Solórzano Pereira a su *Política
+Indiana*,[^3] en la que el afamado tratadista impetraba a la
+benevolencia del lector para soportar una obra, en sus palabras, tan
+rara y tan larga. Llenas de referencias eruditas, las obras de
+tratadistas como Solórzano, Castillo de Bovadilla, o Hevia Bolaños,
+servían como fuente de la sabiduría histórica que nutría el derecho del
+antiguo régimen.
+
+Dos versos de Ovidio sirven así para develar la complejidad en la
+configuración de la cultura jurídica de mediados del siglo XVIII,
+todavía tan "barroca" pero con ansias de reforma. Aunque es prudente
+matizar que no todos los expedientes incluían algún extracto de doctrina
+o un apotegma, asimismo, muchas súplicas y perdones se ajustaban a una
+fórmula de la que no había a veces mayor diferencia que el nombre de las
+partes, la fecha y el lugar del acto. Tampoco revelaban los expedientes
+el amplio espectro de querellas y negociaciones que se llevaban sin
+causa, porque el actuar judicialmente conllevaba gastos y tiempo del que
+no muchos disponían. Que este extracto del poema ovidiano haya quedado
+plasmado en un expediente no era casualidad, fue así porque el capitán
+Gálvez estaba cumpliendo la tarea del apoderado de una vecina notable de
+la ciudad, doña Margarita Arroyave, hija de padre español, casada con
+Juan Sánchez de la Hinojosa, con quien constituyeron una prole compuesta
+por seis hijas y un hijo.[^4] La madre no elevó su petición como una
+mujer notable, sino como viuda, a favor de su hijo "huérfano", único
+varón de su familia. Gracias a Ovidio le podía decir al virrey que
+gracias al pecado de su hijo, tendría la oportunidad de demostrar el
+poder otorgado por el monarca y actuar como buen cristiano, devolviendo
+la fama a quien por mera casualidad habría caído en desgracia.
+
+Desde hace varias décadas se ha llamado la atención acerca de la íntima
+relación entre el cristianismo y el poder monárquico, no sólo desde el
+plano institucional, sino desde el mismo ser de la monarquía. Ser un
+buen príncipe equivalía a ser un cristiano ejemplar, el más devoto de
+todo el reino. Se decía que el príncipe era imitador de Cristo, no
+porque quisiera ser él mismo émulo de la divinidad, sino porque su
+objetivo no era otro que actuar en la tierra como lo haría el hijo de
+Dios.[^5] El gobierno del mundo, ejercido por el príncipe, no podía ser
+de otra forma sino la mediación entre el orden terrenal y el orden
+divino.[^6] Esta idea medieval pervivía sin mucha resistencia durante el
+siglo XVIII. Los jueces de la tierra reciben su autoridad del mismo
+cielo, decía el franciscano Raymundo Azero tras concluirse el suplicio
+del líder comunero José Antonio Galán en 1782.[^7] Pero no por ser
+buenos cristianos tenían la obligación de perdonar. Recibir la salvación
+era un privilegio, una excepción, no la norma. El vasallo que esperaba
+la remisión de las ofensas tenía que demostrar antes su obediencia, su
+lealtad, su amor al príncipe; aunque por otra parte, el sufrimiento que
+le produjo haber caído en el delito debería ser suficiente para
+garantizar el arrepentimiento y alcanzar el perdón. Todo dependía del
+juez, y los jueces no estaban únicamente en los estrados judiciales.
+
+El virrey, en este caso, podía actuar en favor de la justicia al
+perdonar el hijo de una viuda honorable, gratificar su servicio a la
+república, borrar la nota de infamia del reo, forzar al olvido de toda
+falta. Las similitudes con el sacramento de la confesión son evidentes,
+el virrey como intermediario entre el culpable y la justicia. Pero no
+era este un acto que abarcara el fuero interno. El virrey sólo podía
+perdonar los delitos hecho en el plano temporal, de la misma manera que
+el sacerdote solamente tenía la potestad para remitir los pecados en el
+ámbito espiritual. Aun así, no eran ámbitos separados más que por las
+facultades de oficiales y prelados. Los tratadistas solían resaltar que
+el perdonar injustamente representaba condenar el alma del delincuente.
+El martirio del patíbulo era al mismo tiempo una expiación de la culpa,
+y el arrepentimiento al borde del cadalso sería la forma más efectiva de
+alcanzar la gracia que no se consiguió en la tierra. El hijo de la
+señora Arroyave no estaba cerca del cadalso ¿pero no era su infamia
+eterna una condena demasiado rigurosa para una falta tan pequeña?, ¿no
+merecía acaso el perdón aquel que fue provocado y que de otra manera no
+habría llegado a pecar?
+
+Obviamente no todos eran perdonables, si hubiese sido así no existirían
+las penas. Por ello la súplica del perdón era también un llamado a la
+excepción. El que mató con alevosía, el ladrón incorregible, el
+estuprador, aquel que "engañaba al pueblo" para levantarse contra su
+soberano, entre otros, eran considerados imperdonables. Aunque siempre
+existían excepciones. Considerar que estaba prohibido perdonar al
+delincuente de lesa majestad contradice el sentido de la soberanía del
+monarca. ¿Quién le podía prohibir al rey el ejercer de su clemencia más
+que dios y su conciencia? Además, si perdonar era conveniente para la
+república ¿cómo podía evitarse el perdón si con este se podía garantizar
+la paz? Un oficial podía prometer un perdón y casi siempre era
+ratificado por el rey, siempre y cuando este hubiese llevado a la
+tranquilidad. Los más críticos veían en esta tradición un fomento a la
+"esperanza del perdón" que tenían los delincuentes, los más
+conservadores exaltaban los beneficios de la lenidad sobre las
+consecuencias del rigor. Al final, todo se reducía a las circunstancias
+y al personaje, José de Gálvez es un arquetipo del gobierno riguroso,
+del perdón que sólo se concedía al vencido y humillado, pero no por ello
+desaparece el perdón después de su visita general a Nueva España. Al
+contrario, con Carlos III los indultos se hacen más generales y más
+amplios, desde 1760 comienzan a llegar a América de manera periódica
+cédulas de perdón general que el monarca concedía por motivos de alegría
+personal.
+
+El presupuesto central de esta tesis asume que existe una modificación
+en la percepción y uso de la clemencia en la justicia y el gobierno de
+la monarquía hispánica en las últimas décadas del siglo XVIII, algo que
+para Nueva España podría identificarse desde la mencionada visita de
+Gálvez, pero que para las provincias de Tierra Firme se habría
+desarrollado en dos momentos: desde 1760 para la administración de
+justicia y después de 1781 para el gobierno. Como todo presupuesto
+histórico difícilmente se puede reducir a una lógica de verdad y
+falsedad. Lo que se observa es una tendencia que se define desde la
+secretaría de Indias dirigida por Gálvez, en la cual el control de las
+provincias americanas se pretende alcanzar a través de una
+centralización de la administración, incluido el ejercicio del perdón.
+No hay una negativa a la clemencia, pero sí a su uso por parte de los
+jueces y los oficiales del rey. De manera práctica, los perdones
+generales representaron la justificación para evitar el perdón
+particular. Era mejor esperar que un matrimonio o natalicio en la casa
+real tuviese como efecto la expedición de una cédula de indulto, antes
+que liberar a un reo común y sufrir una posible amonestación. En el caso
+de los desórdenes la situación era más compleja. El encargado de la
+pacificación no podía simplemente esperar a que la voluntad del rey se
+dignara en conceder un perdón general que, además, incluyera a los
+delincuentes por traición. Pero tampoco podía depender del rigor, en la
+forma que lo ejecutó José de Gálvez en su visita, sin tener el riesgo de
+un levantamiento de tal nivel que llevara a la temida pérdida de las
+provincias de Tierra Firme, asediadas permanentemente por los "enemigos
+extranjeros".
+
+En la justicia la clemencia se pudo canalizar por medio de los indultos
+generales, entre tanto, en el gobierno existía esta especie de
+frustración entre el deseo de replicar el supuesto éxito de Gálvez en el
+septentrión novohispano y la necesidad de recurrir al perdón para calmar
+a los rebeldes. Es evidente que los oficiales deseaban contener la
+rebeldía de las fronteras y alcanzar el anhelado propósito de reducir
+las poblaciones de indígenas, cimarrones, delincuentes fugitivos,
+contrabandistas, y extranjeros, que pululaban por las costas de Tierra
+Firme. El discurso parecía lógico: después de lograr controlar todo ese
+territorio sólo quedaría la riqueza, una que podría superar a la de
+cualquier otro reino español. El problema es que se consideraba que
+durante más de dos siglos la punta de lanza de la pacificación había
+sido la rama de olivo de la evangelización, después de Gálvez, fueron
+varias voces las que consideraron que era necesario cambiar la
+estrategia y demostrar la fuerza primero y la clemencia después. Pero
+1781 demostró que esto no era posible. En el Nuevo Reino estuvieron a
+punto de perder Santa Fe, en Perú la rebelión alcanzó una fuerza y
+duración inesperada. En ambos casos, una estrategia de castigos y
+perdones se puso en marcha para contener a los rebeldes y recuperar la
+autoridad de la Corona, aunque valga decirlo desde el principio, fue
+mucho más sencillo en el caso del Nuevo Reino que en el Perú.
 
 ### Conceptualización
 
 No está de más aclarar que esta investigación pretende evitar una
 perspectiva maniquea del perdón como un acto "bueno" o preferible al
 castigo. El objetivo principal consiste en intentar restituir (muy en el
-sentido de Rosanvallon)[^1] la "dimensión de presente" del perdón como
+sentido de Rosanvallon)[^8] la "dimensión de presente" del perdón como
 parte de la experiencia política de pasado, y como tal, comprender su
 indeterminación. Aunque persistió durante todo el siglo XVIII, y por lo
 menos inicios del XIX, la idea de la clemencia como el atributo más
@@ -24,19 +194,19 @@ que ver con la bondad desinteresada del monarca sino se encontraba
 vinculado con la tradición judeo-cristiana del "perdón transaccional" es
 decir, aquel que se otorga con un propósito y sólo si se han cumplido
 unas condiciones previas, definidas por convención, norma o para el caso
-específico.[^2] No está alejado así del perdón cristiano, que se otorga
+específico.[^9] No está alejado así del perdón cristiano, que se otorga
 por la confesión, la penitencia, la constricción, y que en todo caso
 pretende remitir la condena al castigo eterno, que sólo espera la muerte
-para hacerse efectiva.[^3] La paradoja es que el perdón, aunque es
+para hacerse efectiva.[^10] La paradoja es que el perdón, aunque es
 transaccional, se legitima políticamente como incondicional, surgido por
-el mero amor, benevolencia y liberalidad del monarca.[^4] Si se entiende
-como un discurso político, la cédula de perdón es un acto ilocucionario
-del perdón monárquico que conlleva dos intenciones fundamentales: el
-sentimiento de amor hacia el rey y la liberación de la condena del reo.
-El acto perlocutivo es difícil de identificar para la primera intención
-y no tanto para la segunda, ya que estaba definido de una manera
-pragmática con una serie de condiciones, excepciones y
-procedimientos.[^5] La cédula de perdón, al ser promulgada por bando en
+el mero amor, benevolencia y liberalidad del monarca.[^11] Si se
+entiende como un discurso político, la cédula de perdón es un acto
+ilocucionario del perdón monárquico que conlleva dos intenciones
+fundamentales: el sentimiento de amor hacia el rey y la liberación de la
+condena del reo. El acto perlocutivo es difícil de identificar para la
+primera intención y no tanto para la segunda, ya que estaba definido de
+una manera pragmática con una serie de condiciones, excepciones y
+procedimientos.[^12] La cédula de perdón, al ser promulgada por bando en
 los pueblos, se convertía en un acto ilocucionario político que llegaba
 a todos quienes escuchaban el perdón general, lastimosamente los
 testimonios de los escuchas no fueron archivados o aún se encuentran a
@@ -59,20 +229,20 @@ apotegma "perdónanos como nosotros perdonamos a los que nos ofenden" era
 una ilocución común al conceder el perdón, no sólo entre el pueblo
 llano, sino desde el mismo solio del rey, quien concedía indultos los
 Viernes Santos acompañados de la frase "yo os perdono para que Dios me
-perdone".[^6] No era este entonces un asunto baladí, ni mera formalidad,
-de hecho, era ajeno al formulario el apelar a dios con el propósito de
-blindar un contrato; se exigía jurar a dios para decir la verdad o
-cumplir la promesa, al fin y al cabo no podía existir mayor fianza que
-la del alma,[^7] pero para abandonar la injuria no era necesario apelar
-a la divinidad, se hacía porque de este modo un acto gratuito de
-sacrificio se podía hacer merecedor a la gracia en el empíreo. De hecho,
-era un asunto serio, tanto que el defensor de un cuatrero fue
-recriminado y casi amonestado por haberse atrevido al pedirle al alcalde
-ordinario de Girón que indultara a su parte "porque si no perdonamos,
-tampoco Dios nos perdonará". El Fiscal consideró que este era un
-"supersticioso uso de la oración" del padre nuestro, un exceso con el
-que se había faltado a la fe "que como católico cristiano debía
-guardar".[^8]
+perdone".[^13] No era este entonces un asunto baladí, ni mera
+formalidad, de hecho, era ajeno al formulario el apelar a dios con el
+propósito de blindar un contrato; se exigía jurar a dios para decir la
+verdad o cumplir la promesa, al fin y al cabo no podía existir mayor
+fianza que la del alma,[^14] pero para abandonar la injuria no era
+necesario apelar a la divinidad, se hacía porque de este modo un acto
+gratuito de sacrificio se podía hacer merecedor a la gracia en el
+empíreo. De hecho, era un asunto serio, tanto que el defensor de un
+cuatrero fue recriminado y casi amonestado por haberse atrevido al
+pedirle al alcalde ordinario de Girón que indultara a su parte "porque
+si no perdonamos, tampoco Dios nos perdonará". El Fiscal consideró que
+este era un "supersticioso uso de la oración" del padre nuestro, un
+exceso con el que se había faltado a la fe "que como católico cristiano
+debía guardar".[^15]
 
 ### Historiografía
 
@@ -81,40 +251,40 @@ perspectivas nos ha permitido desentrañar un campo de estudio con una
 riqueza que no es detectable a simple vista. Son reconocidos los
 trabajos de Tomás y Valiente sobre el perdón de parte y la monografía de
 María Inmaculada Rodríguez sobre el perdón real como los textos
-canónicos para el ámbito hispano.[^9] Para un contexto más amplio son
+canónicos para el ámbito hispano.[^16] Para un contexto más amplio son
 imprescindibles las obras de Natalie Zemon Davis y Claude Gauvard, ambas
 enfocadas en Francia, la primera con un interés en la cultura francesa
 del siglo XVI vista a través de las *lettres de remision*, en tanto la
 segunda explora el perdón como parte de un análisis amplio del crimen y
-el castigo hacia finales del medioevo francés.[^10] Ya en el mundo
+el castigo hacia finales del medioevo francés.[^17] Ya en el mundo
 americano, el trabajo de Alejandro Agüero para la provincia de Córdoba
 de Tucumán se ha instalado como el referente obligado para comprender la
 flexibilidad de la justicia de antiguo régimen desde la perspectiva de
-la clemencia, el perdón y el disimulo;[^11] que viene a complementar el
-clásico, pero no obsoleto, trabajo de Abelardo Levaggi.[^12]
+la clemencia, el perdón y el disimulo;[^18] que viene a complementar el
+clásico, pero no obsoleto, trabajo de Abelardo Levaggi.[^19]
 
 Es apenas obvio que la bibliografía no se agota en este puñado de obras
 y, aunque no sea posible identificar una "línea de investigación"
 dedicada al perdón y el indulto, progresivamente aumentan los
 investigadores interesados en el tema desde ambos lados del
-Atlántico.[^13] Destaco aquí los trabajos de Víctor Manuel Uribe-Urán,
+Atlántico.[^20] Destaco aquí los trabajos de Víctor Manuel Uribe-Urán,
 Sarissa Carneiro, Gribrán Bautista Lugo y Angela Ballone, para el caso
-de Nueva España;[^14] las investigaciones de Violet Soen para el Flandes
-hispano;[^15] los textos derivados de la investigación sobre la práctica
+de Nueva España;[^21] las investigaciones de Violet Soen para el Flandes
+hispano;[^22] los textos derivados de la investigación sobre la práctica
 de escribanos y el perdón para el ámbito chileno realizados por Aude
 Argouse y María Eugenia Albornoz (ambas editoras de la revista "Historia
-y Justicia"),[^16] así como el trabajo de Gaune y Undurraga sobre la
-circulación del discurso del perdón entre Roma y Santiago.[^17] Para el
+y Justicia"),[^23] así como el trabajo de Gaune y Undurraga sobre la
+circulación del discurso del perdón entre Roma y Santiago.[^24] Para el
 ámbito de nuestro interés vale señalar las menciones dispersas de Tamar
 Herzog acerca de la práctica del indulto en el ámbito de la Audiencia de
 Quito, similares a las menciones de Ots Capdequí sobre el Nuevo Reino o
-de Lalinde para la institución virreinosenatorial.[^18] Específicamente
+de Lalinde para la institución virreinosenatorial.[^25] Específicamente
 dedicadas al ámbito del Nuevo Reino de Granada y con una mayor
 profundidad en el análisis se destacan los trabajos de Verónica Salazar
 y María Montoya Gómez, el primero entrelazando celebraciones regias con
 peticiones de perdón o ratificación de la reconciliación tras las
 rebeliones, el segundo, enfocado en el indulto general dado a los
-comuneros del Socorro en 1782.[^19]
+comuneros del Socorro en 1782.[^26]
 
 Debido a la amplitud temática que pretende abarcar este proyecto se ha
 preferido distribuir el balance historiográfico en cada capítulo, esto
@@ -145,10 +315,10 @@ del derecho canónico, y la colección general contiene un amplísimo
 catálogo de recopilaciones y facsímiles de obras jurídicas fundamentales
 para el derecho hispano-indiano.
 
-Doctrina como opinión y *auctoritas*:[^20]
+Doctrina como opinión y *auctoritas*:[^27]
 
 Saavedra Fajardo. La edición de 1642 publicada en Milán se considera
-como "de referencia"[^21] y fue de esta que se derivaron las
+como "de referencia"[^28] y fue de esta que se derivaron las
 reimpresiones del siglo XVIII e inicios del XIX (Madrid, 1724 y
 1789-1790; Valencia, 1786 y 1800-1801). La comparación entre las
 diferentes reimpresiones muestra que éstas fueron copias fieles a la
@@ -176,7 +346,7 @@ tras la separación de la provincia de Caracas, alcanzaba desde el norte
 hasta el sur una extensión de cerca de 2000 kilómetros, en tanto su
 longitud no fue claramente definida, como diría Francisco Silvestre,
 este era un virreinato "cuya extensión pasa de 800 leguas por lo
-largo,[^22] y que no se le conosen límites por lo ancho."[^23]
+largo,[^29] y que no se le conosen límites por lo ancho."[^30]
 
 Metodología
 -----------
@@ -209,11 +379,11 @@ que permite hacer pesquisas específicas, no es tanto una utilidad para
 el descubrimiento significativo de textos; básicamente, porque la
 compañía dio prioridad a la cantidad sobre la profundidad lo que,
 incluso con un proceso de automatización avanzado, genera una importante
-cantidad de errores y malinterpretaciones en las búsquedas.[^24]
+cantidad de errores y malinterpretaciones en las búsquedas.[^31]
 Derivado de lo anterior, se prefirió el uso de repositorios con
 curadurías especializadas así como buscadores relacionados con éstos
 sitios, específicamente *Europeana* y la *Biblioteca Virtual del
-Patrimonio Bibliográfico*.[^25] En la sección de referencias
+Patrimonio Bibliográfico*.[^32] En la sección de referencias
 bibliográficas se incluyó un apartado para listar los diferentes
 recursos electrónicos disponibles en la Web: archivos, bibliotecas,
 diccionarios, recursos para consultas semánticas, y ediciones digitales
@@ -238,67 +408,93 @@ que permite consultar el significado de la palabra, casos,
 conjugaciones, y su contexto entre un corpus de más de 68 millones de
 palabras.
 
-[^1]: Pierre Rosanvallon y Javier Fernández Sebastián, "Historia
+[^1]: Ovidio, *Tristia*, lib. II, 27-31.
+
+[^2]: La transcripción del capitán decía: "Set missii pecasem quat tu
+    conservere pouses? Materiam venit sont nostra tibi sedit". AHM,
+    sección colonia, Concejo de Medellín, despachos, tomo 11, f. 299v.
+
+[^3]: Juan Solórzano Pereira, *Política indiana* \[1647\], edición
+    corregida y anotada por Francisco Ramiro de Valenzuela (Madrid:
+    imprenta Real de la Gazeta, 1776), "al lector", nota *k*.
+
+[^4]: Sobre la familia Sánchez Arroyave véase Gabriel Arango Mejía,
+    *Genealogías de Antioquia y Caldas*, 2a ed. (Medellín: Bedout,
+    1973).
+
+[^5]: Ernst H Kantorowicz, *Los dos cuerpos del rey: un estudio de
+    teología política medieval*, trad. Susana Aikin Araluce y Rafael
+    Blázquez Godoy (Madrid: Alianza, 1985), 115--24.
+
+[^6]: Francesco Maiolo, *Medieval Sovereignty: Marsilius of Padua and
+    Bartolus of Saxoferrato* (Delft: Eburon Academic, 2007), 32.
+
+[^7]: Raymundo Azero, *Premios de la obediencia: castigos de la
+    inobediencia* (Santa Fe, don Antonio Espinosa de los Monteros,
+    1782), 17.
+
+[^8]: Pierre Rosanvallon y Javier Fernández Sebastián, "Historia
     intelectual y democracia. Entrevista con Pierre Rosanvallon",
     Revista de Libros, el 1 de mayo de 2007,
     https://www.revistadelibros.com/articulo\_imprimible.php?art=2999&t=articulos.
 
-[^2]: Sobre el perdón político desde una perspectiva teórica, Charles L.
+[^9]: Sobre el perdón político desde una perspectiva teórica, Charles L.
     Griswold, *Forgiveness: A Philosophical Exploration* (New York:
     Cambridge University Press, 2007), 134--46. Acerca del "perdón
     transaccional" véase a Martha Nussbaum, *La ira y el perdón.
     Resentimiento, generosidad, justicia*, trad. Víctor Altamirano
     (México: Fondo de Cultura Económica, 2018), 114--28.
 
-[^3]: Jean Delumeau, *L'aveu et le pardon: les difficultés de la
+[^10]: Jean Delumeau, *L'aveu et le pardon: les difficultés de la
     confession, XIIIe-XVIIIe siècle*, Nouvelles études historiques
     (Paris: Fayard, 1990).
 
-[^4]: Nussbaum, *La ira y el perdón*, 104.
+[^11]: Nussbaum, *La ira y el perdón*, 104.
 
-[^5]: Sobre los límites de la contextualización del discurso político en
-    la historia de las ideas véase Martin Jay, "Historical Explanation
-    and the Event: Reflections on the Limits of Contextualization", *New
-    Literary History* 42, núm. 4, (2011): 557--71.
+[^12]: Sobre los límites de la contextualización del discurso político
+    en la historia de las ideas véase Martin Jay, "Historical
+    Explanation and the Event: Reflections on the Limits of
+    Contextualization", *New Literary History* 42, núm. 4, (2011):
+    557--71.
 
-[^6]: Francisco Antonio de Elizondo, *Práctica universal forense de los
+[^13]: Francisco Antonio de Elizondo, *Práctica universal forense de los
     tribunales de España y de las Indias*, tomo V (Madrid: Joaquín
     Ibarra, 1785), parte II, cap. XIV, núm. 6.
 
-[^7]: Los testamentos son una fuente privilegiada para el estudio de la
+[^14]: Los testamentos son una fuente privilegiada para el estudio de la
     salvación del alma, de la cual hay una interesante tradición
     historiográfica.
 
-[^8]: "Petición de perdón por el defensor de un cuatrero", Girón, 10 de
+[^15]: "Petición de perdón por el defensor de un cuatrero", Girón, 10 de
     julio de 1799, AHRS, archivo histórico judicial de Girón, paq. 59,
     leg. 19, f. 30r.
 
-[^9]: Francisco Tomás y Valiente, "El perdón de la parte ofendida en el
+[^16]: Francisco Tomás y Valiente, "El perdón de la parte ofendida en el
     Derecho penal castellano (siglos XVI, XVII y XVIII)", *Anuario de
     historia del derecho español*, núm. 31 (1961): 55--114; María
     Inmaculada Rodríguez Flores, *El perdón real en Castilla (siglos
     XIII-XVIII)* (Salamanca: Universidad de Salamanca, 1971).
 
-[^10]: Natalie Zemon Davis, *Fiction in the Archives: Pardon Tales and
+[^17]: Natalie Zemon Davis, *Fiction in the Archives: Pardon Tales and
     Their Tellers in Sixteenth-Century France* (Stanford University
     Press, 1987); Claude Gauvard, *De grace especial: crime, Etat et
     société en France à la fin du Moyen Age*, vol. I, II vols. (Paris:
     Publications de la Sorbonne, 1991).
 
-[^11]: Alejandro Agüero Nazar, *Castigar y perdonar cuando conviene a la
+[^18]: Alejandro Agüero Nazar, *Castigar y perdonar cuando conviene a la
     República: la justicia penal de Córdoba del Tucumán, siglos XVII y
     XVIII* (Madrid: Centro de Estudios Políticos y Constitucionales,
     2008).
 
-[^12]: Abelardo Levaggi, "Las instituciones de clemencia en el Derecho
+[^19]: Abelardo Levaggi, "Las instituciones de clemencia en el Derecho
     penal rioplatense", *IV Congreso del Instituto Internacional de
     Historia del Derecho Indiano*, 1976, 243--98.
 
-[^13]: Un listado colaborativo de obras dedicadas al perdón y al indulto
+[^20]: Un listado colaborativo de obras dedicadas al perdón y al indulto
     puede consultarse en
     [[https://www.zotero.org/groups/1716155/historia\_del\_perdn\_y\_el\_indulto]{.underline}](https://www.zotero.org/groups/1716155/historia_del_perdn_y_el_indulto)
 
-[^14]: Víctor Manuel Uribe-Urán, "Innocent Infants or Abusive
+[^21]: Víctor Manuel Uribe-Urán, "Innocent Infants or Abusive
     Patriarchs? Spousal Homicides, the Punishment of Indians and the Law
     in Colonial Mexico, 1740s--1820s", *Journal of Latin American
     Studies* 38, núm. 04 (2006): 793--828,
@@ -316,7 +512,7 @@ palabras.
     conflict resolution in the Iberian Atlantic*, European expansion and
     indigenous response, volume 24 (Leiden ; Boston: Brill, 2018).
 
-[^15]: Violet Soen, "¿Cómo practicar la virtud? Protagonistas y
+[^22]: Violet Soen, "¿Cómo practicar la virtud? Protagonistas y
     pareceres en la querella sobre la virtud de la clemencia durante la
     guerra de Flandes (1565-1585)", en *El gobierno de la virtud:
     política y moral en la Monarquía Hispánica (siglos XVI-XVIII)*, ed.
@@ -331,7 +527,7 @@ palabras.
     (1578-1592)", *Journal of Early Modern History* 16, núm. 1 (2012):
     1--22, https://doi.org/10.1163/157006512X620627.
 
-[^16]: Aude Argouse, "'Ausente como si fuésedes presente'. Perdón,
+[^23]: Aude Argouse, "'Ausente como si fuésedes presente'. Perdón,
     memoria, escribanos, Chile S. XVI-XVIII", *Mouseion*, núm. 18
     (2014): 55--74, https://doi.org/10.18316/1676; María Eugenia
     Albornoz Vásquez, "Cortar la causa, no admitir más escrito, obligar
@@ -341,13 +537,13 @@ palabras.
     (España y América, siglos XVI-XIX)*, ed. Elisa Caselli (Madrid:
     Fondo de Cultura Económica, red columnaria, 2016), 125--57.
 
-[^17]: Rafael Gaune y Verónica Undurraga, "El Perdón como espacio
+[^24]: Rafael Gaune y Verónica Undurraga, "El Perdón como espacio
     normativo. Circulación, mediación y traducción de discursos
     religiosos entre Roma y Santiago, Siglo XVII", *Jahrbuch für
     Geschichte Lateinamerikas -- Anuario de Historia de America Latina*
     52, núm. 1 (2016): 87, https://doi.org/10.7767/jbla-2015-0106.
 
-[^18]: Tamar Herzog, *La administración como un fenómeno social: la
+[^25]: Tamar Herzog, *La administración como un fenómeno social: la
     justicia penal de la ciudad de Quito (1650 - 1750)*, Historia de la
     sociedad política (Madrid: Centro de Estudios Constitucionales,
     1995), 248--50; Tamar Herzog, "El rescate de una fuente histórica:
@@ -360,38 +556,38 @@ palabras.
     virreino-senatorial en Indias", *Anuario de historia del derecho
     español* XXXVII (1967): 210--13.
 
-[^19]: Verónica Salazar Baena, "Fastos monárquicos en el Nuevo Reino de
+[^26]: Verónica Salazar Baena, "Fastos monárquicos en el Nuevo Reino de
     Granada. La imagen del rey y los intereses locales. Siglos
     XVII-XVIII" (Tesis doctoral, Universidad de Barcelona, 2013); María
     Victoria Montoya Gómez, "Castigo y perdón: el movimiento comunero.
     Nuevo Reino de Granada, 1781", *Mouseion*, núm. 18 (2014): 35--53.
 
-[^20]: Víctor Tau Anzoátegui, *El jurista en el Nuevo Mundo.
+[^27]: Víctor Tau Anzoátegui, *El jurista en el Nuevo Mundo.
     Pensamiento. Doctrina. Mentalidad*, Global Perspectives on Legal
     History 7 (Frankfurt am Main: Max Planck Institute for European
     Legal History, 2016), 101--40, https://doi.org/10.12946/gplh7.
 
-[^21]: Diego Saavedra Fajardo, "Idea de un príncipe político cristiano",
+[^28]: Diego Saavedra Fajardo, "Idea de un príncipe político cristiano",
     ed. Enrique Suárez Figaredo, *Lemir: Revista de Literatura Española
     Medieval y del Renacimiento*, núm. 20 (2016): 522.
 
-[^22]: Aproximadamente 4457 kilómetros si se toma como base la medida
+[^29]: Aproximadamente 4457 kilómetros si se toma como base la medida
     tradicional que establecía la legua común en 20000 pies castellanos
     (cerca de 5572 metros). Valentina Garza Martínez, "Medidas y caminos
     en la época colonial: expediciones, visitas y viajes al norte de la
     Nueva España (siglos XVI-XVIII)", *Fronteras de la Historia* 17,
     núm. 2 (2012): 197 y 218.
 
-[^23]: Francisco Silvestre, *Relación de la provincia de Antioquia*,
+[^30]: Francisco Silvestre, *Relación de la provincia de Antioquia*,
     Ediciones especiales 4 (Medellín: Secretaría de Educación y Cultura
     de Antioquia, 1988), 483.
 
-[^24]: Un corto ensayo fue escrito al respecto en Jairo Antonio Melo
+[^31]: Un corto ensayo fue escrito al respecto en Jairo Antonio Melo
     Flórez, "Lectura distante, fragmentada y colaborativa en el archivo
     infinito", *Relaciones. Estudios de Historia y Sociedad* 38, núm.
     149 (2017): 169--89.
 
-[^25]: Unión Europea, *Europeana Collections*, 2019,
+[^32]: Unión Europea, *Europeana Collections*, 2019,
     [[https://www.europeana.eu/]{.underline}](https://www.europeana.eu/)
     ; Ministerio de Cultura y Deporte de España, *Biblioteca Virtual del
     Patrimonio Bibliográfico*, 2017,
