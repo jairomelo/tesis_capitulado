@@ -152,6 +152,9 @@ Fuentes seriadas
 
 *Gazeta ministerial de Sevilla*, núm. 2, 4 de junio de 1808.
 
+*Redactor Americano del Nuevo Reyno de Granada*, núm. 48, 19 de
+noviembre de 1808.
+
 Libros manuscritos
 ------------------
 

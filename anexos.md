@@ -307,8 +307,8 @@ Fecha: 9 de diciembre de 1746
 
 Anexo 5. Real Cédula facultando al Virrey para perdonar delitos (1739)
 
-Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
-Tomo 9, ff. 736r-738r.
+Fuente: AGNC, sección Archivo Anexo, Reales cédulas y órdenes, tomo 9,
+ff. 736r-738r.
 
 Lugar: San Ildefonso
 
@@ -711,8 +711,8 @@ Fecha: 4 y 7 de noviembre de 1761
 >
 > Juan Antonio de Orellana. Escribano público.
 
-Anexo . Carta del apoderado de los barrios de Quito, Don Antonio Araujo,
-exponiendo al virrey los motivos de la inquietud (1765)
+Anexo 9. Carta del apoderado de los barrios de Quito, Don Antonio
+Araujo, exponiendo al virrey los motivos de la inquietud (1765)
 
 Fuente: AGI, Quito, 398
 
@@ -1242,7 +1242,7 @@ Fecha: 23 de febrero de 1779
 > habilitado por S. M. en ausencia del Señor Secretario. Don Antonio de
 > Prado.
 
-Anexo . Apartamiento de querella por precio (1780)
+Anexo 12. Apartamiento de querella por precio (1780)
 
 Fuente: AGNC, sección colonia, juicios criminales, tomo 148, doc. 1, ff.
 81r-82r.
@@ -1842,7 +1842,7 @@ Fecha: 6 de agosto de 1782
 >
 > Antonio Arzobispo Virrey de Santa Fé
 
-Anexo . Petición de indulto de Eugenio Poveda (1783)
+Anexo 15. Petición de indulto de Eugenio Poveda (1783)
 
 Fuente: AGNC, sección colonia, juicios criminales, tomo 64, doc. 18, f.
 369r-v.
@@ -2144,8 +2144,8 @@ Fecha: 10 de octubre de 1783
 
 Anexo 18. Indulto general (1784)
 
-Fuente: AGNC, S Colonia, F Real Audiencia, SC Cundinamarca, leg. 17, ff.
-744r-745v.
+Fuente: AGNC, sección colonia, Real Audiencia, Cundinamarca, tomo 17,
+ff. 744r-745v.
 
 Lugar: El Pardo
 
@@ -2249,7 +2249,7 @@ Fecha: 16 de enero de 1789
 > Padre con semejantes delinqüentes, en indultar á los Soldados de mis
 > Tropas de Tierra y Marina de mis Dominios de España, América é Islas
 > Filipinas, inclusos los de Milicias Regladas, que hubieren cometido el
-> feo delito de la deservion hasta el dia de la fecha de esta gracia con
+> feo delito de la desercion hasta el dia de la fecha de esta gracia con
 > las distinciones y restricciones siguientes. A los de primera vez sin
 > circunstancia agravante el indulto completo y con plena libertad. A
 > los de segunda sin causa agravante quiero que vuelvan á servir los de
@@ -2487,9 +2487,7 @@ Lugar: San Lorenzo
 
 Fecha: 29 de octubre de 1804
 
-> \[13r\]
->
-> Excelentisimo señor
+> \[13r\] Excelentisimo señor
 >
 > El Rey se ha servido dirigirme el Real Decreto del tenor siguiente:
 >
@@ -2532,11 +2530,53 @@ Fecha: 29 de octubre de 1804
 >
 > Sr. Virrey del Nuevo Reyno de Granada
 
-Anexo 24. Real Decreto de José Napoleón por el que se otorga el indulto
+Anexo 24. Indulto concedido por la Junta Suprema de Sevilla (1808)
+
+Fuente: *Gazeta Ministerial de Sevilla*, núm. 2, 4 de junio de 1808,
+15-16.
+
+Lugar: Sevilla
+
+Fecha: 30 de mayo de 1808
+
+> INDULTO
+>
+> \[p. 15\] La Suprema Junta de Gobierno, en desempeño de su Soberana
+> representacion, y en defensa de su legítimo Rey el Sr. D. Fernando
+> Séptimo, habiendo roto los vínculos que la unian con la Francia, por
+> el injusto proceder de su Emperador, ha resuelto dar principio á la
+> Guerra mas activa contra aquel Gobierno; y queriendo proporcionar los
+> medios eficaces, que puedan contribuir al logro de tan heróyco
+> intento, ha determinado, y manda se publique este Indulto, que ha de
+> comprender á las personas y casos siguientes.
+>
+> Todo Desertor que se presente en el término de ocho dias á tomar las
+> armas y alistarse en el cuerpo de que se separó, será libre de la pena
+> que le pudiera corresponder por su desercion.
+>
+> Lo mismo sucederá y deberá entenderse con los Contrabandistas de
+> qualquiera clase de fraude, si no hubiesen cometido muerte ó incurrido
+> en robos, con la condicion de que se hayan de alistar en el exército
+> para la defensa de la Patria y el Rey, por el tiempo que duren las
+> actuales circunstancias.
+>
+> Tambien se extenderá este Indulto á los que se hallen presos por
+> qualquiera clase de causa, como no sea de robo, \[p. 16\] asesinato, ó
+> alevosía, delito de Lesa-Magestad, Divina ó Humana, ú ótro que por sus
+> particulares circunstancias le haga acreedor á pena corporal y nota de
+> infamia: debiendose tener entendido por los Jueces, que hayan de
+> conocer de las respectivas causas, que la depravacion del corazon del
+> delinqüente puede ser la regla mas proporcionada para conocer si se
+> halla en disposicion de poder ser útil á la Patria, en cuyo caso se
+> habrá de resolver á favor de esta.
+>
+> Dado en Sevilla á 30 de Mayo de 1808
+
+Anexo 25. Real Decreto de José Napoleón por el que se otorga el indulto
 general a los oficiales y soldados desertores que prestasen el juramento
 prescrito en la Constitución (1808)
 
-Fuente: AHNE, ESTADO, 3092, Exp.11
+Fuente: AHNE, Estado, leg. 3092, exp.11
 
 Lugar: Madrid
 
@@ -2622,7 +2662,7 @@ Fecha: 23 de julio de 1808
 >
 > Al Ministro de Negocios extranjeros
 
-Anexo 25. Indulto promulgado por el virrey Antonio Amar y Borbón (1808)
+Anexo 26. Indulto promulgado por el virrey Antonio Amar y Borbón (1808)
 
 Fuente: AGNC, Sección Colonia, Juicios Criminales, Leg. 2, doc. 14, ff.
 758r-761v

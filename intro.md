@@ -154,9 +154,9 @@ un levantamiento de tal nivel que llevara a la temida pérdida de las
 provincias de Tierra Firme, asediadas permanentemente por los "enemigos
 extranjeros".
 
-En la justicia la clemencia se pudo canalizar por medio de los indultos
-generales, entre tanto, en el gobierno existía esta especie de
-frustración entre el deseo de replicar el supuesto éxito de Gálvez en el
+En la justicia, la clemencia se pudo canalizar por medio de los indultos
+generales, mas en el gobierno existía una especie de "frustración"
+derivada del interés por replicar el supuesto éxito de Gálvez en el
 septentrión novohispano y la necesidad de recurrir al perdón para calmar
 a los rebeldes. Es evidente que los oficiales deseaban contener la
 rebeldía de las fronteras y alcanzar el anhelado propósito de reducir
@@ -408,11 +408,222 @@ que permite consultar el significado de la palabra, casos,
 conjugaciones, y su contexto entre un corpus de más de 68 millones de
 palabras.
 
+**Virreyes del Nuevo Reino de Granada (1719-1810)**
+
++---------+---------+---------+---------+---------+---------+---------+
+| **Virre | **Ofici | **Año   | **Año   | **Años  | **Ofici | **Otro  |
+| y**     | o,      | inicio* | final** | en el   | o       | cargo   |
+|         | título  | *       |         | cargo** | posteri | relevan |
+|         | o rango |         |         |         | or**    | te**    |
+|         | anterio |         |         |         |         |         |
+|         | r       |         |         |         |         |         |
+|         | al      |         |         |         |         |         |
+|         | nombram |         |         |         |         |         |
+|         | iento** |         |         |         |         |         |
++=========+=========+=========+=========+=========+=========+=========+
+| Jorge   | General | 1719    | 1723    | 4       | Conseje |         |
+| de      | del     |         |         |         | ro      |         |
+| Villalo | Callao  |         |         |         | del     |         |
+| nga     |         |         |         |         | Consejo |         |
+| Fortuny |         |         |         |         | Supremo |         |
+|         |         |         |         |         | de      |         |
+| \[Palma |         |         |         |         | Guerra  |         |
+| de      |         |         |         |         |         |         |
+| Mallorc |         |         |         |         |         |         |
+| a,      |         |         |         |         |         |         |
+| 13.VIII |         |         |         |         |         |         |
+| .1664   |         |         |         |         |         |         |
+| --      |         |         |         |         |         |         |
+| Madrid, |         |         |         |         |         |         |
+| 23.V.17 |         |         |         |         |         |         |
+| 40\]    |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| Sebasti | Tenient | 1739    | 1749    | 10      | Directo | Secreta |
+| án      | e       |         |         |         | r       | rio     |
+| de      | general |         |         |         | general | de      |
+| Eslava  |         |         |         |         | de      | Estado  |
+|         |         |         |         |         | Artille | y de    |
+| \[Enéri |         |         |         |         | ría     | Despach |
+| z       |         |         |         |         | e       | o       |
+| (Navarr |         |         |         |         | Infante | Univers |
+| a),     |         |         |         |         | ría     | al      |
+| 19.I.16 |         |         |         |         | español | de la   |
+| 85      |         |         |         |         | a       | Guerra  |
+| --      |         |         |         |         |         | (1754-1 |
+| Madrid, |         |         |         |         |         | 759)    |
+| 21.VI.1 |         |         |         |         |         |         |
+| 759\]   |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| José    | Vicealm | 1749    | 1753    | 4       | Muere   |         |
+| Alfonso | irante  |         |         |         | por     |         |
+| Pizarro |         |         |         |         | enferme |         |
+|         |         |         |         |         | dad     |         |
+| \[Murci |         |         |         |         |         |         |
+| a,      |         |         |         |         |         |         |
+| 1689 -- |         |         |         |         |         |         |
+| Madrid, |         |         |         |         |         |         |
+| 1755\]  |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| José    | Guardia | 1753    | 1761    | 8       | Se      |         |
+| Solís   | de      |         |         |         | ordena  |         |
+| Folch   | Corps   |         |         |         | como    |         |
+|         |         |         |         |         | francis |         |
+| \[Madri |         |         |         |         | cano    |         |
+| d,      |         |         |         |         |         |         |
+| 4.II.17 |         |         |         |         |         |         |
+| 16      |         |         |         |         |         |         |
+| --      |         |         |         |         |         |         |
+| Santa   |         |         |         |         |         |         |
+| Fe,     |         |         |         |         |         |         |
+| 27.IV.1 |         |         |         |         |         |         |
+| 770.\]  |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| Pedro   | Conseje | 1761    | 1772    | 11      | Retiro  |         |
+| Mesía   | ro      |         |         |         |         |         |
+| de la   | del     |         |         |         |         |         |
+| Cerda   | Consejo |         |         |         |         |         |
+|         | Supremo |         |         |         |         |         |
+| \[Córdo | de      |         |         |         |         |         |
+| ba,     | Guerra  |         |         |         |         |         |
+| 11.II.1 |         |         |         |         |         |         |
+| 700     |         |         |         |         |         |         |
+| --      |         |         |         |         |         |         |
+| Madrid, |         |         |         |         |         |         |
+| 15.IV.1 |         |         |         |         |         |         |
+| 783\]   |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| Manuel  | Tenient | 1772    | 1776    | 4       | Virrey  |         |
+| de      | e       |         |         |         | del     |         |
+| Guirior | general |         |         |         | Perú    |         |
+|         |         |         |         |         | (1776-1 |         |
+| \[Aoyz  |         |         |         |         | 780)    |         |
+| (Navarr |         |         |         |         |         |         |
+| a),     |         |         |         |         |         |         |
+| 21.III. |         |         |         |         |         |         |
+| 1708    |         |         |         |         |         |         |
+| --      |         |         |         |         |         |         |
+| Madrid, |         |         |         |         |         |         |
+| 25.XI.1 |         |         |         |         |         |         |
+| 788\]   |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| Manuel  | Tenient | 1776    | 1782    | 6       | Virrey  |         |
+| Antonio | e       |         |         |         | de      |         |
+| Flórez  | general |         |         |         | Nueva   |         |
+|         |         |         |         |         | España  |         |
+| \[Sevil |         |         |         |         | (1787-1 |         |
+| la,     |         |         |         |         | 789)    |         |
+| 27.V.17 |         |         |         |         |         |         |
+| 23      |         |         |         |         |         |         |
+| --      |         |         |         |         |         |         |
+| Madrid, |         |         |         |         |         |         |
+| 20.III. |         |         |         |         |         |         |
+| 1799\]  |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| Juan de | Marisca | 1782    | 1782    | 0       | Muere   |         |
+| Torreza | l       |         |         |         | por     |         |
+| r       | de      |         |         |         | enferme |         |
+| y Díaz  | campo   |         |         |         | dad     |         |
+| Pimient |         |         |         |         |         |         |
+| a       |         |         |         |         |         |         |
+|         |         |         |         |         |         |         |
+| \[? --  |         |         |         |         |         |         |
+| Santa   |         |         |         |         |         |         |
+| Fe,     |         |         |         |         |         |         |
+| 12.VI.1 |         |         |         |         |         |         |
+| 782\]   |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| Antonio | Arzobis | 1782    | 1789    | 7       | Obispo  |         |
+| Caballe | po      |         |         |         | de      |         |
+| ro      | de      |         |         |         | Córdoba |         |
+| y       | Santa   |         |         |         |         |         |
+| Góngora | Fe      |         |         |         |         |         |
+|         |         |         |         |         |         |         |
+| \[Prieg |         |         |         |         |         |         |
+| o       |         |         |         |         |         |         |
+| (Córdob |         |         |         |         |         |         |
+| a),     |         |         |         |         |         |         |
+| 24.V.17 |         |         |         |         |         |         |
+| 23      |         |         |         |         |         |         |
+| --      |         |         |         |         |         |         |
+| Córdoba |         |         |         |         |         |         |
+| ,       |         |         |         |         |         |         |
+| 24.III. |         |         |         |         |         |         |
+| 1796\]  |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| Francis | Conseje | 1789    | 1789    | 0       | Virrey  |         |
+| co      | ro      |         |         |         | del     |         |
+| Gil de  | del     |         |         |         | Perú    |         |
+| Taboada | Consejo |         |         |         | (1789-1 |         |
+| y Lemus | Supremo |         |         |         | 796)    |         |
+|         | de      |         |         |         |         |         |
+| \[Santa | Guerra  |         |         |         |         |         |
+| María   |         |         |         |         |         |         |
+| de      |         |         |         |         |         |         |
+| Sotolon |         |         |         |         |         |         |
+| go      |         |         |         |         |         |         |
+| (Pontev |         |         |         |         |         |         |
+| edra),  |         |         |         |         |         |         |
+| 24.IX.1 |         |         |         |         |         |         |
+| 733     |         |         |         |         |         |         |
+| --      |         |         |         |         |         |         |
+| Madrid, |         |         |         |         |         |         |
+| 1810\]  |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| José de | Goberna | 1789    | 1796    | 7       | Goberna | Capitán |
+| Ezpelet | dor     |         |         |         | dor     | general |
+| a       | y       |         |         |         | del     | de      |
+| y       | capitán |         |         |         | Consejo | Cataluñ |
+| Galdean | general |         |         |         | de      | a       |
+| o       | de Cuba |         |         |         | Castill | (1807-1 |
+|         |         |         |         |         | a       | 814),   |
+| \[Barce |         |         |         |         | y       | virrey  |
+| lona,   |         |         |         |         | capitán | de      |
+| 24.I.17 |         |         |         |         | general | Navarra |
+| 42      |         |         |         |         | de      | (1814-1 |
+| ant. -- |         |         |         |         | Castill | 820)    |
+| Pamplon |         |         |         |         | a       |         |
+| a       |         |         |         |         | la      |         |
+| (Navarr |         |         |         |         | Nueva   |         |
+| a),     |         |         |         |         | (1797-1 |         |
+| 23.XI.1 |         |         |         |         | 798)    |         |
+| 823\]   |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| Pedro   | Tenient | 1797    | 1803    | 6       | Miembro |         |
+| de      | e       |         |         |         | honorar |         |
+| Mendinu | general |         |         |         | io      |         |
+| eta     |         |         |         |         | del     |         |
+| y       |         |         |         |         | Consejo |         |
+| Múzquiz |         |         |         |         | de      |         |
+|         |         |         |         |         | Estado  |         |
+| \[Elizo |         |         |         |         | y       |         |
+| ndo     |         |         |         |         | Guerra  |         |
+| (Navarr |         |         |         |         | (1807)  |         |
+| a),     |         |         |         |         |         |         |
+| 6.VI.17 |         |         |         |         |         |         |
+| 35      |         |         |         |         |         |         |
+| --      |         |         |         |         |         |         |
+| Madrid, |         |         |         |         |         |         |
+| 18.II.1 |         |         |         |         |         |         |
+| 825\]   |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| Antonio | Comanda | 1803    | 1810    | 7       | Retiro  |         |
+| Amar y  | nte     |         |         |         |         |         |
+| Borbón  | general |         |         |         |         |         |
+|         | de      |         |         |         |         |         |
+| \[Zarag | Guipúzc |         |         |         |         |         |
+| oza,    | oa      |         |         |         |         |         |
+| III.174 |         |         |         |         |         |         |
+| 2       |         |         |         |         |         |         |
+| --      |         |         |         |         |         |         |
+| X.1818  |         |         |         |         |         |         |
+| post.\] |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+
 [^1]: Ovidio, *Tristia*, lib. II, 27-31.
 
-[^2]: La transcripción del capitán decía: "Set missii pecasem quat tu
-    conservere pouses? Materiam venit sont nostra tibi sedit". AHM,
-    sección colonia, Concejo de Medellín, despachos, tomo 11, f. 299v.
+[^2]: En el original dice: "Set missii pecasem quat tu conservere
+    pouses? Materiam venit sont nostra tibi sedit". AHM, sección
+    colonia, Concejo de Medellín, despachos, tomo 11, f. 299v.
 
 [^3]: Juan Solórzano Pereira, *Política indiana* \[1647\], edición
     corregida y anotada por Francisco Ramiro de Valenzuela (Madrid:

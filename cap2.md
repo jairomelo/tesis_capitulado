@@ -1651,9 +1651,9 @@ hacia ciertos delincuentes comunes. Sabemos que los gobernadores de
 Cartagena, Antonio de Salas y Pedro Fidalgo, recibieron la facultad de
 perdonar por la vía reservada, el primero por cédula de 18 de agosto de
 1736 y el segundo por una de 10 de octubre de 1737. Esta facultad se
-limitaba a los delincuentes por comercio ilícito y fue retirada en 1744
-cuando era gobernador Melchor de Navarrete por el virrey Eslava quien
-consideraba era una atribución exclusiva de su título, decisión que fue
+limitaba a los delincuentes por comercio ilícito y fue retirada por el
+virrey Eslava en 1744, cuando era gobernador Melchor de Navarrete, al
+considerarla una atribución exclusiva de su título, decisión que fue
 ratificada por el rey a través de una consulta al Consejo de Indias en
 1748.[^234]
 
