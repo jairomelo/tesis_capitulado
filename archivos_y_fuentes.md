@@ -256,6 +256,10 @@ Pública de Colombia*,  Vol. 13 (p. 56-78; 147-158, 217-238) y Vol. 14
 del Reyno de Santa Fe de Bogotá*. Biblioteca Popular de Cultura
 Colombiana. Bogotá: Ministerio de Educación Nacional, 1950.
 
+---------. *Relación de la provincia de Antioquia* \[ca. 1797\]. Editado
+por David J. Robinson. Ediciones especiales 4. Medellín: Secretaría de
+Educación y Cultura de Antioquia, 1988.
+
 ***Legislación***
 
 *Cedulario de Encinas*. Madrid: Imprenta Real, 1596. Edición
@@ -266,9 +270,9 @@ Hispánica, 1990.
 facsímil por editorial Lex Nova de 1989. Trad. Ildefonso L. García del
 Corral. Barcelona: Jaime Molinas, 1889-1895.
 
-*Corpus juris canonici emendatum et notis illustratum*. Roma : In
-aedibus Populi Romani, 1582. Edición electrónica por UCLA Digital
-Library Program.
+*Corpus juris canonici emendatum et notis illustratum*. Roma: In aedibus
+Populi Romani, 1582. Edición electrónica por UCLA Digital Library
+Program.
 [[http://digital.library.ucla.edu/canonlaw]{.underline}](http://digital.library.ucla.edu/canonlaw)
 
 *Las Siete Partidas del Sabio Rey don Alfonso el nono \[sic\] por las
@@ -471,6 +475,11 @@ et inferiorum ab eo; de excessibus etiam eorum circa prædicium alienum
 materia perquam copiose discutitur.* Frankfurt: tipografía de Segismundo
 Latomi, 1610.
 
+Plinio el Joven. *El Panegírico de Plinio en castellano, pronunciado en
+el senado en alabanza del mejor príncipe, Trajano Augusto*, traducido
+por Francisco de Barreda. Madrid: Imprenta de don Antonio Espinoza,
+1787.
+
 Pradilla, Francisco de la. *Suma de las leyes penales.* Madrid: Imprenta
 del Reyno, 1639.
 
@@ -515,8 +524,8 @@ de Antonio Marín, 1738.
 Vizcaíno, Vicente. *Código y práctica criminal, arreglado a las leyes de
 España*. Madrid: Imprenta de la viuda de Ibarra, 1797.
 
-Recursos digitales
-------------------
+Recursos digitales y bases de datos
+-----------------------------------
 
 Agencia Española de Cooperación Internacional para el Desarrollo
 (AECID). *Biblioteca digital*. 2018.
@@ -587,9 +596,13 @@ Real Academia de la Historia. *Diccionario Biográfico Español*. 2018.
 Real Academia de Jurisprudencia y Legislación. *IURIS digital*. sf.
 [[http://bvrajyl.rajyl.es/i18n/consulta/busqueda.cmd]{.underline}](http://bvrajyl.rajyl.es/i18n/consulta/busqueda.cmd)
 
+Stangl, Werner, ed. *HGIS de las Indias (Proyecto FWF, P 26379-G18,
+2015-2019)*. 2019.
+[[www.hgis-indias.net]{.underline}](https://doi.org/www.hgis-indias.net).
+
 Tomás de Aquino. "Summa Theologiae". En *S. Thomae de Aquino Opera
 omnia*, editado por Enrique Alarcón y Roberto Busa, Textum Leoninum
-Romae. Pamplona: Ad Universitatis Studiorum Navarrensis, 2001.
+Romae. Pamplona: Ad Universitatis Studiorum Navarrensis. 2001.
 [[http://www.corpusthomisticum.org/iopera.html]{.underline}](http://www.corpusthomisticum.org/iopera.html).
 
 Unión Europea. *Europeana Collections*. 2019.
@@ -615,6 +628,10 @@ Dekker, Ronald Haentjens, y Gregor Middel. *CollateX* (versión 1.7.1).
 Java/Python client, HTML, Java, Python. Ámsterdam: The Interedition
 Development Group, 2015.
 [[https://collatex.net]{.underline}](https://collatex.net).
+
+QGIS Development Team. *QGIS Geographic Information System* (versión
+3.8.1-Zanzibar). Windows, Linux, Mac OS X, C++, Python, 2019.
+[[https://qgis.org/es/site/]{.underline}](https://qgis.org/es/site/).
 
 Referencias bibliográficas
 --------------------------

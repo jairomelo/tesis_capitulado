@@ -20,7 +20,7 @@ Andrés Ortiz. Después de haber pasado por la horca al esclavo, Francisco
 repitió la misma confesión, por lo que los religiosos que estaban
 asistiendo el suplicio (un cura y un franciscano) rogaron al teniente de
 gobernador, don Joaquín Sánchez de Arellano, que se suspendiera la
-ejecución de libreros en vista de las confesiones realizadas por los
+ejecución de Libreros en vista de las confesiones realizadas por los
 reos en vísperas de su muerte. En efecto, Sánchez ordenó que se
 regresara a Libreros a su prisión y que se hiciera información respecto
 a lo dicho por el esclavo y su cómplice.[^1]
@@ -236,7 +236,7 @@ ultramar. Su hijo, Carlos IV, promulgó dos perdones públicos, siendo el
 de 1796 el único celebratorio del final de un conflicto internacional
 que involucró a España.
 
-Tabla 1. Indultos generales decretados entre 1707 y 1810
+### Tabla 1. Indultos generales decretados entre 1707 y 1810
 
   **Reinado de**        **Fecha**             **Alcance**                                                                                                               **Afectados**                                          **Motivo**
   --------------------- --------------------- ------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------ ----------------------------------------------------------------------------------------------
@@ -699,22 +699,6 @@ dispensarse estos \[castigos públicos\] por los Soberanos para no
 exponer al inocente á la calamidad de una pena la mas grave, y
 sensible".[^79]
 
-Aunque pudiese parecer un asunto retórico, una ejecución realizada sobre
-alguien que luego se descubriera inocente representaba la posibilidad de
-ser juzgado por homicidio. Este fue el caso del juez, fiscal, asesor, y
-testigos implicados en la causa que se abrió contra Manuel José Libreros
-en la ciudad de Cartago. Este hombre fue condenado a muerte por horca
-con otros supuestos cómplices, los cuales poco antes de ser conducidos
-al patíbulo le pidieron perdón a Libreros por sus falsos testimonios
-contra él y confesaron ante el sacerdote quien logró detener la
-ejecución. La madre del reo inició la súplica para su liberación, a
-pesar de lo cual fue ejecutado poco tiempo después. La queja se llevó a
-la Audiencia de Santa Fe donde se inició proceso por homicidio contra
-los jueces y se recabaron las pruebas que demostraron la inocencia de
-Libreros. Paradójicamente, fueron los oficiales quienes posteriormente
-elevaron las súplicas para que se les perdonara, conmutara sus
-sentencias, y restituyeran en bienes y fama.[^80]
-
 El privilegio y el perdón
 -------------------------
 
@@ -743,10 +727,10 @@ demostrado el servicio en los oficios de la república, tenía educación,
 o su oficio lo hacía una persona importante para la república. En el
 otro lado del espectro se hallaban los considerados dignos de
 misericordia o miserables, "aquellos cuya infelicidad mueve la compasión
-del emperador".[^81] Estos eran, entre otros,[^82] los pobres, los
+del emperador".[^80] Estos eran, entre otros,[^81] los pobres, los
 rústicos, los menores huérfanos, las viudas, las mujeres casadas con
 maridos inútiles, los enfermos y, para el caso americano, los esclavos
-de origen africano y los indígenas.[^83] Esta calidad les había
+de origen africano y los indígenas.[^82] Esta calidad les había
 representado un privilegio, entendido según la tradición del *ius
 commune* como la ley privada (*privata lex*) emitida para una persona o
 grupo particular con el propósito específico de favorecer, de manera
@@ -754,72 +738,72 @@ temporal, a aquellos que por una condición desfavorable requirieran del
 apoyo de la jurisdicción regia para enfrentar las inequidades que podían
 generar en ellos las querellas instauradas por otros, o defender los
 bienes del daño que podían causar aquellos que quisieran aprovechar su
-debilidad.[^84] Desde el siglo XVII la concepción del privilegio se
+debilidad.[^83] Desde el siglo XVII la concepción del privilegio se
 asimiló progresivamente a la de derecho especial, por lo que ya no sólo
 abarcaba a los dignos de amparo sino se ampliaba a otros grupos como los
-militares, los nobles, e incluso algunos oficios como los fiscales.[^85]
+militares, los nobles, e incluso algunos oficios como los fiscales.[^84]
 
 Por su condición subordinada, los pobres y dignos de misericordia tenían
 una serie de prerrogativas tanto en la jurisdicción temporal como en la
 espiritual. Les competían los beneficios de restitución *in
-integrum*,[^86] la resolución sumaria y breve de los pleitos, el derecho
+integrum*,[^85] la resolución sumaria y breve de los pleitos, el derecho
 de solicitar nuevas pruebas y testimonios cuando los consideraran
-nocivos a su causa, se les excusaba de la contumacia judicial,[^87] se
-les exceptuaba en ciertos casos de pagos de costas,[^88] en ciertos
-casos podían escoger el fuero por el cual querían ser juzgados,[^89] y
+nocivos a su causa, se les excusaba de la contumacia judicial,[^86] se
+les exceptuaba en ciertos casos de pagos de costas,[^87] en ciertos
+casos podían escoger el fuero por el cual querían ser juzgados,[^88] y
 tenían caso de Corte, es decir, podían acudir directamente a la
 audiencia, sala de alcaldes de corte o consejo, para litigar desde la
-primera instancia.[^90] Además de esto, Solórzano Pereyra aconsejaba que
+primera instancia.[^89] Además de esto, Solórzano Pereyra aconsejaba que
 a los indios les fueran moderadas las penas y que se evitaran los
 castigos corporales, para lo cual recomendaba a los jueces que "usen más
 de oficio de padres que de jueces severos hasta que \[los indios\] se
 hallen más capaces de razón y más arraigada en la fe esta pobre gente".
 No obstante, esto no excusaba del uso riguroso de la justicia si se
 comprobaba que habían actuado con malicia para cometer delitos graves,
-lo cual los hacía indignos de templanza y benignidad en la pena.[^91]
+lo cual los hacía indignos de templanza y benignidad en la pena.[^90]
 Por otra parte, para fortalecer el principio de amparo de los indígenas,
 el rey ordenaba que hubiese un tratamiento diferenciado respecto a los
 crímenes que cometían los españoles contra los indios y viceversa, de
 tal manera que fueran los primeros tratados con mayor rigor cuando
 abusaran de los indígenas que si lo hubieran hecho contra otros
-españoles.[^92]
+españoles.[^91]
 
 Lo anterior no implica que existiese un fuero definido o un corpus de
 leyes que abarcara el privilegio de los pobres y miserables; al
 contrario, lo que caracterizaba dicha condición era la indeterminación.
 Paulino Castañeda ya había identificado en 1971 que hacer una relación
 de los privilegios concedidos a los miserables era prácticamente
-imposible.[^93] Recientemente, Thomas Duve señaló que el privilegio "más
+imposible.[^92] Recientemente, Thomas Duve señaló que el privilegio "más
 allá de ser un instituto del derecho común, llegó a ser un modo de
 pensar, una práctica cultural más allá de la metodología o la teoría del
-privilegio".[^94] De manera sintética, podría considerarse que el
+privilegio".[^93] De manera sintética, podría considerarse que el
 privilegio era *privata lex* en el sentido que no hacía parte del
 derecho común, y en el caso de los pobres y miserables era una concesión
 de piedad y gracia que el monarca como legislador hacía sobre sus
 vasallos más necesitados de amparo y tutela. Como consecuencia, se
 entendía como una renuncia a aplicar la justicia ordinaria para
-favorecer la equidad sobre el rigor.[^95]
+favorecer la equidad sobre el rigor.[^94]
 
 Ahora bien, el considerarse dignos de misericordia no era equiparable a
 ser merecedores de clemencia. Aunque son términos que pueden
 considerarse equivalentes, la taxonomía de las virtudes diferenciaba la
 clemencia de la misericordia. La primera se relacionaba con moderar la
 superioridad y la venganza, en tanto la segunda movía a la compasión y
-la piedad.[^96] La misericordia en la administración de justicia
+la piedad.[^95] La misericordia en la administración de justicia
 pretendía moderar la conducta de los jueces al evitar que se tratara de
 modo preferencial (con mansedumbre) a los ricos y por el contrario a los
 pobres se les tratara con rigor. La misericordia no tenía que ver
 directamente con exculpar la pena que merecían en justicia, sino que en
-casos iguales o dudosos se favoreciera a los pobres y miserables.[^97]
+casos iguales o dudosos se favoreciera a los pobres y miserables.[^96]
 Se advertía, además, que la benevolencia con los miserables no debía
 desembocar en injusticia, como indicaba Castillo de Bovadilla, se debía
 evitar que por resolver las causas a favor de éstos se causara injuria a
 otras personas o corporaciones, y no por aparentar servicio a la
-justicia se terminara haciendo perjuicio a otros.[^98]
+justicia se terminara haciendo perjuicio a otros.[^97]
 
 Lo que hacía de las personas miserables favorables al perdón era la
 minoración de sus faltas, las cuales se presumía partían de la
-ignorancia e imprudencia propias de su calidad y condición.[^99] Un
+ignorancia e imprudencia propias de su calidad y condición.[^98] Un
 ejemplo de ello se extrae del perdón general concedido por los oidores
 de la Audiencia a los rebeldes de los barrios de Quito en 1765:
 
@@ -835,7 +819,7 @@ de la Audiencia a los rebeldes de los barrios de Quito en 1765:
 > conocer por todos modos la enormidad de este excecrable crimen, en
 > adelante no tendrán escusa ni podrá la misma piedad dejar de executar
 > todo el castigo que aclama la jurisdiccion bulnerada y la republica
-> escandalizada.[^100]
+> escandalizada.[^99]
 
 Esta concesión se basó en tres premisas: el indulto y perdón se
 concedieron por la misericordia y conmiseración que "debe ser" vista en
@@ -844,7 +828,7 @@ ignorancia; y la advertencia de que el reincidir anularía la posibilidad
 de acceder a la benignidad real. El defensor de los barrios, Domingo de
 Araujo, fue enfático en apuntar la condición miserable de los partícipes
 en "la inquietud," su estado de pobreza y el desprecio sufrido por los
-privilegiados de la ciudad.[^101] Es muy probable que los oidores
+privilegiados de la ciudad.[^100] Es muy probable que los oidores
 asumieran que apelar a la condición de dignos de misericordia de los
 sublevados fuera la estrategia más adecuada en términos políticos para
 justificar el perdón general. Si esta interpretación es correcta, la
@@ -852,7 +836,7 @@ acción de los magistrados estuvo acorde con lo planteado por Castillo de
 Bovadilla: "Que es mas licito indignarse el Juez contra los poderosos
 iniquos, que contra los pobres, porque la necesidad de ellos escusa la
 benignidad de los Jueces, y les mueve á que humana, y benignamente
-procedan mas presto á equidad, que á riguroso castigo".[^102]
+procedan mas presto á equidad, que á riguroso castigo".[^101]
 
 Ahora bien, el privilegio podía ser de mayor utilidad en los pleitos
 civiles que en los criminales; el caso de corte y la *restitutio in
@@ -861,7 +845,7 @@ la vindicativa, favorecían la gratuidad del proceso y permitían que se
 aceleraran los trámites. Pero en la justicia vindicativa todo se resumía
 en poder mover a la piedad por la súplica, la cual era una de las
 mayores críticas de Feijoo a la administración de justicia
-castellana,[^103] y en este sentido todo reo era miserable cuando no
+castellana,[^102] y en este sentido todo reo era miserable cuando no
 había actuado con malicia. Tampoco todos los pobres eran equiparables y
 dignos de misericordia, los "pobres de solemnidad", aquellos que por su
 condición no podían sostenerse sin la compasión del prójimo, como los
@@ -870,23 +854,23 @@ apoyados por los privilegios de pobres. Pero la categoría de "pobres
 vergonzantes" comprendía a aquellos que por sus condiciones de vida
 caían en la mendicidad, en los trabajos infames (como la prostitución o
 el manejo de la suciedad), y en la delincuencia; por lo que no estaban
-asegurados por la compasión de la justicia.[^104] Por otro lado los
+asegurados por la compasión de la justicia.[^103] Por otro lado los
 miembros de las órdenes mendicantes, cobijados bajo el fuero
-eclesiástico, tenían privilegio de pobres y de menores.[^105]
+eclesiástico, tenían privilegio de pobres y de menores.[^104]
 Finalmente, estaban los vagos, ociosos y malentretenidos, aquellos que
 podían alegar una condición de rusticidad y pobreza, pero cuyas
 condiciones físicas los hacían aptos para ocuparse en labores útiles a
-la república;[^106] estaban por lo tanto separados del privilegio de
+la república;[^105] estaban por lo tanto separados del privilegio de
 miserables.
 
 Dorleta Apaolaza considera que en el siglo XVIII se comienza a
 distinguir claramente entre los pobres "por razones objetivas más o
 menos insuperables" de aquellos que pretendían ser tenidos como tales
 "de manera aparentemente injustificada", superándose así la concepción
-de raigambre medieval de la pobreza.[^107] Si bien la idea de castigar a
+de raigambre medieval de la pobreza.[^106] Si bien la idea de castigar a
 quienes carecieran de vecindad y actividad conocida no era desconocida
-para el siglo XVIII,[^108] el concepto de vago se puede entender como
-una innovación para la época.[^109] Es de particular interés lo expuesto
+para el siglo XVIII,[^107] el concepto de vago se puede entender como
+una innovación para la época.[^108] Es de particular interés lo expuesto
 en la real pragmática de 6 de febrero de 1718 en la que se aclara que
 enviar a los vagos, ociosos y malentretenidos, al servicio de las armas
 no debería ser considerado como una pena, ni tampoco el enviarlos a los
@@ -894,25 +878,25 @@ hospicios y casas de misericordia; al contrario, deberían comprenderse
 estas sentencias "como determinaciones paternas para mejorar las
 costumbres de los ciudadanos, \[las cuales\] no caen baxo el concepto de
 causas criminales, ni se extienden a ellas los indultos
-generales".[^110] La condición del vago no se consideraba digna de
+generales".[^109] La condición del vago no se consideraba digna de
 misericordia pues era catalogada como viciosa, de hecho, perdían con
 ella cualquier privilegio derivado del fuero (no le cubría la inmunidad
-eclesiástica).[^111]
+eclesiástica).[^110]
 
 De la revisión de los casos se ha podido identificar que la condición de
 pobre no era un requisito para mover a la piedad del juez, por ejemplo,
 en la petición que realizó el ya mencionado Simón Rodríguez, su
 procurador apeló a la condición de miserable de su parte ("ocurre dicho
-miserable ante Vuestra Alteza para poder lograr de esta Gracia"),[^112]
+miserable ante Vuestra Alteza para poder lograr de esta Gracia"),[^111]
 sin embargo la vista fiscal demuestra que el verdadero motivo para
 conceder el perdón (además de la cédula de indulto general) fue el haber
 logrado el perdón de parte. De manera similar, Francisco Castañeda se
 presentó para acogerse al indulto de 1784, para lo cual contó con un
-procurador de pobres de la Audiencia de Santa Fe,[^113] y en ningún
+procurador de pobres de la Audiencia de Santa Fe,[^112] y en ningún
 momento fue necesario apelar ni a su condición de pobre o de miserable
 para obtener el indulto, en cambio, fueron fundamentales el demostrar
 que el homicidio que había cometido fue para defenderse, y el haber
-obtenido el perdón de parte.[^114] Por otra parte, hubo por lo menos
+obtenido el perdón de parte.[^113] Por otra parte, hubo por lo menos
 tres condiciones que al ser apeladas podían facilitar el perdón: el
 indio, las "viudas", y los esclavos, de las cuales se tratará con más
 detalle a continuación.
@@ -931,10 +915,10 @@ justicia, encabezados por el mismo monarca. Con respecto a la minoridad,
 ésta se entendía como una limitación de la razón humana, por lo que en
 general se consideraba que los indígenas no tenían la suficiente
 capacidad para discernir entre lo bueno y lo malo, lo sacro y lo
-blasfemo, la obediencia y el desorden.[^115] Había en esta
+blasfemo, la obediencia y el desorden.[^114] Había en esta
 categorización una preconcepción del indígena como débil y pusilánime,
 que debía por lo tanto ser protegido de los españoles que trataran de
-abusar de ellos.[^116] Claramente esto estaba atado a la condición
+abusar de ellos.[^115] Claramente esto estaba atado a la condición
 jurídica que había establecido el breve *inter caetera* de 1493 en el
 que se dona a los reyes católicos el dominio legítimo sobre los
 habitantes de las Indias a cambio de encargarse de su protección y
@@ -944,7 +928,7 @@ sintetizaba dos cédulas, una de Felipe II en 1582 y otra de Felipe IV en
 1629, la cual decía: "Los indios son personas miserables, y de tan débil
 natural, que fácilmente se hallan molestados y oprimidos, y nuestra
 voluntad es que no padezcan vejaciones, y tengan el remedio y amparo
-conveniente por cuantas vías sean posibles".[^117]
+conveniente por cuantas vías sean posibles".[^116]
 
 Si bien la supervivencia de la condición de los indios como miserables
 durante todo el periodo de dominio hispano puede confundirse con un
@@ -953,7 +937,7 @@ que los naturales podrían en algún momento igualarse a los demás
 vasallos del rey y con ello liberarse del tutelaje. Así lo esperaba el
 protector de naturales de la gobernación del Cauca en 1793 quien
 manifestó que "cultivando su razón puedan salir alguna vez del largo
-pupilaje a que los reduce la debilidad de su espíritu".[^118] Esta idea
+pupilaje a que los reduce la debilidad de su espíritu".[^117] Esta idea
 bien pudo provenir de la difusión de las ideas de Campillo y Cossío
 quien criticó el rigor de la conquista durante el reinado de Carlos V y
 en adelante el abusivo tratamiento de los indios; en tanto él proponía
@@ -961,7 +945,7 @@ que para establecer un buen "gobierno económico" era necesario "reducir
 á los Indios a la vida civil, tratarlos con benignidad y con dulzura;
 animarlos a la industria, y por este camino hacer de ellos vasallos
 útiles y Españoles, y no mirar con desprecio la calidad de Indios, ni
-oprimirlos, como se ha hecho y hace hoy".[^119] Resalta de inmediato en
+oprimirlos, como se ha hecho y hace hoy".[^118] Resalta de inmediato en
 la propuesta de Campillo que mientras los naturales tuviesen la "calidad
 de indios" debía ser tratados con benevolencia y suavidad, por lo tanto,
 la reforma del gobierno político estaba en concordancia con la idea
@@ -972,7 +956,7 @@ En un tono similar, Francisco Gil de Taboada, al asumir su empleo de
 virrey del Perú en 1790, tras haber servido el mismo oficio en el Nuevo
 Reino durante algunos meses, temía que el régimen de intendencias y
 subdelegaciones condujera al restablecimiento del sistema de
-repartimiento, derogado una década antes.[^120] Según este oficial,
+repartimiento, derogado una década antes.[^119] Según este oficial,
 continuar con el repartimiento condenaría a los indios eternamente a la
 "inmovilización" e "inercia", al contrario, "liberarlos" para el
 comercio sería lo que podría hacerlos superar su condición de
@@ -985,7 +969,7 @@ miserables:
 > libremente en sus Pueblos los de las demas Castas, que se establescan
 > en éllos si les acomodare; que entablen y contraigan todo genero de
 > enlaces, que es precisamente lo que siempre ha procurado precaverse
-> por razon de los repartimientos y ambiciosas grangerias.[^121]
+> por razon de los repartimientos y ambiciosas grangerias.[^120]
 
 La política de privilegio de los indios como dignos de misericordia
 sería una constante del gobierno de las indias que no parece haberse
@@ -995,13 +979,13 @@ de Intendentes de Nueva España dejaba en claro que aunque se
 implementara el sistema de jueces españoles en poblados de indios, estos
 conservarían "el derecho y antigua costumbre," lo cual incluía
 claramente el "inclinar" la voluntad de los naturales "por los medios
-más suaves".[^122] Del mismo modo, la Ordenanza general de intendentes
+más suaves".[^121] Del mismo modo, la Ordenanza general de intendentes
 de 1803 conservaba el tratamiento diferenciado de los ociosos y
 "malentretenidos," considerando que aunque era necesario "desterrar la
 ociosidad de los Indios" y "aunque las circunstancias del tiempo hayan
 variado," se debía estimular el trabajo con "medios de suavidad" como
 premios y exhortaciones, antes que con el envío al servicio en presidios
-y tropas, como se hacía con los categorizados como vagos.[^123]
+y tropas, como se hacía con los categorizados como vagos.[^122]
 
 La cuestión central consistiría en identificar si por su calidad de
 miserables los indígenas tenían alguna posibilidad de acceder con mayor
@@ -1030,11 +1014,11 @@ pruebas para el juicio de Bartolomé. Un mes después de este acto, el
 procurador defensor de los hermanos Gordo solicitó al corregidor y
 justicia mayor de Tunja que sirviera declarar a sus partes en la gracia
 de indulto que se había publicado recientemente en dicha
-jurisdicción.[^124] El fiscal de Tunja declaró que al ser un homicidio
+jurisdicción.[^123] El fiscal de Tunja declaró que al ser un homicidio
 cometido sin malicia o alevosía podía ser concedido el indulto, con lo
 cual acordó el asesor letrado Joaquín Umaña, quien aconsejó al
 corregidor que enviase esa decisión a consulta de la Audiencia de Santa
-Fe.[^125]
+Fe.[^124]
 
 En la Audiencia sucedió un hecho curioso. Al llegar la consulta para
 dictamen del fiscal, oficio que entonces cumplía Diego García de Frías
@@ -1045,7 +1029,7 @@ ya desestimado el corregidor de Tunja. Fue entonces que los oidores
 Joaquín Inclán y Juan Hernández de Alba decidieron en su vista que
 "resultando que Juan Vicente Gordo es indio, lo debe ser igualmente el
 reo Bartolomé su hermano, y por tanto pase al señor oydor mas moderno en
-calidad de protección".[^126] Manuel Martínez Mansilla, a quien se le
+calidad de protección".[^125] Manuel Martínez Mansilla, a quien se le
 asignó el rol de fiscal protector de naturales, aclaró que Bartolomé
 Gordo había manifestado en su confesión que era de calidad mestizo, pero
 que por "la razón y fuerza" del auto de los oidores le daría tratamiento
@@ -1058,12 +1042,12 @@ perdón, asi como no son suficientes las presunciones para imponer la
 pena ordinaria, la vida del ome es la cosa mas noble del mundo, y
 siempre los beneficios concedidos por la magestad se interpreta de modo
 que mas bien se cumpla en lo exceptuado, que se dexen de executar en lo
-comprendido".[^127] Básicamente recurrió al apotegma de *in dubio pro
+comprendido".[^126] Básicamente recurrió al apotegma de *in dubio pro
 reo* para convencer a los oidores de que no era necesario recurrir a la
 recolección de pruebas y se podía conceder el indulto solicitado sin que
 esto implicara una afectación a la vindicta pública, como efectivamente
 lo hicieron al ratificar la sentencia de indulto concedida por el
-corregidor de Tunja.[^128]
+corregidor de Tunja.[^127]
 
 Este caso es particular en tanto denota por una parte la flexibilidad de
 la calidad indio, aunque se aclara su condición de mestizo se acepta
@@ -1072,7 +1056,7 @@ contar con la posibilidad de ser defendido por el fiscal protector de
 naturales existía el riesgo de que se hubiese rechazado la solicitud en
 vista de lo determinado por el fiscal García de Frías. ¿Hubo un cambio
 de máscara en el momento de que el fiscal del crimen tuvo que cumplir su
-papel de protector de naturales?[^129] Esto pareciera comprobarse al
+papel de protector de naturales?[^128] Esto pareciera comprobarse al
 revisar un caso concomitante en el que el fiscal García de Frías fungió
 como defensor, entonces fue él quien presentó a la Audiencia la
 solicitud para acogerse al indulto hecha por Gabino de Dios, un indio
@@ -1088,16 +1072,16 @@ murió por enfermedad en la cárcel de corte de Santa Fe, quedando
 pendiente el traslado a su destino de los otros dos cómplices. En junio
 de 1804, Gabino de Dios elevó la súplica a la Audiencia de Santa Fe para
 acogerse a la gracia del indulto, por lo que se le dio traslado al ya
-mencionado fiscal protector de naturales.[^130] Al contrario de su
+mencionado fiscal protector de naturales.[^129] Al contrario de su
 actuación contra los hermanos Gordo, en su papel como defensor de
 naturales, García de Frías minoró las consideraciones que podían excluir
 a su parte del indulto. Apeló, por ejemplo, a los padecimientos que
 había sufrido Nicolás de Dios en la prisión, asimismo a ser menor de
-edad, según lo cual "no lo hace reo de tanta malicia.[^131] A pesar de
+edad, según lo cual "no lo hace reo de tanta malicia.[^130] A pesar de
 la petición del fiscal, los oidores Alba, Ezterripa y Cortazar,
 determinaron que no había lugar al indulto que se solicitaba, por lo que
 se debería proseguir con el proceso de traslado del reo al castillo de
-Cartagena.[^132]
+Cartagena.[^131]
 
 Claramente el perdón no dependía únicamente de la calidad del reo, ni de
 apelar a su condición de miserable, y aunque la intermediación del
@@ -1120,7 +1104,7 @@ daban fe de que sus actuaciones no estaban motivadas por la ira sino por
 la justicia, logró desestimar las acusaciones (que los testigos dijeron
 fueron causadas por venganza de los indios que lo acusaban), e incluso
 consiguió que se le concediera la excarcelación bajo fianza después de
-siete meses de prisión.[^133] Para diciembre de 1808 aún no se había
+siete meses de prisión.[^132] Para diciembre de 1808 aún no se había
 concluido la causa, por lo que el procurador defensor de Cuervo tuvo la
 oportunidad de acogerse al indulto general que recientemente había
 promulgado el virrey Amar y Borbón a nombre de Fernando VII, a lo cual
@@ -1130,7 +1114,7 @@ naturales pues se había configurado una "junta de indultos" para decidir
 sobre las causas que pudieran ser incluidas en el indulto virreinal, la
 cual estuvo compuesta por los oidores Alba, Cortazar, y el fiscal
 Martínez Mansilla, quienes decidieron que Cuervo quedaría comprendido en
-la gracia de indulto.[^134]
+la gracia de indulto.[^133]
 
 Los anteriores expedientes dan cuenta de la dinámica de los indultos a
 los indígenas a inicios del siglo XIX, lo que obliga a preguntarse cómo
@@ -1148,7 +1132,7 @@ sus pueblos de origen. La solicitud de Agustín Gualteros, indio de
 Zipaquirá, fue elevada por el fiscal protector de naturales en
 septiembre de 1762, en la cual alegó que dicho "miserable" había tenido
 la desgracia de asesinar a María Hernández, aunque no es claro en qué
-circunstancias ocurrió el hecho.[^135] El caso de Carlos Pote, indio de
+circunstancias ocurrió el hecho.[^134] El caso de Carlos Pote, indio de
 Turmequé, fue un poco más complejo. Éste se presentó a solicitar el
 indulto habiendo pasado el plazo de un año después de la publicación de
 la cédula en su jurisdicción. Contó sin embargo con la fortuna de que el
@@ -1159,7 +1143,7 @@ causa de oficio sin mayores avances. Asimismo, atenuó la tardanza en la
 presentación afirmando que "no por la corta diferencia de días, y
 descuido que se reconoce en los subalternos, ha de quedar frustrada la
 piedad de Nuestro Soberano, en perdonar los delitos hasta allí
-cometidos".[^136] Finalmente, el indio Francisco Sánchez, del pueblo de
+cometidos".[^135] Finalmente, el indio Francisco Sánchez, del pueblo de
 Pesca, consiguió el perdón de parte a pesar de la negativa inicial de la
 mujer y padre del difunto, a quien había herido con una pedrada en medio
 de una riña. Gracias a la intermediación del alcalde ordinario pudo
@@ -1181,7 +1165,7 @@ finalmente es que no existía una preeminencia por el perdón, aunque
 tampoco parece denotarse una injusta tendencia al rigor. Como los
 manifestó José Luis de las Heras, gracia y justicia fueron dos caras de
 la misma moneda, finalmente sería propio de cada momento el que se
-inclinara más la balanza hacia uno de los dos extremos.[^137]
+inclinara más la balanza hacia uno de los dos extremos.[^136]
 
 Por otra parte, tratamos en este apartado de los indígenas que vivían en
 poblado, e incluso ocupaban cargos de autoridad, es el aspecto ideal del
@@ -1200,7 +1184,7 @@ utilizando, entre otros recursos, una cita del *Ecclesiasticus* (4:10)
 que decía: "In judicando esto pupillis misericors ut pater, et pro viro
 matri illorum"; la cual se puede traducir aproximadamente como "al
 sentenciar sé misericordioso con los huérfanos, como padre y como esposo
-de su madre".[^138] Dos personajes dignos de misericordia se incluían en
+de su madre".[^137] Dos personajes dignos de misericordia se incluían en
 esa petición: el huérfano y la viuda; pero era esta última quien clamaba
 para evitar la pérdida de su hijo, un acto de rigor contrario a la misma
 justicia del rey. En términos similares, varias impetrantes apelaban a
@@ -1214,7 +1198,7 @@ embargo de bienes y rentas familiares con las cuales poder subsistir.
 Por otra parte, hay que resaltar que el rey distribuía su clemencia con
 buena parte de las viudas de oficiales que quedaban desamparadas e
 impetraban por una pensión que les permitiera solventar su sostenimiento
-y el de sus hijos.[^139] Como ejemplo del tono de estas solicitudes vale
+y el de sus hijos.[^138] Como ejemplo del tono de estas solicitudes vale
 la pena citar una carta que llegó a manos de José de Gálvez en 1780 en
 la que la samaria María Bárbara Agreda le solicita su intermediación
 para obtener una pensión del rey:
@@ -1225,7 +1209,7 @@ para obtener una pensión del rey:
 > llamando la atención de Vuestra Excelencia por un rato, le suplique
 > que atienda con benignidad a mis vozes, y haga que sonando sus ecos en
 > los piadosos oídos de el Monarcha; logre mi desamparo, la juztizia que
-> merezca.[^140]
+> merezca.[^139]
 
 Como se puede observar del extracto anterior, aunque esta viuda alegara
 una condición de desamparo, tenía la capacidad para comunicarse con el
@@ -1237,7 +1221,7 @@ de Gracián, ya que en su comunicación al Ministro de Gracia y Justicia
 la reclamante pretendía que se revocara el destierro que había sido
 decretado por la Audiencia de Caracas, argumentando principalmente que
 la captura de su marido se había conseguido mediante el engaño de
-habérsele ofrecido indulto a nombre del rey.[^141] Claramente, la carta
+habérsele ofrecido indulto a nombre del rey.[^140] Claramente, la carta
 pretendía mover a la piedad del magistrado o del rey al mencionar la
 condición a la que había sido reducida como consecuencia de la
 "expatriación" de su esposo:
@@ -1249,7 +1233,7 @@ condición a la que había sido reducida como consecuencia de la
 > mayormente dificultando de la justicia de su expatriamiento despues de
 > haberse prometido y empeñado la palabra y nombre del Rey para
 > seguridad de quantos denunciasen su ciencia ó implicacion directa ó
-> indirecta en el asunto.[^142]
+> indirecta en el asunto.[^141]
 
 El memorial de Josefa Ramona de Gracián incluye más elementos que
 pretenden demostrar la inocencia de su esposo, y por otra parte,
@@ -1257,7 +1241,7 @@ evidenciar que con las acciones injustas contra él se había generado una
 situación que había llevado a su familia al borde de la miseria. Aunque
 de Gracián no ocultaba que había heredado una casa de su primer
 matrimonio, exponía que esto sólo había prevenido que cayeran en la
-"mendicidad ostiaria",[^143] debido al embargo de bienes ordenado por la
+"mendicidad ostiaria",[^142] debido al embargo de bienes ordenado por la
 Audiencia. Por otra parte, esta mujer enfrentaba no sólo la desgracia
 propia de la reducción de medios de subsistencia, sino aquella que se
 generaría por consecuencia de la infamia:
@@ -1271,7 +1255,7 @@ generaría por consecuencia de la infamia:
 > las Leyes, y en opinion de todas las gentes hace al hombre indigno de
 > toda consideracion cibil, rompe los vinculos que le unian á los demas
 > hombres y que le sirve como sucede en el Yndostan con los Pulichis de
-> afrentosa dibisa para que hullan de el sus semejantes; [^144] esta
+> afrentosa dibisa para que hullan de el sus semejantes; [^143] esta
 > nota, esta pena, ó este borron, que segun las Leyes del Reyno hace
 > conciderar muerto al hombre en quanto á los bienes y comodidades de
 > esta vida; son los que no pueden superarse á fuer\[za\] de toda
@@ -1279,7 +1263,7 @@ generaría por consecuencia de la infamia:
 > la ora que su Muger é hijos se ven aislados en medio de la sociedad
 > porque despues de haber echo publica su delacion con el repentino
 > expatriamiento y seqüestro de vienes todos les huyen, todos les miran
-> sobrecogidos y todos les reputan por desgraciados ¡Oh Dolor![^145]
+> sobrecogidos y todos les reputan por desgraciados ¡Oh Dolor![^144]
 
 Nótese que la suplicante, por medio de su procurador, no se atribuye el
 estatus de "pobre de solemnidad", en su lugar, clama piedad y
@@ -1301,7 +1285,7 @@ marido, finalmente, era la petición para la restauración de la felicidad
 y fortuna que se consideraba injustamente arrebatada tras la oferta
 engañosa del indulto real.
 
-Ser miserable no era lo mismo que alcanzar la indigencia,[^146] por
+Ser miserable no era lo mismo que alcanzar la indigencia,[^145] por
 ello, no era una contradicción que Josefa de Gracián apelara al amparo
 del rey en este caso, aunque no se encontrara en condición de
 mendicidad. La condición de infortunio a la que apelaba era a la viudez,
@@ -1310,7 +1294,7 @@ al impedirle realizar un trabajo que redituara para la subsistencia de
 la familia. No fueron pocos los tratadistas que consideraron que la
 condición de viuda se extendía a todas las formas del "marido inútil",
 entre ellos quienes estuviesen cautivos, exiliados, o condenados a
-galeras.[^147]
+galeras.[^146]
 
 Otro caso similar fue el de Ignacia Admiñahorta, de quien ya tratamos en
 el capítulo anterior, aunque su situación difería ligeramente al de
@@ -1336,11 +1320,11 @@ retornar a sus labores:
 > educacion y criansa, á mas de los alimentos, pues una pobre madre, por
 > falta de vestuario para sus hijos deja de ponerlos á la escuela,
 > ocultandolos en cueros en el rincon de su casa, por no exponerlos
-> desnudos á la irrision y vergüensa.[^148]
+> desnudos á la irrision y vergüensa.[^147]
 
 El fiscal de la Real Audiencia, José Peñalver Veque, probablemente
 aplicando su formación como doctor en cánones por la universidad de
-Alcalá,[^149] resaltó que aunque la solicitud de Admiñahorta parecía "a
+Alcalá,[^148] resaltó que aunque la solicitud de Admiñahorta parecía "a
 primera vista \[...\] irregular y mal exemplo", teniendo en cuenta que
 por una parte se estaba evitando la aplicación de justicia al impetrar
 un indulto particular, y por otra parte se estaba ofreciendo a cambio
@@ -1349,7 +1333,7 @@ circunstancias lastimosas que se expresan, de quan viudez de la
 impetrante, y horfandad de sus hijos, y \[e\]specie de destierro a que
 se ha sujetado el Solinas \[...\] podrá Vuestra Excelencia si fuere
 servido arbitrar según sus superiores facultades en la solicitud de la
-referida Miñaorta \[sic\]".[^150] Ya fuera por clemencia o por favorecer
+referida Miñaorta \[sic\]".[^149] Ya fuera por clemencia o por favorecer
 a la Real Hacienda, el fiscal dedicó unas pocas líneas para justificar
 la decisión de actuar en favor de la "viuda", de los "huérfanos", y del
 marido inútil.
@@ -1362,7 +1346,7 @@ teniente de gobernador José Pestaña en 1753 y fue condenado a servir por
 ocho años en el castillo del Morro de la Habana. La petición fue elevada
 al alcalde ordinario en febrero de 1781, poco después de haberse
 conocido en esos territorios el indulto general promulgado por Carlos
-III el 8 de junio de 1780.[^151] Aunque no hay datos sobre la calidad o
+III el 8 de junio de 1780.[^150] Aunque no hay datos sobre la calidad o
 estatus de esta familia, ni si formaban parte de la principalía
 riohachera, Juana Fernández provenía de una familia que le permitió
 heredar algunos bienes, en particular una capellanía que había sido
@@ -1374,7 +1358,7 @@ su esposo ausente por más de dos décadas en alguna "nación extranjera".
 Al igual que las impetrantes mencionadas anteriormente, Fernández apeló
 a la misericordia del juez en vista del abandono de su esposo ausente y
 la consecuente reducción a la escasez y pobreza, que la habría obligado
-a realizar labores honestas, aunque "propias de esclava".[^152]
+a realizar labores honestas, aunque "propias de esclava".[^151]
 
 Al llegar la solicitud a consulta del gobernador, decidió que ésta debía
 ser revisada por la Audiencia de Santa Fe, siendo aquel tribunal el que
@@ -1389,7 +1373,7 @@ virrey: "haviendose divulgado en toda esta Provincia, que el christiano
 pecho de Vuestra Excelencia se hace cargo con madura réflex\[io\]n de
 los acaecidos y que al pobre le dá el lugar que tiene en Dios, muy
 consolada hago este mi humilde recurso, suplicando a la piedad de
-Vuestra Excelencia se digne expedir su benigna determinación".[^153]
+Vuestra Excelencia se digne expedir su benigna determinación".[^152]
 Valga resaltar que desde junio de ese año el cargo de virrey se
 encontraba encargado *ad interim* al Arzobispo de Santa Fe, Antonio
 Caballero y Góngora, por lo que era de esperar que un emisario del brazo
@@ -1411,7 +1395,7 @@ citar en extenso este sugestivo e inusual alegato:
 > condene una alma redimida con la sangre preciosisima de Nuestro
 > Redemptor Jesuchristo, por ella, y por las entrañas piadosisimas de su
 > S\[antísi\]ma M\[adr\]e, imploro la charidad de Vuestra Excelencia
-> suplicandole se agrade indultar y perdonar a mi esposo.[^154]
+> suplicandole se agrade indultar y perdonar a mi esposo.[^153]
 
 Los extractos subrayados de seguro llamaron la atención a Manuel
 Silvestre Martínez, fiscal del crimen de la Audiencia de Santa Fe, como
@@ -1424,7 +1408,7 @@ la iglesia de Roma. El conjunto de males que presentaba Fernández no
 podía ser más patético: hambre, miseria, ataques de los indios Guajiros,
 "y él últimamente metido entre hereges, ateistas, francmasones,
 careciendo del pasto espiritual, y su alma expuesta á eterna
-condenación".[^155] Podría insinuarse que el resaltar este temor por el
+condenación".[^154] Podría insinuarse que el resaltar este temor por el
 alma de su esposo no era sino una treta para recuperar sus bienes, pero
 independientemente de su motivación ulterior, el hacer énfasis en la
 carencia espiritual era otra manera de hacer explícita la necesidad de
@@ -1436,7 +1420,7 @@ tribunal determinara en justicia si era factible el uso de la
 misericordia. Caballero y Góngora dijo estar "compadecido \[...\] de los
 trabajos en que se halla este matrimonio", y estaba de acuerdo con que
 el solicitante merecía el perdón, aunque dejó la decisión final en manos
-de los oidores.[^156]
+de los oidores.[^155]
 
 ### El perdón para los esclavos
 
@@ -1444,13 +1428,13 @@ Con respecto a los esclavos el privilegio de misericordia es sumamente
 ambiguo, al menos en términos doctrinales. Desde una dimensión
 estrictamente legislativa, los esclavos podían ser mancipados de tres
 maneras: al ser capturados en guerra justa, cuando un hombre libre de
-más de veinte años "se dexa" vender, y al nacer de madre esclava.[^157]
+más de veinte años "se dexa" vender, y al nacer de madre esclava.[^156]
 En esta justificación legal el único viso de misericordia es la mención
 a que la esclavitud fue instituida por los emperadores para evitar matar
 a los capturados durante las guerras. Sin embargo, la gran cantidad de
 esclavos "etíopes" (como se solía denominar a las personas negras de
 origen africano) no habían sido mancipados en batalla, sino comprados a
-comerciantes negreros de las costas africanas.[^158] La contradicción
+comerciantes negreros de las costas africanas.[^157] La contradicción
 moral entre la protección de los indígenas y el comercio de esclavos no
 fue ajena para los tratadistas, especialmente del orden eclesiástico,
 quienes argumentaron en algunas ocasiones la ilegitimidad de la
@@ -1460,7 +1444,7 @@ Francisco José de Jaca (*Resolución sobre la libertad de los negros*) y
 el francés Epifanio de Moirans (*Servi liberi seu naturalis mancipiorum
 libertatis iusta defensio*), pusieron en evidencia dicha contradicción,
 sin que por ello el gobierno o la justicia del Nuevo Mundo se haya visto
-afectada.[^159]
+afectada.[^158]
 
 Más allá de la justificación de la trata de esclavos, un problema que
 trasciende significativamente las posibilidades de este trabajo, se
@@ -1468,22 +1452,22 @@ quiere plantear que a partir de los principios normativos que
 legitimaron la posibilidad de someter a esclavitud (voluntaria o
 involuntaria) a otros, se constituyó una esfera de dominio entre el amo
 y el esclavo propia de la servidumbre, en la cual este último le debía
-lealtad y sumisión absoluta a su señor.[^160] En este sentido, la
+lealtad y sumisión absoluta a su señor.[^159] En este sentido, la
 jurisdicción sobre los esclavos recaía directamente sobre los amos,
 quienes se arrogaban el mero imperio para castigar las faltas que éstos
-cometieren dentro de su señorío.[^161] Esta relación de dominio era una
+cometieren dentro de su señorío.[^160] Esta relación de dominio era una
 mímesis del vasallaje de los súbditos al rey, por tanto, recaía en los
 dueños de esclavos la condición de administrar la potestad de manera
 virtuosa sin llegar a la tiranía del castigo injustificado, de tal modo
 que donde la ley de Partida señalaba que "llenero poder ha el señor
 sobre su siervo, para fazer del lo que quisiere" Gregorio López acotaba
-que el castigo debía ser para enmendar la ofensa a su señor,[^162] y aún
+que el castigo debía ser para enmendar la ofensa a su señor,[^161] y aún
 con justa causa el amo no podría castigar con ira descontrolada a sus
 siervos, y en caso de suceder, éstos podrían acudir al juez para su
-defensa.[^163] De allí que si bien el dueño tenía el imperio sobre sus
+defensa.[^162] De allí que si bien el dueño tenía el imperio sobre sus
 esclavos, la Corona tenía el dominio sobre todo aquello que trascendiera
 el señorío, y la tiranía del amo podía justificar el cambio de
-propietario o incluso la libertad del esclavo.[^164]
+propietario o incluso la libertad del esclavo.[^163]
 
 El problema del perdón en el ámbito de los mancipados estaba en que la
 primera línea de clemencia estaba en manos de sus amos, quienes por su
@@ -1498,14 +1482,14 @@ la provincia de Antioquia que la manumisión graciosa podía otorgarse de
 manera condicionada o incondicional, de tal manera que el esclavo podía
 esperar la libertad después de servir fielmente a su amo hasta su
 muerte, por pagar misas para la salvación de su alma, o incluso por
-pagar su funeral.[^165] La manumisión incondicional era una merced por
+pagar su funeral.[^164] La manumisión incondicional era una merced por
 medio de la cual el amo simplemente premiaba a su esclavo por los
-servicios prestados.[^166] Estas manifestaciones graciosas prometidas en
+servicios prestados.[^165] Estas manifestaciones graciosas prometidas en
 las vísperas del lecho de muerte, verbalmente o plasmadas en los
 testamentos, mostraban la cara munificente de la esclavitud (si es
 posible concebir alguna), aquella en las cuales las relaciones entre amo
 y siervo se manifestaban en términos de lealtad, buenos servicios, y
-amor;[^167] lo cual no enmascara la abundancia de solicitudes de
+amor;[^166] lo cual no enmascara la abundancia de solicitudes de
 libertad sustentadas en la sevicia de los dueños y sus subordinados.
 
 Como bien ha señalado Rafael Antonio Díaz, las relaciones entre amos y
@@ -1516,24 +1500,24 @@ tenían una relación necesariamente cercana con sus esclavos, por lo
 menos no de la manera en que la tendría una viuda con sus sirvientes
 negros; y en todo caso, ninguna correspondería con una forma
 predeterminada de tratamiento al mancipado o de una respuesta de este
-último frente a su señor.[^168] Es precisamente en la rica
+último frente a su señor.[^167] Es precisamente en la rica
 historiografía que se está abriendo paso desde las últimas décadas donde
 estos matices son visibles, ya no solo en la fuga, rebelión, y
 cimarronaje; sino también en los enfrentamientos, directos o mediados,
-de los esclavos con la administración de justicia ordinaria.[^169] En
+de los esclavos con la administración de justicia ordinaria.[^168] En
 general, lo que se ha podido observar en la interacción entre esclavos y
 justicia es que los esclavos podían ser oídos en los tribunales de la
 justicia ordinaria para llevar adelante sus causas en derecho,
 adquiriendo además el privilegio de miserables por ser sujetos de
 servidumbre, lo cual les confería el derecho de ser asesorados por un
 procurador de pobres o de menores sin cobro de costas, además de poder
-acudir a la justicia como caso de corte.[^170]
+acudir a la justicia como caso de corte.[^169]
 
 Los casos por cimarronaje, libertad y por delitos comunes tuvieron cada
 uno sus particularidades. Los primeros serán tratados en un capítulo
 posterior pues se entendían de manera similar a la rebelión, lo que
 permitía a los esclavos impetrar el perdón mediante acciones
-colectivas.[^171] En este apartado nos centraremos en las solicitudes
+colectivas.[^170] En este apartado nos centraremos en las solicitudes
 particulares derivadas de una causa judicial que se adelantaba contra un
 esclavo por sus delitos, las cuales han sido identificadas en el fondo
 *Negros y Esclavos* del Archivo General de la Nación de Colombia y en la
@@ -1556,7 +1540,7 @@ Ramírez de Arellano, un hacendado
 Otro ejemplo de lo anterior fue la solicitud de indulto que realizó en
 1804 don Pedro Mejía a favor de su esclavo Marcos, acusado de haber
 asesinado en una hacienda de Arma de Rionegro a Francisco, un negro que
-corría a cargo de don José Antonio Botero.[^172] El proceso difícilmente
+corría a cargo de don José Antonio Botero.[^171] El proceso difícilmente
 lograba probar de manera semiplena la culpabilidad del sindicado, de
 hecho ninguno de los peritos que revisó el cuerpo de Francisco logró
 encontrar evidencia de que su muerte hubiese sido ocasionada por un acto
@@ -1564,14 +1548,14 @@ voluntario, tampoco los testigos brindaron pruebas que permitieran si
 quiera ubicar a Marcos en el momento de la muerte de Francisco. El
 procurador general de Arma de Rionegro, Gregorio de Uribe, actuando como
 agente fiscal (una "monstruosidad" según expresó posteriormente el
-fiscal del crimen de la Audiencia de Santa Fe)[^173] se apegó a las
+fiscal del crimen de la Audiencia de Santa Fe)[^172] se apegó a las
 consideraciones del asesor letrado del cabildo de Medellín, don Ignacio
 Uribe, quien desestimó cualquier posibilidad de inocencia del esclavo
 Marcos, afirmando incluso que si no habían muestras visibles de heridas
 en Francisco era porque las heridas eran "difícil de advertirse en los
 cadáveres de cutis negro", y prefería considerar que la muerte fue
 ocasionada violentamente por "un golpe en el cerebro" que no dejó
-huellas.[^174]
+huellas.[^173]
 
 Los argumentos del procurador de menores y del mismo Pedro Mejía fueron
 desestimados por el alcalde Francisco Félix Vallejo, quien parecía
@@ -1591,7 +1575,7 @@ mancipado y por sí mismo:
 > presento á gozar de él, no por razon de el ymputado delito, sino por
 > redimir á este infelis calumniado de la larga pricion con que se le
 > aflige, eximiendome tambien de la carencia de su serv\[ici\]o; y de
-> los graves costos y costas, con que se me perjudica.[^175]
+> los graves costos y costas, con que se me perjudica.[^174]
 
 Hábilmente, Mejía incluía en la impetración la indicación de que el
 perdón no podía ser decidido por el juez local, por lo que suplicaba
@@ -1606,17 +1590,17 @@ sino porque no encontró mérito para hacerle cargo por homicidio; vista
 con la cual estuvo de acuerdo el Real Acuerdo, el cual ordenó al
 gobernador de Antioquia devolviera al esclavo a Mejía y además multó al
 alcalde Vallejo "por los defectos en que incurrió en la actuación de
-este proceso".[^176]
+este proceso".[^175]
 
 Beatriz Patiño Millán infería que los indultos otorgados a los esclavos,
 por lo menos el par que ella pudo identificar, fueron concedidos "ante
 la imposibilidad de probar que hubieran cometido el crimen o que
-hubieran actuado con alevosía o premeditación";[^177] es decir, por una
+hubieran actuado con alevosía o premeditación";[^176] es decir, por una
 especie de corrección ante la actuación errónea de la justicia. En el
 juicio del esclavo Marcos las deficiencias en el proceso fueron
 evidentes, pero en el segundo caso identificado por Patiño Millán, en el
 cual se acusó en 1761 al negro bozal llamado Antonio por homicidio de
-otro esclavo en el sitio de Quirimaná,[^178] la posibilidad de que éste
+otro esclavo en el sitio de Quirimaná,[^177] la posibilidad de que éste
 saliera libre parecía menos clara. En este juicio no se contó con la
 mediación de los amos, ni de la víctima ni del sindicado, contando por
 ello con la defensa de oficio del procurador de menores, Manuel Antonio
@@ -1647,7 +1631,7 @@ evidente de que dice la verdad", además de iniciar una refutación de la
 malicia en el acto de Antonio, sustentándose en las leyes tercera y
 cuarta del título 23, libro octavo, de la *Nueva Recopilación*, según
 las cuales al resultar el homicidio de un acto de defensa se podía
-excusar al agresor.[^179]
+excusar al agresor.[^178]
 
 Tras unos cuantos alegatos entre los procuradores, el defensor de
 menores aprovechó que el tres de noviembre de 1761 se publicó en
@@ -1663,19 +1647,19 @@ plenamente la culpabilidad del esclavo Antonio en la muerte de su
 tocayo, en tanto la segunda puntualizó los aspectos jurídicos de la
 gracia expuestos en la cédula, de tal manera que fuera evidente que su
 defendido estaba incluido dentro de los sujetos perdonados por el
-rey.[^180] La aprobación del alcalde Campillo se conformó con los
+rey.[^179] La aprobación del alcalde Campillo se conformó con los
 argumentos del procurador, calificando el delito de Antonio como
 involuntario y validando así que el esclavo podría quedar remitido de la
 pena. Finalmente, se ordenó que la decisión fuese comunicada a su amo,
 "para que como acrehedor legitimo á su servidumbre disponga de él, segun
 fuere su conveniencia, con excepcion de que si tubiere dicho negro
 causales para ser amparado de la Real justicia, en no bolver al poder de
-su dicho amo, y que se le de otro de nuebo".[^181] Aunque no quedó
+su dicho amo, y que se le de otro de nuebo".[^180] Aunque no quedó
 consignado en el expediente si el esclavo Antonio fue retornado a quien
 lo había comprado contra su voluntad, fue indicado que pertenecía a otro
 amo al ser requerido nuevamente por la justicia por haber dado muerte
 alevosa, la noche del 3 de marzo de 1777, al zambo Juan José Samarra (o
-Zamarra), alcaide de la cárcel de la villa de Medellín.[^182] No tenemos
+Zamarra), alcaide de la cárcel de la villa de Medellín.[^181] No tenemos
 copia del caso subsiguiente, pero difícilmente podría haber aspirado a
 ninguna clase de indulto al haber cometido otro homicidio.
 
@@ -1699,7 +1683,7 @@ por el teniente de Nóvita, por no haber sido "tanta la malicia" que
 impidiera la equidad del tribunal. Los oidores no sólo consideraron que
 el esclavo fue culpable, sino que aumentaron la sentencia a ocho años de
 servicio en el presidio de Cartagena, y condenaron al pago de las costas
-del proceso al amo.[^183]
+del proceso al amo.[^182]
 
 En agosto de 1804 don Ignacio Hurtado, fungiendo como defensor del
 esclavo (probablemente a instancia de Francisco de Arboleda), aprovechó
@@ -1707,14 +1691,14 @@ que el reo no había sido remitido a Cartagena para impetrar el indulto
 general de 1803 a su favor ante el teniente de gobernador de Nóvita.
 Hurtado alegó que los delitos del esclavo Eusebio (estupro y heridas) no
 estaban dentro de los excluidos en el perdón real, por lo que debía ser
-puesto en libertad.[^184] El fiscal del crimen rechazó la solicitud
+puesto en libertad.[^183] El fiscal del crimen rechazó la solicitud
 señalando que "la conducta de este tal \[esclavo\], es la de un //
 facineroso de aquellos que mas inquietan la pub\[li\]ca tranquilidad, y
 que por lo tanto deben ser apartados de la sociedad como miembros
 corrompidos que inficionan la masa comun. Sea pues por autor de una
 herida alevosa, o por el cumulo de circunstancias que le hacen indigno
 del perdón, no se halla en el caso de merecer la pena del
-indulto".[^185] Los oidores de la Audiencia aceptaron lo dicho por el
+indulto".[^184] Los oidores de la Audiencia aceptaron lo dicho por el
 fiscal y rechazaron la solicitud del defensor, aunque no quedó
 consignado en el expediente si el reo fue conducido finalmente al
 presidio cartagenero.
@@ -2133,17 +2117,13 @@ presidio cartagenero.
 
 [^79]: Elizondo, *Práctica universal*, tomo V, parte I, cap. VI, 82.
 
-[^80]: Algunos expedientes relevantes del caso fueron AGNC, sección
-    colonia, juicios criminales, tomos 2, doc. 24; tomo 131, doc. 2;
-    tomo 134, doc. 19; tomo 136, doc. 7 y 18.
-
-[^81]: "miseratione dignos, quorumque; infoelicitate ad compassionem
+[^80]: "miseratione dignos, quorumque; infoelicitate ad compassionem
     Imperator motus est". Gabriel Álvarez de Velasco, *De privilegiis
     pauperum, et miserabilium personarum* \[1630\], segunda edición
     (Lyon: Sumptibus Horatius Boissat et Georgius Remeus, 1663), parte
     II, q. I, núm. 9.
 
-[^82]: La condición de miserable podía ampliarse a prácticamente
+[^81]: La condición de miserable podía ampliarse a prácticamente
     cualquier situación humana que condujese a la infelicidad, algunas
     de las cuales pueden resultar extrañas a los ojos contemporáneos,
     como los enamorados o los deportistas. Véase al respecto Thomas
@@ -2151,7 +2131,7 @@ presidio cartagenero.
     Sonderforschungsbereichs "Pluralisierung und Autorität in der Frühen
     Neuzeit. 15. -- 17. Jahrhundert"* 2007, núm. 1 (2007): 37--38.
 
-[^83]: La bibliografía relativa al estatus de miserable de los indígenas
+[^82]: La bibliografía relativa al estatus de miserable de los indígenas
     americanos y su privilegio ha aumentado progresivamente durante las
     últimas décadas, de ésta vale la pena destacar: Thomas Duve, "La
     condición jurídica del indio y su condición como persona miserabilis
@@ -2174,32 +2154,32 @@ presidio cartagenero.
     Bonett y Felipe Castañeda (Bogotá: Universidad de los Andes, 2006),
     148--51.
 
-[^84]: Paulino Castañeda Delgado, "La condición miserable del indio y
+[^83]: Paulino Castañeda Delgado, "La condición miserable del indio y
     sus privilegios", *Anuario de estudios americanos* 28 (1971):
     245--48.
 
-[^85]: Thomas Duve, "El privilegio en el Antiguo Régimen y las Indias.
+[^84]: Thomas Duve, "El privilegio en el Antiguo Régimen y las Indias.
     Algunas anotaciones sobre su marco teórico-legal y la práctica
     jurídica", en *Cuerpo político y pluralidad de derechos. Los
     privilegios de las corporaciones novohispanas*, ed. Beatriz Rojas
     (México: Instituto Mora, 2007), 33--35.
 
-[^86]: Novarius, *Tractatus de miserabilium*, privilegium 63. Beneficio
+[^85]: Novarius, *Tractatus de miserabilium*, privilegium 63. Beneficio
     invocado de manera extraordinaria para reponer las cosas al estado
     anterior al daño provocado por un contrato o transacción. Murillo
     Velarde, *Cursus iuris canonici*, Lib. I, tít. LXI, núm. 394.
 
-[^87]: Álvarez de Velasco, *De privilegiis pauperum*, parte I, q. LXV.
+[^86]: Álvarez de Velasco, *De privilegiis pauperum*, parte I, q. LXV.
     Novarius, *Tractatus de miserabilium*, privilegium 132.
 
-[^88]: *Recopilación de las leyes de los reinos de las Indias*, lib.
+[^87]: *Recopilación de las leyes de los reinos de las Indias*, lib.
     VII, tít. VI, ley XVIII y XXI.g
 
-[^89]: "Causæ miserabilium personarum possunt tractari in foro
+[^88]: "Causæ miserabilium personarum possunt tractari in foro
     Ecclesiastico", Novarius, *Tractatus de miserabilium*, privilegium
     94.
 
-[^90]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII, núm.
+[^89]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII, núm.
     25-26. Véase en particular el análisis de Cunill, "L'Indien,
     personne misérable", 30--35. Parece que el caso de corte, aunque
     estipulado doctrinalmente, fue un privilegio que no abarcó a los
@@ -2212,15 +2192,15 @@ presidio cartagenero.
     injurias. Chile, 1700-1874", *Signos históricos* 16, núm. 32
     (diciembre de 2014): 79--80.
 
-[^91]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII, núm.
+[^90]: Solórzano Pereyra, *Política indiana*, Lib. II, cap. XXVIII, núm.
     28-31.
 
-[^92]: Ayala, *Diccionario de gobierno*, voz "Indios", núm. 141 y 143.
+[^91]: Ayala, *Diccionario de gobierno*, voz "Indios", núm. 141 y 143.
     *Recopilación de las leyes de los reinos de las Indias,* lib. VI,
     tít. X, ley 21. Solórzano Pereyra, *Política indiana*, Lib. II, cap.
     XXVIII, núm. 12.
 
-[^93]: Castañeda Delgado, "La condición miserable del indio", 259. Lo
+[^92]: Castañeda Delgado, "La condición miserable del indio", 259. Lo
     más cercano a una relación de los privilegios de las personas
     miserables fue hecha por el lucano Giovanni Maria Novarius (o
     Novario) en 1637, en la cual hace un recuento de 176 privilegios.
@@ -2228,94 +2208,94 @@ presidio cartagenero.
     tipografía de Dominici Maccarani, 1637), "elenchus singulorum
     privilegiorum".
 
-[^94]: Duve, "El privilegio en el Antiguo Régimen", 34.
+[^93]: Duve, "El privilegio en el Antiguo Régimen", 34.
 
-[^95]: Novarius, *Tractatus de miserabilium*, praeludium primum,
+[^94]: Novarius, *Tractatus de miserabilium*, praeludium primum,
     privilegium 3 y 75.
 
-[^96]: Es esclarecedora la definición de la voz "misericordia" brindada
+[^95]: Es esclarecedora la definición de la voz "misericordia" brindada
     por el *Diccionario de autoridades*: "Virtud, que aficiona y inclina
     al ánimo, para que se duela y compadezca de los trabajos y miserias
     ajenas".
 
-[^97]: Lorenzo Guardiola y Sáez, *El corregidor perfecto*, Segunda
+[^96]: Lorenzo Guardiola y Sáez, *El corregidor perfecto*, Segunda
     impresión corregida y aumentada (Madrid: imprenta real, 1796), parte
     I, §III, núm. 16. Novarius, *Tractatus de miserabilium*, privilegium
     78 y 101.
 
-[^98]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
+[^97]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
     cap. II, núm. 64. Novarius, *Tractatus de miserabilium*, privilegium
     75, núm. 12.
 
-[^99]: Sobre la asimilación del miserable con la ignorancia y
+[^98]: Sobre la asimilación del miserable con la ignorancia y
     pusilanimidad: Cunill, "L'Indien, personne misérable", 22--24;
     Alejandro Cañeque, *The king's living image: the culture and
     politics of viceregal power in colonial Mexico*, New World in the
     Atlantic world (New York, N.Y: Routledge, 2004), 166--67.
 
-[^100]: "Testimonio de la publicación del bando de indulto", Quito, 17
-    de septiembre de 1765, AGI, Quito, 398, ff. 538v-539r.
+[^99]: "Testimonio de la publicación del bando de indulto", Quito, 17 de
+    septiembre de 1765, AGI, Quito, 398, ff. 538v-539r.
 
-[^101]: "Carta del apoderado de los barrios de Quito, Don Antonio
+[^100]: "Carta del apoderado de los barrios de Quito, Don Antonio
     Araujo, exponiendo al virrey los motivos de la inquietud", Quito, 13
     de julio de 1765, AGI, Quito, 398, f. 410r.
 
-[^102]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
+[^101]: Castillo de Bovadilla, *Política para corregidores*, lib. II,
     cap. II, núm. 63.
 
-[^103]: Decía Feijoo: "la sentencia depende de las leyes, y no de
+[^102]: Decía Feijoo: "la sentencia depende de las leyes, y no de
     súplicas". *Theatro crítico*, disc. XI, núm. 17.
 
-[^104]: Sobre las pobrezas solemne y vergonzante es aclarador el
+[^103]: Sobre las pobrezas solemne y vergonzante es aclarador el
     artículo de Enrique Normando Cruz, "Pobreza y pobres en el imperio
     español a fines del antiguo régimen", *Tempus. Revista en Historia
     General*, núm. 5 (2017): 78--102,
     https://doi.org/10.17533/udea.tempus.n5a04.
 
-[^105]: La iglesia por su parte tenía ese doble cariz de protectora de
+[^104]: La iglesia por su parte tenía ese doble cariz de protectora de
     los miserables y digna de misericordia. Novarius, *Tractatus de
     miserabilium*, privilegium 90, núm. 2, "Ecclesia minoribus et
     pauperes aequiparantur" Álvarez de Velasco, *De privilegiis
     pauperum*, parte I, q. XXV, núm. 15-16.
 
-[^106]: *Ut supra* nota 26.
+[^105]: *Ut supra* nota 26.
 
-[^107]: Apaolaza Llorente, *Los bandos de buen gobierno*, 197--98.
+[^106]: Apaolaza Llorente, *Los bandos de buen gobierno*, 197--98.
 
-[^108]: Véase por ejemplo las leyes incluidas en la *Recopilación de las
+[^107]: Véase por ejemplo las leyes incluidas en la *Recopilación de las
     leyes de los reinos de las Indias*, del lib. VII, tít. IV.
 
-[^109]: Como ejemplo, la diferenciación que hizo Pérez López entre las
+[^108]: Como ejemplo, la diferenciación que hizo Pérez López entre las
     voces "Vagamundos" y "Vagos" en su *Teatro de la legislación*
     (1798), tomo XXVIII, 365-372.
 
-[^110]: Pérez López, 363.
+[^109]: Pérez López, 363.
 
-[^111]: Real cédula de 12 de julio de 1781, en Pérez López, 369.
+[^110]: Real cédula de 12 de julio de 1781, en Pérez López, 369.
 
-[^112]: "Simón Rodríguez, causa por homicidio y perdón de parte", AGNC,
+[^111]: "Simón Rodríguez, causa por homicidio y perdón de parte", AGNC,
     sección colonia, juicios criminales, tomo 102, doc. 7, f. 249r.
 
-[^113]: Respecto al procurador de pobres véase Carolina González
+[^112]: Respecto al procurador de pobres véase Carolina González
     Undurraga, "El abogado y procurador de pobres: la representación de
     esclavos y esclavas a fines de la Colonia y principios de la
     República", *SudHistoria*, núm. 5 (2012): 83--93.
 
-[^114]: AGNC, sección colonia, juicios criminales, tomo 157, doc. 6.
+[^113]: AGNC, sección colonia, juicios criminales, tomo 157, doc. 6.
 
-[^115]: Bartolomé Clavero, *Derecho indígena y cultura constitucional en
+[^114]: Bartolomé Clavero, *Derecho indígena y cultura constitucional en
     América* (Siglo XXI, 1994), 11--19.
 
-[^116]: Cañeque, *The king's living image*, 164--66.
+[^115]: Cañeque, *The king's living image*, 164--66.
 
-[^117]: *Recopilación de las leyes de los reinos de las Indias*, lib. I,
+[^116]: *Recopilación de las leyes de los reinos de las Indias*, lib. I,
     tít. VII, ley XIII. También puede consultarse la Cédula del 27 de
     marzo de 1582 enviada específicamente a los clérigos de Nueva España
     donde les previene de los maltratos que venían sufriendo los indios
     de aquellos reinos y la necesidad de protegerlos de los abusos.
     Ayala, *Diccionario de gobierno*, voz "Indios", núm. 133.
 
-[^118]: "Instrucción para el mejor gobierno de los pueblos de indios",
+[^117]: "Instrucción para el mejor gobierno de los pueblos de indios",
     en José María Arboleda Llorente, *El indio en la colonia. Estudio
     basado principalmente en documentos del Archivo Central del Cauca*
     (Bogotá: Prensas del Ministerio de Educación, 1948), 195--96. Sobre
@@ -2326,75 +2306,75 @@ presidio cartagenero.
     el comentario bibliográfico en Novoa, "La práctica judicial",
     150--51.
 
-[^119]: José del Campillo y Cossío, *Nuevo sistema de gobierno económico
+[^118]: José del Campillo y Cossío, *Nuevo sistema de gobierno económico
     para la América* (Madrid: imprenta de Benito Cano, 1789), cap. I,
     núm. 29, 15.
 
-[^120]: Timothy Eagan Anna, *La caída del gobierno español en el Perú:
+[^119]: Timothy Eagan Anna, *La caída del gobierno español en el Perú:
     el dilema de la independencia*, Estudios históricos 35 (Lima: IEP,
     Inst. de Estudios Peruanos, 2003), 33.
 
-[^121]: "Carta nº 103 de Francisco Gil de Taboada y Lemos, virrey de
+[^120]: "Carta nº 103 de Francisco Gil de Taboada y Lemos, virrey de
     Perú, a Antonio Valdés, Secretario de Estado de Indias, Hacienda,
     Marina y Guerra". AGI, Audiencia de Lima, leg. 691, f. 385v.
 
-[^122]: *Real ordenanza para el establecimiento e instrucción de
+[^121]: *Real ordenanza para el establecimiento e instrucción de
     intendentes de exército y provincia en el reino de la Nueva España*
     (Madrid: \[s.n.\], 1786), art. 14 y 15.
 
-[^123]: *Ordenanza general formada de orden de Su Magestad, y mandada
+[^122]: *Ordenanza general formada de orden de Su Magestad, y mandada
     imprimir y publicar para el gobierno é instrucción de intendentes,
     subdelegados y demás empleados en Indias* (Madrid: imprenta de la
     viuda de Ibarra, 1803), art. 91.
 
-[^124]: La solicitud fue recibida el 2 de mayo de 1804 para acogerse al
+[^123]: La solicitud fue recibida el 2 de mayo de 1804 para acogerse al
     indulto de julio de 1803.
 
-[^125]: AGNC, sección colonia, caciques e indios, tomo 75, doc. 21, ff.
+[^124]: AGNC, sección colonia, caciques e indios, tomo 75, doc. 21, ff.
     539r-667v.
 
-[^126]: AGNC, sección colonia, caciques e indios, tomo 75, doc. 21, f.
+[^125]: AGNC, sección colonia, caciques e indios, tomo 75, doc. 21, f.
     670r.
 
-[^127]: AGNC, sección colonia, caciques e indios, tomo 75, doc. 21, f.
+[^126]: AGNC, sección colonia, caciques e indios, tomo 75, doc. 21, f.
     670v.
 
-[^128]: AGNC, sección colonia, caciques e indios, tomo 75, doc. 21, f.
+[^127]: AGNC, sección colonia, caciques e indios, tomo 75, doc. 21, f.
     671v.
 
-[^129]: Valga recordar que desde 1776 se suprimió la plaza de protector
+[^128]: Valga recordar que desde 1776 se suprimió la plaza de protector
     general de indios y se le encargó esa tarea al fiscal del crimen de
     cada Audiencia, asesorado por sus agentes fiscales. Diana Bonnett
     Vélez, *Los protectores de naturales en la Audiencia de Quito:
     siglos XVII y XVIII* (Quito: Facultad Latinoamericana de Ciencias
     Sociales, Sede Ecuador, 1992), 29.
 
-[^130]: AGNC, sección colonia, juicios criminales, tomo 163, doc. 1, f.
+[^129]: AGNC, sección colonia, juicios criminales, tomo 163, doc. 1, f.
     181r.
 
-[^131]: AGNC, sección colonia, juicios criminales, tomo 163, doc. 1, f.
+[^130]: AGNC, sección colonia, juicios criminales, tomo 163, doc. 1, f.
     182r.
 
-[^132]: AGNC, sección colonia, juicios criminales, tomo 163, doc. 1, f.
+[^131]: AGNC, sección colonia, juicios criminales, tomo 163, doc. 1, f.
     182v.
 
-[^133]: AGNC, sección colonia, caciques e indios, tomo 70, doc. 41, ff.
+[^132]: AGNC, sección colonia, caciques e indios, tomo 70, doc. 41, ff.
     846r-860v.
 
-[^134]: AGNC, sección colonia, caciques e indios, tomo 70, doc. 41, ff.
+[^133]: AGNC, sección colonia, caciques e indios, tomo 70, doc. 41, ff.
     874r-878r.
 
-[^135]: AGNC, sección colonia, caciques e indios, tomo 54, doc. 18.
+[^134]: AGNC, sección colonia, caciques e indios, tomo 54, doc. 18.
 
-[^136]: AGNC, sección colonia, juicios criminales, tomo 139, doc. 11, f.
+[^135]: AGNC, sección colonia, juicios criminales, tomo 139, doc. 11, f.
     544v.
 
-[^137]: José Luis de las Heras Santos, "Ejemplaridad, paternalismo y
+[^136]: José Luis de las Heras Santos, "Ejemplaridad, paternalismo y
     utilitarismo en la justicia de la España de los Habsburgo",
     *Estudios Humanísticos. Historia*, núm. 12 (2013): 211--12,
     https://doi.org/10.18002/ehh.v0i12.965.
 
-[^138]: AGNC, sección colonia, juicios criminales, tomo 136, doc. 18, f.
+[^137]: AGNC, sección colonia, juicios criminales, tomo 136, doc. 18, f.
     985v. Al parecer este mismo recurso fue utilizado en el informe y
     ruego al rey pues decía en la cédula de marzo de 1789 que la madre
     suplicaba "me dignase a ver misericordia, como Padre de aquel
@@ -2402,50 +2382,50 @@ presidio cartagenero.
     sección colonia, juicios criminales, tomo 138, doc. 13, ff.
     698v-699r.
 
-[^139]: Tan sólo habría que revisar las numerosas consultas disponibles
+[^138]: Tan sólo habría que revisar las numerosas consultas disponibles
     en AGI, Santa Fe, 546 y 548
 
-[^140]: "María Bárbara de Robles a José de Gálvez", Aranjuez, 8 de mayo
+[^139]: "María Bárbara de Robles a José de Gálvez", Aranjuez, 8 de mayo
     de 1780, AGI, Santa Fe, 1200.
 
-[^141]: Los detalles de este indulto y los argumentos para expatriar a
+[^140]: Los detalles de este indulto y los argumentos para expatriar a
     quienes se acogieron serán analizados en un capítulo posterior.
 
-[^142]: "Josefa Ramona de Gracian, esposa de Martín de Goenaga", La
+[^141]: "Josefa Ramona de Gracian, esposa de Martín de Goenaga", La
     Guaira, 15 de marzo de 1798, AHN, Consejo de Indias, Secretaría de
     Presidencia, leg. 21672, exp. 3.
 
-[^143]: La *ostiaria mendicitas* se refería a la de aquellos que se
+[^142]: La *ostiaria mendicitas* se refería a la de aquellos que se
     postraban *ad portas* de la iglesia para pedir limosna de los
     fieles. Viene del adjetivo latino *ostiarius*, *ii*; el cual indica
     que algo está relacionado con una puerta.
 
-[^144]: Es probable que el ejemplo de los "Pulichis" del Indostán haya
+[^143]: Es probable que el ejemplo de los "Pulichis" del Indostán haya
     sido tomado del periódico *Espíritu de los mejores diarios
     literarios que se publican en Europa*, núm. 163, 12 de enero de
     1789, 775.
 
-[^145]: "Josefa Ramona de Gracian, esposa de Martín de Goenaga".
+[^144]: "Josefa Ramona de Gracian, esposa de Martín de Goenaga".
 
-[^146]: Castañeda Delgado, "La condición miserable del indio", 255.
+[^145]: Castañeda Delgado, "La condición miserable del indio", 255.
 
-[^147]: \"Vidua etiam dicitur quoad fori privilegium mulier illa, quæ
+[^146]: \"Vidua etiam dicitur quoad fori privilegium mulier illa, quæ
     virum quidem habet, sed captivatum, vel exulem, vel ad triremes
     damnatum\" Giacomo Menochio, *De arbitrariis judicum* \[1569\],
     edición enmendada y ampliada (Génova: Samuelis de Tournes, 1690),
     lib. II, c. 66, núm. 9.
 
-[^148]: "Doña Maria Ygnacia Admiñahorta", AGNC, sección colonia, juicios
+[^147]: "Doña Maria Ygnacia Admiñahorta", AGNC, sección colonia, juicios
     criminales, tomo 87, doc. 27, f. 845r-v.
 
-[^149]: Algunos datos sobre este fiscal se pueden encontrar en Ainara
+[^148]: Algunos datos sobre este fiscal se pueden encontrar en Ainara
     Vázquez Varela, *"De la primera sangre de este reino": las élites
     dirigentes de Santa Fe (1700-1750)* (Bogotá: Universidad Colegio
     Mayor de Nuestra Señora del Rosario, 2010), 81 y 88--89.
 
-[^150]: "Doña Maria Ygnacia Admiñahorta", 845v-846r.
+[^149]: "Doña Maria Ygnacia Admiñahorta", 845v-846r.
 
-[^151]: Juana Fernández ya había realizado una petición de indulto para
+[^150]: Juana Fernández ya había realizado una petición de indulto para
     su esposo en junio de 1780 a través del gobernador de Santa Marta y
     Riohacha, don Antonio de Narváez y la Torre, la cual fue rechazada
     por el fiscal de la Audiencia de Santa Fe pues hasta el momento sólo
@@ -2460,22 +2440,22 @@ presidio cartagenero.
     octubre de 1780, AGNC, sección colonia, milicias y marina, tomo 99,
     f. 777.
 
-[^152]: "Doña Juana María Fernández, sobre que se le indulte a su
+[^151]: "Doña Juana María Fernández, sobre que se le indulte a su
     marido", AGNC, sección colonia, Real Audiencia -- Magdalena, tomo 4,
     doc. 2.
 
-[^153]: "Doña Juana María Fernández", f. 39r.
+[^152]: "Doña Juana María Fernández", f. 39r.
 
-[^154]: "Doña Juana María Fernández". Subrayados en el original.
+[^153]: "Doña Juana María Fernández". Subrayados en el original.
 
-[^155]: "Doña Juana María Fernández", f. 39v.
+[^154]: "Doña Juana María Fernández", f. 39v.
 
-[^156]: "Doña Juana María Fernández", f. 40r.
+[^155]: "Doña Juana María Fernández", f. 40r.
 
-[^157]: *Partidas*, P. IV, tít. 21, ley I. Murillo Velarde, *Cursus
+[^156]: *Partidas*, P. IV, tít. 21, ley I. Murillo Velarde, *Cursus
     iuris canonici*, Lib. IV, tít. X, núm. 99.
 
-[^158]: Valga resaltar que la condición del esclavo no era de un simple
+[^157]: Valga resaltar que la condición del esclavo no era de un simple
     objeto de propiedad, representaba una dualidad jurídica en la cual
     se no se entendía la trata de esclavos en el modo de la simple venta
     de un hombre sino en términos de *traditio*, es decir, de
@@ -2505,7 +2485,7 @@ presidio cartagenero.
     *Génesis y desarrollo de la esclavitud en Colombia siglos XVI y
     XVII* (Universidad del Valle, 2005), 211--33.
 
-[^159]: Sin duda el juicio al que se les sometió y el tácito
+[^158]: Sin duda el juicio al que se les sometió y el tácito
     desterramiento de América coadyuvó a que las denuncias de los
     frailes se fuesen diluyendo. Al respecto véase el estudio preliminar
     a Francisco José de Jaca, *Resolución sobre la libertad de los
@@ -2514,38 +2494,38 @@ presidio cartagenero.
     hispano*, ed. Miguel Anxo Pena González (Madrid: Consejo Superior de
     Investigaciones Científicas, 2002).
 
-[^160]: *Partidas*, P. IV, tít. 21, ley. V.
+[^159]: *Partidas*, P. IV, tít. 21, ley. V.
 
-[^161]: *Partidas*, P. IV, tít. 21, ley. VI.
+[^160]: *Partidas*, P. IV, tít. 21, ley. VI.
 
-[^162]: Gregorio López, glosa "Quisiere" a *Partidas*, P. IV, tít. 21,
+[^161]: Gregorio López, glosa "Quisiere" a *Partidas*, P. IV, tít. 21,
     ley. VI.
 
-[^163]: "non potest et cum causa dominus immodice fævire in servos: sed
+[^162]: "non potest et cum causa dominus immodice fævire in servos: sed
     oportet, ut fiat per iudicem.", Gregorio López, glosa "Juez" a
     *Partidas*, P. IV, tít. 21, ley. VI.
 
-[^164]: Así podría entenderse del "espíritu" de la cédula de 15 de abril
+[^163]: Así podría entenderse del "espíritu" de la cédula de 15 de abril
     de 1540 inserta en la *Recopilación de las leyes de los reinos de
     las Indias*, lib. VII, tít. V, ley VIII.
 
-[^165]: Karen Mejía Velásquez y Luis Miguel Córdoba Ochoa, "La
+[^164]: Karen Mejía Velásquez y Luis Miguel Córdoba Ochoa, "La
     manumisión de esclavos por compra y gracia en la Provincia de
     Antioquia, 1780-1830", *HiSTOReLo. Revista de Historia Regional y
     Local* 9, núm. 17 (2017): 271--75,
     https://doi.org/10.15446/historelo.v9n17.57540.
 
-[^166]: Un análisis pormenorizado de esta forma de manumisión fue
+[^165]: Un análisis pormenorizado de esta forma de manumisión fue
     realizado por Karent Viviana Portilla Herrera, "Aforramientos,
     pactos y condiciones en los procesos de manumisión, Cali 1750-1810",
     *Ciencia Nueva. Revista de historia y política* 1, núm. 2 (2017):
     95--113.
 
-[^167]: Este lenguaje es evidente en los casos presentados por Mejía
+[^166]: Este lenguaje es evidente en los casos presentados por Mejía
     Velásquez y Córdoba Ochoa, "La manumisión de esclavos", 275--76;
     Portilla Herrera, "Aforramientos, pactos y condiciones", 100--107.
 
-[^168]: Rafael Antonio Díaz Díaz, *Esclavitud, región y ciudad: el
+[^167]: Rafael Antonio Díaz Díaz, *Esclavitud, región y ciudad: el
     sistema esclavista urbano-regional en Santafé de Bogotá, 1700-1750*
     (Bogotá: Pontificia Universidad Javeriana, 2001), 221--22. También
     es relevante su ensayo "¿Es posible la libertad en la esclavitud? a
@@ -2553,7 +2533,7 @@ presidio cartagenero.
     nueva granada", *Historia Crítica*, núm. 24 (2017): 67--74,
     https://doi.org/10.7440/histcrit24.2002.04.
 
-[^169]: Para el caso de la historiografía colombiana el punto de partida
+[^168]: Para el caso de la historiografía colombiana el punto de partida
     lo dio Hermes Tovar en 1992 cuando dijo que el acercamiento de los
     esclavos a la justicia "significaba para los negros un instrumento
     muy poderoso contra sus amos y dueños de haciendas", al cual le
@@ -2581,18 +2561,18 @@ presidio cartagenero.
     Departamento de Historia e Instituto Iberoamericano de la
     Universidad de Gotemburgo, 2001).
 
-[^170]: González Undurraga, "Para que mi justicia no perezca", 61--62.
+[^169]: González Undurraga, "Para que mi justicia no perezca", 61--62.
 
-[^171]: Sobre las acciones colectivas: Renée Soulodre-La France, "Los
+[^170]: Sobre las acciones colectivas: Renée Soulodre-La France, "Los
     Esclavos de Su Magestad. Slave Protest and Politics in Late Colonial
     New Granada", en *Slaves, Subjects, and Subversives. Blacks in
     Colonial Latin America*, ed. Jane G. Landers y Barry M. Robinson
     (Albuquerque: University of New Mexico Press, 2006), 176--78.
 
-[^172]: Este caso fue indicado por Patiño Millán, *Criminalidad, ley
+[^171]: Este caso fue indicado por Patiño Millán, *Criminalidad, ley
     penal*, 84.
 
-[^173]: Como estaba señalado en la *Recopilación de las leyes de Indias*
+[^172]: Como estaba señalado en la *Recopilación de las leyes de Indias*
     (lib. IV, tít. XI, ley I), la función del procurador general de las
     ciudades y villas consistía en la asistencia de sus negocios. A
     partir de la promulgación de la cédula del 31 de mayo de 1789 "sobre
@@ -2603,40 +2583,40 @@ presidio cartagenero.
     razón el fiscal del crimen de la Audiencia calificó la actuación del
     procurador de Medellín como "monstruosa".
 
-[^174]: AGNC, sección colonia, negros y esclavos, Antioquia, tomo 4,
+[^173]: AGNC, sección colonia, negros y esclavos, Antioquia, tomo 4,
     doc. 17, ff. 952v-253r, 967r y 969r.
 
-[^175]: Rionegro, mayo 22 de 1804, AGNC, sección colonia, negros y
+[^174]: Rionegro, mayo 22 de 1804, AGNC, sección colonia, negros y
     esclavos, Antioquia, tomo 4, doc. 17, f. 981r.
 
-[^176]: AGNC, sección colonia, negros y esclavos, Antioquia, tomo 4,
+[^175]: AGNC, sección colonia, negros y esclavos, Antioquia, tomo 4,
     doc. 17, ff. 987v-988r
 
-[^177]: Patiño Millán, *Criminalidad, ley penal*, 343.
+[^176]: Patiño Millán, *Criminalidad, ley penal*, 343.
 
-[^178]: Actualmente una vereda del municipio de Ebejicó, Antioquia (ca.
+[^177]: Actualmente una vereda del municipio de Ebejicó, Antioquia (ca.
     6.273594,-75.795547).
 
-[^179]: AHA, sección miscelánea, Criminal, B. 41, leg. 1740-1770, doc.
+[^178]: AHA, sección miscelánea, Criminal, B. 41, leg. 1740-1770, doc.
     11, f. 21v.
 
-[^180]: AHA, sección miscelánea, Criminal, B. 41, leg. 1740-1770, doc.
+[^179]: AHA, sección miscelánea, Criminal, B. 41, leg. 1740-1770, doc.
     11, f. 33r-v.
 
-[^181]: AHA, sección miscelánea, Criminal, B. 41, leg. 1740-1770, doc.
+[^180]: AHA, sección miscelánea, Criminal, B. 41, leg. 1740-1770, doc.
     11, f. 35r.
 
-[^182]: AHM, sección colonia, Concejo de Medellín, actas, tomo 24, ff.
+[^181]: AHM, sección colonia, Concejo de Medellín, actas, tomo 24, ff.
     29v.
 
-[^183]: AGNC, sección colonia, negros y esclavos, Cauca, tomo 3, ff.
+[^182]: AGNC, sección colonia, negros y esclavos, Cauca, tomo 3, ff.
     933r-990v. Una mención a este proceso fue realizada por Orian
     Jiménez Meneses, "Nómadas, errantes y vagabundos en el Nuevo Reino
     de Granada durante los siglos XVI, XVII y XVIII", *Nómadas*, núm. 10
     (1999): 191.
 
-[^184]: AGNC, sección colonia, negros y esclavos, Cauca, tomo 3, f.
+[^183]: AGNC, sección colonia, negros y esclavos, Cauca, tomo 3, f.
     992v.
 
-[^185]: AGNC, sección colonia, negros y esclavos, Cauca, tomo 3, f.
+[^184]: AGNC, sección colonia, negros y esclavos, Cauca, tomo 3, f.
     994r-v.

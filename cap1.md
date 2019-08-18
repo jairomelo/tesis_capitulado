@@ -1140,47 +1140,13 @@ el indulto y el perdón eran "efectos de mi paternal amor, clemencia, y
 piedad";[^179] una combinación de sentimientos afables y moderación del
 ánimo para favorecer la compasión sobre aquel caído en desgracia.
 
-Como lo ha señalado Martha Nussbaum, la clemencia y la compasión no se
-encuentran vinculadas de manera indisoluble, de hecho, la justicia en
-Occidente favorece el ejercicio de la moderación de las penas sin que se
-entremezclen las emociones en la decisión del juez.[^180] De una manera
-similar, António Manuel Hespanha afirmó en un ensayo que "los juristas,
-en tanto que técnicos por excelencia de lo social, así como los poderes
-públicos, no pueden, desde el punto de vista institucional, albergar
-amor dentro de sí; no pueden tampoco volcarlo, ni pueden hablar de él.
-En una palabra, *no pueden hacer el amor*". [^181] La acción jurídica no
-requiere una expresión sentimental, pero el enunciar la emotividad del
-acto gracioso hace explícito que el perdón general es un acto de
-misericordia, diferente a una remisión por merced.[^182]
-
-Según Nussbaum, las emociones políticas son aquellas que tienen como
-objetivo la nación, sus instituciones y abarcan a toda una comunidad de
-habitantes de un espacio común.[^183] Aunque el objetivo de esta
-filósofa no consiste en realizar un análisis histórico de las emociones
-en la política sino construir una reflexión acerca de la utilidad de los
-sentimientos en la vida pública contemporánea, es posible extrapolar
-algunas de sus ideas para interpretar el porqué de la incorporación de
-términos que remiten a una emotividad pública durante nuestro periodo de
-estudio. Específicamente nos interesa la idea de que la emocionalidad
-política se encontraba en diálogo permanente con las instituciones, y es
-a través de ellas que "el gobierno" podía influenciar "la psicología de
-sus ciudadanos".[^184] Examinar las consecuencias perlocutivas de las
-expresiones emotivas del rey supera con creces las posibilidades de esta
-investigación, sin embargo, es posible inferir que las palabras del
-monarca adquirían su fuerza ilocutiva porque se les privaba a los
-vasallos de su voz y su presencia, por lo cual, hablaba a través de su
-"cuerpo místico".[^185] La locución del príncipe se canalizaba a través
-de las autoridades de la monarquía quienes podían actuar "en nombre del
-rey", y gracias a esta facultad fue posible extender la jurisdicción
-real sin necesidad del acto de presencia del soberano.
-
 Durante la época de los Austrias, se construyó un modelo de
 comportamiento público del monarca fundamentado en la "invisibilidad" y,
 sobre todo, inaccesibilidad del rey. El limitar al mínimo el acceso a la
 persona regia fue fundamental para configurar el poder real hispano en
 la corte, y asimismo contribuyó a construir un modelo de proyección de
 la potestad regia a través de símbolos como el palio, los retratos, las
-medallas, o los escudos.[^186] La publicación de las cédulas por bando y
+medallas, o los escudos.[^180] La publicación de las cédulas por bando y
 el fijar copias de las mismas en las puertas de las casas de cabildo
 pueden considerarse igualmente como proyecciones de la locución regia
 que se extendía hasta los lugares más alejados del reino. Annick
@@ -1189,7 +1155,7 @@ publicación", el cual hacía "notorio y patente" aquellos actos públicos
 que se quería dar a conocer a los vasallos. De esta manera, "la
 selección de las noticias por publicar, así como el propio derecho de
 publicar, era una de las regalías menos compartidas. Se trataba de un
-privilegio exclusivo de las autoridades que representaban al rey".[^187]
+privilegio exclusivo de las autoridades que representaban al rey".[^181]
 Por ello, no deberían tomarse a la ligera estos instrumentos con los
 cuales el rey transmitía a sus vasallos no sólo una gracia, sino también
 su compromiso paternal con sus amados hijos.
@@ -1199,10 +1165,10 @@ vulgares. El amor del rey se entendía como un afecto, que podía
 interpretarse como una necesidad y fuerza de la naturaleza que aumentaba
 o disminuía la potencia del cuerpo, que dirigía su voluntad hacia el
 bien, y que incluso podía relacionarse con el placer que producía la
-alegría.[^188] Pero el paternal amor del rey estaba enmarcado en el
+alegría.[^182] Pero el paternal amor del rey estaba enmarcado en el
 discurso de la corrección fraterna, la metafórica piedad familiar en que
 el padre-pastor temperaba el rigor de las relaciones entre señor y
-súbdito.[^189] La seducción se fundamentaba en el acto de la gracia, el
+súbdito.[^183] La seducción se fundamentaba en el acto de la gracia, el
 paternal amor del rey se manifestaba no sólo en las palabras de la
 cédula sino en el acto de clemencia, de demostración de piedad y de
 benignidad que a su vez generaba del vasallo "una deuda permanente de
@@ -1210,7 +1176,7 @@ afecto"; y con ello se sostiene un sistema de reciprocidad asimétrica en
 la cual "el que recibe está obligado a dar más de lo que le ha sido
 dado. De aquí que cuanto más se paga la deuda que origina la caridad más
 se debe; hasta el punto de que no resulta descabellado considerarla
-inextinguible".[^190] El problema estaba en que en este intercambio, si
+inextinguible".[^184] El problema estaba en que en este intercambio, si
 bien el rey esperaría recibir el servicio perpetuo del agraciado, la
 reciprocidad pareciera estar a favor del que recibe el don y no de aquel
 que lo otorga.
@@ -1223,11 +1189,11 @@ indulto general incluían a todos los criminales y delitos cometidos
 antes de su promulgación; por lo tanto, en teoría, cualquier delincuente
 quedaba libre de acusación y toda imputación se tornaría nula; como
 comentaba Juan López de Cuéllar, "no hablando de las personas,
-comprehende á todas".[^191] Garsia Mastrillo fue uno de los que
+comprehende á todas".[^185] Garsia Mastrillo fue uno de los que
 consideró que el indulto general debía interpretarse como indulgencia,
 lo cual estaba muy acorde con la forma en que se expresaban estas
-gracias en el *Corpus Iuris Civilis* como *generalis indulgentia*;[^192]
-es decir, que incluía en su gracia los crímenes "enormísimos".[^193] De
+gracias en el *Corpus Iuris Civilis* como *generalis indulgentia*;[^186]
+es decir, que incluía en su gracia los crímenes "enormísimos".[^187] De
 la misma manera, Antonio Gómez en sus *commentariorum* (obra de
 importante circulación incluso en el siglo XVIII) había planteado que
 por indulgencia y remisión, el príncipe "abandona el castigo del
@@ -1235,7 +1201,7 @@ delincuente y lo libera de toda pena"; además, con el indulto general,
 se apartaba del castigo de los criminales "acusados, indagados o
 condenados"; por lo que desde su perspectiva, un perdón universal
 comprendía a todos los reclusos en prácticamente cualquier etapa
-procesal.[^194]
+procesal.[^188]
 
 En este sentido, el vasallo recibía una gracia desproporcionada para su
 acción. Cuando el reo obtenía la gracia completa (libertad, sin nota de
@@ -1258,10 +1224,10 @@ los contrabandistas reincidentes, considerando que era preciso para el
 exterminio del ilícito comercio "sentar por regla incontrastable que
 jamas havian de hallar los complises en este exeso el aliento que les
 fasilita la esperansa de los indultos que a sido causa de muchos
-fraudes".[^195]
+fraudes".[^189]
 
 A diferencia del sacramento de la penitencia, la remisión de la condena
-no exigía la contrición ni la atrición del reo para ser otorgada.[^196]
+no exigía la contrición ni la atrición del reo para ser otorgada.[^190]
 Aunque fuera prerrequisito para otorgar el perdón que el criminal
 tuviese una condena en firme, y en no pocas ocasiones se elevara la
 súplica manifestando el sufrimiento y dolor que se sufría en la prisión
@@ -1274,7 +1240,7 @@ recompensada en el empíreo y que en el tribunal eterno se le perdonaran
 sus ofensas como él había perdonado a quien lo ofendió. Por ello, el rey
 en los perdones de Viernes Santo sancionaba su decisión al poner su mano
 sobre las causas y decir "con el más vivo y tierno sentimiento: yo os
-perdono, para que Dios me perdone".[^197] El que es perdonado debería
+perdono, para que Dios me perdone".[^191] El que es perdonado debería
 actuar con gratitud, pues se consideraba la respuesta virtuosa a la
 gracia hecha por el bienhechor. En un tratado relativamente oscuro, fray
 Benito de la Soledad escribía en medio de la Guerra de Sucesión: "la
@@ -1284,7 +1250,7 @@ Tomas esta Virtud de ser agradecidos á los bienhechores, que affirma,
 que aunque él que haze la gracia sea utilizado, y la haga por su proprio
 interes, deve el que recibe el favor mostrarse agradecido." No
 manifestar agradecimiento tras recibir el don sería "malignidad
-injusta."[^198]
+injusta."[^192]
 
 La lógica de la gracia excluía de plano la posibilidad de exigir una
 condición previa para otorgar el perdón. Si para el perdón se exigiese
@@ -1302,19 +1268,19 @@ conducía a Cartagena, ofrecía al virrey el pago de 500 pesos a la Real
 Hacienda y 100 pesos "para que sirba á Su Magestad por la gracia del
 indulto que pido, en obsequio y reverencia de los felisisimos dias de
 Nuestro Catholico Monarca, que se celebran el dia 4 del presente mes de
-Noviembre \[de 1765\]".[^199] Admiñahorta resaltó al virrey que al
+Noviembre \[de 1765\]".[^193] Admiñahorta resaltó al virrey que al
 conceder esta gracia no se faltaba a la justicia, ni se "deservía" al
 soberano, tampoco se perjudicaba al público o se dañaba a un particular,
 "sino que antes bien se cubre la Real Hacienda," que de otro modo
 quedaría sin el pago de lo que su esposo y sus fiadores le adeudaban por
-el pago anticipado del traslado de los reos y sus prisiones.[^200] La
+el pago anticipado del traslado de los reos y sus prisiones.[^194] La
 aceptación de los 600 pesos y la concesión del indulto después de haber
 entregado esta cantidad en las cajas reales muestra que esta oferta no
 se consideraba como cohecho o baratería, de hecho era difícil considerar
 este donativo como un soborno puesto que, por una parte, no se estaba
 actuando en secreto, y por otra, no se estaba modificando la sentencia
 sino recibiendo una gracia, que estaba en una esfera distinta a la de la
-justicia.[^201]
+justicia.[^195]
 
 Esto tiene mucho sentido con los indultos generales otorgados de manera
 amplia a todos los reos comunes de las prisiones reales, ya que no
@@ -1326,10 +1292,10 @@ una estrategia con la cual garantizar que el redimido sería útil a la
 república. De hecho, no existía una manera de prevenir que después de
 libre el otrora reo no reincidiera en el delito. A pesar de esta
 asimetría, el indulto general tiene sentido dentro del universo de la
-economía de la gracia.[^202] Es imposible que la monarquía se hubiese
+economía de la gracia.[^196] Es imposible que la monarquía se hubiese
 legitimado solamente a través de indulgencias generales, pero éstas
 hacían parte del universo simbólico y pragmático del dominio regio sobre
-sus vasallos.[^203] El perdón general serviría para demostrar la
+sus vasallos.[^197] El perdón general serviría para demostrar la
 superior piedad del rey, incapaz de gozar de su alegría mientras
 aquellos que cayeron en las faltas (por error, inocencia, ignorancia, o
 engaño) estaban gimiendo por el peso de sus prisiones. El amor paternal
@@ -1349,36 +1315,36 @@ La motivación del perdón general
 
 El indulto y perdón general era la forma más amplia de concesión de
 indulto y una de las más recurrentes durante el reinado de Carlos
-III.[^204] La costumbre general de conceder perdones generales por
-causas de "grand alegria", como señalaban las Partidas,[^205] se mantuvo
+III.[^198] La costumbre general de conceder perdones generales por
+causas de "grand alegria", como señalaban las Partidas,[^199] se mantuvo
 durante los reinados de los Austrias y Borbones sin mayores cambios.
 Estos podían originarse como estrategia para la pacificación de las
-revueltas,[^206] la visita a las ciudades por parte de los reyes, y
+revueltas,[^200] la visita a las ciudades por parte de los reyes, y
 otros motivos políticos y militares que podían ser justificados como de
 regocijo universal. Desde el siglo XVII se hizo más frecuente el
 promulgar perdones amplios en forma de un decreto gracioso de indulto,
 siendo uno de los más conocidos el promulgado por Felipe III en 1606,
 que sirvió como fundamento para el difundido tratado de Garsia
-Mastrillo, *Ad indultum generale*.[^207] La mayoría de las indulgencias
+Mastrillo, *Ad indultum generale*.[^201] La mayoría de las indulgencias
 fueron motivadas por el nacimiento de un príncipe (1628, 1657, 1662,
 1667, 1668), pero hubo otras razones, como la llegada del príncipe de
 Gales a la península en 1623, la celebración de la victoria militar en
-1652, la firma del tratado de paz entre Francia y España en 1679,[^208]
-y la recuperación de la salud de Carlos II en 1697.[^209] Muchos de
+1652, la firma del tratado de paz entre Francia y España en 1679,[^202]
+y la recuperación de la salud de Carlos II en 1697.[^203] Muchos de
 estos indultos abarcaron a toda la monarquía, cuya aplicación era
 encargada a los virreyes y sus Audiencias, quienes se delegaban para
-distribuir copias de las cédulas en su jurisdicción.[^210]
+distribuir copias de las cédulas en su jurisdicción.[^204]
 
 Para el siglo XVIII se han identificado trece indultos generales
 decretados con la motivación expresa del nacimiento de un príncipe, la
 exaltación al trono del monarca, y en un caso, la firma del tratado de
 Basilea con Francia (1707, 1718, 1726, 1746, 1760, 1765, 1771, 1779,
-1780, 1784, 1796, 1803, 1810).[^211] A estos es necesario añadir
+1780, 1784, 1796, 1803, 1810).[^205] A estos es necesario añadir
 aquellos que tuvieron como finalidad la consolidación de la paz tras un
 levantamiento (por ejemplo, el después del motín de Esquilache en 1766 o
 de los comuneros del Nuevo Reino en 1782) o guerra (los mejores ejemplos
 consisten en los indultos generales otorgados a los catalanes en 1706 y
-1713),[^212] aquellos que fueron promulgados como medida de urgencia
+1713),[^206] aquellos que fueron promulgados como medida de urgencia
 para la financiación de la monarquía (como fueron los perdones a
 contrabandistas o la Junta de Indultos de 1703) o como una manera de
 contener la defección de la tropa (indultos de desertores de 1776, 1783,
@@ -1396,15 +1362,15 @@ emparentados con la culminación de las guerras en las cuales se
 involucraban las tropas hispanas. La ley de *Partidas* relativa a los
 perdones era clara al mencionar que uno de los motivos de gran alegría
 que movía a la piedad pública del rey era la "vitoria que aya avido
-contra sus enemigos".[^213] Ni Gregorio López, Juan López de Cuéllar, o
+contra sus enemigos".[^207] Ni Gregorio López, Juan López de Cuéllar, o
 Garsia Mastrillo, incluyen las victorias militares como impulso para la
 piedad pública; en cambio sí lo hacen tratadistas dieciochescos como
 Álvarez Posadilla y Antonio Xavier Pérez. El primero señala que los
 perdones generales se concedían "con motivo del nacimiento de Príncipes,
-ú otros motivos de alegría, como victoria ó paz, etc".[^214] Pérez por
+ú otros motivos de alegría, como victoria ó paz, etc".[^208] Pérez por
 su parte indicaba que la indulgencia pública se acostumbraba "en las
 ocasiones de regocijos públicos de nacimientos de Principes herederos,
-de victorias señaladas, de paces ó tratados ventajosos".[^215] Alfonso
+de victorias señaladas, de paces ó tratados ventajosos".[^209] Alfonso
 Díaz de Montalvo en sus glosas a las *Partidas* (publicadas en 1491 y
 opacadas tras la aparición de los comentarios de López en 1555) señalaba
 que "la guerra es pérdida de cuerpos y almas, y empobrece a los
@@ -1412,9 +1378,9 @@ hombres", por lo que el cese de la pugna contra los enemigos, rebeldes,
 o el "hacer la paz" era motivo de general alegría; equiparable al
 nacimiento de un príncipe o un tratado ventajoso. Asimismo, "cualquier
 victoria del Príncipe es la alegría del pueblo", por lo que ésta era
-suficiente justificación para conceder la indulgencia general.[^216]
+suficiente justificación para conceder la indulgencia general.[^210]
 También el afamado tratadista Antonio Gómez señalaba que la victoria era
-una de las motivaciones de la indulgencia general.[^217] No pareciera
+una de las motivaciones de la indulgencia general.[^211] No pareciera
 existir ninguna contradicción entre relacionar la victoria militar o el
 final de un conflicto y el perdón general, sin embargo, parecía que era
 preferido por los reyes demostrar que su clemencia nacía de un hecho
@@ -1424,7 +1390,7 @@ Tal vez el motivo no era determinante para promulgar un perdón general,
 al fin y al cabo no todos los nacimientos daban como resultado un
 indulto; y cuando esto era así, se interpretaba que el rey había
 preferido expresar su amor a la justicia y el bien común con el castigo
-de los delitos y no con su remisión.[^218] No obstante, llama la
+de los delitos y no con su remisión.[^212] No obstante, llama la
 atención el hecho que se acostumbrara aprovechar los partos para
 justificar las indulgencias en lugar de apelar a otras exaltaciones de
 alegría pública. Es posible que este deseo de perdonar se encontrara en
@@ -1432,7 +1398,7 @@ el mismo rango de las festividades reales, es decir, de eventos que
 atañían directamente a la vida de los miembros de la familia real.
 Christian Büschges menciona que en las cortes virreinales se hacían
 fiestas "dentro de palacio" para celebrar victorias militares, a las
-cuales concurrían autoridades civiles y eclesiásticas;[^219] lo cual
+cuales concurrían autoridades civiles y eclesiásticas;[^213] lo cual
 puede dar una pista de la diferencia entre una celebración motivada por
 una buena nueva de la familia real y aquellas organizadas para aclamar
 el fortalecimiento de la monarquía. Si el indulto general era parte de
@@ -1456,37 +1422,37 @@ la alegría. Saavedra Fajardo consideraba que la victoria no debería
 traer alegría pues la sangre vertida opacaba la gloria y era,
 finalmente, el resultado del quiebre de la paz; consideraba asimismo que
 la paz estaba vinculada con la alegría, al contrario de la guerra que lo
-estaba con el horror.[^220] Decía este tratadista que "una batalla
+estaba con el horror.[^214] Decía este tratadista que "una batalla
 ganada suele ser principio de felicidad en el vencido, i de infelicidad
-en el vencedor".[^221] Los eventos de alegría se consideraban reflejados
-en el semblante de la familia real,[^222] eran parte de la corporalidad
-del rey que se extendía en la república;[^223] como decía en el siglo
+en el vencedor".[^215] Los eventos de alegría se consideraban reflejados
+en el semblante de la familia real,[^216] eran parte de la corporalidad
+del rey que se extendía en la república;[^217] como decía en el siglo
 XVII Andrés Mendo: "De su mano salen los premios; de su orden los
-castigos: de su semblante la alegria, o el dolor del Pueblo".[^224] La
+castigos: de su semblante la alegria, o el dolor del Pueblo".[^218] La
 alegría se diferenciaba semánticamente de la felicidad en tanto esta
 última se consideraba un estado permanente a conseguir, en este sentido,
 se relacionaba con el orden de justicia que garantizaba la equidad y la
 paz, como declaraba Carlos III en la ordenanza de intendentes de 1786:
 "desde mi exaltación al Trono he procurado uniformar el gobierno de los
 grandes Imperios que Dios me ha confiado, y poner en buen orden,
-felicidad y defensa mis dilatados Dominios de las dos Américas".[^225]
+felicidad y defensa mis dilatados Dominios de las dos Américas".[^219]
 No significa esto que la idea de felicidad pública haya sido una
 innovación del siglo XVIII, la tratadística "barroca" era clara en
 considerar que la espada y la ley eran la garantía de la felicidad de la
-república;[^226] lo que vino a innovar la casa borbónica fue la idea de
+república;[^220] lo que vino a innovar la casa borbónica fue la idea de
 que para poder alcanzar la felicidad era necesario reformar la manera de
-gobernar.[^227]
+gobernar.[^221]
 
 Durante las últimas décadas del siglo XVIII la idea de la felicidad
 asociada al progreso material de la república empieza a permear el
-discurso público.[^228] Según Paquette, la redefinición política del
+discurso público.[^222] Según Paquette, la redefinición política del
 término sirvió para modificar y expandir la función "del estado" en la
 sociedad. En particular, involucró al gobierno de la república en el
 propósito de fortalecer a sus vasallos mediante el incremento de la
 riqueza personal, el aumento de la población, y el fomento del
-comercio.[^229] Como lo resumió Francisco Sánchez-Blanco: "Esa
+comercio.[^223] Como lo resumió Francisco Sánchez-Blanco: "Esa
 'felicidad' comienza con la paz y tranquilidad del país y termina con
-todas las disposiciones concretas para la buena 'policía'".[^230] El
+todas las disposiciones concretas para la buena 'policía'".[^224] El
 avance de esta idea de felicidad general parece coincidir con la
 política de indultos generales, tanto Carlos III como Carlos IV, quienes
 continuaron concediendo indultos generales "en celebridad" de
@@ -1496,7 +1462,7 @@ y los abusos de la jurisdicción eclesiástica. En continuidad de esta
 política, el Consejo de Regencia señaló en 1810 que concedían un indulto
 general "deseando señalar el feliz acontecimiento de su instalación \[de
 las cortes de Cádiz\] con una demostracion de Clemencia en favor de los
-subditos españoles".[^231]
+subditos españoles".[^225]
 
 Con Fernando VII se inaugura una fórmula diferente:
 
@@ -1509,7 +1475,7 @@ Con Fernando VII se inaugura una fórmula diferente:
 > antes, en quanto permitan las leyes y la situacion del Reyno, la
 > suerte de los desgraciados que gimen baxo el peso de sus crímenes: he
 > venido en conceder Indulto general á los delinqüentes que sean capaces
-> de él.[^232]
+> de él.[^226]
 
 El contexto específico de este indulto obligaba a Fernando VII a
 mencionar el haber afianzado la paz y tranquilidad de sus dominios, pero
@@ -1520,7 +1486,7 @@ consejero Pedro González de Salcedo según la cual estos eventos de
 júbilo personal impulsaban al rey a usar la piedad para que no "se
 mengüe la alegria comun, con el dolor, y aflicción del particular, que
 padece en los temores, anticipada la pena del justo castigo de su
-culpa".[^233] De manera similar, la cédula justifica la indulgencia de
+culpa".[^227] De manera similar, la cédula justifica la indulgencia de
 Fernando VII afirmando que el rey sería incapaz de "gozar completamente
 de la felicidad" sabiendo que hay "desgraciados que gimen baxo el peso
 de sus crímenes". Para 1819, en sus terceras nupcias con María Josefa de
@@ -1530,14 +1496,14 @@ los españoles una tierna Madre en mi muy amada y querida Esposa la
 REINA, y no pudiendo gozar completamente de la felicidad que me prepara
 este dia sin aliviar antes en cuanto permitan las leyes y la situacion
 del Reino la suerte de los desgraciados que gimen bajo el peso de sus
-crímenes".[^234]
+crímenes".[^228]
 
 Es posible que la inclusión en los indultos de la palabra "felicidad"
 fuese simplemente lexicográfico, pero la cédula real sería leída en cada
 ciudad del reino donde hubiese una autoridad, su copia fijada en las
 puertas del cabildo, por lo tanto la fuerza ilocutiva de la palabra era
 diferente al estar plasmada en un edicto regio que en un periódico,
-libro, panfleto, o pasquín.[^235] Vincular la clemencia con una palabra
+libro, panfleto, o pasquín.[^229] Vincular la clemencia con una palabra
 fundamental del léxico "ilustrado", apropiada por los republicanos de
 principios del siglo XIX, de cierta manera "moderniza" una categoría
 tradicional arraigada no en el "barroco" sino en la misma configuración
@@ -1563,62 +1529,62 @@ indispensables para retornar al favor de dios: el arrepentimiento
 (contrición o atrición), la confesión, y la absolución. La penitencia
 también era considerada como una virtud en tanto representaba el
 aborrecimiento del pecado, específicamente, el dolor que sentía el
-penitente por lo errores pasados.[^236] Era virtud en tanto la
+penitente por lo errores pasados.[^230] Era virtud en tanto la
 repugnancia de sus actos se debiese al haberse apartado de Dios con la
 falta, pero no podía considerarse arrepentimiento si este sólo se
-afligía por las consecuencias de sus actos;[^237] por ejemplo, si el
+afligía por las consecuencias de sus actos;[^231] por ejemplo, si el
 ladrón se dolía por ser puesto preso pero no porque al robar violó un
 sagrado mandamiento, entonces no podía considerarse como virtud a su
 pena. Es por ello que, según explicaba Murillo Velarde, la penitencia no
 se hacía con la esperanza del perdón (*spe veniæ*), sino por la
-desesperación sobrenatural que produce el desagrado del pecado.[^238]
+desesperación sobrenatural que produce el desagrado del pecado.[^232]
 Esta era la primera diferencia entre el perdón real y la penitencia, ya
 que el reo, sobre todo el ausente, confesaba su falta con el expreso
 propósito de obtener el indulto, con el sólo deseo de ser abrigado por
 la gracia regia.
 
 "Sacramento es gracia divina", dijo Martín de Azpilcueta en su *Manual
-de confesores y penitentes*,[^239] por lo tanto, se debería entender
+de confesores y penitentes*,[^233] por lo tanto, se debería entender
 como un don que Jesucristo brindó a los hombres (según quedó establecido
 desde el concilio de Trento) tras su resurrección, cuya facultad para
 iterar el perdón habría sido concedida a los apóstoles tras su aparición
 al decirles (de acuerdo con Jn 20:23): "A quienes remitiereis los
 pecados, les son remitidos; y a quienes se los retuviereis, les son
-retenidos".[^240] Por esta razón se consideraba que de la misma manera
+retenidos".[^234] Por esta razón se consideraba que de la misma manera
 que sólo un sacerdote tenía la facultad para distribuir el bautismo y
 con ello liberar a los fieles del pecado original, eran éstos quienes
 tenían la capacidad de absolver de los pecados en nombre de dios; de
 allí que la fórmula *ego te absolvo a peccatis tui* fuera la establecida
-por el concilio tridentino para conferir la gracia divina.[^241] El
+por el concilio tridentino para conferir la gracia divina.[^235] El
 resaltar el rol indispensable del sacerdote en la absolución divina era
 una clara respuesta a las posibles interpretaciones que pudiesen hacerse
 desde el protestantismo, en particular aquellas que consideraban que el
 mero acto de atrición o contrición podía resultar en el perdón de
-dios.[^242] El sacramento de la penitencia es sinónimo de absolución
+dios.[^236] El sacramento de la penitencia es sinónimo de absolución
 hecha por el sacerdote a los pecados de aquel que los confiesa
-legítimamente y es de su jurisdicción espiritual;[^243] es decir, que ha
+legítimamente y es de su jurisdicción espiritual;[^237] es decir, que ha
 incumplido con el Decálogo, las obligaciones con la iglesia (oír misa
 entera los domingos, ayunar los días establecidos, pagar los diezmos,
-confesarse por lo menos una vez al año,[^244] y comulgar en Pascua), los
+confesarse por lo menos una vez al año,[^238] y comulgar en Pascua), los
 siete sacramentos, o ha cometido pecados mortales.
 
 La forma sacramental de la absolución configura un tribunal en el que el
-pecador es juzgado por la conciencia y el sacerdote, [^245] pero no se
+pecador es juzgado por la conciencia y el sacerdote, [^239] pero no se
 representaba a la penitencia como una mímica de la justicia ordinaria
 (es decir, a la usanza de los tribunales temporales y eclesiásticos);
 por el contrario, los conciliares de Trento determinaron que la
 absolución sacramental era un acto judicial e interpretarla de otra
-manera sería señal de herejía.[^246] Como lo dijo Murillo Velarde: "Esta
+manera sería señal de herejía.[^240] Como lo dijo Murillo Velarde: "Esta
 absolución es un acto judicial y no un mero ministerio de pronunciar y
-de declarar que han sido perdonados los pecados de la confesión".[^247]
+de declarar que han sido perdonados los pecados de la confesión".[^241]
 La anterior era una ratificación de que el catolicismo consideraba que
-el único juez que podía dar la absolución era el sacerdote,[^248] en
+el único juez que podía dar la absolución era el sacerdote,[^242] en
 clara contraposición a las "herejías" de John Wycliffe y Martín Lutero,
 quienes no consideraban necesaria la ordenación sacerdotal para mediar
-en la absolución de los pecados.[^249]
+en la absolución de los pecados.[^243]
 
 En el acto judicial debían cumplirse con tres condiciones de penitencia:
-la contrición, la confesión y la satisfacción,[^250] de tal modo que en
+la contrición, la confesión y la satisfacción,[^244] de tal modo que en
 caso de que no se diera por satisfecho una de éstas, como en el caso de
 una confesión falsa o que ocultara información, el sacerdote tenía la
 facultad de aplazar la absolución. Una buena parte de la reforma
@@ -1633,11 +1599,11 @@ el favor recibido. Así lo resumía el tratadista: "No es contra razón,
 que uno torne a la gracia, y amistad de Dios por la contrición, que
 perdona los pecados, y quede obligado a la confesión. Como tampoco lo
 es, que uno sea perdonado del rey, y recibido a su gracia, y que quede
-obligado a servirle un año en las guerras de África".[^251] Para
+obligado a servirle un año en las guerras de África".[^245] Para
 extender la comparación de Azpilcueta, podría entenderse la absolución
 como una forma de perdón condicional, en el cual la gracia quedaba
 restringida al cumplimiento de una actividad, aunque en este caso no era
-un servicio sino el acto de la confesión.[^252]
+un servicio sino el acto de la confesión.[^246]
 
 Hasta ese punto la salvación quedaría garantizada para el confesor, sin
 embargo, permanecía el problema de la pena temporal. De manera general,
@@ -1647,28 +1613,28 @@ interno, es decir, libraba del dolor del arrepentimiento y del yerro del
 pecado, pero la pena espiritual y temporal no estaría reparada hasta que
 se cumpliese con su satisfacción. La definición que daba el *Catecismo
 romano* a la satisfacción era "la recompensa de la injuria hecha a
-otro",[^253] y podía lograrse ya fuese después de la muerte en el
+otro",[^247] y podía lograrse ya fuese después de la muerte en el
 purgatorio, en vida con obras satisfactorias, o con indulgencias; estas
 últimas consideradas como el modo "más fácil de satisfacer por los
-pecados" al favorecer el tesoro de la iglesia.[^254] Los canonistas
+pecados" al favorecer el tesoro de la iglesia.[^248] Los canonistas
 dejaban claro que la satisfacción no era intrínseca al sacramento de la
 penitencia sino parte de ésta, de tal manera que no se pretendiera
-alcanzar la salvación al reparar el daño o restituir la cosa,[^255]
+alcanzar la salvación al reparar el daño o restituir la cosa,[^249]
 evadiendo con ello la confesión. En aquellos casos en los cuales el
 pecador había incumplido en el fuero interno era suficiente con un acto
 de penitencia que fuese contrario a su falta, verbigracia, conminar al
-avaro a dar limosna, o al lujurioso a lastimar su carne.[^256] No
+avaro a dar limosna, o al lujurioso a lastimar su carne.[^250] No
 obstante, en las situaciones en las que el yerro resultaba en una pena
 temporal, ésta debía ser satisfecha en ambos fueros: el interno y el
 externo. Lo anterior se puede ejemplificar con el delito de estupro.
 Alonso de la Peña recomendaba que a los indios culpables de violencia se
 les castigara en el fuero externo con azotes y en el fuero interno se
 les ordenara al agresor "que encomiende á Dios á la persona ofendida y
-agraviada";[^257] sin que fuera necesario que se casara con la víctima
+agraviada";[^251] sin que fuera necesario que se casara con la víctima
 (como se acostumbraba en estos casos para liberar al ofensor de la
 sentencia), pues se consideraba que entre los indígenas "no llega á
 tanto la estimación que hacen de la virginidad, que pierdan
-casamiento".[^258]
+casamiento".[^252]
 
 El sacramento de la penitencia, aunque podía conllevar una pena en el
 plano temporal, no era un acto jurídico equivalente en el derecho real.
@@ -1683,17 +1649,17 @@ pública, para lo cual la confesión era considerada como el mecanismo por
 excelencia para determinar la culpabilidad del acusado; en el segundo se
 pretendía que la iglesia fuera ante todo dispensadora del perdón divino,
 por lo que la confesión en este caso no era condición para condenar sino
-para salvar.[^259] Paolo Prodi, desde la lectura de la patrística,
+para salvar.[^253] Paolo Prodi, desde la lectura de la patrística,
 encontró que esta idea se construyó muy temprano en el derecho del alto
 medioevo europeo: "la penitencia no suprime el delito, pero mientras
 confesar al juez lleva a la pena, confesarse ante Dios lleva al
-perdón";[^260] siempre y cuando ésta última fuese verdadera.[^261] Por
+perdón";[^254] siempre y cuando ésta última fuese verdadera.[^255] Por
 ende, ante una misma acción el sujeto debía responder por el pecado y el
 delito, parafraseando a Bartolomé Clavero, el confesante se encontraba
-entre dos fueros, aunque la transgresión fuese la misma.[^262] En la
+entre dos fueros, aunque la transgresión fuese la misma.[^256] En la
 situación más extrema, el condenado a morir en el patíbulo al confesar
 sus fallas no se liberaba de la pena, pero "la confesión le abría la
-puerta del cielo".[^263]
+puerta del cielo".[^257]
 
 Gracias a la discusión abierta por Tomás y Valiente relacionada con la
 relación entre delito y pecado, seguida por una importante cantidad de
@@ -1709,7 +1675,7 @@ del perdón real, se encontraban en convergencia con los delitos
 mortales, de los cuales seguía la condena eterna. La sentencia de último
 suplicio era indicador de que la falla era irremisible en el fuero
 externo, a la vez que coincidía con una violación grave de la ley
-divina.[^264] El profesor Aniceto Masferrer ha cuestionado esta
+divina.[^258] El profesor Aniceto Masferrer ha cuestionado esta
 concordancia entre delito y pecado al considerar que deberían entenderse
 que estos crímenes se encuentran vinculados a una tradición propia más
 cercana a la moral que a la noción teológica del pecado. Argumenta que,
@@ -1718,7 +1684,7 @@ correcto considerar que delitos como la herejía, el adulterio, o el
 suicidio, fueran considerados como tales sólo por el hecho de ser
 pecados mortales. De hecho, si existiese una equivalencia entre delito y
 pecado, sería lógico que la remisión de los crímenes se pudiera obtener
-en el tribunal de la penitencia.[^265]
+en el tribunal de la penitencia.[^259]
 
 La cuestión es que tratamos aquí de dos perdones diferentes, ofrecidos
 por dos potestades, una divina y una humana; por lo tanto, no es en la
@@ -1733,20 +1699,20 @@ la gravedad de su delito, pudiese aspirar a la gracia regia incluso al
 borde del patíbulo. Bartolomé Clavero resume lo anterior en la siguiente
 frase: "Los delitos, como los pecados, estaban para ser condenados, pero
 también para resultar perdonados; las penas, como las penitencias, para
-aplicarse, mas igualmente para condonarse".[^266] En un tribunal de
+aplicarse, mas igualmente para condonarse".[^260] En un tribunal de
 fuero mixto como el de la Inquisición, el arrepentimiento del reo
 tendría un efecto de minoración de la pena que no se mostraría en un
 tribunal de la justicia real. Por lo tanto, en un juzgado que
 específicamente se había formado para perseguir el pecado, la confesión
 tenía el mismo efecto absolutorio (si cumplía con las condiciones de
 contrición, confesión y satisfacción) que en el sacramento de la
-penitencia.[^267] El problema estaría en la separación progresiva entre
+penitencia.[^261] El problema estaría en la separación progresiva entre
 delito y pecado como jurisdicciones particulares del fuero común y del
 espiritual respectivamente, por lo que entre más se avanza hacia el
 siglo XIX será mayor la tendencia a considerar que a penitencia como
 exclusiva de la conciencia, dejando a los juzgados ordinarios la tarea
 de decidir de acuerdo con la ley sin consideraciones propias del fuero
-interno del acusado.[^268]
+interno del acusado.[^262]
 
 El arrepentimiento podría considerarse como el punto de convergencia
 entre la absolución por la penitencia y el perdón real. Como se mostró
@@ -1756,13 +1722,13 @@ considerada válida y la absolución sería nula. Los teólogos consideraban
 además que el arrepentirse del pecado no conllevaba solamente el hecho
 de lamentarse por haber errado, sino convencerse de no volver a pecar,
 por lo tanto, se apelaba a una especie de promesa de no reincidencia del
-relapso.[^269] Así como en la justicia ordinaria se consideraba que el
+relapso.[^263] Así como en la justicia ordinaria se consideraba que el
 temor al castigo era el freno del criminal, en la doctrina católica se
 pretendía inculcar en los fieles el temor al castigo eterno y al dolor
 que causarían las faltas en el más allá; y esto era especialmente
 importante para el caso del adoctrinamiento de los indígenas, pues como
 decía Peña Montenegro, "para con los Indios es muy provechoso llevarlos
-á la verdad por el temor; que son hijos del castigo".[^270] Para el caso
+á la verdad por el temor; que son hijos del castigo".[^264] Para el caso
 del perdón real el arrepentimiento no era una condición *sine qua non*
 para acceder a la gracia, es decir, no se exigía un acto de contrición
 que demostrara que no reincidiría en el crimen después de liberado. Aun
@@ -1772,7 +1738,7 @@ rey y la república. En ocasiones, la cédula que facultaba al virrey del
 Nuevo Reino para perdonar delitos incluía la mención de haber otorgado
 el perdón por adelantado a los delincuentes de esas provincias por haber
 actuado con ignorancia, es decir sin maldad, y hallarse "ya arrepentidos
-y prontos a obedecer mis mandatos".[^271]
+y prontos a obedecer mis mandatos".[^265]
 
 [^1]: Juan Marchena Fernández, "Sin temor de rey ni de dios. Violencia,
     corrupción y crisis de autoridad en la Cartagena colonial", en
@@ -2814,41 +2780,21 @@ y prontos a obedecer mis mandatos".[^271]
     DADUN, fondo antiguo, siglo 18, URI:
     [[http://hdl.handle.net/10171/30545]{.underline}](http://hdl.handle.net/10171/30545)
 
-[^180]: Martha C. Nussbaum, *Upheavals of thought: the intelligence of
-    emotions* (Cambridge ; New York: Cambridge University Press, 2001),
-    364--68.
-
-[^181]: "La senda amorosa del derecho", 36.
-
-[^182]: Victoria Sandoval Parra, *Manera de galardón: merced pecuniaria
-    y extranjería en el siglo XVII*, Sección de obras de historia
-    (Madrid: Fondo de Cultura Económica : Red Columnaria, 2014), 23; de
-    Dios, "El ejercicio de la gracia regia en Castilla entre 1250 y
-    1530, los inicios del Consejo de la Cámara", 339.
-
-[^183]: Martha C. Nussbaum, *Political emotions: why love matters for
-    justice* (Cambridge: The Belknap Press of Harvard University Press,
-    2013), 2.
-
-[^184]: Nussbaum, 20.
-
-[^185]: Kantorowicz, *Los dos cuerpos del rey*, cap. Introducción.
-
-[^186]: Antonio Feros, *El Duque de Lerma: realeza y privanza en la
+[^180]: Antonio Feros, *El Duque de Lerma: realeza y privanza en la
     España de Felipe III*, Historia (Madrid: Marcial Pons, 2002),
     160--64.
 
-[^187]: Annick Lempérière, *Entre Dios y el rey: la república. La ciudad
+[^181]: Annick Lempérière, *Entre Dios y el rey: la república. La ciudad
     de México de los siglos XVI al XIX*, trad. Ivette Hernández Perez
     Vertti (México: Fondo de Cultura Económica, 2013), 249--50.
 
-[^188]: Jonathan I. Israel, *La ilustración radical. La filosofía y la
+[^182]: Jonathan I. Israel, *La ilustración radical. La filosofía y la
     construcción de la modernidad 1650-1750*, Primera edición
     electrónica (México: Fondo de Cultura Económica, 2017), 276.
 
-[^189]: Hespanha, "La senda amorosa del derecho", 40.
+[^183]: Hespanha, "La senda amorosa del derecho", 40.
 
-[^190]: Hespanha, 38; Hespanha, "La economía de la gracia", 167--68.
+[^184]: Hespanha, 38; Hespanha, "La economía de la gracia", 167--68.
     Claudio Lomnitz considera que este tipo de reciprocidad es negativa
     y asimétrica, es decir, "un tipo de intercambio en el que la
     coerción se emplea para inaugurar una relación de dominación que
@@ -2858,14 +2804,14 @@ y prontos a obedecer mis mandatos".[^271]
     Claudio Lomnitz, "Sobre reciprocidad negativa", *Revista de
     Antropología Social* 14 (2005): 334.
 
-[^191]: López de Cuéllar, *Tratado iuridico-politico*, núm. 109 y 115.
+[^185]: López de Cuéllar, *Tratado iuridico-politico*, núm. 109 y 115.
     Mastrillo, *Ad indultum generale*, cap. V, núm. 1.
 
-[^192]: Específicamente en el Código, lib. IX, tít. L.
+[^186]: Específicamente en el Código, lib. IX, tít. L.
 
-[^193]: Mastrillo, *Ad indultum generale*, cap. V, núm. 1.
+[^187]: Mastrillo, *Ad indultum generale*, cap. V, núm. 1.
 
-[^194]: "per indulgentia et remissionem principis, quia si rex, vel
+[^188]: "per indulgentia et remissionem principis, quia si rex, vel
     princeps remittat poenam delinquenti liberatur a tota poena
     \[\...\]. Et talis remissio potest per principem fieri dupliciter:
     primo generaliter remittendo poenam delinquentibus, accusatis,
@@ -2874,35 +2820,35 @@ y prontos a obedecer mis mandatos".[^271]
     novissima (Londres: Petri Bruyset et sociorum, 1744), tomo III, cap.
     XIII, núm. 38.
 
-[^195]: "Real Cédula dada en San Ildefonso al virrey del Perú,
+[^189]: "Real Cédula dada en San Ildefonso al virrey del Perú,
     suspendiendo el indulto por segunda vez a los delincuentes por
     contrabando", San Ildefonso, 10 de octubre de 1725, AGNC, sección
     colonia, miscelánea, tomo 59, doc. 2, f. 4r. La misma cédula se
     envió al virrey de Nueva España, AGI, Indiferente General, legajo
     538, libro YY11, f. 262r.
 
-[^196]: Acerca de la distinción entre perdón de los pecados por el
+[^190]: Acerca de la distinción entre perdón de los pecados por el
     sacramento de la penitencia y el perdón interpersonal véase David
     Konstan, *Before Forgiveness: The Origins of a Moral Idea*
     (Cambridge ; New York: Cambridge University Press, 2010), 143--45.
 
-[^197]: Francisco Antonio de Elizondo, *Práctica universal forense de
+[^191]: Francisco Antonio de Elizondo, *Práctica universal forense de
     los tribunales de España y de las Indias*, tomo V (Madrid: Joaquín
     Ibarra, 1785), parte II, cap. XIV, núm. 6.
 
-[^198]: Fray Benito de la Soledad, *Memorial historial y política
+[^192]: Fray Benito de la Soledad, *Memorial historial y política
     cristiana* (Viena: Juan van Ghelen, 1703), 207. Sobre la obra del
     fraile véase José María Iñurritegui Rodríguez, "Desdichada España.
     Despotismo y crisis política en el «Memorial historial» de fray
     Benito de la Soledad", *Cuadernos Dieciochistas* 15 (2015): 109--33.
 
-[^199]: "Doña Maria Ygnacia Admiñahorta, muger legítima de Don Joseph de
+[^193]: "Doña Maria Ygnacia Admiñahorta, muger legítima de Don Joseph de
     Solinas, solicita el indulto de su marido," AGNC, sección colonia,
     juicios criminales, tomo 87, doc. 27, f. 844v.
 
-[^200]: "Doña Maria Ygnacia Admiñahorta," f. 846r.
+[^194]: "Doña Maria Ygnacia Admiñahorta," f. 846r.
 
-[^201]: Al respecto es interesante el análisis que realizó Christoph
+[^195]: Al respecto es interesante el análisis que realizó Christoph
     Rosenmüller para el caso novohispano en "'The Execrable Offense of
     Fraud or Bribery': Corrupt Judges and Common People in the Visita of
     Imperial Mexico (1715--1727)", en *Corruption in the Iberian
@@ -2917,20 +2863,20 @@ y prontos a obedecer mis mandatos".[^271]
     Nacional de Ciencia y Tecnología : Instituto de Investigaciones
     Históricas, Universidad Nacional Autónoma de México, 2015), 93--95.
 
-[^202]: Hespanha, "La economía de la gracia".
+[^196]: Hespanha, "La economía de la gracia".
 
-[^203]: Cañeque, "The Emotions of Power", 114--15.
+[^197]: Cañeque, "The Emotions of Power", 114--15.
 
-[^204]: Al parecer el reinado de Enrique IV de Castilla también fue
+[^198]: Al parecer el reinado de Enrique IV de Castilla también fue
     pródigo en este tipo de gracias, hasta el punto que las Cortes le
     rogaron al rey que moderara la promulgación de perdones pues estaba
     incentivando la osadía de sus vasallos hasta el punto que se
     atrevían a blasfemar públicamente. Rodríguez Flores, *El perdón
     real*, 52--53.
 
-[^205]: *Partidas*, P. VII, tít. 32, ley I.
+[^199]: *Partidas*, P. VII, tít. 32, ley I.
 
-[^206]: Rodríguez Flores, *El perdón real*, 52; Gibran Bautista y Lugo,
+[^200]: Rodríguez Flores, *El perdón real*, 52; Gibran Bautista y Lugo,
     "Castigar o perdonar. El gobierno de Felipe IV ante la rebelión de
     1624 en México" (Tesis doctoral, Universidad Nacional Autónoma de
     México, 2014), cap. 5; Violet Soen, "Reconquista and Reconciliation
@@ -2938,22 +2884,22 @@ y prontos a obedecer mis mandatos".[^271]
     Farnese (1578-1592)", *Journal of Early Modern History* 16, núm. 1
     (2012): 1--22, https://doi.org/10.1163/157006512X620627.
 
-[^207]: Mastrillo, *Ad indultum generale*, cap. I, n. 1. Sobre el
+[^201]: Mastrillo, *Ad indultum generale*, cap. I, n. 1. Sobre el
     indulto de 1606 y el tratado de Mastrillo véase: López de Cuéllar,
     *Tratado iuridico-politico*, n. 20. Elizondo, *Práctica universal
     forense*, tomo V, parte II, cap. XIV, núm. 3. Bautista y Lugo,
     "Castigar o perdonar", 275.
 
-[^208]: José Antonio de Abreu y Bertodano, *Colección de los tratados de
+[^202]: José Antonio de Abreu y Bertodano, *Colección de los tratados de
     paz, alianza, neutralidad\... hechos por los pueblos, reyes y
     príncipes de España* (Madrid: Antonio Marín, Juan de Zúñiga y la
     viuda de Peralta, 1752), II:369.
 
-[^209]: López de Cuéllar, *Tratado iuridico-politico*, n. 21-23.
+[^203]: López de Cuéllar, *Tratado iuridico-politico*, n. 21-23.
     Elizondo, *Práctica universal forense*, tomo V, parte II, cap. XIV,
     núm. 5. Rodríguez Flores, *El perdón real*, 53.
 
-[^210]: La costumbre consistía en hacer llegar la real cédula dirigida
+[^204]: La costumbre consistía en hacer llegar la real cédula dirigida
     al virrey y los oidores de la Audiencia junto con las copias a las
     demás Audiencias y gobernaciones que estuviesen en el distrito
     virreinal. Por ejemplo, los indultos de 20 de febrero de 1630 y 31
@@ -2970,7 +2916,7 @@ y prontos a obedecer mis mandatos".[^271]
     del Príncipe Felipe Próspero" en AGNC, sección archivo anexo, reales
     cédulas y órdenes.
 
-[^211]: Este listado difiere del presentado por Tomás Mantecón quien
+[^205]: Este listado difiere del presentado por Tomás Mantecón quien
     lastimosamente no hace referencia a las cédulas de promulgación de
     indultos generales. Este autor relaciona ocho indultos generales
     para los años 1719, 1720, 1724, 1760, 1775, 1783, 1789 y 1795, sin
@@ -2980,7 +2926,7 @@ y prontos a obedecer mis mandatos".[^271]
     el ámbito castellano o fueron promulgados para otros reinos.
     Mantecón Movellán, "Los criminales ante la concesión", 63.
 
-[^212]: "Indulto y perdón general concedido por el Rey nuestro señor Don
+[^206]: "Indulto y perdón general concedido por el Rey nuestro señor Don
     Felipe V á todas las Ciudades, Villas, y Lugares del Principado de
     Cataluña, que han faltado á la obediencia, y fee del juramento
     prestado á su Magestad Catholica". Villa de Caspe, 15 de marzo de
@@ -2990,31 +2936,31 @@ y prontos a obedecer mis mandatos".[^271]
     1713, impreso disponible en
     [[https://goo.gl/e9euSF]{.underline}](https://goo.gl/e9euSF).
 
-[^213]: *Partidas*, P. VII, tít. XXXII, ley 1.
+[^207]: *Partidas*, P. VII, tít. XXXII, ley 1.
 
-[^214]: Juan Álvarez Posadilla, *Práctica criminal por principios, o
+[^208]: Juan Álvarez Posadilla, *Práctica criminal por principios, o
     modo y forma de instruir los procesos criminales en sumario y
     plenario...* \[1794\], segunda edición (Madrid: imprenta de la viuda
     de Ibarra, 1796) tomo II, diálogo XL, 482.
 
-[^215]: Antonio Xavier Pérez y López, *Teatro de la legislación
+[^209]: Antonio Xavier Pérez y López, *Teatro de la legislación
     universal de España e Indias*, tomo XVI (Madrid: imprenta de don
     Antonio Espinosa, 1797), 320.
 
-[^216]: "Quia bellum es perditio corporis et animæ et homines ad
+[^210]: "Quia bellum es perditio corporis et animæ et homines ad
     pauperta". "Principis enim victoria est populorum laetitia". Alfonso
     Díaz de Montalvo, glosas "perdón" y "por victoria" a *Partidas*, P.
     VII, tít. 32, ley 1.
 
-[^217]: Antonio Gómez, *Variae resolutiones*, tomo III "de delictis",
+[^211]: Antonio Gómez, *Variae resolutiones*, tomo III "de delictis",
     cap. XIII, núm. 38.
 
-[^218]: Así lo expresó el fiscal del Consejo de Indias en la consulta
+[^212]: Así lo expresó el fiscal del Consejo de Indias en la consulta
     elevada por la Audiencia de Santa Fe por la solicitud de indulto de
     Salvador Rodríguez Fajardo, Madrid, 20 de diciembre de 1768, AGI,
     Audiencia de Santa Fe, 682, doc. 25.
 
-[^219]: Christian Büschges, "La corte virreinal como espacio político.
+[^213]: Christian Büschges, "La corte virreinal como espacio político.
     El gobierno de los virreyes de la América hispánica entre monarquía,
     élites locales y casa nobiliaria", en *El mundo de los virreyes en
     las monarquías de España y Portugal*, ed. Joan-Lluís Palos y Pedro
@@ -3030,35 +2976,35 @@ y prontos a obedecer mis mandatos".[^271]
     varias obras en prosa y verso del excelentísimo señor don Gaspar de
     Jovellanos* (Madrid: imprenta de León Amarita, 1831), IV:40.
 
-[^220]: Saavedra Fajardo, *Idea de un príncipe político christiano*,
+[^214]: Saavedra Fajardo, *Idea de un príncipe político christiano*,
     emp. 99, lema "Hic explicat opes".
 
-[^221]: Saavedra Fajardo, *Idea de un príncipe político christiano*,
+[^215]: Saavedra Fajardo, *Idea de un príncipe político christiano*,
     emp. 96, lema "Memor adversae".
 
-[^222]: Véase por ejemplo la voz "alegría" del *diccionario de
+[^216]: Véase por ejemplo la voz "alegría" del *diccionario de
     autoridades*: "Júbilo y contento interiór del ánimo, acompañado con
     señas exterióres, especialmente en el semblante".
 
-[^223]: Entiéndase corporalidad en el sentido místico de un cuerpo que
+[^217]: Entiéndase corporalidad en el sentido místico de un cuerpo que
     contiene en sí mismo el poder y autoridad de la Corona, no desde la
     perspectiva de Spinoza (considerada impía por los pensadores
     españoles dieciochescos) que la alegría estaba relacionada con el
     placer, y era ésta la que impelía al bien. Israel, *La ilustración
     radical*, 276--79.
 
-[^224]: Mendo, *Príncipe perfecto*, doc. XV, 79.
+[^218]: Mendo, *Príncipe perfecto*, doc. XV, 79.
 
-[^225]: *Real ordenanza para el establecimiento é instrucción de
+[^219]: *Real ordenanza para el establecimiento é instrucción de
     intendentes* (Madrid: \[s.n.\], 1786), proemio.
 
-[^226]: "Para felicidad de un Reyno, y de quien le rige, han de florecer
+[^220]: "Para felicidad de un Reyno, y de quien le rige, han de florecer
     armas, y letras; porque conservan unas, lo que ganan otras". Mendo,
     *Príncipe perfecto*, doc. XVIII.
 
-[^227]: Barrientos Grandon, *El gobierno de las Indias*, 45 y 69.
+[^221]: Barrientos Grandon, *El gobierno de las Indias*, 45 y 69.
 
-[^228]: Véase por ejemplo Carlos Vladimir Villamizar Duarte, *La
+[^222]: Véase por ejemplo Carlos Vladimir Villamizar Duarte, *La
     felicidad del Nuevo Reyno de Granada: el lenguaje patriótico en
     Santafé (1791-1797)*, Colección Centro de Estudios en Historia
     (Bogotá: Universidad Externado de Colombia, 2012), sec. 1576,
@@ -3068,38 +3014,38 @@ y prontos a obedecer mis mandatos".[^271]
     coloniales, XVII (Bogotá: Instituto Colombiano de Antropología e
     Historia, 2014), 35--39.
 
-[^229]: Gabriel B. Paquette, *Enlightenment, governance and reform in
+[^223]: Gabriel B. Paquette, *Enlightenment, governance and reform in
     Spain and its empire 1759-1808*, Cambridge Imperial and
     post-colonial studies series (Basingstoke, New York: Palgrave
     Macmillan, 2008), cap. 2.
 
-[^230]: Francisco Sánchez-Blanco, *El absolutismo y las Luces en el
+[^224]: Francisco Sánchez-Blanco, *El absolutismo y las Luces en el
     reinado de Carlos III* (Madrid: Marcial Pons Historia, 2002), 49.
 
-[^231]: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
+[^225]: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
     tomo 37. AHA, sección Gobierno, fondo Gobernación de Antioquia,
     Reales órdenes, tomo 4, f. 195r.
 
-[^232]: "Indulto general", Madrid, 25 de enero de 1817, copia impresa en
+[^226]: "Indulto general", Madrid, 25 de enero de 1817, copia impresa en
     Santa Fe de Bogotá, imprenta del gobierno por Nicomedes Lora, BNC,
     fondo Pineda, tomo 852, pza. 9.
 
-[^233]: González de Salcedo, *Tratado iuridico-politico*, cap. XXXI,
+[^227]: González de Salcedo, *Tratado iuridico-politico*, cap. XXXI,
     núm. 27.
 
-[^234]: "Indulto general", Madrid, 20 de diciembre de 1819, copia del
+[^228]: "Indulto general", Madrid, 20 de diciembre de 1819, copia del
     impreso ordenada por Francisco de Mosquera y Cabrera, oidor decano
     de la Audiencia del Nuevo Reino de Granada, Cartagena, 15 de junio
     de 1820, AGI, Cuba, 717.
 
-[^235]: Pierre Bourdieu, *¿Qué significa hablar?: economía de los
+[^229]: Pierre Bourdieu, *¿Qué significa hablar?: economía de los
     intercambios lingüísticos*, trad. Esperanza Martínez Pérez (Madrid:
     Akal, 2008), cap. 3.
 
-[^236]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
+[^230]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
     "De pœnitentiis, et remisionibus", núm. 359.
 
-[^237]: Alonso de la Peña Montenegro, *Itinerario para párrocos de
+[^231]: Alonso de la Peña Montenegro, *Itinerario para párrocos de
     indios* \[1668\], nueva edición purgada (Madrid: oficina de Pedro
     Marín, 1771), lib. III, trat. III, "Tratado del dolor". *Catecismo
     del Santo Concilio de Trento para los Párrocos, ordenado por
@@ -3109,10 +3055,10 @@ y prontos a obedecer mis mandatos".[^271]
     impresión (Madrid: en la imprenta de Benito Cano, 1787), par. II,
     cap. IV, núm. 2.
 
-[^238]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
+[^232]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
     núm. 359.
 
-[^239]: Martín de Azpilcueta, *Manual de confessores y penitentes*
+[^233]: Martín de Azpilcueta, *Manual de confessores y penitentes*
     \[1553\], (Salamanca: en casa de Andrea de Portonariis, 1556), cap.
     XXII. Sobre el "Manual de confesores" en el contexto de las reformas
     tridentinas y su impacto posterior, véase Isabel Muguruza Roca, "Del
@@ -3125,7 +3071,7 @@ y prontos a obedecer mis mandatos".[^271]
     peur: la culpabilisation en Occident, XIIIe-XVIIIe siècles* (Paris:
     Fayard, 1983), 222--29.
 
-[^240]: Concilio de Trento, sesión 14, "Doctrina de los santísimos
+[^234]: Concilio de Trento, sesión 14, "Doctrina de los santísimos
     sacramentos de la penitencia y extrema-unción, 25 de noviembre de
     1551", en *El Sacrosanto y Ecumenico Concilio de Trento*, trad.
     Ignacio López de Ayala (Madrid: en la Imprenta Real, 1785), cap. I.
@@ -3133,7 +3079,7 @@ y prontos a obedecer mis mandatos".[^271]
     preámbulo, núm. 16. Murillo Velarde, *Cursus iuris canonici*, lib.
     V, tít. XXXVIII, núm. 360.
 
-[^241]: Otros canonistas consideraban otras fórmulas como válidas, por
+[^235]: Otros canonistas consideraban otras fórmulas como válidas, por
     lo que debe considerarse que el uso de la forma citada fue la
     adoptada y estipulada desde Trento como válida, aunque ya había sido
     planteada como la manera de proceder según Tomás de Aquino, "Summa
@@ -3141,7 +3087,7 @@ y prontos a obedecer mis mandatos".[^271]
     de los santísimos sacramentos de la penitencia y extrema-unción",
     cap. III. Murillo Velarde, lib. V, tít. XXXVIII, núm. 364.
 
-[^242]: No todas las tendencias del protestantismo tuvieron la misma
+[^236]: No todas las tendencias del protestantismo tuvieron la misma
     posición frente a la absolución de los pecados. El luteranismo y el
     anglicanismo (en el siglo XIX también los metodistas) mantuvieron la
     confesión privada, como medio en la primera y como sacramento en la
@@ -3155,10 +3101,10 @@ y prontos a obedecer mis mandatos".[^271]
     Handbook of Sacramental Theology*, Kindle edition (Oxford, United
     Kingdom ; New York, NY: Oxford University Press, 2015).
 
-[^243]: Azpilcueta, *Manual de confessores*, cap. XXII, "Del sacramento
+[^237]: Azpilcueta, *Manual de confessores*, cap. XXII, "Del sacramento
     de la penitencia".
 
-[^244]: Así había quedado impuesto desde el cuarto concilio de Letrán en
+[^238]: Así había quedado impuesto desde el cuarto concilio de Letrán en
     1215 como una estrategia para fortalecer la potestad de la iglesia
     dentro de la pluralidad de fueros medievales. Paolo Prodi,
     *Cristianesimo e potere*, edición electrónica (Bologna: Società
@@ -3167,98 +3113,98 @@ y prontos a obedecer mis mandatos".[^271]
     cristiana. XIV-XVIII secolo*, Nueva edición revisada (Turín:
     Einaudi, 2016), 33.
 
-[^245]: John W. O'Malley, *Trent. What Happened at the Council*
+[^239]: John W. O'Malley, *Trent. What Happened at the Council*
     (Cambridge, MA; Londres: Belknap Press of Harvard University Press,
     2013), 153.
 
-[^246]: Azpilcueta, cap. V, "Del poder saber", núm. 7. Pérez y López,
+[^240]: Azpilcueta, cap. V, "Del poder saber", núm. 7. Pérez y López,
     *Teatro de la legislación*, tomo XXII, voz "penitencias", §VI
     "Concilio tridentino, ses. 14, can. 9, 416.
 
-[^247]: "Quæ absolutio est actus judicialis, et non nudum ministerium
+[^241]: "Quæ absolutio est actus judicialis, et non nudum ministerium
     pronuntiandi, et declarandi, remissa ese peccata confitendi".
     Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII, núm.
     364.
 
-[^248]: Así lo dejaba claro el catecismo de Trento: "Porque no concedió
+[^242]: Así lo dejaba claro el catecismo de Trento: "Porque no concedió
     el Señor á todos la potestad de tan santo ministerio, sino á solos
     los Obispos y Sacerdotes". *Catecismo del Santo Concilio*, par. I,
     cap. XI, núm. 6.
 
-[^249]: "Minister hujus Sacramenti est solus Sacerdos, ut contra Wiclef
+[^243]: "Minister hujus Sacramenti est solus Sacerdos, ut contra Wiclef
     \[sic\], Lutherum, et alios hæreticos credentes, ómnibus Christi
     fidelibus, etiam pueris, et foeminis, potestatem absolvendi ese
     concessam". Murillo Velarde, lib. V, tít. XXXVIII, núm. 366.
 
-[^250]: "in corde ejus contritio in ore ejus confessio, in opere tota
+[^244]: "in corde ejus contritio in ore ejus confessio, in opere tota
     humilitas (id est satisfactio) haec est perfecta, et fructifera
     poenitentia" ("en su corazón la contricción, en su boca la
     confesión, en sus obras toda la humildad (esto es la satisfacción),
     esta es la perfecta y fructífera penitencia.") Murillo Velarde, lib.
     V, tít. XXXVIII, núm. 361.
 
-[^251]: Azpilcueta, cap I, "De la contricson", núm. 15.
+[^245]: Azpilcueta, cap I, "De la contricson", núm. 15.
 
-[^252]: Sobre el perdón condicionado al servicio en la guerra véase
+[^246]: Sobre el perdón condicionado al servicio en la guerra véase
     Rodríguez Flores, *El perdón real*, 73--74.
 
-[^253]: *Catecismo del Santo Concilio*, par. II, cap. V, núm. 62.
+[^247]: *Catecismo del Santo Concilio*, par. II, cap. V, núm. 62.
 
-[^254]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
+[^248]: Murillo Velarde, *Cursus iuris canonici*, lib. V, tít. XXXVIII,
     núms. 376 y 381.
 
-[^255]: Azpilcueta, *Manual de confessores*, cap. XVII, "Que cosa es
+[^249]: Azpilcueta, *Manual de confessores*, cap. XVII, "Que cosa es
     restitucion", núm. 6.
 
-[^256]: Murillo Velarde, lib. V, tít. XXXVIII, núm. 377.
+[^250]: Murillo Velarde, lib. V, tít. XXXVIII, núm. 377.
 
-[^257]: Peña Montenegro, *Itinerario para párrocos de indios*, lib. III,
+[^251]: Peña Montenegro, *Itinerario para párrocos de indios*, lib. III,
     trat. IV, sec. IV, núm. 4.
 
-[^258]: Peña Montenegro, lib. III, trat. IV, sec. IV, núm. 4.
+[^252]: Peña Montenegro, lib. III, trat. IV, sec. IV, núm. 4.
 
-[^259]: Agüero Nazar, *Castigar y perdonar*, 360--67; Delumeau, *La
+[^253]: Agüero Nazar, *Castigar y perdonar*, 360--67; Delumeau, *La
     confesión y el perdón*, 10.
 
-[^260]: Prodi, *Una historia de la justicia*, 43.
+[^254]: Prodi, *Una historia de la justicia*, 43.
 
-[^261]: "Que de pécheurs et de péchés dans le monde et dans toutes les
+[^255]: "Que de pécheurs et de péchés dans le monde et dans toutes les
     conditions! Mais le pardon est toujours là, grâce à la confession.
     Encore faut-il se confesser loyalement". Delumeau, *Le péché et la
     peur*, 517.
 
-[^262]: Bartolomé Clavero, "Delito y pecado", en *Sexo barroco y otras
+[^256]: Bartolomé Clavero, "Delito y pecado", en *Sexo barroco y otras
     transgresiones premodernas*, de Francisco Tomás y Valiente et al.
     (Madrid: Alianza, 1990), 63.
 
-[^263]: Prosperi, *Delitto e perdono*, 33.
+[^257]: Prosperi, *Delitto e perdono*, 33.
 
-[^264]: Francisco Tomás y Valiente, "El Derecho penal de la Monarquía
+[^258]: Francisco Tomás y Valiente, "El Derecho penal de la Monarquía
     absoluta (Siglos XVI, XVII y XVIII)", en *Obras completas*, vol. I
     (Madrid: Centro de Estudios Políticos y Constitucionales, 1997),
     346--48.
 
-[^265]: Aniceto Masferrer Domingo, "La distinción entre delito y pecado
+[^259]: Aniceto Masferrer Domingo, "La distinción entre delito y pecado
     en la tradición penal bajomedieval y moderna: una propuesta
     revisionista de la historiografía española, europea y anglosajona",
     *Anuario de historia del derecho español*, núm. 87 (2017): 723--24.
 
-[^266]: Clavero, "Delito y pecado", 78.
+[^260]: Clavero, "Delito y pecado", 78.
 
-[^267]: Enrique Gacto, "El delito de bigamia y la inquisición española",
+[^261]: Enrique Gacto, "El delito de bigamia y la inquisición española",
     en *Sexo barroco y otras transgresiones premodernas*, de Francisco
     Tomás y Valiente et al. (Madrid: Alianza, 1990), 147--49.
 
-[^268]: Ese es precisamente el tema central de Prodi, *Una historia de
+[^262]: Ese es precisamente el tema central de Prodi, *Una historia de
     la justicia*.
 
-[^269]: Azpilcueta, *Manual de confessores*, cap. I, "De la contrición";
+[^263]: Azpilcueta, *Manual de confessores*, cap. I, "De la contrición";
     Peña Montenegro, *Itinerario para párrocos de indios*, lib. III,
     trat. III, sec. XI-XII.
 
-[^270]: Peña Montenegro, lib. III, trat. III, sec. XIII, núm. 9.
+[^264]: Peña Montenegro, lib. III, trat. III, sec. XIII, núm. 9.
 
-[^271]: "El rey concede facultad al virrey Pizarro para perdonar toda
+[^265]: "El rey concede facultad al virrey Pizarro para perdonar toda
     especie de delitos", 30 de marzo de 1749, AGI, Santa Fe, 575.
     "Cédula expedida al virrey Solís para indultar los delitos que en
     ella se expresan", Buen Retiro, 18 de abril de 1753, AGI, Santa Fe,
