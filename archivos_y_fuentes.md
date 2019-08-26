@@ -34,11 +34,11 @@ Sección colonia, fondo judicial, civil y criminal.
 
 ***Archivo General de Indias (Sevilla)***
 
-Audiencia de Caracas, 81.
+Audiencia de Caracas, 81, 470.
 
 Audiencia de Lima, 691.
 
-Audiencia de Panamá, 299, 358.
+Audiencia de Panamá, 126, 299, 358.
 
 Audiencia de Quito, 358, 398.
 
@@ -55,7 +55,9 @@ Sección colonia:
 
 > Aduanas, tomo 11.
 >
-> Caciques e indios, tomo 41, 45, 54, 75.
+> Caciques e indios, tomos 41, 45, 54, 75.
+>
+> Curas y obispos, tomo 12
 >
 > Historia eclesiástica, tomo 4.
 >
@@ -73,7 +75,7 @@ Sección colonia:
 >
 > Cauca, tomo 3.
 >
-> Cundinamarca, tomo 3, 9.
+> Cundinamarca, tomos 3, 9.
 >
 > Magdalena, tomo 2.
 >
@@ -165,6 +167,26 @@ Señor Bailío Don Pedro Mesía de la Cerda*. BDH-BNE, Mss/3118, 1772.
 *Papeles referentes a los esclavos negros en América*. BDH-BNE,
 Mss/8734, sf.
 
+Mapas y Atlas
+-------------
+
+Codazzi, Agustín, y Manuel María Paz. *Atlas geográfico é histórico de
+la República de Colombia (Antigua Nueva Granada)*. París: A. Lahure,
+1889.
+
+Moreno y Escandón, Francisco Antonio. "Plan Geografico del Virreinato de
+Santafe de Bogota. Nuevo Reyno de Granada, que manifiesta su demarcación
+territorial, islas, ríos principales \[\...\]". AGNC, sección mapoteca,
+fondo 2, SMP2-Ref 1248. Versión digital en la mapoteca de la Biblioteca
+Nacional de Colombia:
+[[http://catalogoenlinea.bibliotecanacional.gov.co/custom/web/content/mapoteca/fmapoteca\_262\_frestrepo\_36/fmapoteca\_262\_frestrepo\_36.htm]{.underline}](http://catalogoenlinea.bibliotecanacional.gov.co/custom/web/content/mapoteca/fmapoteca_262_frestrepo_36/fmapoteca_262_frestrepo_36.htm)
+
+Requena, Francisco. "Mapa de una parte de la America Meridional en que
+se manifiestan los paises pertenecientes al Nuebo Reyno de Granada y
+Capitania General de Caracas". Ega (río Marañón), 1783. Library of
+Congress Geography and Map Division Washington.
+[[https://lccn.loc.gov/2003684535]{.underline}](https://lccn.loc.gov/2003684535).
+
 Fuentes primarias impresas
 --------------------------
 
@@ -211,7 +233,11 @@ Escriche, Joaquín. *Diccionario razonado de legislación y
 jurisprudencia*. Nueva edición reformada y aumentada por León Galindo y
 José Vicente y Caravantes. Madrid: Imprenta de Eduardo Cuesta, 1874.
 
-Feijoo...
+Feijoo, Benito Jerónimo. *Theatro crítico universal, o discursos varios
+en todo genero de materias para desengaño de errores comunes*, tercera
+impresión. Madrid: imprenta de la viuda de Francisco del Hierro, 1732.
+Nueva edición corregida y aumentada. Madrid: por Blas Roman, impresor de
+la Real Academia de Derecho Español y Público, 1781.
 
 Friede, Juan. *Rebelión comunera de 1781: documentos*. 2 vols. Bogotá:
 Instituto Colombiano de Cultura, 1981.
@@ -243,6 +269,13 @@ Jovellanos*, IV:9-95. Madrid: imprenta de León Amarita, 1831.
 
 Levillier, Roberto, ed. *Gobernantes del Perú. Cartas y papeles*. 14
 vols. Madrid: sucesores de Rivadeneira, 1921.
+
+Muro Orejón, Antonio, ed. *Cedulario Americano del siglo XVIII*. Vol.
+II. Sevilla: Escuela de Estudios Hispano-Americanos de Sevilla, 1969.
+
+Ovidius Naso, Publius. *Tristia. Ex Ponto*. Traducido por Arthur L.
+Wheeler. 2a ed. The Loeb Clasical Library 151. Cambridge, Mass.: Harvard
+University Press, 1996.
 
 Silvestre, Francisco. "Apuntes reservados particulares y generales del
 estado actual del Virreinato de Santafé de Bogotá, (1789)". En
@@ -617,8 +650,8 @@ Universidad Rey Juan Carlos. *Biblioteca digital. Colección fondo
 antiguo*. 2018.
 [[https://eciencia.urjc.es/]{.underline}](https://eciencia.urjc.es/)
 
-Software
---------
+Software de análisis de datos
+-----------------------------
 
 Brezina, Vaclav, Tony McEnery, y Matt Timperley. *\#LancsBox* (versión
 4.0). Windows, Java. Lancaster: Lancaster University, 2018.

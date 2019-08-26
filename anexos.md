@@ -50,7 +50,70 @@ Fecha: 10 de diciembre de 1725
 >
 > Igual para el Perú, en 10 de octubre.
 
-Anexo 2. Perdón general del virrey Sebastián de Eslava a los soldados de
+Anexo 2. Real Cédula facultando al Virrey para perdonar delitos (1739)
+
+Fuente: AGNC, sección Archivo Anexo, Reales cédulas y órdenes, tomo 9,
+ff. 736r-738r.
+
+Lugar: San Ildefonso
+
+Fecha: 20 de agosto de 1739
+
+> Don Phelipe &a
+>
+> Por quanto de las alteraziones y desasosiegos que avido en las
+> Provincias del Nuevo Reino de Granada soy imformado que han quedado y
+> hay muchos culpados que con temor del castigo se han ausentado de los
+> lugares donde cometieron los delitos, y como quiera que pudiera yo
+> mandar proceder contra ellos conforme á Justicia y condenarlos en pena
+> de muerte y perdimento de vienes y en otras penas, por el deseo que
+> tengo de la paz y sosiego de aquellas provincias y que se entienda en
+> las instruziones y conversion de los naturales de ellas; y tambien por
+> entender que los tales culpados no tubieron intencion de desservirme;
+> y que siempre han estado y estan aparejados para obedecer mis
+> mandamientos como de su Rey y Señor natural, es mi voluntad que vos
+> Don Sevastian de Eslava theniente general de mis REales egercitos a
+> quien he nombrado por mi Virrey de las mencionadas Provincias del
+> Nuevo Reino de Granada por la confianza que de vuestra persona tengo
+> os doy facultad para que en mi nombre podais perdonar á todas y
+> qualesquier personas que en aquellas partes residieren quales quiera
+> delitos y excesos que hubieren cometido y hecho contra mí Real Corona;
+> por tanto por la presente doy poder y facultad a vos el referido Don
+> Sevastian de Eslava para que si viereis que comviene para la
+> pazificazion y quietud de las citadas provincias de la ciudad de Santa
+> Fee y Nuevo Reino de Granada y demas que se agregan a la Jurisdiccion
+> de este Virreynanto perdonar á todas y qualesquiera personas
+> particulares que haya cometido delitos así antes de la data de esta mi
+> Provision como despues de ella lo podais hazer, pues a las personas
+> que así por vos fueren perdonados; yo por la presente les perdono de
+> los delitos que los perdonareis auqneu sean de calidad que conforme á
+> derecho requiera que fueran expezificados y declarados en esta mi
+> Provision y mando a todas y qualesquier mis justicias asi de estos
+> Reinos y señorios como de las dichas provincias del Nuevo Reyno de
+> Granada y de otras qualesquier partes de las Yndias Yslas y
+> tierrafirme del Mar occeano que no pareze dan de oficio ni a pedimento
+> del Procurador Fiscal ni de otra persona alguna contra los que asi vos
+> hubiereis perdonado ni contra sus vienes quanto a lo criminal
+> reservando (como reservo) a las partes su derecho en quanto a lo civil
+> interes y daño de ellas pues yo por la presente (como dicho es) les
+> remito mi justicia y mando que no puedan ser presos ni asusados ni sus
+> vienes tomados ni embargados ni se puedan hazer ni hagan procesos ni
+> dar sentencias algunas contra ellos en los casos que asi por vos
+> fueren perdonados y su algunos procesos estubieren hechos ó comenzados
+> por la presente los doy por ninguno y los caso y anulo como su no los
+> hubieran hecho y quito de ellos y sus descendientes toda macula e
+> infamia en que por ello hayan incurrido y los restituyo en el estado
+> en que estavan antes que cometiesen los dichos delitos para que en
+> juicio ni fuera de el no se les pida cosa alguna cerca de ello que así
+> es mi voluntad.
+>
+> Dada en San Yldefonso a 20 de Agosto de 1739
+>
+> Yo el Rey
+>
+> Por mandado del Rey nuestro señor. Don Miguel de Villanueva
+
+Anexo 3. Perdón general del virrey Sebastián de Eslava a los soldados de
 Cartagena (1745)
 
 Fuente: AGI, Santa Fe, 940
@@ -157,7 +220,7 @@ Fecha: 7 de abril de 1745
 >
 > Antemí Don Matheo Carraquilla Escrivano y Notario maior.
 
-Anexo 3. Cedula de S. M. concediendo indulto general a todo género de
+Anexo 4. Cedula de S. M. concediendo indulto general a todo género de
 personas, cuyos delitos no merezcan la pena ordinaria de muerte (1746)
 
 Fuente: Depósito Académico Digital Universidad de Navarra, Fondo
@@ -232,7 +295,7 @@ Fecha: 6 de diciembre de 1746
 > en Buen-Retiro á seis de Diciembre de mil setecientos y quarenta y
 > seis. YO EL REY. Don Cenón de Somodevilla.
 
-Anexo 4. Cédula de S. M. concediendo indulto general a todos los
+Anexo 5. Cédula de S. M. concediendo indulto general a todos los
 desertores de las tropas de tierra, armadas navales, y milicias
 regladas, que se presentaren dentro del término de tres meses siguientes
 a su publicación (1746)
@@ -304,69 +367,6 @@ Fecha: 9 de diciembre de 1746
 > se comunique al Consejo de Guerra. Dada en Buen-Retiro á seis de
 > Diciembre de mil setecientos quarenta y seis. YO EL REY. *Don Cenón de
 > Somodevilla* . = Es copia de la Original = *Ensenada*.
-
-Anexo 5. Real Cédula facultando al Virrey para perdonar delitos (1739)
-
-Fuente: AGNC, sección Archivo Anexo, Reales cédulas y órdenes, tomo 9,
-ff. 736r-738r.
-
-Lugar: San Ildefonso
-
-Fecha: 20 de agosto de 1739
-
-> Don Phelipe &a
->
-> Por quanto de las alteraziones y desasosiegos que avido en las
-> Provincias del Nuevo Reino de Granada soy imformado que han quedado y
-> hay muchos culpados que con temor del castigo se han ausentado de los
-> lugares donde cometieron los delitos, y como quiera que pudiera yo
-> mandar proceder contra ellos conforme á Justicia y condenarlos en pena
-> de muerte y perdimento de vienes y en otras penas, por el deseo que
-> tengo de la paz y sosiego de aquellas provincias y que se entienda en
-> las instruziones y conversion de los naturales de ellas; y tambien por
-> entender que los tales culpados no tubieron intencion de desservirme;
-> y que siempre han estado y estan aparejados para obedecer mis
-> mandamientos como de su Rey y Señor natural, es mi voluntad que vos
-> Don Sevastian de Eslava theniente general de mis REales egercitos a
-> quien he nombrado por mi Virrey de las mencionadas Provincias del
-> Nuevo Reino de Granada por la confianza que de vuestra persona tengo
-> os doy facultad para que en mi nombre podais perdonar á todas y
-> qualesquier personas que en aquellas partes residieren quales quiera
-> delitos y excesos que hubieren cometido y hecho contra mí Real Corona;
-> por tanto por la presente doy poder y facultad a vos el referido Don
-> Sevastian de Eslava para que si viereis que comviene para la
-> pazificazion y quietud de las citadas provincias de la ciudad de Santa
-> Fee y Nuevo Reino de Granada y demas que se agregan a la Jurisdiccion
-> de este Virreynanto perdonar á todas y qualesquiera personas
-> particulares que haya cometido delitos así antes de la data de esta mi
-> Provision como despues de ella lo podais hazer, pues a las personas
-> que así por vos fueren perdonados; yo por la presente les perdono de
-> los delitos que los perdonareis auqneu sean de calidad que conforme á
-> derecho requiera que fueran expezificados y declarados en esta mi
-> Provision y mando a todas y qualesquier mis justicias asi de estos
-> Reinos y señorios como de las dichas provincias del Nuevo Reyno de
-> Granada y de otras qualesquier partes de las Yndias Yslas y
-> tierrafirme del Mar occeano que no pareze dan de oficio ni a pedimento
-> del Procurador Fiscal ni de otra persona alguna contra los que asi vos
-> hubiereis perdonado ni contra sus vienes quanto a lo criminal
-> reservando (como reservo) a las partes su derecho en quanto a lo civil
-> interes y daño de ellas pues yo por la presente (como dicho es) les
-> remito mi justicia y mando que no puedan ser presos ni asusados ni sus
-> vienes tomados ni embargados ni se puedan hazer ni hagan procesos ni
-> dar sentencias algunas contra ellos en los casos que asi por vos
-> fueren perdonados y su algunos procesos estubieren hechos ó comenzados
-> por la presente los doy por ninguno y los caso y anulo como su no los
-> hubieran hecho y quito de ellos y sus descendientes toda macula e
-> infamia en que por ello hayan incurrido y los restituyo en el estado
-> en que estavan antes que cometiesen los dichos delitos para que en
-> juicio ni fuera de el no se les pida cosa alguna cerca de ello que así
-> es mi voluntad.
->
-> Dada en San Yldefonso a 20 de Agosto de 1739
->
-> Yo el Rey
->
-> Por mandado del Rey nuestro señor. Don Miguel de Villanueva
 
 Anexo 6. Indulto general de Carlos III con motivo de su exaltación al
 trono (1760) y recepción en Santa Fe
@@ -2530,7 +2530,7 @@ Fecha: 29 de octubre de 1804
 >
 > Sr. Virrey del Nuevo Reyno de Granada
 
-Anexo 24. Indulto concedido por la Junta Suprema de Sevilla (1808)
+Anexo . Indulto concedido por la Junta Suprema de Sevilla (1808)
 
 Fuente: *Gazeta Ministerial de Sevilla*, núm. 2, 4 de junio de 1808,
 15-16.

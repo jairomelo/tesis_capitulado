@@ -325,11 +325,12 @@ individuos dotados de jurisdicción, y aún más importante, que los
 sucesos de Tierra Firme sirvieron como campo de experiencia para tomar
 decisiones en las Cortes y Secretarías peninsulares. El presente trabajo
 se estructura a través de la evaluación del papel del perdón en la
-justicia y el gobierno del virreinato neogranadino, entendiendo que éste
-fue un elemento fundamental dentro de la configuración de la
-legitimación de la autoridad monárquica, particularmente relevante en un
-periodo de grandes transformaciones y resistencias propias del
-denominado "absolutismo" borbónico.
+justicia y el gobierno del virreinato neogranadino, entendiendo que la
+remisión de los delitos era tanto un acto cultural como jurídico, ya que
+si bien la práctica y las cédulas reales definían en líneas generales el
+procedimiento judicial para conceder indultos, buena parte de la
+decisión radicaba en el arbitrio del juez, o del celo con el que
+quisiera preservar el orden y la autoridad real en su jurisdicción.
 
 Bosquejo sobre la historiografía del perdón y la paz
 ----------------------------------------------------
@@ -516,245 +517,452 @@ los gobernantes de la primera mitad del siglo XIX.
 Contexto jurisdiccional
 -----------------------
 
+En el segundo capítulo de esta tesis se realizará una explicación más
+detallada de los diferentes niveles jurisdiccionales relacionados con el
+uso del perdón, en el presente apartado solamente hacemos una
+contextualización general e incompleta del aparato jurisdiccional.[^50]
+Nos centraremos en la jurisdicción real por ser esta el eje de nuestro
+trabajo, aunque debería tenerse en cuenta que
+
+La manera como el rey hacía llegar los efectos de su clemencia hasta el
+más alejado de sus vasallos era por medio del entramado jurisdiccional
+que constituía el aparato de gobierno y justicia de la monarquía
+hispánica. Un indulto que bien podría canalizarse a través de jueces
+ordinarios en los reinos peninsulares, debía pasar por en América por
+mano de virreyes, presidentes, Audiencias, gobernadores, y además por la
+ambigua categoría de "demás jueces y justicias" de las Indias.[^51] Se
+parte del presupuesto que una de las características de los oficios en
+Indias era la flexibilidad, es decir, que a una misma persona se le
+podía atribuir diversas facultades (por ejemplo, virrey, gobernador y
+capitán general) dependiendo de las necesidades de cada provincia. Los
+pleitos por competencia reflejaban esta condición del gobierno de la
+monarquía en el que el orden de las autoridades se superponía y en no
+pocos casos entraban en conflicto.[^52] En el panorama que se presenta a
+continuación, la organización territorial debería asumirse como un "tipo
+ideal", no porque no funcionase, sino porque no era realmente claro cómo
+se estaba ejerciendo la justicia y el gobierno en las ciudades y
+poblados, especialmente de aquellos lugares alejados de las provincias
+cabeceras de Audiencia. No es por ello extraño que un argumento común
+para requerir una nueva subdivisión para la administración de la
+monarquía fuese la distancia que existía entre los oficiales superiores
+y las provincias sujetas.
+
 El virreinato del Nuevo Reino de Granada o de Santa Fe fue la
 institución con la que se planeaba mejorar la administración de la
 región que se conocía como Tierra Firme. A pesar de poco más de dos
 siglos de exploración, buena parte de esa dilatada área era *terra
 incognita*. Para finales de la década de 1780, el gobernador de la
-provincia de Antioquia, Francisco Silvestre, decía que este era un
-virreinato al que no se le conocían "límites por lo ancho".[^50] No
-obstante, como han demostrado las investigaciones recientes, estos
-espacios categorizados por los agentes de la monarquía como
-incontrolables, constituían espacios dinámicos en los que el
-contrabando, el sincretismo religioso, y las alianzas intergrupales,
-configuraban el orden social.[^51]
+provincia de Antioquia, Francisco Silvestre, decía que el de Santa Fe
+era un virreinato al que no se le conocían "límites por lo ancho".[^53]
+Este era un territorio de poblados en las costas y en las estribaciones
+andinas, lo cual dejaba un amplísimo espacio para el control de los
+misioneros que trataban de reducir los grupos indígenas que se ocultaban
+fácilmente entre la espesa selva (véase mapa 1). El límite no lo imponía
+solamente la selva amazónica, el Tapón del Darién es al día de hoy uno
+de los lugares más inexplorados de Sudamérica. No obstante, como han
+demostrado las investigaciones recientes, estos espacios categorizados
+por los agentes de la monarquía como incontrolables, constituían
+regiones en las que el contrabando, el sincretismo religioso, y las
+alianzas intergrupales, configuraban el orden social.[^54]
 
-![](media/image1.jpeg){width="3.322834645669291in"
-height="2.7083661417322835in"}Esta descripción fue acompañada por un
-mapa general del virreinato, titulado *Plan geográfico del virreinato de
-Santafe de Bogota, Nuevo Reyno de Granada*, formado por Francisco Moreno
-y Escandón, fiscal de la Audiencia de Santa Fe, y dibujado por José
-Aparicio Morata.[^52] Este mapa y su correspondiente descripción
-constituyen una de los primeros intentos por organizar la información
-relativa a las demarcaciones jurisdiccionales de los dominios reales en
-el virreinato.[^53]
+El propósito fundamental para la creación del virreinato del Nuevo Reino
+de Granada en 1717 consistió en fortalecer la autoridad real en Tierra
+Firme, un espacio que por su distanciamiento respecto a Lima constituyó
+un gobierno relativamente autónomo del virreinato peruano, a la vez que
+representaba un eslabón débil en la cadena de defensa de los dominios
+americanos.[^55] El contubernio entre contrabandistas, familias
+principales y autoridades reales en los puertos de Portobelo, Panamá y
+Cartagena, configuró las relaciones sociales que organizaban las costas
+del Caribe sudamericano, con redes que se extendían hasta el interior
+del continente por Santa Fe, Guayaquil, Quito y Lima.[^56] Hacer frente
+a este problema podría ayudar a resolver no sólo el comercio Atlántico
+entre los dominios hispánicos, además serviría para revertir los
+privilegios que habían sido concedidos a ingleses, franceses y
+holandeses en el siglo XVII para utilizar los puertos españoles en
+América.[^57] Por otra parte, establecer un virreinato con sede en Santa
+Fe pretendía solucionar las "discordias y alborotos" que se presentaban
+entre los oidores de su Audiencia; lo cual parece haber sido el motivo
+principal para eliminar las audiencias de Quito y Panamá, frecuente
+escenario de enfrentamientos entre oidores y otras autoridades reales,
+comúnmente relacionados con el control del comercio ilícito.[^58]
 
-Tabla 1. Virreyes del Nuevo Reino de Granada (1719-1810)
+La particularidad de la primera creación del virreinato fue que ésta se
+realizó por una decisión ejecutiva del ministro Giulio Alberoni, de la
+cual se excluyó de manera deliberada al Consejo de Indias.[^59] La
+decisión de eliminar el virreinato en 1723 y restaurar las Audiencias de
+Panamá y Quito estuvo conectado directamente a la caída del
+secretario,[^60] aunque la justificación de la cédula fuera "el poco o
+ningún remedio que se ha reconocido con la creación de Virrey".[^61] El
+ascenso de José Patiño significó el resurgimiento del proyecto
+reformista en América. Reconstruyó la mermada Armada y promovió reformas
+militares en Cartagena y Panamá, estableció un sistema de guardacostas
+para intentar mermar el contrabando, fundó la Compañía de Caracas para
+motivar el comercio legal del cacao, y sentó las bases para el
+restablecimiento del virreinato del Nuevo Reino de Granada, esta vez con
+el apoyo de todas las fuerzas políticas de Madrid.[^62]
 
-+---------+---------+---------+---------+---------+---------+---------+
-| **Virre | **Ofici | **Año   | **Año   | **Años  | **Ofici | **Otro  |
-| y**     | o,      | inicio* | final** | en el   | o       | cargo   |
-|         | título  | *       |         | cargo** | posteri | relevan |
-|         | o rango |         |         |         | or**    | te**    |
-|         | anterio |         |         |         |         |         |
-|         | r       |         |         |         |         |         |
-|         | al      |         |         |         |         |         |
-|         | nombram |         |         |         |         |         |
-|         | iento** |         |         |         |         |         |
-+=========+=========+=========+=========+=========+=========+=========+
-| Jorge   | General | 1719    | 1723    | 4       | Conseje |         |
-| de      | del     |         |         |         | ro      |         |
-| Villalo | Callao  |         |         |         | del     |         |
-| nga     |         |         |         |         | Consejo |         |
-| Fortuny |         |         |         |         | Supremo |         |
-|         |         |         |         |         | de      |         |
-| \[Palma |         |         |         |         | Guerra  |         |
-| de      |         |         |         |         |         |         |
-| Mallorc |         |         |         |         |         |         |
-| a,      |         |         |         |         |         |         |
-| 13.VIII |         |         |         |         |         |         |
-| .1664   |         |         |         |         |         |         |
-| --      |         |         |         |         |         |         |
-| Madrid, |         |         |         |         |         |         |
-| 23.V.17 |         |         |         |         |         |         |
-| 40\]    |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Sebasti | Tenient | 1739    | 1749    | 10      | Directo | Secreta |
-| án      | e       |         |         |         | r       | rio     |
-| de      | general |         |         |         | general | de      |
-| Eslava  |         |         |         |         | de      | Estado  |
-|         |         |         |         |         | Artille | y de    |
-| \[Enéri |         |         |         |         | ría     | Despach |
-| z       |         |         |         |         | e       | o       |
-| (Navarr |         |         |         |         | Infante | Univers |
-| a),     |         |         |         |         | ría     | al      |
-| 19.I.16 |         |         |         |         | español | de la   |
-| 85      |         |         |         |         | a       | Guerra  |
-| --      |         |         |         |         |         | (1754-1 |
-| Madrid, |         |         |         |         |         | 759)    |
-| 21.VI.1 |         |         |         |         |         |         |
-| 759\]   |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| José    | Vicealm | 1749    | 1753    | 4       | Muere   |         |
-| Alfonso | irante  |         |         |         | por     |         |
-| Pizarro |         |         |         |         | enferme |         |
-|         |         |         |         |         | dad     |         |
-| \[Murci |         |         |         |         |         |         |
-| a,      |         |         |         |         |         |         |
-| 1689 -- |         |         |         |         |         |         |
-| Madrid, |         |         |         |         |         |         |
-| 1755\]  |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| José    | Guardia | 1753    | 1761    | 8       | Se      |         |
-| Solís   | de      |         |         |         | ordena  |         |
-| Folch   | Corps   |         |         |         | como    |         |
-|         |         |         |         |         | francis |         |
-| \[Madri |         |         |         |         | cano    |         |
-| d,      |         |         |         |         |         |         |
-| 4.II.17 |         |         |         |         |         |         |
-| 16      |         |         |         |         |         |         |
-| --      |         |         |         |         |         |         |
-| Santa   |         |         |         |         |         |         |
-| Fe,     |         |         |         |         |         |         |
-| 27.IV.1 |         |         |         |         |         |         |
-| 770.\]  |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Pedro   | Conseje | 1761    | 1772    | 11      | Retiro  |         |
-| Mesía   | ro      |         |         |         |         |         |
-| de la   | del     |         |         |         |         |         |
-| Cerda   | Consejo |         |         |         |         |         |
-|         | Supremo |         |         |         |         |         |
-| \[Córdo | de      |         |         |         |         |         |
-| ba,     | Guerra  |         |         |         |         |         |
-| 11.II.1 |         |         |         |         |         |         |
-| 700     |         |         |         |         |         |         |
-| --      |         |         |         |         |         |         |
-| Madrid, |         |         |         |         |         |         |
-| 15.IV.1 |         |         |         |         |         |         |
-| 783\]   |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Manuel  | Tenient | 1772    | 1776    | 4       | Virrey  |         |
-| de      | e       |         |         |         | del     |         |
-| Guirior | general |         |         |         | Perú    |         |
-|         |         |         |         |         | (1776-1 |         |
-| \[Aoyz  |         |         |         |         | 780)    |         |
-| (Navarr |         |         |         |         |         |         |
-| a),     |         |         |         |         |         |         |
-| 21.III. |         |         |         |         |         |         |
-| 1708    |         |         |         |         |         |         |
-| --      |         |         |         |         |         |         |
-| Madrid, |         |         |         |         |         |         |
-| 25.XI.1 |         |         |         |         |         |         |
-| 788\]   |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Manuel  | Tenient | 1776    | 1782    | 6       | Virrey  |         |
-| Antonio | e       |         |         |         | de      |         |
-| Flórez  | general |         |         |         | Nueva   |         |
-|         |         |         |         |         | España  |         |
-| \[Sevil |         |         |         |         | (1787-1 |         |
-| la,     |         |         |         |         | 789)    |         |
-| 27.V.17 |         |         |         |         |         |         |
-| 23      |         |         |         |         |         |         |
-| --      |         |         |         |         |         |         |
-| Madrid, |         |         |         |         |         |         |
-| 20.III. |         |         |         |         |         |         |
-| 1799\]  |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Juan de | Marisca | 1782    | 1782    | 0       | Muere   |         |
-| Torreza | l       |         |         |         | por     |         |
-| r       | de      |         |         |         | enferme |         |
-| y Díaz  | campo   |         |         |         | dad     |         |
-| Pimient |         |         |         |         |         |         |
-| a       |         |         |         |         |         |         |
-|         |         |         |         |         |         |         |
-| \[? --  |         |         |         |         |         |         |
-| Santa   |         |         |         |         |         |         |
-| Fe,     |         |         |         |         |         |         |
-| 12.VI.1 |         |         |         |         |         |         |
-| 782\]   |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Antonio | Arzobis | 1782    | 1789    | 7       | Obispo  |         |
-| Caballe | po      |         |         |         | de      |         |
-| ro      | de      |         |         |         | Córdoba |         |
-| y       | Santa   |         |         |         |         |         |
-| Góngora | Fe      |         |         |         |         |         |
-|         |         |         |         |         |         |         |
-| \[Prieg |         |         |         |         |         |         |
-| o       |         |         |         |         |         |         |
-| (Córdob |         |         |         |         |         |         |
-| a),     |         |         |         |         |         |         |
-| 24.V.17 |         |         |         |         |         |         |
-| 23      |         |         |         |         |         |         |
-| --      |         |         |         |         |         |         |
-| Córdoba |         |         |         |         |         |         |
-| ,       |         |         |         |         |         |         |
-| 24.III. |         |         |         |         |         |         |
-| 1796\]  |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Francis | Conseje | 1789    | 1789    | 0       | Virrey  |         |
-| co      | ro      |         |         |         | del     |         |
-| Gil de  | del     |         |         |         | Perú    |         |
-| Taboada | Consejo |         |         |         | (1789-1 |         |
-| y Lemus | Supremo |         |         |         | 796)    |         |
-|         | de      |         |         |         |         |         |
-| \[Santa | Guerra  |         |         |         |         |         |
-| María   |         |         |         |         |         |         |
-| de      |         |         |         |         |         |         |
-| Sotolon |         |         |         |         |         |         |
-| go      |         |         |         |         |         |         |
-| (Pontev |         |         |         |         |         |         |
-| edra),  |         |         |         |         |         |         |
-| 24.IX.1 |         |         |         |         |         |         |
-| 733     |         |         |         |         |         |         |
-| --      |         |         |         |         |         |         |
-| Madrid, |         |         |         |         |         |         |
-| 1810\]  |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| José de | Goberna | 1789    | 1796    | 7       | Goberna | Capitán |
-| Ezpelet | dor     |         |         |         | dor     | general |
-| a       | y       |         |         |         | del     | de      |
-| y       | capitán |         |         |         | Consejo | Cataluñ |
-| Galdean | general |         |         |         | de      | a       |
-| o       | de Cuba |         |         |         | Castill | (1807-1 |
-|         |         |         |         |         | a       | 814),   |
-| \[Barce |         |         |         |         | y       | virrey  |
-| lona,   |         |         |         |         | capitán | de      |
-| 24.I.17 |         |         |         |         | general | Navarra |
-| 42      |         |         |         |         | de      | (1814-1 |
-| ant. -- |         |         |         |         | Castill | 820)    |
-| Pamplon |         |         |         |         | a       |         |
-| a       |         |         |         |         | la      |         |
-| (Navarr |         |         |         |         | Nueva   |         |
-| a),     |         |         |         |         | (1797-1 |         |
-| 23.XI.1 |         |         |         |         | 798)    |         |
-| 823\]   |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Pedro   | Tenient | 1797    | 1803    | 6       | Miembro |         |
-| de      | e       |         |         |         | honorar |         |
-| Mendinu | general |         |         |         | io      |         |
-| eta     |         |         |         |         | del     |         |
-| y       |         |         |         |         | Consejo |         |
-| Múzquiz |         |         |         |         | de      |         |
-|         |         |         |         |         | Estado  |         |
-| \[Elizo |         |         |         |         | y       |         |
-| ndo     |         |         |         |         | Guerra  |         |
-| (Navarr |         |         |         |         | (1807)  |         |
-| a),     |         |         |         |         |         |         |
-| 6.VI.17 |         |         |         |         |         |         |
-| 35      |         |         |         |         |         |         |
-| --      |         |         |         |         |         |         |
-| Madrid, |         |         |         |         |         |         |
-| 18.II.1 |         |         |         |         |         |         |
-| 825\]   |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Antonio | Comanda | 1803    | 1810    | 7       | Retiro  |         |
-| Amar y  | nte     |         |         |         |         |         |
-| Borbón  | general |         |         |         |         |         |
-|         | de      |         |         |         |         |         |
-| \[Zarag | Guipúzc |         |         |         |         |         |
-| oza,    | oa      |         |         |         |         |         |
-| III.174 |         |         |         |         |         |         |
-| 2       |         |         |         |         |         |         |
-| --      |         |         |         |         |         |         |
-| X.1818  |         |         |         |         |         |         |
-| post.\] |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
+Al igual que en 1717, la decisión de restablecer el virreinato respondía
+a la necesidad de mejorar el gobierno en la región, fortalecer la
+autoridad real, e incrementar la Real Hacienda.[^63] Por otra parte, se
+consideraba que el virrey podría hacer frente a la pacificación de los
+indios wayuu de la Guajira y cunas del Darién, pueblos con un fuerte
+asocio con la entrada de contrabando en las costas de Riohacha y del
+istmo de Panamá. Además, se tenía en cuenta la posible explotación de
+las minas de oro de las gobernaciones del Chocó y Antioquia, así como la
+pesca de perlas en Riohacha.[^64] La particularidad de esta segunda
+creación radicaba precisamente en la consideración que el
+fortalecimiento de la autoridad regia en cabeza de un virrey, transmisor
+de la voluntad regia, podía incrementar la riqueza del reino a la vez
+que contenía a los oficiales corruptos que sumían el país en la
+miseria.[^65] La cédula que daba por creado nuevamente el oficio de
+virrey se publicó en los albores de la guerra de la Oreja de Jenkins,
+esto ha hecho que se tiendan a asociar la defensa del territorio como la
+causa para establecer un nuevo virreinato. Aunque esta percepción es
+errada, es evidente que la exitosa defensa de Cartagena coadyuvó a
+consolidar el oficio de virrey en el Nuevo Reino, y sobre todo,
+construyó una imagen de Sebastián de Eslava como oficial celoso de su
+oficio.
+
+En términos generales, el distrito original del virreinato del Nuevo
+Reino de Granada comprendió las audiencias de Panamá, Santa Fe, Quito y
+las provincias venezolanas dependientes de la Audiencia de Santo
+Domingo. La primera fue eliminada en 1751 y se agregaron sus asuntos a
+la de Santa Fe,[^66] aunque esto no representó la sumisión de las
+autoridades provinciales al gobierno del virreinato del Nuevo Reino; de
+hecho, pocos asuntos salían de la provincia para su resolución,
+manteniéndose cierta preferencia por organizar la justicia y el gobierno
+de manera similar a como lo hacían cuando eran Audiencia.[^67] Por otra
+parte, Venezuela representaba un espacio particular, ya que la
+jurisdicción virreinal incluía las provincias de Guayana, Cumaná y la de
+Maracaibo, pero el gobierno de la provincia de Caracas fue desligado en
+1742 de la influencia del virrey. El mapa 1 representa la configuración
+del virreinato, previa a la creación de la Capitanía General de
+Venezuela, según la representación realizada por el fiscal Francisco
+Moreno y Escandón y el geógrafo José Aparicio Morata.[^68] Esta carta
+representa la organización jurisdiccional de los distritos virreinales
+españoles, la frontera con los dominios del imperio portugués, e incluso
+los territorios que se consideraban parte del virreinato pero que se
+encontraban tomados por los holandeses y franceses en Esequibo y
+Cayena.[^69]
+
+La creación de la Capitanía General de Venezuela en 1777 vino acompañada
+de la separación de las provincias de Maracaibo y La Guayana del ámbito
+de la Audiencia de Santa Fe, las cuales fueron reincorporadas a la de
+Santo Domingo, que ya llevaba los asuntos de Caracas y Cumaná.[^70] La
+configuración definitiva del virreinato quedaría establecida con la
+creación de la Audiencia de Caracas en 1786,[^71] según se muestra en el
+mapa 2. Lastimosamente, las Capitanías Generales americanas son una
+jurisdicción relativamente desconocida en la actualidad, por lo que es
+difícil determinar de manera precisa lo que representó la creación de
+esta jurisdicción para el contexto de Tierra Firme.[^72] De cierta
+manera, podría considerarse al capitán general como una versión
+reformada del virrey,[^73] provisto de atributos de un gobernador
+superior de la provincia aunque desligado de la presidencia de la
+Audiencia. En ese sentido, Venezuela se convirtió en un espacio de
+innovación gubernativa en la que la mezcla jurisdiccional propia de los
+virreinatos se trata de modificar por una división entre el gobierno y
+guerra a cargo del gobernador y capitán general, de hacienda a cargo del
+intendente,[^74] y de justicia a cargo de la Audiencia.
+
+El virreinato del Nuevo Reino se constituyó en las décadas finales del
+siglo XVIII en un virreinato modesto, a medio camino entre las reformas
+administrativas de la monarquía borbónica. No existe un estudio
+comparativo entre el virreinato santafereño y el de Río de la Plata,
+creado en 1776, que pudiera dar cuenta de las divergencias entre ambos
+proyectos virreinales del siglo XVIII, en particular el impacto que tuvo
+la implementación del régimen de Intendencias en Buenos Aires en la
+transformación de la autoridad real en las provincias rioplatenses.[^75]
+La Capitanía General de Venezuela y el virreinato del Río de la Plata
+fueron parte de la experimentación del ministro de Indias José de
+Gálvez, en su interés por establecer una administración del rey en
+América que superara la flexibilidad en el gobierno y la justicia, así
+como la cohesión entre las autoridades regias y los poderes corporativos
+y los habitantes americanos. Esto no significa que el Nuevo Reino fuese
+un espacio sin reformar, la diferencia estuvo en que las autoridades en
+Santa Fe decidieron implementar las innovaciones fiscales y adelantar
+las modificaciones al régimen militar sin necesidad de modificar el
+modelo virreinal ya establecido. Aunque suele considerarse que la
+denominada "rebelión de los comuneros" fue el hecho que evitó la
+implementación del régimen de Intendencias en el virreinato del Nuevo
+Reino, es más factible que la oposición del arzobispo-virrey Antonio
+Caballero y Góngora, sumada a la carga fiscal que implicaría el nombrar
+una nueva batería de oficiales reales, haya evitado el establecimiento
+del nuevo sistema de gobierno en esta jurisdicción. Finalmente, con la
+muerte de José de Gálvez en 1787 se suspendió el proyecto de reforma,
+quedando como única muestra la Intendencia de Cuenca, creada en
+septiembre de 1786.[^76]
+
+Al no realizarse una reforma de Intendentes, la organización de las
+provincias del virreinato del Nuevo Reino de Granada persistió en la
+forma de gobernaciones y corregimientos, además de dos alcaldías
+mayores, una en Natá y la otra para administrar las vetas de oro de
+Pamplona y Bucaramanga;[^77] esta última desaparece en 1795 con la
+creación de los corregimientos de Pamplona y Socorro. También se crearon
+los corregimientos del Socorro y de San Faustino, lo que demuestra la
+vigencia de esta figura jurisdiccional en el ámbito del Nuevo
+Reino.[^78] El mapa 3 ilustra esta organización provincial, indicándose
+la distinción entre gobernaciones y corregimientos, así como la
+desagregación de diferentes espacios provinciales durante el proceso de
+reforma del virreinato. La creación de la Comandancia General de Maynas
+en 1802 separó la gobernación homónima y la de Quijos para asignarlos al
+virreinato del Perú, asimismo, toda la región amazónica de la audiencia
+de Santa Fe quedó asignada a dicha comandancia. Al año siguiente la
+provincia de Guayaquil es separada del virreinato del Nuevo Reino en lo
+militar y en 1806 se hace el traslado completo al Perú. Desde 1803 se
+anexó la isla de San Andrés y costa de mosquitos a la gobernación de
+Cartagena, sin embargo el impacto de esta adhesión es relativamente
+desconocido.[^79]
+
+Aunque los distritos jurisdiccionales del virrey y la Audiencia eran
+relativamente amplios, la mayor parte de los conflictos se dirimían a
+nivel local. Gobernadores, corregidores, tenientes de gobernador y de
+corregidor, además de los alcaldes ordinarios, eran los encargados de la
+justicia en las ciudades, villas y pueblos. Para impartir la justicia
+criminal en las zonas rurales existía la figura de los alcaldes de la
+Santa Hermandad, agentes que solían estar más del lado del rigor que de
+la clemencia.[^80] Jueces de menor rango fueron los alcaldes partidarios
+(también denominados pedáneos o foráneos), quienes pertenecían a la
+justicia y gobierno capitular, sin ser miembros del cabildo. Su función
+se limitaba a la formación de procesos y la recepción de pruebas en las
+zonas rurales con el propósito de remitirlas a los alcaldes ordinarios o
+a los de la Santa Hermandad.[^81] Finalmente, la estructura
+jurisdiccional no estaría completa sin la intervención de los
+procuradores, protectores, fiscales y abogados que hacían parte integral
+de cada proceso judicial.[^82]
+
+Fuentes y estructura del trabajo
+--------------------------------
+
+Las fuentes que constituyen el corpus de este proyecto se pueden agrupar
+en doctrinales, normativo-legislativas, judiciales y de gobierno. Las
+primeras obras se segmentaron en aquellas de tipo jurídico, de buen
+gobierno (espejos de príncipes o manuales políticos) y
+teológico-morales. Estas fuentes han permitido develar los diferentes
+matices del perdón y la clemencia real, así como su relación con el
+gobierno de la justicia y de la virtud. Las fuentes normativas,
+concebidas como resultado de actos de derecho y no como creaciones de un
+cuerpo legislativo, permiten aclarar el marco de aplicación y efectos
+jurídicos del perdón e indultos. Estas comprenden recopilaciones
+(*Partidas*, Nueva y Novísima Recopilación, Leyes de las Indias),
+cedularios (de época como el de Encinas o el *Diccionario* de Josef de
+Ayala, y recopilaciones contemporáneas como el cedulario americano de
+Muro Orejón) y obras jurídicas como la *Curia Philipica* de Hevia
+Bolaños, el *Teatro de la legislación* de Antonio Xavier López, las
+*Instituciones del derecho civil* de Ignacio de Asso, el *Código* de
+Vicente Vizcaíno o la *Librería de escribanos* de Josef Febrero. Estas
+últimas, si bien no eran "leyes", fueron instrumentos que servían como
+guía para los escribanos y otros oficiales que llevaban procesos dentro
+de los tribunales, los cuales van más allá de manuales técnicos para el
+ejercicio del cargo e incluyen comentarios doctrinales y legislativos
+relevantes para comprender el porqué de las diferentes acciones
+judiciales llevadas a cabo en los tribunales.[^83]
+
+Las fuentes judiciales y de gobierno agrupan los diferentes tipos
+documentales recopilados de archivos colombianos y españoles,
+especialmente del Archivo General de la Nación de Bogotá (AGNC) y el
+Archivo General de Indias de Sevilla (AGI). Se recopiló información
+relacionada con el perdón a través de informes de gobernadores, virreyes
+y oidores que elevaron consultas al rey a través del Consejo de Indias o
+por vía reservada a alguna Secretaría de Estado. De igual manera, los
+documentos emanados del virrey para el ejercicio de la gobernación y
+capitanía general dentro de su jurisdicción, y aquellos del gobernador y
+capitán general de Venezuela. También se consultaron las series
+relativas a la Audiencia de Santa Fe, Quito, Panamá y Caracas, en
+particular las que tuvieron relación con el modo de recomendar la
+aprobación o denegación de casos particulares de indulto. El AGNC ha
+sido útil en particular para la consulta de expedientes judiciales, los
+cuales dan cuenta de la dinámica del perdón más allá del ámbito de la
+corte santafereña. Fue posible también acceder a información fragmentada
+desde los archivos regionales de Antioquia,[^84] Medellín, Cauca e
+Histórico Regional de Santander; la cual fue de utilidad para realizar
+algunos acercamientos a perdones desde niveles locales. Finalmente, una
+consulta exploratoria al Archivo Histórico Nacional (AHN) y el Archivo
+General Militar (AGM) en Madrid brindaron información relevante que no
+está disponible en otros repositorios españoles o colombianos.
+
+Además de estas grandes colecciones documentales se examinaron algunos
+fondos de impresos y manuscritos de la Biblioteca Luis Ángel Arango
+(BLAA) y la Biblioteca Nacional (BNC) en Bogotá. Algunos manuscritos
+también fueron encontrados en los depósitos de la Biblioteca Nacional de
+España. Aunque estuvieron consignados en el proyecto inicial, no ha sido
+posible consultar los fondos documentales de Quito y Caracas, por lo
+cual la aproximación a dichos ámbitos se hizo desde la perspectiva de
+los archivos españoles. Una cantidad de documentación considerable pudo
+ser consultada gracias a las series digitalizadas de los referidos
+repositorios, además del Archivo Histórico de Medellín (AHM), el cual
+tiene a disposición información catalogada y digitalizada de la sección
+colonia. En este mismo orden, las mapotecas digitalizadas comprenden una
+fuente de extrema riqueza que está accesible al público general, para
+este proyecto fueron de suma utilidad las colecciones electrónicas de la
+BNC, el AGNC, el Portal de Archivos Españoles (PARES), y la Library of
+Congress (LOC). Las recopilaciones documentales han sido de igual manera
+instrumentos de gran provecho. En particular el trabajo de Juan Friede
+para la rebelión de los comuneros del Socorro de 1781, la colección de
+documentos inéditos de Antonio Cuervo, las relaciones de gobernantes
+compiladas por Germán Colmenares, y las relaciones de mando publicadas
+por Gabriel Giraldo.
+
+La disponibilidad de colecciones digitalizadas ha representado una
+ventaja para el desarrollo de esta investigación, lo que se ve reflejado
+en el peso de ciertas series sobre el conjunto general. Los dos archivos
+más relevantes para esta investigación coinciden con los repositorios
+electrónicos más importantes de Hispanoamérica, pero esto implica que
+series documentales que pudieron ser explotadas de manera más
+sistemática tuvieron que ser consultadas durante visitas esporádicas a
+los archivos. A esto habría que sumar los expedientes en proceso de
+catalogación, restauración, e incluso exhibición. Por otra parte, la
+catalogación incompleta o errónea de los archivos hispanoamericanos
+continúa representando un problema para la consulta de repositorios
+digitales, accesibles la mayoría de las veces solamente a través de los
+buscadores predeterminados en sus sitios en línea. El inconveniente no
+es solamente de acceso a la información, sino de direccionalidad de las
+exploraciones, ya que la documentación que sea más fácil de acceder
+constituye aquella que tendrá prioridad en la construcción de los
+argumentos. Esta situación pone en primer plano la necesidad de combinar
+la consulta en los repositorios digitales con la pesquisa en los
+repositorios físicos, aunque cada vez es más común que el préstamo de
+microfilmes y digitalizaciones reemplace la posibilidad de consultar los
+expedientes en papel. Asimismo, se hace indispensable para el
+historiador el reconocer que el archivo electrónico no es simplemente
+una digitalización del material, los metadatos y la estrategia de
+catalogación, presentación, accesibilidad, consulta, así como las
+posibilidades para compartir, descargar y manipular la información, le
+otorgan un nuevo sentido a documentos que no estuvieron pensados en su
+origen para ser puestos en línea.[^85]
+
+En el apartado de referencias se presenta un listado de recursos
+digitales y bases de datos de los cuales se obtuvo información
+documental relevante para esta investigación. El criterio para priorizar
+estos recursos en lugar de otros disponibles en línea (por ejemplo,
+*Google Books*) radica en el estar fundamentados en criterios como: una
+catalogación sometida a curaduría que permite confiar en la autoría,
+fecha y originalidad del recurso; que el documento digitalizado
+pertenezca a la biblioteca o archivo que lo publica en línea; lo cual
+conecta con el siguiente criterio, cual es una fuente clara y
+comprobable del libro, documento o mapa; y finalmente, que exista una
+explicación del proceso de digitalización y sobre todo de la fecha y
+versión del catálogo disponible en la actualidad. Con las bases de datos
+fue relevante que los datos estuvieran disponibles para su consulta y
+manipulación.[^86] El *portal de datos bibliográficos* de la Biblioteca
+Nacional de España (BNE), así como el *Thesaurus* del Consortium of
+European Research Libraries (CERL), fueron fundamentales para trazar las
+ediciones y reimpresiones de un libro o manuscrito, así como las obras
+asociadas a un autor particular, e incluso desambiguar la posible
+autoría de un texto. El *diccionario biográfico español* de la Real
+Academia de Historia (RAH) también constituyó un instrumento de
+referencia permanente, sin duda más estable y confiable que Wikipedia.
+Sin duda, nuevos instrumentos para la consulta y uso de datos
+bibliográficos y prosopográficos serán fundamentales para el ejercicio
+de nuestra profesión en un futuro cercano, de allí la importancia de
+tomarlos con la seriedad requerida.
+
+Para el análisis de la información también fue muy importante el haber
+construido una base de datos con los documentos consultados en archivo,
+de tal manera que pudimos transformar los textos en datos susceptibles
+de manipulación automatizada.[^87] En la sección de referencias se
+incluye un listado del software utilizado para analizar la información,
+de tal manera que sea posible evaluar posibles desviaciones en la
+información presentada causadas por la estructura de los algoritmos. La
+selección de estos programas se hizo teniendo en cuenta la transparencia
+en la metodología utilizada para manipular los datos y presentar la
+información. Por ello se escogieron programas de código abierto con una
+comunidad de usuarios que pudiera dar cuenta de la precisión en los
+resultados mostrados. La utilización de estos análisis computarizados
+permitió observar ciertos patrones con los cuales se construyeron
+hipótesis preliminares, las cuales fueron refutadas o validadas en tanto
+avanzaba el análisis más detenido de las fuentes.[^88] Finalmente, fue
+la clásica heurística y hermenéutica de las fuentes la que permitió
+construir argumentos generales y específicos que son los que dan forma a
+esta tesis.[^89]
+
+El argumento del proyecto se estructura en cinco apartados. Los dos
+primeros capítulos comprenden los aspectos generales y teóricos del
+perdón en el mundo hispánico del siglo XVIII. El primero de ellos
+comprende un acercamiento a los aspectos culturales del perdón
+directamente relacionados con la remisión de la pena o la evasión del
+castigo. A través de la revisión de doctrina se pretende explicar la
+relación entre la idea de perdón y los conceptos de autoridad y
+potestad, de tal manera que sea posible comprender que la legitimidad de
+la Corona se sustentaba en términos carismáticos, por medio de virtudes
+y sentimientos políticos conocidos y aceptados por los vasallos. De la
+misma manera, se pretende dar cuenta de la tendencia creciente para
+desincentivar el perdón como ayuda de la justicia, asociada a la
+militarización y fortalecimiento de la autoridad de la monarquía, la
+cual fomentaba una idea del poder monárquico sustentado en la fuerza, en
+la que la clemencia era el resultado del premio y no de la misericordia.
+En un segundo capítulo se tratarán los principios jurídicos del perdón,
+específicamente la distinción entre conceptos como perdón, indulto,
+restitución y olvido. Además, se describirán la clasificación de los
+perdones y muy especialmente las excepciones al perdón, uno de los temas
+fundamentales para definir cuándo otorgar o no un indulto. Finalmente,
+se realiza una descripción del proceso para otorgar los perdones, desde
+la promulgación de un indulto general hasta la concesión por la justicia
+ordinaria. Este apartado pretende problematizar los aspectos meramente
+técnicos del indulto, tratando de dar cuenta de las excepciones y
+flexibilidad propias de las gracias. También se da cuenta del interés
+por establecer una mayor formalidad de la mano de los indultos
+generales, de tal manera que los jueces no tuviesen que utilizar su
+arbitrio para decidir en justicia sobre los perdones.
+
+Del tercer al quinto capítulo se tratará la práctica de los indultos. Se
+optó por un enfoque jurisdiccional que va desde el indulto otorgado por
+el rey hasta aquellos que involucraban a las autoridades del reino. En
+el capítulo tercero se trata de los indultos generales y su uso para la
+remisión de crímenes comunes. Se divide en dos apartados, en el primero
+se toma el delito de homicidio como una muestra representativa de la
+criminalidad a nivel de la Real Audiencia de Santa Fe. En una segunda
+parte se analiza la aplicación diferenciada del perdón, relacionada con
+el concepto de privilegio, en tres casos: indígenas, viudas y esclavos.
+El cuarto capítulo se relaciona con el uso de la facultad virreinal para
+perdonar delitos, equiparable a la del monarca pero limitada a ser usada
+solamente en circunstancias excepcionales. También comprende tres
+partes, una dedicada a explicar el fundamento de la facultad virreinal
+para perdonar, la segunda relativa al uso particular de dicha facultad,
+y una tercera que explica los dos casos en los cuales se aplicó un
+indulto general expedido por el virrey del Nuevo Reino de Granada.
+Finalmente, el quinto capítulo da cuenta del perdón como instrumento
+para la restauración del orden, particularmente en el contexto de
+rebeliones, levantamientos y revueltas de nivel local y duración
+limitada. En este capítulo se hace un análisis paralelo con la Capitanía
+General de Venezuela en dos casos: la rebelión de los esclavos de Coro
+de 1795 y la conspiración de La Guaira de 1797. Estos eventos servirán
+para contrastar con el proceso de los pasquines sediciosos de Santa Fe
+de 1794 y el proceso a Antonio Nariño por la impresión clandestina de
+una traducción de "los derechos del hombre". Este capítulo termina con
+el análisis del uso del perdón durante la vigencia y disolución de la
+Junta Suprema de Quito de 1809, con el propósito de evaluar un posible
+nuevo escenario para el perdón que se extenderá hasta la conmoción
+revolucionaria de los años siguientes.
+
+Difícilmente se podría catalogar este trabajo como una obra completa,
+son muchos los aspectos del perdón que se han dejado de lado con el
+propósito de llevar este texto a buen fin. Cuando el problema de
+investigación fue planteado dudábamos en hallar la documentación
+suficiente para sustentar un proyecto doctoral, pero cada visita a
+archivo no sólo contribuyó a disipar las dudas, además nos enfrentó con
+un problema cada vez más complejo cuyas ramificaciones son al día de hoy
+desconocidas. Esperamos que este texto sea un aporte modesto a la
+discusión sobre la parte blanda del poder, tan o más importante para
+garantizar la soberanía de los gobiernos que las demostraciones de
+fuerza.
 
 Mapa 1. "Plan geográfico del virreinato" (1772)
 
+![](media/image1.jpeg)
+
+Mapa 2. Virreinato del Nuevo Reino de Granada y Audiencias de Tierra
+Firme (1787-1810)
+
 ![](media/image2.jpeg)
 
-[^1]: Ovidio, *Tristia*, lib. II, 27-31.
+Mapa 3. Organización provincial del virreinato del Nuevo Reino de
+Granada (1739-1810)
+
+![](media/image4.jpeg)
+
+[^1]: Publius Ovidius Naso, *Tristia. Ex Ponto*, trad. Arthur L.
+    Wheeler, 2a ed., The Loeb Clasical Library 151 (Cambridge, Mass.:
+    Harvard University Press, 1996), lib. II, 27-31.
 
 [^2]: Juan Solórzano Pereira, *Política indiana* \[1647\], edición
     corregida y anotada por Francisco Ramiro de Valenzuela (Madrid:
@@ -813,7 +1021,7 @@ Mapa 1. "Plan geográfico del virreinato" (1772)
     143--44. También en los poblados cercanos a Santa Fe se manifestaba
     esa conducta, como se puede entrever de una queja del cura del
     pueblo de Guasca, hecha el 5 de mayo de 1799. AGNC, sección colonia,
-    tomo 12, doc. 10, ff. 421-427.
+    curas y obispos, tomo 12, doc. 10, ff. 421-427.
 
 [^13]: Francisco Tomás y Valiente, "El perdón de la parte ofendida en el
     Derecho penal castellano (siglos XVI, XVII y XVIII)", *Anuario de
@@ -1027,12 +1235,30 @@ Mapa 1. "Plan geográfico del virreinato" (1772)
 [^49]: Las primeras páginas de la introducción a *Paz en la República*
     explican de manera magistral este problema.
 
-[^50]: Francisco Silvestre, *Relación de la provincia de Antioquia*
+[^50]: Para un estudio actualizado de la organización jurisdiccional de
+    la monarquía en Indias véase Javier Barrientos Grandon, *El gobierno
+    de las Indias*, Colección historia 1 (Madrid: Fundación Rafael del
+    Pino, Marcial Pons, 2004). Un panorama jurisdiccional para el Nuevo
+    Reino de Granada fue realizado por Velasco Pedraza, *Justicia para
+    los vasallos de su majestad*, cap. 2. Para otros contextos de la
+    monarquía se destaca el trabajo de Agüero Nazar, *Castigar y
+    perdonar*, cap. 3.
+
+[^51]: Véase por ejemplo el anexo 6.
+
+[^52]: Rafael Diego-Fernández Sotelo, Víctor Gayol, y Thomas Calvo,
+    eds., *El gobierno de la justicia: conflictos jurisdiccionales en
+    Nueva España s. XVI-XIX*, Colección Investigaciones (Zamora,
+    Michoacán : Colima, Col: El Colegio de Michoacán ; Archivo Histórico
+    del Municipio de Colima : ALACYT, Archivo de Letras, Artes, Ciencias
+    y Tecnologías, 2012).
+
+[^53]: Francisco Silvestre, *Relación de la provincia de Antioquia*
     \[ca. 1797\], ed. David J. Robinson, Ediciones especiales 4
     (Medellín: Secretaría de Educación y Cultura de Antioquia, 1988),
     483.
 
-[^51]: Sólo por mencionar algunos ejemplos Helg, *Libertad e igualdad en
+[^54]: Sólo por mencionar algunos ejemplos Helg, *Libertad e igualdad en
     el Caribe colombiano 1770-1835*; Catalina Reyes Cárdenas, Juan David
     Montoya Guzmán, y Sebastián Gómez González, eds., *El siglo XVIII
     americano: estudios de historia colonial* (Medellín: Universidad
@@ -1058,12 +1284,158 @@ Mapa 1. "Plan geográfico del virreinato" (1772)
     1730-1790", *Tempo* 23, núm. 3 (diciembre de 2017): 547--66,
     https://doi.org/10.1590/tem-1980-542x2017v230308.
 
-[^52]: "Plan Geografico del Virreinato de Santafe de Bogota Nuevo Reyno
+[^55]: Francisco A. Eissa-Barroso, *The Spanish Monarchy and the
+    Creation of the Viceroyalty of New Granada (1717-1739): The Politics
+    of Early Bourbon Reform in Spain and Spanish America* (Leiden,
+    Boston: Brill, 2016), 126--29; Synnøve Ones, "The Politics of
+    Government in the Audiencia of New Granada, 1681-1719" (Tesis
+    doctoral, Departamento de Historia, Universidad de Warwick, 2000),
+    298--301; Allan J. Kuethe y Kenneth J. Andrien, *El mundo atlántico
+    español durante el siglo XVIII. Guerra y reformas borbónicas,
+    1713-1796*, trad. Lourdes Ramos Kuethe, Primera edición en español
+    (Bogotá: Editorial Universidad del Rosario, Banco de la República,
+    2018), 69--71, doi.org/10.12804/th9789587841121.
+
+[^56]: Win Klooster, "Inter-Imperial Smuggling in the Americas,
+    1600-1800", en *Soundings in Atlantic history: latent structures and
+    intellectual currents, 1500-1830*, ed. Bernard Bailyn y Patricia L.
+    Denault (Cambridge, Mass: Harvard University Press, 2009), 146--47;
+    Kuethe y Andrien, *El mundo atlántico español*, 51--56.
+
+[^57]: Kuethe y Andrien, *El mundo atlántico español*, 26--27.
+
+[^58]: Ones, "The Politics of Government", 301--4.
+
+[^59]: Al respecto véase Eissa-Barroso, *The Spanish Monarchy*, 113--25;
+    Kuethe y Andrien, *El mundo atlántico español*, 24--25.
+
+[^60]: Kuethe y Andrien, *El mundo atlántico español*, 74--75. Una
+    explicación en extenso de la eliminación del virreinato fue
+    realizada por Eissa-Barroso, *The Spanish Monarchy*, cap. 5.
+
+[^61]: Antonio Muro Orejón, ed., *Cedulario Americano del siglo XVIII*,
+    vol. II (Sevilla: Escuela de Estudios Hispano-Americanos de Sevilla,
+    1969), 646.
+
+[^62]: Kuethe y Andrien, *El mundo atlántico español*, 125.
+
+[^63]: Eissa-Barroso, *The Spanish Monarchy*, 224.
+
+[^64]: Kuethe y Andrien, *El mundo atlántico español*, 121.
+
+[^65]: Eissa-Barroso, *The Spanish Monarchy*, 248--49.
+
+[^66]: AGI, Panamá, 126.
+
+[^67]: La conflictiva relación entre el gobierno de Panamá y Santa Fe
+    fue analizada por Fernando Muro Romero, "La configuración de
+    provincias mayores en Indias como distritos administrativos puros.
+    La Comandancia General de Panamá a fines del siglo XVIII", *Anuario
+    Jurídico* III--IV (1977): 151--70.
+
+[^68]: "Plan Geografico del Virreinato de Santafe de Bogota Nuevo Reyno
     de Granada", AGNC, sección mapoteca, fondo 2, SMP2-Ref 1248. Una
     reproducción digital en alta definición puede consultarse en
     [[http://catalogoenlinea.bibliotecanacional.gov.co/custom/web/content/mapoteca/fmapoteca\_262\_frestrepo\_36/fmapoteca\_262\_frestrepo\_36.html]{.underline}](http://catalogoenlinea.bibliotecanacional.gov.co/custom/web/content/mapoteca/fmapoteca_262_frestrepo_36/fmapoteca_262_frestrepo_36.html)
 
-[^53]: Santiago Pérez Zapata, "Un vistazo a la cartografía virreinal:
-    Descripción geográfica del Virreinato de la Nueva Granada de 1781",
-    *Anuario Colombiano de Historia Social y de la Cultura* 43, núm. 1
-    (2016): 64, https://doi.org/10.15446/achsc.v43n1.55065.
+[^69]: Francisco Antonio Moreno y Escandón, *Estado del virreynato de
+    Santa Fee, Nuevo Reyno de Granada y Relación de su Gobierno y Mando
+    del Exmo. Señor Bailío Don Pedro Mesía de la Cerda*, BDH-BNE,
+    Mss/3118, 1772. Un estudio pormenorizado del "Plan geográfico" y del
+    *Estado del virreynato* fue realizado por María José Afanador-Llach,
+    "Political Economy, Geographical Imagination, and Territory in the
+    Making and Unmaking of New Granada, 1739-1830" (Tesis doctoral,
+    University of Texas at Austin, 2016), 104--20.
+
+[^70]: Ildefonso Méndez Salcedo, *La Capitanía General de Venezuela,
+    1777-1821: una revisión historiográfica, legislativa y documental
+    sobre el carácter y la significación de su establecimiento*
+    (Caracas: Universidad Católica Andrés Bello, 2002), 118.
+
+[^71]: Méndez Salcedo, 59--60.
+
+[^72]: Alfonso García-Gallo, "Las Reales Audiencias de las Indias y la
+    Capitanía General de Venezuela", *Revista Santander*, núm. 14
+    (2019): 100; Francisco A. Eissa-Barroso, "Las capitanías generales
+    de provincias estratégicas hispanoamericanas durante los reinados de
+    Felipe V. Aproximación al perfil socio-profesional de una
+    institución atlántica", en *Élites, representación y redes
+    atlánticas en la Hispanoamérica moderna*, ed. Francisco A.
+    Eissa-Barroso, Ainara Vázquez Varela, y Silvia Espelt-Bombín
+    (Zamora, Mich.: El Colegio de Michoacán, 2017), 111--13.
+
+[^73]: Véase, por ejemplo, los paralelos entre ambas figuras que hizo
+    García-Gallo en "Las Reales Audiencias", 103--5.
+
+[^74]: Aunque la cédula de creación de la Intendencia de Caracas designa
+    que su oficial estaría encargado de las causas de hacienda y guerra,
+    debería entenderse esta última en relación con la prevención del
+    comercio ilícito antes que con el mando militar de la provincia.
+    "Real Cédula de Intendencia de Ejército y Real Hacienda", 8 de
+    diciembre de 1776, AGI, Caracas, 470.
+
+[^75]: Un estudio exploratorio en este sentido fue realizado por Víctor
+    Tau Anzoátegui, "Las reformas borbónicas y la creación de los nuevos
+    virreinatos", en *El gobierno de un mundo: virreinatos y audiencias
+    en la América hispánica*, ed. Feliciano Barrios (Cuenca: Ediciones
+    de la Universidad de Castilla-La Mancha; Fundación Rafael del Pino,
+    2004), 431--46. Véase también Luis Navarro García, "El reformismo
+    borbónico: proyectos y realidades", en *El gobierno de un mundo:
+    virreinatos y audiencias en la América hispánica*, ed. Feliciano
+    Barrios (Cuenca: Ediciones de la Universidad de Castilla-La Mancha;
+    Fundación Rafael del Pino, 2004), 489--501.
+
+[^76]: Anthony McFarlane, *Colombia before Independence: Economy,
+    Society, and Politics under Bourbon Rule*, Cambridge Latin American
+    Studies 75 (New York: Cambridge University Press, 1993), 217.
+
+[^77]: Francisco Silvestre, *Descripción del Reyno de Santa Fe de
+    Bogotá*, Biblioteca Popular de Cultura Colombiana (Bogotá:
+    Ministerio de Educación Nacional, 1950), cap. VI, núms. 27, 37 y 50.
+
+[^78]: Velasco Pedraza, *Justicia para los vasallos de su majestad*,
+    39--41.
+
+[^79]: Al respecto véase James Jerome Parsons, *San Andrés y
+    Providencia: una geografía histórica de las islas colombianas del
+    Caribe* (Bogotá: El Áncora editores, 1985).
+
+[^80]: Sobre la particular jurisdicción de este oficial véase Velasco
+    Pedraza, *Justicia para los vasallos de su majestad*, 112--21;
+    Agüero Nazar, *Castigar y perdonar*, 103--8.
+
+[^81]: Velasco Pedraza, *Justicia para los vasallos de su majestad*,
+    125--33; Agüero Nazar, *Castigar y perdonar*, 108--9.
+
+[^82]: Un esquema jurisdiccional desde la perspectiva local puede
+    consultarse en Velasco Pedraza, *Justicia para los vasallos de su
+    majestad*, 102.
+
+[^83]: Víctor Gayol, *Laberintos de justicia: procuradores, escribanos y
+    oficiales de la Real Audiencia de México (1750-1812)*, Colección
+    Investigaciones (Zamora: El Colegio de Michoacán, 2007), 55.
+
+[^84]: Agradezco especialmente a Sebastián Amaya Palacios quien me donó
+    algunas copias digitalizadas de expedientes provenientes de este
+    repositorio.
+
+[^85]: Algunas reflexiones al respecto las realizamos en
+
+[^86]: Manipulación entendida como recuperación y segmentación de la
+    información para realizar consultas y análisis automatizados.
+
+[^87]: Jairo Antonio Melo Flórez, "Segmentación, modelado y
+    visualización de fuentes históricas para el estudio del perdón en el
+    Nuevo Reino de Granada del siglo XVIII", en *Abstracts* (DH2018,
+    México, 2018),
+    https://dh2018.adho.org/segmentacion-modelado-y-visualizacion-de-fuentes-historicas-para-el-estudio-del-perdon-en-el-nuevo-reino-de-granada-del-siglo-xviii/.
+
+[^88]: Sobre el uso de métodos computarizados para la construcción de
+    patrones es fundamental la lectura de Franco Moretti, *Graphs, Maps,
+    Trees: Abstract Models for Literary History* (London, New York:
+    Verso, 2007).
+
+[^89]: Buena parte del modelo teórico-práctico de este proyecto se
+    sustentó en lo discutido por Jörn Rüsen, *Tiempo en ruptura*, trad.
+    Christian Sperling, Colección humanidades (México: Universidad
+    Autónoma Metropolitana, 2014), caps. 1--4.
