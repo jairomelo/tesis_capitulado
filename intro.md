@@ -105,37 +105,48 @@ del reino, y obviamente para justificar la impunidad. Fue necesario
 entonces apelar al presupuesto de que había un discurso establecido del
 amor monárquico, aceptado y compartido por los vasallos; es decir, que
 la monarquía suponía unos presupuestos comúnmente aceptados, entre los
-cuales la clemencia del monarca era un elemento fundamental.
+cuales la clemencia del monarca era un elemento fundamental. Para ello
+fue muy importante la perspectiva de las convenciones, propuesta por
+Jean-Pierre Dedieu como instrumento heurístico para estudiar la
+monarquía hispana. Una convención es una regla conocida por todos que se
+encuentra lo suficientemente arraigada como para que su aplicación sea
+subconsciente y a la vez coherente para todos los actores. Según Dedieu,
+el antiguo régimen puede ser considerado como "un conjunto estructurado
+de convenciones, de reglas arbitrarias relacionadas con el gobierno de
+los hombres, que guían la acción sin que los actores tengan que
+referirse a ella explícitamente".[^6]
 
 En este sentido, se ha de entender que una cédula de perdón era ante
 todo un acto comunicativo, que no por repetir una fórmula se puede
 asumir como un mero tecnicismo. Siguiendo el conocido pragmatismo
 lingüístico de John L. Austin, es evidente que los enunciados expresados
 por las autoridades tenían una intención y producían unos efectos (la
-conocida triada locución-ilocución-perlocución).[^6] Más allá de que
+conocida triada locución-ilocución-perlocución).[^7] Más allá de que
 estos fueran verdaderos o falsos, dan cuenta de una acción y que tras de
 esta habían unas intenciones, por lo que habría que hacer caso del
 llamado de António Manuel Hespanha a "tomarse en serio" el lenguaje de
 la época, entendiendo que el apelar a los sentimientos no era una
 ficción retórica desprovista de sentido, sino la manera expresar el
-sentido del orden político de la monarquía.[^7] El amar a los vasallos
-no era una pasión sensorial, era una virtud, equiparable al sentimiento
-de Dios a sus hijos, reflejo del orden divino y por lo tanto arquetipo
-de la monarquía católica. Así como el presidente de hoy tiene que
-declarar el amor a la patria por sobre todas las cosas, el monarca de
-otrora los declaraba hacia sus vasallos. En contraposición, la ira era
-el germen de la tiranía, no sólo terrena sino principalmente demoniaca.
-La metáfora del poder despótico era la imitación del reino infernal, la
-monarquía perfecta era imitación del imperio celestial que irradiaba
-sabiduría, bondad, misericordia y justicia.[^8]
+sentido del orden político de la monarquía,[^8] en el que las fórmulas
+metafóricas no estaban atadas al campo de lo literario, sino cumplían un
+papel fundamental en la legitimación del poder político.[^9] El amar a
+los vasallos no era una pasión sensorial, era una virtud, equiparable al
+sentimiento de Dios a sus hijos, reflejo del orden divino y por lo tanto
+arquetipo de la monarquía católica. Así como el presidente de hoy tiene
+que declarar el amor a la patria por sobre todas las cosas, el monarca
+de otrora los declaraba hacia sus vasallos. En contraposición, la ira
+era el germen de la tiranía, no sólo terrena sino principalmente
+demoniaca. El poder despótico era símil del reino infernal, la monarquía
+perfecta era imitación del imperio celestial que irradiaba sabiduría,
+bondad, misericordia y justicia.[^10]
 
 Hablamos entonces de la clemencia como resultado de una emoción
 política, que tenía como objetivo la nación, sus instituciones y
-abarcaba a toda una comunidad de habitantes de un espacio común.[^9]
+abarcaba a toda una comunidad de habitantes de un espacio común.[^11]
 Siguiendo a la filósofa Martha Nussbaum, entendemos que la emocionalidad
 política se encontraba en diálogo permanente con las instituciones, y a
 través de ellas "el gobierno" podía influenciar "la psicología de sus
-ciudadanos".[^10] Si el rey realmente amaba o no a sus vasallos no es
+ciudadanos".[^12] Si el rey realmente amaba o no a sus vasallos no es
 tan relevante como comprender que el discurso de la monarquía no podía
 prescindir de la enunciación de sentimientos de bondad y ternura hacia
 sus vasallos. No sólo porque evitara utilizar términos ofensivos para
@@ -172,13 +183,13 @@ Lucien Febvre, que el espíritu de la época no favorecía la
 "incredulidad" en la monarquía como sistema político, aunque sería
 importante convenir con Bakhtin y prestar atención a la burla y la
 parodia como manifestaciones de una relación insolente con el orden
-tradicional.[^11] No estaban tan equivocados los pensadores del antiguo
+tradicional.[^13] No estaban tan equivocados los pensadores del antiguo
 régimen cuando decían que el perdón excesivo era un premio a la
 insolencia, pues así como el fiel acude el domingo al templo buscando la
 remisión de los pecados cometidos en la semana sin pasar por el
 confesionario, el vasallo esperaba que en algún momento la benevolencia
 del rey pasara por alto sus pequeñas faltas sin que se exigiera
-arrepentimiento por sus yerros.[^12]
+arrepentimiento por sus yerros.[^14]
 
 Como tantos otros sentimientos políticos, la clemencia y el perdón
 estuvieron supeditados al análisis histórico-jurídico del indulto, que
@@ -187,17 +198,17 @@ señero de Tomás y Valiente sobre el perdón de parte, así como su
 subcapítulo dedicado al indulto real en Castilla inserto en *El derecho
 penal de la Monarquía absoluta*, llamaron la atención sobre la
 posibilidad de estudiar la práctica del perdón como un aspecto relevante
-dentro de las instituciones jurídicas del Antiguo Régimen.[^13] Una de
+dentro de las instituciones jurídicas del Antiguo Régimen.[^15] Una de
 sus estudiantes, María Inmaculada Rodríguez Flores, demostró que era
 factible describir la "institución del perdón" entre el siglo XIII y el
 XVIII, concluyendo que para la justicia penal el indulto fue un aspecto
 excepcional pero inseparable, y que no presentó cambios fundamentales
-hasta la entrada del siglo XIX.[^14] Poco tiempo después, desde
+hasta la entrada del siglo XIX.[^16] Poco tiempo después, desde
 Argentina, Abelardo Levaggi dedicó un trabajo a explorar las
 instituciones de clemencia en el derecho penal rioplatense, cuyo
 interés, en consonancia con Tomás y Valiente y Rodríguez Flores, era
 develar la "cara oculta" de la justicia del antiguo régimen,
-interpretada tradicionalmente como excesivamente cruel e hipócrita.[^15]
+interpretada tradicionalmente como excesivamente cruel e hipócrita.[^17]
 
 Levaggi contribuyó a demostrar la complejidad del uso de la clemencia en
 la práctica de la justicia y el gobierno del antiguo régimen. En sus
@@ -205,17 +216,17 @@ palabras: "Figuras jurídicas tales como el perdón real, el perdón de la
 parte ofendida, la visita de cárcel y el asilo en sagrado reconocen
 origen y efectos diversos; tanto que, de haber encarado el tema desde
 una perspectiva puramente teórica, probablemente nunca se nos hubiese
-ocurrido asociarlas".[^16] En efecto, durante el desarrollo de este
+ocurrido asociarlas".[^18] En efecto, durante el desarrollo de este
 proyecto quedó cada vez más claro que aunque la exploración de la
 cultura de la clemencia y el perdón era fundamental para recuperar la
 lógica de la justicia del antiguo régimen, solamente con la exploración
 de los expedientes judiciales y los documentos de gobierno sería posible
-la recuperación de la complejidad de la práctica del perdón. La cédula
-de perdón por sí misma no era garantía de perdón, su promulgación no
-abría las puertas de las cárceles ni liberaba automáticamente a los reos
-de sus prisiones. El presentarse para ser beneficiado por la gracia real
-no representaba una garantía de libertad, era necesario determinar si
-ser estaba incluido en la misericordia, si lo había hecho a tiempo, o si
+comprender la complejidad de la práctica del perdón. La cédula de perdón
+por sí misma no era garantía de perdón, su promulgación no abría las
+puertas de las cárceles ni liberaba automáticamente a los reos de sus
+prisiones. El presentarse para ser beneficiado por la gracia real no
+representaba una garantía de libertad, era necesario determinar si ser
+estaba incluido en la misericordia, si lo había hecho a tiempo, o si
 existía un impedimento que afectara la vindicta pública o privada. No
 fueron pocos los casos en los que rogar por el indulto conllevaba el
 reinicio de un proceso inconcluso o dudoso, aunque para tantos otros
@@ -225,20 +236,21 @@ indeterminada.
 Claramente había una convención que asociaba justicia y clemencia. En el
 *Panegírico* de Plinio el Joven se decía "yerran algunos en diferenciar
 la justicia de la clemencia; porque no es justicia la que no es
-clemente, ni clemencia la que no es justa".[^17] La exploración de
+clemente, ni clemencia la que no es justa".[^19] La exploración de
 archivo pareciera demostrar dicha máxima. Lo que aparentaba ser una
 exploración que iba a encontrar pocas huellas en los repositorios
-documentales terminó revelando que la clemencia estaba más presente de
-lo que se presumía.[^18] Partimos de la búsqueda de perdones reales,
-solicitudes y concesiones de indulto. Progresivamente el archivo nos fue
-brindando pistas para la tratadística y la jurisprudencia, nos fue
+documentales, terminó revelando que la clemencia estuvo más presente en
+el gobierno y la justicia del Antiguo Régimen de lo que se
+presumía.[^20] Partimos de la búsqueda de perdones reales, solicitudes y
+concesiones de indulto. Progresivamente el archivo nos fue brindando
+pistas para la tratadística y la jurisprudencia, lo que a la vez nos fue
 llevando de las cédulas de perdón a los expedientes judiciales, y de
 éstos a las revueltas, levantamientos, proyectos de poblamiento, a las
 alianzas con contrabandistas, al perdón a cambio de dinero. Descubrimos
 que la clemencia se infiltraba en las acciones de la justicia, el
-gobierno, la policía, la hacienda, la guerra y la iglesia, lo cual es
-una muestra del entrecruzamiento de jurisdicciones que caracterizaba el
-ordenamiento monárquico.
+gobierno, la policía, la hacienda, la guerra y la iglesia, es decir, en
+casi todos los aspectos del intrincado entramado jurisdiccional de la
+monarquía hispánica.
 
 Si bien las ideas de clemencia y perdón no son "conceptos claves" (en el
 sentido de los *Grundbegriffe* planteados por Koselleck), permiten dar
@@ -254,28 +266,28 @@ de la clemencia. En el archivo se hace cada vez más evidente la
 intervención de los oidores para ratificar los perdones que otorgaban
 los jueces locales, asimismo, la periódica promulgación de indultos
 generales desde Madrid con alcance a Indias liberaba a los jueces del
-arbitrio para perdonar los conflictos. Por otra parte, las cédulas de
-perdón se convirtieron en cánones para decidir en peticiones dudosas,
+arbitrio para perdonar los conflictos.[^21] Por otra parte, las cédulas
+de perdón se convirtieron en cánones para decidir en peticiones dudosas,
 incluso en la aplicación de indultos a los acusados de encabezar los
 levantamientos contra las autoridades provinciales. Si al inicio del
 virreinato de Santa Fe los gobernadores obtenían con relativa facilidad
 la facultad de perdonar delitos, e incluso es difícil encontrar un
-perdón local ratificado por la Audiencia,[^19] para inicios del siglo
+perdón local ratificado por la Audiencia,[^22] para inicios del siglo
 XIX no había propuesta de indulto que no pasara directamente por las
 manos del virrey.
 
 La revisión a nivel local parece coincidir en general con el uso de la
 clemencia en una dimensión virreinal, siendo los apartamientos de causa
 y el acogimiento a los indultos generales la principal forma de acceder
-al perdón.[^20] Sin embargo, en esta escala la clemencia se revela como
+al perdón.[^23] Sin embargo, en esta escala la clemencia se revela como
 una estrategia para asegurar la paz, controlar los conflictos, y ante
 todo mantener el orden. En este sentido podemos coincidir con Aude
 Argouse e interpretar el perdón como una herramienta de la autoridad
 monárquica para "restablecer el buen orden, conservar la paz y
 reintegrar en la comunidad a los individuos que cometieron
-delitos".[^21] María Victoria Montoya ha mostrado que los jueces de la
+delitos".[^24] María Victoria Montoya ha mostrado que los jueces de la
 ciudad de Antioquia propiciaban los perdones a los adúlteros para con
-ello evitar la disolución de matrimonios,[^22] en los pueblos indígenas
+ello evitar la disolución de matrimonios,[^25] en los pueblos indígenas
 los corregidores instaban (por no decir, obligaban) a los indígenas a
 apartarse de la querella y evitar así la extensión de un conflicto, a
 los líderes de los levantamientos se les solía indultar para prevenir el
@@ -299,7 +311,7 @@ Campillo, para solucionar los problemas de la monarquía "no se necesita
 mas que reducir las cosas a su primitivo instituto en el mas de los
 puntos, quitando los avisos, que ha introducido el tiempo; y
 proporcionando nuestro sistema al estado presente de las cosas, según el
-tiempo en que vivimos".[^23] Era una pretensión compleja, no significaba
+tiempo en que vivimos".[^26] Era una pretensión compleja, no significaba
 una *restitutio ad pristinum statum* de la monarquía, sino una
 recuperación de los principios de la antigüedad y la sabiduría cristiana
 para adaptarlos a las necesidades del nuevo sistema de gobierno
@@ -343,15 +355,15 @@ de la historiografía de los países que surgieron de los límites del
 virreinato neogranadino, pero hasta el momento no se había tratado el
 problema con detenimiento. Para el contexto hispano el trabajo de María
 Inmaculada Rodríguez se ha convertido en el punto de referencia obligado
-para abordar los detalles de la "institución del perdón".[^24] Por otra
+para abordar los detalles de la "institución del perdón".[^27] Por otra
 parte, Tomás y Valiente sentó las bases para analizar el denominado
 "perdón de parte" o apartamiento de querella, con la cual llama la
 atención a la importancia de la práctica en la justicia penal
 castellana, dirigida más por las opiniones de los juristas que por la
-legislación.[^25] Como ya se mencionó anteriormente, a estos trabajos le
+legislación.[^28] Como ya se mencionó anteriormente, a estos trabajos le
 siguió la exploración a las instituciones de clemencia y el "lado
 oculto" de la justicia en el contexto bonaerense realizado por Abelardo
-Levaggi.[^26] No obstante, es relevante considerar que para interpretar
+Levaggi.[^29] No obstante, es relevante considerar que para interpretar
 el perdón ha sido fundamental el acercarse a otras tradiciones
 historiográficas que permiten dar una perspectiva más amplia al
 problema.
@@ -360,18 +372,18 @@ Para Inglaterra, los afamados E. P. Thompson y Eric Hobsbawm, este
 último en asocio con Georges Rudé, exploraron los perdones y conmutación
 de penas con el propósito de develar los aspectos menos visibles de los
 enfrentamientos entre las autoridades y los campesinos preindustriales
-de Inglaterra.[^27] Para Francia sería la historia cultural la que
+de Inglaterra.[^30] Para Francia sería la historia cultural la que
 enfrentara el tema del perdón, siendo pionero el trabajo de Natalie
 Zemon Davis *Fiction in the Archives*, en el que se analizaron los
 textos de las *lettres de rémission* para encontrar su propia
 "ficcionalidad", es decir, como los impetrantes modificaban sus relatos
-para mover a la misericordia al monarca.[^28] Otro trabajo de sumo
+para mover a la misericordia al monarca.[^31] Otro trabajo de sumo
 impacto internacional fue *La confesión y el perdón* de Jean Delumeau,
 una exploración histórica del sacramento de la penitencia entre el siglo
-XIII y XVIII.[^29] Finalmente, en 1991, Claude Gauvard publicó *De Grace
+XIII y XVIII.[^32] Finalmente, en 1991, Claude Gauvard publicó *De Grace
 especial*, una exploración monumental en la que analizó la criminalidad
 bajomedieval con una particular atención a la "economía del
-perdón".[^30]
+perdón".[^33]
 
 Desde hace tres décadas el perdón ha sido tratado principalmente por la
 historia del crimen y la justicia penal, al respecto Quentin Verreycken
@@ -389,21 +401,21 @@ soberanía monárquica. Otra conclusión a la que llegó su exploración es
 que se ha comprendido que el perdón no es sólo una acción del monarca
 hacia sus súbditos, sino que la participación de los sujetos contribuyó
 al desarrollo y transformaciones del ejercicio del perdón en Europa
-entre los siglos XIII y XVI.[^31]
+entre los siglos XIII y XVI.[^34]
 
 En este sentido, la aproximación más común de la historiografía al
 problema del perdón la constituye el entrelazamiento entre los aspectos
 culturales que demuestran las fuentes, sin dejar de lado el hecho de que
 los perdones e indultos eran acciones judiciales, y por lo tanto
 requieren la comprensión del contexto jurídico que les otorga
-sentido.[^32] Es en este sentido que la "historia cultural del derecho"
+sentido.[^35] Es en este sentido que la "historia cultural del derecho"
 se figura como el campo historiográfico preferido para nuestra discusión
 sobre el perdón real. Gracias al aporte de Bartolomé Clavero se comenzó
 a cuestionar las instituciones jurídicas desde una perspectiva
 antropológica, para lo cual propuso una perspectiva "no-estatista" de la
 organización política de la Edad Moderna. Su trabajo *Tantas personas
 como estados* plantea los fundamentos de una propuesta que ha sido
-compartida por investigadores de Portugal, España e Italia,[^33]
+compartida por investigadores de Portugal, España e Italia,[^36]
 resumida por António Manuel Hespanha en dos tópicos: 1) El orden
 jurídico del Antiguo Régimen tiene un carácter natural-tradicional en el
 cual el derecho es producto de una tradición literaria en la cual
@@ -412,7 +424,7 @@ garantiza desde un centro hacia la periferia, sino a través de un
 entramado de jurisdicciones, cada una encargada de mantener el orden en
 su distrito. En este sentido, el rey era el encargado de armonizar las
 jurisdicciones y de esa manera gobernar el imperio antes que un
-despachador solitario de leyes de obligatorio cumplimiento.[^34]
+despachador solitario de leyes de obligatorio cumplimiento.[^37]
 
 De particular interés para nuestra investigación han sido los trabajos
 que dan cuenta de la confluencia entre derecho y moral, es decir, de las
@@ -428,15 +440,15 @@ sinónimos, y no por estar exceptuado de la facultad de confesar el juez
 estaba exceptuado de cuidar el alma del reo. Además, fallas que no eran
 castigadas por los magistrados o el ministro del culto podían ser
 penadas por otros medios como el oprobio, la pérdida de la fama, o la
-caída de la gracia del protector o del mismo rey.[^35] El sentido del
+caída de la gracia del protector o del mismo rey.[^38] El sentido del
 perdón real se encuentra en el nivel de la remisión de los pecados
 realizada por Cristo, "en el restablecimiento del orden que la culpa de
-Adán puso en entredicho".[^36]
+Adán puso en entredicho".[^39]
 
 Por otra parte, gracias a los análisis de António Manuel Hespanha, el
 perdón se vino a insertar dentro de la idea de una "economía de la
 gracia", una extensión de la teoría del intercambio recíproco basado en
-el don propuesta por Marcel Mauss.[^37] El perdón comprende solamente
+el don propuesta por Marcel Mauss.[^40] El perdón comprende solamente
 una expresión de la gracia regia, compuesta por todos los favores que el
 monarca podía dispensar a sus vasallos, pero estaría sometida a las
 mismas reglas de la economía del don. Si la generosidad del príncipe
@@ -447,46 +459,46 @@ denominar la lealtad hacia el rey. Esta idea viene a ser clarificada en
 el ensayo *De iustitia a disciplina*, en el que argumentó que el perdón
 y otras medidas de gracia eran la manera de afirmar simbólicamente la
 figura dulce y amorosa del rey, parte fundamental de la legitimación del
-poder monárquico en el sistema medieval y moderno.[^38]
+poder monárquico en el sistema medieval y moderno.[^41]
 
 Es apenas obvio que la bibliografía no se agota en las anteriores obras
 y progresivamente aumentan los investigadores interesados en el tema
-desde ambos lados del Atlántico.[^39] Destaco aquí los trabajos de
+desde ambos lados del Atlántico.[^42] Destaco aquí los trabajos de
 Víctor Manuel Uribe-Urán, Sarissa Carneiro, Gribrán Bautista Lugo y
-Angela Ballone, para el caso de Nueva España;[^40] las investigaciones
-de Violet Soen para el Flandes hispano;[^41] los textos derivados de la
+Angela Ballone, para el caso de Nueva España;[^43] las investigaciones
+de Violet Soen para el Flandes hispano;[^44] los textos derivados de la
 investigación sobre la práctica de escribanos y el perdón de parte para
 el ámbito chileno realizados por Aude Argouse y María Eugenia
-Albornoz,[^42] así como el trabajo de Gaune y Undurraga sobre la
-circulación del discurso del perdón entre Roma y Santiago.[^43] Para el
+Albornoz,[^45] así como el trabajo de Gaune y Undurraga sobre la
+circulación del discurso del perdón entre Roma y Santiago.[^46] Para el
 ámbito de nuestro interés vale señalar las menciones dispersas de Tamar
 Herzog acerca de la práctica del indulto en el ámbito de la Audiencia de
 Quito, similares a las menciones de Ots Capdequí sobre el Nuevo Reino o
-de Lalinde para la institución virreinosenatorial.[^44] Específicamente
+de Lalinde para la institución virreinosenatorial.[^47] Específicamente
 dedicadas al ámbito del Nuevo Reino de Granada y con una mayor
 profundidad en el análisis se destacan los trabajos de Verónica Salazar
 y María Montoya Gómez, el primero entrelazando celebraciones regias con
 peticiones de perdón o ratificación de la reconciliación tras las
 rebeliones, el segundo, enfocado en el indulto general dado a los
-comuneros del Socorro en 1782.[^45]
+comuneros del Socorro en 1782.[^48]
 
 Para el contexto historiográfico colombiano, una representación sobre el
 perdón en la monarquía parecería contradecir el presupuesto firmemente
-asentado de un país en guerra permanente,[^46] el cual está siendo
+asentado de un país en guerra permanente,[^49] el cual está siendo
 afortunadamente cuestionado y problematizado desde hace algunos
-años.[^47] Décadas de investigaciones sobre la guerra y la violencia,
+años.[^50] Décadas de investigaciones sobre la guerra y la violencia,
 surgidas del problemático contexto de una compleja confrontación
 insurgente y contrainsurgente, con participación del narcotráfico y
 ejércitos privados a favor y contra del Estado, llevaron a construir un
 campo de estudio que en la décadas de los noventas llegó a denominarse,
-casi despectivamente, como "violentología".[^48] No es extraño entonces
+casi despectivamente, como "violentología".[^51] No es extraño entonces
 que se considere a la guerra como la condición natural del devenir de
 Colombia, finalmente la historia es la forma en que el presente se dota
 de pasado. Tampoco es insólito que en medio de procesos de paz
 imperfectos y del cuestionamiento del perdón de los violentos como
 sinónimo de crueldad con las víctimas, surjan interpretaciones que
 traten de explicar el papel de la clemencia y los pactos en la
-construcción de tiempos fugaces de paz.[^49]
+construcción de tiempos fugaces de paz.[^52]
 
 Ha sido la historiografía de la independencia, la evaluación de los
 procesos de construcción de soberanías nacionales entre 1808 y 1830 los
@@ -520,7 +532,7 @@ Contexto jurisdiccional
 En el segundo capítulo de esta tesis se realizará una explicación más
 detallada de los diferentes niveles jurisdiccionales relacionados con el
 uso del perdón, en el presente apartado solamente hacemos una
-contextualización general e incompleta del aparato jurisdiccional.[^50]
+contextualización general e incompleta del aparato jurisdiccional.[^53]
 Nos centraremos en la jurisdicción real por ser esta el eje de nuestro
 trabajo, aunque debería tenerse en cuenta que
 
@@ -530,14 +542,14 @@ que constituía el aparato de gobierno y justicia de la monarquía
 hispánica. Un indulto que bien podría canalizarse a través de jueces
 ordinarios en los reinos peninsulares, debía pasar por en América por
 mano de virreyes, presidentes, Audiencias, gobernadores, y además por la
-ambigua categoría de "demás jueces y justicias" de las Indias.[^51] Se
+ambigua categoría de "demás jueces y justicias" de las Indias.[^54] Se
 parte del presupuesto que una de las características de los oficios en
 Indias era la flexibilidad, es decir, que a una misma persona se le
 podía atribuir diversas facultades (por ejemplo, virrey, gobernador y
 capitán general) dependiendo de las necesidades de cada provincia. Los
 pleitos por competencia reflejaban esta condición del gobierno de la
 monarquía en el que el orden de las autoridades se superponía y en no
-pocos casos entraban en conflicto.[^52] En el panorama que se presenta a
+pocos casos entraban en conflicto.[^55] En el panorama que se presenta a
 continuación, la organización territorial debería asumirse como un "tipo
 ideal", no porque no funcionase, sino porque no era realmente claro cómo
 se estaba ejerciendo la justicia y el gobierno en las ciudades y
@@ -553,7 +565,7 @@ región que se conocía como Tierra Firme. A pesar de poco más de dos
 siglos de exploración, buena parte de esa dilatada área era *terra
 incognita*. Para finales de la década de 1780, el gobernador de la
 provincia de Antioquia, Francisco Silvestre, decía que el de Santa Fe
-era un virreinato al que no se le conocían "límites por lo ancho".[^53]
+era un virreinato al que no se le conocían "límites por lo ancho".[^56]
 Este era un territorio de poblados en las costas y en las estribaciones
 andinas, lo cual dejaba un amplísimo espacio para el control de los
 misioneros que trataban de reducir los grupos indígenas que se ocultaban
@@ -563,58 +575,58 @@ de los lugares más inexplorados de Sudamérica. No obstante, como han
 demostrado las investigaciones recientes, estos espacios categorizados
 por los agentes de la monarquía como incontrolables, constituían
 regiones en las que el contrabando, el sincretismo religioso, y las
-alianzas intergrupales, configuraban el orden social.[^54]
+alianzas intergrupales, configuraban el orden social.[^57]
 
 El propósito fundamental para la creación del virreinato del Nuevo Reino
 de Granada en 1717 consistió en fortalecer la autoridad real en Tierra
 Firme, un espacio que por su distanciamiento respecto a Lima constituyó
 un gobierno relativamente autónomo del virreinato peruano, a la vez que
 representaba un eslabón débil en la cadena de defensa de los dominios
-americanos.[^55] El contubernio entre contrabandistas, familias
+americanos.[^58] El contubernio entre contrabandistas, familias
 principales y autoridades reales en los puertos de Portobelo, Panamá y
 Cartagena, configuró las relaciones sociales que organizaban las costas
 del Caribe sudamericano, con redes que se extendían hasta el interior
-del continente por Santa Fe, Guayaquil, Quito y Lima.[^56] Hacer frente
+del continente por Santa Fe, Guayaquil, Quito y Lima.[^59] Hacer frente
 a este problema podría ayudar a resolver no sólo el comercio Atlántico
 entre los dominios hispánicos, además serviría para revertir los
 privilegios que habían sido concedidos a ingleses, franceses y
 holandeses en el siglo XVII para utilizar los puertos españoles en
-América.[^57] Por otra parte, establecer un virreinato con sede en Santa
+América.[^60] Por otra parte, establecer un virreinato con sede en Santa
 Fe pretendía solucionar las "discordias y alborotos" que se presentaban
 entre los oidores de su Audiencia; lo cual parece haber sido el motivo
 principal para eliminar las audiencias de Quito y Panamá, frecuente
 escenario de enfrentamientos entre oidores y otras autoridades reales,
-comúnmente relacionados con el control del comercio ilícito.[^58]
+comúnmente relacionados con el control del comercio ilícito.[^61]
 
 La particularidad de la primera creación del virreinato fue que ésta se
 realizó por una decisión ejecutiva del ministro Giulio Alberoni, de la
-cual se excluyó de manera deliberada al Consejo de Indias.[^59] La
+cual se excluyó de manera deliberada al Consejo de Indias.[^62] La
 decisión de eliminar el virreinato en 1723 y restaurar las Audiencias de
 Panamá y Quito estuvo conectado directamente a la caída del
-secretario,[^60] aunque la justificación de la cédula fuera "el poco o
-ningún remedio que se ha reconocido con la creación de Virrey".[^61] El
+secretario,[^63] aunque la justificación de la cédula fuera "el poco o
+ningún remedio que se ha reconocido con la creación de Virrey".[^64] El
 ascenso de José Patiño significó el resurgimiento del proyecto
 reformista en América. Reconstruyó la mermada Armada y promovió reformas
 militares en Cartagena y Panamá, estableció un sistema de guardacostas
 para intentar mermar el contrabando, fundó la Compañía de Caracas para
 motivar el comercio legal del cacao, y sentó las bases para el
 restablecimiento del virreinato del Nuevo Reino de Granada, esta vez con
-el apoyo de todas las fuerzas políticas de Madrid.[^62]
+el apoyo de todas las fuerzas políticas de Madrid.[^65]
 
 Al igual que en 1717, la decisión de restablecer el virreinato respondía
 a la necesidad de mejorar el gobierno en la región, fortalecer la
-autoridad real, e incrementar la Real Hacienda.[^63] Por otra parte, se
+autoridad real, e incrementar la Real Hacienda.[^66] Por otra parte, se
 consideraba que el virrey podría hacer frente a la pacificación de los
 indios wayuu de la Guajira y cunas del Darién, pueblos con un fuerte
 asocio con la entrada de contrabando en las costas de Riohacha y del
 istmo de Panamá. Además, se tenía en cuenta la posible explotación de
 las minas de oro de las gobernaciones del Chocó y Antioquia, así como la
-pesca de perlas en Riohacha.[^64] La particularidad de esta segunda
+pesca de perlas en Riohacha.[^67] La particularidad de esta segunda
 creación radicaba precisamente en la consideración que el
 fortalecimiento de la autoridad regia en cabeza de un virrey, transmisor
 de la voluntad regia, podía incrementar la riqueza del reino a la vez
 que contenía a los oficiales corruptos que sumían el país en la
-miseria.[^65] La cédula que daba por creado nuevamente el oficio de
+miseria.[^68] La cédula que daba por creado nuevamente el oficio de
 virrey se publicó en los albores de la guerra de la Oreja de Jenkins,
 esto ha hecho que se tiendan a asociar la defensa del territorio como la
 causa para establecer un nuevo virreinato. Aunque esta percepción es
@@ -627,42 +639,42 @@ En términos generales, el distrito original del virreinato del Nuevo
 Reino de Granada comprendió las audiencias de Panamá, Santa Fe, Quito y
 las provincias venezolanas dependientes de la Audiencia de Santo
 Domingo. La primera fue eliminada en 1751 y se agregaron sus asuntos a
-la de Santa Fe,[^66] aunque esto no representó la sumisión de las
+la de Santa Fe,[^69] aunque esto no representó la sumisión de las
 autoridades provinciales al gobierno del virreinato del Nuevo Reino; de
 hecho, pocos asuntos salían de la provincia para su resolución,
 manteniéndose cierta preferencia por organizar la justicia y el gobierno
-de manera similar a como lo hacían cuando eran Audiencia.[^67] Por otra
+de manera similar a como lo hacían cuando eran Audiencia.[^70] Por otra
 parte, Venezuela representaba un espacio particular, ya que la
 jurisdicción virreinal incluía las provincias de Guayana, Cumaná y la de
 Maracaibo, pero el gobierno de la provincia de Caracas fue desligado en
 1742 de la influencia del virrey. El mapa 1 representa la configuración
 del virreinato, previa a la creación de la Capitanía General de
 Venezuela, según la representación realizada por el fiscal Francisco
-Moreno y Escandón y el geógrafo José Aparicio Morata.[^68] Esta carta
+Moreno y Escandón y el geógrafo José Aparicio Morata.[^71] Esta carta
 representa la organización jurisdiccional de los distritos virreinales
 españoles, la frontera con los dominios del imperio portugués, e incluso
 los territorios que se consideraban parte del virreinato pero que se
 encontraban tomados por los holandeses y franceses en Esequibo y
-Cayena.[^69]
+Cayena.[^72]
 
 La creación de la Capitanía General de Venezuela en 1777 vino acompañada
 de la separación de las provincias de Maracaibo y La Guayana del ámbito
 de la Audiencia de Santa Fe, las cuales fueron reincorporadas a la de
-Santo Domingo, que ya llevaba los asuntos de Caracas y Cumaná.[^70] La
+Santo Domingo, que ya llevaba los asuntos de Caracas y Cumaná.[^73] La
 configuración definitiva del virreinato quedaría establecida con la
-creación de la Audiencia de Caracas en 1786,[^71] según se muestra en el
+creación de la Audiencia de Caracas en 1786,[^74] según se muestra en el
 mapa 2. Lastimosamente, las Capitanías Generales americanas son una
 jurisdicción relativamente desconocida en la actualidad, por lo que es
 difícil determinar de manera precisa lo que representó la creación de
-esta jurisdicción para el contexto de Tierra Firme.[^72] De cierta
+esta jurisdicción para el contexto de Tierra Firme.[^75] De cierta
 manera, podría considerarse al capitán general como una versión
-reformada del virrey,[^73] provisto de atributos de un gobernador
+reformada del virrey,[^76] provisto de atributos de un gobernador
 superior de la provincia aunque desligado de la presidencia de la
 Audiencia. En ese sentido, Venezuela se convirtió en un espacio de
 innovación gubernativa en la que la mezcla jurisdiccional propia de los
 virreinatos se trata de modificar por una división entre el gobierno y
 guerra a cargo del gobernador y capitán general, de hacienda a cargo del
-intendente,[^74] y de justicia a cargo de la Audiencia.
+intendente,[^77] y de justicia a cargo de la Audiencia.
 
 El virreinato del Nuevo Reino se constituyó en las décadas finales del
 siglo XVIII en un virreinato modesto, a medio camino entre las reformas
@@ -671,7 +683,7 @@ comparativo entre el virreinato santafereño y el de Río de la Plata,
 creado en 1776, que pudiera dar cuenta de las divergencias entre ambos
 proyectos virreinales del siglo XVIII, en particular el impacto que tuvo
 la implementación del régimen de Intendencias en Buenos Aires en la
-transformación de la autoridad real en las provincias rioplatenses.[^75]
+transformación de la autoridad real en las provincias rioplatenses.[^78]
 La Capitanía General de Venezuela y el virreinato del Río de la Plata
 fueron parte de la experimentación del ministro de Indias José de
 Gálvez, en su interés por establecer una administración del rey en
@@ -690,17 +702,17 @@ una nueva batería de oficiales reales, haya evitado el establecimiento
 del nuevo sistema de gobierno en esta jurisdicción. Finalmente, con la
 muerte de José de Gálvez en 1787 se suspendió el proyecto de reforma,
 quedando como única muestra la Intendencia de Cuenca, creada en
-septiembre de 1786.[^76]
+septiembre de 1786.[^79]
 
 Al no realizarse una reforma de Intendentes, la organización de las
 provincias del virreinato del Nuevo Reino de Granada persistió en la
 forma de gobernaciones y corregimientos, además de dos alcaldías
 mayores, una en Natá y la otra para administrar las vetas de oro de
-Pamplona y Bucaramanga;[^77] esta última desaparece en 1795 con la
+Pamplona y Bucaramanga;[^80] esta última desaparece en 1795 con la
 creación de los corregimientos de Pamplona y Socorro. También se crearon
 los corregimientos del Socorro y de San Faustino, lo que demuestra la
 vigencia de esta figura jurisdiccional en el ámbito del Nuevo
-Reino.[^78] El mapa 3 ilustra esta organización provincial, indicándose
+Reino.[^81] El mapa 3 ilustra esta organización provincial, indicándose
 la distinción entre gobernaciones y corregimientos, así como la
 desagregación de diferentes espacios provinciales durante el proceso de
 reforma del virreinato. La creación de la Comandancia General de Maynas
@@ -711,7 +723,7 @@ provincia de Guayaquil es separada del virreinato del Nuevo Reino en lo
 militar y en 1806 se hace el traslado completo al Perú. Desde 1803 se
 anexó la isla de San Andrés y costa de mosquitos a la gobernación de
 Cartagena, sin embargo el impacto de esta adhesión es relativamente
-desconocido.[^79]
+desconocido.[^82]
 
 Aunque los distritos jurisdiccionales del virrey y la Audiencia eran
 relativamente amplios, la mayor parte de los conflictos se dirimían a
@@ -720,15 +732,15 @@ corregidor, además de los alcaldes ordinarios, eran los encargados de la
 justicia en las ciudades, villas y pueblos. Para impartir la justicia
 criminal en las zonas rurales existía la figura de los alcaldes de la
 Santa Hermandad, agentes que solían estar más del lado del rigor que de
-la clemencia.[^80] Jueces de menor rango fueron los alcaldes partidarios
+la clemencia.[^83] Jueces de menor rango fueron los alcaldes partidarios
 (también denominados pedáneos o foráneos), quienes pertenecían a la
 justicia y gobierno capitular, sin ser miembros del cabildo. Su función
 se limitaba a la formación de procesos y la recepción de pruebas en las
 zonas rurales con el propósito de remitirlas a los alcaldes ordinarios o
-a los de la Santa Hermandad.[^81] Finalmente, la estructura
+a los de la Santa Hermandad.[^84] Finalmente, la estructura
 jurisdiccional no estaría completa sin la intervención de los
 procuradores, protectores, fiscales y abogados que hacían parte integral
-de cada proceso judicial.[^82]
+de cada proceso judicial.[^85]
 
 Fuentes y estructura del trabajo
 --------------------------------
@@ -755,7 +767,7 @@ guía para los escribanos y otros oficiales que llevaban procesos dentro
 de los tribunales, los cuales van más allá de manuales técnicos para el
 ejercicio del cargo e incluyen comentarios doctrinales y legislativos
 relevantes para comprender el porqué de las diferentes acciones
-judiciales llevadas a cabo en los tribunales.[^83]
+judiciales llevadas a cabo en los tribunales.[^86]
 
 Las fuentes judiciales y de gobierno agrupan los diferentes tipos
 documentales recopilados de archivos colombianos y españoles,
@@ -773,7 +785,7 @@ aprobación o denegación de casos particulares de indulto. El AGNC ha
 sido útil en particular para la consulta de expedientes judiciales, los
 cuales dan cuenta de la dinámica del perdón más allá del ámbito de la
 corte santafereña. Fue posible también acceder a información fragmentada
-desde los archivos regionales de Antioquia,[^84] Medellín, Cauca e
+desde los archivos regionales de Antioquia,[^87] Medellín, Cauca e
 Histórico Regional de Santander; la cual fue de utilidad para realizar
 algunos acercamientos a perdones desde niveles locales. Finalmente, una
 consulta exploratoria al Archivo Histórico Nacional (AHN) y el Archivo
@@ -828,7 +840,7 @@ una digitalización del material, los metadatos y la estrategia de
 catalogación, presentación, accesibilidad, consulta, así como las
 posibilidades para compartir, descargar y manipular la información, le
 otorgan un nuevo sentido a documentos que no estuvieron pensados en su
-origen para ser puestos en línea.[^85]
+origen para ser puestos en línea.[^88]
 
 En el apartado de referencias se presenta un listado de recursos
 digitales y bases de datos de los cuales se obtuvo información
@@ -843,7 +855,7 @@ comprobable del libro, documento o mapa; y finalmente, que exista una
 explicación del proceso de digitalización y sobre todo de la fecha y
 versión del catálogo disponible en la actualidad. Con las bases de datos
 fue relevante que los datos estuvieran disponibles para su consulta y
-manipulación.[^86] El *portal de datos bibliográficos* de la Biblioteca
+manipulación.[^89] El *portal de datos bibliográficos* de la Biblioteca
 Nacional de España (BNE), así como el *Thesaurus* del Consortium of
 European Research Libraries (CERL), fueron fundamentales para trazar las
 ediciones y reimpresiones de un libro o manuscrito, así como las obras
@@ -859,7 +871,7 @@ tomarlos con la seriedad requerida.
 Para el análisis de la información también fue muy importante el haber
 construido una base de datos con los documentos consultados en archivo,
 de tal manera que pudimos transformar los textos en datos susceptibles
-de manipulación automatizada.[^87] En la sección de referencias se
+de manipulación automatizada.[^90] En la sección de referencias se
 incluye un listado del software utilizado para analizar la información,
 de tal manera que sea posible evaluar posibles desviaciones en la
 información presentada causadas por la estructura de los algoritmos. La
@@ -870,10 +882,10 @@ comunidad de usuarios que pudiera dar cuenta de la precisión en los
 resultados mostrados. La utilización de estos análisis computarizados
 permitió observar ciertos patrones con los cuales se construyeron
 hipótesis preliminares, las cuales fueron refutadas o validadas en tanto
-avanzaba el análisis más detenido de las fuentes.[^88] Finalmente, fue
+avanzaba el análisis más detenido de las fuentes.[^91] Finalmente, fue
 la clásica heurística y hermenéutica de las fuentes la que permitió
 construir argumentos generales y específicos que son los que dan forma a
-esta tesis.[^89]
+esta tesis.[^92]
 
 El argumento del proyecto se estructura en cinco apartados. Los dos
 primeros capítulos comprenden los aspectos generales y teóricos del
@@ -984,14 +996,28 @@ Granada (1739-1810)
     San Gil, siglo XVIII*, Colección Textos de ciencias humanas (Bogotá:
     Editorial Universidad del Rosario, 2015), 154--60.
 
-[^6]: John L. Austin, *How to Do Things with Words* (Oxford: Oxford
+[^6]: "J'ai mieux compris l'Ancien Régime du moment que je l'ai
+    considéré comme un ensemble structuré de conventions, de règles
+    arbitraires relatives au gouvernement des hommes, qui guident
+    l'action sans que les acteurs aient besoin de s'y référer
+    explicitement". Jean-Pierre Dedieu, *Après le roi: essai sur
+    l'effondrement de la Monarchie Espagnole*, Essais de la Casa de
+    Velázquez 2 (Madrid: Casa de Velázquez, 2010), 2.
+
+[^7]: John L. Austin, *How to Do Things with Words* (Oxford: Oxford
     University Press, 1962).
 
-[^7]: Hespanha, *Cultura jurídica europea*, 43--45.
+[^8]: Hespanha, *Cultura jurídica europea*, 43--45.
 
-[^8]: El término "despotismo ilustrado" se encuentra arraigado en esta
-    idea, pues al atribuir a la monarquía borbónica el atributo de
-    despótica estaba negando su legitimidad suprema al contradecir que
+[^9]: François Godicheau y Pablo Sánchez León, "Introducción. Por una
+    semántica histórica sobre el vínculo social", en *Palabras que atan:
+    metáforas y conceptos del vínculo social en la historia moderna y
+    contemporánea*, ed. François Godicheau y Pablo Sánchez León (Madrid;
+    México: Fondo de Cultura Económica, 2015), 9--17.
+
+[^10]: El término "despotismo ilustrado" se encuentra arraigado en esta
+    idea pues, al atribuir a la monarquía borbónica la propiedad de
+    despótica, estaba negando su legitimidad suprema al contradecir que
     el déspota no podría estar ungido por la divinidad. Al respecto
     véase Horst Pietschmann, "Justicia, discurso político y reformismo
     borbónico en la Nueva España del siglo XVIII", en *Acomodos
@@ -1000,19 +1026,19 @@ Granada (1739-1810)
     Covarrubias y Josefina Zoraida Vázquez, Antologías (México: El
     Colegio de México, 2016), 157--93.
 
-[^9]: Martha C. Nussbaum, *Political emotions: why love matters for
+[^11]: Martha C. Nussbaum, *Political emotions: why love matters for
     justice* (Cambridge: The Belknap Press of Harvard University Press,
     2013), 2.
 
-[^10]: Nussbaum, 20. Véase también Hespanha, *Cultura jurídica europea*,
+[^12]: Nussbaum, 20. Véase también Hespanha, *Cultura jurídica europea*,
     47.
 
-[^11]: Lucien Febvre, *El problema de la incredulidad en el siglo XVI:
+[^13]: Lucien Febvre, *El problema de la incredulidad en el siglo XVI:
     la religión de Rabelais*, trad. Isabel Balsinde (Madrid: Akal,
     1993); Mikhail Bakhtin, *Rabelais and His World*, trad. Helene
     Iswolsky (Bloomington: Indiana University Press, 1984), 131--36.
 
-[^12]: De hecho, como ha mostrado Aline Helg, en muchas comunidades
+[^14]: De hecho, como ha mostrado Aline Helg, en muchas comunidades
     dispersas de las provincias de Santa Marta y Cartagena durante la
     segunda mitad del siglo XVIII era imposible para el sacerdote
     conseguir que su grey cumpliera el mandato de la confesión anual.
@@ -1023,38 +1049,45 @@ Granada (1739-1810)
     pueblo de Guasca, hecha el 5 de mayo de 1799. AGNC, sección colonia,
     curas y obispos, tomo 12, doc. 10, ff. 421-427.
 
-[^13]: Francisco Tomás y Valiente, "El perdón de la parte ofendida en el
+[^15]: Francisco Tomás y Valiente, "El perdón de la parte ofendida en el
     Derecho penal castellano (siglos XVI, XVII y XVIII)", *Anuario de
     historia del derecho español*, núm. 31 (1961): 55--114; Francisco
     Tomás y Valiente, "El Derecho penal de la Monarquía absoluta (Siglos
     XVI, XVII y XVIII)", en *Obras completas*, vol. I, VI vols. (Madrid:
     Centro de Estudios Políticos y Constitucionales, 1997), 185--545.
 
-[^14]: María Inmaculada Rodríguez Flores, *El perdón real en Castilla
+[^16]: María Inmaculada Rodríguez Flores, *El perdón real en Castilla
     (siglos XIII-XVIII)* (Salamanca: Universidad de Salamanca, 1971).
 
-[^15]: Abelardo Levaggi, "Las instituciones de clemencia en el Derecho
+[^17]: Abelardo Levaggi, "Las instituciones de clemencia en el Derecho
     penal rioplatense", *IV Congreso del Instituto Internacional de
     Historia del Derecho Indiano*, 1976, 243--98.
 
-[^16]: Levaggi, 244.
+[^18]: Levaggi, 244.
 
-[^17]: *El Panegírico de Plinio en castellano, pronunciado en el senado
+[^19]: *El Panegírico de Plinio en castellano, pronunciado en el senado
     en alabanza del mejor príncipe, Trajano Augusto*, trad. Francisco de
     Barreda (Madrid: Imprenta de don Antonio Espinoza, 1787), 192.
 
-[^18]: En este sentido, nuestros hallazgos nos permiten coincidir con
+[^20]: En este sentido, nuestros hallazgos nos permiten coincidir con
     las conclusiones de Alejandro Agüero en "Clemencia, perdón y
     disimulo en la justicia criminal del Antiguo Régimen: Su praxis en
     Córdoba del Tucumán, siglos XVII y XVIII", *Revista de historia del
     derecho*, núm. 32 (2004): 33--82; y *Castigar y perdonar*, 145--66.
 
-[^19]: Véase por ejemplo Tamar Herzog, *La administración como un
+[^21]: Acerca de la relevancia del arbitrio en la justicia criminal
+    castellana véase María Paz Alonso Romero y António Manuel Hespanha,
+    "Les peines dans les pays ibériques (XVIIe-XIXe siècles)", en *La
+    peine - Punishment. Europe depuis le XVIIIe siècle*, vol. 3,
+    Recueils de la Société Jean Bodin pour l'Histoire Comparative des
+    Institutions 57 (Bruxelles: De Boeck Université, 1989), 218--20.
+
+[^22]: Véase por ejemplo Tamar Herzog, *La administración como un
     fenómeno social: la justicia penal de la ciudad de Quito (1650 -
     1750)*, Historia de la sociedad política (Madrid: Centro de Estudios
     Constitucionales, 1995), 248--49.
 
-[^20]: Véase por ejemplo Beatriz Amalia Patiño Millán, *Criminalidad,
+[^23]: Véase por ejemplo Beatriz Amalia Patiño Millán, *Criminalidad,
     ley penal y estructura social en la provincia de Antioquia
     1750-1820*, Segunda edición, Colección Memoria viva del
     bicentenario, Antioquia (Bogotá: Editorial Universidad del Rosario,
@@ -1069,64 +1102,64 @@ Granada (1739-1810)
     1772-1800" (Tesis de Maestría, Universidad Andina Simón Bolívar,
     2017), cap. 3.
 
-[^21]: Aude Argouse, "'Ausente como si fuésedes presente'. Perdón,
+[^24]: Aude Argouse, "'Ausente como si fuésedes presente'. Perdón,
     memoria, escribanos, Chile S. XVI-XVIII", *Mouseion*, núm. 18
     (2014): 63, https://doi.org/10.18316/1676.
 
-[^22]: Montoya Gómez, "Los jueces y los desordenados", 217--20.
+[^25]: Montoya Gómez, "Los jueces y los desordenados", 217--20.
 
-[^23]: *Apud* Carlos Garriga Acosta, "Los límites del reformismo
+[^26]: *Apud* Carlos Garriga Acosta, "Los límites del reformismo
     borbónico: a propósito de la administración de la justicia en
     Indias", en *Derecho y administración pública en las Indias
     Hispánicas. Actas del XII Congreso Internacional del Derecho Indiano
     (Toledo, 19 a 21 de octubre de 1998)*, vol. I (Cuenca: Ediciones de
     la Universidad de Castilla-La Mancha, 2002), 799.
 
-[^24]: Rodríguez Flores, *El perdón real*.
+[^27]: Rodríguez Flores, *El perdón real*.
 
-[^25]: Tomás y Valiente, "El perdón de la parte ofendida".
+[^28]: Tomás y Valiente, "El perdón de la parte ofendida".
 
-[^26]: Levaggi, "Las instituciones de clemencia".
+[^29]: Levaggi, "Las instituciones de clemencia".
 
-[^27]: Edward Palmer Thompson, "The Crime of Anonymity", en *The
+[^30]: Edward Palmer Thompson, "The Crime of Anonymity", en *The
     Essential E.P. Thompson*, de Dorothy Thompson y Edward Palmer
     Thompson (New York: The New Press, 2001), 378--432; E. J. Hobsbawm y
     George F. E. Rudé, *Captain Swing* (London: Phoenix Press, 2001).
 
-[^28]: Natalie Zemon Davis, *Fiction in the Archives: Pardon Tales and
+[^31]: Natalie Zemon Davis, *Fiction in the Archives: Pardon Tales and
     Their Tellers in Sixteenth-Century France* (Stanford University
     Press, 1987).
 
-[^29]: Jean Delumeau, *La confesión y el perdón. Las dificultades de la
+[^32]: Jean Delumeau, *La confesión y el perdón. Las dificultades de la
     confesión, siglos XIII a XVIII*, trad. Mauro Armiño (Madrid:
     Alianza, 1992).
 
-[^30]: Claude Gauvard, *De grace especial: crime, Etat et société en
+[^33]: Claude Gauvard, *De grace especial: crime, Etat et société en
     France à la fin du Moyen Age*, vol. I, II vols. (Paris: Publications
     de la Sorbonne, 1991).
 
-[^31]: Quentin Verreycken, "The Power to Pardon in Late Medieval and
+[^34]: Quentin Verreycken, "The Power to Pardon in Late Medieval and
     Early Modern Europe: New Perspectives in the History of Crime and
     Criminal Justice", *History Compass* 17, núm. 6 (2019): e12575,
     https://doi.org/10.1111/hic3.12575.
 
-[^32]: Inge Van Bamis, "Remissiebrieven in het historisch onderzoek. Een
+[^35]: Inge Van Bamis, "Remissiebrieven in het historisch onderzoek. Een
     status quaestionis", *Pro Memorie* 14, núm. 1 (2012): 75--77.
 
-[^33]: Bartolomé Clavero, *Tantas personas como estados: por una
+[^36]: Bartolomé Clavero, *Tantas personas como estados: por una
     antropología política de la historia europea*, Colección Derecho,
     cultura y sociedad (Madrid: Tecnos, Fundación Cultural Enrique Luño
     Peña, 1986).
 
-[^34]: Hespanha, *Cultura jurídica europea*, 39--40.
+[^37]: Hespanha, *Cultura jurídica europea*, 39--40.
 
-[^35]: Paolo Prodi, *Una historia de la justicia: de la pluralidad de
+[^38]: Paolo Prodi, *Una historia de la justicia: de la pluralidad de
     fueros al dualismo moderno entre conciencia y derecho*, trad.
     Luciano Padilla López (Madrid: Katz Editores, 2008).
 
-[^36]: Prodi, 26.
+[^39]: Prodi, 26.
 
-[^37]: António Manuel Hespanha, "La economía de la gracia", en *La
+[^40]: António Manuel Hespanha, "La economía de la gracia", en *La
     gracia del derecho: economía de la cultura en la edad moderna*,
     trad. Ana Cañellas Haurie (Madrid: Centro de estudios
     constitucionales, 1993), 151--76; Marcel Mauss, *Essai sur le don:
@@ -1135,16 +1168,16 @@ Granada (1739-1810)
     2002),
     http://www.uqac.ca/zone30/Classiques\_des\_sciences\_sociales/classiques/mauss\_marcel/socio\_et\_anthropo/2\_essai\_sur\_le\_don/essai\_sur\_le\_don.html.
 
-[^38]: António Manuel Hespanha, "De iustitia a disciplina", en *La
+[^41]: António Manuel Hespanha, "De iustitia a disciplina", en *La
     gracia del derecho: economía de la cultura en la edad moderna*,
     trad. Ana Cañellas Haurie (Madrid: Centro de estudios
     constitucionales, 1993), 229--32.
 
-[^39]: Un listado colaborativo de obras dedicadas al perdón y al indulto
+[^42]: Un listado colaborativo de obras dedicadas al perdón y al indulto
     puede consultarse en
     [[https://www.zotero.org/groups/1716155/historia\_del\_perdn\_y\_el\_indulto]{.underline}](https://www.zotero.org/groups/1716155/historia_del_perdn_y_el_indulto)
 
-[^40]: Víctor Manuel Uribe-Urán, "Innocent Infants or Abusive
+[^43]: Víctor Manuel Uribe-Urán, "Innocent Infants or Abusive
     Patriarchs? Spousal Homicides, the Punishment of Indians and the Law
     in Colonial Mexico, 1740s--1820s", *Journal of Latin American
     Studies* 38, núm. 04 (2006): 793--828,
@@ -1162,7 +1195,7 @@ Granada (1739-1810)
     conflict resolution in the Iberian Atlantic*, European expansion and
     indigenous response, volume 24 (Leiden ; Boston: Brill, 2018).
 
-[^41]: Violet Soen, "¿Cómo practicar la virtud? Protagonistas y
+[^44]: Violet Soen, "¿Cómo practicar la virtud? Protagonistas y
     pareceres en la querella sobre la virtud de la clemencia durante la
     guerra de Flandes (1565-1585)", en *El gobierno de la virtud:
     política y moral en la Monarquía Hispánica (siglos XVI-XVIII)*, ed.
@@ -1177,7 +1210,7 @@ Granada (1739-1810)
     (1578-1592)", *Journal of Early Modern History* 16, núm. 1 (2012):
     1--22, https://doi.org/10.1163/157006512X620627.
 
-[^42]: Argouse, "Ausente como si fuésedes presente"; María Eugenia
+[^45]: Argouse, "Ausente como si fuésedes presente"; María Eugenia
     Albornoz Vásquez, "Cortar la causa, no admitir más escrito, obligar
     al perdón. Sentencias judiciales para administrar la paz quebrada
     por las injurias (Chile, 1790-1873)", en *Justicias, agentes y
@@ -1185,13 +1218,13 @@ Granada (1739-1810)
     (España y América, siglos XVI-XIX)*, ed. Elisa Caselli (Madrid:
     Fondo de Cultura Económica, red columnaria, 2016), 125--57.
 
-[^43]: Rafael Gaune y Verónica Undurraga, "El Perdón como espacio
+[^46]: Rafael Gaune y Verónica Undurraga, "El Perdón como espacio
     normativo. Circulación, mediación y traducción de discursos
     religiosos entre Roma y Santiago, Siglo XVII", *Jahrbuch für
     Geschichte Lateinamerikas -- Anuario de Historia de America Latina*
     52, núm. 1 (2016): 87, https://doi.org/10.7767/jbla-2015-0106.
 
-[^44]: Herzog, *La administración como un fenómeno social*, 248--50;
+[^47]: Herzog, *La administración como un fenómeno social*, 248--50;
     Tamar Herzog, "El rescate de una fuente histórica: los libros de
     visita de cárcel (El caso de Quito, 1738-1750)", *Anuario de
     Estudios Americanos* 52, núm. 2 (1995): 258,
@@ -1202,13 +1235,13 @@ Granada (1739-1810)
     virreino-senatorial en Indias", *Anuario de historia del derecho
     español* XXXVII (1967): 210--13.
 
-[^45]: Verónica Salazar Baena, "Fastos monárquicos en el Nuevo Reino de
+[^48]: Verónica Salazar Baena, "Fastos monárquicos en el Nuevo Reino de
     Granada. La imagen del rey y los intereses locales. Siglos
     XVII-XVIII" (Tesis doctoral, Universidad de Barcelona, 2013); María
     Victoria Montoya Gómez, "Castigo y perdón: el movimiento comunero.
     Nuevo Reino de Granada, 1781", *Mouseion*, núm. 18 (2014): 35--53.
 
-[^46]: Por mencionar sólo dos ejemplos de esta idea: Gonzalo Sánchez,
+[^49]: Por mencionar sólo dos ejemplos de esta idea: Gonzalo Sánchez,
     "De amnistías, guerras y negociaciones", en *Memoria de un país en
     guerra: los mil días, 1899-1902*, ed. Gonzalo Sánchez y Mario
     Aguilera Peña (Bogotá: Instituto de Estudios Políticos y Relaciones
@@ -1217,7 +1250,7 @@ Granada (1739-1810)
     negociación política: Colombia, primera mitad del siglo XIX",
     *Revista de Estudios Sociales*, núm. 16 (2003): 29.
 
-[^47]: Al respecto es relevante el reciente trabajo de Carlos Camacho
+[^50]: Al respecto es relevante el reciente trabajo de Carlos Camacho
     Arango, Margarita Garrido Otoya, y Daniel Gutiérrez Ardila, eds.,
     *Paz en la república: Colombia, siglo XIX* (Bogotá: Universidad
     Externado de Colombia, 2018). También Sven Benjamin Schuster,
@@ -1226,16 +1259,16 @@ Granada (1739-1810)
     Congreso de Colombianistas* (Eichstätt: Universidad Católica de
     Eichstätt, 2009).
 
-[^48]: Para una reflexión historiográfica del momento Carlos Miguel
+[^51]: Para una reflexión historiográfica del momento Carlos Miguel
     Ortíz Sarmiento, "Historiografía de la violencia", en *La historia
     al final del milenio: ensayos de historiografía colombiana y
     latinoamericana*, ed. Bernardo Tovar Zambrano, vol. 1, 2 vols.
     (Bogotá: Universidad Nacional de Colombia, 1994), 371--423.
 
-[^49]: Las primeras páginas de la introducción a *Paz en la República*
+[^52]: Las primeras páginas de la introducción a *Paz en la República*
     explican de manera magistral este problema.
 
-[^50]: Para un estudio actualizado de la organización jurisdiccional de
+[^53]: Para un estudio actualizado de la organización jurisdiccional de
     la monarquía en Indias véase Javier Barrientos Grandon, *El gobierno
     de las Indias*, Colección historia 1 (Madrid: Fundación Rafael del
     Pino, Marcial Pons, 2004). Un panorama jurisdiccional para el Nuevo
@@ -1244,21 +1277,21 @@ Granada (1739-1810)
     monarquía se destaca el trabajo de Agüero Nazar, *Castigar y
     perdonar*, cap. 3.
 
-[^51]: Véase por ejemplo el anexo 6.
+[^54]: Véase por ejemplo el anexo 6 Indulto general de Carlos III.
 
-[^52]: Rafael Diego-Fernández Sotelo, Víctor Gayol, y Thomas Calvo,
+[^55]: Rafael Diego-Fernández Sotelo, Víctor Gayol, y Thomas Calvo,
     eds., *El gobierno de la justicia: conflictos jurisdiccionales en
     Nueva España s. XVI-XIX*, Colección Investigaciones (Zamora,
     Michoacán : Colima, Col: El Colegio de Michoacán ; Archivo Histórico
     del Municipio de Colima : ALACYT, Archivo de Letras, Artes, Ciencias
     y Tecnologías, 2012).
 
-[^53]: Francisco Silvestre, *Relación de la provincia de Antioquia*
+[^56]: Francisco Silvestre, *Relación de la provincia de Antioquia*
     \[ca. 1797\], ed. David J. Robinson, Ediciones especiales 4
     (Medellín: Secretaría de Educación y Cultura de Antioquia, 1988),
     483.
 
-[^54]: Sólo por mencionar algunos ejemplos Helg, *Libertad e igualdad en
+[^57]: Sólo por mencionar algunos ejemplos Helg, *Libertad e igualdad en
     el Caribe colombiano 1770-1835*; Catalina Reyes Cárdenas, Juan David
     Montoya Guzmán, y Sebastián Gómez González, eds., *El siglo XVIII
     americano: estudios de historia colonial* (Medellín: Universidad
@@ -1284,7 +1317,7 @@ Granada (1739-1810)
     1730-1790", *Tempo* 23, núm. 3 (diciembre de 2017): 547--66,
     https://doi.org/10.1590/tem-1980-542x2017v230308.
 
-[^55]: Francisco A. Eissa-Barroso, *The Spanish Monarchy and the
+[^58]: Francisco A. Eissa-Barroso, *The Spanish Monarchy and the
     Creation of the Viceroyalty of New Granada (1717-1739): The Politics
     of Early Bourbon Reform in Spain and Spanish America* (Leiden,
     Boston: Brill, 2016), 126--29; Synnøve Ones, "The Politics of
@@ -1296,49 +1329,49 @@ Granada (1739-1810)
     (Bogotá: Editorial Universidad del Rosario, Banco de la República,
     2018), 69--71, doi.org/10.12804/th9789587841121.
 
-[^56]: Win Klooster, "Inter-Imperial Smuggling in the Americas,
+[^59]: Win Klooster, "Inter-Imperial Smuggling in the Americas,
     1600-1800", en *Soundings in Atlantic history: latent structures and
     intellectual currents, 1500-1830*, ed. Bernard Bailyn y Patricia L.
     Denault (Cambridge, Mass: Harvard University Press, 2009), 146--47;
     Kuethe y Andrien, *El mundo atlántico español*, 51--56.
 
-[^57]: Kuethe y Andrien, *El mundo atlántico español*, 26--27.
+[^60]: Kuethe y Andrien, *El mundo atlántico español*, 26--27.
 
-[^58]: Ones, "The Politics of Government", 301--4.
+[^61]: Ones, "The Politics of Government", 301--4.
 
-[^59]: Al respecto véase Eissa-Barroso, *The Spanish Monarchy*, 113--25;
+[^62]: Al respecto véase Eissa-Barroso, *The Spanish Monarchy*, 113--25;
     Kuethe y Andrien, *El mundo atlántico español*, 24--25.
 
-[^60]: Kuethe y Andrien, *El mundo atlántico español*, 74--75. Una
+[^63]: Kuethe y Andrien, *El mundo atlántico español*, 74--75. Una
     explicación en extenso de la eliminación del virreinato fue
     realizada por Eissa-Barroso, *The Spanish Monarchy*, cap. 5.
 
-[^61]: Antonio Muro Orejón, ed., *Cedulario Americano del siglo XVIII*,
+[^64]: Antonio Muro Orejón, ed., *Cedulario Americano del siglo XVIII*,
     vol. II (Sevilla: Escuela de Estudios Hispano-Americanos de Sevilla,
     1969), 646.
 
-[^62]: Kuethe y Andrien, *El mundo atlántico español*, 125.
+[^65]: Kuethe y Andrien, *El mundo atlántico español*, 125.
 
-[^63]: Eissa-Barroso, *The Spanish Monarchy*, 224.
+[^66]: Eissa-Barroso, *The Spanish Monarchy*, 224.
 
-[^64]: Kuethe y Andrien, *El mundo atlántico español*, 121.
+[^67]: Kuethe y Andrien, *El mundo atlántico español*, 121.
 
-[^65]: Eissa-Barroso, *The Spanish Monarchy*, 248--49.
+[^68]: Eissa-Barroso, *The Spanish Monarchy*, 248--49.
 
-[^66]: AGI, Panamá, 126.
+[^69]: AGI, Panamá, 126.
 
-[^67]: La conflictiva relación entre el gobierno de Panamá y Santa Fe
+[^70]: La conflictiva relación entre el gobierno de Panamá y Santa Fe
     fue analizada por Fernando Muro Romero, "La configuración de
     provincias mayores en Indias como distritos administrativos puros.
     La Comandancia General de Panamá a fines del siglo XVIII", *Anuario
     Jurídico* III--IV (1977): 151--70.
 
-[^68]: "Plan Geografico del Virreinato de Santafe de Bogota Nuevo Reyno
+[^71]: "Plan Geografico del Virreinato de Santafe de Bogota Nuevo Reyno
     de Granada", AGNC, sección mapoteca, fondo 2, SMP2-Ref 1248. Una
     reproducción digital en alta definición puede consultarse en
     [[http://catalogoenlinea.bibliotecanacional.gov.co/custom/web/content/mapoteca/fmapoteca\_262\_frestrepo\_36/fmapoteca\_262\_frestrepo\_36.html]{.underline}](http://catalogoenlinea.bibliotecanacional.gov.co/custom/web/content/mapoteca/fmapoteca_262_frestrepo_36/fmapoteca_262_frestrepo_36.html)
 
-[^69]: Francisco Antonio Moreno y Escandón, *Estado del virreynato de
+[^72]: Francisco Antonio Moreno y Escandón, *Estado del virreynato de
     Santa Fee, Nuevo Reyno de Granada y Relación de su Gobierno y Mando
     del Exmo. Señor Bailío Don Pedro Mesía de la Cerda*, BDH-BNE,
     Mss/3118, 1772. Un estudio pormenorizado del "Plan geográfico" y del
@@ -1347,14 +1380,14 @@ Granada (1739-1810)
     Making and Unmaking of New Granada, 1739-1830" (Tesis doctoral,
     University of Texas at Austin, 2016), 104--20.
 
-[^70]: Ildefonso Méndez Salcedo, *La Capitanía General de Venezuela,
+[^73]: Ildefonso Méndez Salcedo, *La Capitanía General de Venezuela,
     1777-1821: una revisión historiográfica, legislativa y documental
     sobre el carácter y la significación de su establecimiento*
     (Caracas: Universidad Católica Andrés Bello, 2002), 118.
 
-[^71]: Méndez Salcedo, 59--60.
+[^74]: Méndez Salcedo, 59--60.
 
-[^72]: Alfonso García-Gallo, "Las Reales Audiencias de las Indias y la
+[^75]: Alfonso García-Gallo, "Las Reales Audiencias de las Indias y la
     Capitanía General de Venezuela", *Revista Santander*, núm. 14
     (2019): 100; Francisco A. Eissa-Barroso, "Las capitanías generales
     de provincias estratégicas hispanoamericanas durante los reinados de
@@ -1364,17 +1397,17 @@ Granada (1739-1810)
     Eissa-Barroso, Ainara Vázquez Varela, y Silvia Espelt-Bombín
     (Zamora, Mich.: El Colegio de Michoacán, 2017), 111--13.
 
-[^73]: Véase, por ejemplo, los paralelos entre ambas figuras que hizo
+[^76]: Véase, por ejemplo, los paralelos entre ambas figuras que hizo
     García-Gallo en "Las Reales Audiencias", 103--5.
 
-[^74]: Aunque la cédula de creación de la Intendencia de Caracas designa
+[^77]: Aunque la cédula de creación de la Intendencia de Caracas designa
     que su oficial estaría encargado de las causas de hacienda y guerra,
     debería entenderse esta última en relación con la prevención del
     comercio ilícito antes que con el mando militar de la provincia.
     "Real Cédula de Intendencia de Ejército y Real Hacienda", 8 de
     diciembre de 1776, AGI, Caracas, 470.
 
-[^75]: Un estudio exploratorio en este sentido fue realizado por Víctor
+[^78]: Un estudio exploratorio en este sentido fue realizado por Víctor
     Tau Anzoátegui, "Las reformas borbónicas y la creación de los nuevos
     virreinatos", en *El gobierno de un mundo: virreinatos y audiencias
     en la América hispánica*, ed. Feliciano Barrios (Cuenca: Ediciones
@@ -1385,57 +1418,57 @@ Granada (1739-1810)
     Barrios (Cuenca: Ediciones de la Universidad de Castilla-La Mancha;
     Fundación Rafael del Pino, 2004), 489--501.
 
-[^76]: Anthony McFarlane, *Colombia before Independence: Economy,
+[^79]: Anthony McFarlane, *Colombia before Independence: Economy,
     Society, and Politics under Bourbon Rule*, Cambridge Latin American
     Studies 75 (New York: Cambridge University Press, 1993), 217.
 
-[^77]: Francisco Silvestre, *Descripción del Reyno de Santa Fe de
+[^80]: Francisco Silvestre, *Descripción del Reyno de Santa Fe de
     Bogotá*, Biblioteca Popular de Cultura Colombiana (Bogotá:
     Ministerio de Educación Nacional, 1950), cap. VI, núms. 27, 37 y 50.
 
-[^78]: Velasco Pedraza, *Justicia para los vasallos de su majestad*,
+[^81]: Velasco Pedraza, *Justicia para los vasallos de su majestad*,
     39--41.
 
-[^79]: Al respecto véase James Jerome Parsons, *San Andrés y
+[^82]: Al respecto véase James Jerome Parsons, *San Andrés y
     Providencia: una geografía histórica de las islas colombianas del
     Caribe* (Bogotá: El Áncora editores, 1985).
 
-[^80]: Sobre la particular jurisdicción de este oficial véase Velasco
+[^83]: Sobre la particular jurisdicción de este oficial véase Velasco
     Pedraza, *Justicia para los vasallos de su majestad*, 112--21;
     Agüero Nazar, *Castigar y perdonar*, 103--8.
 
-[^81]: Velasco Pedraza, *Justicia para los vasallos de su majestad*,
+[^84]: Velasco Pedraza, *Justicia para los vasallos de su majestad*,
     125--33; Agüero Nazar, *Castigar y perdonar*, 108--9.
 
-[^82]: Un esquema jurisdiccional desde la perspectiva local puede
+[^85]: Un esquema jurisdiccional desde la perspectiva local puede
     consultarse en Velasco Pedraza, *Justicia para los vasallos de su
     majestad*, 102.
 
-[^83]: Víctor Gayol, *Laberintos de justicia: procuradores, escribanos y
+[^86]: Víctor Gayol, *Laberintos de justicia: procuradores, escribanos y
     oficiales de la Real Audiencia de México (1750-1812)*, Colección
     Investigaciones (Zamora: El Colegio de Michoacán, 2007), 55.
 
-[^84]: Agradezco especialmente a Sebastián Amaya Palacios quien me donó
+[^87]: Agradezco especialmente a Sebastián Amaya Palacios quien me donó
     algunas copias digitalizadas de expedientes provenientes de este
     repositorio.
 
-[^85]: Algunas reflexiones al respecto las realizamos en
+[^88]: Algunas reflexiones al respecto las realizamos en
 
-[^86]: Manipulación entendida como recuperación y segmentación de la
+[^89]: Manipulación entendida como recuperación y segmentación de la
     información para realizar consultas y análisis automatizados.
 
-[^87]: Jairo Antonio Melo Flórez, "Segmentación, modelado y
+[^90]: Jairo Antonio Melo Flórez, "Segmentación, modelado y
     visualización de fuentes históricas para el estudio del perdón en el
     Nuevo Reino de Granada del siglo XVIII", en *Abstracts* (DH2018,
     México, 2018),
     https://dh2018.adho.org/segmentacion-modelado-y-visualizacion-de-fuentes-historicas-para-el-estudio-del-perdon-en-el-nuevo-reino-de-granada-del-siglo-xviii/.
 
-[^88]: Sobre el uso de métodos computarizados para la construcción de
+[^91]: Sobre el uso de métodos computarizados para la construcción de
     patrones es fundamental la lectura de Franco Moretti, *Graphs, Maps,
     Trees: Abstract Models for Literary History* (London, New York:
     Verso, 2007).
 
-[^89]: Buena parte del modelo teórico-práctico de este proyecto se
+[^92]: Buena parte del modelo teórico-práctico de este proyecto se
     sustentó en lo discutido por Jörn Rüsen, *Tiempo en ruptura*, trad.
     Christian Sperling, Colección humanidades (México: Universidad
     Autónoma Metropolitana, 2014), caps. 1--4.

@@ -277,6 +277,11 @@ Ovidius Naso, Publius. *Tristia. Ex Ponto*. Traducido por Arthur L.
 Wheeler. 2a ed. The Loeb Clasical Library 151. Cambridge, Mass.: Harvard
 University Press, 1996.
 
+Picinelli, Filippo. *El mundo simbólico: las aves y sus propiedades*.
+Editado por Bárbara Skinfill Nogal y Rosa Lucas González. Traducido por
+Eloy Gómez Bravo. Vol. IV. Colección Clásicos. Zamora, Mich.: El Colegio
+de Michoacán, 2012.
+
 Silvestre, Francisco. "Apuntes reservados particulares y generales del
 estado actual del Virreinato de Santafé de Bogotá, (1789)". En
 *Relaciones e informes de los gobernantes de la Nueva Granada*, editado
