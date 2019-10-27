@@ -1,27 +1,3 @@
-Abreviaturas
-============
-
-ACC: Archivo Central del Cauca, Popayán.
-
-AGI: Archivo General de Indias, Sevilla.
-
-AGNC: Archivo General de la Nación de Colombia, Bogotá.
-
-AHA: Archivo Histórico de Antioquia
-
-AHM: Archivo Histórico de Medellín
-
-AHR-UIS: Archivo Histórico Regional de Santander, Universidad Industrial
-de Santander, Bucaramanga.
-
-BLAA-RM: Biblioteca Luis Ángel Arango, Fondo Raros y Manuscritos,
-Bogotá.
-
-BNC: Biblioteca Nacional de Colombia, Bogotá.
-
-BDH-BNE: Biblioteca Digital Hispánica, Biblioteca Nacional de España,
-Madrid.
-
 Referencias
 ===========
 
@@ -34,18 +10,20 @@ Sección colonia, fondo judicial, civil y criminal.
 
 ***Archivo General de Indias (Sevilla)***
 
-Audiencia de Caracas, 81, 470.
+Audiencia de Caracas, 81, 86, 87, 425, 470.
 
 Audiencia de Lima, 691.
 
-Audiencia de Panamá, 126, 299, 358.
+Audiencia de Panamá, 126, 299, 300, 301, 358.
 
-Audiencia de Quito, 358, 398.
+Audiencia de Quito, 105, 358, 398.
 
-Audiencia de Santa Fe, 193, 546, 547, 548, 575, 577B, 594, 682, 940,
-1200.
+Audiencia de Santa Fe, 193, 546, 547, 548, 572, 575, 577B, 594, 682,
+940, 1200.
 
 Indiferente general, 415, 429, 430, 538 YY10 - YY11.
+
+Mapas y planos, Panamá, 162, 184; Guatemala, 70.
 
 Papeles de Cuba, 717.
 
@@ -55,27 +33,29 @@ Sección colonia:
 
 > Aduanas, tomo 11.
 >
-> Caciques e indios, tomos 41, 45, 54, 75.
+> Caciques e indios, tomos 6, 23, 41, 45, 47, 48Bis, 54, 75.
 >
 > Curas y obispos, tomo 12
+>
+> Historia civil, tomo 20.
 >
 > Historia eclesiástica, tomo 4.
 >
 > Juicios criminales, tomos 2, 6, 34, 40, 49, 54, 58, 63, 64, 67, 68,
-> 75, 76, 87, 90, 102, 103, 114, 130, 131, 134, 135, 136, 138, 139, 148,
-> 157, 163, 170, 176, 205, 216, 217.
+> 75, 76, 87, 90, 102, 103, 113, 114, 129, 130, 131, 134, 135, 136, 138,
+> 139, 148, 157, 163, 170, 176, 198, 205, 216, 217.
 >
-> Milicias y marina, tomos 4, 11, 16, 35, 50, 53, 99.
+> Milicias y marina, tomos 4, 11, 16, 35, 50, 53, 99, 123, 125.
 >
 > Miscelánea, tomos 2, 10, 59, 95, 112.
 >
-> Negros y esclavos
+> Negros y esclavos:
 >
 > Antioquia, tomo 4.
 >
 > Cauca, tomo 3.
 >
-> Cundinamarca, tomos 3, 9.
+> Cundinamarca, tomos 3, 6, 9.
 >
 > Magdalena, tomo 2.
 >
@@ -83,13 +63,17 @@ Sección colonia:
 >
 > Poblaciones varias, tomo 10.
 >
-> Real Audiencia
+> Real Audiencia:
 
 Cundinamarca, tomo 17.
 
 Magdalena, tomo 4.
 
-Residencias Santander, tomo 37.
+Residencias:
+
+> Bolívar, tomo 59.
+>
+> Santander, tomo 37.
 
 Virreyes, tomo 1.
 
@@ -99,7 +83,7 @@ Bulas de Cruzada, 43.
 
 Justicia, tomo 6.
 
-> Reales cédulas y órdenes, tomo 16.
+> Reales cédulas y órdenes, tomo 16 y 20.
 
 ***Archivo Histórico de Antioquia (Medellín)***
 
@@ -142,6 +126,8 @@ Sala de libros raros y manuscritos, MSS756.
 Fondo Pineda, tomo 852.
 
 Fondo Quijano, tomo 254.
+
+Fondo comuneros, tomos V y VIII.
 
 ***Universidad de Sevilla, Biblioteca Rector Machado y Núñez***
 
@@ -196,7 +182,7 @@ reglamento de límites, comercio, navegación, etc. hechos por los
 pueblos, reyes y príncipes de España*. Madrid: Antonio Marín, Juan de
 Zúñiga y la viuda de Peralta, 1752.
 
-Ayala, Manuel José de. *Diccionario de gobierno y legislación de
+Ayala, Manuel Josef de. *Diccionario de gobierno y legislación de
 Indias*. Editado por Milagros del Vas Mingo. 13 vols. Madrid: Instituto
 de Cooperación Iberoamericana : Ediciones de Cultura Hispánica, 1988.
 
@@ -213,8 +199,15 @@ Reino de Granada (Reivindicaciones históricas)*. 2 vols. Biblioteca de
 Historia Nacional, XCVII. Bogotá: Academia de Historia, editorial Kelly,
 1960.
 
+*Cartas de San Ignacio de Loyola fundador de la Compañía de Jesús*. Vol.
+III. Madrid: imprenta de la viuda e hijo de D. E. Aguado, 1877.
+
 Concilio de Trento. *El Sacrosanto y Ecumenico Concilio de Trento*.
 Traducido por Ignacio López de Ayala. Madrid: en la Imprenta Real, 1785.
+
+*Derrotero de las islas Antillas, de las costas de Tierra Firme y de las
+del Seno Mexicano*. Edición corregida y aumentada, mandada a reimprimir
+por Francisco de Paula Santander. Bogotá: s. n., 1826.
 
 *Diccionario de la lengua castellana compuesto por la Real Academia
 Española reducido á un tomo para su mas fácil uso*. Madrid: Joaquín
@@ -224,6 +217,13 @@ Ibarra, 1780.
 sentido de las voces, su naturaleza y calidad, con las phrases o modos
 de hablar, los proverbios o refranes, y otras cosas convenientes al uso
 de la lengua*. Madrid: imprenta de Francisco del Hierro, 1726-1739.
+
+Diego-Fernández Sotelo, Rafael, y Marina Mantilla Trolle, eds. *La Nueva
+Galicia en el ocaso del Imperio Español: los papeles de derecho de la
+audiencia de la nueva Galicia del licenciado Juan José Ruiz Moscoso, su
+agente fiscal y regidor del Ayuntamiento de Guadalajara, 1780-1810*. IV
+vols. Colección Fuentes. Zamora, Michoacán : Guadalajara, Jalisco:
+Colegio de Michoacán ; Universidad de Guadalajara, 2003.
 
 *Documentos para la historia de la sublevación de José Gabriel de Tupac
 Amaru, cacique de la provincia de Tinta, en el Perú*. Buenos Aires:
@@ -247,8 +247,18 @@ documentos inéditos*. Editado por Felipe Castro Gutiérrez. Serie
 Historia novohispana 43. México: Universidad Nacional Autónoma de
 México, 1990.
 
+García García, José Antonio. *Relaciones de los virreyes del Nuevo Reino
+de Granada*. New York: Imprenta de Hallet & Breen, 1869.
+
 Garriga, Josef. *Continuación y suplemento del prontuario de don Severo
 Aguirre*. Madrid: imprenta de don Ramón Ruíz, 1804.
+
+Gutiérrez Ardila, Daniel, ed. "Actas del Serenísimo Colegio
+Constituyente y Electoral de la Provincia de Cundinamarca". En *Actas de
+los colegios electorales y constituyentes de Cundinamarca y Antioquia,
+1811-1812*, I:91--277. Colección Bicentenario 7. Bogotá, Bucaramanga:
+Universidad Externado de Colombia, Universidad Industrial de Santander,
+2010.
 
 Huerto Vizcarra, Héctor, ed. *La rebelión de Túpac Amaru II*. Segunda
 edición. 7 vols. Nueva Colección Documental de la Independencia del
@@ -267,11 +277,16 @@ diversiones públicas, y sobre su origen en España". En *Colección de
 varias obras en prosa y verso del excelentísimo señor don Gaspar de
 Jovellanos*, IV:9-95. Madrid: imprenta de León Amarita, 1831.
 
+León-Portilla, Miguel, Alfredo Barrera Vásquez, Luis González, Ernesto
+de la Torre, y María del Carmen Velázquez, eds. *Historia documental de
+México*. Vol. I. II vols. México: Universidad Nacional Autónoma de
+México, 1964.
+
 Levillier, Roberto, ed. *Gobernantes del Perú. Cartas y papeles*. 14
 vols. Madrid: sucesores de Rivadeneira, 1921.
 
-Muro Orejón, Antonio, ed. *Cedulario Americano del siglo XVIII*. Vol.
-II. Sevilla: Escuela de Estudios Hispano-Americanos de Sevilla, 1969.
+Muro Orejón, Antonio, ed. *Cedulario Americano del siglo XVIII*. Vol. II
+y III. Sevilla: Escuela de Estudios Hispano-Americanos de Sevilla, 1969.
 
 Ovidius Naso, Publius. *Tristia. Ex Ponto*. Traducido por Arthur L.
 Wheeler. 2a ed. The Loeb Clasical Library 151. Cambridge, Mass.: Harvard
@@ -281,6 +296,9 @@ Picinelli, Filippo. *El mundo simbólico: las aves y sus propiedades*.
 Editado por Bárbara Skinfill Nogal y Rosa Lucas González. Traducido por
 Eloy Gómez Bravo. Vol. IV. Colección Clásicos. Zamora, Mich.: El Colegio
 de Michoacán, 2012.
+
+Sagra, Ramón de la. *Historia económico-política y estadística de la
+Isla de Cuba.* Habana: imprenta de las viudas de Arazoza y Soler, 1831.
 
 Silvestre, Francisco. "Apuntes reservados particulares y generales del
 estado actual del Virreinato de Santafé de Bogotá, (1789)". En
@@ -376,6 +394,10 @@ Sebastián Matheuat, 1627.
 Bodin, Jean. *Los seis libros de la república*. Traducción de Gaspar de
 Añastro Isunza. Turín: por los herederos de Bevilaqua, 1590.
 
+Cabrera, Juan de. *Crisis política determina el mas florido imperio, y
+la mejor institución de príncipes y ministros*. Madrid: Eusebio
+Fernández de Huerta, 1719.
+
 Castillo de Bovadilla, Jerónimo. *Política para corregidores y señores
 de vasallos* \[1ª ed. 1597\]. Reimpresión de la edición de 1690. Madrid:
 imprenta de la Gazeta, 1775.
@@ -401,6 +423,10 @@ Madrid: Tipografía de Blasii Roman, 1775.
 Febrero, José. *Librería de escribanos, é instrucción jurídica theorico
 practica de principiantes.* 3 vol. Madrid: Imprenta de don Pedro Marín,
 1789. Edición facsimilar en Madrid: Consejo General del Notariado, 1990.
+
+Finestrad, Joaquín de. *El vasallo instruido en el Nuevo Reino de
+Granada y sus respectivas obligaciones* \[ca. 1789\]. Editado por
+Margarita González. Bogotá: Universidad Nacional de Colombia, 2001.
 
 Gómez, Antonio. *Variæ resolutiones juris civilis, communis, et regii*
 \[1563\]. Editio novissima. Londres : Petri Bruyset et sociorum, 1744.
@@ -555,6 +581,14 @@ Lutz-Bachmann.
 Vega, Feliciano de la. *Relectionum Canonicarum in secundum Decreatalium
 librum*. Lima: Jerónimo de Contreras, 1633.
 
+Vila y Camps, Antonio. *El Noble bien educado: instrucción
+político-moral de un maestro a su discípulo, en que en un compendio de
+la moral-christiana se dan solidísimo documentos para la perfecta
+educación de un caballero*. Madrid: Miguel Escribano, 1776.
+
+---------. *El vasallo instruido en las principales obligaciones que
+debe á su legítimo monarca*. Madrid: imprenta de Manuel González, 1792.
+
 Villarroel, Gaspar de. *Govierno eclesiástico-pacífico y unión de los
 dos cuchillos pontificio y regio* \[1656\]. Reimpresión. Madrid: oficina
 de Antonio Marín, 1738.
@@ -579,7 +613,7 @@ Archivo Nacional de Asunción. *Sección historia*. sf.
 [[http://historia.anasnc.senatics.gov.py/index.php/seccion-historia]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/seccion-historia)
 
 Banco de la República de Colombia. *Biblioteca Virtual*. 2017.
-[[http://www.banrepcultural.org/biblioteca-virtual]{.underline}](http://www.banrepcultural.org/biblioteca-virtual)
+[http://www.banrepcultural.org/biblioteca-virtual]{.underline}
 
 Bayerischen Staatsbibliothek y Münchener Digitalisierungszentrum.
 *Digitale Bibliothek*. 2018.
@@ -610,8 +644,7 @@ Eusko Ikaskuntza - Sociedad de Estudios Vascos. *Fondo Multimedia*.
 [[http://www.eusko-ikaskuntza.eus/es/fondo-documental/fondo-multimedia/]{.underline}](http://www.eusko-ikaskuntza.eus/es/fondo-documental/fondo-multimedia/)
 
 Fondazione Biblioteca Europea di Informazione e Cultura (BEIC).
-*Biblioteca digitale*. 2017.
-[[https://www.beic.it]{.underline}](https://www.beic.it)
+*Biblioteca digitale*. 2017. [https://www.beic.it]{.underline}
 
 Instituto de Investigación Rafael Lapesa y Real Academia Española.
 *Diccionario de autoridades (1726-1739)*. Versión 1.1. 2013.
@@ -658,17 +691,13 @@ antiguo*. 2018.
 Software de análisis de datos
 -----------------------------
 
-Brezina, Vaclav, Tony McEnery, y Matt Timperley. *\#LancsBox* (versión
-4.0). Windows, Java. Lancaster: Lancaster University, 2018.
-[[http://corpora.lancs.ac.uk/lancsbox/]{.underline}](http://corpora.lancs.ac.uk/lancsbox/).
-
 Dekker, Ronald Haentjens, y Gregor Middel. *CollateX* (versión 1.7.1).
 Java/Python client, HTML, Java, Python. Ámsterdam: The Interedition
 Development Group, 2015.
 [[https://collatex.net]{.underline}](https://collatex.net).
 
 QGIS Development Team. *QGIS Geographic Information System* (versión
-3.8.1-Zanzibar). Windows, Linux, Mac OS X, C++, Python, 2019.
+3.8.3-Zanzibar). Windows, Linux, Mac OS X, C++, Python, 2019.
 [[https://qgis.org/es/site/]{.underline}](https://qgis.org/es/site/).
 
 Referencias bibliográficas

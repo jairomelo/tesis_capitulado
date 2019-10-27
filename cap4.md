@@ -1,2186 +1,2016 @@
-Capítulo IV. La facultad clemente del virrey: una herramienta para la "buena gobernación temporal"
-==================================================================================================
-
-Después del indulto otorgado directamente por el rey, el siguiente rango
-de aplicación del perdón real la cumplían sus gobernadores en Indias, en
-particular los virreyes, quienes estaban facultados para perdonar
-delitos en nombre del monarca. El origen de esta facultad puede
-rastrearse hasta la época de los corregidores tardomedievales
-castellanos, quienes tuvieron entre sus potestades el perdón y olvido de
-las faltas para el restablecimiento de la paz en los municipios que les
-fueron encargados.[^1] Es posible que la idea de un virrey facultado
-para perdonar provenga de los lugartenientes (a veces nominados como
-virreyes) enviados a la Corona de Aragón desde el siglo XIII, quienes
-podían ocupar el lugar del rey y hacer lo que el monarca haría si
-estuviera presente, con el propósito específico de restablecer la paz
-donde se considerara necesario.[^2] La experiencia más temprana del
-cargo de virrey fue el título de Cristóbal Colón, en el cual se
-incorporaron elementos tanto de los lugartenientes castellanos como de
-la experiencia de los virreyes aragoneses encargados del gobierno de
-Sicilia. Estos últimos diferían de los castellanos en tanto su propósito
-no era ser enviados para gobernar a distancia o, como dice Manuel
-Rivero, "cubrir el vacío de una ausencia permanente".[^3] Al contrario,
-eran miembros de la familia real que hacían presente al rey, figurándose
-como *alter ego* del príncipe, de tal manera que se construyó una
-ficción en la que todo el territorio de la monarquía aragonesa era
-gobernado de manera que aparentara que el rey se hubiese desdoblado en
-la figura virreinal, es decir, como si realmente hiciese presencia en
-las cortes bajo su dominio.[^4] Según Lalinde Abadía, el título de
-virrey concedió a Colón la facultad de actuar como "lugarteniente" del
-rey, lo cual implicaba una alta jurisdicción que prácticamente lo dotaba
-de mixto y mero imperio, tanto así que el almirante podía actuar como lo
-haría el monarca en persona.[^5]
-
-Como es sabido, las tres primeras décadas del siglo XVI fueron el
-escenario de un pleito entre el título de virrey y los herederos de
-Colón, quienes quisieron alegar los derechos transaccionales adquiridos
-a través de las capitulaciones colombinas para adquirir el título
-virreinal. El alegato principal se enmarcaba en las limitaciones
-jurisdiccionales del virrey, ya que por una parte la corona de Castilla
-y Aragón impulsaba una figura virreinal limitada al cargo del
-gobernador, restringido por instrucciones, privilegios y por la misma
-voluntad monárquica. Por su parte, Diego Colón apelaba por una
-limitación de los virreyes a futuro, pero consideraba que para él debía
-respetarse la figura de un virrey insubordinado a la Audiencia o
-cualquier otra autoridad Indiana.[^6] Superado el pleito colombino, se
-nombra al primer virrey novohispano, Antonio de Mendoza, en 1535; y en
-1543 se hace lo mismo para Perú con Blasco Núñez de Vela. De esta manera
-se dio paso a la construcción de lo que Lalinde Abadía denominó como un
-régimen "virreino-senatorial", en el cual el gobierno se equilibraba
-entre la potestad del virrey y de la Real Audiencia.[^7] Lo anterior no
-implicó una definición inmediata de la economía de la gracia entre ambos
-poderes, de tal manera que durante algún tiempo no estuvo claro si era
-posible apelar una decisión graciosa del virrey ante la Audiencia;
-cuestión que quedó definitivamente resuelta en 1624, cuando se decidió
-que las materias de gracia estuvieran conferidas a los presidentes
-gobernadores sin recursos al superior tribunal.[^8]
-
-A pesar del posible uso simbólico de la imagen del *alter ego* del rey
-en Indias, las facultades y jurisdicción del virrey americano muestran
-un oficial con una alta gubernatura limitada por los oidores de la
-Audiencia. Sin menospreciar su título, habría que interpretarlo como
-constreñido por las decisiones del monarca que corrían a través del
-Consejo de Indias, y por las restricciones particulares que pudiese
-generar un inevitable juicio de residencia.[^9] Al igual que con otros
-términos de la cultura político-jurídica del antiguo régimen, la
-sinonimia ha llevado a asimilar términos que en la práctica estaban bien
-diferenciados. Así, los términos *alter nos* (como se denominaban en
-Aragón), *proreges* (para el ámbito de Sicilia y Nápoles) y virreyes,
-bien podían compartir un sentido común en tanto denominaban a un oficial
-que re-presentaba al rey ante unos vasallos inaccesibles, pero las
-divergencias jurisdiccionales no permiten equiparar un virrey aragonés
-con uno indiano, incluso si se les endilgara en algún momento el mote de
-*alter ego*. El anterior no es un problema de mera interpretación
-contemporánea, la tratadística del siglo XVII evidencia sin duda un
-interesante debate en torno al origen y por lo tanto dignidad del
-virrey.[^10]
-
-Interpretar al virrey como gobernador no disminuye la dignidad de su
-cargo, ya que en su distrito este oficial tenía mero y mixto imperio, lo
-que en términos simples equivaldría a regir con toda la jurisdicción del
-príncipe. Castillo de Bovadilla consideraba que se podía equiparar el
-oficio de virrey, entendido como corregidor, con el de *præses
-provinciæ*, aquel "que tiene por el Rey en el lugar de su cargo la
-suprema jurisdicción, respecto de los otros Jueces Ordinarios, ó
-delegados de aquel Lugar, y Partido; subordinada á las Leyes, titulo
-Real de su Oficio, y es Juez Ordinario en todo el distrito".[^11] De
-cierta manera, para Bovadilla el virrey era otra escala dentro del
-universo del corregidor, el magistrado que tenía mero y mixto imperio
-"aunque no tenga territorio \[...\] sino la potestad de su
-jurisdicción".[^12] La acumulación de títulos también hacía que su
-potestad fuera la más importante que pudiese tener un individuo en
-Indias. Al ser nombrado, el empleo de virrey era cargado de potestades,
-primero como gobernador, título que lo facultaba para "regir y
-gobernar", y en nombre del rey dar gracias y mercedes; luego como
-presidente de Audiencia, no para impartir justicia,[^13] sino para
-garantizar su buena administración.[^14] Del mismo modo, tenía el cargo
-de Capitán General de la provincia de la Audiencia de su residencia, con
-lo cual encabezaba la jurisdicción de guerra y se constituía en la
-instancia provincial superior del fuero militar.[^15] Posteriormente, se
-le adjunta el título de superintendente general de la Real Hacienda.
-Como se observa, estos empleos le daban competencia al virrey sobre tres
-jurisdicciones, de otra manera habrían ostentado un cargo meramente
-simbólico, con gran autoridad pero sin ninguna potestad.
-
-El perdón, a pesar de su carga simbólica para demostrar la autoridad
-regia, no fue parte de las ceremonias virreinales. En el ámbito del
-Nuevo Reino de Granada, la recepción del virrey no conllevaba la
-libertad de presos, o la conmutación de penas rigurosas. Tampoco se
-encontraron casos en que los reos aprovecharan la entrada del virrey
-para que sirviera como plausible motivo del indulto. De entrada, por
-tanto, quedan en evidencia dos aspectos relacionados con el indulto y el
-virrey: en primer lugar, que los reos (o sus procuradores) identificaban
-plenamente que el único motivo de alegría que podía conllevar al perdón
-era aquel que involucraba el cuerpo mismo del monarca o la grandeza de
-la Corona, y en segundo lugar, conocían la facultad virreinal para
-perdonar concedida a través de sus títulos y, en especial, aquella
-incluida en la *Recopilación de leyes de Indias* según el poder otorgado
-a los virreyes del Perú y Nueva España en 1614.
-
-Curiosamente, el conocimiento del uso de la facultad de perdonar de los
-virreyes americanos es bastante precario. Por una parte, el estudio de
-la justicia penal no comprende el indulto virreinal puesto que no
-formaba parte de su jurisdicción, siendo más relevante, como se mostró
-en el capítulo anterior, los perdones generales y el apartamiento de la
-causa. Por otra parte, el estudio de las rebeliones suele mencionar el
-indulto otorgado por virreyes y gobernadores a nombre del rey, pero no
-suelen inmiscuirse en los vericuetos de la clemencia y la justicia. Un
-ejemplo paradigmático es el trabajo de William B. Taylor, quien concluye
-básicamente que para el ejercicio de la justicia penal (en los casos de
-homicidio) los perdones tenían el sentido de actos de gracia que
-sacrificaban el castigo para favorecer la "creencia en la justicia
-real"; en tanto los indultos en caso de rebelión tenían la intención de
-temperar a los pueblos y demostrar la justicia con los líderes.[^16]
-Esta interpretación no es errónea en ningún sentido, pero deja de lado
-la complejidad jurisdiccional del oficio del virrey, que podía perdonar
-y agraciar, es decir, tenía la facultad para remitir un delito no sólo
-por misericordia, sino también en recompensa por los servicios prestados
-o por una compensación a la real hacienda.
-
-Este capítulo y el siguiente estarán dedicados a explorar el uso que
-hicieron los virreyes del Nuevo Reino de Granada del perdón, partiendo
-de la hipótesis de un uso arbitrario de esa facultad que permitirá
-identificar una "personalidad" clemente o rigurosa de estos oficiales.
-El criterio personal y las circunstancias propias del acto gracioso son
-fundamentales para comprender el indulto virreinal, pues no todas los
-escenarios eran favorables al perdón, ni todos los virreyes usaron de
-este de la misma manera. De hecho, sería posible identificar dos etapas
-en el perdón virreinal, las cuales determinan la segmentación de estos
-dos capítulos. En primer lugar, un periodo de construcción del modo
-virreinal de perdonar, fundamentado en la percepción tradicional de
-indultar para conservar la paz y el gobierno, el cual abarcaría los
-mandatos desde Eslava hasta Mesía de la Cerda. En segundo lugar, un
-periodo de definición del perdón como resultado de la obediencia,
-fuertemente influenciado por la impronta de José de Gálvez como ministro
-de Indias.
-
-La facultad virreinal para perdonar delitos
--------------------------------------------
-
-Como buena parte de la configuración del cargo del virrey, la facultad
-de perdonar de este oficial se estableció entre la segunda mitad del
-siglo XVI y las primeras décadas del XVII. Según se mencionó en el
-apartado anterior, la potestad para remitir delitos fue otorgada a los
-corregidores y lugartenientes con el propósito de garantizar la paz en
-aquellos lugares donde fueron encomendados. De manera similar, Antonio
-de Mendoza ofreció el perdón en nombre del rey a los indígenas rebeldes,
-aunque esto no era otra cosa más que la promesa de no adelantar castigo
-ni represalias contra los levantados, siempre y cuando se sometieran a
-la autoridad del rey.[^17] Las instrucciones dadas a este virrey tampoco
-hacen mención respecto a alguna facultad de perdonar o castigar delitos,
-aunque son una serie de documentos fundamentales para comprender los
-intereses de la Corona al crear este empleo, así como el papel de este
-oficial como presidente de la Audiencia, protector del poder
-eclesiástico, protector del buen tratamiento de los indios y garante del
-recaudo para la Real Hacienda.[^18]
-
-La facultad de perdonar se otorga por primera vez en 1563 cuando se
-incluyó en el despacho al virrey del Perú, Francisco de Toledo. En esta
-se le dotó de la autoridad para remitir delitos con el propósito de
-apaciguar las "alteraciones y desasosiegos" que se habrían presentado en
-la provincia peruana y atraer con el perdón a los vasallos culpados de
-ser instigadores de los desórdenes, quienes no habrían tenido "intención
-de deservir", eran leales a sus "señores naturales", y por tanto podían
-ser convencidos para que amaran al rey "como nos los amamos". Un aspecto
-importante fue que se facultaba al virrey para que perdonara toda clase
-de delitos, "aunque sea crimen lega maiestatis \[sic\]", una potestad
-extraordinaria que prácticamente equiparaba al virrey con la majestad
-del príncipe.[^19] Antes de esta cédula, la potestad de perdonar era
-dada como "poder particular" con el cual el rey delegaba su facultad
-clemente de la misma manera como lo hacía con los presidentes de
-Audiencia o gobernadores, con el propósito de restaurar la autoridad
-regia en una zona rebelde; por ejemplo, cuando se comisionó a Pedro de
-la Gasca en 1546 para apaciguar los poblados levantados en el Perú en
-rechazo de la implementación de las denominadas "Leyes Nuevas". En ese
-momento se le otorgó
-
-> poder particular para que si biereis que conbiene para la paçificacion
-> de la tierra podais perdonar todas y qualesquier personas que en
-> aquellas Provincias ovieren delinquido en qualquier genero de delito
-> que ovieren cometido segund y como y por la manera que nos lo
-> podriamos hazer, estareis adbertido que el perdon no se ha de hazer
-> sino en los casos y por la manera que nos lo podriamos hazer como
-> dicho es. [^20]
-
-La fórmula de la facultad para perdonar dada a los virreyes indianos
-quedaría definida por una dimensión doble: por una parte, la autoridad
-completa para usar de la indulgencia del rey, y por otra, la restricción
-a usar la potestad de dar indultos solamente en casos de servir a la
-pacificación de las provincias. La *Recopilación de las Indias* de León
-Pinelo señalaba que la norma que dio poder para remitir delitos fue la
-otorgada al Lorenzo Suárez de Mendoza el 9 de diciembre de 1583, después
-de habérsele nombrado virrey del Perú después de haber servido tres años
-en el mismo cargo en Nueva España, la cual ya había sido compilada por
-Diego de Encinas.[^21] La diferencia respecto a la atribución dada al
-virrey Toledo se enmarcaba en que adicional a la facultad de perdonar se
-le entregó una instrucción, que no estaría recopilada por Pinelo ni se
-incluyó en la *Recopilación* de 1680 por considerarse una orden secreta,
-la cual se asimilaba a las limitaciones que se le indicaron al
-gobernador de la Gasca:
-
-> y porque esta facultad se os da por lo que toca autoridad del cargo
-> que llevays, y por la confiança que tengo de vuestra persona, aunque
-> entiendo que usareys dello con la consideración que se requiere, he
-> acordado de os advertir que mi voluntad es que no useys de la dicha
-> facultad si no fuere en casos de rebelión, y que convenga mucho a mi
-> servicio y al sossiego y quietud de la tierra.[^22]
-
-El punto de referencia normativo lo demarcó finalmente la cédula que
-acompañó el nombramiento del príncipe de Esquilache, Francisco de Borja
-y Aragón, como virrey del Perú el 19 de julio 1614. No parece
-coincidencia que el nombramiento de un gentilhombre de cámara de Felipe
-III, primo del Duque de Lerma,[^23] hubiese representado una concesión
-con la cual se le dotó al cargo de virrey, no sólo del Perú sino también
-de Nueva España, de los mayores honores y dignidades. Incluso el
-antecesor de Esquilache, Juan de Mendoza, le explicó al príncipe en qué
-consistía la autoridad vicerregia, afirmando que su persona era el rey
-en Perú, con la misma potestad del monarca y con universal superioridad
-en su provincia, solamente limitada por la ley, la costumbre y su propia
-prudencia.[^24] Las cédulas de su nombramiento configuraron buena parte
-de lo que sería el título "de los virreyes y presidentes gobernadores"
-de la *Recopilación* de 1680, [^25] sin duda por la buena relación que
-tuvo con Solórzano Pereira, y contribuyeron a ratificar la idea de la
-"gran potestad y dignidad de los virreyes", a los cuales se les debía
-guardar "la misma obediencia y respeto que al Rey, sin poner en esto
-dificultad, ni contradicción, ni interpretación alguna".[^26] De la
-misma manera, la refrendación de estas normas por parte de Felipe IV, el
-18 de febrero de 1628, no hicieron más que corroborar la preeminencia de
-la autoridad virreinal en Indias.[^27]
-
-En la recopilación, la facultad de los virreyes para perdonar delitos
-quedaría como sigue:
-
-> Concedemos Facultad á los Virreyes del Perú y Nueva España, para que
-> puedan perdonar qualesquier delitos y excessos cometidos en las
-> Provincias de su govierno, que Nos, conforme á derecho y leyes de
-> estos Reynos podriamos perdonar, y dar, y librar los despachos
-> necessarios, para que las Iusticias de todos nuestros Reynos y
-> Señorios no procedan contra los culpados, á la averiguacion y castigo,
-> assi de oficio, como á pedimento de parte, en quanto á lo criminal,
-> reservando su derecho en lo civil, daños. é interesses de las partes,
-> para que le pidan y sigan como les convenga.[^28]
-
-El oidor Prudencio Antonio de Palacios, cerca de 1744, comentaría esta
-ley recopilada para demostrar que la facultad de perdonar era ordinaria
-y no delegada: "esta prerrogativa es perpetua, porque es concedida a la
-dignidad que siempre vive."[^29] La fuente autoritativa de la que se
-valió Palacios para hacer dicha apreciación fue Juan López de Cuéllar,
-quien a su vez recurrió al *Liber Sextus* del *Corpus Iuris Canonici*,
-el cual establecía que el rescripto de gracia concedida a alguien para
-proveer personas idóneas en alguna iglesia se mantenía en tanto no se
-revocara expresamente, pues "ya que la Sede \[Apostólica\] no muere,
-durará para siempre."[^30] No obstante, López de Cuéllar no se estaba
-refiriendo a los virreyes indianos cuando hizo esa afirmación sino era
-su forma de explicar una cédula real dirigida al virrey y capitán
-general de Navarra cuyo encabezado rezaba: "Mi Virrey, y Capitan General
-del mi Reyno de Navarra, que al presente sois, y a los que al delante os
-succedieren en este cargo."[^31] Ninguna cédula planteó algo similar
-para los virreyes de Indias, sin embargo, la inserción autorizada de una
-versión de la cédula de 1614 en la *Recopilación de las leyes de las
-Indias* con el encabezado "concedemos facultad á los Virreyes del Perú y
-Nueva España" comprobaba la autoridad ordinaria de la dignidad virreinal
-indiana para remitir delitos.[^32]
-
-Entre 1583 y 1614 la concesión de la facultad perdió tres elementos que
-se pueden destacar. Primero, se eliminó la mención de que esta potestad
-estaba dada para que "nos amen con perfecto amor, como nos los amamos, y
-tengan mayor obligación para nos servir", la cual ya había sido
-utilizada en el perdón general concedido a los Comuneros castellanos en
-1522,[^33] y estaba también contenida en la provisión que llevó consigo
-el citado de la Gasca para la pacificación del Perú en 1546.[^34] Por
-otra parte, se sustrajo la fórmula de "ciencia cierta y poderío Real
-absoluto", que se le añadía a la declaración según la cual se otorgaba
-dicha facultad por mera voluntad regia. Esta fórmula, representaba por
-una parte la reafirmación de la *summa potestas* del príncipe, pero
-sobre todo, fue parte del "gobierno por la gracia", ya que
-paradójicamente representaba la posición trascendente al sistema
-normativo que ocupaba el monarca, y por lo tanto, la posibilidad de
-restituir y restaurar una decisión lesiva a los intereses nobiliarios,
-con quienes se estaba negociando en el siglo XV cuando adquiere dicho
-cariz.[^35] Para el caso específico del perdón real, la mención del
-"poderío absoluto" era la manera de hacer expresa la posición de
-predominio del rey por sobre todo el sistema jurídico, específicamente
-porque de esta manera afirmaba "la preeminencia real sobre la ley".[^36]
-Finalmente, tal vez lo más relevante, se deja de estipular en las
-facultades que el virrey podría perdonar "qualesquier personas \[...\]
-de qualquier genero de delito, aunque sea crimen *lega maiestatis*
-\[sic\]".[^37] El Arzobispo Feliciano de la Vega, provisor y vicario
-general del arzobispado limeño en tiempos de Solórzano, citaba en su
-*Relectionum Canonicarum* la cédula de 1583 para señalar que los
-virreyes podían remitir cualquier delito, "inclusive aquellos de *laesa
-maiestatis*", reservándose el derecho de la parte afectada; no obstante,
-se servía de la cédula de 1614 para resaltar que tales remisiones sólo
-aplicarían en caso de rebeliones, para aumentar el real servicio y la
-quietud de la república.[^38] La amplitud de esta atribución estuvo
-enmarcada durante el siglo XVI por una mayor confianza en que la
-actuación del facultado fuese mímesis del príncipe y con esto se
-incrementara la autoridad viceregia en las provincias indianas, se
-acallara la rebeldía de los españoles apostados en ultramar, y se
-favoreciera la lealtad de los indios. Los elementos que se "pierden" en
-la facultad de perdonar de los virreyes son evidencia del importante
-proceso de configuración del cargo que se llevó a cabo durante los
-reinados de los Austrias mayores, quienes a su vez aprovecharon el
-importante proceso de consolidación del poder absoluto del monarca, y su
-modo de delegación en corregidores y lugartenientes, que tuvo lugar
-durante el dominio de la casa Trastámara.
-
-En el siglo XVII la potestad de perdonar de los virreyes todavía se
-debatía en el campo de la tratadística. Solórzano citaba como parte de
-esta cuestión a Pietro Antonio de la Petra, jurisprudente de Plasencia,
-quien afirmaba que la facultad para perdonar penas corporales era
-prerrogativa reservada del príncipe, y que incluso si el magistrado
-gozaba de mixto y mero imperio, la plena jurisdicción no le incluía la
-potestad para remitir delitos.[^39] También recurría al barcelonés
-Gabriel Berart y Gassol (lo cita como Berarto) quien, al contrario,
-afirmaba que el virrey, como representante del rey, podía conceder
-gracias y remitir los delitos, tanto criminales como civiles, siempre y
-cuando no hubiese parte ofendida;[^40] de la misma manera que lo había
-interpretado Mastrillo.[^41] Estos tratadistas se referían a los
-virreyes aragoneses, los virreyes italianos, y los magistrados romanos.
-Solórzano, para el caso de los virreyes indianos, recurrió solamente a
-las cédulas de 1614 y apeló únicamente a la autoridad del arzobispo de
-la Vega para sustentar que para las jurisdicciones americanas no había
-lugar a discusión:
-
-> Berarto, y otros[^42] tratan bien asimismo si pueden perdonar o
-> componer delitos. O conceder nuevas revisiones en las causas
-> criminales yá sentenciadas en vista, y revista. Ya está decidido en
-> Indias por las cédulas de ellas: porque aunque las llevan de ordinario
-> los Virreyes para poder perdonarlos, por otras secretas, y por el
-> capitulo 13 de sus Instrucciones, se les ordena, que no lo hagan sino
-> raras veces, y con gran ocasión.[^43]
-
-La publicación y distribución de la *Recopilación de leyes de Indias*,
-sumada a la tendencia a privilegiar el ordenamiento legislativo
-compilado sobre la normatividad dispersa o la opinión doctrinaria, sería
-fundamental para delimitar la autoridad virreinal. En el caso de la
-potestad para perdonar y decretar indultos la *recopilación* era
-argumento suficiente para remitir delitos. Manuel Bernardo Álvarez,
-fiscal de la Audiencia, respondía al virrey José Solís acerca de la
-posibilidad de perdonar a un quiteño acusado de contrabando:
-
-> El Fiscal de Su Magestad a esta vista dise que por la Ley de Yndias
-> V\[uestra\] E\[xcelencia\] tiene facultad para perdonar qualquier
-> delito como lo pudiera haser la Real Persona, con que \[de\]pende del
-> arbitrio de V\[uestra\] Excelencia el perdonar o yndultar quando lo
-> tenga por c\[on\]ven\[ient\]e. El fiscal no le tiene, es acusador
-> forsoso, y como tal deve pedir las penas que corresponden a los
-> delitos que se cometen y assi mismo las execuciones de las
-> sentencias...[^44]
-
-El fiscal de ningún modo mentía al afirmar que era "acusador forzoso",
-pero de cierta manera salvó en su vista cualquier posibilidad de ser
-responsable por el perdón. La facultad de perdonar, en toda su amplitud
-permitía remitir delitos "como lo pudiera hacer la Real persona", de tal
-manera que toda la carga del arbitrio sobre la decisión particular
-recaía en el virrey, que finalmente podía tanto negar como denegar la
-solicitud. Ahora bien, no hay evidencia de que los virreyes asignados al
-Nuevo Reino abusaran de esta gracia, al contrario, todo indica que
-fueron bastante reservados en su uso. De hecho, es posible que
-representara mayor prestigio para el virrey el no haber tenido que usar
-de dicha atribución, al fin y al cabo, si se hacía uso del perdón
-significaba que fue necesario recurrir a éste como medida extraordinaria
-para garantizar la tranquilidad de la provincia. Por lo menos así lo
-dejó entrever el virrey Amar y Borbón, alrededor de 1808, cuando
-preparaba el borrador de su relación de mando y en este dejó consignado
-que "Durante el curso de los primeros cinco años del exercicio de mi
-autoridad fue constante la paz y el orden \^reciproco\^ establecido en
-estos Reales Dominios que me fueron confiados; y por eso no \[fue\]
-perentorio el arvitrio de perdonar crimenes ó exceptuar de indulto,
-conforme á la Real voluntad que me faculta al virey en los casos de
-Guerra y alteración".[^45] Paradójicamente, este virrey tuvo que
-recurrir poco después a dicha facultad y conceder un indulto general a
-nombre del rey *in absentia* para con ello ganar de los vasallos
-santafereños "la mas acrisolada lealtad y ternura al propio nuevo
-soberano".[^46]
-
-2.  Del perdón particular del virrey
-    --------------------------------
-
-    1.  ### La particular clemencia del virrey Solís 
-
-El gobierno del virrey José Solís Folch de Cardona, dice Margarita
-Restrepo Olano, fue tranquilo, sin mayores conflictos internos, sumados
-a la ausencia de amenazas externas. Se podría considerar entonces que
-Solís fue "un buen virrey: no tuvo grandes problemas que resolver, pero
-tampoco los creó, y los que debió afrontar lo hizo con serenidad y
-eficacia".[^47] Aunque también hay que destacar que el periodo de
-gobierno de Solís coincidió con la caída de Zenón de Somodevilla,
-marqués de la Ensenada, en julio de 1754; lo que significó (en términos
-de Kuethe y Andrien) una "pausa en la reforma" que venía adelantándose
-desde tiempos de Felipe V, y que estaba acelerándose desde el final de
-la guerra de la Oreja de Jenkins.[^48] Fue asimismo un virrey
-particular, nombrado bastante joven para desempeñar el cargo, cuando
-apenas se encontraba iniciando su carrera militar, recientemente
-nombrado guardia de Corps, consiguió ser ascendido a mariscal de campo
-casi al mismo tiempo de ser nombrado virrey. Solís Folch de Cardona
-hacía parte de una familia de nobleza titulada, castellanos por parte de
-su padre y valencianos por parte de madre, con importante influencia en
-la Corte madrileña. Su hermano Francisco Antonio se forjó en la carrera
-eclesiástica, alcanzó la dignidad de cardenal y fungió como Arzobispo de
-Sevilla desde 1755. Su otro hermano, Alonso, cuarto duque de Montellano
-y caballero de la orden del Toisón de Oro, fue nombrado virrey del reino
-de Navarra en 1768.[^49]
-
-A diferencia de su antecesor Eslava y de su sucesor Flórez, el virrey
-Solís no asumió personalmente la defensa de Cartagena durante la guerra
-de los Siete Años, aunque cumplió con incrementar la carga fiscal para
-socorrer a dicha plaza e impulsó algunos proyectos modestos para el
-refuerzo del deteriorado castillo cartagenero.[^50] Tuvo algunos
-enfrentamientos con los magistrados de la Audiencia de Santa Fe, a los
-cuales acusaba de entorpecer sus procedimientos y de invadir su
-jurisdicción, aunque por otra parte, logró entrelazar buenas relaciones
-con los cabildantes de la ciudad. Al finalizar su gobierno, decidió no
-regresar a Madrid y en cambio se ordenó rápidamente como franciscano,
-recluyéndose en el convento de San Diego, lo cual generó ciertas
-sospechas que fueron incluidas en el juicio de residencia que se le
-siguió en 1763, del que fue exonerado de todos los cargos.[^51]
-
-Es difícil interpretar las motivaciones del virrey Solís para no
-regresar a España y cambiar la carrera militar por la vida de fraile,
-tampoco sería prudente asimilar una tendencia a la clemencia partiendo
-del supuesto de una vocación religiosa. Lo que se puede entrever de su
-gobierno, en líneas generales, es que dejó en manos de los gobernadores
-las tareas de defensa del territorio y de combate al contrabando,
-enfocando su mandato en la mejora de la fiscalidad. Por otra parte, lo
-que sí parece evidenciar una relación entre su gobierno y su futura
-ordenación fue el beneficio a las órdenes religiosas y la lenidad con la
-que se aplicó el proyecto de secularización de doctrinas, situación que
-contrasta con lo experimentado en el virreinato de Nueva España, Perú, e
-incluso en la Audiencia de Quito.[^52] Antes que lanzar hipótesis
-difíciles de sustentar, consideramos que el actuar de Solís, aunque fue
-particular en cuanto a las gracias que concedió, no significó otra cosa
-que hacer uso de la facultad que se le había otorgado.
-
-En la pesquisa documental realizada para esta investigación, un
-expediente que llamó la atención desde el inicio fue la petición
-descrita erróneamente como "Indulto concedido al gobernador de Girón,
-Pedro Velázquez, después del juicio de residencia que se le
-siguió".[^53] La verdad es que no es un proceso simple para seguir, y
-menos para resumir en unas cuantas líneas. A finales de 1758, Pedro
-Velázquez, avecindado en Santa Fe desde hacía varios años, elevó una
-súplica al virrey Solís en la cual le solicitó se le restituyera la
-honra que podría verse afectada tras un injusto proceso que lo habría
-llevado al destierro de la provincia de Girón. Todo habría empezado en
-1746, cuando el gobernador y alcalde mayor de entonces, don Agustín
-Gutiérrez de los Ríos,[^54] acusó a Velázquez de haber defraudado la
-Real Hacienda y de promover el desorden en la provincia. Según declaró
-el hijo de Velázquez, el doctor en cánones y presbítero don José, el
-acoso al que fue sometido su padre le forzó a abandonar la ciudad de
-Girón y dirigirse a Santa Fe con toda su familia. Gutiérrez de los Ríos
-elevó entonces un informe al virrey Eslava en el cual le daba cuenta de
-los abusos de Velázquez, por lo que el destierro fue ratificado por una
-real orden en la que se le conminaba al desterrado que no podría volver
-a dicha ciudad, so pena de multa por dos mil pesos y remisión a la
-cárcel gironesa.
-
-Poco tiempo después, Velázquez solicitó al virrey que le permitiera
-regresar temporalmente a Girón con el propósito de atender algunos
-negocios que había dejado en la ciudad. Por haber presentado en su
-súplica que la salida de la provincia había sido voluntaria, resultado
-de la persecución a su persona y familia, el virrey Eslava concedió el
-permiso y moderó la real orden de tal modo que fuera suspendido el
-destierro por seis meses, para que así pudiera transar, cobrar y
-arreglar sus negocios.[^55] En su viaje de regreso, que hizo en compañía
-de su hijo José, se alojaron en el sitio de Piedecuesta, a unos 16
-kilómetros de la ciudad de Girón, donde estuvieron casi cinco días
-esperando a ser atendidos por el gobernador, quien se encontraba
-dirigiendo la visita que hacía a la provincia el obispo de Quito. En ese
-lugar, Velázquez fue apresado por el alguacil mayor, y se ordenó el
-embargo de bienes por haber incumplido con la orden de destierro, a
-pesar de que el gobernador ya había recibido la real orden de suspensión
-y la había obedecido. Gutiérrez de los Ríos había incumplido la orden de
-Eslava porque, según dijo, afectaba el "decoro" de su empleo. Ante esto,
-el virrey decidió suspender indefinidamente el destierro, permitiéndole
-a Velázquez transitar libremente por la provincia de Girón, amonestando
-en consecuencia al gobernador por no haber prestado la obediencia debida
-al despacho virreinal.[^56]
-
-Todo indica que Velázquez logró superar el destierro desde entonces.
-Incluso, fue nombrado gobernador de Girón por segunda vez, por orden del
-virrey Pizarro; oficio que ejerció entre 1751 y 1753.[^57] En esos
-términos, pareciera que la suspensión indefinida del destierro no había
-interferido con su nombramiento, ni que las rencillas con el otrora
-gobernador Gutiérrez de los Ríos hubiese trascendido. No obstante,
-existía cierto resquemor por parte de Velázquez, de que en algún momento
-pudiese utilizarse la primera real orden como argumento para afectar la
-honorabilidad de sus herederos. Por esa razón, apeló al virrey para que
-le fuera restituida la fama, específicamente, que se le regresaran los
-originales del informe de Gutiérrez de los Ríos, y la decisión tomada
-por el virrey, para que se les declarara sin ningún efecto. El virrey
-Solís aceptó la petición de Velázquez, declaró nulo el destierro por
-haber surgido de actuaciones viciadas de subrepción y obrepción, y
-determinó que no se le pudiese afectar en su buena opinión, fama, honor
-propio, ni en el de sus descendientes.[^58]
-
-Dos años después, Velázquez volvió a presentarse ante el virrey Solís,
-pero esta vez lo hizo para pedir indulto. Las características de su
-petición son las que hacen de este caso digno de mención. El
-exgobernador le manifestó al virrey que, a pesar del decreto concedido
-dos años antes, temía que las acusaciones que se le habían realizado
-como defraudador de la real hacienda resurgieran en algún momento, fruto
-de las rencillas con sus enemigos en la provincia. En sus palabras, le
-pidió al virrey que: "hallándose en V. E. la superior facultad de el
-indulto y el perdon, ocurro á esta para que usando de ella en mi
-beneficio se sirva aplicármela como si en la realidad fuese yo
-perjudicador de la Real hazienda".[^59] Es realmente extraña esta
-petición, pues de cierta manera falsea una confesión. No solicitó ser
-declarado inocente pues primero debería ser citado, oído, y vencer en
-juicio; lo cual implicaría alargar más su angustia e invertir en las
-costas de un proceso que podría durar varios años. Su súplica se centró
-en ser restituido al *pristinum statum* en el que se hallaba, según
-dice, "antes de cometer los tales delitos". Para declararlo como
-indultado no se presentaba impedimento, pues no había parte que
-requiriera satisfacción; tampoco en los juicios de residencias que se le
-habían llevado tenía antecedentes como reo por deudas. Finalmente,
-ofreció a cambio del perdón el depositar dos mil patacones en la Caja
-Real.[^60]
-
-El virrey Solís aceptó la solicitud, considerando que aunque era público
-y notorio que Velázquez no tenía nota negativa en la Audiencia, y que
-"se ha portado bien y fielmente con toda Christiandad, amor, y celo al
-real servicio, sin que aiga delito ó culpa sobre que recaiga el yndulto
-que solicita".[^61] Ordenaba así, nuevamente, que nadie podría acusarlo
-de defraudador de la real hacienda, en ningún tribunal de la monarquía.
-Como corolario, declaraba que los delitos de fraude, usurpación, y
-omisión que se hubiesen cometido durante el ejercicio de sus empleos
-como gobernador eran perdonados, después que se recibieran en las cajas
-reales los dos mil patacones prometidos, como efectivamente se cumplió
-dos días después de expedido el decreto.[^62]
-
-Claramente, el expediente en mención llama la atención por los aspectos
-excepcionales del mismo, en particular, la petición de un perdón sin
-culpa, de un indulto sin delito, y de una remisión a futuro. Por otra
-parte, la actuación del virrey pareciera ser excesiva. No habiendo
-juicio de por medio, ni asesoría de letrado, este oficial decidió usar
-de su facultad en honor al mérito de quien consideró fiel y amoroso al
-real servicio. Recurrió a un argumento de misericordia, pues sustentó la
-aceptación de la erogación prometida por la avanzada edad del
-impetrante, y las enfermedades que le requerían quietud y retiro, pero
-no fue la única justificación para conceder el indulto. Podría suponerse
-un acto de gobierno en el que el virrey declaraba por concluida la
-rencilla entre las familias Gutiérrez de los Ríos y Velázquez, pero la
-lectura del expediente no indica ningún acto que fuera más allá de la
-concesión arbitraria del perdón por parte de Solís. Lo que sí queda
-expresado es un acto de perdón por merced, es decir, como gratificación
-por méritos surgida tras la súplica, no por haber sido movido a la
-misericordia o por su mera voluntad (gracia); la cual vino acompañada de
-una usual oferta de donación a las reales cajas.[^63]
-
-La petición de perdón de don Pedro Ignacio Sánchez Arroyave, hecha por
-su madre, la septuagenaria doña Margarita, podría considerarse otro caso
-de perdón por merced. Según indica el real decreto donde consta el
-indulto, "un hombre inferior", el sargento de infantería Juan José
-Rondón, habría perseguido a Sánchez para atacarlo "con lanzas, sus hijas
-y un perro", y este último, viéndose en desventaja, optó por defenderse
-con su pistola en lugar de utilizar un arma permitida. El disparo hecho
-por Sánchez, dice el procurador de su madre, fue dirigido al perro, y al
-sargento solamente lo habría herido levemente con un arma blanca. Rondón
-denunció a don Pedro y se inició el proceso por los jueces ordinarios de
-la villa de Medellín, motivo por el cual estuvo prisionero con grilletes
-durante nueve meses. En el transcurso de su prisión, Rondón se apartó de
-la querella, pero fue seguida de oficio por el gobernador, quien
-finalmente lo condenó al pago de costas y dos años de destierro.
-
-Similar al caso de Pedro Velázquez, la impetración de la madre de Pedro
-Ignacio Sánchez no se dirigía hacia la simple remisión de la pena, la
-cual estaba pronta a ser cumplida, sino al perdón del delito y su
-consecuente *restitutio famae*. Nuevamente es una petición para
-restituirse al *pristinum statum* que podía conseguirse con el perdón
-del delito. El efecto que se esperaba queda claramente definido en la
-súplica: "que pueda quedar libre de el \[delito\] sin que ninguna
-justicia le pueda molestar, sino que, como que no lo hubiera executado,
-pueda vivir en su domicilio libre, como antes que contragese este exesso
-lo asia, obteniendo los empleos de republica como los ha obtenido, y sin
-obstáculo alguno en los venideros".[^64] Era esta una apelación al
-merecimiento, por su familia y por los servicios en empleos de república
-de su hijo, pero era también un llamado a la clemencia:
-
-> Su aflixida Madre, ocurre a la Soverana piedad de vuestra excelencia
-> por medio de su poder, para que su Gran Clemencia se digne condonarle,
-> y indultarle asi del recuadro y pricion mandada hazer, como de la pena
-> que por el exprezado delito pudiera purgar, lo que pareze tener lugar
-> lo primero en la ynacta misericordia del magnánimo pecho de vuestra
-> excelencia, reflexcionando el desconsuelo y desabrigo que padece la
-> madre viuda de este reo provocado, siendo el único auxilio que tiene
-> para alimentarse a si y a sus hijas, y quatro nietas que lo que le
-> sufraga el expresado Don Pedro, el que hallándose prófugo abrá de
-> pereser y mendigar su desente familia, que ha de hacer fuerza a la
-> generosidad y grandeza de el animo de vuestra excelencia para que
-> conceda el perdon de este delito.[^65]
-
-En estas pocas y enrevesadas líneas se percibe un fuerte argumento a
-favor del perdón del reo, pues se clama a la clemencia innata del virrey
-antes que a su facultad para conceder indultos. Las consecuencias que
-conllevaría el ceñirse a la justicia serían poco menos que excesivas si
-se tiene en cuenta la calidad del delito: el desamparar a la viuda,
-arrastrar a una familia decente a la mendicidad (es decir, llevarla a la
-indecencia) por fuerza del hambre, y condenar a muerte al prófugo. En
-esos términos, llevar a cabo el castigo excedería la pena condigna, y
-teniendo en cuenta que ya se habría cumplido parte de la condena, habría
-por lo menos garantía de arrepentimiento.
-
-Para finalizar su petición, el capitán Gálvez ofreció cien pesos a
-beneficio de la Real Hacienda, para "influir" en el "christianisimo
-corazón" del virrey. El fiscal no presentó ninguna objeción, por lo que
-el virrey Solís pudo decretar que se le concedería el perdón a Ignacio
-Sánchez, después de haberse consignado la cifra prometida en la Real
-Caja, por la herida dada a Juan José Rondón, y por el porte y uso de un
-arma prohibida. El mismo día se llevó a cabo la erogación y la concesión
-del perdón, dentro de cuyo edicto se resaltó que se otorgaba porque
-aunque se disparó el arma prohibida no se ocasionó la muerte de nadie.
-También se dejó consignado que este perdón conllevaba la restitución de
-la fama del reo, con lo cual podría tener empleos de la república y
-gozar de los demás derechos que le competían antes de haber cometido el
-delito. Por lo cual, se le devolvieron a Pedro Ignacio Sánchez los autos
-que se adelantaron en la Real Audiencia y se expidió el superior
-despacho que ordenaba el perdón, el cual fue obedecido en el cabildo de
-la villa de Medellín el 18 de marzo de 1756.[^66]
-
-Solís también le concedió perdón a Francisco Cordero Vidal, vecino de
-Quito, condenado a pérdida de bienes después de acusársele de
-contrabando. Este hombre perteneciente a una de las redes familiares
-notables de Quito, había sido sentenciado después de que en plena Guerra
-del Asiento vio impedido su embarco desde Guayaquil para dirigirse a la
-península, por lo que, ayudado por algunos misioneros jesuitas, optó por
-tomar la vía fluvial del Marañón para entrar al Amazonas y salir al
-Atlántico por la gobernación del Gran Pará.[^67] En la ciudad de Belém
-le solicitó al gobernador que le permitiera embarcarse hacia Lisboa bajo
-la protección portuguesa, requerimiento que fue rechazado por el oficial
-portugués por ser vasallos del rey de España. Después de tres meses sin
-poder emprender el viaje, Cordero decidió regresar a Quito, para lo cual
-cambió algunas alhajas que tenía por ropas portuguesas, con las cuales
-pretendía suplir en parte los costos que le había representado su
-aventura. Para su mala fortuna, la noticia de esa transacción fue
-conocida por la Audiencia de Quito, cuyos oidores ordenaron se le
-"descaminase" de los bienes adquiridos en Belém.[^68] Posteriormente se
-le siguió causa pero, como Cordero pudo demostrar con facturas que el
-juez encargado pretendía defraudar a la Real Hacienda, se le condenó a
-la pérdida de bienes y no tuvo pena personal.[^69]
-
-La impetración de Cordero no consistió en la devolución de sus bienes
-(como se podría esperar), sino en la remisión del "reato" derivado de la
-trasgresión, de la cual aceptaba culpa por haber actuado con ignorancia.
-El virrey Solís le perdonó, aunque con la salvedad de que su sentencia
-solamente incluía la pérdida de bienes y no lo inhabilitaba para obtener
-empleos de república.[^70] ¿Por qué Cordero pidió perdón si no existía
-dicho impedimento? Aunque el reato fuera un concepto más cercano al
-orden teológico, relativo a la idea de que el pecado original no se
-borró a pesar del perdón de Cristo, permite entender el sentido de "lo
-que permanece" después del crimen.[^71] No parece coincidencia que en
-los tres casos presentados la preocupación principal para la obtención
-del perdón no haya sido la remisión de la pena sino el eliminar el
-reato, lo cual se lograba mediante la manifestación explícita del virrey
-que expedía un instrumento escrito para que el restituido a la fama
-pretendiera evitar las acciones en su contra.
-
-¿Podía el perdón del virrey aminorar o eliminar la animadversión de los
-vecinos y jueces con el que había adquirido la infamia? Es difícil
-saberlo con certeza, para ello habría que hacer seguimiento a cada caso
-en particular. Cordero Vidal conservó el título del obraje de Calpi en
-Riobamba, herencia de su abuelo don Juan de Orozco,[^72] pero no he
-hallado otro documento que indique su vinculación a un empleo de
-república. Pedro Ignacio Sánchez de Arroyave no parece haber accedido a
-nuevos oficios, con excepción tal vez de algunas comisiones.[^73] Por su
-parte, José Velázquez Zubillaga, el presbítero hijo del exgobernador don
-Pedro, continuó su carrera eclesiástica y, hasta donde nos es posible
-saber, continuaba en la jurisdicción de Girón para 1779.[^74] No es
-claro entonces si la *restitutio famae* tuvo efectos que trascendieran
-el mero acto del virrey, pero debemos suponer que existía cierta
-utilidad en pedir esta merced y erogar una cantidad para la Real
-Hacienda.
-
-Un caso que no representó una concesión de perdón por merced fue el
-otorgado a Nicolás Ramírez, vecino de La Palma, sentenciado en ausencia
-a seis años en el presidio de Cartagena por haber dado muerte a Antonio
-de Torres en 1751. La petición de perdón fue presentada en noviembre de
-1760 por Domingo Ortiz, procurador de la Real Audiencia, en nombre del
-padre del condenado, Javier Ramírez. Su impetración apelaba a la
-misericordia del virrey, no se negó la culpabilidad, pero se matizó el
-crimen al sustentar que había sido provocado por el occiso.
-Sencillamente, se apeló a la "facultad de conceder indultos y perdon,
-con que ha beneficiado a muchos la Superior Clemencia de Vuestra
-Excelencia", para que restituyera "al estado hábil en que antes se
-hallaba" y anulara la condena, para permitirle así retornar a su casa y
-continuar "sirviendo en varias haciendas".[^75] Nicolás Ramírez era
-dueño de esclavos, como se evidencia en la apelación por la súplica de
-libertad de una esclava de su propiedad hecha en el año de 1750,[^76] y
-tal vez por ello su interés en la remisión de la pena radicaba
-únicamente en el poder retomar sus negocios. El fiscal protector de
-indios, Fernando Bustillos Gutiérrez,[^77] actuando como fiscal del
-crimen, consideró que debido a que el homicidio había sido causado en
-legítima defensa y a haber pasado nueve años de destierro voluntario,
-podía ser perdonado si el virrey así lo deseaba, a cambio de pagar
-cincuenta pesos "por la razón de esta gracia". Solís aceptó la solicitud
-de perdón, requiriendo solamente que la cantidad se aumentara a cien
-pesos.[^78] Lastimosamente, no contamos con el expediente de la causa
-contra Ramírez, por lo que no es posible saber con certeza si obtuvo el
-indulto.
-
-Llama la atención que el procurador haya resaltado que el virrey había
-"beneficiado a muchos" con su facultad de perdonar delitos. Aunque
-cuatro casos para nueve años de gobierno no parecen construir una
-tendencia, por lo menos evidencian una actuación que era ajena a los
-demás virreyes. La pregunta que queda entonces consiste en ¿cuántos
-fueron los perdones del virrey Solís? Mencionar el haber favorecido a
-varios vasallos pudo ser una fórmula retórica para halagar la clemencia
-del virrey, pero es muy probable que estemos también ante una
-problemática documental. La petición de perdón del exgobernador
-Velázquez es clara en demandar que, respecto a los autos obrados y en
-curso, "todo se ha de romper y quitar". Por otra parte, Pedro Ignacio
-Sánchez, ya indultado, pidió que se le devolvieran los autos originales
-de su impetración y solo se dejara testimonio en el archivo de la Real
-Audiencia, que corresponde al documento al que pudimos tener acceso. Lo
-más probable es que la respuesta parcial solamente se encuentre al hacer
-una revisión profunda en los archivos regionales de la jurisdicción del
-virrey del Nuevo Reino de Granada, lo cual, obviamente, sobrepasa las
-posibilidades de este trabajo.
-
-Es posible inferir que la actuación de Solís fue particular, y que si
-tenemos en cuenta sus peculiaridades como gobernante "prudente",
-posiblemente tendiente a la clemencia antes que al rigor. Por otra
-parte, no hay evidencia diferente a que los perdones particulares de
-Solís favorecieron a miembros de las "familias decentes" de su
-jurisdicción. No fueron crímenes graves los que tuvo que perdonar, ni
-sentencias excesivas las que necesitó remitir. Podría considerarse que
-sus indultos tuvieron un interés pecuniario al estar condicionados a una
-suma que ingresara a la Caja Real, pero solamente una revisión detallada
-de los cargos de "depósitos y condenas" podría brindar luces en este
-sentido.[^79] A pesar de los pocos datos que se han podido consultar,
-fue posible evidenciar una faceta del "virrey-fraile" que hasta el
-momento era desconocida, la cual de seguro puede ser enriquecida con los
-ingentes esfuerzos de la comunidad de historiadores enfocados en la
-reconstrucción de los gobiernos de los virreyes del Nuevo Reino.
-
-El indulto general a nombre del rey
------------------------------------
-
-Aunque el perdón general era una suprema regalía la amplia facultad que
-se les había dado a los virreyes para remitir delitos en casos
-especiales, sin requerir consulta o ratificación del rey a través del
-Consejo de Indias, les permitía utilizar el nombre del rey para expedir
-decretos de indulto general. El término "perdón general" era comúnmente
-utilizado cuando se quería garantizar a los partícipes de un
-levantamiento que no serían castigados ni entonces, ni en el futuro; sin
-embargo, hubo dos ocasiones en las cuales los virreyes del Nuevo Reino
-utilizaron el "indulto general" de una manera mucho más amplia que
-cualquier otro perdón particular. Hablamos entonces de ofertas de
-remisión que apelan a la alegría o la felicidad pública, incluye a reos
-presentes y ausentes, estipula un plazo para acogerse a la gracia, y
-especifica los delitos incluidos y exceptuados en ella. Es decir, eran
-formas que se asimilaban al perdón general que podía dar el monarca,
-aunque limitados a la jurisdicción de dominio del virrey.
-
-Es de esperar que este tipo de indultos no fueran comunes. De hecho,
-solamente se expidieron dos perdones generales durante la vigencia del
-cargo de virrey del Nuevo Reino de Granada, el primero fue expedido por
-el arzobispo-virrey Caballero y Góngora el 7 de agosto de 1782, meses
-después de culminadas las acciones del levantamiento de los comunes del
-Socorro; y el segundo fue el mencionado indulto del virrey Amar y
-Borbón, expedido el 14 de octubre de 1808, en celebración del cumpleaños
-del rey cautivo. El indulto de 1782 es ampliamente conocido por la
-historiografía colombianista ya que hace parte de uno de los eventos
-reconocidos como el antecedente inmediato de la Independencia,
-reivindicado así desde las primeras narrativas históricas nacionales. El
-indulto general de 1808 ha recibido menos atención por parte de la
-historiografía colombianista posiblemente porque su "impacto político"
-fue bastante limitado. Ninguna de estas gracias fue un acto que
-exclusivamente se hubiese dado en el Nuevo Reino de Granada, de hecho,
-es sencillo encontrar paralelos con el indulto general que proclamó en
-1781 el virrey del Perú Agustín de Jáuregui a favor de los rebeldes,
-incluidos los cabecillas, que continuaron con la rebelión de Túpac
-Amaru; así como el indulto que el virrey novohispano José de Iturrigaray
-declaró en septiembre de 1808 a favor de todos los delincuentes del
-virreinato.[^80] También para el virreinato de Río de la Plata se
-concedieron indultos por parte del virrey Juan José Vértiz, en enero de
-1782, a los insurrectos peruanos que se habían replegado en la provincia
-de Charcas, y en enero de 1809 el virrey Santiago de Liniers indultó a
-quienes se levantaron contra el soberano en su jurisdicción.[^81]
-
-El paralelismo no implicó que los indultos tuviesen la misma amplitud,
-recepción o aplicación en todos los distritos virreinales. Es reconocido
-el hecho de que las ofertas de perdón a las cabezas rebeldes peruanas
-terminaron en la retractación de las autoridades, quienes encontraban
-justificaciones para ameritar el juicio y el castigo de los
-protagonistas de las revueltas, hecho que contribuyó a alimentar la
-desconfianza de los levantados frente a las ofertas de benignidad de las
-autoridades tanto peruanas como rioplatenses.[^82] De la misma manera,
-las sedes virreinales de Nueva España en 1808 y Buenos Aires en 1809,
-lidiaban con la confrontación directa a los titulares del solio del
-virrey; en contraste, al momento de expedirse el indulto en Santa Fe, la
-situación era tensa pero no había indicios de un ataque directo a la
-figura del vicario regio.
-
-### El indulto general de 1782
-
-Existe poco riesgo en afirmar que la "rebelión de los comuneros"
-constituye uno de los levantamientos más conocidos de la historia del
-Nuevo Reino de Granada.[^83] La sublevación protagonizada por la gente
-común, o comunes, del Socorro (de donde deriva su nombre), ha sido
-narrada como la expresión de la resistencia criolla ante el despotismo
-realista. Se consideró por muchos años como una oportunidad fallida de
-independencia y, en algunos casos, como "una revolución social
-abortada". [^84] Tras más de medio siglo de revisionismo, la historia de
-Colombia ha encontrado consenso en considerar la rebelión de los comunes
-del Socorro como una "revuelta tradicional", que rechazó las medidas
-tomadas por el regente Gutiérrez de Piñeres, quien "por ignorancia de
-los hechos" habría evitado la negociación acostumbrada con los vasallos.
-Como resume Jorge Orlando Melo, la rebelión "buscaba corregir los
-errores y excesos y en ningún momento puso en duda la autoridad
-real".[^85] Sin embargo, a pesar de la relevancia de las sublevaciones
-locales en el gobierno del virreinato, no es prudente menospreciar las
-implicaciones de la rebelión de los comuneros en el orden político de
-las provincias del Nuevo Reino, ni descartar que, aunque no hubiese un
-interés por atacar la autoridad real, la relación entre las autoridades
-españolas y los vasallos americanos se modificaron significativamente en
-los años posteriores al levantamiento. Como lo explicó Anthony McFarlane
-hace dos décadas, aunque la rebelión comunera no fue un movimiento
-independentista, sí provocó una crisis política al demostrar a la corona
-que ya no era posible depender de la obediencia incondicional de sus
-súbditos en el Nuevo Reino de Granada.[^86]
-
-En sus inicios, la rebelión era similar a cualquier otro levantamiento
-local con pequeños disturbios en villas como Simacota, Mogotes y Charalá
-que rechazaban la imposición del estanco del tabaco y del aguardiente,
-además del impuesto de la armada de Barlovento al hilo de algodón,
-medidas introducidas por el visitador Gutiérrez de Piñeres desde
-mediados de 1780.[^87] Para marzo de 1781, cuando se impusieron nuevos
-cargas fiscales, se orquestó el levantamiento del pueblo del Socorro
-para el domingo 16, aprovechando la aglomeración de personas por ser día
-de mercado. Rápidamente la revuelta tuvo eco en otras poblaciones
-afectadas por las restricciones al cultivo del tabaco, específicamente
-Simacota, Pinchote y San Gil. Para mediados de abril el Socorro ya había
-presenciado tres importantes revueltas y de ellas emergió un liderazgo
-local que se encargó de concertar el movimiento regional en contra del
-visitador general y las innovaciones fiscales.[^88] Gracias a este
-encabezamiento y la organización de un "Supremo consejo de guerra", la
-rebelión alcanzó un nivel de coordinación poco frecuente en otras
-sublevaciones de la época, de tal manera que en pocas semanas lograron
-ocupar posiciones y sumar pueblos a su causa. Entre tanto, en la capital
-se desarrollaba una estrategia en la cual los oidores y el arzobispo
-Antonio Caballero y Góngora lograron convencer al regente Piñeres, quien
-fue el blanco del odio popular,[^89] para que huyera de Santa Fe y se
-refugiara en la seguridad de Cartagena, ciudad donde se encontraba el
-virrey Manuel Antonio Flórez organizando los preparativos para un
-posible ataque de las tropas inglesas.[^90] El movimiento se fortaleció
-significativamente con la unión de los pueblos de la provincia de Tunja,
-lo cual le brindó un carácter de levantamiento general al poder incluir
-indígenas dentro de sus capitanes y soldados, de los cuales el más
-destacado fue Ambrosio Pisco, quien sería conocido como el "príncipe de
-Bogotá"; con lo cual lograban imitar el carácter indígena de la temida
-rebelión de Túpac Amaru II.[^91]
-
-Francisco Berbeo, capitán de los sublevados, logró agrupar una fuerza
-cercana a los 20000 hombres, "mal apertrechados pero entusiastas", con
-los cuales logró establecerse a la distancia de un día de camino hasta
-Santa Fe. El 31 de mayo, Berbeo se reúne con el arzobispo de Santa Fe,
-Antonio Caballero y Góngora, comisionado por la Audiencia para llevar a
-cabo la pacificación de la sublevación. Tras esta reunión se separan los
-sublevados provenientes de Tunja y Sogamoso, quienes se instalan en la
-población de Cajicá con el propósito de frenar el avance de los
-socorranos y evitar su llegada a la capital. Entre tanto, Berbeo tenía
-la presión de conseguir un acuerdo con el arzobispo antes de la llegada
-de las tropas desplegadas por el virrey desde Cartagena.[^92] Entre más
-se dilataban las negociaciones se incrementaba la impaciencia de los
-comuneros, quienes en un momento llegaron a tumultuarse y a gritar
-"guerra, guerra a Santa Fe"; con lo cual generaron un nivel de tensión
-que obligó al arzobispo a aceptar los términos de las "capitulaciones"
-según lo exigían los rebeldes. Finalmente, la Audiencia aprueba los
-términos, justificándole al rey que actuaban así porque de otra manera
-se hubiese dado paso al saqueo de la capital y "la total destrucción de
-la autoridad real".[^93]
-
-Después de la firma de las capitulaciones vino un proceso en el cual las
-autoridades santafereñas buscaron estrategias para desaprobar las
-capitulaciones; de hecho, al momento de desarmarse los comuneros y
-restablecerse el orden en el reino el tratado fue formalmente anulado
-bajo el argumento de que éste había sido impuesto por la fuerza.[^94] La
-excusa de la cual se sirvieron para anular las "capitulaciones" fue el
-amotinamiento de los indios de Nemocón, reprimido con rapidez y rigor,
-dejando varios amotinados muertos y otros capturados, quienes fueron
-trasladados para ser juzgados a Santa Fe. Entre estos últimos se
-encontraba Ambrosio Pisco, acusado de traición y crimen de lesa
-majestad.[^95] Por otra parte, en el valle del río Magdalena el grupo al
-mando de José Antonio Galán, charaleño apostado en el lugar para evitar
-la comunicación entre Santa Fe y Cartagena por esta vía, desobedeció la
-orden de replegarse a sus pueblos y se hizo rebelde contra Berbeo y los
-demás capitanes comuneros. Finalmente, apostado en el poblado de Onzaga,
-fue capturado por una escuadra capitaneada por Salvador Plata, quien
-había sido capitán general de los comuneros del Socorro. Este personaje
-se ha constituido en la figura más reconocida del movimiento gracias a
-la mistificación del personaje hecha por la narrativa nacional, y luego
-por la izquierda del siglo XX, similar a la suscitada por la figura de
-Túpac Amaru II en el Perú.[^96] Si bien la gloria militar de Galán se
-reduce a un par de victorias en el valle del Magdalena, y a pesar de no
-haber logrado acarrear consigo la suficiente fuerza en hombres y
-alianzas como para avanzar hacia Santa Fe, se convirtió rápidamente en
-la figura que necesitaba la Audiencia de Santa Fe para ratificar la
-necesidad de actuar con rigor contra los rebeldes que no aceptaban
-acatar las órdenes de las autoridades santafereñas. En palabras de
-Phelan, "Había que volver a Galán un símbolo de la rebelión, a fin de
-sembrar el temor entre sus posibles imitadores".[^97]
-
-El juicio de Galán fue expedito pero no apresurado. Durante tres meses
-se llevó a cabo un proceso ordinario del cual resultó sentenciado a la
-pena ordinaria junto a sus tenientes, en tanto otros miembros de su
-tropa fueron condenados a castigo corporal de azotes. Aunque la
-ejecución de Galán y sus tenientes no alcanzó los niveles de
-espectacularidad de los suplicios de José Gabriel y Diego Cristóbal
-Túpac Amaru,[^98] el mensaje ejemplarizante que se quería transmitir con
-su martirio público fue evidente. La aplicación de último suplicio por
-horca y corte de miembros no era común, de hecho en la revisión de los
-casos por homicidio que se realizó en el Archivo General de la Nación de
-Bogotá solamente se hallaron dos sentencias de último suplicio que
-involucraron el desmembramiento *post mortem* de la mano derecha, que
-debía ser puesta posteriormente en una escarpia en el lugar donde se
-cometió el delito. Aun así, en ninguno de los casos se aplicó porque los
-reos lograron escapar de las cárceles.[^99] En todo caso, el derecho
-castellano especificaba que la pena ordinaria para el crimen de lesa
-majestad era morir "infame y ahorcado", perdimiento de bienes, infamia
-de los hijos y de su memoria, además de la destrucción de sus
-casas.[^100]
-
-No es exagerado afirmar que la Audiencia deseaba que la ejecución de
-Galán tuviese un gran impacto en aquellos que asistieran al suplicio o
-supieran de él por vía del rumor o la noticia. La sentencia por lesa
-majestad cumplió con lo determinado de manera ordinaria, pero se
-incluyeron algunos "toques macabros" (como los caracterizó Phelan).
-Galán fue penado con morir ahorcado, que su cuerpo fuera decapitado y
-dividido en cuatro partes, ordenándose que los restos se quemaran y los
-miembros distribuidos por los escenarios de la revuelta. La cabeza
-tendría como destino Guaduas, "teatro de sus escandalosos insultos", la
-mano derecha en el Socorro, la izquierda en la villa de San Gil, el pie
-derecho en Charalá (su lugar de nacimiento) y el izquierdo en Mogotes,
-escenario último de sus acciones. Finalmente, se declaró infame su
-descendencia, embargados sus bienes, se ordenó el derribo de su casa y
-que fuese sembrada con sal, "para que de esta manera se dé al olvido su
-infame nombre y acabe con tan vil persona tan detestable memoria, sin
-que quede otra cosa que el odio y espanto que inspira la fealdad del
-delito".[^101] Similar destino corrieron las vidas y cuerpos de los
-tenientes Isidro Molina, Lorenzo Alcantuz y Manuel Ortiz; en tanto los
-diecisiete cómplices restantes fueron azotados, pasados por debajo de la
-horca con un dogal al cuello, sus bienes confiscados y desterrados
-perpetuamente a los presidios de África. Otros cuatro individuos que se
-vieron involucrados en menor medida fueron desterrados de Santa Fe y las
-villas del Socorro y San Gil.[^102]
-
-El suplicio de Galán representó el final de la sublevación de los
-comuneros,[^103] pero el colofón de la revuelta fue el indulto general
-concedido por el ahora arzobispo-virrey Caballero y Góngora, con el cual
-extendió el perdón que había concedido el virrey Flórez en octubre de
-1781.[^104] Tras la huida del regente Piñeres, y con la ausencia del
-virrey Flórez, el prelado santafereño se convirtió en la cabeza de facto
-del poder político en el Nuevo Reino, ganando protagonismo y prestigio
-en la Corte gracias a la representación que hizo de su papel en la
-pacificación de los rebeldes. Sólo hasta la ejecución de Galán, le fue
-aceptada la renuncia que había estado solicitando el virrey Flórez y le
-fue trasladado el empleo a Juan de Torreázar Pimienta, gobernador de
-Cartagena, quien murió a los pocos días de arribar a Santa Fe, el 11 de
-junio de 1782. Caballero y Góngora, quien gozaba del favor real, además
-del apoyo del regente Piñeres (quien regresó a Santa Fe en febrero de
-1782), fue designado por el rey como el encargado de ejercer el
-virreinato *ad interim* en caso de que Flórez o Pimienta no pudiesen
-ejercer sus cargos. La coincidencia trágica de la muerte del virrey
-permitió que el arzobispo asumiera el empleo el 15 de junio de 1782 de
-manera temporal y fuese titulado como virrey en propiedad el 7 de abril
-de 1783 por un periodo de cinco años.[^105]
-
-Una de sus primeras acciones como virrey fue precisamente la publicación
-del "Edicto para manifestar al público el indulto general concedido por
-nuestro Catholico Monarca El Señor don Carlos III. A todos los
-comprehendidos en las revoluciones acaecidas en el año pasado de mil
-setecientos ochenta y uno".[^106] Desde el punto de vista formal, el
-indulto fue dividido en 13 capítulos, que se pueden agrupar en tres
-secciones. Del numeral 1 al 5 las cláusulas relativas a la remisión de
-los culpados por la rebelión, del 6 al 9 las promesas para la felicidad
-pública del reino, y desde el apartado 11 se convierte en una
-exhortación a los vasallos para el requerido obedecimiento y sumisión a
-la autoridad real. El edicto fue distribuido en un impreso de 20
-cuartillas y puede considerarse como uno de los primeros impresos de
-gran alcance en el Nuevo Reino de Granada.[^107] En prácticamente
-cualquier colección documental y patrimonial de Colombia se encuentra
-una o varias copias de este edicto, y es bastante frecuente encontrar
-ejemplares en archivos latinoamericanos, lo cual da cuenta de la
-dimensión de su distribución. El "Edicto" fue una de las armas
-publicitarias del gobierno de Caballero y Góngora, quien heredó del
-virrey Flórez el interés por utilizar la imprenta como una innovación
-que permitiría la pronta circulación de las determinaciones reales por
-las diferentes provincias virreinales. Casualmente, la conclusión de la
-rebelión comunera permitió que se utilizara la imprenta para comunicarse
-con el público con dos impresos: el edicto en cuestión y la exhortación
-del fraile Raymundo Azuero leída después del suplicio de Galán y sus
-cómplices, la cual se tituló *Premios a la obediencia: castigos a la
-inobediencia*.[^108]
-
-El edicto representó mucho más que un indulto general del
-arzobispo-virrey, consistió en una declaración de un plan de reforma al
-virreinato en el cual se ofrecía una mano blanda para la justicia y las
-demandas fiscales, a la vez que se prometía la prosperidad del
-virreinato. Francisco Silvestre, gobernador de la provincia de
-Antioquia, escribiría en retrospectiva crítica que este indulto parecía
-por una parte "edicto pretorio" y por otra "carta pastoral, sin ser
-ninguno de los dos, "aunque redundante en palabras, que ofrecen mucho, y
-nada dicen, ni cumplen."[^109] Anthony McFarlane incluso consideró que
-en el texto del indulto estaba señalado el compromiso por un "nuevo
-pacto colonial, en el cual la corona ofreció los frutos del progreso
-económico a cambio de la obediencia incondicional a la autoridad
-real".[^110] Es evidente que la rebelión de los comunes del Nuevo Reino
-trajo como consecuencia un afán por revitalizar la conciencia del lazo
-entre los vasallos americanos y la Corona, que se puede interpretar al
-modo de François-Xavier Guerra como el "renacimiento del
-pactismo",[^111] y en este sentido fue la expresión del paternal amor,
-clemencia, piedad, y fraternal corrección del rey hacia sus vasallos,
-que debía corresponderse moralmente con la lealtad y obediencia del
-súbdito.[^112] A diferencia de la donación ofrecida por el indulto
-general, este ofrecimiento exigía y esperaba una respuesta superior de
-los agraciados, pues no sólo se les daba su libertad sino se les ofrecía
-el retorno a la fama, mercedes y privilegios que podrían haber perdido
-si no se hubiese otorgado dicha dádiva.
-
-Afortunadamente contamos con una clave de lectura para interpretar la
-intencionalidad del texto representada en la carta que le envió el
-arzobispo-virrey a José de Gálvez, adjunta a seis copias del indulto, en
-la cual le explicó los motivos por los cuales incluyó ciertos puntos en
-el edicto. En la comunicación le dice al Secretario de Indias que el
-indulto lo promulgó "con el único y preferente objeto de dar puntual
-cumplimiento a quanto Su Magestad manda, y radicar más la tranquilidad
-conseguida en esos vastos Dominios".[^113] Más interesante aún es el
-hecho de que casi al finalizar su escrito el arzobispo-virrey le haya
-dicho a Gálvez: "En mucha parte de este yndulto notará V. E. expresiones
-que no merecen estas gentes, pero hay ocasiones en que para decir a uno
-lo que debe hacer es menester suponer, y aun asegurar, que lo há
-hecho".[^114] Es decir, que aunque se acepte que muchas de las frases
-atenuantes de la culpabilidad de los partícipes (en especial los
-cabecillas) fuesen falsas, y que las concesiones se consideren
-inmerecidas, para lograr la obediencia de los vasallos era necesario
-representarlos como si en realidad hubiesen sido víctimas del engaño y
-tuvieran la filial inclinación a obedecer a su legítimo señor. De manera
-tal que políticamente era preferible conseguir la obediencia que errar
-en la merced, como se ratificó en el siguiente párrafo de la carta
-cuando dijo el virrey, "que hay crisis tan peligrosas y con tan
-violentas combulsiones, que es menester cortarlas al instante sin
-reparar en las malas, ó buenas, resultas de los medicamentos. Las que
-observamos son todas las mejores, y el Reyno se halla en una perfecta
-tranquilidad, obedientes los vasallos del Rey, y prontos todos á quanto
-se les mande".[^115] De tal manera que, le aseguraba Caballero a Gálvez,
-gracias a sus acciones se había apagado el fuego de la sedición en el
-Nuevo Reino de Granada.
-
-La excepcionalidad de este indulto en relación con todos los publicados
-por los virreyes americanos radica en que no se limitó a excusar la
-imposibilidad práctica para aplicar los castigos requeridos por la
-vindicta pública. Desde la primera línea el arzobispo se dirige "a todos
-y cada uno de nuestros súbditos de qualesquier estado y condición que
-sean", de cierta manera, parece hablarle a su grey antes que a los
-vasallos. Que una real orden abarcara a los vasallos en general no era
-algo excepcional, pero difícilmente se encuentra una cédula real que
-esté específicamente dirigida a los súbditos. No debe sin embargo
-confundirse con un sermón o un texto doctrinal. El edicto cumplió con la
-forma tradicional, evitando un gran despliegue de retórica o erudición,
-por lo que es claro que quería que fuese entendido de la manera más
-amplia posible, tal vez no alcanzando a los más rústicos, pero por lo
-menos a los principales de cada población. Podría considerarse que la
-innovación que planteó este edicto consistió en que más que centrarse en
-el arrepentimiento y reconciliación de los súbditos, condicionó el
-futuro de la felicidad pública a la tranquilidad del reino. De esta
-manera, no se ofrecía el perdón por un acto desinteresado de clemencia,
-sino con la condición de una "pronta y sincera conversión al
-soberano".[^116] Puede afirmarse que fue un indulto carente de virtud,
-desprovisto de clemencia y paternal amor. Al rey se le describe como
-"amable Soberano", el "más benigno y más liberal de los Monarcas", pero
-hay que resaltar que el arzobispo-virrey se describía a sí mismo como
-"Padre y Pastor de una Grey", que ahora investido de autoridad tendría
-la capacidad para incrementar las gracias y beneficios que la
-liberalidad del rey se dignaría en concederles por su mediación.
-
-El indulto tampoco enunciaba los delitos incluidos o excluidos de la
-gracia, tan sólo advierte que el perdón no abarcaba los derechos de
-terceros o del Real Fisco. Incluía sí a los reos presos y a los acusados
-ausentes que se presentaren en el plazo de un año, cuyas causas no
-serían tratadas por las justicias ordinarias sino deberías ser remitidas
-a la Real Audiencia para continuar los procedimientos en dicho tribunal
-y evitar que quedaran testimonios en los juzgados locales.[^117] En este
-sentido, abarcaba a los acusados de haber hecho parte de la sublevación,
-dejando a arbitrio del juez la gama de delitos que podía remitir y la
-acción a tomar dependiendo de la etapa procesal en la que se encontrara
-el reo. La costumbre especificaba que la base de los levantamientos
-quedaba indultada con el simple hecho de regresar a sus casas; de hecho,
-en 1774 una pragmática sanción de Carlos III determinó que en caso de
-conmoción popular, "todos los bulliciosos, que obedecieren, retirandose
-pacificamente al punto que se publique el Vando \[que los conminaba al
-orden\], quedarán indultados, á excepcion solamente de los que
-resultaren autores del bullicio, ó conmocion popular, pues en quanto á
-éstos, no ha de tener lugar indulto alguno".[^118]
-
-El indulto específicamente incluía a los denominados capitanes de los
-comuneros, quienes habrían tenido "la desgracia de acaudillar gentes y
-mandar tropas sublevadas".[^119] Librar a los cabecillas del castigo
-puede caracterizarse como un aspecto "controversial" del indulto del
-arzobispo-virrey. Como se indicó anteriormente,[^120] la práctica de la
-clemencia real prevenía que se castigasen los líderes del levantamiento,
-que sirvieran como ejemplo, y poder demostrar la piedad con los demás
-partícipes de las sublevaciones. Hábilmente, el indulto indicaba que la
-ejemplaridad del castigo había sido conseguida con el suplicio de Galán
-y sus cómplices, con lo cual quedaría "satisfecha la Justicia" a la vez
-que se habría escarmentado a los seguidores del "jefe
-invulnerable".[^121] Públicamente, Caballero y Góngora lo justificó de
-tres maneras: los capitanes fueron forzados por la turba, aceptaron los
-cargos para evitar mayores estragos, se vieron impulsados "por un efecto
-de su errónea y punible ignorancia".[^122] De esta manera, no serían
-caudillo en sentido estricto, pues no se les podría acusar de haber
-liderado la rebelión de manera premeditada; al contrario, su inopia los
-haría dignos de misericordia.[^123] En efecto, la remisión fue de lo más
-amplia pues no sólo les perdonaba y libraba de la pena, además restituía
-la fama de los líderes quienes quedaron declarados como "habilitados
-para que sin aquella infame nota que trahe consigo el negro título de
-Capitan de Levantados, puedan obtener, y exercer todos los empleos
-honoríficos, civiles y militares, á que sean acreedores por su
-mérito".[^124]
-
-En la carta a Gálvez, el prelado advertía que había omitido
-cuidadosamente del segundo capítulo del indulto las palabras "motores,
-autores y cabezas del motín", por lo que la ambigüedad en la
-determinación de los comprehendidos en el indulto era parte de la
-estrategia política de Caballero y Góngora para dejar el campo abierto a
-"providencias posteriores" que pudieran llevarse a cabo para enjuiciar a
-los líderes de la rebelión.[^125] Además, indicó que el haber incluido a
-los titulados como capitanes, que al parecer se podían diferenciar de
-las "cabezas" de la sublevación, había sido una medida que había tomado
-"pues de otro modo era imposible sosegar los recelos de los principales
-sugetos de los Pueblos, ni establecer solidamente la tranquilidad
-publica del Reyno". Según el arzobispo-virrey, la información con la
-cual Flórez determinaba que las capitulaciones habían sido invalidadas,
-y con ello el indulto que en éstas se exigía, se filtró en el pueblo de
-Nemocón y por ello se presentó nuevamente la revuelta. El malestar se
-habría originado porque los habitantes de dicho pueblo confundieron a
-los motores de la revuelta con los capitanes, estos últimos sujetos del
-indulto acordado con el virrey Pimienta como fue tratado en las
-capitulaciones.[^126]
-
-En la comunicación se enuncia una cuarta justificación para incluir a
-los capitanes en el indulto general, y consistía en que si se castigaban
-a estos sujetos, que habían sido forzados por la turba y llevados contra
-su voluntad a dirigir la rebelión, el gobierno de la república quedaría
-en manos de "gente rústica e incapaz de administrar recta
-justicia".[^127] Afirmaba el virrey que los capitanes eran principales,
-hacendados y vecinos distinguidos, que habían sido forzados a participar
-precisamente por las calidades que tenían. Dejar en poder de la gleba a
-las alcaldías conllevaría el riesgo de que la justicia fuera utilizada
-para iniciar vindictas personales, pues según lo habría visto en el
-Nuevo Reino, sus habitantes no demostraban amor al prójimo y por ello
-estaban continuamente calumniándose "con los más ligeros motivos".[^128]
-Por otra parte, era la retribución a una estrategia que organizó
-Caballero y Góngora cuando se dedicó como arzobispo a calmar las
-provincias del Socorro y San Gil. En ese entonces había coordinados con
-los cabildos de esas ciudades el nombramiento de capitanes entre los
-vecinos principales y honrados, para que lideraran la sumisión a las
-justicias y con ello se pudiera detener cualquier nuevo brote de
-insurrección.[^129]
-
-En el indulto se hacía explícito que sería recompensada la "heoryca
-lealtad" de Salvador Plata y sus acaudillados por haber aprehendido a la
-hueste de Galán, con lo cual se habría quitado "el negro borron a su
-Patria" al evitar que se propagara la rebelión por las demás provincias.
-Caballero y Góngora conecta hábilmente el heroísmo del otrora capitán
-comunero con el hacerse digno de merced y el olvido para conseguir la
-restitución. Valga recordar que una de las máximas del indulto era que
-éste remitía la pena pero no borraba la infamia, por lo cual una orden
-para "borrar, si fuere posible, de la memoria de las gentes aquel triste
-monumento de infidelidad" representaba la recuperación del honor perdido
-por las ciudades que fueron escenarios de la insolencia.[^130] Por una
-parte, el arzobispo-virrey ejecutó una acción de benignidad al ordenar
-que los miembros de Galán y las cabezas de los demás ajusticiados se
-retiraran de la vista del público y se les diese cristiana sepultura a
-unos hombres que "que públicamente arrepentidos borraron sus delitos con
-sus lagrymas, y su penitencia".[^131] Por otra parte, estaba concediendo
-un indulto a la provincia, algo que había explicado López de Cuéllar en
-su tratado sobre los indultos:
-
-> Siendo cierto, como lo es, que la Ciudad puede delinquir, y se la
-> puede castigar \[\...\] Tambien lo es que el Principe á las Ciudades,
-> Provincias, y Reynos, que delinquen, y sacudiendo el yugo de la
-> obediencia se revelan, si conociendo su error rendidos obedecen su
-> Imperio, puede perdonarlas, y restituyrlas á su antigua fama, y
-> privilegios, que por su delito avian perdido.[^132]
-
-Como lo expresó en el indulto y en la carta a Gálvez, la tranquilidad de
-la provincia y el haber contribuido a la captura de Galán eran evidencia
-suficiente de la humillación de las provincias infames. La
-reconciliación de la ciudad no se acompañó de una ceremonia de
-humillación pública que ratificara la lealtad y el ofrecimiento del
-perdón,[^133] como sucedió en Quito tras la "rebelión de los barrios" de
-1765.[^134] Por lo tanto, el hecho de retirar los miembros mutilados de
-las villas de Socorro, San Gil, y los pueblos de Guaduas, Charalá y
-Mogotes, se consideraría como suficiente para representar la vuelta de
-estos poblados a la gracia del rey.
-
-Por otra parte, el virrey ofrecía como evidencia de su nuevo mando,
-retirar algunas innovaciones fiscales que se consideraron como la causa
-del descontento popular. Esta era la ratificación de otro de los
-acuerdos realizados para desbandar la rebelión, específicamente los dos
-primeros puntos de las capitulaciones.[^135] Unos días después de la
-firma de las capitulaciones, en junio de 1781, el virrey Flórez comunicó
-en una carta circular al cabildo, justicias y regimiento de la villa del
-Socorro que se eliminaría el gravamen de armada de Barlovento además de
-las guías y contraguías, prometiendo la negociación del permiso de
-cultivo de tabaco, algo que no se incluyó posteriormente en el edicto de
-Caballero y Góngora.[^136] El impuesto a la armada de Barlovento había
-sido creado en 1635, implementado en el distrito de la Audiencia de
-Santa Fe en 1640, para contribuir al sostenimiento de las flotas del
-caribe que hacían presa de navíos con contrabando y de defender los
-puertos de ataques piratas, mediante el cobro de un 2 por ciento
-adicional a la alcabala.[^137] No era del todo falso la afirmación que
-hacía el arzobispo-virrey de que la eliminación de este impuesto era
-simplemente nominal. Desde 1720 la tasa por armada se cobraba junto a la
-alcabala y para 1778, cuando fueron separados nominalmente por el
-regente Gutiérrez de Piñeres, fue percibido como si se estableciera una
-innovación tributaria.[^138] En realidad, y así lo manifestaba al
-ministro Gálvez, lo único que hizo Caballero y Góngora fue restituir la
-tradición de cobrar el gravamen de armada de Barlovento junto a la
-alcabala como si fuese un único impuesto, "el qual pagan gustosos estos
-naturales y con solo haver suprimido el nombre porque en su ignorancia o
-capricho pesan mas los nombres que la realidad".[^139]
-
-Las guías y tornaguías fueron un sistema diseñado por Gutiérrez de
-Piñeres que buscaba controlar el tráfico de bienes al interior del Nuevo
-Reino. Mediante este sistema un agente fiscal de una localidad
-certificaba que el comerciante había pagado los impuestos
-correspondientes a las mercaderías que listaba en una guía. Al llegar a
-destino, el representante local de la hacienda real corroboraba que los
-bienes que habían llegado cumplían con el pago del gravamen
-correspondiente, o estaban respaldados por una fianza, y emitía una
-tornaguía. El malestar con este sistema surgía por la necesidad de los
-comerciantes de contratar un fiador y de pagar un notario para mover sus
-mercancías.[^140] Nuevamente Caballero y Góngora le aseguró a Gálvez que
-el retirar la exigencia de las tornaguías fue una necesidad ante la
-terquedad de los sublevados, pero que había tenido el cuidado de
-suprimir el nombre "salvando al mismo tiempo la realidad, disponiendo se
-presenten los despachos a los respectivos Administradores de Alcavalas,
-y que estos anoten en ellos lo que pagan por este Real Derecho".[^141]
-Era claro que, aunque el sistema de guías tenía un método para
-corroborar en destino que se hubiesen realizados las erogaciones
-correspondientes a la real hacienda, era necesario desarrollar una
-estrategia que permitiera perfeccionar este mecanismo de control. Sin
-embargo, aclaraba el virrey, esta decisión podía ser perjudicial a corto
-plazo para la Corona, pero al asegurarse la tranquilidad pública era la
-posibilidad de que con "el tiempo, la dulzura y el buen modo" se
-consiguiera lo que hasta hacía unos meses se consideraba perdido.
-
-La parte final del edicto incluyó la tradicional indicación de
-excepcionalidad del perdón, por lo que cualquier ofensa futura o
-reincidencia sería castigada con todo el rigor necesario. Pero esta
-advertencia, que pudo ocupar una sola sentencia, estuvo acompañada de la
-idea de que era absurdo rebelarse ante un rey tan liberal. En este
-exhorto a los habitantes del Nuevo Reino se planteaba la idea de un
-vasallaje basado en tres elementos: el amor a Dios, la obediencia al
-rey, y la subordinación a las autoridades. La tranquilidad, y por ende
-la felicidad pública, dependían de la reunión familiar y el vínculo
-filial entre los vasallos y el rey. El indulto era por tanto la
-reafirmación de un convenio, el cual fue manifestado de manera expresa,
-e incluso destacado en bastardilla en el impreso, al decir que "*si*
-\[los vasallos\] *fueren reconocidos á la inestimable gracia del Indulto
-que les concede, y borraren los excesos pasados con las pruebas mas
-positivas de Obediencia y Lealtad, se harán acreedores á las
-felicidades, que se les preparan, y gozarán perpetuamente, de las
-ulteriores piedades de su Generoso Monarca*".[^142]
-
-Hans-Joachim König interpretó esta idea de obediencia filial como una
-estratagema política de Caballero y Góngora para expresar
-metafóricamente "la igualdad entre españoles europeos y los españoles
-americanos demandada por los Comuneros".[^143] Si se asume que los
-puntos de las capitulaciones resumían las reivindicaciones generales de
-los diferentes partícipes de la rebelión es posible considerar que la
-interpretación de König coincide con el punto 22 de dicho documento:
-
-> Que en los empleos todos de primera, segunda y tercera planta, hayan
-> de ser antepuestos y privilegiados los nacionales de esta América a
-> los europeos, por cuanto diariamente manifiestan la antipatía que
-> contra la gente de acá conservan, sin que baste a conciliarles
-> correspondida voluntad, pues están creyendo ignorantemente que ellos
-> son los amos, y los americanos todos sin distinción, sus inferiores
-> criados. Y para que no se perpetúe este ciego discurso, sólo en caso
-> de necesidad, según su habilidad, buena inclinación y adherencia a los
-> americanos, puedan ser igualmente ocupados, como que a todos los que
-> estamos sujetos a un mismo Rey y Señor debemos vivir hermanablemente.
-> Y al que intentare señorearse y adelantarse a más de lo que
-> corresponde a la igualdad, por el mismo hecho sea separado de nuestra
-> sociabilidad.[^144]
-
-Sin embargo, la exhortación de Caballero y Góngora estaba más preocupada
-en sustentar la debida obediencia a las autoridades reales y
-eclesiásticas que en resolver un posible malestar relativo al origen de
-los titulares de los oficios del reino. El arzobispo-virrey quería dejar
-clara la jerarquía de representaciones que descendía desde Dios hasta el
-superior gobierno, y así lo expresó claramente cuando dijo:
-"representamos al vivo la Imagen de Dios y del Soberano dibujada con los
-tiernos colores de no pocas lágrimas derramadas á los pies del Santuario
-y del Trono, para interceder por la seguridad de sus vidas y
-Haciendas".[^145] Sin duda el punto 22 de las capitulaciones
-correspondía a una reivindicación a favor de un gobierno de americanos,
-un evidente rechazo además al regente visitador quien asumió una
-política arrogante para la reforma acelerada de las convenciones
-fiscales y de gobierno. Al igual que la *Representación vindicatoria*
-del cabildo mexicano de 1771, este enunciado de las capitulaciones es un
-manifiesto del descontento con el método empleado por José de Gálvez
-para implementar las reformas propuestas por Carlos III, en especial el
-destierro de las mediaciones y acuerdos para adelantar las
-innovaciones.[^146]
-
-El problema radica en que ni el texto del indulto de Caballero y
-Góngora, ni la carta explicativa, ni los textos de agradecimiento que
-circularon posteriormente, tratan de este punto. König contrapone el
-edicto del arzobispo-virrey con *El vasallo instruido* de Finestrad,
-señalando que este último se enfoca en la paterna autoridad monárquica
-en lugar del clamor de "hermandad" del primero.[^147] Sin embargo, el
-edicto de indulto recalca permanentemente que el deber del súbdito es
-obedecer y no cuestionar las decisiones tomadas por las autoridades
-legítimas; de cierta manera, era una forma más sutil de expresar que los
-vasallos estaban para callar y obedecer. Precisamente, en estos sutiles
-juegos del lenguaje es donde radica la habilidad política de Caballero y
-Góngora. La excepcionalidad del edicto de indulto se manifiesta en la
-conjunción de un texto ordinario de gracia con un exhorto moral y
-político, la concesión de perdón que incluía un documento público, leído
-por bando y que además circularía de modo impreso por los confines del
-virreinato, en el cual se manifestaba el nuevo convenio entre el más
-liberal de los monarcas y sus más obedientes vasallos.
-
-### El indulto general de Amar y Borbón
-
-El indulto general expedido por el virrey Antonio Amar y Borbón el 14 de
-octubre de 1808 no ha gozado de la misma atención que el edicto del
-arzobispo-virrey. De hecho, difícilmente se encuentra una referencia a
-dicha gracia en la bibliografía secundaria que trata sobre la crisis
-monárquica. Esta gracia no fue expedida como mecanismo para concluir una
-rebelión, ni siquiera para contener un naciente descontento, por lo que
-no es de extrañar que haya pasado desapercibida en la historiografía
-colombiana. A pesar de que para la fecha de su expedición existía una
-cierta incertidumbre entre los vecinos de Santa Fe, no se había
-presentado ninguna alteración a la paz, y en general la vida cotidiana
-parecía continuar aunque con la expectativa de una posible
-transformación en la monarquía hispana, capturada por el bonapartismo.
-La decisión de expedir un indulto general a nombre del rey pareciera
-innecesaria en ese momento, pero pudo tener la función de reforzar la
-autoridad del monarca cautivo, a la vez que demostrar la afinidad con la
-Junta Suprema de Sevilla.
-
-No se puede negar que el indulto de Amar y Borbón se promulgó en una
-época de indeterminación política. Patiño Millán hizo mención de "varios
-reos" que se acogieron al perdón real de 1808, aunque explica que las
-autoridades provinciales "tuvieron que aclarar que no habían recibido
-Real Orden ni providencia de indulto, lo que era obvio pues en ese
-momento España estaba siendo invadida por tropas francesas".[^148] El
-que no se hubiese recibido la real cédula no era una obviedad, valga
-recordar que Carlos IV no decretó un indulto general tras su coronación,
-pero sí era algo de esperar teniendo en cuenta la importancia que
-tendría un acto de clemencia de ese tipo en tiempos de tribulación. Era
-evidente que para el mes de octubre aún no se conocía en Antioquia el
-bando de indulto virreinal, por lo menos así se deduce de la
-comunicación que hizo el alcalde ordinario de Medellín, en la cual
-compartió una representación de los reos de dicha villa en la que se
-acogían al perdón que podía motivarse por la exaltación al trono de
-Fernando VII, ante lo cual dicho oficial suplicó en nombre de los reos
-por "la gracia que sea posible a beneficio de estos miserables"; es
-decir, no se acogió al indulto general sino impetró la remisión de los
-delitos con base en las facultades del título virreinal.[^149] El
-indulto finalmente sería obedecido en la sesión del cabildo de Medellín
-del 22 de noviembre de 1808.[^150]
-
-Por otra parte, el mismo virrey justificó el bando de indulto bajo el
-argumento de que era "práctica constantemente observada por nuestros
-católicos Monarcas en las ocaciones de su exaltación al trono la de
-conceder á sus amados vasallos, entre otras gracias y mercedes de
-perpetuo reconocimiento, y memoria de tan plausible suceso, yndulto ó
-remicion de los delitos".[^151] Por ser la costumbre, Amar y Borbón
-aseguraba que la cédula de indulto general de seguro ya había sido
-promulgada, pero las "ocurrencias de la Metrópoli" no habían permitido
-que se recibiera en Santa Fe "semejante beneficio". En efecto, hubo un
-indulto general para los reos, rebeldes, y militares de América y
-España; pero tendrían que esperar hasta el año de 1817,[^152] cuando las
-circunstancias fueron totalmente diferentes.[^153] En los arribos de
-agosto de 1808 no hubo cédulas de indulto sino noticias de las
-abdicaciones de Bayona, los levantamientos en rechazo a José Bonaparte,
-y la formación de la autoproclamada Junta Suprema de Sevilla.[^154]
-
-El indulto de Amar y Borbón distaba mucho de ser un exhorto similar al
-proclamado por Caballero y Góngora en 1782. Servía en cambio como
-expresión del anómalo estado de la monarquía del momento: la privación
-inesperada de la libertad del recién coronado monarca, la amenaza del
-"yugo extrangero e ilegítimo", el irrespeto a las "Leyes Patrias", y la
-autoridad y representación soberana de la Junta Suprema de Sevilla. Por
-otra parte, aunque se afirmaba en principio que se promulgaba este
-indulto por ser así la costumbre, también se reforzaba esta acción al
-replicar la gracia concedida por la mencionada Junta a los vasallos
-leales de la península, publicado en la *Gazeta ministerial de Sevilla*
-del 30 de mayo de 1808. Hay que tener en cuenta asimismo que en
-Cartagena había sido recibida la comisión de la Junta Suprema en agosto
-de ese año, y que en ese mismo mes el coronel de la plaza de esa ciudad,
-teniente de rey Blas de Soria Santacruz, llamó a los desertores a
-prestar servicio en las armas del rey al haber sido indultados por dicha
-corporación.[^155] La orden de publicar el indulto de la Junta Suprema
-en las plazas y cabezas de partido de la provincia cartagenera sin haber
-elevado la consulta al virrey ni su autorización, hasta cierto punto
-muestran el descontento con la autoridad virreinal por parte de las
-élites de la ciudad, el cual se irá incrementando hasta desembocar en la
-rebelión de Cartagena de mayo de 1810.[^156]
-
-Aunque los dos indultos estaban estrechamente conectados, las
-condiciones de su promulgación fueron completamente diferentes. En tanto
-el indulto sevillano tiene el claro propósito de incrementar la
-conscripción para la guerra y de paso establecer su supremacía en la
-defensa de la soberanía fernandina, el perdón de Amar y Borbón fue una
-expresión de la adhesión del Nuevo Reino de Granada al gobierno de la
-Junta Suprema de Sevilla.[^157] Sin embargo, el virrey no publicó el
-indulto de la Junta sino decidió hacer el suyo propio con un proemio más
-extenso, en el cual dejaba claro que era su autoridad y clemencia la que
-le conminaba a expedir esta gracia, y siempre en "imitación" y "ejemplo"
-de los sentimientos del "nuevo Rey y Señor". Así, aunque se dejaba claro
-por una parte que la "autoridad y representación del mismo soberano" se
-hallaba reconocida en la Junta Suprema de Sevilla, también se subrayaba
-que el indulto se hacía en favor de los vasallos de Fernando VII, en
-manifestación de "la mas acrisolada lealtad y ternura \[de los vasallos
-del Nuevo Reino\] al propio nuevo soberano". En general, el tono del
-bando de indulto es muestra de la indecisión del virrey, quien toma
-prestado el texto del indulto sevillano pero trata de mudar su contenido
-de tal manera que se matice la posible preeminencia de la Junta sobre la
-superioridad de Fernando VII.
-
-Los tres artículos del indulto incluyen a los mismos delincuentes que el
-promulgado por la Junta Suprema: desertores, contrabandistas y reos por
-delitos leves. A simple vista ambos articulados son similares, copias
-medianamente arregladas, pero una lectura detenida permite entrever
-algunas posibles divergencias entre ambos documentos. En primer lugar,
-el perdón a los desertores en el indulto de la Junta es mucho más
-escueto, mencionando solamente que todo desertor se debería presentar en
-el término de ocho días y reincorporarse al cuerpo del cual se separó,
-sin por esto sufrir ninguna pena. En el indulto de Amar y Borbón se
-aclara que se incluían los desertores de "mar y tierra" y añade al texto
-original la condición de presentarse ante los jefes de los cuerpos donde
-residieran, o en su defecto a las justicias del lugar. Además,
-determinaba que la presentación debía incluir la impetración del perdón,
-tras la cual se les otorgaría la certificación, con la cual podrían
-presentarse ante su distrito militar y comenzar a servir nuevamente.
-Esta adición daba cierta claridad a los jueces para poder cumplir con la
-orden virreinal siguiendo los precedentes indultos de desertores, en
-particular el reproducido en el tomo cuarto de los *Juzgados militares
-de España y sus Indias* por Félix Colón de Larreátegui.[^158]
-
-Ni el indulto de Sevilla ni el de Santa Fe incluyen una graduación del
-indulto respecto a los militares de primera, segunda o tercera
-deserción; tampoco hicieron una distinción de los rangos, por lo que no
-se aclaraba si los oficiales retornaban a sus mismos rangos después del
-indulto o su debía gozar del mismo sueldo. Estos aspectos hacían que la
-gracia fuese ambigua y difícil de aplicar. Por otra parte, el indulto de
-Amar y Borbón amplía el término de presentación de ocho a nueve días. No
-es claro qué lógica podía tener aumentar en un día el plazo, se entiende
-que la Junta llamara a los desertores a las armas dentro del tiempo
-requerido para organizar sus tropas y declarar la guerra, pero en el
-caso de Santa Fe no existía tal urgencia. Del mismo modo, mientras el
-primero se limitaba al ámbito de la ciudad de Sevilla, el segundo tenía
-que comunicarse a todo el virreinato, pero no se explicó si el término
-de los nueve días comenzaba a correr tras la publicación en Santa Fe o
-en cada distrito.
-
-Respecto a los contrabandistas solamente se hicieron dos enmiendas, una
-que especificó que después de indultados, los delincuentes podían servir
-en las "armas ó marina", y en segundo lugar, cambió la frase "para la
-defensa de la Patria y el Rey" por "para defensa del Rey, y de la
-Nacion". Este sutil cambio es otra muestra del tono del indulto de Amar
-y Borbón ya que restaura la prelación del rey y, además, evita el
-término "patria" para reemplazarlo por el de "nación". Es probable que
-esta enmienda hubiese sido motivada por una concepción limitada del
-término al ámbito de la península y a la figura cautiva de Fernando
-VII.[^159] El uso de una figura como "nación", en cambio, podía
-representar a los vasallos de la monarquía en ambos lados del
-Atlántico.[^160] Poco efecto habría tenido este cambio pues
-inmediatamente después, en el artículo tercero se toma del indulto
-sevillano que si el delincuente puede hacerse "útil a la Patria" podía
-ser incluido en el perdón, incluso si hubiese sido condenado por un
-delito grave. En el bando virreinal se modificó la jerarquía de los
-delitos exceptuados en el indulto para reflejar una fórmula más
-"tradicional", empezando con los delitos de lesa majestad divina y
-humana. También se expurgó del original una indicación a que los jueces,
-más que la calidad de los delitos cometidos por los criminales, debían
-valorar "la depravacion del corazon del delinqüente", de tal manera que
-si éstos no eran lo suficientemente peligrosos como para ser excluidos
-del servicio de la patria se debería "resolver á favor de esta". En el
-texto del virrey se expresaba en cambio que si las circunstancias
-particulares del crimen hacían posible decidir en equidad se hiciera así
-en favor del condenado.
-
-[^1]: María Asenjo-González, "Función pacificadora y judicial de los
-    corregidores en las villas y ciudades castellanas, a fines de la
-    edad media", *Medievalista. Online*, núm. 18 (2015): párr. 36,
-    https://doi.org/10.4000/medievalista.1075.
-
-[^2]: Jesús Lalinde Abadía, "Virreyes y lugartenientes medievales en la
-    Corona de Aragón", *apud* Francisco A. Eissa-Barroso, *The Spanish
-    Monarchy and the Creation of the Viceroyalty of New Granada
-    (1717-1739): The Politics of Early Bourbon Reform in Spain and
-    Spanish America* (Leiden, Boston: Brill, 2016), 25. También véase el
-    clásico acercamiento de Richard Konetzke, *América Latina II. La
-    época colonial*, 15a ed., Historia universal 22 (México: Siglo
-    Veintiuno, 1984), 118.
-
-[^3]: Jesús Lalinde Abadía, "El régimen virreino-senatorial en Indias",
-    *Anuario de historia del derecho español* XXXVII (1967): 29; Manuel
-    Rivero Rodríguez, *La edad de oro de los virreyes: el virreinato en
-    la monarquía hispánica durante los siglos XVI y XVII* (Madrid: Akal,
-    2011), 42.
-
-[^4]: Rivero Rodríguez, *La edad de oro de los virreyes*, 42.
-
-[^5]: Lalinde Abadía, "El régimen virreino-senatorial en Indias", 34 y
-    47.
-
-[^6]: Lalinde Abadía, 48--73 en particular la página 68.
-
-[^7]: La transcripción de los títulos de presidente de la Audiencia y
-    Virrey de Nueva España para Antonio de Mendoza pueden consultarse en
-    Ciriaco Pérez Bustamante, *Los orígenes del gobierno virreinal en
-    las Indias españolas. Don Antonio de Mendoza: primer virrey de la
-    Nueva España, (1535-1550)*, Anales de la Universidad de Santiago 3
-    (Santiago: Tipografía de "El Eco Franciscano", 1928), 141--44. Sobre
-    el sistema virreino-senatorial, véase Lalinde Abadía, "El régimen
-    virreino-senatorial en Indias", 94--95.
-
-[^8]: Lalinde Abadía, "El régimen virreino-senatorial en Indias", 112.
-
-[^9]: Solange Alberro, "El cuerpo del virrey y el arte del buen gobierno
-    en las Indias, siglos XVI y XVII", en *Las cortes virreinales de la
-    Monarquía española: América e Italia. Actas del Coloquio
-    internacional, Sevilla, 1-4 junio 2005*, ed. Francesca Cantù, Studi
-    e ricerche 17 (Roma: Viella, 2008), 301--5.
-
-[^10]: Véase por ejemplo Solórzano Pereira, *Política indiana*, Lib. V,
-    Cap. XII, núm. 3-6.
-
-[^11]: Castillo de Bovadilla, *Política para corregidores*, Lib. I, Cap.
-    II, núm. 6.
-
-[^12]: Castillo de Bovadilla, Lib. I, Cap. II, núm. 3. Véase también
-    Alberro, "El cuerpo del virrey", 293.
-
-[^13]: *Recopilación de las leyes de los reinos de las Indias*, Lib.
-    III, tít. III, leyes 26 y 27. "Que los virreyes dejen proceder a las
-    Audiencias en casos de justicia" y "Que los virreyes en materia de
-    justicia dejen proveer al oidor más antiguo, sin votar, ni mostrar
-    inclinación, ni voluntad".
-
-[^14]: Solórzano Pereira, *Política indiana*, Lib. V, Cap. XII, núm. 34.
-
-[^15]: Los tres cargos estaban estipulados en la *Recopilación de las
-    leyes de los reinos de las Indias* (Lib. III, tít. III, leyes 5, 4 y
-    3 respectivamente), según fueron determinándose desde Carlos I hasta
-    Felipe IV. Los nombramientos de todos los virreyes del Nuevo Reino
-    coinciden en repetir las mismas cédulas, que a la vez son copias con
-    ligeras modificaciones de aquellas otorgadas a los virreyes
-    novohispanos y peruanos. AGI, Audiencia de Santa Fe, 541, libros
-    1-3. Para los virreyes de Nueva España, AGI, Indiferente general,
-    514; y para Perú, AGI, Indiferente general, 512.
-
-[^16]: William B. Taylor, *Drinking, Homicide, and Rebellion in Colonial
-    Mexican Villages* (Stanford, CA: Stanford University Press, 1979),
-    101--2, 120--22.
-
-[^17]: Véase en particular los documentos IX y XI, "descargos del virrey
-    don Antonio de Mendoza" y "Carta del oidor Tejada a S. M.", en Pérez
-    Bustamante, *Los orígenes del gobierno virreinal*, 152--68 y
-    172--73.
-
-[^18]: "Instrucciones dadas a Antonio de Mendoza, virrey de México",
-    AGI, Patronato Real, 180, ramo 63. "Instrucciones a Antonio de
-    Mendoza", Indiferente general, 2, ff. 352r-364r. Una análisis
-    pormenorizado de estas instrucciones en Manfredi Merluzzi, "Los
-    virreyes y el gobierno de las Indias. Las instrucciones al primer
-    virrey de Nueva España", en *El mundo de los virreyes en las
-    monarquías de España y Portugal*, ed. Joan-Lluís Palos y Pedro
-    Cardim, Tiempo emulado 22 (Madrid : Frankfurt am Main:
-    Iberoamericana ; Vervuert, 2012), 212--39.
-
-[^19]: "Títulos, comisiones y otros despachos que llevó al Perú el
-    Virrey D. Francisco de Toledo", Aranjuez, 30 de noviembre de 1568,
-    en Roberto Levillier, ed., *Gobernantes del Perú. Cartas y papeles*,
-    vol. III, XIV vols. (Madrid: sucesores de Rivadeneira, 1921),
-    652-653*. *
-
-[^20]: "Instrucciones a Pedro de la Gasca", Veneto, 16 de febrero de
-    1546. AGI, Indiferente general, leg. 415, f. 379v. Parte de la
-    transcripción fue tomada de Gibran Bautista y Lugo, "Castigar o
-    perdonar. El gobierno de Felipe IV ante la rebelión de 1624 en
-    México" (Tesis doctoral, Universidad Nacional Autónoma de México,
-    2014), 232.
-
-[^21]: El cedulario de Encinas copia esta real provisión con idénticas
-    atribuciones que la despachada anteriormente al virrey Francisco de
-    Toledo. "Provision en que se da facultad al Virrey del Peru para
-    perdonar delitos acaecidos en aquellas provincias", Madrid, 9 de
-    diciembre de 1583, *Cedulario de Encinas* (Madrid: Imprenta Real,
-    1596), lib. I, f. 237-238. Suárez de Mendoza nunca recibió dicha
-    facultad ya que falleció en México en junio de 1583.
-
-[^22]: "Cedula en que declara los casos en que ha de usar el Visorrey de
-    la facultad de perdonar delitos". Madrid, 9 de diciembre de 1583,
-    *Cedulario de Encinas*, Lib. I, ff. 238-239.
-
-[^23]: Antonio Feros, *El Duque de Lerma: realeza y privanza en la
-    España de Felipe III*, Historia (Madrid: Marcial Pons, 2002), 180.
-
-[^24]: Rivero Rodríguez, *La edad de oro de los virreyes*, 204--5.
-
-[^25]: Corresponde a las leyes del libro III, tít. III, núm. 2, 7-11,
-    21, 25-28, 33, 53, 57, 66 y 72.
-
-[^26]: Solórzano Pereira, *Política indiana*, Lib. V, cap. XII, núm. 8.
-    Véase específicamente la *Recopilación de las leyes de los reinos de
-    las Indias*, lib. III, tít. III, ley 2.
-
-[^27]: José Ignacio Rubio Mañé, *El virreinato: Orígenes y
-    jurisdicciones, y dinámica social de los virreyes*, vol. I, Sección
-    de obras de historia (México: Instituto de Investigaciones
-    Históricas, UNAM; Fondo de Cultura Económica, 1983), 115.
-
-[^28]: *Recopilación de las leyes de los reinos de las Indias*, lib.
-    III, tít. III, ley 27.
-
-[^29]: Prudencio Antonio de Palacios, *Notas a la recopilación de leyes
-    de Indias*, ed. Beatriz Bernal de Bugueda (México: Universidad
-    Autónoma de México, 1979), 173
-
-[^30]: *Corpus juris canonici. Liber Sextus*. (Roma : In aedibus Populi
-    Romani, 1582), lib. I, tit. III, cap. V. Edición electrónica por
-    UCLA Digital Library Program.
-    [[http://digital.library.ucla.edu/canonlaw]{.underline}](http://digital.library.ucla.edu/canonlaw).
-    Murillo Velarde, *Cursus iuris canonici*, lib. I, tít. III, núm. 86.
-
-[^31]: López de Cuéllar, *Tratado iuridico-politico*, núm. 421.
-
-[^32]: Sobre la competencia ordinaria de los virreyes véase Javier
-    Barrientos Grandon, *El gobierno de las Indias*, Colección historia
-    1 (Madrid: Fundación Rafael del Pino, Marcial Pons, 2004), 142.
-
-[^33]: Enrique Berzal de la Rosa, *Los comuneros: de la comunidad al
-    mito*, Serie Historia (Madrid: Sílex, 2008), 161--62. La
-    transcripción completa de la cédula puede consultarse en Diego José
-    Dormer, *Anales de Aragón desde el año MDXXV hasta el de MDXL*,
-    (Zaragoza: por los herederos de Diego Dormer, 1697), 140-149
-
-[^34]: Fernando Pizarro de Orellana, *Varones ilustres del Nuevo Mundo*
-    (Madrid: por Diego Díaz de la Carrera, 1639), 388.
-
-[^35]: José Manuel Nieto Soria, "La nobleza y el «poderío real absoluto»
-    en la Castilla del siglo XV", *Cahiers d'Études Hispaniques
-    Médiévales* 25, núm. 1 (2002): 247,
-    https://doi.org/10.3406/cehm.2002.1239.
-
-[^36]: José Manuel Nieto Soria, "Los perdones reales en la confrontación
-    política de la Castilla Trastámara", *En la España medieval*, núm.
-    25 (2002): 216--17.
-
-[^37]: Las variantes se identificaron mediante el software de
-    alineamiento de secuencias *CollateX*. Ronald Haentjens Dekker y
-    Gregor Middel, *CollateX*, versión 1.7.1, Java/Python client, HTML,
-    Java, Python (Ámsterdam: The Interedition Development Group, 2015),
-    [[https://collatex.net]{.underline}](https://collatex.net).
-
-[^38]: Feliciano de la Vega, *Relectionum Canonicarum in secundum
-    Decreatalium librum* (Lima: Jerónimo de Contreras, 1633), cap. IV, §
-    *de adulteriis*, núm. 78-79.
-
-[^39]: Pietro Antonio de la Petra, *Tractatus in quo de potestate
-    principis*, (Frankfurt: tipografía de Segismundo Latomi, 1610), cap.
-    XXI, núm. 21.
-
-[^40]: Gabriel Berart y Gassol, *Speculum visitationis secularis ómnium
-    magistratum,* (Barcelona: tipografía de Sebastián Matheuat, 1627),
-    Cap. IX, núm. 33.
-
-[^41]: Garsia Mastrillo, *Tractatus de magistratibus eorum imperio et
-    iurisdictione*, tomo II (Palermo: por Franciscum Ciottum Venetum,
-    1616), Lib. V, cap. VI, núm. 147.
-
-[^42]: Hay una referencia a Fortunato Scacchi, *de juidiciis*, lib. I,
-    pág. 241; que no me fue posible consultar.
-
-[^43]: Solórzano Pereira, *Política indiana*, Lib. V, Cap. XIII, núm.
-    35.
-
-[^44]: "Francisco Cordero Vidal, vecino de Quito, su solicitud de
-    indulto", AGNC, sección colonia, aduanas, tomo 11, doc. 9, ff.
-    290r-v.
-
-[^45]: "Borrador de relación de estado del Virreinato de Amar y Borbón",
-    Santa Fe, *ca*. 1808, AGNC, sección colonia, virreyes, tomo 1, ff.
-    380v-381r.
-
-[^46]: "Indulto virrey Amar y Borbón", AGNC, sección colonia, juicios
-    criminales, tomo 2, doc. 14, f. 760r.
-
-[^47]: Margarita Restrepo Olano, *Nueva Granada en tiempos del virrey
-    Solís, 1753-1761* (Bogotá: Universidad del Rosario, 2009), 263.
-
-[^48]: Allan J. Kuethe y Kenneth J. Andrien, *El mundo atlántico español
+El perdón y el desorden
+=======================
+
+El perdón estaba justificado porque cumpliría la función de ser un
+instrumento para restaurar el orden. El desorden era sinónimo de
+confusión y desconcierto que el gobierno debía evitar o corregir, con la
+fuerza o con la benevolencia. En términos amplios, la alteración de la
+quietud natural en cualquier sentido podía considerarse como una
+perturbación, ya fuese de las costumbres, de la moral, o de la
+república. Pero estos desajustes particulares se asimilaban al desorden
+cuando adquirían una escala grupal. Éste podía representar un acto
+colectivo efímero como un tumulto, o una acción continuada en el tiempo
+como la connivencia de los habitantes de una provincia con el
+contrabando.
+
+El contrabando: entre el rigor y la benevolencia
+------------------------------------------------
+
+En octubre de 1740, mientras se vivía un momento de cierta confianza
+derivado del arribo de un refuerzo de tropa a Cartagena para hacer
+frente a la amenaza del ataque del capitán Vernon, el virrey Sebastián
+de Eslava aprovechó para enviar un decreto dirigido al gobernador de la
+isla de Trinidad, en el cual le decía que "la experiencia está
+acreditando el poco reconocimiento con que se ha correspondido a la Real
+Clemencia en haverse dignado de conceder yndulto a los comerciantes de
+ylícito comercio", quienes en lugar de doblegarse con agradecimiento,
+reincidían en "el desorden", traficando en el Caribe "con los
+estrangeros y enemigos".[^1] La orden era publicar por bando en todos
+los lugares de su gobernación que no se permitiría el comercio con
+extranjeros bajo ningún motivo, so pena de vida y perdimiento de bienes,
+premiando con parte de la presa al que ayudara a capturarlos, como era
+común en los delitos de ilícito comercio.[^2] Esta no era una medida
+excepcional o novedosa, en el mismo decreto Eslava señalaba un ley
+recopilada, promulgada por Felipe III en 1614, en la que se indicaba que
+los contrabandistas serían castigados por su delito "aunque por ellos
+hayan obtenido indulto o perdon", ya que la reincidencia haría nula la
+gracia concedida.[^3]
+
+Todo indica que el indulto a los delincuentes de ilícito comercio era
+una práctica común. En 1725 el rey le ordenó al virrey del Perú que
+hiciese un listado de los delincuentes por contrabando que hubieran sido
+indultados durante las dos décadas anteriores y si se señalaba que
+habían conseguido la gracia por engaños se les excluyera de un segundo
+indulto. El virrey indicó que era moralmente imposible identificar
+quiénes actuaron rectamente de los que no y a pesar de ello seguían
+delinquiendo, especialmente porque muchos de ellos eran cómplices que
+facilitaban el comercio ilícito pero pretendían haber actuado de buena
+fe. Además, la aplicación del indulto en estas circunstancias conllevaba
+analizar una serie de causas particulares que congestionarían los
+tribunales, sin que se pudiera garantizar que con ello habría una
+disminución del contrabando. Por esta razón, el rey expidió una cédula
+ese mismo año en la que prohibía que en adelante se indultaran los
+culpables por ese delito.[^4] Aunque todo indica que estos perdones
+continuaron funcionando como parte integral de la dinámica del comercio
+ilícito.
+
+Es necesario partir del hecho que el contrabando estaba tan arraigado
+que difícilmente se puede entender la vida política y económica de
+ciudades como Cartagena, Portobelo o Panamá, sin comprender la fuerte
+connivencia entre las autoridades locales, familias principales y los
+contrabandistas. El comprar mercaderías a los extranjeros era, como
+decía el virrey Solís, un "envejecido vicio" que garantizaba el orden de
+las ciudades portuarias, tanto así, que difícilmente habría un oficial
+que se comprometiera a reemplazar dicho comercio con productos del
+reino, más teniendo en cuenta que los canales de distribución de
+productos básicos como las harinas eran defectuosos. La solución
+propuesta consistía en detener el comercio ilícito y forzar al comercio
+interno "hasta que el tiempo lo haga connatural", estrategia que hoy
+sabemos no tuvo ninguna aplicación.[^5] Como señaló el historiador Lance
+R. Grahn, a los comerciantes extranjeros difícilmente se veían como
+intrusos en las costas caribeñas, al contrario, eran esencialmente
+distribuidores informales de mercaderías fundamentales para los
+intercambios al interior del continente.[^6] La imposición de un virrey
+pretendía ser un factor que redujese el comercio ilícito, pero el
+gobierno de Jorge de Villalonga demostró que las poderosas redes del
+contrabando podían corromper fácilmente a este oficial.[^7] De hecho,
+puede considerarse que durante el periodo entre 1710 y 1740 el comercio
+ilegal vivió un auge en los puertos legales e ilegales del Caribe, en
+especial entre Panamá y Cartagena, por lo que difícilmente podrían
+considerarse exitosos a los primeros intentos borbónicos por detener el
+contrabando.[^8]
+
+Es posible aventurar la hipótesis del perdón como una herramienta que
+facilitaba el abuso,[^9] pues permitía evadir el castigo a través de la
+activación de las redes de apoyo mutuo entre jueces y contrabandistas.
+Por otra parte, el perdón del contrabando era una expresión de lo
+arraigado que se encontraba este delito en los puertos americanos, pues
+era imposible castigar a todos los involucrados en este ilícito que
+tocaba a prácticamente todos sus habitantes. Además, hay que contar con
+una dimensión moral del negocio del contrabando en la que se consideraba
+que era la pobreza, los bajos salarios, o la ausencia de otra ocupación,
+la que había obligado a involucrarse en el comercio ilícito. Es decir,
+la miseria en lugar de la avaricia. Este último argumento era de
+particular importancia para la defensa de los oficiales menores y de los
+"cómplices", quienes demostrarían haber sido arrastrados por las
+circunstancias ante la tentación del comercio con las colonias
+extranjeras, además de no ser sujetos con una riqueza que hiciera
+evidente su codicia.[^10] Finalmente, debe tenerse en cuenta que con la
+captura de algunos contrabandistas las autoridades podían disimular su
+involucramiento en las redes ilícitas, a la vez que favorecían a los
+traficantes ya establecidos ante el surgimiento de posibles
+competidores. El fiscal de la Audiencia de Panamá le comunicó al rey
+este fenómeno en 1750, manifestándole que a pesar del aparente celo con
+el que se perseguía el contrabando, reflejado en los ingresos a la Real
+Hacienda por mercaderías presas, este no era aplicado para todos. Los
+contrabandistas más acaudalados solían ser quienes entregaban a
+traficantes menores a las autoridades, quienes así podían mostrar la
+persecución del ilícito comercio, a la vez que protegían a sus aliados y
+recibían un ingreso del reparto de los bienes. Esta ficción, por la cual
+los contrabandistas aparentaban ser vigilantes y obstructores del
+comercio ilícito, justificaba en no pocas ocasiones la expedición de un
+indulto a su favor.[^11]
+
+No deja de llamar la atención que tanto el presidente de la Audiencia de
+Panamá como el gobernador de Cartagena hubiesen estado facultados para
+perdonar delincuentes por contrabando, justificándose en ser esta una
+necesidad para el buen gobierno de las provincias. Sabemos que los
+gobernadores de Cartagena, Antonio de Salas y Pedro Fidalgo, recibieron
+la facultad de perdonar por la vía reservada, el primero por cédula de
+18 de agosto de 1736 y el segundo por una de 10 de octubre de 1737.[^12]
+Esta facultad se limitaba a los delincuentes por comercio ilícito y fue
+retirada por el virrey Eslava en 1744, cuando era gobernador Melchor de
+Navarrete, al considerarla una atribución exclusiva de su título,
+decisión que fue ratificada por el rey a través de una consulta al
+Consejo de Indias en 1748.[^13] Es evidente que la Audiencia panameña
+concedía indultos a los contrabandistas del Darién y Veraguas, tal como
+el otorgado el 6 de junio de 1740 a los 64 franceses de Calidonia bajo
+el pretexto de haberse comprometido éstos a guardar fidelidad y
+reconocer el vasallaje al rey de España, además de constituirse en una
+línea de defensa ante posibles enemigos y otros contrabandistas que
+quisieran entrar por el golfo del Darién.[^14] Asimismo, cuando el
+puerto de Portobelo se encontraba bajo asedio por la armada de Vernon,
+un oficial decretó que se perdonara a todos los contrabandistas que se
+comprometieran a unirse a la defensa de la ciudad, algunos de los cuales
+continuaron con sus actividades ilícitas al poco tiempo de restablecerse
+la calma.[^15]
+
+Un periodo particular en la Audiencia de Panamá fue la presidencia y
+gobernación de Dionisio de Alsedo y Herrera (1743-1749), quien hacía
+pocos años había dejado la presidencia de la Real Audiencia de Quito, en
+la cual ganó cierta reputación por oponerse al auge del comercio ilícito
+durante un periodo en que el mercado quiteño se encontraba en seria
+decadencia.[^16] Para la época de su arribo a Panamá, uno de los
+principales focos del tráfico ilegal era manejado por las
+confederaciones de contrabandistas de Natá y Penonomé, en la provincia
+de Veraguas. Esta organización se consiguió gracias al descubrimiento
+realizado en 1716 por Juan Antonio García, conocido bajo el alias del
+"Mompoxino", de una ruta por el río Coclé y las montañas de Natá, que
+permitía comerciar con los ingleses sin ser detectados por las
+autoridades de Portobelo y Panamá (Véase el mapa 1). Entre 1724 y 1748
+se desarrollaron tres confederaciones: la "compañía de Natá", el
+"apostolado de Penonomé", y la "Sacra Familia de la Jurisdicción". Estas
+organizaciones representaban una expresión avanzada del contrabando,
+pues aseguraban el dominio sobre una ruta privilegiada que evadía el
+paso transístmico entre Portobelo y Panamá, gracias a los hombres y
+armas con los que se protegían las bocas de los ríos, además del
+conocimiento exclusivo de las sinuosidades de los ríos y los pasos
+montañosos. Además, la riqueza derivada del uso de esta ruta permitía
+extender las redes de amistad hacia oficiales y magistrados de la
+Audiencia, e indirectamente hasta los reinos de Quito y Perú,
+principales destinos de los bienes de contrabando que se traficaban en
+el Caribe.[^17]
+
+La "Sacra Familia" estaba conformada, según el presidente Alsedo, por 40
+españoles, 100 soldados desertores, más sus sirvientes y esclavos, todos
+ellos bien proveídos de armas y municiones. La confederación estaba bajo
+el liderazgo de Joseph Martínez Fajardo, próspero comerciante y
+contrabandista, dueño de una hacienda con 15 esclavos,[^18] de quien
+Alsedo decía que, por ser uno de los que manejaba mayor caudal, tenía el
+respeto y confianza de los ministros y de los cabildantes de Panamá, así
+como de los ingleses y demás "tratantes de las costas", e incluso
+tendría una "casa fuerte" en esa ciudad consistente en un almacén con
+guardias privadas. Decía Alsedo que a este caudillo de los
+contrabandistas se le permitía actuar con libertad tanto por complicidad
+como por miedo, pues muchos oficiales y jueces estaban involucrados
+directamente en sus negocios, en tanto otros no se atrevían a capturarlo
+por el temor a que se organizara una rebelión que contara con el asocio
+de los enemigos extranjeros.[^19]
+
+Mapa 1. Región de las confederaciones de contrabandistas de Panamá
+(1720-1750)
+
+![](media/image1.jpeg)
+
+Elaboración propia con información de AGI, Panamá, 299 y Gómez González,
+"Illegal Trade".
+
+Esta conjunción entre complicidad y temor imposibilitaba la erradicación
+del contrabando por la vía de la fuerza. Alsedo mencionaba que el
+desconocimiento que tenían las autoridades del terreno en el cual
+operaban las confederaciones de contrabandistas impedía que se actuase
+contra ellos por otros medios diferentes a los guardacostas, los cuales
+lograban capturar y entorpecer en alguna medida la introducción y salida
+de bienes prohibidos. La benevolencia, si bien no impedía el desarrollo
+del ilícito comercio, por lo menos garantizaba que la región se
+mantuviera en relativa calma. No obstante lo anterior, los indultos
+también podían servir para atacar a las redes de contrabandistas. En
+1741 Dionisio Martínez de la Vega, presidente de la Audiencia desde 1735
+hasta 1743, concedió un indulto con el propósito de incorporar a los
+contrabandistas a la defensa de las costas, amenazadas por un posible
+ataque inglés como el que se estaba desarrollando en Cartagena de
+Indias. Tres años después, Alsedo concedió otro indulto, pero esta vez
+tenía el propósito de atraer a testigos que declararan en contra del
+teniente del pueblo de Penonomé, a quien se le adelantaba una pesquisa
+en la Audiencia de Santo Domingo.[^20]
+
+El problema es que, aunque se decretaran perdones con el evidente
+propósito de servir a la república, el indulto también tenía una
+utilidad para entorpecer la justicia. Alsedo tuvo que enfrentar esta
+estrategia desde 1747, cuando se propuso emular la política contra el
+contrabando que se estaba llevando a cabo en las costas de Cartagena por
+el virrey Eslava. Incluso antes de iniciar sus acciones, algunos
+caudillos enviaron chasquis para que le dijeran a Alsedo que el comercio
+ilícito era su única fuente de subsistencia y que por ello no podían
+abandonar dicha actividad. El presidente, como era de esperarse, no
+aceptó que continuaran traficando, pero les ofreció perdón de todos sus
+crímenes, a cambio de que evacuaran todos los caminos y rutas que usaban
+para el contrabando.[^21] Por otra parte, cuando el alcalde mayor de
+Penonomé, Francisco de Flores y Córdoba, se propuso atacar a la Sacra
+Familia con las milicias a su mando, los oidores se opusieron firmemente
+a dicha acción, determinando en cambio que se les ofreciera un nuevo
+indulto general. El fiscal Fernando Alas Cienfuegos y Alsedo se
+opusieron firmemente a dicha gracia, fundamentándose en la real cédula
+de 1725,[^22] y en el hecho de que la concesión de perdones era
+competencia exclusiva del rey. A pesar de ello, los oidores aprobaron en
+secreto el perdón y lo hicieron público en la jurisdicción de Penonomé y
+Natá. Los oidores intentaron presionar a Alsedo para que subscribiera el
+perdón, amenazándolo con proceder contra su gobierno, de manera similar
+a lo sucedido con el presidente José de Araujo en Quito.[^23] Al
+mantener su posición, la Audiencia lo acusó ante el Consejo de Indias,
+iniciándose un proceso que no culminó hasta 1762, cuando ya Alsedo se
+hallaba retirado en la península.[^24]
+
+El punto de inflexión consistió en el levantamiento que se desató tras
+la incursión del teniente Alonso de Murga en el río Natá. Esta se
+ocasionó después de que el oficial avistara dos canoas con géneros de
+contrabando que salían del río Natá, comandadas por Juan Joseph López,
+alias "Perlita", escribano aliado del oidor Juan Pérez García.[^25]
+Murga pretendía capturar dos fragatas que estaban cargándose con las
+mercancías de contrabando, para lo cual pidió una goleta y una cantidad
+de soldados. En la ejecución de la tarea, el viento le obligó a
+acercarse a tierra, donde estuvo bajo la amenaza de cuadrillas de
+hombres armados asociados con la confederación de la Santa Hermandad.
+Impulsado por el interés en propinar un golpe a los contrabandistas,
+Murga desembarcó con 40 hombres en búsqueda de los escuadrones de
+traficantes, siendo emboscados entre dos montecillos desde los cuales
+pudieron hacerles fuego a carga cerrada. El asesinato de Murga fue sin
+duda impactante, pues los contrabandistas lo atacaron con cuchillos y
+palos, le abrieron el cráneo, quebraron sus fémures, cortaron la mano en
+la que sostenía su pistola, y uno de ellos le propinó tres heridas con
+un puñal sobre los riñones, batiendo el arma "como molinillo". A pesar
+de ello Murga sobrevivió por 30 horas más, hecho que fue considerado por
+Alsedo como una manifestación sobrenatural concedida por la divinidad
+para que pudiese confesarse y recibir los sacramentos.[^26]
+
+Este hecho desató la ira de Alsedo, quien ordenó de inmediato que se
+procediera en contra de la confederación con toda la tropa disponible.
+Paradójicamente, uno de los primeros pasos en la estrategia de Alsedo
+consistía en la promulgación de un indulto general para los desertores
+del ejército, aunque los oidores no se presentaron al acuerdo
+extraordinario alegando que se encontraban enfermos. Esto no impidió que
+muchos desertores se presentaran a solicitar el perdón e incorporarse a
+los diferentes frentes que asumieron el ataque. En su avance, los
+caudillos fueron pasados por las armas "por las espaldas como
+traidores", las cabezas y manos cortadas, curadas al humo y exhibidas en
+rejas en distintos puntos de la ciudad de Natá.[^27] Dos líderes fueron
+sometidos a juicio, Francisco Bernal, alias "Mantarrayada"; y Juan José
+López; por quienes la Audiencia emprendió un juicio de competencia para
+retirar la causa de la jurisdicción del presidente. Otros seis lograron
+encontrar refugio en diferentes iglesias, amparándose en la inmunidad
+eclesiástica, entre ellos Joseph Martínez, quien contaba con el apoyo
+del obispo de Panamá, Juan de Castañeda. Por esta razón, Alsedo ordenó
+la custodia de las iglesias donde se refugiaban los contrabandistas para
+capturarlos en el momento que se apartaran del suelo sagrado. Asimismo,
+emprendieron los recursos de fuerza para ordenar la extracción de los
+delincuentes de la jurisdicción eclesiástica, entre otras medidas para
+tratar de conseguir la captura de los líderes, en especial de
+Martínez.[^28]
+
+El cambio de relación con los contrabandistas a partir de entonces fue
+evidente. El argumento de la miseria que obligaba al comercio ilícito
+mutó hacia la categorización como conspiradores y traidores. Martínez
+Fajardo fue capturado en Santiago de Veraguas, gracias a la denuncia de
+un sacerdote jesuita,[^29] y aunque trató de sobornar al gobernador para
+que suspendiera la sentencia, fue rápidamente ejecutado y desmembrado.
+Los otros dos líderes sufrieron la misma suerte tres años después,
+mientras los demás lograron evadir la justicia. Por otra parte, la
+interrupción del comercio con la Sacra Familia detuvo el flujo de
+mercancías por la región. Desde las colonias británicas se esperaba a
+que se calmaran las aguas para retornar al contrabando, como
+efectivamente sucedería tiempo después.[^30] Para 1750 el recién
+instalado virrey José Pizarro ordenó que se realizara una pesquisa
+secreta para determinar los cómplices del levantamiento de
+contrabandistas, de la cual se encontró que todos los ministros de la
+Audiencia estuvieron involucrados, con la excepción del oidor Luis
+Carrillo y el fiscal Alas Cienfuegos.[^31] La extinción de la Audiencia
+de Panamá en 1751 representó la eliminación de un cuerpo que tenía la
+capacidad de asumir el gobierno y la justicia en esta provincia, pero es
+ingenuo considerar que esto conllevó al freno del contrabando o de la
+complicidad entre autoridades y traficantes.
+
+Caracas fue otra jurisdicción con una importante participación en el
+comercio ilícito, aunque con la particularidad que su mayor negocio era
+la venta clandestina de cacao, que intercambiaban por esclavos, tabaco,
+sal y plata, principalmente con los holandeses establecidos en Curaçao,
+con quienes establecieron una importante relación crediticia.[^32] Para
+1771, cuando aún no se había ascendido a Capitanía General, el
+gobernador Felipe Font de Viela, marqués de la Torre, arribó a la
+provincia con el claro propósito de hacerse a un nombre como perseguidor
+del contrabando. Aunque permaneció en el cargo por unos pocos meses,
+habría logrado atacar seriamente las redes de extracción de cacao y
+detener por un tiempo el flujo ilegal de mercancías.[^33] A los tres
+meses de haberse posicionado, Font de Viela consideró que era necesario
+ofrecer un indulto general para garantizar "la quietud" en la provincia.
+Según le informó a Julián de Arriaga, entonces secretario de Indias,
+esta decisión la había tomado en vista de las intrincadas redes de apoyo
+del contrabando que afectaban a muchas personas honorables de Caracas.
+En el texto del indulto se decía que de continuar procediendo con rigor,
+la provincia se "llenaría de amarguras y de pena, sin tener la culpa,
+una gran parte de los moradores, quando los hay por su distinción,
+honor, probidad, y conducta acreditada, muy dignos de
+consideración".[^34]
+
+Font de Viela tomó como referente para esta decisión un indulto
+concedido en 1736 por Martín de Lardizábal, reconocido gobernador de
+Caracas, que contó con la aprobación de Felipe V, en el que se les
+ofreció el perdón a los delincuentes por ilícito comercio a cambio de
+una compensación económica proporcional a sus faltas.[^35] Los "perdones
+al sacar", como se mencionó en el capítulo primero de esta tesis, no
+fueron comunes en el gobierno borbónico, pero no por ello fueron una
+práctica que se pudiera considerar ajena al indulto real. La lógica de
+un perdón pecuniario a los contrabandistas subyacía a su situación como
+defraudadores de la Real Hacienda, por lo que una cantidad de dinero
+podía subsanar en parte lo evadido.[^36] Por otra parte, al atribuirse
+que quienes atendieran al indulto serían personas de honor implicaba
+partir del supuesto de que estas personas no estaban involucradas por
+malicia o deseo de traicionar al rey. De hecho, Font de Viela dejaba
+claro que aquellos que no se presentaran a solicitar el perdón quedarían
+en evidencia como enemigos de la monarquía y por lo tanto se podría
+actuar contra ellos con todo el rigor.[^37]
+
+Es evidente que esta fue una gracia dirigida a favorecer a los
+contrabandistas adinerados y a sus poderosos asociados. Como señaló el
+historiador Jesse Cromwell, los pequeños traficantes vivían una
+competencia desigual en la que sufrían frecuentes decomisos de sus
+modestos intercambios.[^38] Font de Viela incluso accedió a recibir
+impetraciones "en secreto", de tal manera que la reputación de los
+indultados quedara intacta con el resto de la ciudad. En total, 51
+personas accedieron al perdón con la condición de que sus nombres no
+fueran revelados, para lo cual se recurrió a un sistema en el cual un
+testigo entregaba la suma acordada en las cajas reales a nombre del
+sujeto identificado con una marca. Esta primitiva encriptación permitía
+que se entregara al beneficiario su certificado de perdón, el cual se
+podía corroborar si se confrontaba con un listado que contenía los
+nombres asociados a cada marca. Para el mes de octubre, pocos días antes
+de que Font de Viela se embarcara a su nueva posición como gobernador de
+Cuba, se relacionaron 160 personas indultadas, de las cuales se
+obtuvieron 19 540 pesos, 5 reales y 10 ⅓ maravedíes.[^39]
+
+A pesar del éxito que tenía el indulto, Font de Viela manifestaba dos
+temores. Uno de ellos, tal vez el más importante, era que para que el
+perdón se hiciera efectivo debía contar con la ratificación del rey, sin
+lo cual el ofrecimiento no tendría ningún valor. El listado detallado de
+los sujetos indultados y de las cantidades recuperadas para la Real
+Hacienda pretendían comprobarle al rey que el indulto había sido
+benéfico, incluso se decía que gracias a la intimidación del castigo se
+había detenido el contrabando del cacao y el indulto había representado
+la garantía de quietud en la república. Desconocemos si la gracia fue
+ratificada por el monarca, pero es posible que ya entrados los dineros a
+la cajas reales se haya aprobado la actuación del gobernador. El segundo
+temor de Font de Viela consistía en la noticia de su traslado a La
+Habana desincentivara el acogimiento al indulto en espera de que el
+nuevo gobernador fuese más permisivo con el comercio ilícito. Esto le
+impidió extender el plazo para presentarse a gozar la gracia o responder
+a la petición de las ciudades de Coro y Carora que deseaban se les
+incluyera en el perdón.[^40]
+
+Es claro que la vinculación de los habitantes de las provincias de
+Tierra Firme y el contrabando impedía actuar con la firmeza necesaria
+para detener el flujo ilícito de mercancías, pero era también la
+respuesta ante un sistema comercial cada vez más dinámico que chocaba
+con una política comercial en extremo proteccionista y en buena medida
+arcaica. El perdón bien podía beneficiar a las redes de contrabandistas
+al garantizarles la impunidad, pero también podía representar un
+mecanismo para atraer a los antiguos delincuentes al servicio de la
+Corona. Font de Viela todavía consideraba que los contrabandistas
+perdonados serían útiles en una posible defensa de la gobernación ante
+una nueva confrontación bélica, de la misma manera que lo hicieron las
+autoridades de Panamá. La utilidad de estas gracias queda en entredicho
+si se tiene en cuenta que el comercio ilícito, aunque dinámico, no se
+extinguió de sus principales regiones. El beneficio, sin embargo, no
+estaba dirigido a la república sino a los vecinos importantes
+involucrados en el tráfico ilegal de mercancías. El perdón podía
+representar un arma para atacar a los enemigos y proteger las redes
+propias, para evadir el castigo no sólo del delincuente sino también de
+aquellos con quienes se vinculaba. Como en tantos aspectos de la
+sociedad de Antiguo Régimen, acceder al beneficio no sólo dependía de la
+calidad del sujeto, también era fundamental con quién estaba asociado.
+
+La pacificación de los indígenas y la negociación forzada
+---------------------------------------------------------
+
+La pacificación de los indígenas y el control del contrabando fueron de
+la mano en el gobierno virreinal. Durante el siglo XVII los intersticios
+del dominio español en el territorio americano permitieron el
+fortalecimiento de colonias irregulares de ingleses, holandeses y
+franceses, dedicados principalmente a intercambiar productos con los
+indígenas y otros habitantes de esas zonas. Estas colonias se
+fortalecieron sin que se presentara mayor resistencia por parte de un
+debilitado dominio hispano en las costas del Caribe. Belice, Mosquitos,
+Esequibo, constituyeron regiones inexpugnables, que resistieron los
+intentos esporádicos de recuperación emprendidos por algunos
+gobernadores. La fuerza de estas colonias no se debía solamente a su
+ubicación geográfica o a la fuerza militar de los extranjeros; parte
+primordial de su resistencia se fundamentaba en los fuertes lazos de
+amistad, intercambio económico y vinculación familiar que se
+desarrollaron con las "tribus rebeldes" de las selvas costeras. Por otra
+parte, casi dos siglos de misiones no habían resultado en una atracción
+hacia el dominio católico del rey de España. Como se señaló en el
+apartado anterior, los frailes eran primero colaboradores de sus
+empresas comerciales antes que celosos promotores de la reducción a la
+vida cristiana.
+
+Al restablecerse el virreinato del Nuevo Reino se le encargó a Sebastián
+de Eslava que asumiera la pacificación de las tribus rebeldes en dos
+frentes: la Guajira y el Darién. Se daba prioridad a estas regiones por
+la amistad de estas comunidades con los holandeses e ingleses
+respectivamente.[^41] La estrategia ordenada al virrey consistía en
+reducirlos y enviarlos a Santo Domingo o La Habana, con excepción de los
+mejores buzos para que les enseñaran a los negros a recolectar perlas, e
+instalar un fuerte en Bahía Honda que permitiera controlar los
+piratas.[^42] Esta orden nunca fue ejecutada debido al estado de guerra
+contra Inglaterra, pues aunque no se presentaron nuevos ataques después
+de 1741 el estado de alerta se mantuvo hasta la firma de la paz de
+Aquisgrán, o al menos esa fue la excusa del virrey Eslava. Por otra
+parte, consideraba que la propuesta de establecer un fuerte en Bahía
+Honda (véase mapa 2) debía enfrentar condiciones adversas, en particular
+la falta de agua potable en la zona.[^43] Aun así, el proyecto de
+fortificación se mantuvo, proponiéndose como fuente de pobladores los
+soldados que desertaron durante la guerra, a quienes se les ofreció el
+indulto a cambio de radicarse en este fuerte.[^44] El atraer pobladores
+para estos fuertes fue tan complejo como pacificar las regiones
+indígenas. En 1773 el gobernador de Maracaibo le informaba al virrey
+Guirior que difícilmente algún habitante de su jurisdicción se
+presentaría como voluntario para fundar los fuertes en la Guajira, o que
+se presentaran desertores para abrigarse por el indulto, pues "mas
+quieren vivir a su libertina costumbre que sugetarse, aun para su propia
+comodidad, al bien que se les propone, porque con el platano no ay
+picaro ocioso, ni vago que no tenga que comer".[^45]
+
+Mapa 2. Fortificaciones y sitios de la región de La Guajira
+
+![](media/image2.jpeg)
+
+Elaboración propia con información de Allan J. Kuethe, *Military reform
+and society in New Granada, 1773-1808* (Gainesville: The University
+Presses of Florida, 1978), 134; José Polo Acuña, *Indígenas, poderes y
+mediaciones en La Guajira en la transición de la colonia a la república,
+1750-1850* (Bogotá: Universidad de los Andes, Facultad de Ciencias
+Sociales-CESO, Departamento de Historia, 2012), 160; con datos de Werner
+Stangl, ed. *HGIS de las Indias*.
+
+La estrategia de establecimiento de fortificaciones y poblamientos para
+atraer a los indígenas a poblado correspondía con la costumbre de apelar
+a los medios de benignidad para establecer la autoridad y dominio del
+rey con las naciones indígenas no sometidas.[^46] Se esperaba así que
+abandonaran su amistad con los extranjeros y se afiliaran con el que
+sería su "señor natural". Pero la ingenuidad no era tal que consideraran
+que se podía conseguir este cambio de bando solamente mediante la
+persuasión de los evangelizadores, la amenaza de guerra, la presencia de
+tropa y la ejecución moderada de campañas militares debía presionar a
+las negociaciones, alianzas y posterior vasallaje de los indígenas.[^47]
+Alejandro Levaggi concluyó, a partir de algunos casos en Nueva España y
+Río de la Plata, que los borbones nunca modificaron la política de
+tratados con las comunidades indígenas establecida por la casa de los
+Habsburgo, enmarcada en la estrategia de conquista de pacífica que
+priorizaba la autoridad (la atracción) a la potencia.[^48] No obstante,
+esta política no se mantuvo tanto por la benevolencia de la monarquía
+como por la resistencia de los indígenas.
+
+A diferencia de lo planteado por Levaggi, Allan Kuethe identificó una
+intensificación en la actividad militar durante la segunda mitad del
+siglo XVIII para reducir a los indígenas de Riohacha y el Darién,
+similar a la estrategia puesta en acción en las Provincias Internas de
+Nueva España y en el Río de la Plata.[^49] En este sentido, es posible
+identificar una estrategia común para lidiar con la pacificación de los
+indígenas rebeldes, en la que el brazo secular tomó el liderazgo de su
+reducción reemplazando a las misiones, sobre todo después de la
+expulsión de los jesuitas. No obstante, los gobernadores no aplicaron la
+fuerza como sería de esperar, sino asumieron una estrategia que
+pareciera inspirada por Campillo y Cossío, según la cual era fundamental
+combinar "fuerza y negociación", intentando forjar relaciones
+comerciales y posibles alianzas contra enemigos comunes entre indígenas
+y españoles.[^50] El problema fundamental, por lo menos para el caso del
+Nuevo Reino, consistió en la dificultad de mantener una política estable
+de pacificación que pudiese competir con los lazos de interdependencia
+forjados entre indígenas y agentes de otras colonias. Los tratados y
+alianzas fueron en todo caso efímeras, por lo que no se generó ningún
+compromiso concreto de vasallaje que fuese más allá del necesario
+juramento que conllevara al cese al fuego cuando las confrontaciones no
+parecían avanzar para ningún bando.
+
+### La pacificación de la Guajira
+
+Un caso paradigmático, tratado en varios trabajos que abarcan la
+pacificación de "los guajiros" durante el gobierno del virrey Solís, fue
+el del cacique Cecilio López Sierra.[^51] Este líder de la nación wayúu,
+etnia que había logrado acaparar el dominio de la península de la
+Guajira durante el siglo XVII gracias a su economía ganadera e
+intercambio comercial con los holandeses,[^52] provenía de un linaje
+"noble", derivado de los primeros caciques elegidos por el regidor de
+Riohacha en 1698.[^53] Gracias a esto se convirtió en una figura
+fundamental para la intermediación entre las autoridades españolas y las
+comunidades indígenas, con quienes tenía el compromiso de velar por
+frenar el comercio ilícito y promover la pesquería de perlas; aunque
+esta posición también fue aprovechada para emprender sus propios
+negocios, entre los cuales estaban el contrabando de esclavos que
+compraba con hojas de coca que obtenía de plantaciones en la serranía de
+la Macuira, para luego traficarlos hacia el interior del Nuevo
+Reino.[^54] Esta posición de privilegio le permitió amasar un gran poder
+económico y con este una fuerte relación con algunas autoridades
+españolas, así como los traficantes holandeses, aunque no por esta razón
+tenía control sobre todas las comunidades wayúu.[^55]
+
+Uno de los hechos por los cuales es más conocido fue por su
+participación en el asesinato del teniente de gobernador José de Pestaña
+el 9 de diciembre de 1753. Todo parece indicar que Pestaña estaba
+utilizando su autoridad para encubrir, tras el velo de una celosa
+persecución a los contrabandistas, la configuración de una red propia de
+introducción ilícita de mercancías en competencia con la establecida por
+el cacique.[^56] Lo anterior, sumado a la evidente animadversión que
+habría generado el autoritarismo del oficial, habría permitido que se
+llevara a cabo el levantamiento de los indígenas y "libres" de la
+región.[^57] Cecilio López habría sido el organizador de los indígenas y
+mestizos que habitaban el pueblo de Boronata (véase mapa 2), quienes
+sumaron alrededor de 300 hombres que se dirigieron hasta Riohacha
+buscando al mencionado oficial. Después de rodear y disparar hacia la
+casa del teniente, éste se vio obligado a entregarse a la turba para que
+le perdonaran la vida. Posteriormente fue embarcaron en una pequeña
+lancha junto a un cabo de escuadra y un soldado del pie fijo de la
+ciudad, asignados como escolta, acompañados desde la costa por cerca de
+25 hombres encargados de evitar que regresara a la ciudad.
+Lastimosamente para Pestaña y sus acompañantes, al tratar de esquivar
+una embarcación de origen desconocido (probablemente holandesa) cayeron
+al agua y fallecieron ahogados.[^58]
+
+Tras este incidente, Cecilio y su hermano, el presbítero Joseph López
+Sierra, se trasladaron al poblado de Sabana del Valle, donde encontraron
+refugio entre sus familiares por algunos meses.[^59] De este lugar,
+Cecilio se trasladó hacia la provincia de Maracaibo con el propósito de
+embarcarse en una de las flotas de la compañía Guipuzcoana y buscar
+audiencia con el rey. Se envió entonces una requisitoria al gobernador
+para que apresara y se pusiera a disposición del virrey al cacique,
+orden que fue desobedecida por el oficial, argumentando que era
+necesario proceder con "reflección prudente a todas las circunstancias
+que pueden redundar en detrimento de la cauza pública", pues de otra
+manera, Cecilio podría utilizar su "autoridad y poderío" para levantar a
+los líderes indígenas de la región, sin que fuese posible hacerles
+frente. Resaltaba el gobernador el temor de la gente blanca de la ciudad
+de Maracaibo ante un posible levantamiento, ya que contaban con apenas
+cincuenta hombres para su defensa. Por esta razón, y a menos que el
+virrey enviara un refuerzo significativo de tropa, era necesario
+suspender la orden de aprehensión y permitirle al cacique Cecilio
+embarcarse hacia la Corte, con cuya noticia se calmarían los rumores de
+los indígenas y se garantizaría la tranquilidad en la región.[^60]
+
+No es claro qué asuntos se trataron en la audiencia entre el cacique
+Cecilio y el rey, aunque sí es evidente que uno de los temas fue la
+solicitud del perdón de la culpa que se le pudiera imputar. El rey no
+concedió el perdón, pues se determinó que las pruebas demostraban que
+estuvo en el tumulto, pero no resultaba comprobado el delito de haber
+sido su promotor. Por esta razón, hizo regresar a Cecilio sin el indulto
+y ordenó que fuera detenido en Cartagena para ser puesto a disposición
+del virrey, aunque con la advertencia de que actuara con la prudencia
+necesaria para valorar si era más conveniente castigar al cacique o en
+su lugar ganar su amistad, y así a través de ella atraer sus indios a la
+obediencia, quedando prohibido en todo caso que se aplicara la pena
+capital pues había implorado su real clemencia.[^61] Cecilio arribó a
+Cartagena, junto con la precedente orden, el 3 de enero de 1757, donde
+efectivamente fue arrestado y enviado a la cárcel de corte de Santa
+Fe.[^62] En su interrogatorio, el cacique afirmó que tenía una estrecha
+amistad con Pestaña, a quien recibía a son de cajas en su pueblo e
+incluso pernoctaba en su casa; pero al tener noticia de que las campañas
+de pacificación del teniente tenían como objetivo el comercio ilícito
+decidió acudir al cabildo de Riohacha para que se ejecutara su
+expulsión, y que habría acudido con solamente catorce indios a la casa
+de Pestaña, todo el resto de fuerza habría sido comandada por el
+comerciante Juan Benito de Salas (acusación que negó en el careo).[^63]
+
+No deja de llamar la atención que en el interrogatorio respondiera a la
+pregunta de si era consciente que la rebelión era crimen de lesa
+majestad que se castigaba con pena capital afirmando que por su
+rusticidad y por el hecho de haber sido criado con indios "casi
+bárbaros" ignoraba la gravedad del delito, más cuando fue instado por
+"un eclesiástico" para que llevara a cabo dicha acción.[^64] Este
+argumento de miserabilidad fue fundamental para justificar el
+tratamiento benigno del cacique, pues el mismo fiscal Peñalver determinó
+tras su confesión que sus acciones no provenían de un espíritu de
+rebeldía, sino por la seducción del eclesiástico. En cambio, el peso del
+levantamiento debía caer en Juan Benito de Salas, acusado de haber sido
+el comandante de la mayor fuerza que finalmente llevó a la expulsión y
+muerte de Pestaña. Concluía el fiscal que no le parecía necesario elevar
+una acusación formal, por el contrario, aconsejaba al virrey para que
+aconsejara y amonestara al cacique Cecilio en la necesidad de mantener
+su lealtad al rey, más cuando él mismo le había otorgado la conmutación
+de la pena capital.[^65] Como sabemos, Peñalver no era un fiscal reacio
+a la concesión de perdones, como tampoco lo era Solís, y aunque no
+contamos con el documento de la decisión final (el caso de Cecilio fue
+separado del expediente de los demás implicados y enviado para su
+determinación a un oidor) es evidente que consiguió pronto su libertad y
+ya en 1760 se embarcó en el proyecto de pacificación de la Guajira junto
+al asentista Bernardo Ruiz de Noguera.[^66]
+
+Después de la liberación de Cecilio, parecía que el castigo iba a recaer
+únicamente en los españoles y mestizos que fueron acusados de instigar
+el levantamiento, mas al pasar los años fueron surgiendo las
+conmutaciones y la clemencia. El primer acto de indulgencia fue contra
+Fernando Carvajal, uno de los alcaldes de Riohacha al momento de la
+rebelión, a quien se le conmutó la prisión por "carcelería" en la ciudad
+de Santa Fe.[^67] En diciembre de 1758, el virrey Solís concedió indulto
+a los hermanos José Salvador y Agustín Valverde, señalados como de los
+principales promotores del levantamiento, a cambio de una suma de 30 y
+1500 pesos respectivamente.[^68] En el mismo año, los demás acusados
+fueron absueltos por Solís de siguiendo la determinación de su asesor,
+al parecer sin que mediara perdón o pago de por medio.[^69]
+
+Estos indultos y absoluciones representaron un serio inconveniente para
+el virrey, especialmente para su asesor, pues al ser conocida la
+decisión en el Consejo de Indias se determinó que el procedimiento no
+había sido regular y declaró nulas dichas gracias en 1761, demandando
+que la Audiencia de Santa Fe reiniciara la causa de los implicados. Juan
+Benito Salas, de quien ya tratamos en el capítulo anterior,[^70] fue
+capturado nuevamente y fue sentenciado en marzo de 1764 a pasar ocho
+años en el castillo del Morro de la Habana.[^71] Los hermanos Valverde
+se embarcaron hacia Cádiz, donde se presentaron a la sala de justicia en
+1765 para negar que hubiesen escapado del Nuevo Reino, argumentado que
+habían salido con todos los permisos necesarios. Ese mismo año la
+Audiencia de Santa Fe le informó al Consejo de Indias que había
+determinado sentenciar a último suplicio a Agustín y a ocho años de
+presidio en África a José Salvador, por lo que fueron capturados y
+puestos prisioneros en las cárceles de Cádiz y Sevilla, con el propósito
+de ser remitidos al Nuevo Reino. Ante esta perspectiva, las esposas de
+ambos reos apelaron al Consejo para que los dejara libres bajo fianza, o
+que por lo menos les permitieran llevar el juicio en ese tribunal, y
+evitaran los perjuicios que les sobrevendrían tanto a ellas como a sus
+numerosos hijos. En varias ocasiones el fiscal del Consejo consideró que
+era necesario desestimar la petición de las mujeres de los Valverde, no
+obstante, los consejeros determinaron que se mantuvieran presos en sus
+respectivas cárceles con sus bienes embargados mientras se tomaba una
+decisión definitiva.[^72] Finalmente, gracias a las súplicas de "las
+viudas", a lo que se añadió el atenuante de una extensa prisión, el
+tiempo transcurrido desde la rebelión y las consecuencias de la pérdida
+de bienes, el asesor Pedro Rodríguez Campomanes estimó que aunque por la
+calidad de su delito no era posible incluirlos en el indulto general
+publicado el 10 de octubre de 1771, el rey podría conceder (como
+efectivamente lo hizo) un perdón particular con la condición de que no
+retornaran a Indias ni comerciaran con la provincia de Riohacha.[^73]
+
+Como fue dicho anteriormente, en la década de 1760 se adelantó una nueva
+estrategia de pacificación dirigida por Bernardo Ruiz Noriega, la cual
+consistía básicamente en el establecimiento de tratados de paz con los
+diferentes pueblos wayúu. Con ligeras diferencias, estos acuerdos
+determinaban que los indígenas se rendían ante la autoridad del rey y
+por consiguiente se sometían a las leyes divinas y humanas de la
+monarquía hispánica, comprometiéndose a someter por las armas a aquellos
+que se mantuvieran rebeldes. Los indígenas se comprometerían además a
+fundar poblaciones, abrazar la monogamia, atacar a los indígenas
+rebeldes y someterse a las órdenes de Ruiz. La estrategia incluía además
+la construcción de las fortificaciones de Bahía Honda y de Pedraza, con
+las cuales se pretendía acorralar a los indígenas y garantizar su
+pacificación. Como era de esperarse, la estrategia falló rápidamente.
+Ruiz reportó un total de 15 650 indios reducidos a poblado, pero estos
+asentamientos fueron efímeros y rápidamente los wayúu regresaron a sus
+rancherías. Por otra parte, era evidente su vinculación con el
+contrabando, tanto que llegó a solicitar al virrey Solís la facultad
+para introducir armas inglesas para el proyecto de pacificación, a lo
+cual se opuso tajantemente su sucesor Mesía de la Cerda en acuerdo con
+el ministro Julián de Arriaga.[^74] El nuevo virrey consideró que estas
+alianzas entre Ruiz y los ingleses eran sumamente peligrosas, más en el
+contexto de la guerra que se libraba contra el imperio británico, por lo
+que decidió que era necesario retirarlo de su comisión, asegurarlo en
+prisión, embargar sus bienes y remitirlo a España.[^75]
+
+El parteaguas en la política de pacificación vino tras la rebelión que
+se extendió entre 1769 y 1772, en la que los wayúu pusieron en jaque a
+las autoridades de la península de la Guajira al rebelarse contra las
+misiones capuchinas amenazando incluso con destruir la ciudad de
+Riohacha.[^76] Mesía de la Cerda consideró que esta era una demostración
+de la irremediable insolencia de "los guajiros", pero sobretodo de la
+inefectividad del uso de los medios benevolentes para la atracción de
+los indígenas rebeldes a la autoridad. Poco tiempo después de la
+rebelión, de la Cerda manifestaba que "despues de haver apurado todos
+los medios de moderación y suavidad para contener á los indios Huaxiros
+de la Provincia del Rio del Hacha, tolerándoles no pequeños insultos",
+sería necesario el traslado de 500 hombres, víveres y pertrechos con el
+fin de que "con el rigor de las armas sujeten a dichos indios hasta
+reducirlos á la obediencia, libertando á la Provincia y sus abusadores
+de la opresión en que viven y del riesgo de que abandonándola al furor
+de los Guaxiros pierda el Rey su dominación".[^77] El virrey Mesía de la
+Cerda era un convencido del uso del rigor para la pacificación, tanto de
+los wayúu como de todas las naciones indígenas que controlaban las
+fronteras del Nuevo Reino. En el *Estado del virreinato*, por medio de
+la pluma del fiscal Moreno y Escandón, reflexionaba sobre la necesidad
+de utilizar las armas para refrenarlos: "La gravedad de estos males tan
+arraigados al cuerpo político del reyno, no admite otra curación que el
+cauterio de las armas, por haberse experimentado que los lenitivos
+suaves de las amonestaciones, lexos de producir el deseado efecto de la
+conversión, sirven de insolentar á estos barbaros y los que
+abrigan".[^78]
+
+Mesía de la Cerda era sincero en manifestar que la idea de un giro hacia
+el rigor era más una posición política que una posibilidad concreta para
+la pacificación. Por una parte, la práctica le había demostrado que las
+fuerzas de los indígenas rebeldes eran superiores a las del gobierno
+virreinal. Para sofocar la revuelta iniciada en 1769 ordenó el envío de
+una expedición de cerca de mil hombres de tropa quienes se apostaron en
+Riohacha en 1771, quienes sólo consiguieron asegurar la ciudad al
+encontrar que requerían enfrentar a cerca de 40 000 indígenas y mestizos
+alzados, 10 000 de ellos con armas británicas. El comandante de la
+operación estimó que serían necesarios por lo menos 2000 soldados más
+para intentar hacer frente a tal enemigo, un objetivo imposible de
+alcanzar con los recursos y hombres disponibles en el Nuevo Reino.[^79]
+Por otra parte, estaba la contención legal, el principio no reformado
+según el cual la pacificación de los indígenas debía realizarse por los
+medios de suavidad y agotados estos, o en caso de rebelión, recurrir a
+la fuerza. Un cambio en esta política implicaría la aprobación del
+soberano, pues iba en contra de lo estipulado por las leyes recopiladas.
+La frustración, tal como manifestaba el fiscal Moreno y Escandón,
+consistía en que después de dos siglos de aplicación de esta estrategia
+poco se había avanzado en la pacificación, pues bien sabían los
+indígenas que al aceptar bautizarse y celebrar acuerdos con los
+españoles (como los conseguidos por Ruiz) podían suspender las
+hostilidades e incluso ganar fuerza para emprender la defensa de su
+territorio.[^80]
+
+Al asumir Manuel Guirior el virreinato era claro que si bien había en el
+Nuevo Reino un espíritu que apoyaba el avance militar sobre las
+comunidades rebeldes no existían los medios prácticos para ejecutar tal
+estrategia. El problema que enfrentaban era entonces de suma
+complejidad, pues de antemano se sabía que la estrategia de pacificación
+con misioneros estaría condenada al fracaso, pero no existía la manera
+de reducir por la fuerza a los indígenas. Ya que nunca se pudo ejecutar
+tal acción militar, es imposible saber con seguridad si con el aumento
+de tropa y fortificaciones en la península de la Guajira se habría
+conseguido el dominio de ese territorio. Lo cierto es que no fue posible
+suspender el ejercicio de la benevolencia, incluso en la nueva etapa de
+pacificación encargada al ingeniero Antonio de Arévalo, aunque ésta no
+dependería de las órdenes religiosas sino de la jurisdicción
+temporal.[^81] En la cartela de uno de los muchos mapas que realizó este
+ingeniero resumió la estrategia de pacificación de la península: "el
+ex*celentísi*mo señor virrey mandó se arreglasen con la fuerza de las
+armas, ó de otro modo, á dichos yndios, á que viviesen en paz en nuevas
+poblaciones".[^82] A pesar del tono beligerante que aparentaba priorizar
+la fuerza a la benevolencia, una de las primeras acciones de Arévalo al
+desembarcar en Riohacha consistió en publicar un perdón general, "a
+todos los yndios guagiros y demás de la provincia, de las muertes,
+rovos, yncendios, y otros delitos, que han cometido, que el
+ex*celentísi*mo señor virrey de este reyno les concede, en nombre del
+rey", del cual se envió copias a los sitios de Moreno y Camarones,
+además de una carta de amistad dirigida al cacique Cecilio en
+Boronata.[^83]
+
+Los perdones abundaron en la pacificación liderada por Arévalo, tanto
+como los incumplimientos y las hostilidades. En ciertos lugares, como
+Camarones, el perdón tuvo cierta recepción por parte de los indígenas
+"de bastante razón que hablan castellano", quienes no sólo aceptaron la
+gracia sino se involucraron en la empresa de construcción del pueblo,
+con su iglesia y casas.[^84] No obstante, reunir a los indígenas para
+publicar el bando de perdón ya era en sí una tarea compleja. En
+Camarones pasaron varios días hasta que los dichos indígenas aceptaron
+reunirse, mientras en Boronata, todavía a finales del mes de marzo de
+1773, corría el rumor de que la tropa estaba reuniendo a sus pobladores
+para "matarlos a todos".[^85] Mayores dificultades se presentaron al
+profundizar esta estrategia en el norte de la península, pues allí
+tendrían que enfrentar a dos importantes líderes wayúu como fueron
+Antonio Paredes y Juan Jacinto, ambos de la región de Chirimaure. El
+primero fue un importante colaborador en la construcción de Bahía Honda,
+proyecto en el que se comprometió después de haber recibido el perdón
+general de manos del capitán Joseph Galluzo; en tanto el segundo fue un
+líder más reacio a obedecer a los pacificadores, además de ser un
+enemigo veterano de Paredes. Jacinto también recibió el perdón, pero lo
+obtuvo tras haber entrado a la plaza principal de Riohacha en donde el
+mismo Arévalo se lo concedió a cambio de que se radicara en Bahía Honda
+y conviviera pacíficamente con Paredes. Al poco tiempo, Jacinto
+incumplió con el compromiso, atacó a españoles e indígenas enemigos,
+tras lo cual se ordenó su captura y muerte, que no se consiguió sino
+hasta 1776 en el marco de un ataque junto a los indios Cocinas a Bahía
+Honda.[^86]
+
+La estrategia de Arévalo sin duda representó una esperanza para las
+autoridades virreinales. En febrero de 1773 el virrey Guirior le
+comunicaba al ministro Arriaga el gran avance en la pacificación,
+manifiesta en una gran cantidad de pueblos fundados con iglesias
+provisionales, en las cuales se nombraron curas doctrineros para
+afianzar el apaciguamiento de los indígenas.[^87] El 30 de abril le
+informó a Arriaga que ya se había logrado "la total pacificacion de los
+indios guaxiros".[^88] Aun así, las fortificaciones requerían
+fortalecerse con habitantes blancos, ampliar las poblaciones a otras
+regiones de la península y, sobre todo, reducir a los indios Cocinas,
+grupo irreductible que efectuaba ataques continuos contra los
+agricultores y comerciantes españoles.[^89] El proyecto puede
+considerarse estancado después de la precaria fortificación de Apiesi en
+1776, en buena medida porque el recién nombrado virrey Flórez consideró
+necesario reducir las tropas en el lugar y en su lugar mejorar las
+milicias locales. El inicio de la Guerra de Independencia Norteamericana
+impulsó al virrey a concentrar sus fuerzas en la defensa de Cartagena,
+reduciendo las defensas de la Guajira al punto de que la resistencia
+española quedó centrada en el triángulo formado entre Riohacha, Pedraza
+y Sinamaica. Los fuertes de Bahía Honda, Apiesi y Sabana del Valle
+fueron destruidos posteriormente, y Pedraza y Sinamaica serían
+finalmente deshabitados. Finalmente, para 1803, el único bastión de la
+autoridad virreinal en La Guajira estaba constituido por la ciudad de
+Riohacha, señalando así el total fracaso de la campaña de pacificación
+de los wayúu.[^90]
+
+### La pacificación del Darién 
+
+La región del Darién constituía otro espacio poroso en el que las
+interacciones entre indígenas y contrabandistas habían forjado la
+identidad de la región. La zona estaba habitada en su mayoría por
+comunidades del pueblo kuna,[^91] quienes dominaban la entrada al golfo
+del Darién desde el cabo San Blas y toda la franja que hoy comprende la
+comarca panameña de Guna Yala, extendiéndose por buena parte de la
+gobernación del Darién alcanzando la entrada de Boca Chica y de la
+gobernación Chocó hasta la desembocadura del río Caimán (véase mapa 3).
+Aunque la región no fue sujeta a una campaña importante de reducción más
+allá de las tradicionales misiones, el descubrimiento de un plan para
+colonizar la Bahía de Calidonia por una expedición escocesa entre 1697 y
+1699, aunque fallido, llamó la atención sobre la fragilidad que
+representaba el Darién para el sostenimiento del dominio hispánico en
+América.[^92] No fue hasta el gobierno del arzobispo-virrey Caballero y
+Góngora que se inició una campaña concreta de pacificación en la región.
+Previamente se proyectaron algunos puntos donde establecer fortalezas
+para defender la entrada por el golfo del Darién y Boca Chica, pero no
+se adelantó ningún avance para concretarlos.[^93]
+
+Mapa 3. Fortificaciones y sitios de la región del Darién
+
+![](media/image3.jpeg)
+
+Elaboración propia con información de Allan J. Kuethe, *Military
+reform*, 134; AGI, mapas y planos, Panamá, 162; *Derrotero de las islas
+Antillas, de las costas de Tierra Firme y de las del Seno Mexicano*
+(Bogotá: s. n., 1826), 373-75; con datos de Werner Stangl, ed. *HGIS de
+las Indias*.
+
+El ingeniero Antonio de Arévalo fue enviado en 1760 a explorar la región
+y establecer cuáles serían los mejores lugares para reforzar. De esta
+empresa resultaron una serie de mapas que serían fundamentales
+posteriormente, además de una propuesta de establecer fuertes en la
+desembocadura del río Caimán y en la bahía de Calidonia, ambos lugares
+dominados por franceses, así como en Puerto Escondido y en el canal de
+Sasardi (entre el cabo San Blas y Concepción).[^94] Con este
+fortalecimiento se pretendía poner freno a los indígenas sin necesidad
+de atacarlos, además Arévalo sugería que se pagara a los líderes un
+sueldo para mantenerlos como aliados, desterrando en cambio a aquellos
+que se negaran a aceptar la paz y castigando con severidad a los que se
+mantuviesen rebeldes.[^95] El proyecto, aunque fue útil para el
+establecimiento de los fuertes de la década de 1780, no se llegó a
+concretar en ese momento, pero planteaba una relación extraña entre los
+franceses establecidos en la zona, quienes se habían integrado de tal
+manera en sus colonias que habían formado familias con los indígenas,
+cultivaban la tierra y se planteaban como vasallos del rey de España. En
+este sentido, aunque las campañas de pacificación iban dirigidas hacia
+la población kuna, las redes de interdependencia que construyeron los
+"extranjeros" en las costas del Darién en unas pocas décadas, hacían que
+no fuese una negociación entre establecidos y forasteros en la que los
+primeros pudiesen transar excluyendo a los segundos.
+
+Todavía durante la década de 1770 la negociación con los indígenas era
+la estrategia utilizada por los gobernadores para mantener la paz. El
+virrey Guirior le reportaba al Consejo de Indias en febrero de 1773 que
+se habían presentado voluntariamente el cacique de Tuarequi, el capitán
+de Jaraguay y otros líderes indígenas, para jurar obediencia al rey y
+perseguir a los extranjeros, a cambio de lo cual recibieron como regalo
+vestidos y uniformes, "con lo que se han buelto a su pais muy
+contentos".[^96] Manuel Guirior también advertía que una entrada por la
+fuerza a la provincia podría generar un efecto contrario a la
+pacificación pues en lugar de reducir a los indígenas era muy probable
+que se levantaran los esclavos mineros pues por "su condición servil" no
+tendrían ningún apego al vasallaje y "el natural deseo de libertad y de
+sacudir el yugo de la esclavitud" hacía presumir que se unirían a los
+kuna en una rebelión contra sus amos.[^97] La paradoja era que el
+territorio no era en sí un escenario de guerra, más allá de unos cuantos
+robos y ataques esporádicos a puestos de avanzada del ejército no se
+presentaban mayores desórdenes. No obstante, era una región que generaba
+temor por lo que podría pasar, como expresó Mesía de la Cerda en el
+*Estado del virreynato*, "puedo recelar que en lo venidero sean
+funestos, y tal vez irreparables, los estragos, pues no se duda que
+entre los yndios se abrigan con facilidad varios extranjeros que pueden
+dirigirlos y sugerirles especies mui perjudiciales".[^98]
+
+El principal problema de la zona, por el cual se requería controlar de
+alguna manera, era la presencia inglesa, la cual se había hecho fuerte
+en pequeños campamentos temporales, como el archipiélago de San Blas,
+desde los cuales atacaban a los paquebotes que transportaban personas y
+correspondencia en la zona.[^99] También puso en alerta a las
+autoridades de Santa Fe la captura en 1767 del inglés Peter Alexander,
+castellanizado como Pedro Antonio o Pedro Alejandro de Velasco, a quien
+se le decomisaron una serie de mapas detallados de las costas de
+Mosquitos. Al respecto informaba un oficial del regimiento de la reina,
+"aquí se ha preso un inglés que venía por toda la costa sacando un plano
+tan exacto de ella, que ni la menor menudencia omite".[^100] Estos mapas
+fueron una sorpresa para las autoridades de Santa Fe, pues detallaban
+cada poblado de indígenas y zambos en una extensa zona de la Mosquitia,
+demostrando así el dominio que tenían éstos sobre la región.[^101] Era
+además un llamado de atención por la estrecha alianza entre ingleses y
+nativos de las costas centroamericanas, de hecho en una supuesta carta
+de Peter Alexander al virrey le habría informado que los ingleses en
+connivencia con los indígenas de las costas podían controlar desde el
+"polo ártico" hasta Cartagena, siendo el golfo del Darién uno de los
+principales establecimientos de factores y comerciantes. El peligro
+subyacía, según Alexander, en que aunque en tiempos de paz estos
+dominios no parecían representar un problema, en tiempos de guerra bien
+podían los ingleses reclamar la "prescripción pacífica de aquella
+tierra" por haber habitado en ella por largo tiempo.[^102]
+
+En esos términos la estrategia de control del Darién no podía ser más
+compleja. El uso de la benevolencia había demostrado poco o ningún
+efecto para atraer los indígenas al vasallaje, por otra parte, los pocos
+fuertes establecidos estaban desprotegidos y ocupados por unas pocas
+unidades de pardos sin que se lograse detener las acciones de los kuna.
+Tampoco había opción para el uso de la fuerza, como fue propuesta por el
+ingeniero Arévalo,[^103] en la que el control del territorio se lograría
+por la eliminación de la amenaza indígena, primero por razones prácticas
+en términos del costo que implicaría organizar una expedición de tal
+magnitud (sin ninguna garantía de éxito), y en segundo lugar porque
+podría desatarse el pandemonio con el apoyo de los ingleses, con la
+posible pérdida definitiva del dominio sobre el Darién y las provincias
+vecinas antes que su recuperación. No obstante la situación parecía cada
+vez peor. En 1775 los kuna atacaron, con apoyo de los ingleses, la costa
+norte del Darién, en 1779 atacaron Calidonia y asesinaron a 87
+franceses, vasallos del rey desde el indulto de 1740,[^104] y en 1782
+asesinaron a 140 soldados que llegaron accidentalmente a esas costas por
+causa de un temporal.[^105] El deterioro progresivo de la pacificación
+en la Guajira, sumado al reciente golpe a la aparente paz del Nuevo
+Reino alterada por la rebelión de los comuneros, impulsó a que el
+arzobispo-virrey Caballero y Góngora tomara la decisión de emprender una
+campaña de recuperación del Darién.
+
+En 1783, el mismo año que los wayúu tomaron Bahía Honda,[^106] Caballero
+y Góngora ordenó la avanzada de una expedición militar que preparara los
+lugares en los cuales se establecerían las fortalezas y poblados de
+blancos que asentarían el dominio virreinal sobre el Darién.[^107] La
+confianza en esta estrategia hizo que el arzobispo-virrey propusiera
+extenderla a la Guajira, donde planteaba fundar una docena de pueblos de
+españoles para que se dedicaran a la agricultura y la ganadería. Este
+proyecto parecía una buena manera de avanzar en la pacificación sin
+necesidad de recurrir al excesivo rigor, como proponían el ingeniero
+Arévalo y los gobernadores de las provincias aledañas al Darién, y
+tampoco conllevaba los costos de una fortificación del interior de la
+provincia. En el resumen de la consulta al Consejo de Indias se
+resumiría la propuesta de Caballero y Góngora en los siguientes
+términos: "con el tiempo y medios que propone \[el virrey arzobispo\]
+para el trato y comercio con los yndios se conseguiría atraerlos poco á
+poco, sin efusión de sangre, al trato sociable y después, con maña, al
+conocimiento de la Religión".[^108] Solamente hasta 1785 inició el
+avance sobre la región. Desde Cartagena una expedición consiguió
+posicionarse en los sitios de Caimán, Concepción y Mandinga; una segunda
+logró ocupar Calidonia, rebautizándola como "Carolina del Darién".[^109]
+
+Todo indicaba que la avanzada estaba dando resultados. En julio de 1787,
+el arzobispo-virrey daba cuenta a José de Gálvez de un tratado de paz
+con los principales capitanes del Darién, el cual se consiguió tras una
+semana de negociaciones. Decía el oficial, "todo se ha logrado por
+medios pacificos, y los indios vuelven contentos, regalados y
+satisfechos, con animo de enviar a los demás caciques y capitanes a
+ratificar la convención y ayudarnos con sus fuerzas contra los que no
+adhieran a ella".[^110] El armisticio surgió por iniciativa de los
+líderes indígenas, sobre todo del cacique Bernardo de Estola, quien
+incluso dejó como prenda de garantía a uno de sus hijos, con el
+compromiso de que fuera educado por los españoles.[^111] Un personaje
+fundamental para lograr el acuerdo fue el inglés Henry o Enrique Hooper,
+quien capitaneaba la goleta en la que llegaron los indígenas y se
+ofreció como mediador entre las partes.[^112] Según el texto del
+acuerdo, los kuna se acercaron a Antonio de Arévalo, entonces apostado
+en Carolina, porque estaban "cansados y fatigados" de los ataques
+españoles, por lo que aceptaban como dueño y soberano a Carlos III y se
+arrepentían de los errores cometidos en el pasado. Los dos primeros
+artículos del acuerdo incluían la concesión del perdón a ellos y todos
+los indios de la costa del Darién, con lo cual quedaban sujetos a
+vasallaje del rey. La contraprestación ofrecida por los indígenas
+consistía en la reducción y pacificación voluntaria de sus poblaciones,
+"quedando todos y cada uno de los caziques sin facultad para tomar
+justicia por su mano", es decir, que les quedaba prohibido como vasallos
+del rey hacer guerra contra otras comunidades vecinas, ya fueran de
+indígenas o españoles.[^113]
+
+De modo similar a lo sucedido con los franceses de Calidonia, el perdón
+y alianza de los kuna representó su reducción al vasallaje, al menos en
+el papel. En el acuerdo quedaba estipulado el sometimiento de los
+indígenas, pero quedaba claro asimismo que no se les exigían otros
+elementos fundamentales de las reducciones indígenas como la
+construcción de una iglesia, el obedecimiento a un corregidor, ni
+siquiera la conversión al catolicismo. La obediencia se limitaba a no
+atacar a los españoles, franquear el paso interoceánico por su región y
+evitar el comercio con extranjeros. En cambio, se les permitía la
+navegación libre, el comercio con licencia en los puertos del
+virreinato, establecer poblados donde les conviniese e incluso se
+consintió que conservaran las galeotas o lanchas cañoneras, así como el
+uso de armas y machetes, aunque con la advertencia de que no fueran
+compradas a los ingleses.[^114] Más que una capitulación de los kuna, el
+acuerdo hecho por Arévalo y ratificado por el arzobispo-virrey fue un
+pacto entre dos naciones, y fue hecho de esta manera porque no había una
+forma de someter a los indígenas y expulsar a los ingleses de sus
+territorios. Tanta era la infiltración que les era más fácil a los
+indígenas comunicarse en inglés con Hooper, que en español con
+Arévalo.[^115] De hecho, aunque Hooper posaba en principio de mero
+transportador de los caciques,[^116] rápidamente su posición pasó a
+intérprete y luego a mediador, tarea por la que fue recompensado con
+"caudales y objetos".[^117] Aun así, Hooper nunca se sometió a vasallaje
+y aunque era un comerciante jamaiquino reconocido no recibió ninguna
+amonestación.
+
+En estas circunstancias el perdón no traía la paz y el vasallaje sino
+una tregua dominada por la desconfianza. Andrés de Ariza, gobernador del
+Darién, ordenó al teniente José de Matos, inmediatamente después de
+firmado el pacto entre los caciques y Arévalo, que reforzara la
+seguridad en el puerto de Carolina. El primer punto de su orden decía:
+"No se fiará absolutamente de la Paz que han hecho los yndios; porque
+con los españoles nunca pronuncia su boca lo que siente el corazón; por
+eso aora és necesario vivir con mas precapcion \[sic\] con ellos".[^118]
+Las prevenciones del gobernador Ariza iban dirigidas a evitar que los
+indígenas se movieran por la zona de manera desapercibida y que
+sorprendieran a los españoles con algún ataque a traición. Le indicaba
+varias formas en las cuales la tropa debía manejarse con los indígenas,
+siempre evitando que ellos estuvieran armados en las campañas hacia el
+interior del territorio o durante el tiempo que estuvieran en los
+poblados españoles. Por otra parte, Ariza era claro en indicar que de
+ninguna manera los indígenas debían sentirse equiparados a los españoles
+y por tanto indicaba que "al vulgo de los yndios, en quanto a
+estimaz*io*n se deven mirar con tal desprecio como se acostumbra con los
+negros bozales, dándole á entender que para nada se necesitan. No
+hacerles fineza, ni bien alguno; porque áquel que mas yndios veneficia,
+mas enemigo se concilia, porque luego luego procuran sacudir el yugo de
+la gracia".[^119] Por otra parte, consideraba que era necesario promover
+que se enseñara a leer y escribir a "quatro ó seis yndiecitos\" de cada
+poblado, pues según su experiencia un indio letrado "mas bien se precia
+de ser español que yndio"; incluso decía que en las escuelas de indios
+deberían asistir unos cuantos niños españoles, "para que no les parezca
+tan rígida é insuficiente la escuela".[^120]
+
+No obstante su imperfección, la paz del Darién se mantuvo desde entonces
+hasta que en 1789 el virrey Francisco Gil y Lemos ordenó abandonar los
+fuertes de la región para hacer frente a la fuerte crisis de caudales
+que se vivía en Cartagena.[^121] Las relaciones con los kuna después del
+acuerdo de paz se mantuvieron estables en buena medida porque el
+arzobispo-virrey pudo interpretar la compleja situación de la región,
+tolerando la presencia europea en la zona, e incluso incentivando la
+colonización de norteamericanos, nuevos aliados de España con los que se
+pretendía civilizar al Darién.[^122] Así, en 1789 los fuertes españoles
+estaban habitados por soldados, milicianos, negros, familias
+provenientes de regiones del Nuevo Reino tales como el Sinú y el
+Socorro, así como una importante presencia de irlandeses y
+norteamericanos.[^123] Pero la paz no representaba dominio. De manera
+simbólica, al momento de abandonar los fuertes se hizo jurar fidelidad a
+los indígenas y que prometieran no comerciar con los ingleses. Poco
+importó el juramento y los kunas retornaron a sus intercambios con los
+británicos casi tan pronto como salieron los españoles de los poblados
+del Darién.[^124]
+
+De las experiencias de la Guajira y el Darién queda claro que el perdón
+en estos casos funcionaba como una herramienta desigual de negociación
+en el que, paradójicamente, llevaban la ventaja los indígenas. Estos
+eran conocedores de su poderío en las regiones y de la fortaleza que
+ganaban con las alianzas con las colonias británicas, holandesas y
+francesas del Caribe. De modo similar a los criminales comunes, el
+perdón en las campañas de pacificación se otorgaba aún a sabiendas de
+que era muy posible la reincidencia. El perdonar significaba reducir a
+vasallaje, por lo que incumplir el acuerdo que se generaba entre el
+perdonador y el perdonado era equiparable al delito de traición. El
+problema era que aunque así fuese en términos legales, el gobierno no
+podía darse el lujo de castigar con el rigor deseado. En primer lugar
+porque la fuerza militar española, incluso después de la reforma militar
+de Carlos III, no logró en ningún momento superar la capacidad de
+combate de los grupos indígenas, conocedores profundos del territorio,
+con gran experiencia en el combate irregular y con una importante
+provisión de armamento moderno obtenido a través de comerciantes
+extranjeros. Claramente los llamados a arrasar los pueblos de los
+"indios insolentes" no eran impopulares, de hecho la ira antes que la
+clemencia fue bastante común en el discurso del gobierno de la segunda
+mitad del XVIII, aunque como lo señala Sebastián Gómez, esto era más el
+reflejo de la impotencia del virreinato antes que una muestra de un
+proyecto concreto.[^125]
+
+3.  El perdón de las ciudades rebeldes
+    ----------------------------------
+
+    3.  ### La rebelión de León contra la compañía Guipuzcoana y su perdón
+
+La rebelión de Juan Francisco de León en Caracas de 1749 es una
+posibilidad interesante para revisar el ejercicio del perdón en una
+provincia recientemente integrada a la autoridad virreinal pero cuyo
+ejercicio jurisdiccional era de por sí bastante independiente del
+virrey. Caracas no sólo era una gobernación que compartía muchas
+similitudes con Panamá en términos de su disociación con Santa Fe, en
+primer lugar porque dependía de la jurisdicción de la Audiencia de Santo
+Domingo y en segundo lugar porque desde 1741 las provincias venezolanas
+serían independientes del virrey del Nuevo Reino de Granada, un proceso
+que haría ganar cada vez mayor fortaleza jurisdiccional hasta ganar el
+título de Capitanía General en 1777 y sede de Real Audiencia una década
+después. Aunado a esta independencia jurisdiccional, la provincia de
+Caracas fue campo de experimentación para las compañías de comercio,
+específicamente en la distribución del cacao, con la creación de la
+compañía Guipuzcoana[^126] y sería contra este monopolio que se
+realizarían los dos levantamientos de León y sus compañeros.
+
+Siguiendo la hipótesis de Robert J. Ferry, esta rebelión se desató por
+una creciente tensión entre la compañía y los pequeños productores de
+cacao de origen canario asentados en el valle del Tuy[^127], quienes se
+vieron impedidos para exportar el fruto a precios diferentes a los
+impuestos por la compañía, los cuales se encontraban en picada desde
+1745. Además, la persecución al comercio ilícito por la costa de La
+Guaira obligaba a estos productores a vender sus cosechas en Caracas, lo
+que representaba un aumento significativo en el costo de transporte del
+grano, aunque en la práctica esto significó que los canarios comenzaran
+a buscar alternativas en el contrabando que anteriormente no habían
+contemplado[^128]. Lo anterior, aunado a la creciente animadversión
+entre vizcaínos y canarios, suscitó una rebelión que si bien no fue
+grandes dimensiones, revistió la suficiente fuerza como para suspender
+el ejercicio de la compañía guipuzcoana por unos cuantos años. Como en
+otras rebeliones la Corona sospecha de la intervención de las élites
+locales, sin embargo ni León ni los demás cabecillas harían claridad
+sobre su nivel de participación o si éstas habían impulsado el
+levantamiento. Sin embargo fue evidente quiénes participaron en la
+marcha de abril de 1749 hacia Caracas: cultivadores humildes de rango
+medio y bajo dentro de la sociedad rural de la provincia[^129].
+
+El propósito de este apartado es hacer un recuento de los eventos de la
+rebelión prestando especial atención a la ambigüedad de las acciones de
+los oficiales de la Corona que variaron entre la negociación, el perdón
+y el castigo. Cuatro oficiales intervinieron directamente para finalizar
+la rebelión: el gobernador de Caracas Luis Francisco de Castellanos, el
+comisionado de la Audiencia de Santo Domingo Francisco Galindo, el
+gobernador Julián de Arriaga y el gobernador Felipe Ricardos, cada uno
+con una personalidad particular para gobernar y unas ideas definidas en
+cuanto al uso del rigor o la moderación en la sofocación de la revuelta.
+
+La primera negociación fue asumida por el cabildo en pleno,
+eclesiásticos de la ciudad y el gobernador Castellanos, sin que se
+lograra otra cosa que intentar que los alzados no entrasen a Caracas con
+toda su fuerza. En efecto, León y el pequeño grupo que lo acompañaba se
+dirigieron al gobernador y le pidieron permanecer en Caracas, expulsar a
+los vizcaínos, y perdón para todos los comprometidos, solicitudes que
+fueron debidamente aprobadas[^130]. Dos semanas después, Castellanos
+huyó y se refugió en La Guaira, lo cual hizo que cambiara el tono de la
+protesta y se convirtiera en insurrección. La ciudad, que veía con
+simpatía la rebelión de estos humildes cacaoteros, se tornó contra ellos
+cuando descubrió que León podía ser acusado de crimen de Lesa Majestad y
+en precaución denunciaron su comportamiento y manifestaron su lealtad al
+rey[^131]. Para agravar las cosas, corrió el rumor entre los vecinos de
+Caracas que se fraguaba una revuelta de negros lo que generó un estado
+de conmoción tal que el gobernador tuvo que escribirle al marqués de la
+Ensenada diciendo que este cotilleo había sido generado por el teniente
+de Gobernador, Domingo de Aguirre, y el brigadier, gobernador y capitán
+general de Nueva Andalucía, Cumaná y Cumanagoto, Gregorio Espinosa de
+los Monteros; quienes habrían tramado tal desorden para luego pretender
+impetrar el perdón del rey sustentándose en el mérito de haber sosegado
+y sujetado a los esclavos[^132].
+
+Ante el evidente descontrol surgido tras la huida del gobernador
+Castellanos se pusieron en marcha dos planes de contingencia. El primero
+consistió en el envío desde la audiencia de Santo Domingo de tres barcos
+con tropa comandados por el oidor Francisco Galindo Quiñones y
+Barrientos. La acción del magistrado en Caracas fue corta y sin mayores
+resultados ya que su estrategia consistió sencillamente en asegurar la
+pacificación de la provincia y dejar que la corona decidiera el camino
+en adelante[^133]. Ya de regreso en Santo Domingo le escribiría a la
+corte resaltando su actuación para mantener la paz, especialmente
+conciliando con Domingo de Aguirre para evitar que los rebeldes atacaran
+al gobernador. El oidor también manifestó que fue gracias a su pronta
+actuación que se logró contener el levantamiento de los negros quienes
+se habrían organizado en cuadrillas e incluso consiguieron interceptar
+unas cartas para el gobernador, todo esto sin otra consecuencia que la
+aplicación ordinaria de la justicia[^134].
+
+En noviembre, ocho meses después de iniciado el levantamiento, las
+tropas de Julián de Arriaga provenientes de Cádiz desembarcaron en La
+Guaira. Tras el arribo de los soldados del rey el temor cundió por la
+ciudad de Caracas, sospechaban que la represión alcanzaría no sólo a los
+sublevados sino a la localidad en general; sin embargo, la confianza de
+Arriaga era tal que con un pequeño grupo de tropa avanzó hacia dicha
+plaza donde entró sin problemas, luego envió con un escribano el
+ofrecimiento de perdón con la condición de que se retirase él y todos
+los sublevados a sus casas en menos de 24 horas[^135]. En el traslado de
+esta comunicación el escribano se encontró con León entrando a la
+parroquia de la Candelaria de Caracas donde fue amenazado por la tropa
+con hacer fuego, deteniendo la orden los oficiales debido a que los
+amotinados gritaban "viva el Rey" y León solicitó permiso para hablar
+con el gobernador, el cual se le concedió con la condición de que fuese
+únicamente para pedir perdón y someterse. Arriaga le comunicó al Consejo
+de Indias que "Leon paso solo y despues mucho numero de los suyos, y que
+incados de rodillas, pidieron perdon, que les concedió en nombre de SM,
+con lo qual se fue Leon á su casa y los demas de dentro y fuera de la
+ciudad á las suyas"[^136]. Tres años después, el presbítero José
+Martínez de Porras, para librarse de las acusaciones que entonces hizo
+en su contra el gobernador Felipe Ricardos, indicó que el hecho que León
+y los suyos fuesen gritando "Viva el Rey Nuestro Señor Don Fernando" fue
+gracias a que él lo había aconsejado, además hizo una descripción de la
+misma escena del arrepentimiento de León:
+
+> Vine a la plaza y el señor governador dió una carta al señor Arcediano
+> para que la leyese á aquel vulgo tumulturado prometiendoles
+> perdonarles en nombre de SM si se rindiesen en el termino de media
+> ora, porque de no pasado este corto termino havia dado orden de que
+> hiciesen fuego. Leida la carta me abrazé yó con Leon persuadiendole a
+> que depusiese el deprabado intento que traía, porque de no deponerlo
+> se perdía él y nos perdía á todos. Concurrió el Señor Arcediano con la
+> misma eficacia que yó y logramos que se rindiera Leon, y lo
+> presentamos en la plaza al señor Governador y media ora que duró la
+> publicacion del vando del perdon general que se voceó en las quatro
+> esquinas de dicha plaza estubo Leon incado de rodillas a los pies de
+> dicho Señor Arriaga[^137].
+
+El interés por este pasaje del presbítero no se enmarca en su precisión,
+comprometida por el tiempo y la intención de la súplica, sino por la
+imagen que representan, tanto ésta como el testimonio de Arriaga, de un
+Juan Francisco León arrodillado ante la autoridad real que transmite el
+perdón del monarca. El gobernador, a través de su persona y de la
+facultad de la cual estaba investido, transmitía la piedad del monarca
+hasta estos vasallos, encabezados por el referido León. Tal forma de
+recibir el perdón en el que los sublevados demuestran su arrepentimiento
+y sumisión hincados de rodillas sólo se verá nuevamente en la rebelión
+de Quito de 1765 (al igual que la procesión por la ciudad), lo cual
+podría indicar una entrada en desuso del elemento ritual asociado a la
+petición y concesión del perdón[^138].
+
+La actitud moderada de Arriaga fue de hecho recomendada por una cédula
+reservada que le concedía absoluta facultad para usar "á vuestro
+arbitrio y segun los casos y accidentes de la providencia suaves del
+perdon e indulto, ó de las de la justicia, ó las de las armas segun
+combenga", añadiendo que cualquier decisión que tomase sería bien vista
+por el rey "aunque os excedais de los que prescriben las leyes, ó os
+altereis en el uso y orden de los tramites y reglas con que hán de
+instruirse los procesos"[^139], básicamente confiando en la prudencia de
+la persona del futuro gobernador. Adjunta a esa cédula reservada se
+enviaba desde la corte la prevención de que se usaran de preferencia
+"los medios mas suaves o menos biolentos que puedan adaptarse ó
+disponerse" teniendo en cuenta que con la cédula antedicha se le daba al
+gobernador la absoluta y amplia facultad de castigar, indultar o
+disimular; dejando a arbitrio de Arriaga si podía dejar libres a Juan
+Francisco León y sus colaboradores[^140].
+
+Esto no implicó que Arriaga simplemente llegara con la rama de olivo, la
+ofreció porque pudo imponer las condiciones de la rendición de León y
+sus seguidores. De hecho hizo manifiesta su jurisdicción al comunicar un
+bando por el cual se amenazaba con castigar a muerte a aquellos que
+difundieran rumores como el difundido sobre la falsa rebelión de
+esclavos[^141]. También, el primero de enero de 1750, puso un ultimátum
+a León para que disolviera la sublevación y todos los participantes
+fuesen a sus casas en menos de 24 horas, en caso contrario simplemente
+declararía sin efecto el perdón y se actuaría contra ellos "por todos
+los terminos de justicia y rigor de las armas"[^142], como efectivamente
+cumplieron[^143].
+
+Tras conceder estos perdones Arriaga comunicó a la corte que tales
+indultos recaían sobre el "poblacho" pero dejaban el campo abierto para
+investigar a la nobleza, de la cual sospechaba estaba tras el complot
+para eliminar la compañía[^144]. Esta misma idea se la planteó al
+marqués de la Ensenada manifestándole que "Dicen todos que la falta de
+presente castigo deja esto en posesion de nuebos alborotos, y es en
+parte assi, pero quitado el velo al maldito sobreescripto de causa
+comun, no tan facilmente se unira otra semejante oposicion", dejando
+claro que su mayor sospecha era que el interés de la protesta radicaba
+en fomentar el ilícito comercio, pero recomendaba esperar a que se
+calmasen los ánimos antes de emprender cualquier castigo con el fin de
+evitar que se encendieran "un fuego comun"[^145]. Finalmente, el rey
+aprobó los "medios de suavidad" utilizados por el gobernador y estuvo de
+acuerdo con suspender las averiguaciones criminales sobre los
+sospechosos[^146].
+
+A pesar de la aparente pacificación de la provincia y de la aprobación
+de las medidas de clemencia por parte del rey, el marqués de la Ensenada
+consideró era necesario aplicar mayor rigor con los participantes de la
+sublevación. Aunque algunos de sus consejeros le recomendaban sostener
+las medidas de suavidad, tres voces específicas promovieron el uso del
+rigor para sofocar de raíz la posible insurrección que se daría al
+reinstituir la compañía Guipuzcoana a la normalidad. Por un lado estaba
+Gabriel Zuloaga, gobernador de Venezuela entre 1737 y 1743, quien sentía
+evidente aversión frente a los isleños, además de haber sido uno de los
+principales promotores de la separación jurisdiccional de las provincias
+caraqueñas del virreinato del Nuevo Reino. Por otra parte estaba
+Sebastián de Eslava, quien consideraba que era necesaria una muestra de
+la fuerza del rey en Caracas y consideraba, muy a tono con el gobernador
+Arriaga, que la élite caraqueña debía ser castigada. Finalmente, el
+consejero Antonio José Álvarez y Abreo, marqués de la Regalía, uno de
+los más doctos consejeros de la Península, era de la idea que ninguna
+insurrección en la historia había sido sofocada por medio de la
+suavidad[^147].
+
+El marqués de la Ensenada ordenó reemplazar al moderado Arriaga con el
+gobernador Felipe Ricardos, quien reinició las averiguaciones contra los
+participantes de la rebelión afirmando que manejaba en este sentido una
+política de equilibrio entre rigor y la piedad:
+
+> Hé tenido por combeneinte mi conducta de juntar el rigor con la
+> equidad y el respeto con la suavidad, porque el tono absoluto y
+> prolixo de lo primero dava margen para que faltasen carzeles á los
+> delincuentes y papel en que procesar hasta los más remotos yndiciados,
+> y el segundo haria yluzoria á a Real voluntad, y en cuios extremos, la
+> proporcion mas ajuztada me inclino á un medio, en cuio metodo espero
+> lograr caval ejecucion de mis encargos, con entero restablezimiento y
+> firme seguridad de la compañía[^148].
+
+Este sentido del gobierno que equilibra el rigor y la suavidad invierte
+el sentido del ofrecimiento preferente del perdón para comprender que en
+primer lugar se debería demostrar la fuerza y luego, ya rendidos y
+sometidos los desleales, ofrecer la mano misericordiosa del monarca.
+También en este tipo de estrategia se determinaba que para evitar el uso
+imprudente del rigor, se debía aplicar solamente en los cabecillas de la
+rebelión, aunque en este caso se conmutó la pena de muerte a Juan
+Francisco León, su hijo Nicolás, entre otros, quienes se entregaron al
+gobernador y clamaron por la piedad, por lo cual se remitieron a la
+península para que se definieran sus destinos[^149]. En cambio, la
+totalidad del rigor fue aplicada a José Morillo, fusilado sumariamente
+tras su captura, así como al mulato Juan "Muchingo", el zambo Raimundo
+Romero y el canario Andrés Rodríguez Betancourt, los dos primeros
+ahorcados y decapitados, en tanto el tercero arcabuceado en la plaza
+pública de Caracas. Días después ordenó ahorcar a Francisco Rodríguez
+Lemus, alias el Charrero, José Antonio Figueira y José Ignacio Gil,
+alias Manzaneda.
+
+El gobernador Ricardos informó a Ensenada que usó también de la
+suavidad, representada en haber liberado a algunos presos en recompensa
+por servicios o donaciones recibidas durante la persecución de León;
+también con Pedro Blanco de Ponte, a quien liberó en fiado y de quien
+dice que se había comportado tan bien que incluso pensaba en otorgarle
+completa libertad. Justificaba estos medios de suavidad por ser una
+buena estrategia para atraer la confianza de los principales de la
+ciudad, algunos de los cuales incluso se habían acercado a él para pedir
+la certificación de su actuación y con ello solicitar algunas gracias al
+monarca[^150]. La respuesta del rey a estas medidas de Ricardos sería la
+de ordenarle cesara los procesos y dependiendo de la culpabilidad de los
+reos se les perdonara, conmutara la pena o se desterrara de la
+provincia[^151].
+
+Para mayo de 1753 Juan Francisco León y Matías Ovalle habían fallecido
+en la cárcel de Cádiz, quedaban presos Gaspar y José Lorenzo de Córdoba,
+Pablo Cazorla[^152], Nicolás de León y Francisco de León, estos últimos
+hijos de Juan Francisco. En consulta a la sala de justicia del Consejo
+de Indias consideraron que todos los mencionados eran culpables de
+delito de lesa majestad en segundo grado, castigado con la pena capital,
+sin embargo "la piedad de Su Majestad se há querido señalar con una tan
+alta indulgencia" que conmutó la condena de muerte a todos ellos para
+enviarlos a Orán y Ceuta con el fin que sirviesen a los regimientos del
+rey en esos presidios[^153].
+
+Las acciones \"equilibradas\" de Ricardos constituyeron el colofón de la
+rebelión de León, la cual tuvo un importante impacto en la relación de
+la compañía guipuzcoana con la provincia. No debe pasarse por alto que
+esta sería una de las rebeliones que representarían los patriotas
+caraqueños durante la revolución de independencia para reconstruir la
+memoria y demostrar las iniquidades de la corona española en sus
+provincias[^154]. En particular, la desconfianza del perdón, ratificado
+por el rey pero revocado de facto por su ministro. También es de
+destacar la independencia completa del gobernador y capitán general de
+Caracas en estas acciones, como juez y militar, abrigado de plenas
+facultades para el rigor o el perdón según su arbitrio, aunque tal
+autoridad estuviese mediada en buen término por la cédula y ordenes
+reservadas a Arriaga o las instrucciones dadas a Ricardos por el marqués
+de la Ensenada. A pesar de todo, el \"rey prudente\" hizo honor a su
+título y permitió que los asuntos de Caracas fueran resueltos en el
+campo por oficiales españoles, con una importante desconfianza de los
+principales de dicha ciudad e incluso cierta comprensión ante los
+posibles excesos de la compañía.
+
+Ocho años más tarde, Nicolás de León, hijo del líder rebelde,
+demostraría su servicio a la corona desde el presidio de Orán y
+solicitaría el indulto, contando con la mediación del comandante del
+regimiento fijo de esa plaza y de Ricardo Wall, ministro de Estado y de
+la Guerra, quien a su vez acudió a Julián de Arriaga, ahora en la
+posición de secretario del despacho universal de indias, para elevar su
+petición al rey, quien finalmente aceptó que León pasara de servir como
+presidiario a voluntario[^155] donde esperaba obtener el perdón completo
+al servir en Cantabria durante la guerra de los Siete Años, que
+lastimosamente para León llegó a su fin antes que pudiera entrar en
+combate[^156], por lo cual tuvo que impetrar indulto completo media
+década después (tiempo que había sido marcado como el de servicio antes
+de otorgársele libertad) que no tuvo curso[^157]. Finalmente, tras una
+década de servicio, se le concede licencia para ir con su esposa e hijos
+a Caracas[^158] después de haber ofrecido el cultivar de cacao el valle
+del Guapo, que según León estaba dominado por indios \"bravos\" después
+del destierro de su padre y sus hermanos[^159]. De esta manera, después
+de 24 años de ocurrida la rebelión, Nicolás de León pudo restituirse a
+la gracia del monarca bajo la promesa de retornar al servicio real bajo
+las condiciones originales de la concesión dada a su familia antes de la
+rebelión: producir, poblar y proteger una parte de los dominios de
+Indias.
+
+### La rebelión de "los barrios" de Quito
+
+Consideraciones finales
+-----------------------
+
+[^1]: "Sebastián de Eslava, sobre la concesión de indultos a los
+    condenados por ilícito comercio", Cartagena, 25 de octubre de 1740,
+    AGI, Santa Fe, 572.
+
+[^2]: *Recopilación de las leyes de los reinos de las Indias*, lib. III,
+    tít. XIII, ley 8.
+
+[^3]: *Recopilación de las leyes de los reinos de las Indias*, lib. IX,
+    tít. XXVII, ley 7.
+
+[^4]: "Real orden para que se suspenda el indulto a los
+    contrabandistas", AGNC, sección colonia, miscelánea, tomo 59, ff.
+    4-5. La orden se extendió al mismo tiempo a Nueva España: AGI,
+    Indiferente General, 538 YY11, ff. 262-63. Transcripción disponible
+    en Muro Orejón, ed., *Cedulario americano*, III: 31-32.
+
+[^5]: "Relación del Estado del virreinato de Santa Fe presentada por el
+    excmo. señor don José de Solís", en José Antonio García García,
+    *Relaciones de los virreyes del Nuevo Reino de Granada* (New York:
+    Imprenta de Hallet & Breen, 1869), 11.
+
+[^6]: Lance R. Grahn, "Political Corruption and Reform in Cartagena
+    Province, 1700-1740", Discussion Paper (Milwaukee: Center for Latin
+    America, University of Wisconsin, s/f), 2--4.
+
+[^7]: Francisco A. Eissa-Barroso, *The Spanish Monarchy and the Creation
+    of the Viceroyalty of New Granada (1717-1739): The Politics of Early
+    Bourbon Reform in Spain and Spanish America* (Leiden, Boston: Brill,
+    2016), 188--89.
+
+[^8]: Agradezco particularmente a Sebastián Gómez González, quien tuvo
+    la amabilidad de compartirme un texto preliminar asociado con su
+    investigación sobre las conexiones entre el contrabando, la
+    corrupción y la rebelión en Panamá, entre 1716 y 1760. El proyecto
+    se puede consultar en
+    [[https://www.madrid-ias.eu/en/fellows/current-fellows/details/juan-sebastian-gomez-gonzalez/]{.underline}](https://www.madrid-ias.eu/en/fellows/current-fellows/details/juan-sebastian-gomez-gonzalez/).
+    Lo cito en el entendido que es un trabajo en desarrollo y que sus
+    ideas pueden modificarse en el transcurso hacia la versión final.
+    "Illegal Trade, Corruption and Rebellion in the Atlantic World,
+    1739-1760: The Confederate Societies of Smugglers", 2019.
+
+[^9]: Aunque podríamos utilizar el término contemporáneo de corrupción,
+    la idea del abuso se ajusta más a un sistema flexible en el que
+    jueces y oficiales tenían un importante margen de acción que no
+    estaba condicionado por la "violación de la ley". Con base en lo
+    anterior, la "corrupción" tendría más sentido como expresión de un
+    vicio que como una actuación penada, como el fraude, el cohecho o la
+    baratería. Al respecto son de sumo interés los debates planteados
+    por Christoph Rosenmüller, *Corruption and Justice in Colonial
+    Mexico, 1650-1755*, Cambridge Latin American Studies 113 (Cambridge,
+    United Kingdom ; New York, NY: Cambridge University Press, 2019),
+    1--7; "'El grave delito de\... corrupción'. La visita a la Audiencia
+    de México (1715-1727) y las repercusiones internas de Utrecht", en
+    *Resonancias imperiales: América y el Tratado de Utrecht de 1713*,
+    ed. Francisco Iván Escamilla González, Matilde Souto Mantecón, y
+    Guadalupe Pinzón Ríos (México: Instituto de Investigaciones Dr. José
+    María Luis Mora; Consejo Nacional de Ciencia y Tecnología; Instituto
+    de Investigaciones Históricas, Universidad Nacional Autónoma de
+    México, 2015), 90--95; Pilar Ponce Leiva, "Percepciones sobre la
+    corrupción en la Monarquía Hispánica, siglos XVI y XVII", en
+    *Mérito, venalidad y corrupción en España y América, siglos XVII y
+    XVIII*, ed. Pilar Ponce Leiva y Francisco Andújar Castillo,
+    Colección Historia de España y su proyección internacional 10
+    (Valencia: Albatros, 2016), 193--212; y Juan Carlos de Orellana
+    Sánchez, "De la crítica a la reforma. Pensamiento político,
+    económico, y visión de reino en las denuncias indianas de corrupción
+    (s. XVII)", *Historia y memoria*, núm. 19 (2019): 75--86,
+    https://doi.org/10.19053/20275137.n19.2019.8524.
+
+[^10]: Anne Dubet, "La moralidad de los mentirosos: por un estudio
+    comprensivo de la corrupción", en *Mérito, venalidad y corrupción en
+    España y América: siglos XVII y XVIII* (Valencia: Albatros
+    Ediciones, 2016), 213--34; Gómez González, "Illegal Trade".
+
+[^11]: "El abogado fiscal de la Audiencia de Panamá informa al rey",
+    Panamá, 7 de noviembre de 1750, AGI, Panamá, 299, ff. 1057r-59r.
+
+[^12]: Lance R. Grahn, *The political economy of smuggling: regional
+    informal economies in early Bourbon New Granada*, Dellplain Latin
+    American studies, no. 35 (Boulder, Colo: Westview Press, 1997), 116.
+
+[^13]: El Consejo de Indias, 28 de septiembre de 1748, AGI, Santa Fe,
+    546.
+
+[^14]: "Copia del extracto que se remitió al Virrey Pizarro", AGI, Santa
+    Fe, 546.
+
+[^15]: Gómez González, "Illegal Trade".
+
+[^16]: Ignacio Gallup-Díaz, *The Door of the Seas and Key to the
+    Universe: Indian Politics and Imperial Rivalry in the Darién,
+    1640-1750*, Edición electrónica (New York: Columbia University
+    Press, 2008), cap. 7; Kenneth J. Andrien, *The kingdom of Quito,
+    1690-1830: the state and regional development* (Cambridge ; New
+    York: Cambridge University Press, 1995), 173.
+
+[^17]: "Expediente relativo a la rebelión de indios de la ciudad de
+    Natá", AGI, Panamá, 299, f. 617r.
+
+[^18]: Argelia Tello Burgos, "Contrabando vs Audiencia (Una encrucijada
+    panameña del siglo XVIII)", en *Población, economía y sociedad en
+    Panamá. Contribución a la crítica de la historiografía panameña*,
+    ed. José Eulogio Torres Abrego (Panamá: Editorial Universitaria
+    "Carlos Manuel Gasteazoro", 2000), 407; Gómez González, "Illegal
+    Trade".
+
+[^19]: "Expediente relativo a la rebelión", ff. 619v-20r.
+
+[^20]: "Expediente relativo a la rebelión", ff. 620r-v.
+
+[^21]: AHN, Consejos, 20634, ff. 51r-52r *apud* Gómez González, "Illegal
+    Trade".
+
+[^22]: Véase nota 4 de este capítulo.
+
+[^23]: "Expediente relativo a la rebelión", ff. 621r-v.
+
+[^24]: De hecho, Alsedo fue uno de los acusadores de José de Araujo y
+    por esta razón se le castigó con la remoción del cargo de presidente
+    de Panamá, más una multa de 10000 pesos. Andrien, *The kingdom of
+    Quito*, 180. Véase también la semblanza realizada por Manuel Lucena
+    Salmoral en el *Diccionario Biográfico Español*,
+    [[http://dbe.rah.es/biografias/8953/dionisio-alcedo-y-herrera]{.underline}](http://dbe.rah.es/biografias/8953/dionisio-alcedo-y-herrera).
+
+[^25]: Sobre este oidor véase Mark A Burkholder y Dewitt Samuel
+    Chandler, *Biographical Dictionary of Audiencia Ministers in the
+    Americas, 1687-1821* (Westport, Conn: Greenwood Press, 1982), 260.
+
+[^26]: "Expediente relativo a la rebelión", 624v-28r
+
+[^27]: "Expediente relativo a la rebelión", ff. 628v-32r.
+
+[^28]: "Continuación del expediente relativo a la rebelión de los indios
+    de Natá", AGI, Panamá, 299, ff. 608r-15r.
+
+[^29]: "Continuación del expediente", f. 613v.
+
+[^30]: Gómez González, "Illegal Trade".
+
+[^31]: "Expediente de la pesquisa secreta ordenada por el virrey
+    Pizarro", AGI, Panamá, 300. Alas Cienfuegos también fue suspendido,
+    pero no por la asociación con los contrabandistas sino por su
+    evidente estado de deterioro mental. "El presidente Montiano al
+    Consejo de Indias", Panamá, 17 de junio de 1750, AGI, Panamá, 300.
+
+[^32]: Jesse Cromwell, *The Smugglers' World: Illicit Trade and Atlantic
+    Communities in Eighteenth-Century Venezuela*, e-book (Williamsburg,
+    Virginia : Chapel Hill: Omohundro Institute of Early American
+    History and Culture ; University of North Carolina Press, 2018),
+    cap. 1.
+
+[^33]: Por su poco tiempo en Venezuela, Font de Viela es más conocido
+    como capitán general de La Habana, donde también impulsó una campaña
+    contra el contrabando. Al respecto véase la semblanza de Fernando
+    Rodríguez de la Torre en el *Diccionario biográfico español*,
+    [[http://dbe.rah.es/biografias/35201/felipe-de-font-de-viela-y-ondiano]{.underline}](http://dbe.rah.es/biografias/35201/felipe-de-font-de-viela-y-ondiano).
+
+[^34]: "Indulto pecuniario concedido por el gobernador de Caracas",
+    Caracas, 24 de julio de 1771, AGI, Caracas, 81.
+
+[^35]: "El marqués de la Torre a Julián de Arriaga", Caracas, 5 de
+    agosto de 1771, AGI, Caracas, 81.
+
+[^36]: Cromwell, *The Smugglers' World*, sec. "Class and the Diversity
+    of Smugglers".
+
+[^37]: "Indulto pecuniario", AGI, Caracas, 81.
+
+[^38]: Cromwell, *The Smugglers' World*, sec. "Class and the Diversity
+    of Smugglers".
+
+[^39]: "El marqués de la Torre a Julián de Arriaga", Caracas, 10 de
+    octubre de 1771, AGI, Caracas, 81.
+
+[^40]: "El marqués de la Torre a Julián de Arriaga", Caracas, 5 de
+    agosto y 10 de octubre de 1771, AGI, Caracas, 81.
+
+[^41]: Allan J. Kuethe y Kenneth J. Andrien, *El mundo atlántico español
     durante el siglo XVIII. Guerra y reformas borbónicas, 1713-1796*,
     trad. Lourdes Ramos Kuethe, Primera edición en español (Bogotá:
     Editorial Universidad del Rosario, Banco de la República, 2018),
-    207--34, doi.org/10.12804/th9789587841121.
+    121, doi.org/10.12804/th9789587841121.
 
-[^49]: Para rastrear la familia del virrey Solís nos valimos del
-    *Diccionario biográfico español* de la Real Academia de Historia en
-    su versión electrónica.
-    [[http://dbe.rah.es/db\~e]{.underline}](http://dbe.rah.es/db~e)
+[^42]: "Instrucciones dadas al Virrey Sebastián de Eslava", AGI, Santa
+    Fe, 572, ítems 82 y 85.
 
-[^50]: Restrepo Olano, *Nueva Granada*, 159--64.
+[^43]: AGI, Santa Fe, 548.
 
-[^51]: AGNC, sección colonia, virreyes, tomo 16, doc. 130, ff. 897-986.
-    Restrepo Olano, 66--69.
+[^44]: "Orden al virrey sobre la población de Bahiahonda", en Daniel
+    Samper Ortega, *Don José Solís Virrey del Nuevo Reino de Granada*
+    (Bogotá: Pax, 1953), 140--42.
 
-[^52]: Para el caso Novohispano, un estudio reciente es Christoph
-    Rosenmüller, "'The Indians\... Long for Change': The Secularization
-    of Regular Parishes in Mid Eighteenth-Century New Spain", en *Early
-    Bourbon Spanish America* (Leiden, Boston: Brill, 2013), 143--63,
-    https://doi.org/10.1163/9789004253155\_010. En el caso peruano véase
-    Kuethe y Andrien, *El mundo atlántico español*, 185--97. Para la
-    Audiencia de Quito destaco el trabajo de Sabrina Guerra Moscoso, "La
-    disputa por el control de las doctrinas en la Real Audiencia de
-    Quito: Un estudio microhistórico sobre la tensión entre y dentro del
-    Estado, la Iglesia y las redes de poder local, Guano, siglo XVIII"
-    (Tesis doctoral, Universitat Jaume I, 2008),
-    http://hdl.handle.net/10803/84085.
+[^45]: "Alonso del Río al virrey Guirior", Maracaibo, 6 de septiembre de
+    1773, AGNC, sección colonia, poblaciones varias, tomo 10, ff.
+    294-95.
 
-[^53]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11.
+[^46]: Abelardo Levaggi, "Los tratados con los indios en la época
+    borbónica. Reafirmación de la política de conquista pacífica", en
+    *XI Congreso del Instituto Internacional de Historia del Derecho
+    Indiano. Buenos Aires, 4 al 9 de septiembre de 1995: actas y
+    estudios*, vol. 2 (Buenos Aires: Instituto de Investigaciones de
+    Historia del Derecho, 1997), 104--7.
 
-[^54]: Según indica Amado Guerrero, el cargo de alcalde mayor gozaba de
-    tan poco prestigio en Girón que durante algún tiempo el gobernador
-    tuvo que ejercer ese oficio. Amado Antonio Guerrero Rincón,
-    "Conflicto y poder político en la sociedad colonial. Girón siglo
-    XVIII", en *Cultura política, movimientos sociales y violencia en la
-    historia de Colombia* (VIII congreso nacional de historia de
-    Colombia, Bucaramanga: Universidad Industrial de Santander, 1992),
-    31. Agustín Gutiérrez de los Ríos ocupó la plaza de gobernador y
-    alcalde mayor de los reales de minas de Vetas, en la provincia de
-    Pamplona, entre 1740 y 1749. José María Restrepo Sáenz,
-    "Gobernadores de San Juan de Girón", *Estudio* 5, núm. 55 (1936):
-    186.
+[^47]: Levaggi, 110.
 
-[^55]: Cartagena, 30 de enero de 1748, AGNC, sección colonia,
-    residencias Santander, tomo 37, doc. 11, f. 642r-643r.
+[^48]: Levaggi, 117.
 
-[^56]: Cartagena, 25 de octubre de 1748, AGNC, sección colonia,
-    residencias Santander, tomo 37, doc. 11, f. 645r-669v.
+[^49]: Allan J. Kuethe, "The Pacification Campaign on the Riohacha
+    Frontier, 1772-1779", *The Hispanic American Historical Review* 50,
+    núm. 3 (1970): 481, https://doi.org/10.2307/2512192; Allan J.
+    Kuethe, *Military reform and society in New Granada, 1773-1808*
+    (Gainesville: The University Presses of Florida, 1978), 144.
 
-[^57]: El cargo lo ejerció por primera vez entre 1727 y 1736. Restrepo
-    Sáenz, "Gobernadores de San Juan de Girón", 185. AGNC, sección
-    colonia, residencias Santander, tomo 36, doc. 14, ff. 882-979.
+[^50]: Cuauhtémoc Velasco Ávila, *Pacificar o negociar: los acuerdos de
+    paz con apaches y comanches en las provincias internas de Nueva
+    España, 1784-1792*, Colección Historia. Serie Logos (México, D.F:
+    Instituto Nacional de Antropología e Historia, 2015), 20--21.
 
-[^58]: Santa Fe, 13 de diciembre de 1758, AGNC, sección colonia,
-    residencias Santander, tomo 37, doc. 11, f. 672r-676v.
+[^51]: Margarita Restrepo Olano, "Un ejemplo de relaciones simbióticas
+    en la Guajira del siglo XVIII. Historia de una sublevación bajo el
+    liderazgo del cacique Cecilio", *Revista Complutense de Historia de
+    América* 39 (2013): 177--201,
+    https://doi.org/10.5209/rev\_RCHA.2013.v39.42683; Diego Ramírez
+    Giraldo, "Intersticios coloniales: el 'líder' y el poder nativo
+    entre los wayúu. La península de la Guajira durante el siglo XVIII",
+    en *El siglo XVIII americano: estudios de historia colonial*, ed.
+    Catalina Reyes Cárdenas, Juan David Montoya Guzmán, y Sebastián
+    Gómez González, Kindle (Medellín: Universidad Nacional de Colombia,
+    2013); José Polo Acuña, "Etnicidad, poder y negociación en la
+    frontera guajira, 1750-1820", Informe final de investigación
+    (Bogotá: Instituto Colombiano de Antropología e Historia, 2005);
+    "Contrabando y pacificación indígena en la frontera
+    colombo-venezolana de la Guajira (1750-1820)", *América Latina en la
+    historia económica*, núm. 24 (2005): 87--130; "Una mediación
+    fallida: las acciones del cacique Cecilio López Sierra y el
+    conflicto hispano-Wayúu en la Guajira, 1750-1770", *Revista Historia
+    Caribe* 2, núm. 4 (1999).
 
-[^59]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11,
-    f. 680v.
+[^52]: Polo Acuña, "Una mediación fallida", 15.
 
-[^60]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11,
-    f. 681r.
+[^53]: Polo Acuña, "Etnicidad, poder y negociación", 18--19.
 
-[^61]: AGNC, sección colonia, residencias Santander, tomo 37, doc. 11,
-    f. 680r-680v.
+[^54]: Polo Acuña, 20--21; Grahn, *The political economy of smuggling*,
+    62--63.
 
-[^62]: Santa Fe, 11 de diciembre de 1760. AGNC, sección colonia,
-    residencias Santander, tomo 37, doc. 11, f. 681r-682r.
+[^55]: Ramírez Giraldo, "Intersticios coloniales", sec. 2565.
 
-[^63]: Victoria Sandoval Parra, *Manera de galardón: merced pecuniaria y
-    extranjería en el siglo XVII* (Madrid: Fondo de Cultura Económica :
-    Red Columnaria, 2014), 64--66, 71--94.
+[^56]: Restrepo Olano, "Un ejemplo de relaciones simbióticas", 192--93;
+    José Polo Acuña, *Indígenas, poderes y mediaciones en La Guajira en
+    la transición de la colonia a la república, 1750-1850* (Bogotá:
+    Universidad de los Andes, Facultad de Ciencias Sociales-CESO,
+    Departamento de Historia, 2012), 257.
 
-[^64]: AHM, sección colonia, Concejo de Medellín, reales despachos, tomo
-    11, ff. 299r-v.
+[^57]: AGNC, sección colonia, caciques e indios, tomo 48Bis, ff.
+    261r-64r.
 
-[^65]: AHM, sección colonia, Concejo de Medellín, reales despachos, tomo
-    11, ff. 299r.
+[^58]: Restrepo Olano, "Un ejemplo de relaciones simbióticas", 194.
 
-[^66]: AHM, sección colonia, Concejo de Medellín, reales despachos, tomo
-    11, ff. 301r-304r.
+[^59]: AGNC, sección colonia, caciques e indios, tomo 48Bis, 253v.
 
-[^67]: Una interesante descripción de la ruta del Marañón y el Amazonas
-    teniendo como punto de referencia el reino de Quito fue realizada
-    por el jesuita Samuel Fritz en 1707 para Felipe V. Una copia con muy
-    buena resolución puede consultarse en
-    [[https://gallica.bnf.fr/ark:/12148/btv1b8446616z]{.underline}](https://gallica.bnf.fr/ark:/12148/btv1b8446616z).
-    Sobre el eje Quito -- Gran-Pará durante la Guerra de la Oreja de
-    Jenkins véase Sebastián Gómez González, "A 'Guerra da Orelha de
-    Jenkins': historias entrelaçadas em contextos anglo-hispânicos
-    (1739-1748)", en *Entre extremos: experiências fronteiriças e
-    transfronteiriças nas regiões do rio Amazonas e do rio da Prata --
-    América Latina, séculos XVI-XX*, ed. Adilson Júnior Ishihara Brito y
-    Carlos Augusto Bastos (Curitiba: CRV, 2018), 101--3.
+[^60]: "Auto del gobernador de Maracaibo", Maracaibo, 9 de abril de
+    1755, AGNC, sección colonia, caciques e indios, tomo 48Bis, ff.
+    254v-57v. "Francisco Miguel Collado a Julián de Arriaga", Maracaibo,
+    16 de abril de 1755, AGI, Santa Fe, 1200.
 
-[^68]: "Descaminar" es una voz arcaica que representaba el acto jurídico
-    de aprehender las mercancías o dinero sin cédula de guía. Al
-    respecto véase Castillo de Bovadilla, *Política para corregidores*,
-    lib. IV, cap. V, núms. 9-10, 18-31.
+[^61]: "El rey al virrey Solís", Madrid, 17 de septiembre de 1756, AGI,
+    Santa Fe, 1200. Restrepo Olano, "Un ejemplo de relaciones
+    simbióticas", 197.
 
-[^69]: AGNC, sección colonia, aduanas, tomo 11, doc. 9, ff. 289r-v.
+[^62]: Santa Fe, 24 de enero de 1757, AGNC, sección colonia, caciques e
+    indios, tomo 48Bis, ff. 489r-90r.
 
-[^70]: AGNC, sección colonia, aduanas, tomo 11, doc. 9, ff. 290v.
+[^63]: Santa Fe, 24 de mayo de 1757, AGNC, sección colonia, caciques e
+    indios, tomo 48Bis, ff. 504r-09v. El careo se encuentra en los
+    folios 514v-15v.
 
-[^71]: Un estudio desde el punto de vista teológico contemporáneo del
-    reato puede consultarse en Pedro Fernández Rodríguez, *El sacramento
-    de la penitencia: teología del pecado y del perdón*, 2a ed. (Madrid:
-    EDIBESA, 2003), 106--19.
+[^64]: Santa Fe, 24 de mayo de 1757, f. 513v.
 
-[^72]: Santa Fe, enero de 1757, AGNC, sección colonia, miscelánea, tomo
-    2, doc. 49, ff. 801r-803r.
+[^65]: Santa Fe, 1 de junio de 1757, AGNC, sección colonia, caciques e
+    indios, tomo 48Bis, ff. 517r-v. Restrepo Olano, "Un ejemplo de
+    relaciones simbióticas", 196.
 
-[^73]: AHM, sección colonia, Concejo de Medellín, procesos, tomo 11, ff.
-    288-296.
+[^66]: "Relación de méritos de Bartolomé Ruiz Noriega", Madrid, 20 de
+    abril de 1765, AGI, Santa Fe, 1200. Polo Acuña, *Indígenas, poderes
+    y mediaciones*, 149.
 
-[^74]: AGNC, sección archivo anexo, Bulas de Cruzada, tomo 43, doc. 16.
+[^67]: Santa Fe, 22 de abril de 1758, AGNC, sección colonia, caciques e
+    indios, tomo 48Bis, f. 540v.
 
-[^75]: AGNC, sección colonia, juicios criminales, tomo 2, doc. 15, ff.
-    768r-v.
+[^68]: Santa Fe, 18 de diciembre de 1758, AGI, Santa Fe, 547.
 
-[^76]: AGNC, sección colonia, negros y esclavos, Cundinamarca, tomo 3,
-    doc. 4; tomo 9, doc. 54; miscelánea, tomo 95, doc. 75.
+[^69]: "Solicitud de indulto de los hermanos Valverde", AGI, Santa Fe,
+    547.
 
-[^77]: Bustillo fue una de las figuras cercanas al virrey Solís,
-    fungiendo como fiscal protector de la Audiencia desde 1756 hasta su
-    muerte en 1764. Antes había cumplido los oficios de abogado en la
-    Audiencia de México y escribano mayor de Guadalajara. Montserrat
-    Domínguez Ortega, "El virrey Solís y las reformas borbónicas" (Tesis
-    doctoral, Universidad Complutense de Madrid, 2005), 396--97.
+[^70]: Véase el apartado 3.5.3.
 
-[^78]: AGNC, sección colonia, juicios criminales, tomo 2, doc. 15, ff.
-    769r-v.
+[^71]: "Doña Juana María Fernández", AGNC, sección colonia, Real
+    Audiencia -- Magdalena, tomo 4, f. 32r.
 
-[^79]: Trato de manera muy ruda esta posible veta de investigación, pues
-    implica una compleja revisión en los libros de hacienda con su
-    consecuente categorización, más allá de las cartas-cuenta (el
-    tradicional método de Klein y TePaske), exige la inmersión en los
-    libros mayores de la Real Hacienda para identificar los detalles de
-    los ingresos en las Cajas Reales. Sergio T. Serrano Hernández, "La
-    fiscalidad novohispana en el siglo XVII. Fuentes viejas: nuevos
-    enfoques. El caso de San Luis Potosí" (Ponencia presentada en el 3er
-    Congreso Latinoamericano de Historia Económica, octubre de 2012).
+[^72]: Consejo de Indias, 30 de marzo, 1 de junio y 15 de julio de 1770,
+    AGI, Santa Fe, 547.
 
-[^80]: Charles F. Walker, *The Tupac Amaru rebellion* (Cambridge, MA:
-    The Belknap Press of Harvard University Press, 2014), 247-248\*;
-    John Tutino, *Mexico City, 1808: Power, Sovereignty and Silver in an
-    Age of War and Revolution*, Diálogos Series (Albuquerque: University
-    of New Mexico Press, 2018), 198--99.
+[^73]: Consejo de Indias, 18 de noviembre de 1771, AGI, Santa Fe, 547.
+    "Real cédula sobre el indulto a don Agustín y José Salvador
+    Valverde", El Prado, 4 de abril de 1772, AGNC, sección archivo
+    anexo, reales cédulas y órdenes, tomo 20.
 
-[^81]: Fernando Cajías de la Vega, *Oruro 1781: Sublevación de indios y
-    rebelión criolla*, Travaux de l'IFEA (Lima: Institut français
-    d'études andines, 2016), caps. XXIV, párr. 17,
-    http://books.openedition.org/ifea/7477; Graciela Swiderski, ed.,
-    *Bandos de los virreyes y gobernadores del Río de la Plata,
-    1741-1809: catálogo cronológico y temático*, Colección Referencia 5
-    (Buenos Aires: Archivo General de la Nación, 1997), 83 y 129.
+[^74]: "Mesía de la Cerda a Julián de Arriaga", Santa Fe, 15 de febrero
+    de 1762, AGI, Santa Fe, 1200.
 
-[^82]: Ana María Lorandi y Cora Virginia Bunster, *La pedagogía del
-    miedo. Los borbones y el criollismo en el Cuzco 1780-1790* (Cuzco:
-    Institut français d'études andines, Centro de Estudios Regionales
-    Andinos Bartolomé de Las Casas, 2013).
+[^75]: "Mesía de la Cerda a Julián de Arriaga", Santa Fe, 29 de
+    noviembre y 9 de julio de 1762, AGI, Santa Fe, 1200. "Repatriación
+    de Ruiz de Noriega a España", Cartagena, 9 de noviembre de 1765,
+    AGNC, sección colonia, residencias, Bolívar, tomo 59, ff. 979r-v.
 
-[^83]: Margarita Restrepo Olano, "Sublevaciones en el virreinato
-    neogranadino durante la segunda mitad del siglo XVIII: un balance
-    historiográfico", *Historia* 1, núm. 47 (2014): 169--70,
-    https://doi.org/10.4067/S0717-71942014000100008.
+[^76]: Polo Acuña, *Indígenas, poderes y mediaciones*, cap. 4.
 
-[^84]: John Leddy Phelan, *El pueblo y el rey: la revolución comunera en
-    Colombia, 1781* (Bogotá: Universidad del Rosario, 2009), 332.
+[^77]: AGI, Santa Fe, 548.
 
-[^85]: Jorge Orlando Melo, *Historia mínima de Colombia*, Colección
-    Historias mínimas (México: El Colegio de México, 2017), 91. Una
-    perspectiva reciente, contraria a la idea de una "revuelta
-    tradicional" y a favor de la revolución moderna campesina y popular,
-    es la de Héctor Jaime Martínez Covaleda, "La Revolución de 1781:
-    campesinos, tejedores y la 'rent seeking' en la Nueva Granada
-    (Colombia)" (Tesis doctoral, Universitat Pompeu Fabra, 2014),
-    https://dialnet.unirioja.es/servlet/tesis?codigo=142807.
+[^78]: Moreno y Escandón, *Estado del virreynato*, f. 22v.
 
-[^86]: Anthony McFarlane, *Colombia before Independence: Economy,
+[^79]: Kuethe, "The Pacification Campaign", 472--73; Kuethe, *Military
+    reform*, 132--33.
+
+[^80]: Moreno y Escandón, *Estado del virreynato*, f. 22v.
+
+[^81]: Kuethe, *Military reform*, 132.
+
+[^82]: "Mapa general de la Provincia de yndios Goagiros", AGI, Mapas y
+    planos, Panamá, 184.
+
+[^83]: "Diario de la expedición al Río de la Hacha", AGNC, sección
+    colonia, historia civil, tomo 20, ff. 409v-10r.
+
+[^84]: "Diario de la expedición al Río de la Hacha", 415v-17r.
+
+[^85]: "Diario de la expedición al Río de la Hacha", 492v.
+
+[^86]: Ramírez Giraldo, "Intersticios coloniales", secs. 2746--2892.
+
+[^87]: "Manuel Guirior a don Julián de Arriaga", Cartagena, 9 de febrero
+    de 1773, AGI, Santa Fe, 575.
+
+[^88]: "Manuel Guirior a don Julián de Arriaga", Santa Fe, 15 de junio
+    de 1773, AGI, Santa Fe, 575
+
+[^89]: "Pacificación de los indios guajiros", Santa Fe, 30 de agosto de
+    1773, AGI, Santa Fe, 1773.
+
+[^90]: Kuethe, "The Pacification Campaign", 479--81.
+
+[^91]: La denominación de las comunidades del Darién ha representado un
+    problema de confrontaciones entre auto- y heterodenominaciones. En
+    los documentos de siglo XVIII era común la denominación "cunacunas",
+    un toponímico que nombraba a los habitantes de las riberas y
+    tributarios del Chucunaque. También se les solía denominar
+    "darienes" e incluso "calidonios". Desde la segunda mitad del siglo
+    XIX, el etnógrafo inglés Edward Cullen rescató *tooleh*, tule o dule
+    como autodenominación de los indígenas del Darién. Desde las
+    primeras décadas del siglo XX se les denominó como indios kuna,
+    nombre que se reivindicó por el mismo pueblo como un instrumento de
+    identificación en contraposición al gobierno panameño y la
+    intervención norteamericana asociada con el Canal de Panamá. Más
+    recientemente, el Congreso General Guna consideró que la ausencia
+    del sonido /k/ en su vocabulario hacía más correcto autodenominarse
+    como pueblo guna o gunayala. Aunque en Colombia persiste la
+    denominación kuna o cuna, ratificada por la Organización Nacional
+    Indígena de Colombia. No obstante lo anterior, no es posible
+    asegurar que todos los indígenas que se denominaban por las
+    autoridades como "cunacunas" se autodenominaran como tule, ni
+    siquiera que fuesen parte del pueblo guna. En ese sentido, adoptamos
+    el término kuna, en el entendido que es una heterodenominación que
+    abarca una serie de pueblos que no necesariamente representaron
+    antepasados del hoy pueblo guna. Véase al respecto, Edward Cullen,
+    "The Darien Indians", *Transactions of the Ethnological Society of
+    London* 6 (1868): 150--51, https://doi.org/10.2307/3014255;
+    Gallup-Díaz, *The Door of the Seas*, n. 3; Ernesto Bassi, *An
+    aqueous territory: sailor geographies and New Granada's
+    transimperial greater Caribbean world* (Durham: Duke University
+    Press, 2017), 265 n. 1.
+
+[^92]: Gallup-Díaz, *The Door of the Seas*, cap. 4; Francis Russell
+    Hart, *The Disaster of Darien. The Story of the Scots Settlement and
+    the Causes of Its Failure, 1699-1701* (Boston; New York: Houghton
+    Mifflin company, 1929); Kuethe, *Military reform*, 138.
+
+[^93]: Kuethe, *Military reform*, 138.
+
+[^94]: Juan David Montoya Guzmán, "Un teatro de guerra y hostilidad:
+    reformismo borbónico en las fronteras del Darién, 1761-1791", en *El
+    siglo XVIII americano: estudios de historia colonial*, ed. Catalina
+    Reyes Cárdenas, Juan David Montoya Guzmán, y Sebastián Gómez
+    González, Kindle (Medellín: Universidad Nacional de Colombia, Sede
+    Medellín, Facultad de Ciencias Humanas y Económicas, 2013), sec.
+    1955.
+
+[^95]: Montoya Guzmán, sec. 1882.
+
+[^96]: Cartagena, 9 de febrero de 1773, AGI, Santa Fe, 575.
+
+[^97]: Moreno y Escandón, *Estado del virreynato*, f. 17r.
+
+[^98]: Moreno y Escandón, *Estado del virreynato*, f. 18v.
+
+[^99]: Cartagena, 18 de Agosto de 1772 y El Pardo, 16 de febrero de
+    1773, AGI, Santa Fe, 575. "Indios Calidonios y Mosquitos: impiden
+    tránsito a caciques", AGNC, sección colonia, caciques e indios, tomo
+    6, ff. 71-76.
+
+[^100]: Panamá, 14 de Noviembre de 1767, AGI, Panamá, 301. El mapa se
+    puede consultar en AGI, mapas y planos, Guatemala, 70.
+
+[^101]: Karl H. Offen, "Creating Mosquitia: Mapping Amerindian Spatial
+    Practices in Eastern Central America, 1629--1779", *Journal of
+    Historical Geography* 33, núm. 2 (2007): 276,
+    https://doi.org/10.1016/j.jhg.2006.05.003.
+
+[^102]: Moreno y Escandón, *Estado del virreynato*, f. 16r.
+
+[^103]: Montoya Guzmán, "Un teatro de guerra y hostilidad", sec. 2001.
+
+[^104]: "Relación del obispo de Córdova", en García García, *Relaciones
+    de los virreyes*, 254.
+
+[^105]: Montoya Guzmán, "Un teatro de guerra y hostilidad", sec. 1981.
+
+[^106]: AGNC, sección colonia, caciques e indios, tomo 47, ff. 233-471.
+
+[^107]: Anthony McFarlane, *Colombia before Independence: Economy,
     Society, and Politics under Bourbon Rule*, Cambridge Latin American
-    Studies 75 (New York: Cambridge University Press, 1993), 264.
-
-[^87]: Phelan, *El pueblo y el rey*, 70--73.
-
-[^88]: McFarlane, *Colombia before Independence*, 251--52. Véase también
-    la cronología elaborada por María Victoria Montoya Gómez, "Castigo y
-    perdón: el movimiento comunero. Nuevo Reino de Granada, 1781",
-    *Mouseion*, núm. 18 (2014): 39--40.
-
-[^89]: Véase los pasquines, en particular "nuestra cédula", transcritos
-    por Phelan, *El pueblo y el rey*, 100--115.
-
-[^90]: Allan J. Kuethe, *Military reform and society in New Granada,
-    1773-1808* (Gainesville: The University Presses of Florida, 1978),
-    82. La huída sería aprovechada por la "junta de tribunales" para
-
-[^91]: Phelan, *El pueblo y el rey*, 146--52; Jairo Antonio Melo Flórez,
-    "La Audiencia contra el príncipe de Bogotá. El proceso contra el
-    indígena Ambrosio Pisco en la insurrección comunera de Nueva Granada
-    de 1781", Blog, *Historia, crimen y justicia* (blog), el 14 de
-    octubre de 2015, https://hccj.hypotheses.org/17.
-
-[^92]: El virrey Flórez sólo autorizó el envío de 500 hombres al mando
-    del coronel José Bernet, quienes salieron de Cartagena el 1° de
-    junio y llegaron a Santa Fe hasta el 6 de agosto. Kuethe, *Military
-    reform*, 86--87. No obstante, como señaló Phelan, "El avance lento
-    pero inexorable de esa pequeña pero poderosa expedición militar fue
-    un instrumento psicológico decisivo para que las autoridades
-    recuperaran el control después de la conclusión de las
-    capitulaciones". Phelan, *El pueblo y el rey*, 204.
-
-[^93]: "Caballero y Góngora a la junta", 16 de junio de 1781, *apud*
-    Phelan, *El pueblo y el rey*, 210.
-
-[^94]: Phelan, 218.
+    Studies 75 (New York: Cambridge University Press, 1993), 146.
 
-[^95]: Phelan, 277. Para un comentario al documento del juicio véase
-    Melo Flórez, "La Audiencia contra el príncipe".
+[^108]: "Sobre la conquista de los indios del Darién", Cartagena, 24 de
+    diciembre de 1785, AGI, Santa Fe, 1200.
 
-[^96]: Phelan, *El pueblo y el rey*, 261--75; Walker, *The Tupac Amaru
-    rebellion*, 313-339\*.
+[^109]: Kuethe, *Military reform*, 141; Montoya Guzmán, "Un teatro de
+    guerra y hostilidad", sec. 2014.
 
-[^97]: Phelan, *El pueblo y el rey*, 283.
+[^110]: "Acuerdo de paz con los indios del Darién", Turbaco, 26 de julio
+    de 1787, AGI, Panamá, 301.
 
-[^98]: Walker, *The Tupac Amaru rebellion*, 198--200 y 290-291\*.
+[^111]: Los demás líderes indígenas fueron Guillermo Hall de Putrigandi,
+    Guaicali de río Mono, Jorge de Agandí, Urruchurchu o Lupami de río
+    Sucubti, y Jack de Gundi. El cacique Bernardo representó la mayor
+    autoridad entre todos, negociando por sí y otros grupos de la cuenca
+    del río Chucunaque. "Indios del Darién: conquista, pacificación y
+    trato", AGNC, sección colonia, caciques e indios, tomo 23, ff.
+    132r-v.
 
-[^99]: "Causa seguida a los esclavos Juan Antonio Velasco y Salvador
-    Martín por el homicidio de Juan Esteban de Hostos, su amo", AGNC,
-    sección colonia, juicios criminales, tomo 34, doc. 10 y tomo 49,
-    doc. 2. "Sumario contra Miguel Suárez y Alejo Rivas por homicidio",
-    AGNC, sección colonia, juicios criminales, tomo 76, doc. 2.
+[^112]: Bassi, *An aqueous territory*, 85; Cullen, "The Darien Indians",
+    168.
 
-[^100]: Pradilla, *Suma de las leyes penales*, parte primera, cap. III.
+[^113]: "Indios del Darién", ff. 132v-33v.
 
-[^101]: "Sentencias de José Antonio Galán y compañeros", en Juan Friede,
-    *Rebelión comunera de 1781: documentos*, vol. II, II vols. (Bogotá:
-    Instituto Colombiano de Cultura, 1981), 627.
+[^114]: "Acuerdo de paz con los indios del Darién", AGI, Panamá, 301;
+    "Indios del Darién", ff. 133v-38v.
 
-[^102]: "Sentencias de José Antonio Galán y compañeros", 627-628.
+[^115]: Bassi, *An aqueous territory*, 96.
 
-[^103]: Kuethe y Andrien, *El mundo atlántico español*, 337; Kuethe,
-    *Military reform*, 87--88.
+[^116]: AGNC, sección colonia, milicias y marina, tomo 123, ff. 659-62.
 
-[^104]: "Bando de Flores en que anuncia indulto a los sublevados y cargo
-    de traición a pertinaces", Cartagena de Indias, 26 de octubre de
-    1781, AGI, Santa Fe, 577B. Transcripción disponible en Friede,
-    *Rebelión comunera*, vol. II, 477-478; y Pablo E. Cárdenas
-    Acosta, *El movimiento comunal de 1781 en el Nuevo Reino de Granada
-    (Reivindicaciones históricas)*, vol. II, II vols., Biblioteca de
-    Historia Nacional, XCVII (Bogotá: Academia de Historia, editorial
-    Kelly, 1960), 163-165. Por una errata, Phelan menciona este indulto
-    como "el perdón provisional otorgado por el virrey Flórez en agosto
-    de 1781", *El pueblo y el rey*, 311.
+[^117]: AGNC, sección colonia, milicias y marina, tomo 123, ff. 591-99 y
+    tomo 125, ff. 73-83.
 
-[^105]: Phelan, 308--10.
+[^118]: "Indios del Darién", f. 141r.
 
-[^106]: BNC, Fondo Quijano, vol. 254, pza. 10. **Véase anexo "Edicto
-    para manifestar al público el indulto general ... (1782)"**
+[^119]: "Indios del Darién", f. 141v.
 
-[^107]: Sobre el uso de la imprenta por la administración santafereña
-    véase Renán Silva, *Los ilustrados de Nueva Granada, 1760-1808:
-    genealogía de una comunidad de interpretación* (Bogotá: Banco de la
-    República : Fondo Editorial Universidad EAFIT, 2002), 273--74.
+[^120]: "Indios del Darién", f. 142r.
 
-[^108]: Francisco Ortega Martínez, "La publicidad ilustrada y el
-    concepto de opinión pública en la Nueva Granada", *Fronteras de la
-    Historia* 17, núm. 1 (2012): 27; Francisco Ortega Martínez, "El
-    nacimiento de la opinión pública en la Nueva Granada, 1785-1830", en
-    *Disfraz y pluma de todos: opinión pública y cultura política,
-    siglos XVIII y XIX*, ed. Alexander Chaparro Silva y Francisco Ortega
-    Martínez, Colección Lecturas CES (Bogotá: Universidad Nacional de
-    Colombia-Sede Bogotá, Facultad de Ciencias Humanas, Centro de
-    Estudios Sociales, 2012), 50.
+[^121]: Montoya Guzmán, "Un teatro de guerra y hostilidad", sec. 2072.
 
-[^109]: Francisco Silvestre, "Apuntes reservados particulares y
-    generales del estado actual del Virreinato de Santafé de Bogotá,
-    (1789)" en *Relaciones e informes de los gobernantes de la Nueva
-    Granada*, ed. Germán Colmenares, vol. II, Biblioteca Banco Popular
-    135 (Bogotá: Fondo de promoción de la cultura del Banco Popular,
-    1989), 130.
+[^122]: Montoya Guzmán, sec. 2069; Kuethe, *Military reform*, 144.
 
-[^110]: McFarlane, *Colombia before Independence*, 264.
+[^123]: Montoya Guzmán, "Un teatro de guerra y hostilidad", secs.
+    2055--63.
 
-[^111]: François-Xavier Guerra, *Modernidad e independencias: ensayos
-    sobre las revoluciones hispánicas*, 3a. ed, 3a. reimp (México: Fondo
-    de Cultura Económica, MAPFRE, 2014), 169--73.
+[^124]: Montoya Guzmán, sec. 2085.
 
-[^112]: Hans-Joachim König, *En el camino hacia la nación: nacionalismo
-    en el proceso de formación del estado y de la nación de la Nueva
-    Granada, 1750 a 1856* (Bogotá: Banco de la República, 1994), 209.
+[^125]: Sebastián Gómez González, *Frontera selvática: españoles,
+    portugueses y su disputa por el noroccidente amazónico, siglo
+    XVIII*, Primera reimpresión (Bogotá: Instituto Colombiano de
+    Antropología e Historia, 2017), 294--95.
 
-[^113]: "Caballero y Góngora a José de Gálvez", Santa Fe, 15 de octubre
-    de 1782, BLAA-RM, MSS756, vol. 1, ff. 41r-41v. Otra copia se puede
-    consultar en "No. 3, el Arzobispo virrey de Santa Fe dirije seis
-    exemplares del yndulto...", AGI, Santa Fe, 594. Incluyo la
-    transcripción en el **anexo "El arzobispo virrey de Santa Fe dirige
-    seis ejemplares del indulto... (1783)"**
+[^126]: Stanley J. Stein y Barbara H. Stein, *Silver, trade, and war:
+    Spain and America in the making of early modern Europe* (Baltimore:
+    Johns Hopkins University Press, 2000), 202.
 
-[^114]: "Caballero y Góngora a José de Gálvez", f. 46v-47r.
+[^127]: 10.113611°, -66.781389°
 
-[^115]: "Caballero y Góngora a José de Gálvez", f. 47r.
+[^128]: Robert J. Ferry, *The colonial elite of early Caracas: formation
+    & crisis, 1567-1767* (Berkeley: University of California Press,
+    1989), 144; Allan J. Kuethe y Kenneth J. Andrien, *The Spanish
+    Atlantic World in the Eighteenth Century. War and the Bourbon
+    Reforms, 1713--1796* (Cambridge: Cambridge University Press, 2014),
+    162--63.
 
-[^116]: "Edicto para manifestar al público", cap. I.
+[^129]: "Many were isleños, other were free blacks, a few were runaway
+    slaves, and yet other Indians" Ferry, *The colonial elite of early
+    Caracas*, 145.
 
-[^117]: "Edicto para manifestar al público", cap. IV.
+[^130]: Kuethe y Andrien, *The Spanish Atlantic World*, 163.
 
-[^118]: "Pragmatica sancion de S. M. en fuerza de ley, por la qual se
-    prescribe el orden con que se ha de proceder contra los que causen
-    bullicios ó commociones populares", (Madrid: Imprenta de Pedro
-    Marin, 1774), Universidad de Sevilla, Biblioteca Rector Machado y
-    Núñez, Fondo Antiguo, A 113/136.
+[^131]: Ferry, *The colonial elite of early Caracas*, 146--52.
 
-[^119]: "Edicto para manifestar al público", cap. III.
+[^132]: Luis Francisco Castellanos al marqués de la Ensenada. La Guaira,
+    20 de junio de 1749. AGI, Caracas, 418.
 
-[^120]: *Ut* *supra* núm. 1.1, nota 45.
+[^133]: Ferry, *The colonial elite of early Caracas*, 153.
 
-[^121]: "Edicto para manifestar al público", cap. V.
+[^134]: Dijo el oidor en su carta que "antes que pudiesse tomar cuerpo
+    el desorden, formé sumaria, comminé á los ilseños, impedi con
+    qualquier pretexto sus rondas al theniente governador pudiendose
+    executar por oficiales de justicia con alguna gente de la compañia
+    de los pardos; recogi y remití las cartas interceptadas al vuestro
+    Governador, pero que no se havian avierto, y entendido de ello por
+    mi carta, en respuesta de seis de Noviembre me dice quedar
+    satizfecho con lo que assi calmaron los sustos del Pueblo y se evitó
+    por esta via que andubiesse en quadrillas armados los isleños."
+    Informe de la comisión enviada por el capitán general de Santo
+    Domingo para la pacificación de la provincia de Venezuela. Santo
+    Domingo, 26 de enero de 1750. AGI, Caracas, 418.
 
-[^122]: Edicto para manifestar al público", cap. III.
+[^135]: Ferry, *The colonial elite of early Caracas*, 154.
 
-[^123]: *Ut supra* cap. 2.4
+[^136]: Dictamente de José Cornejo enviado al Marqués de la Ensenada.
+    Madrid, 19 de julio de 1750. AGI, Caracas, 418.
 
-[^124]: Edicto para manifestar al público", cap. III. *Ut supra* cap.
-    2.1.1.
+[^137]: Representación de José Martínez de Porras. Caracas, 25 de
+    septiembre de 1752. AGI, Caracas, 421.
 
-[^125]: "Caballero y Góngora a José de Gálvez", ff. 41v-42r.
-
-[^126]: "Caballero y Góngora a José de Gálvez", f. 42r.
-
-[^127]: "Caballero y Góngora a José de Gálvez", f. 44v.
-
-[^128]: "Caballero y Góngora a José de Gálvez", f. 44r. Phelan, *El
-    pueblo y el rey*, 311.
-
-[^129]: "Flores a la Real Audiencia", Cartagena, 22 de octubre de 1781,
-    AGI, Santa Fe, 664. Friede, *Rebelión comunera*, vol. II, 487-488.
-
-[^130]: *Ut supra* cap. 2.1.1. y 2.1.2.
-
-[^131]: "Edicto para manifestar al público", cap. V.
-
-[^132]: López de Cuéllar, *Tratado iuridico-politico*, núm. 51.
-
-[^133]: Verónica Salazar Baena afirma que dicha reconciliación se dio
-    con las ceremonias de juramentación de Carlos IV en 1789, "Fastos
-    monárquicos en el Nuevo Reino de Granada. La imagen del rey y los
-    intereses locales. Siglos XVII-XVIII" (Tesis doctoral, Universidad
-    de Barcelona, 2013), 387.
-
-[^134]: Anthony McFarlane, "The Rebellion of the 'Barrios': Urban
-    Insurrection in Bourbon Quito", en *Reform and Insurrection in
-    Bourbon New Granada and Peru*, ed. John R Fisher, Allan J Kuethe, y
-    Anthony McFarlane (Baton Rouge: Louisiana State University Press,
-    1990), 238. Trataremos con detalle el perdón de Quito en el
-    siguiente capítulo.
-
-[^135]: 1° "que ha de fenecer en el todo el ramo de Real hacienda,
-    titulado Barlovento, tan perpetuamente que jamás vuelva a oírse su
-    nombre." 2° "Que las guías que tanto han molestado en el principio
-    de su establecimiento a todo el Reino, cese para siempre jamás su
-    molestia". AGI, Santa Fe, 557B, f. 750r. Friede, *Rebelión
-    comunera*, vol. I, 78.
-
-[^136]: Montoya Gómez, "Castigo y perdón", 47.
-
-[^137]: Oscar Rodríguez Salazar, "La caja real de Popayán 1738-1800",
-    *Anuario Colombiano de Historia Social y de la Cultura*, núm. 15
-    (1987): 12--13.
-
-[^138]: Phelan, *El pueblo y el rey*, 49--50.
-
-[^139]: "Caballero y Góngora a José de Gálvez", f. 45r.
-
-[^140]: Phelan, *El pueblo y el rey*, 50--51.
-
-[^141]: "Caballero y Góngora a José de Gálvez", f. 46r.
-
-[^142]: "Edicto para manifestar al público", cap. XII.
-
-[^143]: König, *En el camino hacia la nación*, 210.
-
-[^144]: "Las Capitulaciones de los Comuneros", 8 de junio de 1781, AGI,
-    Santa Fe, 577B. Friede, *Rebelión comunera*, vol. I, 88.
-
-[^145]: "Edicto para manifestar al público", colofón.
-
-[^146]: Salvador Bernabeu Albert, *El criollo como voluntad y
-    representación*, Prisma histórico 6 (Madrid : Aranjuez: Fundación
-    MAPFRE ; Ediciones Doce Calles, 2006), 49.
-
-[^147]: König, *En el camino hacia la nación*, 210.
-
-[^148]: Beatriz Amalia Patiño Millán, *Criminalidad, ley penal y
-    estructura social en la provincia de Antioquia 1750-1820*, Segunda
-    edición, Colección Memoria viva del bicentenario, Antioquia (Bogotá:
-    Editorial Universidad del Rosario, 2013), 84--85.
-
-[^149]: AGNC, sección colonia, juicios criminales, tomo 205, doc. 9, f.
-    450r.
-
-[^150]: AHM, sección colonia, Concejo de Medellín, actas, tomo 73, f.
-    209v.
-
-[^151]: Véase anexo "Indulto promulgado por el virrey Antonio Amar y
-    Borbón"
-
-[^152]: Fernando VII había promulgado un indulto en Madrid el 2
-    septiembre de 1814, pero este abarcó únicamente a los reos militares
-    de España e Indias. Hubo otros indultos generales, como el otorgado
-    a los segovianos el 2 de noviembre de ese mismo año; pero el perdón
-    específico para los reinos de las Indias se promulgaría hasta el 24
-    de enero de 1817.
-
-[^153]: El uso del perdón real en la restauración monárquica de Tierra
-    Firme merece atención particular por la compleja estrategia para la
-    recuperación del vasallaje, mezclada con abusos autoritarios y
-    reorganización de las élites. Al respecto véase Daniel Gutiérrez
-    Ardila, *La restauración en la Nueva Granada (1815-1819)* (Bogotá:
-    Universidad Externado de Colombia, 2016); Juan Friede, *La otra
-    verdad. La independencia americana vista por los españoles.*,
-    primera edición, Colección Tribuna Libre (Bogotá: Tercer mundo,
-    1972), 26--30; Justo Cuño Bonito, *El retorno del rey el
-    restablecimiento del régimen colonial en Cartagena de Indias
-    (1815-1821)* (Castelló de la Plana: Universitat Jaume I, 2013),
-    223--30.
-
-[^154]: Como señaló François-Xavier Guerra, la reacción a la acefalía
-    monárquica fue diferente en buena medida porque las noticias
-    llegaron por separado. *Modernidad e independencias*, 130. También
-    Jaime E. Rodríguez O., *La independencia de la América española*,
-    segunda edición, primera reimpresión, Sección de obras de historia
-    (México: Colegio de México : Fideicomiso Historia de las Américas,
-    Fondo de Cultura Económica, 2008), 109. El cabildo de Cartagena tuvo
-    conocimiento de las abdicaciones por medio de gacetas inglesas
-    provenientes de Jamaica hacia finales del mes de julio, sin embargo
-    decidieron actuar con prudencia, evitando que se conociera la
-    noticia en otras ciudades mientras llegaran nuevas noticias. Daniel
-    Gutiérrez Ardila, *Un nuevo reino: geografía política, pactismo y
-    diplomacia durante el interregno en Nueva Granada, 1808-1816*,
-    Bicentenario (Bogotá: Universidad Externado de Colombia, 2010), 115.
-
-[^155]: Cartagena, 26 de agosto de 1808, AGNC, sección colonia, milicias
-    y marina, tomo 61, f. 1029.
-
-[^156]: Sobre la oposición Cartagena -- Santa Fe entre 1808 y 1810,
-    véase Alfonso Múnera, *El fracaso de la nación. Religión, clase y
-    raza en el Caribe colombiano (1717-1810)* (Bogotá: Banco de la
-    República --- Ancora Editores, 1998), 140--87; McFarlane, *Colombia
-    before Independence*, 338--41; Cuño Bonito, *El retorno del rey*,
-    101--2, 112--13; Gutiérrez Ardila, *Un nuevo reino*, 114--17.
-
-[^157]: Gutiérrez Ardila, *Un nuevo reino*, 119.
-
-[^158]: Véase ("Indulto de desertores (1789)")
-
-[^159]: Georges Lomné, "«El feliz momento de la patria»", en *Patria.
-    Diccionario político y social del mundo iberoamericano*, ed. Javier
-    Fernández Sebastián, vol. 8, Iberconceptos, II (Madrid: Centro de
-    Estudios Políticos y Constitucionales -- Universidad del País Vasco,
-    2009), 27--28; Carlos Vladimir Villamizar Duarte, *La felicidad del
-    Nuevo Reyno de Granada: el lenguaje patriótico en Santafé
-    (1791-1797)*, Colección Centro de Estudios en Historia (Bogotá:
-    Universidad Externado de Colombia, 2012), sec. 3447, Kindle.
-
-[^160]: Villamizar Duarte, *La felicidad del Nuevo Reyno*, sec. 3422.
+[^138]: Un ejemplo de esta ritualidad asociada a la misericordia real
+    para el siglo XVI en Paulina López Pita, "Nobleza y perdón regio:
+    Noticias sobre el otorgado a Pedro Girón en el contexto del
+    movimiento comunero", *Cuadernos de historia de España* 81 (2007):
+    75.
+
+[^139]: Cédula reservada para don Julián de Arriaga concediéndole la
+    absoluta facultad de disponer a su arbitrio cuanto conduzca a la
+    pacificación de la provincia de Venezuela. Buen Retiro, 15 de
+    septiembre de 1749. AGI, Caracas, 418.
+
+[^140]: De la Corte a Arriaga. Se le dan plenas facultades para castigar
+    o indultar. Que sea por los medios más suaves. Madrid, 15 de
+    septiembre de 1749. AGI, Caracas, 418.
+
+[^141]: Bando de 1° de diciembre de 1749 a los habitantes de Caracas.
+    AGI, Caracas, 418.
+
+[^142]: Auto enviado a notificar a Juan Francisco León. Caracas, 1 de
+    enero de 1750. AGI, Caracas, 418.
+
+[^143]: Ferry, *The colonial elite of early Caracas*, 155.
+
+[^144]: Arriaga a la corte, sobre perdones concedidos. Caracas, 14 de
+    enero de 1750. AGI, Caracas, 418.
+
+[^145]: Carta de Arriaga a Ensenada dando noticias del estado de
+    pacificación de la provincia. Caracas, 14 de enero de 1750. AGI,
+    Caracas, 418.
+
+[^146]: El Rey a Julián de Arriaga, sobre deserción en la provincia.
+    Madrid, 18 de marzo de 1750. AGI, Caracas, 418.
+
+[^147]: Ferry, *The colonial elite of early Caracas*, 159--64.
+
+[^148]: Felipe Ricardos a Ensenada. Caracas, 11 de septiembre de 1751.
+    AGI, Caracas, 421.
+
+[^149]: La rendición de León y los demás se da después de seis meses de
+    encontrarse huyendo, perdiendo gradualmente el apoyo de sus aliados
+    y cercado por la persecución de las autoridades reales del Nuevo
+    Reino y de Venezuela. Ferry, *The colonial elite of early Caracas*,
+    167. La persecución en el Nuevo Reino puede evidenciarse por la
+    carta del gobernador de Neiva que le comunica al gobernador Ricardos
+    haber quedado notificado de la persecución al "perverso" León,
+    familia y cómplices. Santiago de Mier Sousa y Arredondo a Ricardos.
+    La Plata, 11 de febrero de 1731. AGNC, SC Colonia, F. Juicios
+    Criminales, leg. 106, ff. 218-219.
+
+[^150]: Ricardos al rey. Caracas, 30 de abril de 1752. AGI, Caracas, 421
+
+[^151]: El rey a Ricardos. Sin fecha. AGI, Caracas, 421.
+
+[^152]: Cazorla participó en las primeras acciones del levantamiento que
+    fueron perdonadas por Julián de Arriaga. Felipe Ricardos a Ensenada,
+    Caracas, 30 de abril de 1752. AGI, Caracas, 421.
+
+[^153]: Conmutación de las penas de los capturados con Juan Francisco
+    León. Madrid, 17 de mayo de 1753. AGI, Caracas, 421.
+
+[^154]: Ferry, *The colonial elite of early Caracas*, 174--76.
+
+[^155]: Expediente sobre la petición de perdón de Nicolás de León. AGI,
+    Caracas, 421.
+
+[^156]: Nicolás León solicita a SM que le libere del servicio de las
+    armas. Orán, 4 de agosto de 1772. AGI, Caracas, 421.
+
+[^157]: Nicolás de León, hijo de Juan Francisco de León, impetra
+    indulto. Orán, 28 de agosto de 1767. AGI, Caracas, 421.
+
+[^158]: El gobernador de Caracas comunica que se presentó Nicolás León
+    con real indulto. Caracas, 16 de julio de 1773. AGI, Caracas, 82.
+    Certificaciones anexas al expediente de Nicolás de León. Cartagena,
+    1 de enero de 1773. AGI, Caracas, 421.
+
+[^159]: \"El exponente, señor! rinde á los reales pies de vuestra
+    magestad sus cortos meritos con el mas humilde y fiel deseo de
+    continuarlos en quanto sea en credito de su fidelidad, que
+    anziosamente apeteze acreditarlo á beneficio de la Real Hazienda,
+    pues concediéndole vuestra magestad la propiedad del expresado valle
+    del Guapo y tierras que descubra, con el grado de capitán (sin
+    sueldo alguno) ofrece subyugar á su costa todos los yndios bravos
+    que le ocupan, y formar ally poblacion para vuestra magestad en
+    donde dentro breve tiempo podrá rendir á vuestro real herario sumas
+    de conciderazion por las crecidas arboledas de cacao y otros frutos
+    que pueden en el criarse, y conquistados los yndios podrá asímismo
+    apoderarse de diferentes minerales de plata y oro, que posehen oy
+    ellos sin provecho alguno de vuestra magestad.\" Nicolás de León
+    solicita que Su Majestad lo restituya a la honra que perdió. San
+    Lorenzo, 15 de noviembre de 1773. AGI, Caracas, 421.

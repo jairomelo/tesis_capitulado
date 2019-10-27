@@ -1,7 +1,96 @@
 ANEXOS
 ======
 
-Anexo 1. Para que el Virrey de Nueva España y Gobernadores de aquel
+Anexo 1. Indulto general de Felipe V dirigido al virrey y Audiencia de
+México (1707)
+
+Fuente: AGI, *Indiferente General*, legajo 538, libro YY10, ff.
+170v-177r.
+
+Lugar: Madrid
+
+Fecha: 11 de septiembre de 1707
+
+> \[f. 170v\] El Rey
+>
+> Mi Virrey, Presi*den*te y ôhidores de mi Audienz*i*a R*ea*l de la
+> ciu*da*d de Mex*i*co, \[f. 171r\] en las Provincias de la N*uev*a
+> \[E\]sp*añ*a, saved que por el buen alumbram*ien*to de la Serenísima
+> Rey*n*a, D*oñ*a María Luisa Gabriela, mi muy chara y muy ámada muger,
+> dando á luz un Príncipe, y en reconocimiento de tan gran m*e*r*ce*d,
+> como n*uest*ro s*eñ*or há sido servido de hazernos en este buen
+> successo \[f. 171v\] usando de clemencia y piedad, como en tal casso
+> es justo que use entre otras cosas, \[h\]é acordado remitir y perdonar
+> (como por la pres*en*te remito y perdono) á todos los que p*o*r razón
+> de qualequier delitos ó crímenes estubiecen en la carzel de esa
+> Audienz*i*a, hasta el dia q*ue* recivieredes esta mi \[f. 172r\]
+> Cedula, presos ó dados en fiados, ó la ciu*da*d ó casas por carzel,
+> todas y qualesquier penas, así civiles como criminales, ó delitos en
+> que ayan incurrido por lo que a mí pertenece. Y en qualquier manera
+> puede tocar, y les hago gra*cia* y m*e*r*ce*d, y quiero y es mi
+> volunt*a*d que, si por razón \[f. 172v\] de los tales crimines y
+> delitos que se hubieren cometido, por cuia causa estuvieren presos, se
+> procediere contra ellos de oficio no habiendo parte querellosa, no se
+> proceda más contra ellos. Y en quanto toca á los q*ue* estubieren
+> presos y se procediere por acusazión, ó a pedimento de parte,
+> perdonando la parte ó apartándose \[f. 173r\] de la querella, los
+> remito asimismo y perdono todas las d*ic*has penas civiles y
+> criminales. Y mando que de oficio no se pueda proceder contra ellos,
+> áora ni en ningun t*iem*po, por las d*ic*has causas con que por esto,
+> ni por ocasión de que se trata de el d*ic*ho perdon ó apartam*ien*to,
+> no se deje de haser justicia \[f. 173v\] a las partes, haciendo
+> s*ob*re ello instancia. La qual d*ic*ha m*e*r*ce*d no se há de
+> entender, ni entienda, con los q*ue* hubieren cometido delitos de
+> crimen Lese Mayestatis, pecado nefando, de falsedad de testigos falsos
+> \[sic\], ási los q*ue* lo fueron como los q*ue* hubieren inducido á
+> ello, \[?\], blasfemias \[f. 174r\] contra Dios n*uest*ro s*eño*r,
+> ladrones, ó lo que hubieren hecho moneda falsas y resistencia á mis
+> justicias poniendo mano á las armas, ó las ma*no*s en ellas, y con
+> q*ue* asimismo no se comprehendan ni áyan de gozar de esta gra*cia*
+> los que hubieren delinquido y delinquieren contrabiniendo á lo q*ue*
+> está dispuesto p*o*r las ordenanzas y cédulas q*ue* están \[f. 174v\]
+> despachadas para los comercios entre estos Rey*n*os y las In*di*as,
+> así por lo q*ue* toca á las lizenz*ia*s, manifestaciones, reg*ist*ros,
+> cumplim*ien*tos de ellos, paga de d*e*r*ech*os, arrivadas, pasis de
+> unos pu*n*tos sin lizenz*i*a lexitima p*ar*a ello, como suposiciones
+> de Navíos y Mercaderías en cabeza de Españoles, navegaz*io*n \[f.
+> 175r\] con \[e\]strangeros, y todas las demás cosas y casos q*ue*
+> están prohibidos p*o*r las d*ic*has ordenanzas, cédulas y leyes, sin
+> indultar (como no indulto) delito ninguno de los de esta calidad, ni
+> tampoco los demás casos y delitos cometidos en la mar, y los que se
+> comenten en la saca de p*la*ta y ôro, y otros qualesquier gen*er*os
+> \[f. 175v\] q*ue* se navegan á las In*di*as. Y declaro que son
+> exceptuados de este indulto sin q*ue* p*o*r ninguna causa pueda gozar
+> de él los governadores de los Puertos, Ministros, ôfiz*iale*s
+> R*eale*s, guardas, y demás personas de qualquier calidad q*ue* sean
+> que coóperaron y interbinierron \[sic\] en q*uale*squiera de los
+> d*ic*hos fraudes ó contrabenz*ion*es \[f. 176r\] de ordenanzas y
+> cédulas. Y la misma excepción ponga y se debe entender en los delitos
+> q*ue* hubieren cometido ó cometieren qualesquier personas q*ue*
+> tubieren á su cargo la administra*ci*on de mi Haz*ien*da y la q*uen*ta
+> y razón de ella, comprehendiendose en esto las personas particulares
+> que defraudaren mis R*eale*s d*e*r*ech*os, que están impuestos en
+> España y en las \[f. 176v\] Yndias. Y asimismo declaro que no han de
+> ser comprehendidos en este indulto los que hubieren cometido muertes
+> alebosas, por ser delito de tanta gravedad. Y mando que para que
+> conste de quales son los dichos presos y delinquentes a quien hago la
+> d*ic*ha gracia y remisión, y que son comprehendidos en esta d*ic*ha mi
+> Cedula, y hasta el d*ic*ho dia se dé a cada uno de ellos el traslado
+> de ella, signado del ess*criba*no del gobierno de esa Audiencia, con
+> fee y testim*oni*o al pie de ella del d*ic*ho ess*criba*no, de que el
+> tal preso y delinquente es de los comprehendidos en esta mi cédula,
+> \[f. 177r\] el qual asimismo vaya firmada de vosotros sin que por ello
+> se lleven d*e*r*ech*os ni otra cosa alguna, con lo q*ue* se han
+> sueltos librem*en*te, y asi lo guardareis y cumpliréis, y haréis
+> guardar y cumplir. Y mando a los dem*á*s Conss*ejero*s de la Yn*di*as,
+> y a todos los Press*iden*tes y oydores de mis Audiencias R*eale*s de
+> ellas, y otros qualesquier mis jueces y justiz*ia*s, que contra lo
+> contenido en esta mi cédula no vayan, ni pasen, ni consientan hir ni
+> pasar en manera alguna, que así es mi voluntad. Fecha en Madrid a 11
+> de sept*iemb*re de 1707. Yo el Rey. Por m*anda*do del Rey n*uest*ro
+> s*eño*r, D*o*n Gasp*a*r de Pinedo.
+
+Anexo 2. Para que el Virrey de Nueva España y Gobernadores de aquel
 Reino, hagan publicar por bando lo resuelto por V. M. sobre que no se
 admitan a indulto las causas de ilícito comercio (1725)
 
@@ -50,7 +139,7 @@ Fecha: 10 de diciembre de 1725
 >
 > Igual para el Perú, en 10 de octubre.
 
-Anexo 2. Real Cédula facultando al Virrey para perdonar delitos (1739)
+Anexo 3. Real Cédula facultando al Virrey para perdonar delitos (1739)
 
 Fuente: AGNC, sección Archivo Anexo, Reales cédulas y órdenes, tomo 9,
 ff. 736r-738r.
@@ -113,7 +202,7 @@ Fecha: 20 de agosto de 1739
 >
 > Por mandado del Rey nuestro señor. Don Miguel de Villanueva
 
-Anexo 3. Perdón general del virrey Sebastián de Eslava a los soldados de
+Anexo 4. Perdón general del virrey Sebastián de Eslava a los soldados de
 Cartagena (1745)
 
 Fuente: AGI, Santa Fe, 940
@@ -220,7 +309,7 @@ Fecha: 7 de abril de 1745
 >
 > Antemí Don Matheo Carraquilla Escrivano y Notario maior.
 
-Anexo 4. Cedula de S. M. concediendo indulto general a todo género de
+Anexo 5. Cedula de S. M. concediendo indulto general a todo género de
 personas, cuyos delitos no merezcan la pena ordinaria de muerte (1746)
 
 Fuente: Depósito Académico Digital Universidad de Navarra, Fondo
@@ -247,10 +336,10 @@ Fecha: 6 de diciembre de 1746
 > estos efectos de mi paternal amor, clemencia, y piedad, se comuniquen,
 > y comprehendan á todos mis Vassallos, que por recelo, ó temor del
 > castigo, se hayan ausentado á otros Reynos, y se hallen residiendo en
-> ellos, y algunos con sus hijos, y familias : Hé tenido por bien
+> ellos, y algunos con sus hijos, y familias: Hé tenido por bien
 > declarar, que á todos los que se huvieren retirado, y abandonado sus
 > casas, patria, y domicilio, por lo delitos de Contravandistas, y
-> Defraudadores de mis Rentas REales, sin excluir la del Tabaco,
+> Defraudadores de mis Rentas Reales, sin excluir la del Tabaco,
 > usurpacion, y ocultacion de sus derechos, ó por extractores de estos
 > Reynos, ó introduccion en ellos de Generos, y Mercaderias prehibidas,
 > inclusas las de Plata, Oro, y Monedas, ó por resistencia á las Rondas,
@@ -281,7 +370,7 @@ Fecha: 6 de diciembre de 1746
 > residencia, declarando que qualquiera parte donde se presenten, sus
 > nombres, patrias, y apellidos, y motivos de su ausencia, y retiro de
 > mis Reynos; y siendo por algunos de los aqui expressados, u otros
-> semejantes, les darán el Despcaho, y seguro, que convenga, en mi Real
+> semejantes, les darán el Despacho, y seguro, que convenga, en mi Real
 > nombre, para que puedan restituirse libremente á sus casas, sin que
 > por ningun Ministro, ni Justicia, se les moleste por los delitos de
 > que havian sido acusados, ó processados hasya aqui : Para todo lo qual
@@ -295,7 +384,7 @@ Fecha: 6 de diciembre de 1746
 > en Buen-Retiro á seis de Diciembre de mil setecientos y quarenta y
 > seis. YO EL REY. Don Cenón de Somodevilla.
 
-Anexo 5. Cédula de S. M. concediendo indulto general a todos los
+Anexo 6. Cédula de S. M. concediendo indulto general a todos los
 desertores de las tropas de tierra, armadas navales, y milicias
 regladas, que se presentaren dentro del término de tres meses siguientes
 a su publicación (1746)
@@ -368,7 +457,7 @@ Fecha: 9 de diciembre de 1746
 > Diciembre de mil setecientos quarenta y seis. YO EL REY. *Don Cenón de
 > Somodevilla* . = Es copia de la Original = *Ensenada*.
 
-Anexo 6. Indulto general de Carlos III con motivo de su exaltación al
+Anexo 7. Indulto general de Carlos III con motivo de su exaltación al
 trono (1760) y recepción en Santa Fe
 
 Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
@@ -533,7 +622,7 @@ Fecha: 28 de enero de 1760
 > al s\[eño\]r Fiscal y assi lo dixeron y rubricaron por ante mi de que
 > doy fee = tiene tres rubricas = antemi joseph de Rosas.
 
-Anexo 7. Auto de obedecimiento de la cédula de indulto de Carlos III en
+Anexo 8. Auto de obedecimiento de la cédula de indulto de Carlos III en
 la ciudad de Antioquia y villa de Medellín (1761)
 
 Fuente: Archivo Histórico de Medellín, Fondo Concejo de Medellín, SC
@@ -600,7 +689,7 @@ Fecha: 3 de noviembre de 1761
 >
 > Solorzano.
 
-Anexo 8. Solicitud de indulto del procurador de menores de la ciudad de
+Anexo 9. Solicitud de indulto del procurador de menores de la ciudad de
 Antioquia a favor del negro bozal "Antonio" y aceptación por el alcalde
 ordinario (1761)
 
@@ -711,7 +800,7 @@ Fecha: 4 y 7 de noviembre de 1761
 >
 > Juan Antonio de Orellana. Escribano público.
 
-Anexo 9. Carta del apoderado de los barrios de Quito, Don Antonio
+Anexo 10. Carta del apoderado de los barrios de Quito, Don Antonio
 Araujo, exponiendo al virrey los motivos de la inquietud (1765)
 
 Fuente: AGI, Quito, 398
@@ -1022,7 +1111,7 @@ Fecha: 13 de julio de 1765
 >
 > Exmo Sr. Pedro Mesia de la Zerda.
 
-Anexo 10. Representación de la tropa levantada en Panamá (1766)
+Anexo 11. Representación de la tropa levantada en Panamá (1766)
 
 Fuente: AGI, Panamá, 358
 
@@ -1150,7 +1239,7 @@ Fecha: 25 de septiembre de 1766
 >
 > Joachim Figueroa
 
-Anexo 11. Orden de indulto para quienes estuvieran presos por varios
+Anexo 12. Orden de indulto para quienes estuvieran presos por varios
 delitos, con exclusión de los reos por crímenes de lesa majestad (1779)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 16, ff. 146-150.
@@ -1242,7 +1331,7 @@ Fecha: 23 de febrero de 1779
 > habilitado por S. M. en ausencia del Señor Secretario. Don Antonio de
 > Prado.
 
-Anexo 12. Apartamiento de querella por precio (1780)
+Anexo 13. Apartamiento de querella por precio (1780)
 
 Fuente: AGNC, sección colonia, juicios criminales, tomo 148, doc. 1, ff.
 81r-82r.
@@ -1300,7 +1389,7 @@ Fecha: 10 de mayo de 1780
 >
 > Luis de Ovalle \[Procurador de número de la Real Audiencia\]
 
-Anexo 13. Real Cédula de indulto y perdón general a todos los reos,
+Anexo 14. Real Cédula de indulto y perdón general a todos los reos,
 concedida por el nacimiento del príncipe don Carlos Domingo Eusebio
 (1780)
 
@@ -1364,7 +1453,7 @@ Fecha: 8 de junio de 1780
 > Por mandado del Rey nuestro señor Miguel de San Martin Cueto. Hay tres
 > rúbricas.
 
-Anexo 14. Edicto para manifestar al público el indulto general,
+Anexo 15. Edicto para manifestar al público el indulto general,
 concedido por nuestro Católico Monarca el Señor Don Carlos III a todos
 los comprehendidos en las revoluciones acaecidas en el año pasado de mil
 setecientos ochenta y uno (1782)
@@ -1842,7 +1931,7 @@ Fecha: 6 de agosto de 1782
 >
 > Antonio Arzobispo Virrey de Santa Fé
 
-Anexo 15. Petición de indulto de Eugenio Poveda (1783)
+Anexo 16. Petición de indulto de Eugenio Poveda (1783)
 
 Fuente: AGNC, sección colonia, juicios criminales, tomo 64, doc. 18, f.
 369r-v.
@@ -1887,7 +1976,7 @@ Fecha: 8 de marzo de 1783
 >
 > Eugenio Pobeda
 
-Anexo 16. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
+Anexo 17. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
 indulto que ha concedido a los compreendidos en las alteraciones pasadas
 y hace distintas reflexiones acalarando las razones que ha tenido para
 expedirlo en los términos que está (1783)
@@ -2059,7 +2148,7 @@ Fecha: 15 de octubre de 1783
 >
 > *Excelentísimo Señor Don José de Galvez*
 
-Anexo 17. Real Decreto sobre indulto de militares procesados por delitos
+Anexo 18. Real Decreto sobre indulto de militares procesados por delitos
 (1783)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 53, ff. 188-189.
@@ -2142,7 +2231,7 @@ Fecha: 10 de octubre de 1783
 > guarde á V. \_\_\_ muchos años. Madrid 10 de Octubre de 1783. = Don
 > Matéo de Villamayor.
 
-Anexo 18. Indulto general (1784)
+Anexo 19. Indulto general (1784)
 
 Fuente: AGNC, sección colonia, Real Audiencia, Cundinamarca, tomo 17,
 ff. 744r-745v.
@@ -2225,7 +2314,7 @@ Fecha: 16 de enero de 1784
 >
 > Fuy presente, Calvo.
 
-Anexo 19. Indulto de desertores (1789)
+Anexo 20. Indulto de desertores (1789)
 
 Fuente: Félix Colón de Larreátegui, *Juzgados militares de España y sus
 Indias,* tomo IV (Madrid: por la viuda de Ibarra, 1789), 193-194, n. 1.
@@ -2294,7 +2383,7 @@ Fecha: 16 de enero de 1789
 >
 > Don Gerónimo Caballero
 
-Anexo 20. Real Decreto de Carlos IV sobre indulto a los desertores del
+Anexo 21. Real Decreto de Carlos IV sobre indulto a los desertores del
 ejército con motivo del matrimonio de su hijo Fernando (1802)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 50, f. 1091.
@@ -2353,7 +2442,7 @@ Fecha: 5 de octubre de 1802
 >
 > Sr. Virey de Santa Fé
 
-Anexo 21. Indulto de la pena de privación de empleo a oficiales que se
+Anexo 22. Indulto de la pena de privación de empleo a oficiales que se
 hubieran casado sin el Real permiso (1802)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 11, ff. 984-985.
@@ -2396,7 +2485,7 @@ Fecha: 5 de octubre de 1802
 >
 > \[José Antonio\] Caballero
 
-Anexo 22. Real Cédula sobre indulto general concedido con motivo del
+Anexo 23. Real Cédula sobre indulto general concedido con motivo del
 matrimonio del Príncipe (1803)
 
 Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
@@ -2478,7 +2567,7 @@ Fecha: 25 de julio de 1803
 >
 > Yo El Rey
 
-Anexo 23. Indulto de desertores: decreto del gobierno peninsular al
+Anexo 24. Indulto de desertores: decreto del gobierno peninsular al
 respecto (1804)
 
 Fuente: AGNC, Colonia, fondo milicias y marina, tomo 100, f. 13.
@@ -2530,7 +2619,7 @@ Fecha: 29 de octubre de 1804
 >
 > Sr. Virrey del Nuevo Reyno de Granada
 
-Anexo . Indulto concedido por la Junta Suprema de Sevilla (1808)
+Anexo 25. Indulto concedido por la Junta Suprema de Sevilla (1808)
 
 Fuente: *Gazeta Ministerial de Sevilla*, núm. 2, 4 de junio de 1808,
 15-16.
@@ -2572,7 +2661,7 @@ Fecha: 30 de mayo de 1808
 >
 > Dado en Sevilla á 30 de Mayo de 1808
 
-Anexo 25. Real Decreto de José Napoleón por el que se otorga el indulto
+Anexo 26. Real Decreto de José Napoleón por el que se otorga el indulto
 general a los oficiales y soldados desertores que prestasen el juramento
 prescrito en la Constitución (1808)
 
@@ -2662,7 +2751,7 @@ Fecha: 23 de julio de 1808
 >
 > Al Ministro de Negocios extranjeros
 
-Anexo 26. Indulto promulgado por el virrey Antonio Amar y Borbón (1808)
+Anexo 27. Indulto promulgado por el virrey Antonio Amar y Borbón (1808)
 
 Fuente: AGNC, Sección Colonia, Juicios Criminales, Leg. 2, doc. 14, ff.
 758r-761v

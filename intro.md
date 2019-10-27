@@ -16,9 +16,8 @@ para la clemencia".[^1] Estos versos serían un ejemplo curioso, propio
 de la vanidad del historiador, si no fuese porque estaban escritos en
 una de las súplicas de indulto que fueron tramitadas al virrey José
 Solís Folch en 1755. El autor de la petición fue el capitán Miguel de
-Gálvez, peninsular recién asignado al cabildo de Santa Fe, capital del
-distrito del virreinato del Nuevo Reino de Granada, como apoderado de
-doña Margarita Arroyave, vecina notable de la villa de Medellín.
+Gálvez, peninsular recién asignado al cabildo de Santa Fe como apoderado
+de doña Margarita Arroyave, vecina notable de la villa de Medellín.
 
 Los dos versos que sirven de epígrafe son una interesante síntesis del
 tema de esta investigación. Es el castigado, que eleva su voz al César,
@@ -718,12 +717,12 @@ desagregación de diferentes espacios provinciales durante el proceso de
 reforma del virreinato. La creación de la Comandancia General de Maynas
 en 1802 separó la gobernación homónima y la de Quijos para asignarlos al
 virreinato del Perú, asimismo, toda la región amazónica de la audiencia
-de Santa Fe quedó asignada a dicha comandancia. Al año siguiente la
+de Santa Fe quedó asignada a dicha comandancia.[^82] Al año siguiente la
 provincia de Guayaquil es separada del virreinato del Nuevo Reino en lo
 militar y en 1806 se hace el traslado completo al Perú. Desde 1803 se
 anexó la isla de San Andrés y costa de mosquitos a la gobernación de
 Cartagena, sin embargo el impacto de esta adhesión es relativamente
-desconocido.[^82]
+desconocido.[^83]
 
 Aunque los distritos jurisdiccionales del virrey y la Audiencia eran
 relativamente amplios, la mayor parte de los conflictos se dirimían a
@@ -732,15 +731,15 @@ corregidor, además de los alcaldes ordinarios, eran los encargados de la
 justicia en las ciudades, villas y pueblos. Para impartir la justicia
 criminal en las zonas rurales existía la figura de los alcaldes de la
 Santa Hermandad, agentes que solían estar más del lado del rigor que de
-la clemencia.[^83] Jueces de menor rango fueron los alcaldes partidarios
+la clemencia.[^84] Jueces de menor rango fueron los alcaldes partidarios
 (también denominados pedáneos o foráneos), quienes pertenecían a la
 justicia y gobierno capitular, sin ser miembros del cabildo. Su función
 se limitaba a la formación de procesos y la recepción de pruebas en las
 zonas rurales con el propósito de remitirlas a los alcaldes ordinarios o
-a los de la Santa Hermandad.[^84] Finalmente, la estructura
+a los de la Santa Hermandad.[^85] Finalmente, la estructura
 jurisdiccional no estaría completa sin la intervención de los
 procuradores, protectores, fiscales y abogados que hacían parte integral
-de cada proceso judicial.[^85]
+de cada proceso judicial.[^86]
 
 Fuentes y estructura del trabajo
 --------------------------------
@@ -757,17 +756,17 @@ cuerpo legislativo, permiten aclarar el marco de aplicación y efectos
 jurídicos del perdón e indultos. Estas comprenden recopilaciones
 (*Partidas*, Nueva y Novísima Recopilación, Leyes de las Indias),
 cedularios (de época como el de Encinas o el *Diccionario* de Josef de
-Ayala, y recopilaciones contemporáneas como el cedulario americano de
-Muro Orejón) y obras jurídicas como la *Curia Philipica* de Hevia
-Bolaños, el *Teatro de la legislación* de Antonio Xavier López, las
-*Instituciones del derecho civil* de Ignacio de Asso, el *Código* de
-Vicente Vizcaíno o la *Librería de escribanos* de Josef Febrero. Estas
-últimas, si bien no eran "leyes", fueron instrumentos que servían como
-guía para los escribanos y otros oficiales que llevaban procesos dentro
-de los tribunales, los cuales van más allá de manuales técnicos para el
-ejercicio del cargo e incluyen comentarios doctrinales y legislativos
-relevantes para comprender el porqué de las diferentes acciones
-judiciales llevadas a cabo en los tribunales.[^86]
+Ayala, y compendios contemporáneos como el cedulario americano de Muro
+Orejón) y obras jurídicas como la *Curia Philipica* de Hevia Bolaños, el
+*Teatro de la legislación* de Antonio Xavier López, las *Instituciones
+del derecho civil* de Ignacio de Asso, el *Código y práctica criminal*
+de Vicente Vizcaíno, o la *Librería de escribanos* de Josef Febrero.
+Estas últimas, si bien no eran "leyes", fueron instrumentos que servían
+como guía para los escribanos y otros oficiales que llevaban procesos
+dentro de los tribunales, los cuales van más allá de manuales técnicos
+para el ejercicio del cargo e incluyen comentarios doctrinales y
+legislativos relevantes para comprender el porqué de las diferentes
+acciones judiciales llevadas a cabo en los tribunales.[^87]
 
 Las fuentes judiciales y de gobierno agrupan los diferentes tipos
 documentales recopilados de archivos colombianos y españoles,
@@ -785,7 +784,7 @@ aprobación o denegación de casos particulares de indulto. El AGNC ha
 sido útil en particular para la consulta de expedientes judiciales, los
 cuales dan cuenta de la dinámica del perdón más allá del ámbito de la
 corte santafereña. Fue posible también acceder a información fragmentada
-desde los archivos regionales de Antioquia,[^87] Medellín, Cauca e
+desde los archivos regionales de Antioquia,[^88] Medellín, Cauca e
 Histórico Regional de Santander; la cual fue de utilidad para realizar
 algunos acercamientos a perdones desde niveles locales. Finalmente, una
 consulta exploratoria al Archivo Histórico Nacional (AHN) y el Archivo
@@ -840,7 +839,7 @@ una digitalización del material, los metadatos y la estrategia de
 catalogación, presentación, accesibilidad, consulta, así como las
 posibilidades para compartir, descargar y manipular la información, le
 otorgan un nuevo sentido a documentos que no estuvieron pensados en su
-origen para ser puestos en línea.[^88]
+origen para ser puestos en línea.[^89]
 
 En el apartado de referencias se presenta un listado de recursos
 digitales y bases de datos de los cuales se obtuvo información
@@ -855,7 +854,7 @@ comprobable del libro, documento o mapa; y finalmente, que exista una
 explicación del proceso de digitalización y sobre todo de la fecha y
 versión del catálogo disponible en la actualidad. Con las bases de datos
 fue relevante que los datos estuvieran disponibles para su consulta y
-manipulación.[^89] El *portal de datos bibliográficos* de la Biblioteca
+manipulación.[^90] El *portal de datos bibliográficos* de la Biblioteca
 Nacional de España (BNE), así como el *Thesaurus* del Consortium of
 European Research Libraries (CERL), fueron fundamentales para trazar las
 ediciones y reimpresiones de un libro o manuscrito, así como las obras
@@ -871,7 +870,7 @@ tomarlos con la seriedad requerida.
 Para el análisis de la información también fue muy importante el haber
 construido una base de datos con los documentos consultados en archivo,
 de tal manera que pudimos transformar los textos en datos susceptibles
-de manipulación automatizada.[^90] En la sección de referencias se
+de manipulación automatizada.[^91] En la sección de referencias se
 incluye un listado del software utilizado para analizar la información,
 de tal manera que sea posible evaluar posibles desviaciones en la
 información presentada causadas por la estructura de los algoritmos. La
@@ -882,10 +881,10 @@ comunidad de usuarios que pudiera dar cuenta de la precisión en los
 resultados mostrados. La utilización de estos análisis computarizados
 permitió observar ciertos patrones con los cuales se construyeron
 hipótesis preliminares, las cuales fueron refutadas o validadas en tanto
-avanzaba el análisis más detenido de las fuentes.[^91] Finalmente, fue
+avanzaba el análisis más detenido de las fuentes.[^92] Finalmente, fue
 la clásica heurística y hermenéutica de las fuentes la que permitió
 construir argumentos generales y específicos que son los que dan forma a
-esta tesis.[^92]
+esta tesis.[^93]
 
 El argumento del proyecto se estructura en cinco apartados. Los dos
 primeros capítulos comprenden los aspectos generales y teóricos del
@@ -1429,46 +1428,53 @@ Granada (1739-1810)
 [^81]: Velasco Pedraza, *Justicia para los vasallos de su majestad*,
     39--41.
 
-[^82]: Al respecto véase James Jerome Parsons, *San Andrés y
+[^82]: Un análisis de la gobernación de Maynas y su rol en la defensa de
+    la frontera amazónica con las colonias portuguesas fue realizado por
+    Sebastián Gómez González, *Frontera selvática: españoles,
+    portugueses y su disputa por el noroccidente amazónico, siglo
+    XVIII*, Primera reimpresión (Bogotá: Instituto Colombiano de
+    Antropología e Historia, 2017), cap. 3.
+
+[^83]: Al respecto véase James Jerome Parsons, *San Andrés y
     Providencia: una geografía histórica de las islas colombianas del
     Caribe* (Bogotá: El Áncora editores, 1985).
 
-[^83]: Sobre la particular jurisdicción de este oficial véase Velasco
+[^84]: Sobre la particular jurisdicción de este oficial véase Velasco
     Pedraza, *Justicia para los vasallos de su majestad*, 112--21;
     Agüero Nazar, *Castigar y perdonar*, 103--8.
 
-[^84]: Velasco Pedraza, *Justicia para los vasallos de su majestad*,
+[^85]: Velasco Pedraza, *Justicia para los vasallos de su majestad*,
     125--33; Agüero Nazar, *Castigar y perdonar*, 108--9.
 
-[^85]: Un esquema jurisdiccional desde la perspectiva local puede
+[^86]: Un esquema jurisdiccional desde la perspectiva local puede
     consultarse en Velasco Pedraza, *Justicia para los vasallos de su
     majestad*, 102.
 
-[^86]: Víctor Gayol, *Laberintos de justicia: procuradores, escribanos y
+[^87]: Víctor Gayol, *Laberintos de justicia: procuradores, escribanos y
     oficiales de la Real Audiencia de México (1750-1812)*, Colección
     Investigaciones (Zamora: El Colegio de Michoacán, 2007), 55.
 
-[^87]: Agradezco especialmente a Sebastián Amaya Palacios quien me donó
+[^88]: Agradezco especialmente a Sebastián Amaya Palacios quien me donó
     algunas copias digitalizadas de expedientes provenientes de este
     repositorio.
 
-[^88]: Algunas reflexiones al respecto las realizamos en
+[^89]: Algunas reflexiones al respecto las realizamos en
 
-[^89]: Manipulación entendida como recuperación y segmentación de la
+[^90]: Manipulación entendida como recuperación y segmentación de la
     información para realizar consultas y análisis automatizados.
 
-[^90]: Jairo Antonio Melo Flórez, "Segmentación, modelado y
+[^91]: Jairo Antonio Melo Flórez, "Segmentación, modelado y
     visualización de fuentes históricas para el estudio del perdón en el
     Nuevo Reino de Granada del siglo XVIII", en *Abstracts* (DH2018,
     México, 2018),
     https://dh2018.adho.org/segmentacion-modelado-y-visualizacion-de-fuentes-historicas-para-el-estudio-del-perdon-en-el-nuevo-reino-de-granada-del-siglo-xviii/.
 
-[^91]: Sobre el uso de métodos computarizados para la construcción de
+[^92]: Sobre el uso de métodos computarizados para la construcción de
     patrones es fundamental la lectura de Franco Moretti, *Graphs, Maps,
     Trees: Abstract Models for Literary History* (London, New York:
     Verso, 2007).
 
-[^92]: Buena parte del modelo teórico-práctico de este proyecto se
+[^93]: Buena parte del modelo teórico-práctico de este proyecto se
     sustentó en lo discutido por Jörn Rüsen, *Tiempo en ruptura*, trad.
     Christian Sperling, Colección humanidades (México: Universidad
     Autónoma Metropolitana, 2014), caps. 1--4.
