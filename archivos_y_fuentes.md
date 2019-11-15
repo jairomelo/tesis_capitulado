@@ -10,7 +10,7 @@ Sección colonia, fondo judicial, civil y criminal.
 
 ***Archivo General de Indias (Sevilla)***
 
-Audiencia de Caracas, 81, 86, 87, 425, 470.
+Audiencia de Caracas, 81, 82, 86, 87, 113, 418, 421, 425, 470.
 
 Audiencia de Lima, 691.
 
@@ -18,10 +18,12 @@ Audiencia de Panamá, 126, 299, 300, 301, 358.
 
 Audiencia de Quito, 105, 358, 398.
 
-Audiencia de Santa Fe, 193, 546, 547, 548, 572, 575, 577B, 594, 682,
-940, 1200.
+Audiencia de Santa Fe, 193, 265, 546, 547, 548, 572, 575, 577B, 594,
+682, 940, 1200.
 
-Indiferente general, 415, 429, 430, 538 YY10 - YY11.
+Estado, 53.
+
+Indiferente general, 415, 429, 430, 538 YY10 - YY11, 3025.
 
 Mapas y planos, Panamá, 162, 184; Guatemala, 70.
 
@@ -42,12 +44,13 @@ Sección colonia:
 > Historia eclesiástica, tomo 4.
 >
 > Juicios criminales, tomos 2, 6, 34, 40, 49, 54, 58, 63, 64, 67, 68,
-> 75, 76, 87, 90, 102, 103, 113, 114, 129, 130, 131, 134, 135, 136, 138,
-> 139, 148, 157, 163, 170, 176, 198, 205, 216, 217.
+> 75, 76, 87, 90, 102, 103, 106, 113, 114, 129, 130, 131, 134, 135, 136,
+> 138, 139, 148, 157, 163, 170, 176, 198, 205, 216, 217.
 >
-> Milicias y marina, tomos 4, 11, 16, 35, 50, 53, 99, 123, 125.
+> Milicias y marina, tomos 4, 11, 16, 19, 35, 50, 53, 72, 89, 99, 100,
+> 123, 125.
 >
-> Miscelánea, tomos 2, 10, 59, 95, 112.
+> Miscelánea, tomos 2, 10, 59, 74, 95, 112.
 >
 > Negros y esclavos:
 >
@@ -85,6 +88,10 @@ Justicia, tomo 6.
 
 > Reales cédulas y órdenes, tomo 16 y 20.
 
+***Archivo General de Simancas (Valladolid)***
+
+Secretaría de Estado y Despacho de la Guerra, 7067, 7168, 7174, 7184.
+
 ***Archivo Histórico de Antioquia (Medellín)***
 
 Sección gobierno, fondo gobernación de Antioquia:
@@ -107,11 +114,13 @@ Despachos, tomo 11.
 
 Procesos, tomos 11, 76.
 
-Reales cédulas, tomos 13, 33, 37.
+Reales cédulas, tomos 13, 33, 34, 37.
 
 ***Archivo Histórico Nacional (Madrid)***
 
 Consejo de Indias, Secretaría de Presidencia, 21672.
+
+Secretaría de Estado y del Despacho del Estado, 3092.
 
 ***Archivo Histórico Regional de Santander (Bucaramanga)***
 
@@ -136,9 +145,15 @@ Fondo Antiguo, A 113/136.
 Fuentes seriadas
 ----------------
 
-*Gaceta de Madrid*, núm. 91, 13 de noviembre de 1804.
+*Gaceta de Madrid*, núm. 20, 11 de marzo de 1791; núm. 91, 13 de
+noviembre de 1804.
 
 *Gazeta ministerial de Sevilla*, núm. 2, 4 de junio de 1808.
+
+*Mercurio de España*, marzo de 1791.
+
+*Papel periódico de la ciudad de Santafé de Bogotá*, núm. 19, 17 de
+junio de 1791.
 
 *Redactor Americano del Nuevo Reyno de Granada*, núm. 48, 19 de
 noviembre de 1808.
@@ -201,6 +216,11 @@ Historia Nacional, XCVII. Bogotá: Academia de Historia, editorial Kelly,
 
 *Cartas de San Ignacio de Loyola fundador de la Compañía de Jesús*. Vol.
 III. Madrid: imprenta de la viuda e hijo de D. E. Aguado, 1877.
+
+*Colección en latín y castellano de las bulas, constituciones,
+encíclicas, breves y decretos del Santísimo Padre (de gloriosa memoria)
+Benedicto XIV*. Vol. III. Madrid: En la oficina de don Antonio Espinosa,
+1791.
 
 Concilio de Trento. *El Sacrosanto y Ecumenico Concilio de Trento*.
 Traducido por Ignacio López de Ayala. Madrid: en la Imprenta Real, 1785.
@@ -322,8 +342,8 @@ Educación y Cultura de Antioquia, 1988.
 contemporánea por Alfonso García Gallo. Madrid: Ediciones de Cultura
 Hispánica, 1990.
 
-*Corpus Iuris Civilis*. *Digesto y Código de Justiniano.* Edición
-facsímil por editorial Lex Nova de 1989. Trad. Ildefonso L. García del
+*Corpus Iuris Civilis*. *Digesto y Código de Justiniano.* Copia
+facsimilar en Valladolid: Lex Nova, 1989. Trad. Ildefonso L. García del
 Corral. Barcelona: Jaime Molinas, 1889-1895.
 
 *Corpus juris canonici emendatum et notis illustratum*. Roma: In aedibus
@@ -358,6 +378,11 @@ de Juan Iñiguez de Liquerica, 1581. Edición aumentada en Madrid:
 imprenta de Juan Antonio Pimentel, 1745. Copia facsimilar de la edición
 madrileña de 1640 en Valladolid: Lex Nova, 1982.
 
+*Ordenanzas de S. M. para el régimen, disciplina, subordinación y
+servicio de sus exercitos*. III. vols. Madrid: Pedro Marín, 1768. Copia
+facsimilar en Valladolid: Lex Nova, 1999. Copia digital en
+[[http://bibliotecavirtualdefensa.es/BVMDefensa/i18n/consulta/registro.cmd?id=1655]{.underline}](http://bibliotecavirtualdefensa.es/BVMDefensa/i18n/consulta/registro.cmd?id=1655)
+
 *Ordenanzas reales de Castilla*. Recopiladas y compuestas por Alonso
 Díaz de Montalvo. Glosadas por Diego Pérez de Salamanca. Madrid:
 Imprenta de Josef Doblado, 1779.
@@ -369,6 +394,10 @@ Pidal y Juan Manzano. Madrid: Cultura Hispánica, 1973.
 *Real ordenanza para el establecimiento é instrucción de intendentes de
 exercito y provincia en el Reino de la Nueva-España*. Madrid: \[s.n.\],
 1786.
+
+*Reglamento para las milicias disciplinadas de infantería y dragones del
+Nuevo Reyno de Granada y provincias agregadas a este virreynato.*
+Madrid: imprenta de la viuda e hijo de Marín, 1794.
 
 ***Fuentes doctrinales, tratadística y práctica***
 
@@ -384,7 +413,10 @@ Segunda edición. 2 vol. Madrid: Imprenta de la viuda de Ibarra,
 1796-1797.
 
 Azpilcueta, Martín de. *Manual de confessores y penitentes* \[1553\].
-Salamanca: en casa de Andrea de Portonariis, 1556.
+Salamanca: en casa de Andrea de Portonariis, 1556. Edición crítica
+digital en *La Escuela de Salamanca.* ed. por Thomas Duve y Matthias
+Lutz-Bachmann.
+[[https://www.salamanca.school/es/work.html?wid=W0002]{.underline}](https://www.salamanca.school/es/work.html?wid=W0002).
 
 Berart y Gassol, Gabriel. Gabriel Berart y Gassol, *Speculum
 visitationis secularis omnium magistratum, iudicum, decurionum,
@@ -406,9 +438,12 @@ Caussin, Nicolas. *La corte santa*. Traducción de Pedro González de
 Godoy, quinta impresión. Barcelona: imprenta de Juan Pablo y Juan Marti,
 1718.
 
-Colón de Larreátegui, Félix. *Juzgados militares de España y sus Indias*
-\[1788\]. Tercera edición corregida y aumentada. 4 vol. Madrid: Ibarra,
-1817.
+Colón de Larreátegui, Félix. *Juzgados militares de España y sus
+Indias*. Primera edición. 4 vol. Madrid: viuda de Ibarra, 1788-89.
+Tercera edición corregida y aumentada. 4 vol. Madrid: Ibarra, 1817.
+
+Dou i Bassols, Lázaro. *Instituciones de derecho público particular de
+España*. 9 vol. Madrid: Oficina de Benito García, 1800-1803.
 
 Elizondo, Francisco Antonio de. *Práctica universal forense de los
 tribunales de España y de las Indias*. 8 tomos. Madrid: Joaquín Ibarra,
@@ -573,9 +608,8 @@ Viena: Juan van Ghelen, 1703.
 
 Solórzano Pereyra, Juan. *Política indiana* \[1647\]. Edición corregida
 y anotada por Francisco Ramiro de Valenzuela. Madrid: imprenta Real de
-la Gazeta, 1776. Edición crítica digital en *La Escuela de Salamanca.
-Una Colección Digital de Fuentes*, ed. por Thomas Duve y Matthias
-Lutz-Bachmann.
+la Gazeta, 1776. Edición crítica digital en *La Escuela de Salamanca.*
+ed. por Thomas Duve y Matthias Lutz-Bachmann.
 [[https://id.salamanca.school/texts/W0010]{.underline}](https://id.salamanca.school/texts/W0010).
 
 Vega, Feliciano de la. *Relectionum Canonicarum in secundum Decreatalium
@@ -603,6 +637,11 @@ Agencia Española de Cooperación Internacional para el Desarrollo
 (AECID). *Biblioteca digital*. 2018.
 [[http://bibliotecadigital.aecid.es/bibliodig]{.underline}](http://bibliotecadigital.aecid.es/bibliodig)
 
+Akademie der Wissenschaften und der Literatur Mainz, Goethe Universität,
+Max-Planck-Institute für europäische Rechtsgeschichte. *La Escuela de
+Salamanca*. 2019.
+[[https://www.salamanca.school]{.underline}](https://www.salamanca.school/)
+
 Archivo General de la Nación de Colombia. *ArchiDoc*. 2014.
 [[http://consulta.archivogeneral.gov.co/ConsultaWeb/]{.underline}](http://consulta.archivogeneral.gov.co/ConsultaWeb/)
 
@@ -613,7 +652,7 @@ Archivo Nacional de Asunción. *Sección historia*. sf.
 [[http://historia.anasnc.senatics.gov.py/index.php/seccion-historia]{.underline}](http://historia.anasnc.senatics.gov.py/index.php/seccion-historia)
 
 Banco de la República de Colombia. *Biblioteca Virtual*. 2017.
-[http://www.banrepcultural.org/biblioteca-virtual]{.underline}
+[[http://www.banrepcultural.org/biblioteca-virtual]{.underline}](http://www.banrepcultural.org/biblioteca-virtual)
 
 Bayerischen Staatsbibliothek y Münchener Digitalisierungszentrum.
 *Digitale Bibliothek*. 2018.
@@ -644,7 +683,8 @@ Eusko Ikaskuntza - Sociedad de Estudios Vascos. *Fondo Multimedia*.
 [[http://www.eusko-ikaskuntza.eus/es/fondo-documental/fondo-multimedia/]{.underline}](http://www.eusko-ikaskuntza.eus/es/fondo-documental/fondo-multimedia/)
 
 Fondazione Biblioteca Europea di Informazione e Cultura (BEIC).
-*Biblioteca digitale*. 2017. [https://www.beic.it]{.underline}
+*Biblioteca digitale*. 2017.
+[[https://www.beic.it]{.underline}](https://www.beic.it)
 
 Instituto de Investigación Rafael Lapesa y Real Academia Española.
 *Diccionario de autoridades (1726-1739)*. Versión 1.1. 2013.
@@ -656,6 +696,9 @@ Españoles*. Versión 2.0. 2016.
 
 ---------. *Biblioteca Virtual del Patrimonio Bibliográfico*. 2017.
 [[http://bvpb.mcu.es/es/inicio/inicio.do]{.underline}](http://bvpb.mcu.es/es/inicio/inicio.do)
+
+Ministerio de Defensa de España. *Biblioteca virtual*. sf.
+[[http://bibliotecavirtualdefensa.es/]{.underline}](http://bibliotecavirtualdefensa.es/)
 
 Österreichische Nationalbibliothek. *Digitale Bibliothek und Kataloge*.
 2019.
