@@ -21,7 +21,7 @@ Audiencia de Quito, 105, 358, 398.
 Audiencia de Santa Fe, 193, 265, 546, 547, 548, 572, 575, 577B, 594,
 682, 940, 1200.
 
-Estado, 53.
+Estado, 52, 53, 55, 56A.
 
 Indiferente general, 415, 429, 430, 538 YY10 - YY11, 3025.
 
@@ -90,7 +90,8 @@ Justicia, tomo 6.
 
 ***Archivo General de Simancas (Valladolid)***
 
-Secretaría de Estado y Despacho de la Guerra, 7067, 7168, 7174, 7184.
+Secretaría de Estado y Despacho de la Guerra, 7067, 7078, 7168, 7174,
+7184.
 
 ***Archivo Histórico de Antioquia (Medellín)***
 
@@ -126,6 +127,11 @@ Secretaría de Estado y del Despacho del Estado, 3092.
 
 Archivo Histórico Judicial de Girón, paquetes 5b y 19.
 
+***Archivo Histórico Restrepo (Bogotá, disponible en el AGN y en la
+BNC)***
+
+Fondo I, vol. 4.
+
 ***Biblioteca Luis Ángel Arango (Bogotá)***
 
 Sala de libros raros y manuscritos, MSS756.
@@ -136,7 +142,9 @@ Fondo Pineda, tomo 852.
 
 Fondo Quijano, tomo 254.
 
-Fondo comuneros, tomos V y VIII.
+Fondo Comuneros, tomos V y VIII.
+
+Raros manuscritos, 223, 354.
 
 ***Universidad de Sevilla, Biblioteca Rector Machado y Núñez***
 

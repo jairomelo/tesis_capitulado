@@ -1036,7 +1036,7 @@ Previamente se proyectaron algunos puntos donde establecer fortalezas
 para defender la entrada por el golfo del Darién y Boca Chica, pero no
 se adelantó ningún avance para concretarlos.[^110]
 
-Mapa 8. Fortificaciones y sitios de la región del Darién
+Mapa . Fortificaciones y sitios de la región del Darién
 
 ![Darién\_contrabando](media/image3.jpeg){width="6.138194444444444in"
 height="4.340277777777778in"}
@@ -1342,7 +1342,7 @@ generales, pero en estos se aclaraba que se debían interpretar de la
 misma manera que el concedido para los desertores en 1783, evitando así
 incluir a cualquier otro tipo de reo militar.[^148]
 
-Tabla 2. Indultos a militares decretados entre 1746 y 1808.[^149]
+Tabla . Indultos a militares decretados entre 1746 y 1808.[^149]
 
 +-------------+-------------+-------------+-------------+-------------+
 | **Reinado   | **Fecha**   | **Alcance** | **Afectados | **Motivo**  |
