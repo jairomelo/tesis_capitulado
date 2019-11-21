@@ -176,29 +176,29 @@ Guipuzcoana]{.underline}
 
 [[5.1.]{.underline} [El perdón y la rebelión de los comuneros de
 1781]{.underline}
-295](#el-perdón-y-la-rebelión-de-los-comuneros-de-1781)
+310](#el-perdón-y-la-rebelión-de-los-comuneros-de-1781)
 
 [[5.1.1.]{.underline} [El perdón general de 1782]{.underline}
-307](#el-perdón-general-de-1782)
+322](#el-perdón-general-de-1782)
 
 [[5.1.2.]{.underline} [Los "comuneros" de las provincias]{.underline}
-317](#los-comuneros-de-las-provincias)
+332](#los-comuneros-de-las-provincias)
 
 [[5.2.]{.underline} [Las conspiraciones de fin de siglo]{.underline}
-330](#_Toc24841760)
+**¡Error! Marcador no definido.**](#_Toc24841760)
 
 [[5.3.]{.underline} [El indulto general de Amar y Borbón]{.underline}
-330](#el-indulto-general-de-amar-y-borbón)
+351](#el-indulto-general-de-amar-y-borbón)
 
-[[Consideraciones finales]{.underline} 334](#consideraciones-finales-4)
+[[Consideraciones finales]{.underline} 356](#consideraciones-finales-4)
 
-[[Conclusiones]{.underline} 336](#conclusiones) {#conclusiones-336 .TDC1}
+[[Conclusiones]{.underline} 358](#conclusiones) {#conclusiones-358 .TDC1}
 ===============================================
 
-[[Anexo documental]{.underline} 337](#anexo-documental) {#anexo-documental-337 .TDC1}
+[[Anexo documental]{.underline} 359](#anexo-documental) {#anexo-documental-359 .TDC1}
 =======================================================
 
-[[Referencias]{.underline} 386](#referencias) {#referencias-386 .TDC1}
+[[Referencias]{.underline} 408](#referencias) {#referencias-408 .TDC1}
 =============================================
 
 Tablas {#tablas .NoTOCtitulo1}
@@ -208,7 +208,7 @@ Tablas {#tablas .NoTOCtitulo1}
 175](#_Toc23804856)
 
 [[Tabla 2. Indultos a militares decretados entre 1746 y
-1808.]{.underline} 266](#_Ref23333284)
+1808.]{.underline} 265](#_Ref23333284)
 
 Gráficos {#gráficos .NoTOCtitulo1}
 ========
@@ -249,128 +249,128 @@ Guajira]{.underline} 244](#_Ref22547733)
 256](#_Ref22730387)
 
 [[Mapa 9. Principales escenarios de la rebelión de los Comuneros del
-Socorro]{.underline} 297](#_Ref20248413)
+Socorro]{.underline} 312](#_Ref20248413)
 
 [[Mapa 10. Levantamientos en la gobernación de Antioquia]{.underline}
-319](#_Ref20234734)
+334](#_Ref20234734)
 
 [[Mapa 11. Región del levantamiento comunero de Los Llanos]{.underline}
-323](#_Ref20240953)
+338](#_Ref20240953)
 
 [[Mapa 12. Región del levantamiento comunero de Maracaibo]{.underline}
-325](#_Ref20312608)
+340](#_Ref20312608)
 
 Anexos {#anexos .NoTOCtitulo1}
 ======
 
 [[Anexo 1. Indulto general de Felipe V dirigido al virrey y Audiencia de
-México (1707)]{.underline} 338](#_Toc530310418)
+México (1707)]{.underline} 360](#_Toc24841679)
 
 [[Anexo 2. Para que el Virrey de Nueva España y Gobernadores de aquel
 Reino, hagan publicar por bando lo resuelto por V. M. sobre que no se
 admitan a indulto las causas de ilícito comercio (1725)]{.underline}
-339](#_Toc24841680)
+361](#_Toc24841680)
 
 [[Anexo 3. Real Cédula facultando al Virrey para perdonar delitos
-(1739)]{.underline} 340](#_Toc530310421)
+(1739)]{.underline} 362](#_Toc530310421)
 
 [[Anexo 4. Perdón general del virrey Sebastián de Eslava a los soldados
-de Cartagena (1745)]{.underline} 341](#_Toc508001345)
+de Cartagena (1745)]{.underline} 363](#_Toc508001345)
 
 [[Anexo 5. Cedula de S. M. concediendo indulto general a todo género de
 personas, cuyos delitos no merezcan la pena ordinaria de muerte
-(1746)]{.underline} 342](#_Toc530310419)
+(1746)]{.underline} 364](#_Toc530310419)
 
 [[Anexo 6. Cédula de S. M. concediendo indulto general a todos los
 desertores de las tropas de tierra, armadas navales, y milicias
 regladas, que se presentaren dentro del término de tres meses siguientes
-a su publicación (1746)]{.underline} 344](#_Ref23839418)
+a su publicación (1746)]{.underline} 366](#_Ref23839418)
 
 [[Anexo 7. Indulto general de Carlos III con motivo de su exaltación al
-trono (1760) y recepción en Santa Fe]{.underline} 345](#_Ref23248640)
+trono (1760) y recepción en Santa Fe]{.underline} 367](#_Ref23248640)
 
 [[Anexo 8. Real cédula de indulto a desertores (1760)]{.underline}
-348](#_Toc24841686)
+370](#_Toc24841686)
 
 [[Anexo 9. Auto de obedecimiento de la cédula de indulto de Carlos III
 en la ciudad de Antioquia y villa de Medellín (1761)]{.underline}
-349](#_Ref23248550)
+371](#_Ref23248550)
 
 [[Anexo 10. Solicitud de indulto del procurador de menores de la ciudad
 de Antioquia a favor del negro bozal "Antonio" y aceptación por el
-alcalde ordinario (1761)]{.underline} 350](#_Ref23248582)
+alcalde ordinario (1761)]{.underline} 372](#_Ref23248582)
 
 [[Anexo 11. Ceremonia de perdón a los habitantes de los barrios de Quito
-(1765)]{.underline} 351](#_Toc24841689)
+(1765)]{.underline} 373](#_Ref24917749)
 
 [[Anexo 12. Representación de la tropa levantada en Panamá
-(1766)]{.underline} 354](#_Ref23248902)
+(1766)]{.underline} 376](#_Ref23248902)
 
 [[Anexo 13. Indulto a militares casados sin licencia (1766)]{.underline}
-356](#_Toc24841691)
+378](#_Toc24841691)
 
 [[Anexo 14. Orden de indulto para quienes estuvieran presos por varios
 delitos, con exclusión de los reos por crímenes de lesa majestad
-(1779)]{.underline} 356](#_Toc530310424)
+(1779)]{.underline} 378](#_Toc530310424)
 
 [[Anexo 15. Apartamiento de querella por precio (1780)]{.underline}
-358](#_Ref23247975)
+380](#_Ref23247975)
 
 [[Anexo 16. Real Cédula de indulto y perdón general a todos los reos,
 concedida por el nacimiento del príncipe don Carlos Domingo Eusebio
-(1780)]{.underline} 359](#_Toc530310425)
+(1780)]{.underline} 381](#_Toc530310425)
 
 [[Anexo 17. Edicto para manifestar al público el indulto general,
 concedido por nuestro Católico Monarca el Señor Don Carlos III a todos
 los comprehendidos en las revoluciones acaecidas en el año pasado de mil
-setecientos ochenta y uno (1782)]{.underline} 360](#_Ref23839744)
+setecientos ochenta y uno (1782)]{.underline} 382](#_Ref23839744)
 
 [[Anexo 18. Petición de indulto de Eugenio Poveda (1783)]{.underline}
-368](#_Ref23248853)
+390](#_Ref23248853)
 
 [[Anexo 19. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
 indulto que ha concedido a los compreendidos en las alteraciones pasadas
 y hace distintas reflexiones acalarando las razones que ha tenido para
 expedirlo en los términos que está (1783)]{.underline}
-369](#_Ref23839790)
+391](#_Ref23839790)
 
 [[Anexo 20. Real Decreto sobre indulto de militares procesados por
-varios delitos (1783)]{.underline} 372](#_Toc530310427)
+varios delitos (1783)]{.underline} 394](#_Toc530310427)
 
-[[Anexo 21. Indulto general (1784)]{.underline} 373](#_Toc530310428)
+[[Anexo 21. Indulto general (1784)]{.underline} 395](#_Toc530310428)
 
 [[Anexo 22. Real Cédula para que en los dominios de Indias e Islas
 Filipinas se observe lo resuelto sobre el conocimiento de causas de
 concubinato, y modo de impartir el auxilio el brazo seglar a los Jueces
-Eclesiásticos (1787)]{.underline} 374](#_Ref23248474)
+Eclesiásticos (1787)]{.underline} 396](#_Ref23248474)
 
 [[Anexo 23. Indulto de desertores (1789)]{.underline}
-376](#_Ref23839845)
+398](#_Ref23839845)
 
 [[Anexo 24. Real Decreto de Carlos IV sobre indulto a los desertores del
 ejército con motivo del matrimonio de su hijo Fernando
-(1802)]{.underline} 377](#_Toc530310430)
+(1802)]{.underline} 399](#_Toc530310430)
 
 [[Anexo 25. Indulto de la pena de privación de empleo a oficiales que se
 hubieran casado sin el Real permiso (1802)]{.underline}
-378](#_Toc530310431)
+400](#_Toc530310431)
 
 [[Anexo 26. Real Cédula sobre indulto general concedido con motivo del
-matrimonio del Príncipe (1803)]{.underline} 379](#_Toc530310432)
+matrimonio del Príncipe (1803)]{.underline} 401](#_Toc530310432)
 
 [[Anexo 27. Indulto de desertores: decreto del gobierno peninsular al
-respecto (1804)]{.underline} 380](#_Toc530310433)
+respecto (1804)]{.underline} 402](#_Toc530310433)
 
 [[Anexo 28. Indulto concedido por la Junta Suprema de Sevilla
-(1808)]{.underline} 381](#_Toc24841706)
+(1808)]{.underline} 403](#_Toc24841706)
 
 [[Anexo 29. Real Decreto de José Napoleón por el que se otorga el
 indulto general a los oficiales y soldados desertores que prestasen el
 juramento prescrito en la Constitución (1808)]{.underline}
-381](#_Toc530310434)
+403](#_Toc530310434)
 
 [[Anexo 30. Indulto promulgado por el virrey Antonio Amar y Borbón
-(1808)]{.underline} 383](#_Ref23839817)
+(1808)]{.underline} 405](#_Ref23839817)
 
 Abreviaturas
 ============
@@ -4714,7 +4714,7 @@ mayores avances en el pleito, y tras haberse reducido a la prisión de
 corte al otrora alcalde para evitar que se evadiera en Chocó, Sánchez
 logró acordar con éste el apartamiento de la causa a cambio de 400 pesos
 en buena moneda. Este apartamiento por transacción (transcrito en el
-anexo anexo 13) se realizó de una manera sencilla, sin apegarse a los
+anexo anexo 15) se realizó de una manera sencilla, sin apegarse a los
 modelos de escribanos, manifestando la forma como se realizó el acuerdo
 gracias a la oferta que hizo Martínez de Oca por medio de "personas de
 respeto", y explicando que el desistimiento lo hizo no sólo por la
@@ -4824,7 +4824,7 @@ inmunidad eclesiástica.[^583] Fue precisamente un recurso de fuerza
 introducido por la Audiencia de Santa Fe, para lograr que dos concubinas
 presas en la cárcel de mujeres del arzobispado accedieran al indulto
 general de 1784, el que dio origen a la cédula de 21 de diciembre de
-1787 (véase anexo 20) con la cual Carlos III determinó lo siguiente:
+1787 (véase anexo 22) con la cual Carlos III determinó lo siguiente:
 "que quando me digne expedir indultos generales los gocen, y sean
 comprehendidos en ellos los delinqüentes Eclesiasticos contra quienes
 estuvieren conociendo sus jueces, siendo las penas que se les habrían de
@@ -5215,11 +5215,14 @@ la gracia en cada juzgado. Como ha mostrado Alejandro Agüero para el
 contexto Tucumano, la sentencia difícilmente puede comprenderse desde el
 apego a la ley, y en el caso de la gracia, la promulgación de la gracia
 no era sino el primer paso dentro de una serie de acciones necesarias
-para que se pudiese dar con la libertad del reo. Si bien, en apariencia,
-un indulto general pareciera tener una amplitud totalmente extraña para
-nuestro sistema jurídico-político contemporáneo, las decisiones que se
-tomaban a cada paso hacían más complejo el abrir las puertas de las
-prisiones.
+para que se pudiese dar con la libertad del reo. De seguro una revisión
+más detallada de las relaciones interpersonales entre los agentes de la
+justicia, incluso de los modelos de la formación de los letrados,
+permitirá hilar más fino en las motivaciones que preferían el uso del
+rigor o de la clemencia. Si bien, en apariencia, un indulto general
+pareciera tener una amplitud totalmente extraña para nuestro sistema
+jurídico-político contemporáneo, las decisiones que se tomaban a cada
+paso hacían más complejo el abrir las puertas de las prisiones.
 
 Consideraciones finales
 -----------------------
@@ -7564,10 +7567,10 @@ excusar al agresor.[^811]
 Tras unos cuantos alegatos entre los procuradores, el defensor de
 menores aprovechó que el tres de noviembre de 1761 se publicó en
 Antioquia la cédula de indulto general por la coronación de Carlos III
-(véase anexo 8) y al día siguiente presentó su solicitud ante el mismo
+(véase anexo 9) y al día siguiente presentó su solicitud ante el mismo
 alcalde ordinario. Como se puede observar, la impetración del procurador
-Toro Cataño (copiada en el anexo 9) se dividió en dos partes, la primera
-dedicada a exponer al alcalde ordinario más antiguo que no había
+Toro Cataño (copiada en el anexo 10) se dividió en dos partes, la
+primera dedicada a exponer al alcalde ordinario más antiguo que no había
 posibilidad de demostrar plenamente la culpabilidad del esclavo Antonio
 en la muerte de su homónimo, en tanto la segunda puntualizó los aspectos
 jurídicos de la gracia expuestos en la cédula, de tal manera que fuera
@@ -9974,7 +9977,7 @@ de uniformes, inadecuados para la vida en regiones tropicales, eliminar
 la obligación de comer en rancho, que no se encerraran en los cuarteles
 a la mitad de la tarde y que se eliminara el castigo de azotes. Sin duda
 el ejemplo de La Habana fue fundamental para la tropa panameña, pues
-como evidenciaron en su representación (véase anexo 10), sus demandas se
+como evidenciaron en su representación (véase anexo 12), sus demandas se
 ajustaban a los acordado con la tropa de aquella plaza, quienes lograron
 recuperar el *prest* a su estado original; aunque los soldados de Panamá
 argumentaron que debían recibir un aumento porque en su plaza se sufrían
@@ -12469,11 +12472,33 @@ casos fueron sorteados por Godoy y sus protagonistas castigados con
 cierta moderación. En febrero de 1795 se descubrió un supuesto plan para
 iniciar una rebelión, un evento que se ha denominado como la
 Conspiración de San Blas, cuyo principal acusado fue Juan Picornell,
-quien posteriormente sería enviado a La Guaira donde, supuestamente,
-ayudó a organizar la conspiración de Gual y España.[^1282] Rápidamente
-se capturaron los implicados, se les adelantó juicio sin que fuese
-posible comprobar la intención de hacer una rebelión (probablemente sólo
-querían destituir a Godoy), y se les castigó con el exilio.[^1283]
+quien posteriormente sería enviado a La Guaira donde ayudó a organizar
+la conspiración de Gual y España.[^1282] Rápidamente se capturaron los
+implicados, se les adelantó juicio sin que fuese posible comprobar la
+intención de hacer una rebelión (probablemente sólo querían destituir a
+Godoy), y se les castigó con el exilio.[^1283]
+
+El destierro de los conspiradores hacia Cádiz parecía aliviar el temor a
+un subrepticio plan sedicioso, pero esta sensación no perduró por mucho
+tiempo. En 1797 aparecieron unos "papeles revolucionarios" en Cartagena,
+que alarmaron a las autoridades del virreinato ante una posible invasión
+revolucionaria; también en Tunja se fijaron en las paredes de la ciudad,
+nuevamente, algunos versos sediciosos. En ese momento José de Ezpeleta
+ya había pasado el mando del virreinato a Pedro de Mendinueta, quien al
+contrario de su predecesor, temía seriamente a las manifestaciones de
+descontento que aparecían en su jurisdicción. En una carta le decía a
+Godoy: "Aunque en lo general de este reyno no se presente por ahora
+novedad alguna, que cause mayor cuidado en perjuicio de la tranquilidad
+pública, no dejan de aparecer señales de los descontentos, díscolos y
+perturbadores".[^1284] La opinión que tenía el virrey de los vasallos a
+su cargo no era condescendiente como la de Ezpeleta. Similar a la
+opinión que representó el marqués de Torre-Velarde, Mendinueta estaba
+convencido que los habitantes del Nuevo Reino se levantarían en
+cualquier momento. Decía, "ellos conservarán su aparente tranquilidad
+hasta que la ocasión les proporcione sacudir el suave yugo que los
+gobierna".[^1285] El descubrimiento de la conspiración de Gual y España
+en Caracas no hizo sino agravar el temor a una sublevación de grandes
+dimensiones que acabara con el reino.
 
  El indulto general de Amar y Borbón
 ------------------------------------
@@ -12500,7 +12525,7 @@ No se puede negar que el indulto de Amar y Borbón se promulgó en una
 reos" que se acogieron al perdón real de 1808, aunque explica que las
 autoridades provinciales "tuvieron que aclarar que no habían recibido
 Real Orden ni providencia de indulto, lo que era obvio pues en ese
-momento España estaba siendo invadida por tropas francesas".[^1284] El
+momento España estaba siendo invadida por tropas francesas".[^1286] El
 que no se hubiese recibido la real cédula no era una obviedad, valga
 recordar que Carlos IV no decretó un indulto general tras su coronación,
 pero sí era algo de esperar teniendo en cuenta la importancia que
@@ -12513,25 +12538,25 @@ acogían al perdón que podía motivarse por la exaltación al trono de
 Fernando VII, ante lo cual dicho oficial suplicó en nombre de los reos
 por "la gracia que sea posible a beneficio de estos miserables"; es
 decir, no se acogió al indulto general sino impetró la remisión de los
-delitos con base en las facultades del título virreinal.[^1285] El
+delitos con base en las facultades del título virreinal.[^1287] El
 indulto finalmente sería obedecido en la sesión del cabildo de Medellín
-del 22 de noviembre de 1808.[^1286]
+del 22 de noviembre de 1808.[^1288]
 
 Por otra parte, el mismo virrey justificó el bando de indulto bajo el
 argumento de que era "práctica constantemente observada por nuestros
 católicos Monarcas en las ocaciones de su exaltación al trono la de
 conceder á sus amados vasallos, entre otras gracias y mercedes de
 perpetuo reconocimiento, y memoria de tan plausible suceso, yndulto ó
-remicion de los delitos".[^1287] Por ser la costumbre, Amar y Borbón
+remicion de los delitos".[^1289] Por ser la costumbre, Amar y Borbón
 aseguraba que la cédula de indulto general de seguro ya había sido
 promulgada, pero las "ocurrencias de la Metrópoli" no habían permitido
 que se recibiera en Santa Fe "semejante beneficio". En efecto, hubo un
 indulto general para los reos, rebeldes, y militares de América y
-España; pero tendrían que esperar hasta el año de 1817,[^1288] cuando
-las circunstancias fueron totalmente diferentes.[^1289] En los arribos
+España; pero tendrían que esperar hasta el año de 1817,[^1290] cuando
+las circunstancias fueron totalmente diferentes.[^1291] En los arribos
 de agosto de 1808 no hubo cédulas de indulto sino noticias de las
 abdicaciones de Bayona, los levantamientos en rechazo a José Bonaparte,
-y la formación de la autoproclamada Junta Suprema de Sevilla.[^1290]
+y la formación de la autoproclamada Junta Suprema de Sevilla.[^1292]
 
 El indulto de Amar y Borbón distaba mucho de ser un exhorto similar al
 proclamado por Caballero y Góngora en 1782. Servía en cambio como
@@ -12548,12 +12573,12 @@ Cartagena había sido recibida la comisión de la Junta Suprema en agosto
 de ese año, y que en ese mismo mes el coronel de la plaza de esa ciudad,
 teniente de rey Blas de Soria Santacruz, llamó a los desertores a
 prestar servicio en las armas del rey al haber sido indultados por dicha
-corporación.[^1291] La orden de publicar el indulto de la Junta Suprema
+corporación.[^1293] La orden de publicar el indulto de la Junta Suprema
 en las plazas y cabezas de partido de la provincia cartagenera sin haber
 elevado la consulta al virrey ni su autorización, hasta cierto punto
 muestran el descontento con la autoridad virreinal por parte de las
 élites de la ciudad, el cual se irá incrementando hasta desembocar en la
-rebelión de Cartagena de mayo de 1810.[^1292]
+rebelión de Cartagena de mayo de 1810.[^1294]
 
 Aunque los dos indultos estaban estrechamente conectados, las
 condiciones de su promulgación fueron completamente diferentes. En tanto
@@ -12561,7 +12586,7 @@ el indulto sevillano tiene el claro propósito de incrementar la
 conscripción para la guerra y de paso establecer su supremacía en la
 defensa de la soberanía fernandina, el perdón de Amar y Borbón fue una
 expresión de la adhesión del Nuevo Reino de Granada al gobierno de la
-Junta Suprema de Sevilla.[^1293] Sin embargo, el virrey no publicó el
+Junta Suprema de Sevilla.[^1295] Sin embargo, el virrey no publicó el
 indulto de la Junta sino decidió hacer el suyo propio con un proemio más
 extenso, en el cual dejaba claro que era su autoridad y clemencia la que
 le conminaba a expedir esta gracia, y siempre en "imitación" y "ejemplo"
@@ -12594,7 +12619,7 @@ presentarse ante su distrito militar y comenzar a servir nuevamente.
 Esta adición daba cierta claridad a los jueces para poder cumplir con la
 orden virreinal siguiendo los precedentes indultos de desertores, en
 particular el reproducido en el tomo cuarto de los *Juzgados militares
-de España y sus Indias* por Félix Colón de Larreátegui.[^1294]
+de España y sus Indias* por Félix Colón de Larreátegui.[^1296]
 
 Ni el indulto de Sevilla ni el de Santa Fe incluyen una graduación del
 indulto respecto a los militares de primera, segunda o tercera
@@ -12621,9 +12646,9 @@ y Borbón ya que restaura la prelación del rey y, además, evita el
 término "patria" para reemplazarlo por el de "nación". Es probable que
 esta enmienda hubiese sido motivada por una concepción limitada del
 término al ámbito de la península y a la figura cautiva de Fernando
-VII.[^1295] El uso de una figura como "nación", en cambio, podía
+VII.[^1297] El uso de una figura como "nación", en cambio, podía
 representar a los vasallos de la monarquía en ambos lados del
-Atlántico.[^1296] Poco efecto habría tenido este cambio pues
+Atlántico.[^1298] Poco efecto habría tenido este cambio pues
 inmediatamente después, en el artículo tercero se toma del indulto
 sevillano que si el delincuente puede hacerse "útil a la Patria" podía
 ser incluido en el perdón, incluso si hubiese sido condenado por un
@@ -12653,12 +12678,12 @@ José Manuel Restrepo, texto clave en la definición del relato nacional
 de la Independencia de Colombia, en el cual se destacó la acción de
 Caballero y Góngora para conseguir la pacificación de las provincias en
 contraposición a la línea dura de Flórez. Según Restrepo, "si no es por
-el Arzobispo Góngora la guerra se vuelve a encender".[^1297] En el
+el Arzobispo Góngora la guerra se vuelve a encender".[^1299] En el
 relato de este historiador, el indulto de los cabecillas del Socorro
 estuvo en permanente riesgo pues se enviaron órdenes reservadas para
 castigarlos, pero gracias a la administración del arzobispo-virrey
 ninguno de los líderes fue castigado y con ello se ponía freno al
-"despotismo" de los oidores y de Madrid.[^1298]
+"despotismo" de los oidores y de Madrid.[^1300]
 
 Conclusiones
 ============
@@ -12675,7 +12700,7 @@ cualquier sección que explorábamos hallábamos huellas del uso del perdón
 en diferentes ámbitos del gobierno y la justicia en América. El no
 contar con un fondo específico relacionado con indultos y perdones en
 los archivos consultados, similar al acumulado en el Archivo General de
-Simancas para el ámbito castellano,[^1299] nos hizo pensar en la
+Simancas para el ámbito castellano,[^1301] nos hizo pensar en la
 utilidad que hubiese representado para el desarrollo de esta tesis el
 haber contado con, al menos, una compilación de las cédulas de indulto
 general concedidas durante el siglo XVIII e inicios del XIX.
@@ -12683,7 +12708,7 @@ general concedidas durante el siglo XVIII e inicios del XIX.
 La selección que presentamos a continuación pretende contribuir en parte
 a solventar esta carencia, sumándose así a otras pequeñas recopilaciones
 como las comprendidas en los apéndices de los textos de Tomás y Valiente
-y de María Inmaculada Rodríguez.[^1300] En consecuencia, no incluimos en
+y de María Inmaculada Rodríguez.[^1302] En consecuencia, no incluimos en
 este anexo documentos que ya estaban publicados en dichas obras o en
 otras compilaciones impresas. El criterio básico consistió en que fuesen
 fuentes documentales inéditas, algunas fáciles de hallar en archivos
@@ -12711,7 +12736,7 @@ tenían sentido antonomástico en la época. La foliación o paginación, así
 como los caracteres o palabras añadidos por razones de deterioro del
 documento, van incluidos dentro de corchetes.
 
-[]{#_Toc530310418 .anchor}Anexo 1. Indulto general de Felipe V dirigido
+[]{#_Toc24841679 .anchor}Anexo 1. Indulto general de Felipe V dirigido
 al virrey y Audiencia de México (1707)
 
 Fuente: AGI, *Indiferente General*, legajo 538, libro YY10, ff.
@@ -13329,7 +13354,7 @@ Fecha: 28 de enero de 1760
 > assi lo dixeron y rubricaron por ante mi de que doy fee = tiene tres
 > rubricas = antemi joseph de Rosas.
 
-[]{#_Toc24841686 .anchor}Anexo 8. Real cédula de indulto a desertores
+[]{#_Toc24841686 .anchor}Anexo . Real cédula de indulto a desertores
 (1760)
 
 Fuente: BNC, raros manuscritos, 354, ff. 180-81.
@@ -13555,8 +13580,8 @@ Fecha: 4 y 7 de noviembre de 1761
 >
 > Juan Antonio de Orellana. Escribano público.
 
-[]{#_Toc24841689 .anchor}Anexo 11. Ceremonia de perdón a los habitantes
-de los barrios de Quito (1765)
+[]{#_Ref24917749 .anchor}Anexo . Ceremonia de perdón a los habitantes de
+los barrios de Quito (1765)
 
 Fuente: AGI, Quito, 398, ff. 523r-27v.
 
@@ -14044,19 +14069,19 @@ Fecha: 8 de junio de 1780
 > y los que se han rematados a presidio o arsenales, que no estuvieren
 > remitidos o en camino para sus destinos, con tal que no hayan sido
 > condenados por los delitos que quedan exceptuados, assi mismo, siendo
-> de mi real benignidad,[^1301] he venido en estender este indulto a los
+> de mi real benignidad,[^1303] he venido en estender este indulto a los
 > reos que estan fugitivos, ausentes y rebeldes, señalandoles el termino
 > de seis meses a los que estuvieren dentro de España, y el de un año a
 > los que se hallaren fuera de estos reinos \[f. 332v\] para que puedan
 > presentarse ante qualesquiera justicias, las quales deberan dar cuenta
 > a los tribunales donde pendieren sus causas, para que se proceda a la
-> declaracion del indulto; y declaro[^1302] que en los delitos en que
+> declaracion del indulto; y declaro[^1304] que en los delitos en que
 > haya parte agraviada, aunque se haya procedido de oficio, no se
 > concede el indulto sin que preceda perdon suyo, y que en los que haya
 > interés; o pena pecunaria, tampoco se conceda sin que preceda la
 > satisfacion o el perdon de la parte; pero debera valer este indulto
 > por el interes o pena correspondiente al fisco y aun al
-> denunciador,[^1303] y siendo mi tienda a mis vasallos de America é
+> denunciador,[^1305] y siendo mi tienda a mis vasallos de America é
 > islas Filipinas, lo comunicado a mi Consejo de las Indias, por mi real
 > orden de once de Mayo ultimo para su cumplimiento, en cuya
 > consequencia por esta mi real Cedula, mando a mis virreyes, a los
@@ -14362,8 +14387,8 @@ Fecha: 6 de agosto de 1782
 > por ahora en los generos y frutos de Castilla, que viniendo del Puerto
 > de Cartagena, como puerta principal del Reyno, ó de algunos otros
 > Puertos, para ser conducidos á lo interior de las Provincias con destino
-> al trato y Comercio, compongan carga,[^1304] fardo,[^1305]
-> frangóte,[^1306] caxon,[^1307] ó petaca;[^1308] omitiendola en los de
+> al trato y Comercio, compongan carga,[^1306] fardo,[^1307]
+> frangóte,[^1308] caxon,[^1309] ó petaca;[^1310] omitiendola en los de
 > poca consideracion, ú otros encargos distintos de la negociacion: que se
 > observe la formalidad de las Guias, sin la obligacion de Tornaguias
 > siempre que desta Capital ó de la Villa de Honda se lleven generos y
@@ -20084,7 +20109,7 @@ americanista*, núm. 41 (1991): 11--19.
     núm. 4.
 
 [^579]: Véase los certificados de recepción, obedecimiento y
-    publicación, transcritos en el Anexo 8.
+    publicación, transcritos en el Anexo 9.
 
 [^580]: "Certificación del alcalde de primer voto de Antioquia para el
     indulto general de 1817", Antioquia, 20 de julio de 1817, AHA,
@@ -20210,8 +20235,8 @@ americanista*, núm. 41 (1991): 11--19.
     menester". P. III, tít. 24, ley 3, citada en Rodríguez Flores, *El
     perdón real*, 95.
 
-[^614]: Contrástense las solicitudes transcritas en el Anexo 9 y Anexo
-    17.
+[^614]: Contrástense las solicitudes transcritas en el Anexo 10 y Anexo
+    18.
 
 [^615]: Ambos casos serán tratados en los capítulos 4 y 5.
 
@@ -22430,7 +22455,7 @@ americanista*, núm. 41 (1991): 11--19.
 [^1179]: "Pimienta a José de Gálvez", Cartagena, 10 de abril de 1782,
     AGNC, sección colonia, virreyes, tomo 2, f. 1142v.
 
-[^1180]: BNC, Fondo Quijano, vol. 254, pza. 10. Véase Anexo 16.
+[^1180]: BNC, Fondo Quijano, vol. 254, pza. 10. Véase Anexo 17.
 
 [^1181]: Sobre el uso de la imprenta por la administración santafereña
     véase Renán Silva, *Los ilustrados de Nueva Granada, 1760-1808:
@@ -22466,7 +22491,7 @@ americanista*, núm. 41 (1991): 11--19.
     de 1782, BLAA-RM, MSS756, vol. 1, ff. 41r-41v. Otra copia se puede
     consultar en "No. 3, el Arzobispo virrey de Santa Fe dirije seis
     exemplares del yndulto...", AGI, Santa Fe, 594. Incluyo la
-    transcripción en el Anexo 18**.**
+    transcripción en el Anexo 19**.**
 
 [^1188]: "Caballero y Góngora a José de Gálvez", f. 46v-47r.
 
@@ -22694,7 +22719,9 @@ americanista*, núm. 41 (1991): 11--19.
 
 [^1261]: McFarlane, *Colombia before Independence*, 279--80.
 
-[^1262]: Uribe-Urán, *Vidas honorables*, 122--31.
+[^1262]: Víctor Manuel Uribe-Urán, *Vidas honorables: abogados, familia
+    y política en Colombia, 1780-1850* (Medellín: Fondo Editorial
+    Universidad EAFIT, 2008), 122--31.
 
 [^1263]: Uribe-Urán, 122--23.
 
@@ -22759,29 +22786,38 @@ americanista*, núm. 41 (1991): 11--19.
 
 [^1282]: Pedro Grases, *La conspiración de Gual y España y el ideario de
     la independencia* (Caracas: Instituto Panamericano de Geografía e
-    Historia, 1949), 19--27.
+    Historia, 1949), 19--27; Carmen L. Michelena, *Luces
+    revolucionarias: de la rebelión de Madrid (1795) a la rebelión de La
+    Guaira (1797)* (Caracas: Fundación Centro de Estudios
+    Latinoamericanos Rómulo Gallegos, 2010), cap. 1.
 
 [^1283]: Emilio La Parra, *Manuel Godoy: la aventura del poder*, Tiempo
     de memoria 20 (Barcelona: Tusquets, 2002), 122--34.
 
-[^1284]: Patiño Millán, *Criminalidad, ley penal*, 84--85.
+[^1284]: "Pedro de Mendinueta al Príncipe de la Paz", Santa Fe, 19 de
+    octubre de 1797, AGI, Santa Fe, 52, N. 64.
 
-[^1285]: AGNC, sección colonia, juicios criminales, tomo 205, doc. 9, f.
+[^1285]: "Pedro de Mendinueta al Príncipe de la Paz", Santa Fe, 19 de
+    mayo de 1798, AGI, Santa Fe, 52, N. 68.
+
+[^1286]: Patiño Millán, *Criminalidad, ley penal*, 84--85.
+
+[^1287]: AGNC, sección colonia, juicios criminales, tomo 205, doc. 9, f.
     450r.
 
-[^1286]: AHM, sección colonia, Concejo de Medellín, actas, tomo 73, f.
+[^1288]: AHM, sección colonia, Concejo de Medellín, actas, tomo 73, f.
     209v.
 
-[^1287]: Véase Anexo 29.
+[^1289]: Véase Anexo 30.
 
-[^1288]: Fernando VII había promulgado un indulto en Madrid el 2
+[^1290]: Fernando VII había promulgado un indulto en Madrid el 2
     septiembre de 1814, pero este abarcó únicamente a los reos militares
     de España e Indias. Hubo otros indultos generales, como el otorgado
     a los segovianos el 2 de noviembre de ese mismo año; pero el perdón
     específico para los reinos de las Indias se promulgaría hasta el 24
     de enero de 1817.
 
-[^1289]: El uso del perdón real en la restauración monárquica de Tierra
+[^1291]: El uso del perdón real en la restauración monárquica de Tierra
     Firme merece atención particular por la compleja estrategia para la
     recuperación del vasallaje, mezclada con abusos autoritarios y
     reorganización de las élites. Al respecto véase Daniel Gutiérrez
@@ -22794,7 +22830,7 @@ americanista*, núm. 41 (1991): 11--19.
     (1815-1821)* (Castelló de la Plana: Universitat Jaume I, 2013),
     223--30.
 
-[^1290]: Como señaló François-Xavier Guerra, la reacción a la acefalía
+[^1292]: Como señaló François-Xavier Guerra, la reacción a la acefalía
     monárquica fue diferente en buena medida porque las noticias
     llegaron por separado. *Modernidad e independencias*, 130. También
     Jaime E. Rodríguez O., *La independencia de la América española*,
@@ -22809,62 +22845,62 @@ americanista*, núm. 41 (1991): 11--19.
     diplomacia durante el interregno en Nueva Granada, 1808-1816*,
     Bicentenario (Bogotá: Universidad Externado de Colombia, 2010), 115.
 
-[^1291]: Cartagena, 26 de agosto de 1808, AGNC, sección colonia,
+[^1293]: Cartagena, 26 de agosto de 1808, AGNC, sección colonia,
     milicias y marina, tomo 61, f. 1029.
 
-[^1292]: Sobre la oposición Cartagena -- Santa Fe entre 1808 y 1810,
+[^1294]: Sobre la oposición Cartagena -- Santa Fe entre 1808 y 1810,
     véase Alfonso Múnera, *El fracaso de la nación. Religión, clase y
     raza en el Caribe colombiano (1717-1810)* (Bogotá: Banco de la
     República --- Ancora Editores, 1998), 140--87; McFarlane, *Colombia
     before Independence*, 338--41; Cuño Bonito, *El retorno del rey*,
     101--2, 112--13; Gutiérrez Ardila, *Un nuevo reino*, 114--17.
 
-[^1293]: Gutiérrez Ardila, *Un nuevo reino*, 119.
+[^1295]: Gutiérrez Ardila, *Un nuevo reino*, 119.
 
-[^1294]: Véase Anexo 22.
+[^1296]: Véase Anexo 23.
 
-[^1295]: Lomné, "«El feliz momento»", 27--28; Villamizar Duarte, *La
+[^1297]: Lomné, "«El feliz momento»", 27--28; Villamizar Duarte, *La
     felicidad del Nuevo Reyno*, sec. 3447.
 
-[^1296]: Villamizar Duarte, *La felicidad del Nuevo Reyno*, sec. 3422.
+[^1298]: Villamizar Duarte, *La felicidad del Nuevo Reyno*, sec. 3422.
 
-[^1297]: José Manuel Restrepo, *Historia de la revolución de la
+[^1299]: José Manuel Restrepo, *Historia de la revolución de la
     República de Colombia*, t. II (París: Librería Americana, 1827), 38.
 
-[^1298]: Restrepo, *Historia de la revolución*, 44.
+[^1300]: Restrepo, *Historia de la revolución*, 44.
 
-[^1299]: Heras Santos, "Indultos concedidos por la Cámara de Castilla en
+[^1301]: Heras Santos, "Indultos concedidos por la Cámara de Castilla en
     tiempos de los Austrias", 116.
 
-[^1300]: Tomás y Valiente, "El perdón de la parte ofendida", 94--114;
+[^1302]: Tomás y Valiente, "El perdón de la parte ofendida", 94--114;
     Rodríguez Flores, *El perdón real*, 239--78.
 
-[^1301]: En la transcripción de Colón de Larriátegui: \"Asimismo usando
+[^1303]: En la transcripción de Colón de Larriátegui: \"Asimismo usando
     de su Real benignidad\...\"
 
-[^1302]: \"Y ha declarado S.M.\" Colón de Larriátegui, *Juzgado
+[^1304]: \"Y ha declarado S.M.\" Colón de Larriátegui, *Juzgado
     militares*.
 
-[^1303]: Hasta aquí cédula copiada por Colón de Larriátegui.
+[^1305]: Hasta aquí cédula copiada por Colón de Larriátegui.
 
-[^1304]: *Diccionario de Autoridades*: "El peso que lleva, o puede
+[^1306]: *Diccionario de Autoridades*: "El peso que lleva, o puede
     llevar sobre sí el hombre o la béstia, transportándole de una parte
     a otra, como tambien el carro o la nave."
 
-[^1305]: *Diccionario de Autoridades*: "Lio grande de ropa, mui ajustada
+[^1307]: *Diccionario de Autoridades*: "Lio grande de ropa, mui ajustada
     y apretada, para poder llevarla de una parte a otra, lo que se hace
     regularmente con las mercadurías que se han de transportar, y se
     cubre con harpillera o lienzo embreado o encerado, para que no se
     maltraten con los temporales."
 
-[^1306]: *Diccionario de Autoridades*: "Especie de fardo, que es mayor o
+[^1308]: *Diccionario de Autoridades*: "Especie de fardo, que es mayor o
     menor que los regulares de dos en carga. Es término del Comercio
     marítimo."
 
-[^1307]: *Diccionario de Autoridades*: "La caxa grande, que clavada la
+[^1309]: *Diccionario de Autoridades*: "La caxa grande, que clavada la
     tapa con sus clavos al rededor, sirve para llevar de unas partes a
     otras los géneros y cosas con seguridad, sin que se lastimen, ni
     registren, por los que las condúcen."
 
-[^1308]: *Diccionario de Autoridades*: "Especie de arca hecha de cueros
+[^1310]: *Diccionario de Autoridades*: "Especie de arca hecha de cueros
     o pellejos fuertes, o de madera cubierta de ellos."
