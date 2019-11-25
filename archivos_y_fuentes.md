@@ -10,7 +10,7 @@ Sección colonia, fondo judicial, civil y criminal.
 
 ***Archivo General de Indias (Sevilla)***
 
-Audiencia de Caracas, 81, 82, 86, 87, 113, 418, 421, 425, 470.
+Audiencia de Caracas, 81, 82, 86, 87, 113, 418, 421, 425, 426, 427, 470.
 
 Audiencia de Lima, 691.
 
@@ -21,7 +21,7 @@ Audiencia de Quito, 105, 358, 398.
 Audiencia de Santa Fe, 193, 265, 546, 547, 548, 572, 575, 577B, 594,
 682, 940, 1200.
 
-Estado, 52, 53, 55, 56A.
+Estado, 52, 53, 55, 56A, 71.
 
 Indiferente general, 415, 429, 430, 538 YY10 - YY11, 3025.
 
@@ -43,14 +43,14 @@ Sección colonia:
 >
 > Historia eclesiástica, tomo 4.
 >
-> Juicios criminales, tomos 2, 6, 34, 40, 49, 54, 58, 63, 64, 67, 68,
-> 75, 76, 87, 90, 102, 103, 106, 113, 114, 129, 130, 131, 134, 135, 136,
-> 138, 139, 148, 157, 163, 170, 176, 198, 205, 216, 217.
+> Juicios criminales, tomos 2, 6, 10, 34, 40, 49, 54, 58, 63, 64, 67,
+> 68, 75, 76, 87, 90, 94, 102, 103, 105, 106, 113, 114, 129, 130, 131,
+> 134, 135, 136, 138, 139, 148, 157, 163, 170, 176, 198, 205, 216, 217.
 >
-> Milicias y marina, tomos 4, 11, 16, 19, 35, 50, 53, 72, 89, 99, 100,
-> 123, 125.
+> Milicias y marina, tomos 4, 6, 11, 16, 19, 35, 50, 53, 72, 89, 99,
+> 100, 123, 125.
 >
-> Miscelánea, tomos 2, 10, 59, 74, 95, 112.
+> Miscelánea, tomos 2, 10, 59, 74, 95, 112, 122.
 >
 > Negros y esclavos:
 >
@@ -83,6 +83,8 @@ Virreyes, tomo 1.
 Sección archivo anexo:
 
 Bulas de Cruzada, 43.
+
+Historia, 4.
 
 Justicia, tomo 6.
 
@@ -134,7 +136,7 @@ Fondo I, vol. 4.
 
 ***Biblioteca Luis Ángel Arango (Bogotá)***
 
-Sala de libros raros y manuscritos, MSS756.
+Sala de libros raros y manuscritos, MSS053, MSS054, MSS756.
 
 ***Biblioteca Nacional de Colombia (Bogotá)***
 
