@@ -35,12 +35,13 @@ Contenido {#contenido .TtulodeTDC}
 =============================================
 
 [[Bosquejo sobre la historiografía del perdón y la paz]{.underline}
-10](#bosquejo-sobre-la-historiografía-del-perdón-y-la-paz)
+11](#bosquejo-sobre-la-historiografía-del-perdón-y-la-paz)
 
-[[Contexto jurisdiccional]{.underline} 16](#contexto-jurisdiccional)
+[[Contexto jurisdiccional]{.underline} 17](#contexto-jurisdiccional)
 
-[[Fuentes y estructura del trabajo]{.underline}
-24](#fuentes-y-estructura-del-trabajo)
+[[Fuentes]{.underline} 24](#fuentes)
+
+[[Estructura del capitulado]{.underline} 28](#estructura-del-capitulado)
 
 [[Capítulo I. La clemencia en el gobierno de la virtud]{.underline} 34](#_Toc23245301) {#capítulo-i.-la-clemencia-en-el-gobierno-de-la-virtud-34 .TDC1}
 ======================================================================================
@@ -174,38 +175,42 @@ Guipuzcoana]{.underline}
 [[Capítulo V. Entre el perdón y la obediencia]{.underline} 295](#capítulo-v.-entre-el-perdón-y-la-obediencia) {#capítulo-v.-entre-el-perdón-y-la-obediencia-295 .TDC1}
 =============================================================================================================
 
-[[5.1.]{.underline} [El perdón y la rebelión de los comuneros de
+[[5.1.]{.underline} [La rebelión de los barrios de Quito: el perdón y la
+represión frustrada.]{.underline}
+301](#la-rebelión-de-los-barrios-de-quito-el-perdón-y-la-represión-frustrada.)
+
+[[5.2.]{.underline} [El perdón y la rebelión de los comuneros de
 1781]{.underline}
 310](#el-perdón-y-la-rebelión-de-los-comuneros-de-1781)
 
-[[5.1.1.]{.underline} [El perdón general de 1782]{.underline}
+[[5.2.1.]{.underline} [El perdón general de 1782]{.underline}
 322](#el-perdón-general-de-1782)
 
-[[5.1.2.]{.underline} [Los "comuneros" de las provincias]{.underline}
+[[5.2.2.]{.underline} [Los "comuneros" de las provincias]{.underline}
 332](#los-comuneros-de-las-provincias)
 
-[[5.2.]{.underline} [Las conspiraciones de fin de siglo]{.underline}
-**¡Error! Marcador no definido.**](#_Toc24841760)
+[[5.1.]{.underline} [El temor a la conspiración]{.underline}
+345](#el-temor-a-la-conspiración)
 
-[[5.3.]{.underline} [El indulto general de Amar y Borbón]{.underline}
-351](#el-indulto-general-de-amar-y-borbón)
+[[5.2.]{.underline} [El indulto general de Amar y Borbón]{.underline}
+360](#el-indulto-general-de-amar-y-borbón)
 
-[[Consideraciones finales]{.underline} 356](#consideraciones-finales-4)
+[[Consideraciones finales]{.underline} 366](#consideraciones-finales-4)
 
-[[Conclusiones]{.underline} 358](#conclusiones) {#conclusiones-358 .TDC1}
-===============================================
+[[Conclusiones generales]{.underline} 370](#conclusiones-generales) {#conclusiones-generales-370 .TDC1}
+===================================================================
 
-[[Anexo documental]{.underline} 359](#anexo-documental) {#anexo-documental-359 .TDC1}
+[[Anexo documental]{.underline} 378](#anexo-documental) {#anexo-documental-378 .TDC1}
 =======================================================
 
-[[Referencias]{.underline} 408](#referencias) {#referencias-408 .TDC1}
+[[Referencias]{.underline} 427](#referencias) {#referencias-427 .TDC1}
 =============================================
 
 Tablas {#tablas .NoTOCtitulo1}
 ======
 
 [[Tabla 1. Indultos generales decretados entre 1707 y 1810.]{.underline}
-175](#_Toc23804856)
+175](#_Toc25790909)
 
 [[Tabla 2. Indultos a militares decretados entre 1746 y
 1808.]{.underline} 265](#_Ref23333284)
@@ -264,113 +269,111 @@ Anexos {#anexos .NoTOCtitulo1}
 ======
 
 [[Anexo 1. Indulto general de Felipe V dirigido al virrey y Audiencia de
-México (1707)]{.underline} 360](#_Toc24841679)
+México (1707)]{.underline} 379](#_Toc530310418)
 
 [[Anexo 2. Para que el Virrey de Nueva España y Gobernadores de aquel
 Reino, hagan publicar por bando lo resuelto por V. M. sobre que no se
 admitan a indulto las causas de ilícito comercio (1725)]{.underline}
-361](#_Toc24841680)
+380](#_Toc25790926)
 
 [[Anexo 3. Real Cédula facultando al Virrey para perdonar delitos
-(1739)]{.underline} 362](#_Toc530310421)
+(1739)]{.underline} 381](#_Toc530310421)
 
 [[Anexo 4. Perdón general del virrey Sebastián de Eslava a los soldados
-de Cartagena (1745)]{.underline} 363](#_Toc508001345)
+de Cartagena (1745)]{.underline} 382](#_Toc508001345)
 
 [[Anexo 5. Cedula de S. M. concediendo indulto general a todo género de
 personas, cuyos delitos no merezcan la pena ordinaria de muerte
-(1746)]{.underline} 364](#_Toc530310419)
+(1746)]{.underline} 383](#_Toc530310419)
 
 [[Anexo 6. Cédula de S. M. concediendo indulto general a todos los
 desertores de las tropas de tierra, armadas navales, y milicias
 regladas, que se presentaren dentro del término de tres meses siguientes
-a su publicación (1746)]{.underline} 366](#_Ref23839418)
+a su publicación (1746)]{.underline} 385](#_Ref23839418)
 
 [[Anexo 7. Indulto general de Carlos III con motivo de su exaltación al
-trono (1760) y recepción en Santa Fe]{.underline} 367](#_Ref23248640)
+trono (1760) y recepción en Santa Fe]{.underline} 386](#_Ref23248640)
 
 [[Anexo 8. Real cédula de indulto a desertores (1760)]{.underline}
-370](#_Toc24841686)
+389](#_Toc25790932)
 
 [[Anexo 9. Auto de obedecimiento de la cédula de indulto de Carlos III
 en la ciudad de Antioquia y villa de Medellín (1761)]{.underline}
-371](#_Ref23248550)
+390](#_Ref23248550)
 
 [[Anexo 10. Solicitud de indulto del procurador de menores de la ciudad
 de Antioquia a favor del negro bozal "Antonio" y aceptación por el
-alcalde ordinario (1761)]{.underline} 372](#_Ref23248582)
+alcalde ordinario (1761)]{.underline} 391](#_Ref23248582)
 
 [[Anexo 11. Ceremonia de perdón a los habitantes de los barrios de Quito
-(1765)]{.underline} 373](#_Ref24917749)
+(1765)]{.underline} 392](#_Ref24917749)
 
 [[Anexo 12. Representación de la tropa levantada en Panamá
-(1766)]{.underline} 376](#_Ref23248902)
+(1766)]{.underline} 395](#_Ref23248902)
 
 [[Anexo 13. Indulto a militares casados sin licencia (1766)]{.underline}
-378](#_Toc24841691)
+397](#_Toc25790937)
 
 [[Anexo 14. Orden de indulto para quienes estuvieran presos por varios
 delitos, con exclusión de los reos por crímenes de lesa majestad
-(1779)]{.underline} 378](#_Toc530310424)
+(1779)]{.underline} 397](#_Toc530310424)
 
 [[Anexo 15. Apartamiento de querella por precio (1780)]{.underline}
-380](#_Ref23247975)
+399](#_Ref23247975)
 
 [[Anexo 16. Real Cédula de indulto y perdón general a todos los reos,
 concedida por el nacimiento del príncipe don Carlos Domingo Eusebio
-(1780)]{.underline} 381](#_Toc530310425)
+(1780)]{.underline} 400](#_Toc530310425)
 
 [[Anexo 17. Edicto para manifestar al público el indulto general,
 concedido por nuestro Católico Monarca el Señor Don Carlos III a todos
 los comprehendidos en las revoluciones acaecidas en el año pasado de mil
-setecientos ochenta y uno (1782)]{.underline} 382](#_Ref23839744)
+setecientos ochenta y uno (1782)]{.underline} 401](#_Ref23839744)
 
 [[Anexo 18. Petición de indulto de Eugenio Poveda (1783)]{.underline}
-390](#_Ref23248853)
+409](#_Ref23248853)
 
 [[Anexo 19. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
 indulto que ha concedido a los compreendidos en las alteraciones pasadas
 y hace distintas reflexiones acalarando las razones que ha tenido para
 expedirlo en los términos que está (1783)]{.underline}
-391](#_Ref23839790)
+410](#_Ref23839790)
 
 [[Anexo 20. Real Decreto sobre indulto de militares procesados por
-varios delitos (1783)]{.underline} 394](#_Toc530310427)
+varios delitos (1783)]{.underline} 413](#_Toc530310427)
 
-[[Anexo 21. Indulto general (1784)]{.underline} 395](#_Toc530310428)
+[[Anexo 21. Indulto general (1784)]{.underline} 414](#_Toc530310428)
 
 [[Anexo 22. Real Cédula para que en los dominios de Indias e Islas
 Filipinas se observe lo resuelto sobre el conocimiento de causas de
 concubinato, y modo de impartir el auxilio el brazo seglar a los Jueces
-Eclesiásticos (1787)]{.underline} 396](#_Ref23248474)
+Eclesiásticos (1787)]{.underline} 415](#_Ref23248474)
 
 [[Anexo 23. Indulto de desertores (1789)]{.underline}
-398](#_Ref23839845)
+417](#_Ref23839845)
 
-[[Anexo 24. Real Decreto de Carlos IV sobre indulto a los desertores del
+[[Anexo 24. Indulto publicado a nombre del rey para los implicados en la
+conspiración de Gual y España (1797)]{.underline} 418](#_Ref25487426)
+
+[[Anexo 25. Real Decreto de Carlos IV sobre indulto a los desertores del
 ejército con motivo del matrimonio de su hijo Fernando
-(1802)]{.underline} 399](#_Toc530310430)
+(1802)]{.underline} 420](#_Toc530310430)
 
-[[Anexo 25. Indulto de la pena de privación de empleo a oficiales que se
+[[Anexo 26. Indulto de la pena de privación de empleo a oficiales que se
 hubieran casado sin el Real permiso (1802)]{.underline}
-400](#_Toc530310431)
+421](#_Toc530310431)
 
-[[Anexo 26. Real Cédula sobre indulto general concedido con motivo del
-matrimonio del Príncipe (1803)]{.underline} 401](#_Toc530310432)
+[[Anexo 27. Real Cédula sobre indulto general concedido con motivo del
+matrimonio del Príncipe (1803)]{.underline} 422](#_Toc530310432)
 
-[[Anexo 27. Indulto de desertores: decreto del gobierno peninsular al
-respecto (1804)]{.underline} 402](#_Toc530310433)
+[[Anexo 28. Indulto de desertores: decreto del gobierno peninsular al
+respecto (1804)]{.underline} 423](#_Toc530310433)
 
-[[Anexo 28. Indulto concedido por la Junta Suprema de Sevilla
-(1808)]{.underline} 403](#_Toc24841706)
-
-[[Anexo 29. Real Decreto de José Napoleón por el que se otorga el
-indulto general a los oficiales y soldados desertores que prestasen el
-juramento prescrito en la Constitución (1808)]{.underline}
-403](#_Toc530310434)
+[[Anexo 29. Indulto concedido por la Junta Suprema de Sevilla
+(1808)]{.underline} 424](#_Toc25790953)
 
 [[Anexo 30. Indulto promulgado por el virrey Antonio Amar y Borbón
-(1808)]{.underline} 405](#_Ref23839817)
+(1808)]{.underline} 424](#_Ref23839817)
 
 Abreviaturas
 ============
@@ -445,33 +448,33 @@ todavía tan "barroca" pero con ansias de reforma. Cada vez eran menos
 los procuradores que apelaban a las citas de los sabios para fortalecer
 sus argumentos, pero no por ello desaparecieron las paremias que
 apelaban a las verdades inmutables, el saber absoluto, la completa
-certeza. En el "siglo de las Luces" ya se habían desmenuzado estas
-fuentes grecorromanas, dispersado en incontables notas, glosas, citas y
+certeza. En el Siglo de las Luces estas fuentes grecorromanas se
+encontraban fragmentadas en incontables notas, glosas, citas y
 comentarios de obras teológicas, morales, jurídicas, políticas y
-lexicográficas. Cada argumento contaba con su autoridad, cada ley con su
-glosa, cada comentario con su ejemplo. El siglo XVII fue de una
-impresionante profusión de eruditos, escritores en romance y latín que
-se enorgullecían del enrevesado lenguaje que hoy saca de quicio al
-lector contemporáneo, desacostumbrado al florido circunloquio de
-entonces. La dinastía borbónica se establece en España para dar paso a
-un nuevo estilo, tanto de gobierno como de justicia. La "filosofía de
-moda", el empirismo, se asomaba tímidamente en los textos más
-interesados en la practicidad que en la "elevación", la moral y la
-virtud no se desechaban, pero las reformas se enfocarían en lo práctico,
-muy a tono con la idea del *Nuevo sistema de gobierno* de Campillo y
-Cossío.
+lexicográficas. Cada argumento contaba con su autoridad y cada ley con
+su comentario. El siglo XVII fue de una impresionante profusión de
+eruditos, escritores en romance y latín que se enorgullecían del
+enrevesado lenguaje que hoy saca de quicio al lector contemporáneo,
+desacostumbrado al florido circunloquio de entonces. La dinastía
+borbónica se establece en España para dar paso a un nuevo estilo, tanto
+de gobierno como de justicia. La "filosofía de moda", el empirismo, se
+asomaba tímidamente en los textos más interesados en la practicidad que
+en la "elevación", la moral y la virtud no se desechaban, pero las
+reformas se enfocarían en lo práctico, muy a tono con la idea del *Nuevo
+sistema de gobierno* de Campillo y Cossío.
 
 Estos pequeños trazos de erudición que exhibía el procurador no son otra
 cosa que la evidencia del interés por insertarse en la cultura jurídica
-de la época. La cita estaba copiada en un latín ilegible,[^3] ocultando
-el nombre del autor bajo el seudónimo del "ingenio del Parnaso", como se
-usaba para tantos otros autores en la tratadística del siglo XVI y XVII.
-Que se comprendiera el mensaje parece que no era tan importante como el
-hecho de insertar una frase latina, a imitación de los jueces letrados
-siempre dispuestos a demostrar su formación colegial. Deducir la fuente
-de la cual se sirvió el capitán Gálvez para tomar esos versos es una
-tarea imposible, sabemos que Solórzano la utiliza en su *Política*, pero
-no la certeza de que el autor de la súplica leyó directamente al
+de la época. La cita estaba copiada en un latín ilegible,[^3] algo que
+no era necesariamente extraño para la época, ocultando el nombre del
+autor bajo el seudónimo del "ingenio del Parnaso", como se usaba para
+tantos otros autores en la tratadística del siglo XVI y XVII. Que se
+comprendiera el mensaje parece que no era tan importante como el hecho
+de insertar una frase latina, a imitación de los jueces letrados siempre
+dispuestos a demostrar su formación colegial. Deducir la fuente de la
+cual se sirvió el capitán Gálvez para tomar esos versos es una tarea
+imposible, sabemos que Solórzano la utiliza en su *Política*, pero no
+tenemos la certeza de que el autor de la súplica leyó directamente al
 jurisprudente madrileño. Lo que sí se demuestra es la segmentación de
 los textos autoritativos, la transformación de extractos de obras en
 glosas que luego servirán como citas en los expedientes judiciales.
@@ -496,7 +499,7 @@ salvación del alma dependía del actuar con caridad, en pos de la equidad
 antes que de la venganza. El discurso jurídico-político del perdón era
 la oportunidad para que los diferentes estamentos de la monarquía
 pudiesen utilizar los enunciados del amor, la benevolencia, la gratitud
-y la piedad. No es prudente, sin embargo, sobreestimar este discurso,
+y la piedad. Sin embargo, no es prudente sobreestimar este discurso,
 pues el indulto servía también para disimular las faltas de los aliados,
 para obtener un beneficio de los reos al condicionar su perdón al
 servicio del rey, para "legalizar" las fugas de las precarias cárceles
@@ -540,7 +543,7 @@ perfecta era imitación del imperio celestial que irradiaba sabiduría,
 bondad, misericordia y justicia.[^10]
 
 Hablamos entonces de la clemencia como resultado de una emoción
-política, que tenía como objetivo la nación, sus instituciones y
+política, que tenía como objetivo la república, sus instituciones y
 abarcaba a toda una comunidad de habitantes de un espacio común.[^11]
 Siguiendo a la filósofa Martha Nussbaum, entendemos que la emocionalidad
 política se encontraba en diálogo permanente con las instituciones, y a
@@ -565,25 +568,25 @@ La clemencia, como el amor y otras virtudes y sentimientos políticos, no
 constituía una enunciación destinada exclusivamente a la reflexión
 moral, de hecho tenía un efecto normativo. No obstante, hay que
 comprender esta normatividad no en los términos de la legislación y
-policía contemporánea, sino más cercana a la aún vigente normatividad de
-la iglesia católica y su grey. Los fieles van a la iglesia los domingos
-pensando que es su obligación, realizan los actos y rituales que se les
-enseñaron desde temprana edad, e interiorizan el discurso y la dogmática
-que se les imparte en el púlpito. Un mínimo de fieles acudirán a la
-teología, la mayoría entenderá la compasión y piedad cristiana a su
-acomodo, pero finalmente comparten la idea de que no puede haber otra
-religión verdadera sino la propia. Del mismo modo, habría que comprender
-que la mayoría de los vasallos no reflexionaran o cuestionaran el
-discurso de la benevolencia y clemencia del rey. Demandar a los hombres
-y mujeres del siglo XVIII una sociedad sin un príncipe equivaldría a
-exigirles un mundo sin dios. Esto no implicaba que todo fuese obediencia
-ciega y celosa fidelidad, debemos acordar, siguiendo las enseñanzas de
-Lucien Febvre, que el espíritu de la época no favorecía la
-"incredulidad" en la monarquía como sistema político; aunque sería
-importante convenir con Bakhtin y prestar atención a la burla y la
-parodia como manifestaciones de una relación insolente con el orden
-tradicional.[^13] No estaban tan equivocados los pensadores del antiguo
-régimen cuando decían que el perdón excesivo era un premio a la
+política contemporánea, sino más cercana a la aún vigente normatividad
+de la iglesia católica y su grey. Los fieles van a la iglesia los
+domingos pensando que es su obligación, realizan los actos y rituales
+que se les enseñaron desde temprana edad, e interiorizan el discurso y
+la dogmática que se les imparte en el púlpito. Un mínimo de fieles
+acudirán a la teología, la mayoría entenderá la compasión y piedad
+cristiana a su acomodo, pero finalmente comparten la idea de que no
+puede haber otra religión verdadera sino la propia. Del mismo modo,
+habría que comprender que la mayoría de los vasallos no reflexionaran o
+cuestionaran el discurso de la benevolencia y clemencia del rey.
+Demandar a los hombres y mujeres del siglo XVIII una sociedad sin un
+príncipe equivaldría a exigirles un mundo sin dios. Esto no implicaba
+que todo fuese obediencia ciega y celosa fidelidad, debemos acordar,
+siguiendo las enseñanzas de Lucien Febvre, que el espíritu de la época
+no favorecía la "incredulidad" en la monarquía como sistema político;
+aunque sería importante convenir con Bakhtin y prestar atención a la
+burla y la parodia como manifestaciones de una relación insolente con el
+orden tradicional.[^13] No estaban tan equivocados los pensadores del
+antiguo régimen cuando decían que el perdón excesivo era un premio a la
 insolencia, pues así como el fiel acude el domingo al templo buscando la
 remisión de los pecados cometidos en la semana sin pasar por el
 confesionario, el vasallo esperaba que en algún momento la benevolencia
@@ -616,21 +619,40 @@ parte ofendida, la visita de cárcel y el asilo en sagrado reconocen
 origen y efectos diversos; tanto que, de haber encarado el tema desde
 una perspectiva puramente teórica, probablemente nunca se nos hubiese
 ocurrido asociarlas".[^18] En efecto, durante el desarrollo de este
-proyecto quedó cada vez más claro que aunque la exploración de la
+proyecto, quedó cada vez más claro que aunque la exploración de la
 cultura de la clemencia y el perdón era fundamental para recuperar la
 lógica de la justicia del antiguo régimen, solamente con la exploración
-de los expedientes judiciales y los documentos de gobierno sería posible
-comprender la complejidad de la práctica del perdón. La cédula de perdón
-por sí misma no era garantía de perdón, su promulgación no abría las
-puertas de las cárceles ni liberaba automáticamente a los reos de sus
-prisiones. El presentarse para ser beneficiado por la gracia real no
-representaba una garantía de libertad, era necesario determinar si ser
-estaba incluido en la misericordia, si lo había hecho a tiempo, o si
+de los expedientes judiciales y los documentos de gobierno no sería
+posible comprender la complejidad de la práctica del perdón. La cédula
+de perdón por sí misma no era garantía de perdón, su promulgación no
+abría las puertas de las cárceles ni liberaba automáticamente a los reos
+de sus prisiones. El presentarse para ser beneficiado por la gracia real
+no representaba una garantía de libertad, era necesario determinar si
+ser estaba incluido en la misericordia, si lo había hecho a tiempo, o si
 existía un impedimento que afectara la vindicta pública o privada. No
 fueron pocos los casos en los que rogar por el indulto conllevaba el
 reinicio de un proceso inconcluso o dudoso, aunque para tantos otros
 representó la posibilidad de finiquitar un expediente de duración
 indeterminada.
+
+La justicia y el gobierno se pueden distinguir sencillamente. La primera
+tiene que ver con aquellos actos en los que se intentan corregir
+agravios en los que hay parte afectada, ya sea una persona privada o la
+misma república. El gobierno constituye aquellas acciones que pretendían
+mantener y restaurar el orden de la república, en términos muy amplios
+consistía en mantener la paz. El perdón, en términos estrictos, no era
+un acto de justicia ni gobierno sino de gracia, acciones que surgían de
+la mera voluntad del monarca, entendida esta como el deseo y la
+capacidad de otorgar concesiones a una persona o grupo que no están
+definidas en derecho y privilegio. No obstante, el perdón se concretaba
+en la justicia al evitar o eliminar la pena y lo hacía en el gobierno al
+suspender la mano ejecutiva para favorecer la paz. En ambos casos, la
+lógica primigenia consiste en la restauración del vasallaje mediante un
+acto propio de la majestad de la Corona, ya sea porque surja de su
+clemencia o en reacción al arrepentimiento del súbdito. En esta tesis
+veremos que el acto de perdón y su cumplimiento implicaba una mayor
+complejidad, que difícilmente podría entenderse siguiendo al pie de la
+letra el guión de la doctrina.
 
 Claramente había una convención que asociaba justicia y clemencia. En el
 *Panegírico* de Plinio el Joven se decía: "yerran algunos en diferenciar
@@ -723,6 +745,65 @@ Asimismo, es bastante diciente que instituciones borbónicas como las
 Secretarías de Estado, las Intendencias y los Regentes, estuvieran
 desprovistas de la facultad de perdonar.
 
+La hipótesis que pretendemos argumentar en esta tesis considera que el
+perdón estaba estrechamente ligado a la fortaleza de la persona regia.
+Fortaleza en términos simbólicos, pero asimismo con respecto a su
+autoridad y potestad con respecto a una república de vasallos, que en
+América estuvo tradicionalmente dividida en las dos categorías
+amplísimas de españoles e indios. Nuestra idea es que el perdón era
+efectivo, es decir, cumplía con la promesa de impunidad de los culpables
+y mantenía la paz, donde la persona del rey gozaba de mayor respeto. Al
+contrario, entre aquellos habitantes para quienes el monarca no
+representaba una posibilidad de castigo ni una necesidad de obediencia,
+el perdón gozaba de mayor atracción. En esos términos, consideramos que
+el poder político radicaba en la capacidad de castigar con rigor, por lo
+que el temor a la justicia era la garantía del perdón. De esta manera,
+la oferta y cumplimiento de la promesa de impunidad puede funcionar como
+una variable que permite, hasta cierto punto, acercarnos a la potestad
+efectiva del rey entre los habitantes americanos, incluso más que con el
+castigo, que en muchas ocasiones era más un resultado de la
+desesperación que de la prudencia.
+
+Esta hipótesis general bien podría ponerse a prueba en cualquier
+jurisdicción de Indias, pero el Nuevo Reino de Granada cumple con
+ciertas particularidades que hacen de de éste ámbito un espacio
+ciertamente útil para validar o refutar nuestro presupuesto. En primer
+lugar, una razón obvia consiste en ser el primer virreinato borbón, el
+tercero americano tras dos siglos de dominio hispano en Indias. Este es
+por tanto un virreinato reformado, heredero de la tradición virreinal
+habsbúrgica, pero con una figura virreinal sumamente disminuida con
+respecto a sus predecesores. El virrey de Santa Fe tenía menor prestigio
+que el de Lima y México, y además estaba en términos prácticos subyugado
+a la Audiencia. Con excepción del arzobispo-virrey Caballero y Góngora,
+quien gozaba del mayor favor del ministro de Indias, el famoso José de
+Gálvez, casi todos quienes ocuparon dicho empleo tuvieron que negociar
+en una posición desfavorable frente al cuerpo de oidores. En conjunto,
+las provincias del virreinato conformaban una región relativamente
+pacífica aunque sumamente desordenada. Con una frontera que en la época
+era inconmensurable, la imposición del dominio se limitaba a las
+ciudades y pueblos que se establecieron progresivamente desde el siglo
+XVI. Esta configuración constituye un espacio interesante para evaluar
+la fuerza de la autoridad de rey, y por ende del uso y cumplimiento del
+perdón, en la justicia y el gobierno en comparación entre las regiones
+desordenadas y las ordenadas, así como entre los vasallos obedientes y
+desobedientes.
+
+El perdón nos ha servido como un hilo de Ariadna para seguir los
+diferentes procesos de cambio y reforma de la monarquía hispana durante
+el siglo XVIII. De hecho, fue necesario excluir ciertos caminos que
+harían inacabable nuestra investigación, en particular el papel del
+indulto en el contexto de la reforma del fuero militar, del perdón en el
+ámbito del pleito civil (en especial las causas por deudas) y de las
+reformas fiscales, así como un análisis con mayor profundidad de la
+relación entre la clemencia y el rigor enfrentadas con la jurisdicción
+eclesiástica. Muchas de las innovaciones no han sido exploradas a
+profundidad, pero es claro que la creación del modelo de secretarías de
+Estado y del despacho, de Capitanías Generales, así como reformas al
+interior de las audiencias, como la creación de salas del crimen o el
+añadir la función de procurador de indios y pobres a los fiscales,
+tuvieron implicaciones de cierta significancia en el uso y cumplimiento
+del perdón.
+
 Nuestra investigación pretende explorar esa "cara oculta" de la justicia
 y el gobierno de la monarquía hispánica en el contexto de los proyectos
 y transformaciones que se llevaron a cabo en América, usando como
@@ -736,12 +817,13 @@ individuos dotados de jurisdicción, y aún más importante, que los
 sucesos de Tierra Firme sirvieron como campo de experiencia para tomar
 decisiones en las Cortes y Secretarías peninsulares. El presente trabajo
 se estructura a través de la evaluación del papel del perdón en la
-justicia y el gobierno del virreinato neogranadino, entendiendo que la
-remisión de los delitos era tanto un acto cultural como jurídico, ya que
-si bien la práctica y las cédulas reales definían en líneas generales el
-procedimiento judicial para conceder indultos, buena parte de la
-decisión radicaba en el arbitrio del juez, o del celo con el que
-quisiera preservar el orden y la autoridad real en su jurisdicción.
+justicia y el gobierno del virreinato neogranadino entre 1739 y 1808,
+entendiendo que la remisión de los delitos era tanto un acto cultural
+como jurídico, ya que si bien la práctica y las cédulas reales definían
+en líneas generales el procedimiento judicial para conceder indultos,
+buena parte de la decisión radicaba en el arbitrio del juez, o del celo
+con el que quisiera preservar el orden y la autoridad real en su
+jurisdicción.
 
 Bosquejo sobre la historiografía del perdón y la paz
 ----------------------------------------------------
@@ -775,7 +857,7 @@ de Inglaterra.[^30] Para Francia sería la historia cultural la que
 enfrentara el tema del perdón, siendo pionero el trabajo de Natalie
 Zemon Davis *Fiction in the Archives*, en el que se analizaron los
 textos de las *lettres de rémission* para encontrar su propia
-"ficcionalidad", es decir, como los impetrantes modificaban sus relatos
+"ficcionalidad", es decir, cómo los impetrantes modificaban sus relatos
 para mover a la misericordia al monarca.[^31] Otro trabajo de sumo
 impacto internacional fue *La confesión y el perdón* de Jean Delumeau,
 una exploración histórica del sacramento de la penitencia entre el siglo
@@ -817,13 +899,13 @@ como estados* plantea los fundamentos de una propuesta que ha sido
 compartida por investigadores de Portugal, España e Italia,[^36]
 resumida por António Manuel Hespanha en dos tópicos: 1) El orden
 jurídico del Antiguo Régimen tiene un carácter natural-tradicional en el
-cual el derecho es producto de una tradición literaria en la cual
-confluyen múltiples saberes normativos. 2) El control social no se
-garantiza desde un centro hacia la periferia, sino a través de un
-entramado de jurisdicciones, cada una encargada de mantener el orden en
-su distrito. En este sentido, el rey era el encargado de armonizar las
-jurisdicciones y de esa manera gobernar el imperio antes que un
-despachador solitario de leyes de obligatorio cumplimiento.[^37]
+cual el derecho es producto de una tradición literaria donde confluyen
+múltiples saberes normativos. 2) El control social no se garantiza desde
+un centro hacia la periferia, sino a través de un entramado de
+jurisdicciones, cada una encargada de mantener el orden en su distrito.
+En este sentido, antes que un despachador solitario de leyes de
+obligatorio cumplimiento, el rey era el encargado de armonizar las
+jurisdicciones y de esa manera gobernar el imperio.[^37]
 
 De particular interés para nuestra investigación han sido los trabajos
 que dan cuenta de la confluencia entre derecho y moral, es decir, de las
@@ -903,27 +985,27 @@ Ha sido la historiografía de la independencia, la evaluación de los
 procesos de construcción de soberanías nacionales entre 1808 y 1830 los
 que han insistido en la conexión entre la cultura política dieciochesca
 con la decimonónica, más allá de interpretaciones simplistas de resabios
-coloniales en las repúblicas, lo que se ha encontrado es la
+coloniales en las repúblicas. Lo que se ha encontrado es la
 resignificación del orden social en la que principios rectores del mundo
 monárquico se resemantizan, revitalizan o traducen, para dar sentido a
-un nuevo sistema político, el cual a su vez está creando ideas,
-conceptos, y narrativas. Es por ello que aunque esta investigación
-pretende ser un aporte modesto a la historiografía del antiguo régimen
-hispano, y en especial a la discusión sobre el "absolutismo reformista",
-pretende aportar a ese puente de la transición entre monarquía y
-república. En primer lugar, para evitar cargar con términos estatalistas
-a un sistema jurisdiccional y superar la idea de que el perdón del rey
-tenía prohibiciones, o que el virrey podía perdonar porque una ley de la
-*Recopilación de leyes de las Indias* así lo indicaba. En segundo lugar,
-para intentar superar el tropo negativo de los "rezagos" del orden
-monárquico en la república, un falso problema que conlleva a achacar
-deficiencias en la administración de justicia y del gobierno a la
-indecisión por erradicar las herencias de la monarquía. Y en tercer
-lugar para evitar el opuesto al punto anterior y pretender que los
-indultos y amnistías surgieron de la inventiva de los legisladores y
-presidentes decimonónicos, sin tener en cuenta la fuerza que la
-tradición jurídica del antiguo régimen tenía aún sobre la mentalidad de
-los gobernantes de la primera mitad del siglo XIX.
+un nuevo sistema político, el cual recíprocamente ha creado ideas,
+conceptos, y narrativas. Es por ello que aunque esta investigación es un
+aporte modesto a la historiografía del antiguo régimen hispano, y en
+especial a la discusión sobre el "absolutismo reformista", pretende
+contribuir a ese puente de la transición entre monarquía y república en
+al menos tres aspectos. En primer lugar, para evitar cargar con términos
+estatalistas a un sistema jurisdiccional y superar la idea de que el
+perdón del rey tenía prohibiciones, o que el virrey podía perdonar
+porque una ley de la *Recopilación de leyes de las Indias* así lo
+indicaba. En segundo lugar, para intentar superar el tropo negativo de
+los "rezagos" del orden monárquico en la república, un falso problema
+que conlleva a achacar deficiencias en la administración de justicia y
+del gobierno a la indecisión por erradicar las herencias de la
+monarquía. Y en tercer lugar para evitar el opuesto al punto anterior y
+pretender que los indultos y amnistías surgieron de la inventiva de los
+legisladores y presidentes decimonónicos, sin tener en cuenta la fuerza
+que la tradición jurídica del antiguo régimen tenía aún sobre la
+mentalidad de los gobernantes de la primera mitad del siglo XIX.
 
 Contexto jurisdiccional
 -----------------------
@@ -932,8 +1014,8 @@ La manera como el rey hacía llegar los efectos de su clemencia hasta el
 más alejado de sus vasallos era por medio del entramado jurisdiccional
 que constituía el aparato de gobierno y justicia de la monarquía
 hispánica. Un indulto que bien podría canalizarse a través de jueces
-ordinarios en los reinos peninsulares, debía pasar por en América por
-mano de virreyes, presidentes, Audiencias, gobernadores, y además por la
+ordinarios en los reinos peninsulares, debía pasar en América por mano
+de virreyes, presidentes, Audiencias, gobernadores, y además por la
 ambigua categoría de "demás jueces y justicias" de las Indias.[^53] Se
 parte del presupuesto que una de las características de los oficios en
 Indias era la flexibilidad, es decir, que a una misma persona se le
@@ -1000,7 +1082,7 @@ ningún remedio que se ha reconocido con la creación de Virrey".[^63] El
 ascenso de José Patiño significó el resurgimiento del proyecto
 reformista en América. Reconstruyó la mermada Armada y promovió reformas
 militares en Cartagena y Panamá, estableció un sistema de guardacostas
-para intentar mermar el contrabando, fundó la Compañía de Caracas para
+para intentar frenar el contrabando, fundó la Compañía de Caracas para
 motivar el comercio legal del cacao, y sentó las bases para el
 restablecimiento del virreinato del Nuevo Reino de Granada, esta vez con
 el apoyo de todas las fuerzas políticas de Madrid.[^64]
@@ -1039,7 +1121,7 @@ de manera similar a como lo hacían cuando eran Audiencia.[^69] Por otra
 parte, Venezuela representaba un espacio particular, ya que la
 jurisdicción virreinal incluía las provincias de Guayana, Cumaná y la de
 Maracaibo, pero el gobierno de la provincia de Caracas fue desligado en
-1742 de la influencia del virrey. El mapa 1 representa la configuración
+1742 de la influencia del virrey. El mapa 1 presenta la configuración
 del virreinato, previa a la creación de la Capitanía General de
 Venezuela, según la representación realizada por el fiscal Francisco
 Moreno y Escandón y el geógrafo José Aparicio Morata.[^70] Esta carta
@@ -1086,7 +1168,7 @@ un espacio sin reformar, la diferencia estuvo en que las autoridades en
 Santa Fe decidieron implementar las innovaciones fiscales y adelantar
 las modificaciones al régimen militar sin necesidad de modificar el
 modelo virreinal ya establecido. Aunque suele considerarse que la
-denominada "rebelión de los comuneros" fue el hecho que evitó la
+denominada "rebelión de los comuneros" de 1781 fue el hecho que evitó la
 implementación del régimen de Intendencias en el virreinato del Nuevo
 Reino, es más factible que la oposición del arzobispo-virrey Antonio
 Caballero y Góngora, sumada a la carga fiscal que implicaría el nombrar
@@ -1134,8 +1216,8 @@ jurisdiccional no estaría completa sin la intervención de los
 procuradores, protectores, fiscales y abogados que hacían parte integral
 de cada proceso judicial.[^85]
 
-Fuentes y estructura del trabajo
---------------------------------
+Fuentes
+-------
 
 Las fuentes que constituyen el corpus de este proyecto se pueden agrupar
 en doctrinales, normativo-legislativas, judiciales y de gobierno. Las
@@ -1241,24 +1323,23 @@ estos recursos en lugar de otros disponibles en línea (por ejemplo,
 *Google Books*) radica en el estar fundamentados en criterios como: una
 catalogación sometida a curaduría que permite confiar en la autoría,
 fecha y originalidad del recurso; que el documento digitalizado
-pertenezca a la biblioteca o archivo que lo publica en línea; lo cual
-conecta con el siguiente criterio, cual es una fuente clara y
-comprobable del libro, documento o mapa; y finalmente, que exista una
-explicación del proceso de digitalización y sobre todo de la fecha y
-versión del catálogo disponible en la actualidad. Con las bases de datos
-fue relevante que los datos estuvieran disponibles para su consulta y
-manipulación.[^89] El *portal de datos bibliográficos* de la Biblioteca
-Nacional de España (BNE), así como el *Thesaurus* del Consortium of
-European Research Libraries (CERL), fueron fundamentales para trazar las
-ediciones y reimpresiones de un libro o manuscrito, así como las obras
-asociadas a un autor particular, e incluso desambiguar la posible
-autoría de un texto. El *diccionario biográfico español* de la Real
-Academia de Historia (RAH) también constituyó un instrumento de
-referencia permanente, sin duda más estable y confiable que Wikipedia.
-Sin duda, nuevos instrumentos para la consulta y uso de datos
-bibliográficos y prosopográficos serán fundamentales para el ejercicio
-de nuestra profesión en un futuro cercano, de allí la importancia de
-tomarlos con la seriedad requerida.
+pertenezca a la biblioteca o archivo que lo publica en línea; lo que
+facilita la identificación de una fuente clara y comprobable del libro,
+documento o mapa; y finalmente, que exista una explicación del proceso
+de digitalización y sobre todo de la fecha y versión del catálogo
+disponible en la actualidad. Con las bases de datos fue relevante que
+los datos estuvieran disponibles para su consulta y manipulación.[^89]
+El *portal de datos bibliográficos* de la Biblioteca Nacional de España
+(BNE), así como el *Thesaurus* del Consortium of European Research
+Libraries (CERL), fueron fundamentales para trazar las ediciones y
+reimpresiones de un libro o manuscrito, así como las obras asociadas a
+un autor particular, e incluso desambiguar la posible autoría de un
+texto. El *diccionario biográfico español* de la Real Academia de
+Historia (RAH) también constituyó un instrumento de referencia
+permanente. El surgimiento nuevos instrumentos para la consulta y uso de
+datos bibliográficos y prosopográficos serán fundamentales para el
+ejercicio de nuestra profesión en un futuro cercano, de allí la
+importancia de tomarlos con la seriedad requerida.
 
 Para el análisis de la información también fue muy importante el haber
 construido una base de datos con los documentos consultados en archivo,
@@ -1278,6 +1359,9 @@ avanzaba el análisis más detenido de las fuentes.[^91] Finalmente, fue
 la clásica heurística y hermenéutica de las fuentes la que permitió
 construir argumentos generales y específicos que son los que dan forma a
 esta tesis.[^92]
+
+Estructura del capitulado
+-------------------------
 
 El argumento del proyecto se estructura en cinco apartados. Los dos
 primeros capítulos comprenden los aspectos generales y teóricos del
@@ -1308,35 +1392,36 @@ por establecer una mayor formalidad de la mano de los indultos
 generales, de tal manera que los jueces no tuviesen que utilizar su
 arbitrio para decidir en justicia sobre los perdones.
 
-Del tercer al quinto capítulo se tratará la práctica de los indultos. Se
-optó por un enfoque jurisdiccional que va desde el indulto otorgado por
-el rey hasta aquellos que involucraban a las autoridades del reino. En
-el capítulo tercero se trata de los indultos generales y su uso para la
-remisión de crímenes comunes. Se divide en dos apartados, en el primero
-se toma el delito de homicidio como una muestra representativa de la
-criminalidad a nivel de la Real Audiencia de Santa Fe. En una segunda
-parte se analiza la aplicación diferenciada del perdón, relacionada con
-el concepto de privilegio, en tres casos: indígenas, viudas y esclavos.
-El cuarto capítulo se relaciona con el uso de la facultad virreinal para
-perdonar delitos, equiparable a la del monarca pero limitada a ser usada
-solamente en circunstancias excepcionales. También comprende tres
-partes, una dedicada a explicar el fundamento de la facultad virreinal
-para perdonar, la segunda relativa al uso particular de dicha facultad,
-y una tercera que explica los dos casos en los cuales se aplicó un
-indulto general expedido por el virrey del Nuevo Reino de Granada.
-Finalmente, el quinto capítulo da cuenta del perdón como instrumento
-para la restauración del orden, particularmente en el contexto de
-rebeliones, levantamientos y revueltas de nivel local y duración
-limitada. En este capítulo se hace un análisis paralelo con la Capitanía
-General de Venezuela en dos casos: la rebelión de los esclavos de Coro
-de 1795 y la conspiración de La Guaira de 1797. Estos eventos servirán
-para contrastar con el proceso de los pasquines sediciosos de Santa Fe
-de 1794 y el proceso a Antonio Nariño por la impresión clandestina de
-una traducción de "los derechos del hombre". Este capítulo termina con
-el análisis del uso del perdón durante la vigencia y disolución de la
-Junta Suprema de Quito de 1809, con el propósito de evaluar un posible
-nuevo escenario para el perdón que se extenderá hasta la conmoción
-revolucionaria de los años siguientes.
+Del tercero al quinto capítulo se tratará la práctica de los indultos.
+Se optó por un enfoque jurisdiccional que va desde el indulto otorgado
+por el rey hasta aquellos que involucraban a las autoridades del reino.
+En el capítulo tercero se trata de los indultos generales y su uso para
+la remisión de crímenes comunes. Se divide en dos apartados, en el
+primero se toma el delito de homicidio como una muestra representativa
+de la criminalidad a nivel de la Real Audiencia de Santa Fe. En una
+segunda parte se analiza la aplicación diferenciada del perdón,
+relacionada con el concepto de privilegio, en tres casos: indígenas,
+viudas y esclavos. El cuarto capítulo se relaciona con perdón en
+relación con el desorden, es decir, como un instrumento que se utilizó
+para intentar atraer al vasallaje a los indígenas rebeldes, cimarrones,
+"vagos y malentretenidos", desertores, contrabandistas, entre otros. En
+dicho apartado se notará la frustración de las autoridades encargadas de
+la pacificación, no sólo por utilizar el indulto como una salida
+necesaria al verse sobrepasados por las fuerzas irreductibles, sino
+principalmente porque los medios de benignidad no lograban el efecto
+esperado y los acuerdos por los cuales se llegaba al perdón eran
+frecuentemente incumplidos. En el capítulo quinto nos enfocamos más en
+el perdón con los vasallos en rebeldía, es decir, de aquellos sujetos
+que reconocían efectivamente la autoridad del rey e incluso demostraban
+su sumisión a las autoridades de la monarquía. A través de los ejemplos
+que mostraremos, pretendemos mostrar una dinámica en la que el perdón
+servía para reconciliar las ciudades y las repúblicas, pero que tenía
+tras de si un evidente sentimiento de miedo entre vasallos y
+autoridades. El perdón, entonces, nos ayudará a entender el interés del
+monarca de fortalecer su figura regia, establecer la ciega obediencia de
+los vasallos y, sobre todo, como a pesar de su práctica "imperfecta" era
+un instrumento fundamental de la majestad regia para garantizar la paz
+entre el rey y la república.
 
 Difícilmente se podría catalogar este trabajo como una obra completa,
 son muchos los aspectos del perdón que se han dejado de lado con el
@@ -1347,7 +1432,7 @@ archivo no sólo contribuyó a disipar las dudas, además nos enfrentó con
 un problema cada vez más complejo cuyas ramificaciones son al día de hoy
 desconocidas. Esperamos que este texto sea un aporte modesto a la
 discusión sobre la parte blanda del poder, tan o más importante para
-garantizar la soberanía de los gobiernos que las demostraciones de
+garantizar la soberanía de los gobiernos como las demostraciones de
 fuerza.
 
 []{#_Ref17058020 .anchor}Mapa 1. "Plan geográfico del virreinato" (1772)
@@ -2998,7 +3083,7 @@ Consideraciones finales
 
 En los albores de la crisis monárquica de 1808 la clemencia permanecía
 incólume como adorno del "cúmulo de virtudes" del soberano español,
-perdonando las pequeñas faltas y castigando las más graves. Esta
+quien perdonaba las pequeñas faltas y castigaba las más graves. Esta
 consideración de un príncipe de innata misericordia, cuya potestad se
 había originado en el misterio divino, fundamentaba la legitimidad del
 orden tradicionalista, de tal modo que cualquier otro gobierno decaería
@@ -3023,13 +3108,13 @@ pues el indulto fue consecuencia de su victoria y no al revés, la
 exigencia de perdón evidenció una aceptación de la rebeldía. Una clave
 para esta interpretación puede radicar en el fraile Finestrad, quien
 muchos años después trató de refutar cualquier duda de que el
-levantamiento de los comunes del Nuevo Reino fue una rebelión, diciendo
-que si no lo había sido "a qué fin solicitar con tanto desvelo el
-general indulto de la Majestad?".[^355] Tal vez había dificultades para
-el castigo, pero también era una realidad patente que el perdón era la
-mayor garantía jurídica para evitar un juicio posterior. Por esta razón,
-aceptar la culpabilidad en un delito mayor al cometido era mejor a tener
-que demostrar la inocencia en un tribunal.
+levantamiento de los comuneros del Nuevo Reino fue una rebelión,
+diciendo que si no lo había sido "a qué fin solicitar con tanto desvelo
+el general indulto de la Majestad?".[^355] Tal vez había dificultades
+para el castigo, pero también era una realidad patente que el perdón era
+la mayor garantía jurídica para evitar un juicio posterior. Por esta
+razón, aceptar la culpabilidad en un delito mayor al cometido era mejor
+a tener que demostrar la inocencia en un tribunal.
 
 De esta manera, el perdón evitaba un estado imposible para un servidor
 del rey: la separación del vasallo y su señor. Tal vez un soldado no
@@ -3403,16 +3488,16 @@ legislación* de Antonio Xavier Pérez y López, o el *Código y práctica
 criminal* de Vicente Vizcaíno. Por otro lado, obras que eran de suma
 utilidad para la práctica de los tribunales como la *Curia Philipica*
 gozaba de buen prestigio, también Solórzano y Castillo de Bovadilla eran
-autoridades del derecho indiano que no se consideraban refutadas o
-superadas. Nuevas obras vinieron a dar una visión más "moderna" de la
-legislación, caso de las *Instituciones del derecho civil* de Ignacio
-Jordán de Asso, la *Instrucción de escribanos* de Juan y Colom, o la
-afamada *Librería de escribanos* de José Febrero. Todos estos intentos
-por ordenar lo que en el siglo XVIII se percibía como una oscura
-confusión de decisiones antiguas y obsoletas, permite comprender con
-mayor detalle las implicaciones del perdón real más allá del puñado de
-leyes recopiladas. Eso será precisamente de lo que tratarán los
-siguientes cuatro apartados.
+autoridades del derecho que no se consideraban refutadas o superadas.
+Nuevas obras vinieron a dar una visión más "moderna" de la legislación,
+caso de las *Instituciones del derecho civil* de Ignacio Jordán de Asso,
+la *Instrucción de escribanos* de Juan y Colom, o la afamada *Librería
+de escribanos* de José Febrero. Todos estos intentos por ordenar lo que
+en el siglo XVIII se percibía como una oscura confusión de decisiones
+antiguas y obsoletas, permite comprender con mayor detalle las
+implicaciones del perdón real más allá del puñado de leyes recopiladas.
+Eso será precisamente de lo que tratarán los siguientes cuatro
+apartados.
 
 Perdón, indulto y restitución
 -----------------------------
@@ -6080,7 +6165,7 @@ número determinado de personas", y que antes de representar esto un
 beneficio al reino implicaría la reducción del "principal atributo de la
 soberanía, y el ejercicio de la Real clemencia".[^695]
 
-[]{#_Toc23804856 .anchor}Tabla 1. Indultos generales decretados entre
+[]{#_Toc25790909 .anchor}Tabla 1. Indultos generales decretados entre
 1707 y 1810.[^696]
 
 +-------------+-------------+-------------+-------------+-------------+
@@ -7889,7 +7974,7 @@ hallazgos es que esta moderación en la justicia penal no se evidencia
 solamente en las infrecuentes ejecuciones, también es claro que los
 escasos clamores por el perdón estuvieron asociados a la templanza de
 las sentencias. Es probable que si las sentencias a último suplicio
-hubiesen sido más frecuentes las peticiones de indulto fuesen más
+hubiesen sido más frecuentes, las peticiones de indulto fuesen más
 abundantes, pero esta carencia de impetraciones se debía también a la
 facilidad con la cual se podía evadir a la justicia. El que un hombre
 pudiese seguir con su vida durante más de dos décadas, tan sólo
@@ -10561,14 +10646,14 @@ organizara cualquier revolución. Obviamente, personajes como Nariño,
 Fermín de Vargas, o Francisco Miranda, Manuel Gual y José María España
 en Caracas, representaron voces que se manifestaron a favor de una
 transformación de la monarquía en república, pero no dejaban de ser
-deseos antes que proyectos que se pudieran desarrollar. El mismo Nariño
-tuvo que entregarse a las autoridades virreinales después de darse
-cuenta de que, a pesar del descontento general con la tasación, no había
-posibilidades de que los pueblos se organizaran en un ataque colectivo
-contra el gobierno monárquico.[^1093] No obstante, las autoridades
-virreinales estaban convencidas de que el descontento de los habitantes
-del Nuevo Reino era expresión de la deslealtad, de la carencia de
-vasallaje y, en general, de la desobediencia.
+deseos antes que proyectos que se pudieran concretar en una revolución.
+El mismo Nariño tuvo que entregarse a las autoridades virreinales
+después de darse cuenta de que, a pesar del descontento general con la
+tasación, no había posibilidades de que los pueblos se organizaran en un
+ataque colectivo contra el gobierno monárquico.[^1093] No obstante, las
+autoridades virreinales estaban convencidas de que el descontento de los
+habitantes del Nuevo Reino era expresión de la deslealtad, de la
+carencia de vasallaje y, en general, de la desobediencia.
 
 El desorden ya no sería asunto solamente de las fronteras. Después de la
 rebelión de los comuneros de 1781, en la que la misma ciudad de Santa Fe
@@ -12241,8 +12326,8 @@ cambiaron significativamente el panorama. En este tenor, las
 conspiraciones adquirieron un nuevo cariz, en el cual también estaba
 incluida la balanza entre la espada y la clemencia.
 
- El temor a la conspiración
----------------------------
+El temor a la conspiración
+--------------------------
 
 Después del perdón llega la calma, pero no la reconciliación. Las voces
 contrarias al indulto de Caballero y Góngora fueron claramente
@@ -12280,6 +12365,36 @@ disimulo con las actuaciones del pasado (la más grave, el asesinato del
 teniente de gobernador Ignacio Peredo en 1781) habría creado un espíritu
 de insubordinación, alimentado por la esperanza de la impunidad.[^1260]
 
+Contrasta esta actitud con la vista en la provincia de Coro, en la
+Capitanía General de Venezuela, donde un levantamiento de negros libres,
+esclavos e indios, fue castigado con extrema dureza.[^1261] El detonante
+consistió en una supuesta cédula de manumisión de esclavos y la
+exigencia de eliminar los derechos de alcabala para los indígenas y
+libres de color. El grupo de levantados alcanzó una cantidad de
+aproximadamente 350 individuos entre hombres y mujeres, quienes el 10 de
+mayo de 1795 atacaron las casas de algunos hacendados, asesinando a
+algunos e hiriendo a otros.[^1262] El día 12 se envió una comisión para
+negociar,[^1263] pero el teniente de Coro, Ramirez Valderrain, decidió
+responder con un cañonazo de metralla, mató a otros dos con tiros de
+pistola y él mismo asesinó a otro con un sable.[^1264] De inmediato
+inició la represión a los rebeldes. Para el día 14 el teniente ordenó
+que las escuadras que emprendieron la persecución llevaran un mensaje de
+perdón general a todos los que se rindieran y, en secreto, aprehendieran
+a las cabezas del motín. Según el relato del teniente, algunos de los
+rebeldes que se encontraban en el camino les pedían perdón antes de que
+los capturaran y al parecer eran dejados libres, pero con los muchos de
+los capturados se aplicaron ejecuciones sumarias por degollamiento y
+ajusticiamientos con pistolas.[^1265] De los negros capturados, 21
+fueron sentenciados a ser degollados y tres mujeres negras fueron
+sentenciadas a 200 azotes, regresadas a sus dueños con la condición de
+que deberían venderlas fuera de la jurisdicción en el plazo de dos
+meses. En el caso de los negros libres y los indios, se conmutó la pena
+capital ante la posibilidad de un levantamiento de sus compañeros. A
+cambio se les obligó al servicio de su majestad, a ración y sin sueldo
+por seis años para los negros y diez años para los indios. Al final del
+proceso sumario sólo dos esclavos fueron liberados y regresados a sus
+dueños.[^1266]
+
 Difícilmente podría considerarse que el virreinato permaneció en calma
 después de la rebelión de los comuneros, pero sí es evidente que había
 retornado a su turbulenta normalidad. Algunas manifestaciones
@@ -12295,13 +12410,13 @@ merecedor del empleo. Su reclamo le representó pasar casi ocho años en
 el presidio de Cartagena, hasta que el Consejo de Indias determinó que
 si bien sus ataques y ofensas a los cabildos y autoridades del rey no
 eran justificados, ya había pasado suficiente tiempo en el destierro y
-la prisión como para considerarse purgadas sus faltas.[^1261] Por otra
+la prisión como para considerarse purgadas sus faltas.[^1267] Por otra
 parte, era evidente que se estaba generando cierto resentimiento entre
 los jóvenes notables de Santa Fe, quienes veían cada vez más difícil el
 acceder a los oficios de la república. Este fenómeno, que Víctor Manuel
 Uribe-Urán bautizó como "frustración burocrática", conllevó a que
 ciertas voces se levantaran contra el gobierno virreinal e incluso se
-manifestaran ciertos coqueteos con la revolución francesa.[^1262]
+manifestaran ciertos coqueteos con la revolución francesa.[^1268]
 
 En diciembre de 1793 Antonio Nariño tomó la imprudente iniciativa de
 imprimir cien copias de su traducción al español de *Los derechos del
@@ -12315,11 +12430,11 @@ de seis meses después de hecha la impresión, Joaquín de Umaña, un joven
 abogado tunjano, denunció ante la Real Audiencia la existencia de una
 camarilla secreta conformada por Nariño, entonces tesorero de diezmos,
 el abogado José Caicedo y Flórez y el hacendado José María Lozano y
-Peralta.[^1263] Esta denuncia se sumaba a la hecha en febrero contra los
+Peralta.[^1269] Esta denuncia se sumaba a la hecha en febrero contra los
 médicos Luis Rieux y Manuel Froes, por supuesta difusión de la
 Revolución Francesa y la constitución de Filadelfia; así como la hecha
 contra José María Cabal, por ser un asistente a las tertulias que se
-llevaban a cabo en la casa de Antonio Nariño.[^1264]
+llevaban a cabo en la casa de Antonio Nariño.[^1270]
 
 El punto de inflexión lo representó la aparición de unos "pasquines
 sediciosos" en los parajes públicos de Santa Fe el 19 de agosto de 1794.
@@ -12332,17 +12447,17 @@ denunció que en el Colegio de Santo Tomás se estaban llevando a cabo
 juntas para incitar la "total subversión" del reino. El 23 de agosto el
 comerciante español José Arellano informó al regente sobre los autores
 de los pasquines: los estudiantes José María Durán, Pablo José de Uribe
-y Luis Gómez.[^1265] Paradójicamente, Arellano fue posteriormente
+y Luis Gómez.[^1271] Paradójicamente, Arellano fue posteriormente
 vinculado al proceso acusado de no haber delatado la pasquinada antes de
 que sucediera, además de haberse tardado tres días para realizar la
-denuncia.[^1266] Inmediatamente se establecieron tres procesos para
+denuncia.[^1272] Inmediatamente se establecieron tres procesos para
 atacar la que se creía inminente sublevación, cada uno a cargo de un
 oidor. Uno se encargaría de investigar y castigar a los conspiradores,
 el segundo se enfocaría en la impresión y publicación de los derechos
 del hombre y el tercero en la fijación de los pasquines sediciosos.
 Rápidamente se apresaron a los sospechosos, se confiscaron bienes, se
 iniciaron los interrogatorios y la recepción de testimonios
-incriminatorios.[^1267]
+incriminatorios.[^1273]
 
 El procedimiento fue excepcional por su rapidez y el evidente interés en
 castigar rápidamente a los sospechosos. Uno de los actos que más
@@ -12353,14 +12468,14 @@ ratificarse en su confesión pero, como era de esperarse, no reveló
 ninguna conspiración. Los mismos estudiantes se quejaron ante el virrey
 de los procedimientos que contra ellos adelantaba el oidor Joaquín
 Inclán, incluido el haber atemorizado al procurador encargado de su
-defensa forzándolo a renunciar.[^1268] El temor del defensor de los
+defensa forzándolo a renunciar.[^1274] El temor del defensor de los
 estudiantes no era infundado. En 1795 el abogado defensor de Nariño,
 José Antonio Ricaurte, un antiguo agente fiscal de la Audiencia con
 treinta años de ejercicio de la abogacía, fue apresado por el alegato
-que presentó a favor de su apoderado.[^1269] Esto hizo que ningún
+que presentó a favor de su apoderado.[^1275] Esto hizo que ningún
 letrado se prestara para ejercer la defensa de Nariño, hasta que a
 regañadientes tuvo que ejercer este papel, con muy poco interés en
-enfrentarse a la Audiencia, el abogado José Ignacio San Miguel.[^1270]
+enfrentarse a la Audiencia, el abogado José Ignacio San Miguel.[^1276]
 
 A pesar del abrumador proceso adelantado por la Audiencia en los tres
 frentes, era claro que no había pruebas semiplenas que permitieran
@@ -12372,13 +12487,13 @@ de rebelión en la ciudad o las provincias, el virrey fue suavizando su
 opinión y consideró que era exagerado pensar que "unos pocos individuos
 fáciles e incautos" tuvieran la capacidad o los contactos necesarios
 para trastornar la tranquilidad del reino, mucho menos para emprender
-una revolución que derrocara la monarquía.[^1271] Hubo varios
+una revolución que derrocara la monarquía.[^1277] Hubo varios
 enfrentamientos entre el cabildo de Santa Fe y algunos criollos con los
 oidores y el regente, a quienes se les acusaba de actuar de manera
 imprudente, persiguiendo una sublevación inexistente que generaba
 zozobra entre los vasallos americanos, además de contribuir al
 resentimiento de los criollos al tildárseles de desleales e indignos de
-confianza.[^1272]
+confianza.[^1278]
 
 Claramente esta falta de evidencias que corroboraran las sospechas de
 una sublevación impedía que la Audiencia determinara el castigo de los
@@ -12393,23 +12508,23 @@ medio", por lo que debían remitirse a España todos aquellos "cuyos
 delitos mereciesen ser remediados más de cerca". Por otra parte, les
 advertía que era necesario que siguiesen atentos a cualquier otra
 manifestación de rebelión, "pues había agentes que moverían el proyecto,
-quando viesen que cesaban las averiguaciones".[^1273] Ya fuese porque
+quando viesen que cesaban las averiguaciones".[^1279] Ya fuese porque
 estaban convencidos del plan subversivo o debido a que los
 enfrentamientos con el cabildo hicieron de éstos procesos un conflicto
 de jurisdicciones y honores, la Audiencia siguió adelante con el
 proyecto de destierro de los supuestos conspiradores, el cual se
-completó entre los meses de julio y diciembre de 1795.[^1274]
+completó entre los meses de julio y diciembre de 1795.[^1280]
 
 El virrey Ezpeleta estaba convencido que la reacción contra los
 conspiradores había sido excesiva, incluso después de la aparición de
-otros pasquines en Tunja y en Quito.[^1275] A pesar de ello, no se
+otros pasquines en Tunja y en Quito.[^1281] A pesar de ello, no se
 enfrentó directamente con los oidores ni asumió una posición favorable
 hacia el cabildo santafereño. En cambio, optó por enviar solicitudes de
 clemencia al ministro Godoy para que suavizara sus órdenes. Una de estas
 incluyó la solicitud de perdón presentada por el arzobispo de Santa Fe
 al Real Acuerdo, súplica a la cual se unió el virrey "para inclinar el
 R*ea*l ánimo de S*u* M*ajestad* á la condonación ó perdón de los
-culpados".[^1276] El argumento del prelado se basó en el tiempo que los
+culpados".[^1282] El argumento del prelado se basó en el tiempo que los
 conspiradores llevaban presos, las edades de la mayoría de los
 implicados, su carácter y buenas inclinaciones, la ausencia de
 antecedentes y los méritos de sus "ascendientes o transversales" que
@@ -12426,7 +12541,7 @@ familiares, amigos, conocidos e incluso a muchos desconocidos. El
 prelado finalizaba su impetración con la afirmación de que el uso de la
 clemencia sería la mejor imagen de un monarca que actuaba a imitación
 del "dios de las misericordias" y por tanto tendría el mejor efecto en
-su autoridad sobre las provincias de Europa, África y Ultramar.[^1277]
+su autoridad sobre las provincias de Europa, África y Ultramar.[^1283]
 
 Tanto el arzobispo como el virrey tendían a la benevolencia en buena
 medida porque no se había descubierto ningún complot para desarrollar la
@@ -12434,36 +12549,106 @@ insurrección, pero era fundamental además su representación de los
 habitantes del Nuevo Reino, en particular de Santa Fe. Para el virrey,
 era evidente que las ideas revolucionarias provenían del exterior y que
 los complicados solamente habían sido jóvenes imprudentes, dignos de
-misericordia por su pobreza antes que del castigo por sus yerros.[^1278]
+misericordia por su pobreza antes que del castigo por sus yerros.[^1284]
 El arzobispo, por su parte, iniciaba sus reflexiones con el supuesto de
 "que las gentes de esta capital y sus provincias son en lo general
 apacibles, bien inclinadas, advertidas, dóciles, devotas, y sumisas y
-fieles a sus soberanos y ministros".[^1279] Ezpeleta consideraba que
+fieles a sus soberanos y ministros".[^1285] Ezpeleta consideraba que
 podría modificar los posibles sentimientos de revolución mediante el
 envío predicadores para que con "prudencia y suavidad" recogieran los
 papeles sediciosos, así nacionales como extranjeros, y se convenciera a
 los vasallos del Nuevo Reino de la fidelidad al monarca y la necesaria
-contribución fiscal para el beneficio de la causa pública.[^1280]
+contribución fiscal para el beneficio de la causa pública.[^1286]
 
-La Audiencia y otros españoles europeos no sentían la misma
-condescendencia con los implicados en las conspiraciones. De hecho, en
-algunas cartas anónimas se hacía manifiesto el temor de que Santa Fe se
-hubiese convertido en un "segundo París", así como la alegría de que se
-hubiese capturado y estuviesen listos para castigarse a los
-conspiradores. En una de ellas incluso se dejó consignado que esperaban
-hubiese "una carnicería grande contra los alzados", quienes, según este
-"europeo de las montañas de Asturias", se estaban preparando para
-degollar a todos los chapetones.[^1281] Claramente estas eran
-expresiones exageradas, pero no dejan de ser manifestaciones de la
-desconfianza y el odio común entre americanos y "chapetones". No
-obstante, por el lado del ministro Godoy la razón por la cual ordenó el
-uso del rigor como medio privilegiado para tratar estos casos podría
-haberse debido a la situación que se vivía en Madrid. El nuevo ministro
-enfrentó desde casi el inicio de su gobierno una serie de ataques a su
-cargo, primero por el conde de Aranda en febrero de 1794, quien realizó
-una airada crítica en su contra en el Consejo de Estado, la cual le
-valió el destierro. Posteriormente, el conde de Teba leyó un discurso en
-la Academia de la Historia que atacaba la opresión que vivía la nobleza
+La pregunta que surge es ¿por qué Ezpeleta no utilizó de sus facultades
+para perdonar a los implicados en la conspiración? La respuesta exacta a
+esta cuestión es desconocida. Pero sabemos que el virrey les prometió,
+por lo menos a los estudiantes, que intermediaría para conseguir el
+perdón del rey. El curador de Pablo José Uribe, el procurador de número
+Luis de Ovalle, le escribió al virrey en abril de 1795 para recordarle
+que él le había manifestado a Uribe que buscaría el indulto con el rey,
+"asegurándole despues de haber conocido las circunstancias del suceso,
+que haría q*uan*tos esfuerzos le fueran posibles p*ar*a q*u*e se
+perdonase aq*ue*l yerro".[^1287] Al parecer esta promesa la habría hecho
+desde el año anterior y, según el procurador, se esperaba que la
+decisión llegara en el correo del 19 de febrero. Al no recibir ninguna
+mención del indulto, Ovalle optó por solicitar directamente la gracia
+con el virrey, apelando a las facultades que tenía concedidas, teniendo
+en cuenta que sus antecesores, Flórez y Caballero y Góngora, habían
+indultado a los comuneros por haber cometido delitos de mayor gravedad.
+Una petición similar la realizó Juan José Caballero, procurador de
+número encargado de la defensa de José María Durán, argumentando
+asimismo que si los virreyes anteriores habían perdonado a los
+sublevados del Socorro, bien podría hacerlo Ezpeleta con estos que
+apenas habían sido "pasquinistas". La conclusión de la impetración hecha
+por Caballero pretendía dar tranquilidad al virrey para que concediera
+el perdón:
+
+> No tema V*uestra* E*xcelencia* q*u*e por dejar impune á mi parte se
+> corrompan los demás espíritus; su suerte no puede hacer otra cosa
+> q*u*e atemorisar, y dár al Reyno entero el ejemplo, el más funesto.
+> Borre V*uestra* E*xcelencia* su delito p*o*r el perdón, y anonade la
+> memoria del, haciendo nacer el amor y el reconocimiento, bolviendo un
+> hijo al seno de su desgraciada madre, un hermano á los brazos de sus
+> aflijidos hermanos, un pariente á toda su familia llorosa, y un
+> ciudadano á su amada patria, q*u*e ansiosa espera el termino de sus
+> desdichas. V*uestra* E*xcelencia* puede hacer feliz a mi parte con un
+> sola palabra; ella le granjeará los corazones de todos los hombres, y
+> recibirá además del Eterno la más justa recompensa, pues no solo
+> premiará las bondades de V*uestra* E*xcelencia*, sino también todas
+> las acciones de misericordia q*u*e su ejemplo producirá en los siglos
+> venideros.[^1288]
+
+El antecedente del perdón a los comuneros era fundamental en la
+argumentación de los procuradores, no sólo porque dejaba claro que el
+virrey podía perdonar, sino que ya lo había hecho con verdaderos
+sublevados. Por otra parte, los estudiantes eran dignos de clemencia por
+su adquirida condición de miserables, así como de sus tristes y viudas
+madres y acongojadas hermanas; si no había piedad para el imprudente
+hijo, debería haberla para su llorosa madre. Las ideas "clásicas" del
+perdón estaban expuestas en estas impetraciones, tanto por las
+justificaciones para el uso y merecimiento de la clemencia, como en la
+concepción de una autoridad regia que se fortalece por la benevolencia y
+cuya simple amenaza del castigo, la posibilidad real de conducir a los
+reos al patíbulo, sería suficiente para atemorizar a los vasallos que en
+adelante pretendieran imitar a los sindicados.
+
+La respuesta a estos clamores no pudo ser más escueta: "No se le dio tal
+palabra \[de conceder el indulto ofrecido\], y es necesario esperar las
+resultas de esta causa".[^1289] El virrey sí preguntó por el perdón,
+pero solamente hasta octubre, y en ningún momento se dio una respuesta
+formal a esta consulta. Sin embargo, no hubo una petición formal de
+clemencia al rey. Ezpeleta no se atrevió a usar sus facultades y
+solicitar luego la ratificación del rey, posiblemente porque sabía que
+Godoy no estaba de acuerdo con aplicar la clemencia a los conspiradores
+y la Audiencia seguramente elevaría un pleito para evitar que el virrey
+indultara a los estudiantes. Parece que el objetivo de Ezpeleta
+consistía en evitar una confrontación adicional a la que se desarrollaba
+entre el cabildo y la Audiencia, por lo que siempre era cuidadoso en
+afirmar, antes de cualquier solicitud de benevolencia, que obedecía las
+decisiones del fiscal, de los oidores y, por supuesto, del rey.
+
+Por otra parte, es necesario añadir como elemento para temer el uso de
+la clemencia el clima de animadversión que se había generado entre
+"criollos" y "chapetones". En algunas cartas anónimas se hacía
+manifiesto el temor de que Santa Fe se hubiese convertido en un "segundo
+París", así como la alegría de que se hubiese capturado y estuviesen
+listos para castigarse a los conspiradores. En una de ellas incluso se
+dejó consignado que esperaban hubiese "una carnicería grande contra los
+alzados", quienes, según este "europeo de las montañas de Asturias", se
+estaban preparando para degollar a todos los chapetones.[^1290]
+Claramente estas eran expresiones exageradas, pero no dejan de ser
+manifestaciones de la desconfianza y el odio común entre españoles
+americanos y europeos.
+
+Por el lado del ministro Godoy, la razón por la cual ordenó el uso del
+rigor como medio privilegiado para tratar estos casos podría haberse
+debido a la situación que se vivía en Madrid. El nuevo ministro enfrentó
+desde casi el inicio de su gobierno una serie de ataques a su cargo,
+primero por el conde de Aranda en febrero de 1794, quien realizó una
+airada crítica en su contra en el Consejo de Estado, la cual le valió el
+destierro. Posteriormente, el conde de Teba leyó un discurso en la
+Academia de la Historia que atacaba la opresión que vivía la nobleza
 española, tanto en manos de Godoy como de la reina. Meses después, el
 italiano Alejandro Malaspina hizo suya las críticas de algunos grandes
 de España y las lanzó con cada vez mayor radicalidad contra el gobierno,
@@ -12473,10 +12658,10 @@ cierta moderación. En febrero de 1795 se descubrió un supuesto plan para
 iniciar una rebelión, un evento que se ha denominado como la
 Conspiración de San Blas, cuyo principal acusado fue Juan Picornell,
 quien posteriormente sería enviado a La Guaira donde ayudó a organizar
-la conspiración de Gual y España.[^1282] Rápidamente se capturaron los
+la conspiración de Gual y España.[^1291] Rápidamente se capturaron los
 implicados, se les adelantó juicio sin que fuese posible comprobar la
 intención de hacer una rebelión (probablemente sólo querían destituir a
-Godoy), y se les castigó con el exilio.[^1283]
+Godoy), y se les castigó con el exilio.[^1292]
 
 El destierro de los conspiradores hacia Cádiz parecía aliviar el temor a
 un subrepticio plan sedicioso, pero esta sensación no perduró por mucho
@@ -12490,15 +12675,188 @@ descontento que aparecían en su jurisdicción. En una carta le decía a
 Godoy: "Aunque en lo general de este reyno no se presente por ahora
 novedad alguna, que cause mayor cuidado en perjuicio de la tranquilidad
 pública, no dejan de aparecer señales de los descontentos, díscolos y
-perturbadores".[^1284] La opinión que tenía el virrey de los vasallos a
+perturbadores".[^1293] La opinión que tenía el virrey de los vasallos a
 su cargo no era condescendiente como la de Ezpeleta. Similar a la
 opinión que representó el marqués de Torre-Velarde, Mendinueta estaba
 convencido que los habitantes del Nuevo Reino se levantarían en
 cualquier momento. Decía, "ellos conservarán su aparente tranquilidad
 hasta que la ocasión les proporcione sacudir el suave yugo que los
-gobierna".[^1285] El descubrimiento de la conspiración de Gual y España
+gobierna".[^1294] El descubrimiento de la conspiración de Gual y España
 en Caracas no hizo sino agravar el temor a una sublevación de grandes
 dimensiones que acabara con el reino.
+
+La particularidad de la conspiración de Gual y España es que después de
+que fuera delatada al capitán general de Caracas, Pedro Carbonell, el
+Real Acuerdo de esa provincia decidió proclamar un indulto en nombre del
+rey que favorecería a los implicados, bajo la condición de que se
+entregaran voluntariamente y confesaran su participación en la
+conjuración. La iniciativa para promulgar esta gracia provino del obispo
+Juan Antonio Viana, quien le afirmó a Godoy que Patricio Ronan, uno de
+los implicados en la conspiración, se le había acercado a implorar el
+perdón, por lo que el prelado le solicitaba al ministro que se pudiera
+hacer extensiva la gracia a todos los implicados. Sin que se pasara la
+petición al Príncipe de la Paz, el Real Acuerdo aceptó la solicitud y
+publicó el indulto general el 20 de julio.[^1295] Al leer el texto del
+indulto (véase anexo 24) no se observa un llamado a la reconciliación,
+al contrario, es una recriminación a los "malintencionados" que
+pretendían "corromper" las costumbres, las leyes y ofender la religión,
+así como el llamado a que todo aquel que supiera algo sobre la
+conspiración o posible sublevación lo hiciera saber a las autoridades,
+so pena de muerte. De hecho, la única indicación de que dicho bando era
+un perdón estaba en la línea que rezaba, "al real nombre de su Magestad
+se ofrece al que se delatare ó delatare á otros el yndulto y gracia
+segun las circunstancias".[^1296]
+
+En total, 36 personas se presentaron para gozar de la gracia ofrecida
+por el Real Acuerdo de Caracas, 15 de los cuales fueron listados como
+pardos.[^1297] Lastimosamente para quienes se presentaron esperando
+salvarse de la prisión, el Real Acuerdo no tenía intenciones de aplicar
+la clemencia. Tras recibir las delaciones, los oidores dictaminaron que
+éstas solamente evidenciaban ser "diminutas, artificiosas y formadas
+solo para gozar a la sombra de ellas el yndulto concedido al Real nombre
+de Su Magestad".[^1298] Este no fue un cambio súbito de opinión del Real
+Acuerdo. A los tres días de su publicación, Patricio Ronan y otros tres
+hombres fueron los primeros en acogerse al perdón. De inmediato los
+oidores honorarios enviados a La Guaira le manifestaron al capitán
+general su deseo de proceder inmediatamente contra ellos para ponerlos
+en prisión y embargar sus bienes, pero temían que fuera muy pronto para
+esto y los demás implicados huyeran o, aún peor, levantaran la
+provincia. Consideraban que sería prudente esperar un tiempo para que se
+presentaran más personas y que entre tanto sería factible enviarlas a
+que se presentaran en Caracas con la excusa de que allá se les daría la
+ratificación de la gracia.[^1299] El Real Acuerdo determinó que todos
+los que fueran remitidos serían arrestados inmediatamente y se les
+exigiría que sus confesiones fueran extremadamente detalladas, con
+claridad de lugares, hora, días, así como los antecedentes que
+prepararon para las juntas.[^1300] Los oidores honorarios afirmaban que
+los sujetos presentados "no dicen todo lo que saben", por lo que sería
+necesario proceder con mayor insistencia para intentar conocer la
+conjura que subrepticiamente se estaba configurando en Venezuela.[^1301]
+
+Con certeza sabemos de dos pardos fueron incluidos en el indulto y
+liberados,[^1302] y otra docena de los listados por el Real Acuerdo no
+estuvieron incluidos en las remisiones de las embarcaciones que se
+dirigieron a Puerto Rico y Cádiz, ni en las sentencias condenatorias
+posteriores, por lo que puede suponerse que fueron incluidos en la
+gracia. Domingo Sánchez y Pedro Canivens lograron fugarse a Curaçao
+(donde probablemente se encontraban Picornell y Manuel Cortés
+Campomanes), aprovechando cierta confusión en el traslado que se
+realizaba hacia Puerto Rico.[^1303] Picornell, Cortés y Manuel Gual
+lograron evadir la persecución española. Este último murió en la isla de
+Trinidad, entonces bajo dominio inglés, en el año de 1800 por una
+enfermedad gastrointestinal.[^1304] José María España fue capturado
+nuevamente en abril de 1799, sometido a un intenso interrogatorio y
+rápidamente sentenciado a muerte y ejecutado en Caracas. La misma suerte
+la sufrieron poco después cuatro de sus cómplices, en tanto a José
+Cordero, aunque acusado de ser uno de los líderes de la conspiración, le
+fue conmutada la pena de último suplicio por la de presidio en el
+castillo de La Habana.[^1305]
+
+En el exilio aquellos que se acogieron al indulto comenzaron a elevar
+súplicas para que se les ratificara la gracia. El 21 de noviembre Miguel
+Antonio Larruleta, Martín de Goenaga y Juan Joseph Mendiri se dirigieron
+directamente al rey a quien le argumentaron que su participación había
+sido completamente involuntaria pues fueron convocados por España a una
+de las reuniones y se opusieron a unirse a un proyecto de sedición.
+Afirmaron que si bien sufrían el castigo, tenían la satisfacción de
+"haver sido livertadores de la Patria, estorvando la Anarquia mas
+dolorosa y sangrienta que podía suceder", todo gracias a haberse
+presentado a delatar la conspiración.[^1306] Pocos días después,
+Patricio Ronan solicitó que se le permitiera pasar a la Corte para
+suplicar a su favor y poder explicar que su participación en la
+conspiración tuvo como propósito detenerla y no oponerse a la monarquía.
+Afirmó que llevaba consigo una carta de intermediación del obispo a su
+favor, pero que su embarcación fue atacada por ingleses y los papeles se
+perdieron en el mar.[^1307]
+
+Varias peticiones fueron realizadas para lograr la libertad de estos
+sindicados, como la ya reseñada petición de la esposa de Goenaga, doña
+Josefa Ramona de Gracián.[^1308] No obstante, sería hasta la ejecución
+de España y los demás implicados que se permitiría avanzar en la
+ejecución de la clemencia. El indulto que concedió el Real Acuerdo fue
+ratificado para Mendiri y Goenaga en 1802,[^1309] y del mismo modo se
+hizo para Juan Lartique de Condé en enero de 1803.[^1310] El 8 de junio
+de 1802 el rey dio la orden de que los reos que estaban en Puerto Rico
+fueran liberados por estar comprendidos en el real indulto, aunque con
+la condición de que no podrían reintegrarse a las provincias de
+Venezuela.[^1311] Para 1807 todavía estaban en prisión en España algunos
+de los indultados de Caracas, como Francisco Zinza, Martín Amador,
+Francisco Sánchez y Bonifacio Amercaray, aunque pronto recuperarían su
+libertad por haber cumplido con el tiempo de sus condenas.[^1312]
+
+En contraste, para los implicados en la conspiración de Santa Fe las
+peticiones de perdón no lograron la libertad de los reos. Luis Gómez,
+quien se encontraba recluido en el Peñón, contó con la intermediación
+del capitán general de la costa de Granada, quien apeló al "feliz parto
+de la infanta María Luisa", para solicitar que se indulta a Gómez del
+tiempo que le restaba de su condena. Nuevamente, el argumento consistió
+en su minoría de edad que lo hacía poco consciente del error que estaba
+cometiendo y las consecuencias a las que se estaba enfrentando.[^1313]
+Gómez ratificó posteriormente que él no fue causante sino víctima de
+Josef Arellano, quien le cortó su carrera de estudios en leyes; por lo
+que si la benignidad del rey lo permitía, él podría retomar sus estudios
+y hacerse útil al Estado.[^1314] La respuesta fue escueta: "no hay
+motivo de gracias".[^1315] Durán también aprovechó el parto de la
+infanta para impetrar indulto. Su solicitud fue un poco más elaborada
+que la de Gómez, e intentó demostrar no sólo que su participación fue
+marginal, sino que la reacción de la Audiencia fue exagerada pues los
+pasquines no motivaban la sublevación. El procurador de Durán resumía su
+argumento afirmando que "los autores de los pasquines no pudieron
+proponerse la subversión del Reino, y q*u*e su yerro no ha tenido
+consecuencia alguna perniciosa".[^1316] Lastimosamente para él, también
+se consideró que "quando haya un motivo de gracias, se podrá tener
+presente esta solicitud".[^1317] Finalmente, los estudiantes acusados de
+publicar los pasquines tuvieron que completar sus condenas. Luis Gómez
+alcanzó su libertad en 1804, en tanto Pablo José Uribe y José María
+Durán lo hicieron el año siguiente.[^1318]
+
+La mayoría de los que fueron enviados a España por sospecha de haber
+sido partícipes de la conspiración de Santa Fe fueron liberados en julio
+de 1799 y a muchos de ellos se les permitió regresar al Nuevo
+Reino.[^1319] Antonio Nariño, como fue mencionado en el inicio de este
+capítulo, logró escapar, pero luego se entregó a las autoridades del
+Nuevo Reino. Hacia 1800 el virrey Mendinueta, con el propósito de evitar
+el posible surgimiento de un sentimiento de animadversión entre las
+familias principales en amistad con Nariño, Ricaurte y Espinosa,
+solicitó al Consejo de Indias que ratificara la oferta de indulto que
+había solicitado el arzobispo y el virrey Ezpeleta. El Consejo consideró
+que el arrepentimiento de Nariño parecía sincero y que los medios suaves
+habían resultado en la tranquilidad del reino, por lo que se hacía
+conveniente aprobar el indulto y que se concediera un olvido de todo lo
+pasado, con la obvia advertencia de que habría una vigilancia estrecha
+sobre sus acciones y un castigo sumamente riguroso en caso de que
+retomaran la subversión. No obstante, el rey determinó que tenía por
+conveniente que los Nariño y los demás permanecieran en prisión y llamó
+la atención al virrey a quien le dijo que en adelante, en casos de esa
+gravedad, le consultara con arreglo a las leyes y evitara todos los
+medios de composición y gracia que tuviera a su arbitrio, "pues el
+hacerlo con mis vasallos criminales y dispensar el rigor de las penas,
+es el atributo más noble de la soberanía, que de modo alguno puede ni
+debe ejercer".[^1320]
+
+El exilio perpetuo para muchos de los implicados debió representar un
+castigo en extremo riguroso respecto a una mera insolencia universitaria
+o la curiosidad por una junta revolucionaria. El caso de Luis Gómez es
+bastante diciente, pues después de estarse forjando una carrera como
+abogado, que le había permitido ya obtener algún trabajo, estuvo forzado
+a quedarse en Madrid tratando de ganarse la vida en un oficio de letras,
+sin mayores contactos y con el deshonor resultante de haber sido
+castigado por participar en una sublevación.[^1321] Es evidente que las
+acciones de los oficiales reales fueron hasta cierta medida
+desproporcionadas, no tanto como en la represión de los rebeldes de Coro
+ni mucho menos, pero las acciones de los conspiradores no evidencian que
+se estuviera planeando una revolución, aunque existieran ciertas ideas
+de rebeldía que difícilmente se podían concretar en un levantamiento
+generalizado de la población. Los levantamientos locales mostraban que
+aún era mayor fuente de descontento las innovaciones fiscales que
+cualquier idea proveniente de la revolución francesa. Pero esto no niega
+que las autoridades pensaran que así era. El teniente de Coro justificó
+en buena medida sus acciones al afirmar que los rebeldes tenían como
+objetivo "matar todos los blancos, quitar la contribución de Reales
+derechos, apoderarse de todo lo de la ciudad y seguir de rito la Ley de
+los Franceses".[^1322] El temor de la revolución era suficiente para
+suspender la piedad y la simple sospecha retiraba de la monarquía su
+clemencia.
 
  El indulto general de Amar y Borbón
 ------------------------------------
@@ -12525,7 +12883,7 @@ No se puede negar que el indulto de Amar y Borbón se promulgó en una
 reos" que se acogieron al perdón real de 1808, aunque explica que las
 autoridades provinciales "tuvieron que aclarar que no habían recibido
 Real Orden ni providencia de indulto, lo que era obvio pues en ese
-momento España estaba siendo invadida por tropas francesas".[^1286] El
+momento España estaba siendo invadida por tropas francesas".[^1323] El
 que no se hubiese recibido la real cédula no era una obviedad, valga
 recordar que Carlos IV no decretó un indulto general tras su coronación,
 pero sí era algo de esperar teniendo en cuenta la importancia que
@@ -12538,25 +12896,25 @@ acogían al perdón que podía motivarse por la exaltación al trono de
 Fernando VII, ante lo cual dicho oficial suplicó en nombre de los reos
 por "la gracia que sea posible a beneficio de estos miserables"; es
 decir, no se acogió al indulto general sino impetró la remisión de los
-delitos con base en las facultades del título virreinal.[^1287] El
+delitos con base en las facultades del título virreinal.[^1324] El
 indulto finalmente sería obedecido en la sesión del cabildo de Medellín
-del 22 de noviembre de 1808.[^1288]
+del 22 de noviembre de 1808.[^1325]
 
 Por otra parte, el mismo virrey justificó el bando de indulto bajo el
 argumento de que era "práctica constantemente observada por nuestros
 católicos Monarcas en las ocaciones de su exaltación al trono la de
 conceder á sus amados vasallos, entre otras gracias y mercedes de
 perpetuo reconocimiento, y memoria de tan plausible suceso, yndulto ó
-remicion de los delitos".[^1289] Por ser la costumbre, Amar y Borbón
+remicion de los delitos".[^1326] Por ser la costumbre, Amar y Borbón
 aseguraba que la cédula de indulto general de seguro ya había sido
 promulgada, pero las "ocurrencias de la Metrópoli" no habían permitido
 que se recibiera en Santa Fe "semejante beneficio". En efecto, hubo un
 indulto general para los reos, rebeldes, y militares de América y
-España; pero tendrían que esperar hasta el año de 1817,[^1290] cuando
-las circunstancias fueron totalmente diferentes.[^1291] En los arribos
+España; pero tendrían que esperar hasta el año de 1817,[^1327] cuando
+las circunstancias fueron totalmente diferentes.[^1328] En los arribos
 de agosto de 1808 no hubo cédulas de indulto sino noticias de las
 abdicaciones de Bayona, los levantamientos en rechazo a José Bonaparte,
-y la formación de la autoproclamada Junta Suprema de Sevilla.[^1292]
+y la formación de la autoproclamada Junta Suprema de Sevilla.[^1329]
 
 El indulto de Amar y Borbón distaba mucho de ser un exhorto similar al
 proclamado por Caballero y Góngora en 1782. Servía en cambio como
@@ -12573,12 +12931,12 @@ Cartagena había sido recibida la comisión de la Junta Suprema en agosto
 de ese año, y que en ese mismo mes el coronel de la plaza de esa ciudad,
 teniente de rey Blas de Soria Santacruz, llamó a los desertores a
 prestar servicio en las armas del rey al haber sido indultados por dicha
-corporación.[^1293] La orden de publicar el indulto de la Junta Suprema
+corporación.[^1330] La orden de publicar el indulto de la Junta Suprema
 en las plazas y cabezas de partido de la provincia cartagenera sin haber
 elevado la consulta al virrey ni su autorización, hasta cierto punto
 muestran el descontento con la autoridad virreinal por parte de las
 élites de la ciudad, el cual se irá incrementando hasta desembocar en la
-rebelión de Cartagena de mayo de 1810.[^1294]
+rebelión de Cartagena de mayo de 1810.[^1331]
 
 Aunque los dos indultos estaban estrechamente conectados, las
 condiciones de su promulgación fueron completamente diferentes. En tanto
@@ -12586,7 +12944,7 @@ el indulto sevillano tiene el claro propósito de incrementar la
 conscripción para la guerra y de paso establecer su supremacía en la
 defensa de la soberanía fernandina, el perdón de Amar y Borbón fue una
 expresión de la adhesión del Nuevo Reino de Granada al gobierno de la
-Junta Suprema de Sevilla.[^1295] Sin embargo, el virrey no publicó el
+Junta Suprema de Sevilla.[^1332] Sin embargo, el virrey no publicó el
 indulto de la Junta sino decidió hacer el suyo propio con un proemio más
 extenso, en el cual dejaba claro que era su autoridad y clemencia la que
 le conminaba a expedir esta gracia, y siempre en "imitación" y "ejemplo"
@@ -12619,7 +12977,7 @@ presentarse ante su distrito militar y comenzar a servir nuevamente.
 Esta adición daba cierta claridad a los jueces para poder cumplir con la
 orden virreinal siguiendo los precedentes indultos de desertores, en
 particular el reproducido en el tomo cuarto de los *Juzgados militares
-de España y sus Indias* por Félix Colón de Larreátegui.[^1296]
+de España y sus Indias* por Félix Colón de Larreátegui.[^1333]
 
 Ni el indulto de Sevilla ni el de Santa Fe incluyen una graduación del
 indulto respecto a los militares de primera, segunda o tercera
@@ -12646,9 +13004,9 @@ y Borbón ya que restaura la prelación del rey y, además, evita el
 término "patria" para reemplazarlo por el de "nación". Es probable que
 esta enmienda hubiese sido motivada por una concepción limitada del
 término al ámbito de la península y a la figura cautiva de Fernando
-VII.[^1297] El uso de una figura como "nación", en cambio, podía
+VII.[^1334] El uso de una figura como "nación", en cambio, podía
 representar a los vasallos de la monarquía en ambos lados del
-Atlántico.[^1298] Poco efecto habría tenido este cambio pues
+Atlántico.[^1335] Poco efecto habría tenido este cambio pues
 inmediatamente después, en el artículo tercero se toma del indulto
 sevillano que si el delincuente puede hacerse "útil a la Patria" podía
 ser incluido en el perdón, incluso si hubiese sido condenado por un
@@ -12664,29 +13022,516 @@ texto del virrey se expresaba en cambio que si las circunstancias
 particulares del crimen hacían posible decidir en equidad se hiciera así
 en favor del condenado.
 
+En la práctica, el indulto no parece haber tenido mayor efecto en los
+reos de las cárceles del reino. Por lo menos 25 impetraciones fueron
+recibidas por el asesor del virrey, de las cuales solamente cuatro
+fueron favorables, una contra un soldado sindicado por heridas, otra a
+un hombre acusado de haber liderado una revuelta de indios en La
+Guajira, otro a favor de un homicida encarcelado en Anapoima, y
+finalmente a cuatro reos fugados de la prisión de Honda, a quienes se
+les concedió el perdón a cambio de que se presentaran en el término de
+una semana y cumplieran una prisión correctiva de quince días.[^1336]
+Dos peticiones carecieron de perdón de parte y por esta razón una fue
+rechazada y la otra estaba pendiente de ese requisito.[^1337] Dos
+peticiones colectivas hechas por reos (ya citadas en el apartado 2.8.3.)
+fueron devueltas pues las solicitudes requerían ser presentadas
+individualmente. Solamente el caso del homicida Claudio Vanegas fue
+rechazado tajantemente por el virrey, aunque el fiscal del crimen
+consideró que no estaba exceptuado de la gracia.[^1338] El resto de
+solicitudes tuvieron como respuesta común el ordenar que el tribunal que
+había visto el caso decidiera si era posible otorgar en equidad el
+indulto.[^1339]
+
+Es posible que en otros lugares del virreinato el indulto haya tenido
+otros efectos, lastimosamente nuestra pesquisa no halló relaciones,
+listados o consultas que indicaran esto. Sabemos que se publicó en
+Cartagena, Vélez, Socorro, Honda, Cali, Medellín y en la pequeña
+gobernación de San Faustino; por lo que una revisión en los archivos
+regionales podría brindar una lectura diferente de su aplicación a nivel
+local. En el caso de Cartagena, hipotéticamente, el indulto pudo tener
+mayor impacto por la cantidad de reos que eran remitidos a su castillo
+(véase gráfico 2), así como una necesidad más imperativa de reforzar su
+defensa. Por otra parte, aunque el indulto tenía como objetivo,
+aparentemente, el reclutar hombres para la defensa del reino, es
+evidente que no había mucho interés por parte del virrey para incorporar
+españoles americanos y mestizos a las milicias disciplinadas. El temor a
+una "sedición criolla" estaba aún latente, por lo que si algún efecto se
+pretendía lograr con el indulto sería demostrar que el virrey tenía el
+dominio y la facultad regia para ser el representante de Fernando VII en
+el Nuevo Reino, por sobre la Junta Suprema de Sevilla o cualquier otra
+que se formara en la península.[^1340]
+
+El punto débil del virreinato no se encontraba en Cartagena sino en
+Quito. El enfrentamiento entre los virreyes santafereños y los
+presidentes quiteños fue un factor decisivo de separación entre ambas
+provincias. Por otra parte, la rebelión de los indígenas de Riobamba en
+1803 demostró que el reino de Quito no tenía la capacidad ofensiva para
+defenderse de una insurrección general. Sin embargo, Amar y Borbón hizo
+pocos esfuerzos por reforzar militarmente al reino, y las carencias
+fueron solventadas parcialmente con españoles americanos que se
+integraron a las compañías de veteranos, lo que resultó en una
+importante cantidad de criollos formando parte de los cuerpos de
+oficiales.[^1341] Quito mantuvo su carácter de provincia mayor sin
+deseos de subordinarse a Santa Fe, sin que desde la capital del
+virreinato se hicieran mayores esfuerzos para conseguir la sumisión del
+reino. La Junta Central de España, que reemplazó a la de Sevilla en
+septiembre de 1808, con poco conocimiento de las particularidades de la
+organización del poder en América, excluyó a Quito de la posibilidad de
+elegir diputados para las Cortes de Cádiz. La subordinación de facto a
+Santa Fe fue uno de los impulsos para crear la Junta Suprema de Quito el
+10 de agosto de 1809, independiente no de la monarquía de España sino
+del virrey de Santa Fe.[^1342]
+
+Es claro que desde el segundo semestre de 1809 el virreinato se enfrenta
+a un creciente estado de radicalización, en especial oposición al virrey
+y la Audiencia, a quienes se les acusaba entre otras cosas de
+"afrancesados".[^1343] Si bien en 1808 la promulgación de un indulto por
+parte del virrey parecía un acto natural en un estado de crisis, para
+1809 la representación de quién tiene la capacidad de perdonar se hace
+más compleja. Fernando VII simbólicamente era el rey de los españoles,
+americanos y europeos, pero su coronación no había resultado en un acto
+de magnificencia como el perdón, por lo menos no de su mano. Los
+vasallos de España recibirían esa gracia tan pronto como "el deseado" se
+liberó de los franceses en 1814, pero entonces todo había cambiado
+radicalmente.
+
 Consideraciones finales
 -----------------------
 
-El efecto del indulto de Caballero y Góngora tuvo mayor impacto político
-que jurídico. Ratificó los perdones que habían sido concedidos por el
-virrey Manuel Antonio Flórez en junio de 1781, por lo que garantizó que
-los principales del Socorro no fuesen juzgados y que las concesiones
-dadas en las capitulaciones se cumplieran en algunos puntos. Tal vez por
-esta razón, el indulto del virrey Flórez pasó ciertamente desapercibido,
-en buena medida gracias al impacto de la *Historia de la revolución* de
-José Manuel Restrepo, texto clave en la definición del relato nacional
-de la Independencia de Colombia, en el cual se destacó la acción de
-Caballero y Góngora para conseguir la pacificación de las provincias en
-contraposición a la línea dura de Flórez. Según Restrepo, "si no es por
-el Arzobispo Góngora la guerra se vuelve a encender".[^1299] En el
-relato de este historiador, el indulto de los cabecillas del Socorro
-estuvo en permanente riesgo pues se enviaron órdenes reservadas para
-castigarlos, pero gracias a la administración del arzobispo-virrey
-ninguno de los líderes fue castigado y con ello se ponía freno al
-"despotismo" de los oidores y de Madrid.[^1300]
+Aunque al inicio de esta investigación existía la duda acerca de
+establecer la fecha límite en 1808, en parte porque se puede asumir que
+se está cayendo en el tópico del origen de la independencia. Sin
+embargo, con sólo explorar los sucesos de 1809 y en adelante se puede
+dar cuenta de un cambio relevante en el uso del perdón, sobre todo en
+quiénes estaban facultados para hacerlo y con qué propósito.[^1344] El
+corte que hacemos en este periodo no implica que el perdón se hubiese
+modificado radicalmente, ni siquiera la idea tradicional de que era una
+manifestación de clemencia y magnificencia del soberano. El problema
+radica en que la facultad de conceder indultos también formó parte de la
+lucha por la detentación de la soberanía. En las décadas por venir,
+pervivió el carácter del perdón como instrumento para el aumento de la
+autoridad y la construcción benevolente de la obediencia, así como
+demostración de que la mano blanda del poder político estaba acompañada
+de la capacidad de infringir el castigo más riguroso. Pero sería
+incorrecto considerar que las ideas de la clemencia, del perdón y del
+indulto, se mantuvieron incólumes durante las décadas revolucionarias y
+menos durante la construcción de los estados nacionales. Hubo muchos
+principios compartidos, sin duda, pero la esencia del perdón monárquico
+era que éste surgía de la voluntad (tanto en el sentido de intención
+como de potestad) del rey. El indulto constitucional, que se empezó a
+dejar consignado desde las tempranas cartas de 1811, trastocó el sentido
+original del perdón monárquico, pues ya no provenía de la voluntad
+presidencial sino del apego a las normas y la metafísica interpretación
+de la voluntad popular y el bien general.
 
-Conclusiones
-============
+Muchos de los eventos que se han tratado en este capítulo fueron
+considerados por las historias patrias como prolegómenos de la
+Independencia, momentos claves en los que la autoridad monárquica era
+desafiada por un pueblo naturalmente descontento que resultaba
+indefectiblemente vencido. Pero son los mismos "revolucionarios" los que
+demandaban el perdón como parte de sus reivindicaciones, lo cual sería
+totalmente contradictorio en una rebelión contra la monarquía, pues con
+el indulto no sólo se evitaba el castigo sino se aceptaba explícitamente
+la relación de vasallaje con la Corona. Retornando a la pregunta
+realizada en el primer capítulo de esta tesis, ¿para qué pedir el perdón
+que aquél que se sabe es incapaz de castigar? Existían posibilidades de
+huir pero, con excepción de aquellos que no tuvieran nada que perder,
+los levantados tenían familias y negocios establecidos que no podían
+abandonar para dedicarse a una vida desconocida en los selváticos montes
+del septentrión sudamericano.
+
+Es claro entonces que la monarquía sí podía castigar, tal vez no como
+deseaba, y los vasallos reconocían que en cualquier momento la espada de
+la vindicta pública podría caer sobre ellos. Reconocían sobre todo que
+el rey tenía en su justicia dos armas muy poderosas: la pena de muerte y
+la pérdida de bienes. Un periodo en el castillo de Cartagena sería duro,
+pero no tanto como regresar y tener que partir desde cero, con el
+deshonor a cuestas. El reconocimiento a la autoridad no era el ideal de
+los oficiales enviados al virreinato, quienes se encontraban allí con el
+desorden, la insolencia, el irrespeto y la desobediencia; pero tampoco
+existía otro sistema posible en el horizonte de expectativas de los
+vasallos del rey de España. ¿Cómo escapar del único modelo de mundo que
+se conoce y entiende? ¿Podemos acaso hacerlo hoy?
+
+El hecho de que la fuerza del virreinato fuese intrínsecamente débil
+para contener el desorden no implica que los habitantes de las
+provincias fueran conscientes de tal impotencia. Las autoridades vivían
+en un temor permanente ante una posible sublevación general, que sin
+duda habría arrasado el virreinato, y esto los llevó a tomar decisiones
+exageradas con algunos "conspiradores"; pero es evidente que en los
+levantamientos el rumor de arribo de la tropa era suficiente para
+despertar la inquietud general y apurar la petición de reconciliación.
+La fuerza de los sublevados conseguía rápidamente sus objetivos, y en
+las insurrecciones comuneras el poder de la muchedumbre sobrepasó sus
+expectativas, pero después de este impulso inicial quedaba el temor del
+incumplimiento y del castigo. Los sublevados, como las autoridades, eran
+conscientes de los límites de su fuerza. El perdón era una forma de
+resolver este conflicto de debilidades en el que no era posible castigar
+a todos pero tampoco era posible superar a la autoridad monárquica.
+Finalmente, el indulto representó en la mayoría de los casos un evento
+de reconciliación y garantizó la paz de las provincias por extensos
+periodos.
+
+Por otra parte, el contraste entre las fronteras y las provincias es
+evidente. Mientras en las primeras el perdón era ofrecido por las
+autoridades y fácilmente incumplido por los rebeldes, en las segundas el
+indulto era una demanda de los levantados y siempre existía el temor de
+que se incumpliera el acuerdo; un temor que se hizo real con los
+complicados en la conspiración de Gual y España. En cierta medida puede
+concluirse que en los lugares donde la autoridad monárquica estaba
+firmemente establecida el perdón era un instrumento de reconciliación de
+los vasallos con el rey, en tanto en los espacios contenciosos el perdón
+no lograba cumplir su propósito de ganar la lealtad y obediencia al
+príncipe. La clemencia en el gobierno de la virtud era aún válida en los
+albores del siglo XIX, a pesar de los deseos de los oficiales que
+aspiraban a una monarquía ejecutiva, por lo menos en el nuevo reino,
+tenían que resignarse a recuperar los principios clementes del Siglo de
+Oro para poder mantener el vasallaje del Siglo de las Luces.
+
+Conclusiones generales
+======================
+
+Como el dios romano Jano, la monarquía tenía dos caras, opuestas una de
+la otra pero integradas en un único cuerpo. Con una miraba con
+benevolencia, con la otra con rigor. En esta tesis tratamos de esa "cara
+oculta", como la denominó Levaggi, pero sin olvidar el lado riguroso del
+poder político. La imagen del frontispicio del *Leviatán* de Hobbes fue
+una representación que estuvo presente permanentemente en esta
+investigación. El poder político equilibrado por la espada y el báculo,
+en la mano fuerte el rigor, en la blanda el amor de dios. Con la derecha
+se protegían a los buenos vasallos, con la izquierda se les atraía. El
+perdón era un acto de clemencia y benevolencia pero, simbólicamente, se
+otorgaba revelando el rigor, la potestad para castigar. Para seguir con
+Hobbes y el *ius naturalismo*, la remisión de las penas o la suspensión
+del castigo alcanzaban a quienes se arrepentían, pero sobre todo a
+quienes deseaban ser perdonados.[^1345] El perdón imperfecto conllevaría
+al miedo de una o ambas partes, tanto de que el ofensor reincidiera en
+sus agravios o de que el ofendido reasumiera su venganza.
+
+Partamos del hecho que una de las primeras conclusiones que podemos
+alcanzar es que no hubo perdón perfecto en la monarquía hispánica, por
+lo menos en el virreinato del Nuevo Reino, pero dudamos que haya sido
+así en otra provincia o incluso en otro imperio. La perfectibilidad del
+perdón, podemos decirlo, se basaba en la mayor asimilación posible con
+el sacramento de la reconciliación. En el supuesto de que el delincuente
+alcanzaba la remisión de sus penas a través de la contrición por sus
+faltas, con la promesa de reparación y el juramento de transformación
+hacia el bien. El problema fundamental radicaba en el inexpugnable fuero
+interno del sujeto, la incapacidad para reconocer el arrepentimiento
+honesto del fingido. En ocasiones había un tercero que fungía como
+fiador del alma y juraba que su parte estaba efectivamente compungida
+por sus acciones, en cuyo caso el fiscal podía confiar en la honestidad
+del intermediador, por lo general garantizada por su honor, servicio y
+jerarquía en el orden social. En aquellos casos donde el agente era un
+representante del brazo eclesiástico las posibilidades de obtener el
+perdón eran mayores, pues estaban recibiendo la palabra de un verdadero
+doctor de almas.
+
+La intermediación de los prelados en las conspiraciones tanto de Santa
+Fe como de Caracas, demuestra que el brazo eclesiástico fue fundamental
+para moderar las acciones rigurosas de los oficiales y magistrados. Una
+de las conclusiones de nuestra pesquisa fue que la particular suavidad
+con la que se trató a los comuneros tuvo que ver directamente con la
+actuación del arzobispo, luego virrey, Caballero y Góngora. Este
+personaje excepcional para el estilo de la monarquía borbónica,
+aprovechó el favor que tenía del ministro José de Gálvez para priorizar
+los medios de misericordia sobre los del rigor y extender esta
+estrategia sobre los demás oficiales del virreinato, e incluso influir
+sobre la Capitanía General de Venezuela. Tal vez el brazo eclesiástico
+no estaba presente en todas las resoluciones relacionadas con perdones
+generales o en las pacificaciones fronterizas, pero si se tiene en
+cuenta que la intermediación de los presbíteros conseguía en algunos
+pueblos que se alcanzaran los perdones de parte, así como la conminación
+que se hacía de los ofendidos para que se aceptara el arrepentimiento de
+los ofensores, es claro que cumplía un papel fundamental para la
+resolución pacífica de los conflictos en los pueblos.
+
+El brazo eclesiástico de la monarquía representaba, en términos
+institucionales, una jurisdicción independiente de la seglar, en este
+sentido, sus decisiones no afectarían la justicia regia y viceversa.
+Pero no hay que olvidar que en la monarquía la iglesia no estaba
+confinada a los templos. Desde el rey hasta la más simple de las
+autoridades, todos eran defensores de la fe católica y creyentes
+convencidos de la salvación del alma y la reconciliación cristiana.
+Todos formaban parte de una idea del orden del universo establecido
+desde la creación y aceptaban que el poder político fue dado por el
+mismo dios a los príncipes, y de éstos al resto de los mortales. Por
+esta misma razón creían en la maldad intrínseca de los hombres,
+manifestada por el mismo Adán que fue capaz de renunciar al paraíso
+eterno por haber optado por la desobediencia. Si el padre de los hombres
+fue insolente con el máximo poder del universo ¿cómo pretender que los
+vasallos no lo fueran con su padre terrenal? El castigo se creó para
+detener la maldad, especialmente de aquellos incapaces de aceptar la
+obediencia como camino para la salvación. Con la clemencia, los
+príncipes se dotaban de una virtud que les permitía evitar el castigar a
+todos los malvados, pues en ese caso, prácticamente no habría un solo
+vasallo que quedase libre de prisiones.
+
+No obstante esta representación arquetípica del orden monárquico, había
+un enfoque pragmático que permitía decidir en justicia y determinar si
+tal o cual individuo era merecedor del perdón. El siglo XVIII
+ciertamente está alejado de los modelos técnico-jurídicos propios de los
+códigos de leyes y procedimientos judiciales, pero la experiencia de
+siglos de práctica de tribunales configuró una serie de fórmulas para
+los casos en que fuese necesario decidir libertar a alguien de sus
+cadenas. Algunos procedimientos estaban determinados por la
+normatividad, y en buena medida apoyaban al fiscal y juez a determinar
+si alguien podía ser aceptado en el perdón por el plazo de su
+presentación o porque su delito no fuese excluyente de la gracia. Pero
+la normatividad no podía ser representativa de cada caso en particular,
+en el que los atenuantes y agravantes impedían que los jueces decidieran
+de manera inmediata. En este aspecto, los asesores letrados de las
+justicias y del virrey, así como los fiscales, fueron agentes
+fundamentales para determinar la libertad, conmutación o ratificación de
+la condena de aquellos que impetraban el perdón. El origen, formación e
+incluso la idea de la justicia que tenían estos abogados era
+determinante para que el rigor o la compasión predominaran en cada uno
+de los casos.
+
+De lo anterior se deriva otra conclusión, cual es que la actitud del
+oficial y magistrado frente al perdón correspondía a una manera de
+comprender la justicia como rigurosa o munificente. El castigo en ningún
+caso era considerado injusto, pero la pena podía ser excesiva o
+demasiado blanda. Aunque la aplicación de penas corporales como el
+desmembramiento de una extremidad o el uso del tormento decayeron
+significativamente durante el siglo XVIII, e incluso la ejecución por
+ahorcamiento o degüello fue reemplazada por el fusilamiento y el garrote
+vil, los jueces podían, si así lo consideraban, aplicar cualquiera de
+estas penas corporales. La pena de último suplicio no era un espectáculo
+común en todas las plazas del reino, pero es muy probable que cada
+habitante del virreinato haya asistido a una ejecución por lo menos una
+vez en su vida. No obstante, la cantidad de reos que terminaron en algún
+presidio en conmutación de la pena capital fue muy superior a la de los
+prisioneros ultimados por la justicia regia. En ese sentido, una
+justicia que en apariencia ya actuaba con suficiente lenidad no
+encontraba muchos adeptos de una administración de justicia que
+favoreciera el perdón o la minoración de las penas.
+
+Parece que hubo una especie de consenso en ideas como las de Beccaria,
+que consideraban que la moderación de las penas hacía innecesaria la
+clemencia. Pero también era común cierto sentimiento de desesperación
+entre las autoridades por no lograr contener la desobediencia e
+insolencia de los habitantes del virreinato, a quienes prácticamente
+caracterizaron como incorregibles. Es claro que una actuación como la
+que hizo José de Gálvez en Nueva España, en la que el rigor precedió el
+perdón, no era común en las campañas de pacificación, pero es asimismo
+evidente que, especialmente entre los españoles europeos, existía un
+creciente resentimiento por no poder utilizar la *manlia imperia* sobre
+los insolentes. La formación de escuadrones de españoles que
+prácticamente salieron a ejecutar a los rebeldes de Quito en junio de
+1765 muestra que para algunos el deseo de tomar venganza era
+incontenible. La masacre contra los levantados de Coro en 1795 parece
+mostrar que, de ser posible, la ejecución podía ser sumaria y no tendría
+muchas consecuencias para el oficial que así lo ejecutara. El mismo
+hecho de que la orden original para pacificar las provincias de
+indígenas rebeldes consistiera en la captura y destierro, incluso la
+eliminación sistemática de sus caciques, parece demostrar que en muchas
+ocasiones el haber evitado el uso extremo del rigor fue sencillamente el
+resultado de una falta de fuerza.
+
+Teniendo en cuenta lo anterior, parece que la clemencia cumplía su papel
+fundamental de contener a quienes tenían la potestad de castigar con el
+mayor rigor. No fueron pocas las ocasiones en que se recomendaba de una
+autoridad a otra que se actuara con suavidad y prudencia para evitar que
+se levantaran las provincias. Era necesario contener la ira,
+especialmente de aquellos que no tenían la capacidad para contener el
+desorden. Si se iba a usar del rigor, era fundamental evaluar primero si
+al aplicar los castigos se favorecería la obediencia o, por el
+contrario, se inflamarían los ánimos de los levantados. El caso de Quito
+en 1765 es sumamente interesante en ese aspecto, pues la paz solamente
+se consiguió cuando los levantados vieron que el perdón sería efectivo y
+las autoridades se resignaron ante el hecho de que no podrían castigar a
+los líderes de la rebelión. Tal vez el arrepentimiento no se alcanzaba,
+ni siquiera la reconciliación, pero la promesa de impunidad que tanto
+molestaba a los oficiales garantizaba la paz. No habría reconciliación,
+pero había resignación, y con ésta era suficiente para proseguir con el
+avance del gobierno, incluso reactivando las causas del descontento,
+como las nuevas tributaciones o alcabalas.
+
+Por otra parte, el perdón fungía como una válvula de escape en los
+momentos de mayor tensión. La idea de que los vasallos podían ser
+indultados estaba tan generalizada que prácticamente se asumía como un
+deber ser del monarca, antes que como un acto de voluntad. Pero esta
+seguridad era al mismo tiempo una garantía de que las tensiones sociales
+podían ser resueltas no sólo mediante la negociación, sino con un acto
+de clemencia que restaurara el amor de los vasallos hacia el rey. Es de
+resaltar que no fueron pocos los ejemplos en los que el indulto y su
+ratificación representaban el final del conflicto, e incluso perduraba
+más la reconciliación que los acuerdos, pues volvían las reformas,
+incluso los castigos, pero el enfrentamiento parecía estar
+definitivamente zanjado. Nuevamente, este resultado dependía
+significativamente de la relevancia que tuviera la persona del monarca
+en la sociedad, por lo que no sería prudente menospreciar la fuerza de
+los símbolos, rituales e imágenes que continuamente recordaban a los
+vasallos sus deberes con dios y el rey.
+
+Es evidente que para que el perdón funcionara era necesario el
+reconocimiento de la autoridad y potestad del rey. Esto fue
+particularmente patente en las regiones de frontera donde la efectividad
+de los indultos para garantizar la paz era prácticamente nula. Para los
+indígenas cuya vida se organizaba sólo marginalmente con la monarquía
+hispana, el temor al castigo era menor que el de los vasallos de las
+ciudades. Valga recordar que los vasallos tenían prohibido el portar y
+poseer ciertas armas dependiendo de su calidad. Los indígenas de los
+pueblos carecían de medios de defensa más allá de sus herramientas de
+trabajo, por lo que era común que los levantamientos lograran superar a
+las autoridades regias únicamente por la fuerza de la masa y con el uso
+de piedras y palos, y sólo excepcionalmente, unas cuantas armas de
+fuego. En contraste, los indígenas de las fronteras estaban bien armados
+y acostumbrados a la guerra, que por otra parte era un oficio de gran
+prestigio en sus comunidades. Por esta razón, el perdón nunca se aceptó
+como una reducción al vasallaje sino como una tregua, y en el mejor de
+los casos, como una alianza con las tropas españolas.
+
+El estudio del perdón contribuye entonces al análisis de la legitimación
+de la figura del rey en Indias, realizada a través del mensaje de que en
+su persona se conservaba la garantía de benevolencia. Era la advertencia
+de que con otros príncipes, menos católicos o incluso heréticos, no
+habría garantía de clemencia. Claramente, antes de la década de 1790, no
+había ninguna preocupación por la constitución de una república
+constitucional, pero sí estaba presente el miedo constante a la pérdida
+de los reinos por la combinación de vasallos desleales e imperios
+seductores. En ciertos momentos de las rebeliones de cierta magnitud
+había voces extremistas que llamaban a la constitución de una monarquía
+independiente del rey de España, pero no estaban atadas a ningún
+proyecto o, lo que era más importante, a una figura regia. Perú podía
+representar una preocupación por la figura mítica del inca, pero no los
+pueblos del virreinato santafereño. En todo caso, nada les garantizaba a
+los habitantes del Nuevo Reino, Quito y Panamá que con la conformación
+de una monarquía propia podrían superar los abusos de las autoridades
+del rey. De la misma manera, el malestar con oficiales y magistrados, o
+entre americanos y europeos, no se traducía en una molestia con el
+monarca. Por esta razón, la tranquilidad llegaba a los perdonados
+únicamente cuando se hacía pública la ratificación de la gracia por el
+rey.
+
+La publicación de la cédula de indulto representaba que el rey imponía
+su voluntad, sin importar si los jueces u oficiales estaban de acuerdo.
+No hallamos súplicas hechas por algún cuerpo, ya fuese cabildo,
+Audiencia, gobernación o virrey, que consideraran que obedecer el perdón
+real conllevaría a la injusticia o el desorden. Obviamente, las
+justicias podían disimular el cumplimiento de la gracia. La ambigüedad
+de los mismos edictos de indulto permitía a las autoridades evitar
+conceder la remisión de la pena a quienes no lo desearan sin que por
+esta razón fueran castigados. El problema estaba en aquellos que
+deseaban impetrar el perdón, pues no había una garantía completa de que
+obtendrían la gracia, por lo que debían arriesgarse a ser nuevamente
+encerrados. El caso más patético fue obviamente el de los implicados en
+las juntas de la conspiración de Gual y España, quienes aspiraron a
+conseguir el seguro de su libertad delatándose y terminaron deportados,
+algunos sin posibilidad de regresar a Caracas. Pero lo mismo pasaba con
+desertores, homicidas, adúlteros, abigeos y tantos otros criminales
+menores quienes tenían que enfrentar un nuevo proceso. La ventaja, en
+todo caso, era que el someterse al indulto era en sí mismo un atenuante,
+por lo que la evasión de la máxima pena ya era hasta cierto punto una
+garantía.
+
+Es evidente que en términos estrictamente normativos, el perdón en
+Indias formaba parte de la cultura del derecho castellano y fácilmente
+se puede identificar como parte de la "justicia de jueces" en la que el
+arbitrio del jurisprudente era decisivo, no para conceder la gracia
+(pues no había facultad graciosa en el juez) sino para interpretar la
+voluntad del monarca y determinar si había méritos para hacer merecedor
+a alguien de la clemencia regia. La cuestión sería entonces si es
+posible o no hablar de un perdón indiano. Definitivamente, la cuestión
+que marca la diferencia con respecto a Castilla es el contexto de
+dominación europea sobre los territorios de Ultramar. Claramente hubo un
+traslape de conceptos europeos como el de minoridad y miserabilidad,
+pero es apenas obvio que en Europa no existían indios ni esclavos, como
+tampoco libres, cimarrones y huidos. Paradójicamente, lo que hizo
+particular al perdón en Indias fue la ausencia de una convención del
+indulto meramente indiano. En esos términos, los jueces debían utilizar
+categorías jurídicas y de gobierno castellanas, que afortunadamente eran
+lo suficientemente flexibles como para abarcar una amplia gama de
+situaciones, para decidir en justicia si los reos podían ser liberados.
+
+La cuestión de la minoridad indígena, que ha llamado la atención tanto
+en el sentido de reducción política como en términos de aprovechamiento
+jurídico de las mismas comunidades, era en todo sentido favorable a la
+benevolencia y moderación. El indulto particular no era frecuente entre
+los indígenas pues el rigor no era común en los corregidores de indios.
+La mayoría de los casos estaban relacionados con perdones que implicaban
+el apartamiento de querella, y en ese contexto no era la piedad del rey
+la que regía sino el principio de reconciliación entre pares para
+cumplir, muchas veces de manera forzada, con el canon de vida cristiano.
+Al esclavo, paradójicamente, lo que salvaba su vida muchas veces no era
+tanto la piedad como la protección de su condición de bien de un señor.
+Incluso en casos de rebelión o de gravedad, en los que se consideraba
+necesario el ejercer el rigor, la intermediación de sus dueños podía
+representar el regresar a servidumbre a cambio de no perder la vida.
+
+Es necesario concluir además que al ser el vasallaje jerárquico también
+lo era el reparto de la gracia, aunque en términos generales todos los
+súbditos del rey estaban cobijados por su clemencia. No obstante, el
+poder acceder al perdón por mérito, por honor o por servicio, daba
+posibilidades a ciertos vasallos de prestigio para recibir la gracia.
+Esto coincidía perfectamente con el ser de la monarquía, en la que el
+ser útil a la Corona y la república significaba estar más cerca de la
+gracia del rey. Por otra parte, la red de relaciones que podía tener un
+sujeto lo hacían más favorable al perdón. Contar con el apoyo de un
+oficial o magistrado con poder e influencia no era garantía de remisión,
+pero seguro era más conveniente que apelar a la Audiencia con un escrito
+patético redactado por el procurador de pobres. En varios momentos de
+esta tesis hemos encontrado intermediadores del nivel de Ricardo Wall,
+del arzobispo de Santa Fe, de los obispos de Quito y Caracas; y más
+frecuentemente oficiales de nivel intermedio como comandantes, alcaldes
+e incluso gobernadores. Esto, cuando la decisión no la tomaba
+directamente el virrey, quien favorecía así a sus redes de influencia.
+
+La creación de la figura del virrey parece haber favorecido el acceso al
+perdón de ciertos personajes influyentes, por lo menos durante las
+primeras décadas desde su restablecimiento. Pero el cambio más
+significativo con la creación de esta figura fue el haber retirado la
+facultad de perdonar que se habían arrogado los reales acuerdos de las
+Audiencias y ciertos gobernadores, quienes evidentemente lo utilizaban
+para favorecer a sus redes clientelares o ganar favores a cambio de un
+indulto. No nos es posible afirmar que esta reforma haya tenido un
+efecto negativo en el delito, en particular del contrabando, pues las
+autoridades todavía tenían mecanismos como el disimulo y la baratería
+para evadir el castigo de los criminales que estaban bajo su abrigo. Por
+otra parte, los gobernadores y el Real Acuerdo de Quito pudieron ofrecer
+todavía el perdón, pero desprovistos de la facultad de perdonar, debían
+remitirse necesariamente al virrey para que éste ratificara la gracia
+prometida.
+
+Pero tal vez el personaje más relevante para condicionar la práctica del
+indulto en América fue el secretario del Estado y del despacho encargado
+de los asuntos de Ultramar. Técnicamente, este ministro no tenía
+facultades graciosas ni funciones de clemencia. Sin embargo, su carácter
+de intermediario directo entre el rey y los virreyes representaba que,
+dependiendo de la influencia que pudiera tener sobre las decisiones del
+monarca, decidiera a favor en contra del uso del perdón en los procesos
+de pacificación de las provincias virreinales. Por otra parte, las
+decisiones del virrey tendrían mayores posibilidades de lograr la
+aprobación del rey si las relaciones entre ese oficial y el ministro de
+Indias eran muy fuertes. El claro contraste lo marca Caballero y Góngora
+con Gálvez, que le permitió usar de la benevolencia sobre el rigor, a
+diferencia de otros ámbitos virreinales, específicamente en el Perú. Por
+otra parte, Godoy en acuerdo con la Audiencia de Santa Fe y la de
+Caracas bloqueó disimuladamente las apelaciones por la clemencia que
+surgieron desde el virrey y el brazo eclesiástico.
+
+El perdón era un elemento fundamental de la monarquía que se negó a
+desaparecer, incluso a cambiar. En una época de importantes
+transformaciones en el gobierno y la justicia, por no mencionar las
+ocurridas en la Real Hacienda y en el ramo de guerra, el perdón pervivió
+sin transformaciones significativas, incluso durante los tiempos más
+críticos del dominio hispano en América. Si bien la facultad de perdonar
+se fue retrayendo progresivamente hacia el rey, en un proceso que
+pretendía recuperar en su persona el monopolio de la clemencia, la
+esencia del perdón siempre estuvo marcada por su carácter de suprema
+regalía, la cual había sido delegada por cuestiones prácticas desde el
+siglo XVI en lugartenientes, virreyes, gobernadores y presidentes, pero
+realmente nunca dejó de ser potestad del príncipe. Mientras las
+autoridades se hacen más rigurosas, arrogantes y despóticas, la
+percepción del rey es la de un receptáculo de clemencia, tal vez el
+último que queda en la monarquía. Las ciudades se levantaban contra el
+despotismo de regentes, gobernadores, presidentes o virreyes, pero no
+contra el rey. En el momento en que la figura regia sea desprovista de
+este velo simbólico de clemencia, en ese instante que el príncipe
+comience a verse como déspota, como tirano, entonces el vasallo perderá
+ese lazo armonioso de amor hacia el monarca, el más clemente de los
+soberanos.
 
 Anexo documental
 ================
@@ -12700,7 +13545,7 @@ cualquier sección que explorábamos hallábamos huellas del uso del perdón
 en diferentes ámbitos del gobierno y la justicia en América. El no
 contar con un fondo específico relacionado con indultos y perdones en
 los archivos consultados, similar al acumulado en el Archivo General de
-Simancas para el ámbito castellano,[^1301] nos hizo pensar en la
+Simancas para el ámbito castellano,[^1346] nos hizo pensar en la
 utilidad que hubiese representado para el desarrollo de esta tesis el
 haber contado con, al menos, una compilación de las cédulas de indulto
 general concedidas durante el siglo XVIII e inicios del XIX.
@@ -12708,7 +13553,7 @@ general concedidas durante el siglo XVIII e inicios del XIX.
 La selección que presentamos a continuación pretende contribuir en parte
 a solventar esta carencia, sumándose así a otras pequeñas recopilaciones
 como las comprendidas en los apéndices de los textos de Tomás y Valiente
-y de María Inmaculada Rodríguez.[^1302] En consecuencia, no incluimos en
+y de María Inmaculada Rodríguez.[^1347] En consecuencia, no incluimos en
 este anexo documentos que ya estaban publicados en dichas obras o en
 otras compilaciones impresas. El criterio básico consistió en que fuesen
 fuentes documentales inéditas, algunas fáciles de hallar en archivos
@@ -12736,7 +13581,7 @@ tenían sentido antonomástico en la época. La foliación o paginación, así
 como los caracteres o palabras añadidos por razones de deterioro del
 documento, van incluidos dentro de corchetes.
 
-[]{#_Toc24841679 .anchor}Anexo 1. Indulto general de Felipe V dirigido
+[]{#_Toc530310418 .anchor}Anexo 1. Indulto general de Felipe V dirigido
 al virrey y Audiencia de México (1707)
 
 Fuente: AGI, *Indiferente General*, legajo 538, libro YY10, ff.
@@ -12825,7 +13670,7 @@ Fecha: 11 de septiembre de 1707
 > de sept*iemb*re de 1707. Yo el Rey. Por m*anda*do del Rey n*uest*ro
 > s*eño*r, D*o*n Gasp*a*r de Pinedo.
 
-[]{#_Toc24841680 .anchor}Anexo 2. Para que el Virrey de Nueva España y
+[]{#_Toc25790926 .anchor}Anexo 2. Para que el Virrey de Nueva España y
 Gobernadores de aquel Reino, hagan publicar por bando lo resuelto por V.
 M. sobre que no se admitan a indulto las causas de ilícito comercio
 (1725)
@@ -13354,7 +14199,7 @@ Fecha: 28 de enero de 1760
 > assi lo dixeron y rubricaron por ante mi de que doy fee = tiene tres
 > rubricas = antemi joseph de Rosas.
 
-[]{#_Toc24841686 .anchor}Anexo . Real cédula de indulto a desertores
+[]{#_Toc25790932 .anchor}Anexo 8. Real cédula de indulto a desertores
 (1760)
 
 Fuente: BNC, raros manuscritos, 354, ff. 180-81.
@@ -13580,8 +14425,8 @@ Fecha: 4 y 7 de noviembre de 1761
 >
 > Juan Antonio de Orellana. Escribano público.
 
-[]{#_Ref24917749 .anchor}Anexo . Ceremonia de perdón a los habitantes de
-los barrios de Quito (1765)
+[]{#_Ref24917749 .anchor}Anexo 11. Ceremonia de perdón a los habitantes
+de los barrios de Quito (1765)
 
 Fuente: AGI, Quito, 398, ff. 523r-27v.
 
@@ -13855,7 +14700,7 @@ Fecha: 25 de septiembre de 1766
 >
 > Joachim Figueroa
 
-[]{#_Toc24841691 .anchor}Anexo 13. Indulto a militares casados sin
+[]{#_Toc25790937 .anchor}Anexo 13. Indulto a militares casados sin
 licencia (1766)
 
 Fuente: AGNC, sección colonia, milicias y marina, tomo 16, ff. 1008.
@@ -14069,19 +14914,19 @@ Fecha: 8 de junio de 1780
 > y los que se han rematados a presidio o arsenales, que no estuvieren
 > remitidos o en camino para sus destinos, con tal que no hayan sido
 > condenados por los delitos que quedan exceptuados, assi mismo, siendo
-> de mi real benignidad,[^1303] he venido en estender este indulto a los
+> de mi real benignidad,[^1348] he venido en estender este indulto a los
 > reos que estan fugitivos, ausentes y rebeldes, señalandoles el termino
 > de seis meses a los que estuvieren dentro de España, y el de un año a
 > los que se hallaren fuera de estos reinos \[f. 332v\] para que puedan
 > presentarse ante qualesquiera justicias, las quales deberan dar cuenta
 > a los tribunales donde pendieren sus causas, para que se proceda a la
-> declaracion del indulto; y declaro[^1304] que en los delitos en que
+> declaracion del indulto; y declaro[^1349] que en los delitos en que
 > haya parte agraviada, aunque se haya procedido de oficio, no se
 > concede el indulto sin que preceda perdon suyo, y que en los que haya
 > interés; o pena pecunaria, tampoco se conceda sin que preceda la
 > satisfacion o el perdon de la parte; pero debera valer este indulto
 > por el interes o pena correspondiente al fisco y aun al
-> denunciador,[^1305] y siendo mi tienda a mis vasallos de America é
+> denunciador,[^1350] y siendo mi tienda a mis vasallos de America é
 > islas Filipinas, lo comunicado a mi Consejo de las Indias, por mi real
 > orden de once de Mayo ultimo para su cumplimiento, en cuya
 > consequencia por esta mi real Cedula, mando a mis virreyes, a los
@@ -14387,8 +15232,8 @@ Fecha: 6 de agosto de 1782
 > por ahora en los generos y frutos de Castilla, que viniendo del Puerto
 > de Cartagena, como puerta principal del Reyno, ó de algunos otros
 > Puertos, para ser conducidos á lo interior de las Provincias con destino
-> al trato y Comercio, compongan carga,[^1306] fardo,[^1307]
-> frangóte,[^1308] caxon,[^1309] ó petaca;[^1310] omitiendola en los de
+> al trato y Comercio, compongan carga,[^1351] fardo,[^1352]
+> frangóte,[^1353] caxon,[^1354] ó petaca;[^1355] omitiendola en los de
 > poca consideracion, ú otros encargos distintos de la negociacion: que se
 > observe la formalidad de las Guias, sin la obligacion de Tornaguias
 > siempre que desta Capital ó de la Villa de Honda se lleven generos y
@@ -15103,7 +15948,124 @@ Fecha: 16 de enero de 1789
 >
 > Don Gerónimo Caballero
 
-[]{#_Toc530310430 .anchor}Anexo 24. Real Decreto de Carlos IV sobre
+[]{#_Ref25487426 .anchor}Anexo 24. Indulto publicado a nombre del rey
+para los implicados en la conspiración de Gual y España (1797)
+
+Fuente: AGI, Caracas, 427.
+
+Lugar: Caracas
+
+Fecha: 20 de julio de 1797
+
+> \[f. 732r\] El presidente, regente y oydores de la Real Audiencia y
+> Chancillería de Caracas etcetera.
+>
+> La inviolable antigua fidelidad, caracteristica de esta capital y
+> provincias al Rey Nuestro Señor (que Dios guarde) ha sido invadida por
+> la seduccion maligna de algunos hombres inconsiderados y alucinados de
+> maximas detestables, cuyo principal objecto es ofender la Santa
+> Religion y como no se puede lograr esto sin corromper \[f. 732v\] las
+> costumbres, ni corromprelas sin alterar las leyes y el sistema del
+> govierno español, han procurado los malintencionados emplear el primer
+> medio de arruinar la obediencia y subordinacion devida á Su Magestad
+> con promesas de felicidades imaginarias y falsas para acercarse
+> gradualmente al principal fin de allanar los sagrados limites en que
+> quiere Dios sean contenidas las pasiones. Pero por una especial
+> misericordia de Dios, no ha podido la malignidad perbertir la
+> educacion Christiana y los corazones sanos y honrrados de tantos
+> fieles \[f. 733r\] y buenos vasallos del Rey. Estamos plena y
+> perfectamente combencidos y seguros de esto por la demostracion
+> publica y llena de sinceridad, con que desde la primer noticia en los
+> designios turbulentos se han apresurado á detenerlos el cuerpo de la
+> Ciudad, el del venerable Dean y cavildo, el de la nobleza, el de la
+> universidad, el de la Real Hacienda por medio de su gefe, el del
+> Colegio de Abogados, el del comercio por medio del consulado, el de la
+> Academia del Derecho Español y practico, y muchas personas
+> particulares de todas las clases, mientras tanto que cada una de ellas
+> ha dado y está \[f. 733v\] dando por otra parte pruevas evidentisimas
+> de su lealtad y amor al Rey, á la patria y á la tranquilidad publica
+> en el servicio de las armas en los tres batallones, esquadron y
+> cuerpos de milicias urbanas, al exemplo de sus comandantes. No es de
+> menos recomendacion y merito el que ha dado el prelado eclesiástico,
+> lleno de su celo paternal por si y en nombre del clero secular y
+> regular para preserbar á todos del contagio de las opiniones perversas
+> y concurrir a detenerlas y extinguirlas.
+>
+> Por todo devemos dar y damos á Dios humildemente las gracias de que
+> somos capaces, porque \[f. 734r\] se ha dignado librar á esta
+> fidelisima ciudad, pueblos y provincias subalternas de los peligros en
+> que se ha intentado arrojarla. Y damos tambien al Real nombre del Rey
+> Nuestro Señor las gracias tan devidas al celo de todos los cuerpos y
+> personas insignadas por la prontitud con que han concurrido á indagar,
+> descubrir y aniquilar los malos propositos. Esperamos que con igual
+> constancia y firmeza los mismos cuerpos y todos y cada uno de los
+> fieles vasallos de su Magestad han de continuar sosteniendo para
+> siempre los sagrados principios y doctrina de la Religion y por
+> consequencia necesaria la obediencia al Rey \[f. 734v\] Nuestro Señor,
+> el respecto á sus Tribunales y Ministros, la union entre las familias,
+> la verdadera caridad reciproca, abominando la falsa y seductora y
+> fortificando de este modo la tranquilidad y utilidad publica y
+> general.
+>
+> Mandamos á todos y á cada uno de los habitantes seculares de esta
+> capital su provincia y las demas, y rogamos y encargamos á los
+> Eclesiasticos que nos comuniquen reservadamente quantas noticias
+> tuvieren de algunos papeles, combersaciones, juntas ó acciones
+> particulares que directa ó indirectamente puedan contribuir á renovar
+> los males ó á sostenerlos \[f. 735r\] ú ocultarlos en inteligencia de
+> que quedarán para siempre reservados los nombres de los sugetos que se
+> presentaren á dar semejantes noticias y en la de que al darlas no han
+> de ser movidos, por alguna vil pacion de interés, odio, venganza ó
+> emulacion.
+>
+> Prohivimos con pena de la vida, con la de presidio, reclusion en las
+> carceles y otras proporcionadas en sus cargos, las juntas y
+> combersaciones que se dirigen a los mencionados fines reprovados. La
+> introduccion, la copia y estencion de todos y qualesquiera papeles que
+> hayan venido ó vinieren de afuera ó se hayan compuesto ó se
+> compusieren dentro de esta ciudad \[f. 735v\] y provincias y que
+> conspiren directa ó indirectamente aun con el disimulo de cuidar la
+> idea en coplas y cantares aparentemente casuales, ordenamos muy
+> particularmente á todos los pades de familia y maestros en las
+> ciencias de las artes y oficios que cada uno repita frecuentemente á
+> sus hijos, á sus familiares y discipulos la obligacion que tienen de
+> respetar y amar a Dios, y cumplir las obligaciones de buenos vasallos,
+> buenos hijos, buenos discipulos, buenos familiares y buenos
+> ciudadanos.
+>
+> Publiquese en todos los barrios de esta capital \[f. 736r\] por vando,
+> fixandose despues por escrito y egecutese los mismo en los puertos de
+> la Guayra y Cavello y en los demas Pueblos principales de esta
+> Provincia y en las otras del Distrito de la Real Audiencia por mano de
+> los Gobernadores respectivos.
+>
+> Dado en la Sala del Real Acuerdo de Caracas, y sellado con el Sello
+> Real á veinte de Julio de mil setecientos noventa y siete.
+>
+> \-\-\-\--
+>
+> Al real nombre de su Magestad se ofrece al que se delatare ó delatare
+> á otros el yndulto y gracia segun las circunstancias.
+>
+> Pedro Carbonell.
+>
+> Antonio Lopez Quintana
+>
+> Francisco Ygnacio Cortines
+>
+> Juan \[f. 736v\] Nepomuceno de Pedrosa.
+>
+> José Bernardo de Astequeta
+>
+> Julian Diaz Saravia
+>
+> Aqui el Real sello
+>
+> Por mandado del Acuerdo de la Real Audiencia
+>
+> Rafael Diego Merida Escribano de Camara interino
+
+[]{#_Toc530310430 .anchor}Anexo 25. Real Decreto de Carlos IV sobre
 indulto a los desertores del ejército con motivo del matrimonio de su
 hijo Fernando (1802)
 
@@ -15163,7 +16125,7 @@ Fecha: 5 de octubre de 1802
 >
 > Sr. Virey de Santa Fé
 
-[]{#_Toc530310431 .anchor}Anexo 25. Indulto de la pena de privación de
+[]{#_Toc530310431 .anchor}Anexo 26. Indulto de la pena de privación de
 empleo a oficiales que se hubieran casado sin el Real permiso (1802)
 
 Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 11, ff. 984-985.
@@ -15206,7 +16168,7 @@ Fecha: 5 de octubre de 1802
 >
 > \[José Antonio\] Caballero
 
-[]{#_Toc530310432 .anchor}Anexo 26. Real Cédula sobre indulto general
+[]{#_Toc530310432 .anchor}Anexo 27. Real Cédula sobre indulto general
 concedido con motivo del matrimonio del Príncipe (1803)
 
 Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
@@ -15288,7 +16250,7 @@ Fecha: 25 de julio de 1803
 >
 > Yo El Rey
 
-[]{#_Toc530310433 .anchor}Anexo 27. Indulto de desertores: decreto del
+[]{#_Toc530310433 .anchor}Anexo 28. Indulto de desertores: decreto del
 gobierno peninsular al respecto (1804)
 
 Fuente: AGNC, Colonia, fondo milicias y marina, tomo 100, f. 13.
@@ -15340,7 +16302,7 @@ Fecha: 29 de octubre de 1804
 >
 > Sr. Virrey del Nuevo Reyno de Granada
 
-[]{#_Toc24841706 .anchor}Anexo 28. Indulto concedido por la Junta
+[]{#_Toc25790953 .anchor}Anexo 29. Indulto concedido por la Junta
 Suprema de Sevilla (1808)
 
 Fuente: *Gazeta Ministerial de Sevilla*, núm. 2, 4 de junio de 1808,
@@ -15382,96 +16344,6 @@ Fecha: 30 de mayo de 1808
 > habrá de resolver á favor de esta.
 >
 > Dado en Sevilla á 30 de Mayo de 1808
-
-[]{#_Toc530310434 .anchor}Anexo 29. Real Decreto de José Napoleón por el
-que se otorga el indulto general a los oficiales y soldados desertores
-que prestasen el juramento prescrito en la Constitución (1808)
-
-Fuente: AHNE, Estado, leg. 3092, exp.11
-
-Lugar: Madrid
-
-Fecha: 23 de julio de 1808
-
-> Don Josef Napoleon por la gracia de Dios y por la constitucion del
-> Estado, Rey de las Españas y de las Yndias.
->
-> Compadecido de los funestos errores que han apartado á muchos de los
-> habitantes de esta Monarquia del amor al sosiego y buen orden publico,
-> base principal de la felicidad de los pueblos, deseando encontrar en
-> todos los dominios que me ha confiado la providencia divina hijos
-> dociles, agradecidos y obedientes, en vez de vasallos adquiridos por
-> la fuerza; y queriendo desde el mismo dia que se ha de proclamar en
-> esta capital mi exaltacion al trono acreditar á la noble y generosa
-> nacion española que aspiro á gobernarla como padre, y que hallaran en
-> mi estos mismo sentimientos aun aquellos que volviendo del error en
-> que estan, se confien en mi natural clemencia; he venido, imitando en
-> esto la conducta de varios soberanos de gloriosa memoria, en declarar:
->
-> Que desde este dia señalado para mi proclamacion en Toledo y esta
-> capital y hasta el 15 de Agosto proximo seran admitidos á prestar el
-> juramento que la constitucion previene los pueblos, los tribunales,
-> los generales y cuerpos militares, y los empleados en qualquiera ramo
-> ó carrera que se hallen en las provincias que aun no hayan reconocido
-> mi soberania, quedando desde el momento en que asi se verifique en un
-> completo olvido todos los actos, sean notorios, publicos ó privados
-> con que hayan intentado desconocerla ó resistirla, é indultados de
-> toda pena los cuerpos ó individuos que hayan incurrido en esta falta;
-> reservandome prorrogar el plazo de este indulto general en todos los
-> casos en que haya habido imposibilidad ó dificultades insuperables
-> para conocerlo y cumplir con el acto de sumision que queda expresado.
->
-> Que á exemplo de la benigna clemencia con que depongo enteramente la
-> memoria de lo pasado, espero tambien que los particulares que tuvieren
-> quejas entre si por acaecimientos de este tiempo de anarquia y
-> desorden, olviden sus propios resentimientos, pues deseo que la union
-> é intima reconciliacion de mis vasallos sea el primer dia feliz de mi
-> reinado.
->
-> Declaro asimismo comprendidos en este indulto á todos los oficiales
-> que se hayan ausentado sin permiso de sus destinos respectivos, y á
-> todos los desertores, sean de la clase que fueren, con tal que se
-> presenten unos y otros antes del 16 de Agosto proximo en la residencia
-> de alguno de los capitanes ó comandantes generales que tubieren
-> nombramiento ó aprobacion mia, ó en qualquiera pueblo con que haya
-> gefe militar ó ayuntamiento que hayan reconocido mi soberania,
-> ampliando tambien á favor de los desertores el plazo de este indulto
-> en los casos ya indicados.
->
-> Los ayuntamientos de los pueblos, los tribunales, cuerpos ó
-> individuos, á quienes corresponde prestar juramento para gozar de este
-> indulto, deberan remitir al ministerio respectivo, ó al quartel
-> general de uno de mis exercitos, ó á uno de los comandantes ó
-> capitanes generales de provinncia ya pacifica, un testimonio legal que
-> acredite la prestacion de este juramento, y el dia en que lo hayan
-> prestado, en qualquiera de estos modos sera admitido este acto de
-> sumision y obediencia.
->
-> Las provincias del Reyno que no hayan reconocido mi soberania antes de
-> la publicacion de este decreto, luego que en sus capitales respectivas
-> se haya prestado el juramento prescrito, enviaran quatro diputados á
-> esta corte elegidos uno en el clero, otro en la nobleza, y dos en el
-> estado llano, con instrucciones sobre el estado de su provincia y
-> cabal conocimiento de sus mas urgentes necesidades.
->
-> Por ultimo, declaro que aunque me prometo del acendrado juicio de la
-> nacion y de su amor á vivir baxo el sagrado asilo de las leyes el mas
-> pronto restablecimiento del orden publico, no consentire que la
-> inquietud de algunos pueblos, ó la obstinacion de los individuos
-> descarriados ó alucinados comprometa por mas tiempo el sosiego de mis
-> vasallos fieles, ni que debilite los cimientos de esta monarquia, que
-> con solo la tranquilidad y union de sus habitantes puede hacerse tan
-> poderosa y feliz, como aspiro á que lo sea.
->
-> Nuestros ministros quedan encargados cada uno en la parte que le toca
-> de la execucion del presente decreto. De mi Palacio de Madrid á 23 de
-> Julio de 1808.
->
-> Firmado, Yo El Rey
->
-> Por SM su ministro secretario de Estado, Mariano Luis Morquiz
->
-> Al Ministro de Negocios extranjeros
 
 []{#_Ref23839817 .anchor}Anexo 30. Indulto promulgado por el virrey
 Antonio Amar y Borbón (1808)
@@ -15596,7 +16468,8 @@ Fecha: 14 de octubre de 1808
 Referencias
 ===========
 
-**Archivos**
+Archivos
+--------
 
 ***Archivo Central del Cauca (Popayán)***
 
@@ -15604,7 +16477,7 @@ Sección colonia, fondo judicial, civil y criminal.
 
 ***Archivo General de Indias (Sevilla)***
 
-Audiencia de Caracas, 81, 86, 87, 113, 418, 421, 425, 470.
+Audiencia de Caracas, 81, 82, 86, 87, 113, 418, 421, 425, 426, 427, 470.
 
 Audiencia de Lima, 691.
 
@@ -15614,6 +16487,8 @@ Audiencia de Quito, 105, 358, 398.
 
 Audiencia de Santa Fe, 193, 265, 546, 547, 548, 572, 575, 577B, 594,
 682, 940, 1200.
+
+Estado, 52, 53, 55, 56A, 71.
 
 Indiferente general, 415, 429, 430, 538 YY10 - YY11, 3025.
 
@@ -15635,14 +16510,15 @@ Sección colonia:
 >
 > Historia eclesiástica, tomo 4.
 >
-> Juicios criminales, tomos 2, 6, 34, 40, 49, 54, 58, 63, 64, 67, 68,
-> 75, 76, 87, 90, 102, 103, 106, 113, 114, 129, 130, 131, 134, 135, 136,
-> 138, 139, 148, 157, 163, 170, 176, 198, 205, 216, 217.
+> Juicios criminales, tomos 2, 6, 10, 28, 34, 40, 49, 50, 54, 58, 63,
+> 64, 67, 68, 70, 75, 76, 77, 78, 87, 90, 94, 102, 103, 105, 106, 108,
+> 113, 114, 129, 130, 131, 134, 135, 136, 138, 139, 145, 148, 157, 163,
+> 170, 176, 198, 205, 216, 217.
 >
-> Milicias y marina, tomos 4, 11, 16, 19, 35, 50, 53, 72, 89, 99, 100,
-> 123, 125.
+> Milicias y marina, tomos 4, 6, 11, 16, 19, 35, 50, 53, 72, 89, 99,
+> 100, 123, 125.
 >
-> Miscelánea, tomos 2, 10, 59, 95, 112.
+> Miscelánea, tomos 2, 10, 59, 74, 95, 112, 122.
 >
 > Negros y esclavos:
 >
@@ -15676,13 +16552,16 @@ Sección archivo anexo:
 
 Bulas de Cruzada, 43.
 
+Historia, 4.
+
 Justicia, tomo 6.
 
 > Reales cédulas y órdenes, tomo 16 y 20.
 
 ***Archivo General de Simancas (Valladolid)***
 
-Secretaría de Estado y Despacho de la Guerra, 7067, 7168, 7174, 7184.
+Secretaría de Estado y Despacho de la Guerra, 7067, 7078, 7168, 7174,
+7184.
 
 ***Archivo Histórico de Antioquia (Medellín)***
 
@@ -15718,9 +16597,14 @@ Secretaría de Estado y del Despacho del Estado, 3092.
 
 Archivo Histórico Judicial de Girón, paquetes 5b y 19.
 
+***Archivo Histórico Restrepo (Bogotá, disponible en el AGN y en la
+BNC)***
+
+Fondo I, vol. 4.
+
 ***Biblioteca Luis Ángel Arango (Bogotá)***
 
-Sala de libros raros y manuscritos, MSS756.
+Sala de libros raros y manuscritos, MSS053, MSS054, MSS756.
 
 ***Biblioteca Nacional de Colombia (Bogotá)***
 
@@ -15728,13 +16612,16 @@ Fondo Pineda, tomo 852.
 
 Fondo Quijano, tomo 254.
 
-Fondo comuneros, tomos V y VIII.
+Fondo Comuneros, tomos V y VIII.
+
+Raros manuscritos, 223, 354.
 
 ***Universidad de Sevilla, Biblioteca Rector Machado y Núñez***
 
 Fondo Antiguo, A 113/136.
 
-**Fuentes** **seriadas**
+Fuentes seriadas
+----------------
 
 *Gaceta de Madrid*, núm. 20, 11 de marzo de 1791; núm. 91, 13 de
 noviembre de 1804.
@@ -15749,7 +16636,8 @@ junio de 1791.
 *Redactor Americano del Nuevo Reyno de Granada*, núm. 48, 19 de
 noviembre de 1808.
 
-**Libros manuscritos**
+Libros manuscritos
+------------------
 
 Moreno y Escandón, Francisco Antonio. *Estado del virreynato de Santa
 Fee, Nuevo Reyno de Granada y Relación de su Gobierno y Mando del Exmo.
@@ -15758,7 +16646,8 @@ Señor Bailío Don Pedro Mesía de la Cerda*. BDH-BNE, Mss/3118, 1772.
 *Papeles referentes a los esclavos negros en América*. BDH-BNE,
 Mss/8734, sf.
 
-**Mapas y Atlas**
+Mapas y Atlas
+-------------
 
 Codazzi, Agustín, y Manuel María Paz. *Atlas geográfico é histórico de
 la República de Colombia (Antigua Nueva Granada)*. París: A. Lahure,
@@ -15777,7 +16666,8 @@ Capitania General de Caracas". Ega (río Marañón), 1783. Library of
 Congress Geography and Map Division Washington.
 [[https://lccn.loc.gov/2003684535]{.underline}](https://lccn.loc.gov/2003684535).
 
-**Fuentes primarias impresas**
+Fuentes primarias impresas
+--------------------------
 
 Abreu y Bertodano, José Antonio de. *Colección de los tratados de paz,
 alianza, neutralidad, garantía, protección, tregua, mediación, accesión,
@@ -15867,6 +16757,10 @@ los colegios electorales y constituyentes de Cundinamarca y Antioquia,
 1811-1812*, I:91--277. Colección Bicentenario 7. Bogotá, Bucaramanga:
 Universidad Externado de Colombia, Universidad Industrial de Santander,
 2010.
+
+Hernández de Alba, Guillermo, ed. *Archivo Nariño*. Publicación digital.
+VI vols. Bogotá: Biblioteca de la Presidencia de la República, 1990.
+[[http://www.bdigital.unal.edu.co/8059/1/Archivo\_Nariño.html]{.underline}](http://www.bdigital.unal.edu.co/8059/1/Archivo_Nariño.html).
 
 Huerto Vizcarra, Héctor, ed. *La rebelión de Túpac Amaru II*. Segunda
 edición. 7 vols. Nueva Colección Documental de la Independencia del
@@ -16218,7 +17112,8 @@ de Antonio Marín, 1738.
 Vizcaíno, Vicente. *Código y práctica criminal, arreglado a las leyes de
 España*. Madrid: Imprenta de la viuda de Ibarra, 1797.
 
-**Recursos digitales y bases de datos**
+Recursos digitales y bases de datos[^1356]
+------------------------------------------
 
 Agencia Española de Cooperación Internacional para el Desarrollo
 (AECID). *Biblioteca digital*. 2018.
@@ -16314,11 +17209,16 @@ sf.
 [[http://digibug.ugr.es/handle/10481/163]{.underline}](http://digibug.ugr.es/handle/10481/163)
 \[acceso con registro\]
 
+Universidad Nacional de Colombia. *bdigital. Repositorio institucional
+UN*. 2019.
+[[http://www.bdigital.unal.edu.co/]{.underline}](http://www.bdigital.unal.edu.co/)
+
 Universidad Rey Juan Carlos. *Biblioteca digital. Colección fondo
 antiguo*. 2018.
 [[https://eciencia.urjc.es/]{.underline}](https://eciencia.urjc.es/)
 
-**Software de análisis de datos**
+Software de análisis de datos
+-----------------------------
 
 Dekker, Ronald Haentjens, y Gregor Middel. *CollateX* (versión 1.7.1).
 Java/Python client, HTML, Java, Python. Ámsterdam: The Interedition
@@ -16329,7 +17229,8 @@ QGIS Development Team. *QGIS Geographic Information System* (versión
 3.8.3-Zanzibar). Windows, Linux, Mac OS X, C++, Python, 2019.
 [[https://qgis.org/es/site/]{.underline}](https://qgis.org/es/site/).
 
-**Referencias bibliográficas**
+Referencias bibliográficas
+--------------------------
 
 Afanador-Llach, María José. "Political Economy, Geographical
 Imagination, and Territory in the Making and Unmaking of New Granada,
@@ -16644,12 +17545,14 @@ Ediciones y Publicaciones, 1990.García Bascuñana, Juan Francisco.
 *Documents pour l'histoire du français langue étrangère ou seconde*,
 núm. 31 (2003). http://journals.openedition.org/dhfles/1362.García de
 los Arcos, María Fernanda. *Forzados y reclutas: los criollos
-novohispanos en Asia (1756 - 1808)*. México: Potrerillos,
-1996.García-Gallo, Alfonso. "Las Reales Audiencias de las Indias y la
-Capitanía General de Venezuela". *Revista Santander*, núm. 14 (2019):
-84--105.Garnot, Benoît. "Justice, infrajustice, parajustice et extra
-justice dans la France d'Ancien Régime". *Crime, Histoire & Sociétés /
-Crime, History & Societies* 4, núm. 1 (el 1 de enero de 2000): 103--20.
+novohispanos en Asia (1756 - 1808)*. México: Potrerillos, 1996.García
+González, Juan. "Traición y alevosía en la Alta Edad Media". *Anuario de
+Historia del Derecho español*, núm. 32 (1962): 323--46.García-Gallo,
+Alfonso. "Las Reales Audiencias de las Indias y la Capitanía General de
+Venezuela". *Revista Santander*, núm. 14 (2019): 84--105.Garnot, Benoît.
+"Justice, infrajustice, parajustice et extra justice dans la France
+d'Ancien Régime". *Crime, Histoire & Sociétés / Crime, History &
+Societies* 4, núm. 1 (el 1 de enero de 2000): 103--20.
 https://doi.org/10.4000/chs.855.Garrido Otoya, Margarita. "La paz de la
 razón liberal, 1851-1854". En *Paz en la república: Colombia, siglo
 XIX*, editado por Carlos Camacho Arango, Margarita Garrido Otoya, y
@@ -16722,9 +17625,7 @@ Corruption and Rebellion in the Atlantic World, 1739-1760: The
 Confederate Societies of Smugglers", 2019.González Alonso, Benjamín. "La
 fórmula 'Obedézcase pero no se cumpla' en el Derecho castellano de la
 Baja Edad Media". *Anuario de Historia del Derecho español*, núm. 50
-(1980): 469--88. https://doi.org/0304-4319.González, Juan García.
-"Traición y alevosía en la Alta Edad Media". *Anuario de Historia del
-Derecho español*, núm. 32 (1962): 323--46.González Undurraga, Carolina.
+(1980): 469--88. https://doi.org/0304-4319.González Undurraga, Carolina.
 "El abogado y procurador de pobres: la representación de esclavos y
 esclavas a fines de la Colonia y principios de la República".
 *SudHistoria*, núm. 5 (2012): 81--98.---------. "'Para que mi justicia
@@ -16849,9 +17750,11 @@ Banco de la República, 2018. doi.org/10.12804/th9789587841121.La Parra,
 Emilio. *Manuel Godoy: la aventura del poder*. Tiempo de memoria 20.
 Barcelona: Tusquets, 2002.Lalinde Abadía, Jesús. "El régimen
 virreino-senatorial en Indias". *Anuario de historia del derecho
-español* XXXVII (1967): 5--244.Latasa, Pilar. "Matrimonios Clandestinos
-y Matrimonios Secretos". SSRN Scholarly Paper. Rochester, NY: Social
-Science Research Network, 2019.
+español* XXXVII (1967): 5--244.Lasso, Marixa. *Myths of Harmony: Race
+and Republicanism during the Age of Revolution, Colombia, 1795-1831*.
+University of Pittsburgh Press, 2007.Latasa, Pilar. "Matrimonios
+Clandestinos y Matrimonios Secretos". SSRN Scholarly Paper. Rochester,
+NY: Social Science Research Network, 2019.
 https://papers.ssrn.com/abstract=3368752.Le Goff, Jacques. *El orden de
 la memoria: el tiempo como imaginario*. Barcelona: Paidós, 2004.Levaggi,
 Abelardo. "Las instituciones de clemencia en el Derecho penal
@@ -16941,15 +17844,18 @@ esclavos por compra y gracia en la Provincia de Antioquia, 1780-1830".
 250--92. https://doi.org/10.15446/historelo.v9n17.57540.Melendreras
 Gimeno, María del Carmen. *Las campañas de Italia durante los años
 1743-1748*. Murcia: Universidad de Murcia, 1988.Melo Flórez, Jairo
-Antonio. "La Audiencia contra el príncipe de Bogotá. El proceso contra
-el indígena Ambrosio Pisco en la insurrección comunera de Nueva Granada
-de 1781". Blog. *Historia, crimen y justicia* (blog), el 14 de octubre
-de 2015. https://hccj.hypotheses.org/17.---------. "Lectura distante,
-fragmentada y colaborativa en el archivo infinito". *Relaciones.
-Estudios de Historia y Sociedad* 38, núm. 149 (2017): 169--89.---------.
-"Plazo, abolitio, dilatio: tres conceptos claves en el proceso de la
-gracia regia." Blog. *Historia, crimen y justicia* (blog), el 2 de junio
-de 2019. https://hccj.hypotheses.org/?p=454.---------. "Segmentación,
+Antonio. "El indulto en el proceso de Independencia de la Nueva Granada,
+1808-1821". *Revista Historia y Justicia*, núm. 6 (2016).
+https://doi.org/10.4000/rhj.612.---------. "La Audiencia contra el
+príncipe de Bogotá. El proceso contra el indígena Ambrosio Pisco en la
+insurrección comunera de Nueva Granada de 1781". Blog. *Historia, crimen
+y justicia* (blog), el 14 de octubre de 2015.
+https://hccj.hypotheses.org/17.---------. "Lectura distante, fragmentada
+y colaborativa en el archivo infinito". *Relaciones. Estudios de
+Historia y Sociedad* 38, núm. 149 (2017): 169--89.---------. "Plazo,
+abolitio, dilatio: tres conceptos claves en el proceso de la gracia
+regia." Blog. *Historia, crimen y justicia* (blog), el 2 de junio de
+2019. https://hccj.hypotheses.org/?p=454.---------. "Segmentación,
 modelado y visualización de fuentes históricas para el estudio del
 perdón en el Nuevo Reino de Granada del siglo XVIII". En *Abstracts*.
 México, 2018.
@@ -16959,9 +17865,12 @@ mínimas. México: El Colegio de México, 2017.Méndez Salcedo, Ildefonso.
 *La Capitanía General de Venezuela, 1777-1821: una revisión
 historiográfica, legislativa y documental sobre el carácter y la
 significación de su establecimiento*. Caracas: Universidad Católica
-Andrés Bello, 2002.Minaudier, Jean Pierre. "Pequeñas patrias en la
-tormenta: Pasto y Barbacoas a finales de la colonia y en la
-Independencia". *Historia y Espacio*, núm. 11--12 (1987): 130--65.
+Andrés Bello, 2002.Michelena, Carmen L. *Luces revolucionarias: de la
+rebelión de Madrid (1795) a la rebelión de La Guaira (1797)*. Caracas:
+Fundación Centro de Estudios Latinoamericanos Rómulo Gallegos,
+2010.Minaudier, Jean Pierre. "Pequeñas patrias en la tormenta: Pasto y
+Barbacoas a finales de la colonia y en la Independencia". *Historia y
+Espacio*, núm. 11--12 (1987): 130--65.
 https://doi.org/10.25100/hye.v0i11-12.6815.Minchom, Martin. *The People
 of Quito, 1690-1810. Change and Unrest in the Underclass*. E-Book. New
 York: Routledge, 2019.Montoya Gómez, María Victoria. "Castigo y perdón:
@@ -17288,7 +18197,10 @@ Granada". En *Slaves, Subjects, and Subversives. Blacks in Colonial
 Latin America*, editado por Jane G. Landers y Barry M. Robinson,
 175--208. Albuquerque: University of New Mexico Press, 2006.Spierenburg,
 Pieter. *Violence and punishment: civilizing the body through time*.
-Cambridge, UK ; Malden, MA: Polity, 2013.Stein, Stanley J., y Barbara H.
+Cambridge, UK ; Malden, MA: Polity, 2013.Spillemaeker, Frédéric. "La
+révolte de Coro : les catégories bouleversées à l'ère des révolutions
+(Venezuela, 1795)". *Nuevo Mundo Mundos Nuevos*, Débats, 2019.
+https://doi.org/10.4000/nuevomundo.75193.Stein, Stanley J., y Barbara H.
 Stein. *Silver, trade, and war: Spain and America in the making of early
 modern Europe*. Baltimore: Johns Hopkins University Press,
 2000.Tannenbaum, Frank. *Slave and Citizen. The Negro in the Americas*.
@@ -19092,11 +20004,11 @@ americanista*, núm. 41 (1991): 11--19.
     al Ministro de Gracia y Justicia por la remisión a España de su
     esposo a pesar de haber sido perdonado en nombre de SM", La Guaira,
     15 de marzo de 1798, AHN, Consejo de Indias, Secretaría de
-    Presidencia, Leg. 21672, exp. 3.
+    Presidencia, 21672, exp. 3.
 
 [^317]: "Real resolución y libertad a Juan José Mendiri y Martín de
     Goenaga", Madrid, 25 de junio de 1802, AHN, Consejo de Indias,
-    Secretaría de Presidencia, Leg. 21672, exp. 8, doc. 5.
+    Secretaría de Presidencia, 21672, exp. 8, doc. 5.
 
 [^318]: Este texto ha despertado gran interés en la historiografía
     colombianista, especialmente después de la edición realizada por
@@ -21174,7 +22086,7 @@ americanista*, núm. 41 (1991): 11--19.
 
 [^822]: "Josefa Ramona de Gracian, esposa de Martín de Goenaga", La
     Guaira, 15 de marzo de 1798, AHN, Consejo de Indias, Secretaría de
-    Presidencia, leg. 21672, exp. 3.
+    Presidencia, 21672, exp. 3.
 
 [^823]: La *ostiaria mendicitas* se refería a la de aquellos que se
     postraban *ad portas* de la iglesia para pedir limosna de los
@@ -22168,7 +23080,13 @@ americanista*, núm. 41 (1991): 11--19.
 [^1092]: "El conde de Torre-Velarde al Príncipe de la Paz", AGI, Estado,
     53, N. 59.
 
-[^1093]: McFarlane, *Colombia before Independence*, 308.
+[^1093]: "Nariño responde al interrogatorio del oidor Hernández de
+    Alba", Santa Fe, 30 de julio de 1797, Guillermo Hernández de Alba,
+    ed., *Archivo Nariño*, Publicación digital, vol. II, VI vols.
+    (Bogotá: Biblioteca de la Presidencia de la República, 1990), núm.
+    81,
+    [[http://www.bdigital.unal.edu.co/8059/1/Archivo\_Nariño.html\#83c]{.underline}](http://www.bdigital.unal.edu.co/8059/1/Archivo_Nariño.html#83c).
+    McFarlane, *Colombia before Independence*, 308.
 
 [^1094]: "El conde de Torre-Velarde al Príncipe de la Paz", AGI, Estado,
     53, N. 59.
@@ -22717,15 +23635,29 @@ americanista*, núm. 41 (1991): 11--19.
 [^1260]: Echeverri, *Esclavos e indígenas realistas*, cap. 2, "Castigo y
     negociaciones".
 
-[^1261]: McFarlane, *Colombia before Independence*, 279--80.
+[^1261]: Un análisis detenido de esta rebelión puede consultarse en
+    Frédéric Spillemaeker, "La révolte de Coro : les catégories
+    bouleversées à l'ère des révolutions (Venezuela, 1795)", *Nuevo
+    Mundo Mundos Nuevos*, Débats, 2019,
+    https://doi.org/10.4000/nuevomundo.75193.
 
-[^1262]: Víctor Manuel Uribe-Urán, *Vidas honorables: abogados, familia
-    y política en Colombia, 1780-1850* (Medellín: Fondo Editorial
-    Universidad EAFIT, 2008), 122--31.
+[^1262]: AGI, Caracas, 426, f. 32v.
 
-[^1263]: Uribe-Urán, 122--23.
+[^1263]: Spillemaeker, "La révolte de Coro", párr. 10.
 
-[^1264]: AR, fondo I, vol. 4, f. 615. Diana E. Soto Arango, "El
+[^1264]: AGI, Caracas, 426, ff. 39v-40r.
+
+[^1265]: AGI, Caracas, 426, ff. 42v-43v.
+
+[^1266]: AGI, Caracas, 426, ff. 33r-v.
+
+[^1267]: McFarlane, *Colombia before Independence*, 279--80.
+
+[^1268]: Uribe-Urán, *Vidas honorables*, 122--31.
+
+[^1269]: Uribe-Urán, 122--23.
+
+[^1270]: AR, fondo I, vol. 4, f. 615. Diana E. Soto Arango, "El
     movimiento de estudiantes y catedráticos en Santa Fe de Bogotá a
     finales del siglo XVIII", en *Movimientos estudiantiles en la
     historia de América Latina*, ed. Renate Marsiske y Lourdes Alvarado,
@@ -22733,91 +23665,205 @@ americanista*, núm. 41 (1991): 11--19.
     Estudios sobre la Universidad, Universidad Nacional Autónoma de
     México; Plaza y Valdés Editores, 1999), 50--51.
 
-[^1265]: AR, fondo I, vol. 4, ff. 615v-16r. "Ezpeleta a Manuel Godoy",
+[^1271]: AR, fondo I, vol. 4, ff. 615v-16r. "Ezpeleta a Manuel Godoy",
     Santa Fe, 19 de febrero de 1796, AGI, Estado, 56A, N. 2. McFarlane,
     *Colombia before Independence*, 285--86.
 
-[^1266]: "Minuta de oficio sobre el asunto de los pasquines", 22 de
+[^1272]: "Minuta de oficio sobre el asunto de los pasquines", 22 de
     septiembre de 1796, AGI, Estado, 56A, N. 2.
 
-[^1267]: AR, fondo I, vol. 4, ff. 616r-v.
+[^1273]: AR, fondo I, vol. 4, ff. 616r-v.
 
-[^1268]: "Instancia de Luis Gómez, Pablo José de Uribe y José María
+[^1274]: "Instancia de Luis Gómez, Pablo José de Uribe y José María
     Durán", AGI, Estado, 56A, N. 2.
 
-[^1269]: Uribe-Urán, *Vidas honorables*, 126.
+[^1275]: Uribe-Urán, *Vidas honorables*, 126.
 
-[^1270]: Uribe-Urán, 129.
+[^1276]: Uribe-Urán, 129.
 
-[^1271]: Silva, *Los ilustrados de Nueva Granada*, 104--5.
+[^1277]: Silva, *Los ilustrados de Nueva Granada*, 104--5.
 
-[^1272]: McFarlane, *Colombia before Independence*, 289--90; Silva, *Los
+[^1278]: McFarlane, *Colombia before Independence*, 289--90; Silva, *Los
     ilustrados de Nueva Granada*, 106.
 
-[^1273]: AR, fondo I, vol. 4, ff. 617r-v. "José de Ezpeleta al duque de
+[^1279]: AR, fondo I, vol. 4, ff. 617r-v. "José de Ezpeleta al duque de
     la Alcudia \[Manuel Godoy\]", Santa Fe, 20 de mayo de 1795, AGI,
     Estado, 56A, N. 1.
 
-[^1274]: AGI, Estado, 56A, N. 1.
+[^1280]: AGI, Estado, 56A, N. 1.
 
-[^1275]: "Virrey de Santa Fe sobre inscripciones y pasquines
+[^1281]: "Virrey de Santa Fe sobre inscripciones y pasquines
     sediciosos", s.f., AGI, Estado, 53, N. 55. Javier Ocampo López, *El
     cura Juan Fernández de Sotomayor y Picón y los catecismos de la
     Independencia* (Bogotá: Universidad del Rosario, 2010), 53--54.
 
-[^1276]: "El virrey de Santa Fe al duque de la Alcudia", Santa Fe, 19 de
+[^1282]: "El virrey de Santa Fe al duque de la Alcudia", Santa Fe, 19 de
     octubre de 1795, AGI, Estado, 56A, N. 1.
 
-[^1277]: "El arzobispo de Santa Fe, Baltasar Jaime Martínez, al virrey",
-    Santa Fe, 30 de septiembre de 1765, AGI, Estado, 52, N. 25. La
+[^1283]: "El arzobispo de Santa Fe, Baltasar Jaime Martínez, al virrey",
+    Santa Fe, 30 de septiembre de 1795, AGI, Estado, 52, N. 25. La
     solicitud de perdón está incluida en el punto número 76 de las
     reflexiones del arzobispo.
 
-[^1278]: "El virrey de Santa Fe al duque de la Alcudia", Santa Fe, 19 de
+[^1284]: "El virrey de Santa Fe al duque de la Alcudia", Santa Fe, 19 de
     octubre de 1795, AGI, Estado, 56A, N. 1.
 
-[^1279]: "El arzobispo de Santa Fe, Baltasar Jaime Martínez, al virrey",
+[^1285]: "El arzobispo de Santa Fe, Baltasar Jaime Martínez, al virrey",
     Santa Fe, 30 de septiembre de 1765.
 
-[^1280]: "Reservada del virrey de Santa Fe al duque de la Alcudia",
+[^1286]: "Reservada del virrey de Santa Fe al duque de la Alcudia",
     Santa Fe, 19 de septiembre de 1794, AGI, Estado, 55.
 
-[^1281]: Silva, *Los ilustrados de Nueva Granada*, 105--6.
+[^1287]: "Solicitud de indulto para Pablo José de Uribe", Santa Fe, 17
+    de abril de 1795, BLAA-RM, MSS053.
 
-[^1282]: Pedro Grases, *La conspiración de Gual y España y el ideario de
+[^1288]: "Solicitud de indulto para José María Durán", Santa Fe, 17 de
+    abril de 1795, BLAA-RM, MSS054.
+
+[^1289]: "Solicitud de indulto para Pablo José de Uribe" y "Solicitud de
+    indulto para José María Durán".
+
+[^1290]: Silva, *Los ilustrados de Nueva Granada*, 105--6.
+
+[^1291]: Pedro Grases, *La conspiración de Gual y España y el ideario de
     la independencia* (Caracas: Instituto Panamericano de Geografía e
     Historia, 1949), 19--27; Carmen L. Michelena, *Luces
     revolucionarias: de la rebelión de Madrid (1795) a la rebelión de La
     Guaira (1797)* (Caracas: Fundación Centro de Estudios
     Latinoamericanos Rómulo Gallegos, 2010), cap. 1.
 
-[^1283]: Emilio La Parra, *Manuel Godoy: la aventura del poder*, Tiempo
+[^1292]: Emilio La Parra, *Manuel Godoy: la aventura del poder*, Tiempo
     de memoria 20 (Barcelona: Tusquets, 2002), 122--34.
 
-[^1284]: "Pedro de Mendinueta al Príncipe de la Paz", Santa Fe, 19 de
+[^1293]: "Pedro de Mendinueta al Príncipe de la Paz", Santa Fe, 19 de
     octubre de 1797, AGI, Santa Fe, 52, N. 64.
 
-[^1285]: "Pedro de Mendinueta al Príncipe de la Paz", Santa Fe, 19 de
+[^1294]: "Pedro de Mendinueta al Príncipe de la Paz", Santa Fe, 19 de
     mayo de 1798, AGI, Santa Fe, 52, N. 68.
 
-[^1286]: Patiño Millán, *Criminalidad, ley penal*, 84--85.
+[^1295]: Michelena, *Luces revolucionarias*, 243--44.
 
-[^1287]: AGNC, sección colonia, juicios criminales, tomo 205, doc. 9, f.
+[^1296]: "Indulto publicado a nombre de SM con relación a la sublevación
+    de Caracas", Caracas, 20 de julio de 1797, AGI, Caracas, 427, ff.
+    732r-36v.
+
+[^1297]: "Lista de los que se han acogido al indulto", Caracas, 8 de
+    agosto de 1797, AGI, Estado, 71, N. 2. En ese listado no aparece
+    José Cordero, uno de los líderes de la conspiración, quien se
+    presentó poco después. Sobre la composición multiétnica de los
+    implicados en la conspiración véase Marixa Lasso, *Myths of Harmony:
+    Race and Republicanism during the Age of Revolution, Colombia,
+    1795-1831* (University of Pittsburgh Press, 2007), 29--32.
+
+[^1298]: "Examen del Real Acuerdo de Caracas sobre algunos reos que se
+    acogieron al indulto", Caracas, 16 de agosto de 1797, AHN, Consejo
+    de Indias, Secretaría de Presidencia, 21672, exp. 4. "Remisión de
+    reos por el Real Acuerdo de Caracas", Caracas, 16 de agosto de 1797,
+    AGI, Estado, 71, N. 2.
+
+[^1299]: "Los oidores honorarios en La Guaira al capitán general de
+    Caracas", La Guaira, 23 de julio de 1797, AGI, Caracas, 427, ff.
+    738r-40v.
+
+[^1300]: "Real Acuerdo extraordinario", Caracas, 25 de julio de 1797,
+    AGI, Caracas, 427, ff. 747v-49v.
+
+[^1301]: La Guaira, 24 de julio de 1797, AGI, Caracas, 427, ff.
+    745v-47r.
+
+[^1302]: Los liberados fueron Miguel Granadino y José Ramón Príncipe.
+    "Real Acuerdo", Caracas, 3 de agosto de 1797, AGI, Caracas, 427, f.
+    760r. Un homónimo de Granadino fue condenado a destierro y prisión
+    en Puerto Rico. "Remisión de reos por el Real Acuerdo de Caracas",
+    Caracas, 16 de agosto de 1797, AGI, Estado, 71, N. 2.
+
+[^1303]: Michelena, *Luces revolucionarias*, 220 y 271.
+
+[^1304]: Grases, *La conspiración de Gual y España*, 26--27.
+
+[^1305]: Los detalles del castigo ejemplarizante que se realizó contra
+    España y los demás condenados son narrados por Michelena, *Luces
+    revolucionarias*, 322--24.
+
+[^1306]: "Memorial de Miguel Antonio Larruleta, Martín de Goenaga y Juan
+    Joseph Mendiri, en el que solicitan sean liberados y regresados a La
+    Guaira", Cádiz, 21 de noviembre de 1797, AHN, Consejo de Indias,
+    Secretaría de Presidencia, 21672, exp. 4.
+
+[^1307]: El obispo de Caracas ya había intentado mediar por Ronan en el
+    Real Acuerdo. "Oficio del obispo de Caracas", Caracas, 21 de julio
+    de 1797, AGI, Caracas, 427, f. 813r. La solicitud de Ronan se
+    encuentra en "Patricio Román, ingeniero extraordinario de los reales
+    ejércitos, justifica su actuación durante la rebelión de Caracas y
+    explica el motivo de la concesión del indulto", Cádiz, 1 de
+    diciembre de 1797, AHN, Consejo de Indias, Secretaría de
+    Presidencia, 21672, exp. 3.
+
+[^1308]: Véase el apartado 3.5.3.
+
+[^1309]: "Real resolución y libertad a Juan José Mendiri y Martín de
+    Goenaga", Madrid, 25 de junio de 1802, AHN, Consejo de Indias,
+    Secretaría de Presidencia, 21672, exp. 8, doc. 5.
+
+[^1310]: "Comunicación de la gracia de indulto concedida a Juan Lartique
+    Condé", Santander, 4 de enero de 1803, AHN, Consejo de Indias,
+    Secretaría de Presidencia, 21672, exp. 8, doc. 6.
+
+[^1311]: "Consulta del Consejo de Indias sobre José Archilla", s.f.,
+    AGI, Estado, 71, N. 2.
+
+[^1312]: Los memoriales de estos reos pueden consultarse en AGI, Estado,
+    71, N. 2.
+
+[^1313]: "Minuta de Oficio a Antonio Cornel", San Lorenzo, 11 de
+    noviembre de 1799, AGI, Estado, 56A, N. 2.
+
+[^1314]: "Instancia de Luis Gómez al rey", Madrid, 24 de diciembre de
+    1799, AGI, Estado, 56A, N. 2.
+
+[^1315]: "Minuta de Oficio a Mariano Luis de Urquijo", Madrid, 8 de
+    enero de 1800, AGI, Estado, 56A, N. 2.
+
+[^1316]: "Instancia a S.M. de Pedro Pradilla a nombre de José María
+    Durán", San Lorenzo, 18 de noviembre de 1799, AGI, Estado, 56A, N.
+    2.
+
+[^1317]: "Oficio extracto de Secretaría sobre la solicitud de indulto de
+    Durán", 23 de noviembre de 1799, AGI, Estado, 56A, N. 2.
+
+[^1318]: Soto Arango, "El movimiento de estudiantes", 58--59.
+
+[^1319]: AR, fondo I, vol. 4, ff. 620v-21r. Soto Arango, 57.
+
+[^1320]: "Resumen de los procesos contra Nariño y Ricaurte", 19 de
+    noviembre, Hernández de Alba, ed., *Archivo Nariño*, núm. 93,
+    [[http://www.bdigital.unal.edu.co/8059/1/Archivo\_Nariño.html\#95c]{.underline}](http://www.bdigital.unal.edu.co/8059/1/Archivo_Nariño.html#95c).
+
+[^1321]: En 1806 todavía se encontraba intentando ubicarse en algún
+    empleo menor sin ningún éxito. Véase por ejemplo la "Minuta de
+    Oficio al Dr. Soler", San Ildefonso, 14 de agosto de 1806, AGI,
+    Estado, 56A, N. 2.
+
+[^1322]: AGI, Caracas, 426, f. 32v.
+
+[^1323]: Patiño Millán, *Criminalidad, ley penal*, 84--85.
+
+[^1324]: AGNC, sección colonia, juicios criminales, tomo 205, doc. 9, f.
     450r.
 
-[^1288]: AHM, sección colonia, Concejo de Medellín, actas, tomo 73, f.
+[^1325]: AHM, sección colonia, Concejo de Medellín, actas, tomo 73, f.
     209v.
 
-[^1289]: Véase Anexo 30.
+[^1326]: Véase Anexo 30.
 
-[^1290]: Fernando VII había promulgado un indulto en Madrid el 2
+[^1327]: Fernando VII había promulgado un indulto en Madrid el 2
     septiembre de 1814, pero este abarcó únicamente a los reos militares
     de España e Indias. Hubo otros indultos generales, como el otorgado
     a los segovianos el 2 de noviembre de ese mismo año; pero el perdón
     específico para los reinos de las Indias se promulgaría hasta el 24
     de enero de 1817.
 
-[^1291]: El uso del perdón real en la restauración monárquica de Tierra
+[^1328]: El uso del perdón real en la restauración monárquica de Tierra
     Firme merece atención particular por la compleja estrategia para la
     recuperación del vasallaje, mezclada con abusos autoritarios y
     reorganización de las élites. Al respecto véase Daniel Gutiérrez
@@ -22830,7 +23876,7 @@ americanista*, núm. 41 (1991): 11--19.
     (1815-1821)* (Castelló de la Plana: Universitat Jaume I, 2013),
     223--30.
 
-[^1292]: Como señaló François-Xavier Guerra, la reacción a la acefalía
+[^1329]: Como señaló François-Xavier Guerra, la reacción a la acefalía
     monárquica fue diferente en buena medida porque las noticias
     llegaron por separado. *Modernidad e independencias*, 130. También
     Jaime E. Rodríguez O., *La independencia de la América española*,
@@ -22845,62 +23891,91 @@ americanista*, núm. 41 (1991): 11--19.
     diplomacia durante el interregno en Nueva Granada, 1808-1816*,
     Bicentenario (Bogotá: Universidad Externado de Colombia, 2010), 115.
 
-[^1293]: Cartagena, 26 de agosto de 1808, AGNC, sección colonia,
+[^1330]: Cartagena, 26 de agosto de 1808, AGNC, sección colonia,
     milicias y marina, tomo 61, f. 1029.
 
-[^1294]: Sobre la oposición Cartagena -- Santa Fe entre 1808 y 1810,
+[^1331]: Sobre la oposición Cartagena -- Santa Fe entre 1808 y 1810,
     véase Alfonso Múnera, *El fracaso de la nación. Religión, clase y
     raza en el Caribe colombiano (1717-1810)* (Bogotá: Banco de la
     República --- Ancora Editores, 1998), 140--87; McFarlane, *Colombia
     before Independence*, 338--41; Cuño Bonito, *El retorno del rey*,
     101--2, 112--13; Gutiérrez Ardila, *Un nuevo reino*, 114--17.
 
-[^1295]: Gutiérrez Ardila, *Un nuevo reino*, 119.
+[^1332]: Gutiérrez Ardila, *Un nuevo reino*, 119.
 
-[^1296]: Véase Anexo 23.
+[^1333]: Véase Anexo 23.
 
-[^1297]: Lomné, "«El feliz momento»", 27--28; Villamizar Duarte, *La
+[^1334]: Lomné, "«El feliz momento»", 27--28; Villamizar Duarte, *La
     felicidad del Nuevo Reyno*, sec. 3447.
 
-[^1298]: Villamizar Duarte, *La felicidad del Nuevo Reyno*, sec. 3422.
+[^1335]: Villamizar Duarte, *La felicidad del Nuevo Reyno*, sec. 3422.
 
-[^1299]: José Manuel Restrepo, *Historia de la revolución de la
-    República de Colombia*, t. II (París: Librería Americana, 1827), 38.
+[^1336]: AGNC, sección colonia, milicias y marina, tomo 6, doc. 2;
+    juicios criminales, tomo 94, doc. 18; juicios criminales, tomo 130,
+    doc. 67; sección archivo anexo, historia, tomo 4, doc. 29.
 
-[^1300]: Restrepo, *Historia de la revolución*, 44.
+[^1337]: AGNC, sección colonia, juicios criminales, tomo 10, doc. 2;
+    juicios criminales, tomo 105, doc. 6.
 
-[^1301]: Heras Santos, "Indultos concedidos por la Cámara de Castilla en
+[^1338]: AGNC, sección colonia, miscelánea, tomo 122, doc. 6.
+
+[^1339]: AGNC, sección colonia, juicios criminales, tomo 6, doc. 25;
+    tomo 28, doc. 12; tomo 50, docs. 1 y 2; tomo 70, docs. 7 - 10; tomo
+    75, doc. 4; tomo 76, doc. 26; tomo 77, doc. 17; tomo 78, doc. 10;
+    tomo 108, doc. 9; tomo 130, doc. 67; tomo 139, doc. 9; tomo 145,
+    doc. 22.
+
+[^1340]: Respecto a la lucha de poder entre las autoridades regias en el
+    Nuevo Reino y las españolas, así como entre el virreinato y la Junta
+    de Quito, véase Gutiérrez Ardila, *Un nuevo reino*, caps. 3--4.
+
+[^1341]: Kuethe, *Military reform*, 182--83.
+
+[^1342]: Gutiérrez Ardila, *Un nuevo reino*, 158.
+
+[^1343]: McFarlane, *Colombia before Independence*, 332.
+
+[^1344]: Jairo Antonio Melo Flórez, "El indulto en el proceso de
+    Independencia de la Nueva Granada, 1808-1821", *Revista Historia y
+    Justicia*, núm. 6 (2016), https://doi.org/10.4000/rhj.612.
+
+[^1345]: Hobbes, *Leviatán*, 125.
+
+[^1346]: Heras Santos, "Indultos concedidos por la Cámara de Castilla en
     tiempos de los Austrias", 116.
 
-[^1302]: Tomás y Valiente, "El perdón de la parte ofendida", 94--114;
+[^1347]: Tomás y Valiente, "El perdón de la parte ofendida", 94--114;
     Rodríguez Flores, *El perdón real*, 239--78.
 
-[^1303]: En la transcripción de Colón de Larriátegui: \"Asimismo usando
+[^1348]: En la transcripción de Colón de Larriátegui: \"Asimismo usando
     de su Real benignidad\...\"
 
-[^1304]: \"Y ha declarado S.M.\" Colón de Larriátegui, *Juzgado
+[^1349]: \"Y ha declarado S.M.\" Colón de Larriátegui, *Juzgado
     militares*.
 
-[^1305]: Hasta aquí cédula copiada por Colón de Larriátegui.
+[^1350]: Hasta aquí cédula copiada por Colón de Larriátegui.
 
-[^1306]: *Diccionario de Autoridades*: "El peso que lleva, o puede
+[^1351]: *Diccionario de Autoridades*: "El peso que lleva, o puede
     llevar sobre sí el hombre o la béstia, transportándole de una parte
     a otra, como tambien el carro o la nave."
 
-[^1307]: *Diccionario de Autoridades*: "Lio grande de ropa, mui ajustada
+[^1352]: *Diccionario de Autoridades*: "Lio grande de ropa, mui ajustada
     y apretada, para poder llevarla de una parte a otra, lo que se hace
     regularmente con las mercadurías que se han de transportar, y se
     cubre con harpillera o lienzo embreado o encerado, para que no se
     maltraten con los temporales."
 
-[^1308]: *Diccionario de Autoridades*: "Especie de fardo, que es mayor o
+[^1353]: *Diccionario de Autoridades*: "Especie de fardo, que es mayor o
     menor que los regulares de dos en carga. Es término del Comercio
     marítimo."
 
-[^1309]: *Diccionario de Autoridades*: "La caxa grande, que clavada la
+[^1354]: *Diccionario de Autoridades*: "La caxa grande, que clavada la
     tapa con sus clavos al rededor, sirve para llevar de unas partes a
     otras los géneros y cosas con seguridad, sin que se lastimen, ni
     registren, por los que las condúcen."
 
-[^1310]: *Diccionario de Autoridades*: "Especie de arca hecha de cueros
+[^1355]: *Diccionario de Autoridades*: "Especie de arca hecha de cueros
     o pellejos fuertes, o de madera cubierta de ellos."
+
+[^1356]: La fecha del recurso corresponde a su última versión o
+    actualización consultada, en caso de que esté disponible.
