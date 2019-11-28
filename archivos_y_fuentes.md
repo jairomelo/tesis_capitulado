@@ -43,9 +43,10 @@ Sección colonia:
 >
 > Historia eclesiástica, tomo 4.
 >
-> Juicios criminales, tomos 2, 6, 10, 34, 40, 49, 54, 58, 63, 64, 67,
-> 68, 75, 76, 87, 90, 94, 102, 103, 105, 106, 113, 114, 129, 130, 131,
-> 134, 135, 136, 138, 139, 148, 157, 163, 170, 176, 198, 205, 216, 217.
+> Juicios criminales, tomos 2, 6, 10, 28, 34, 40, 49, 50, 54, 58, 63,
+> 64, 67, 68, 70, 75, 76, 77, 78, 87, 90, 94, 102, 103, 105, 106, 108,
+> 113, 114, 129, 130, 131, 134, 135, 136, 138, 139, 145, 148, 157, 163,
+> 170, 176, 198, 205, 216, 217.
 >
 > Milicias y marina, tomos 4, 6, 11, 16, 19, 35, 50, 53, 72, 89, 99,
 > 100, 123, 125.
@@ -289,6 +290,10 @@ los colegios electorales y constituyentes de Cundinamarca y Antioquia,
 1811-1812*, I:91--277. Colección Bicentenario 7. Bogotá, Bucaramanga:
 Universidad Externado de Colombia, Universidad Industrial de Santander,
 2010.
+
+Hernández de Alba, Guillermo, ed. *Archivo Nariño*. Publicación digital.
+VI vols. Bogotá: Biblioteca de la Presidencia de la República, 1990.
+[[http://www.bdigital.unal.edu.co/8059/1/Archivo\_Nariño.html]{.underline}](http://www.bdigital.unal.edu.co/8059/1/Archivo_Nariño.html).
 
 Huerto Vizcarra, Héctor, ed. *La rebelión de Túpac Amaru II*. Segunda
 edición. 7 vols. Nueva Colección Documental de la Independencia del
@@ -640,8 +645,8 @@ de Antonio Marín, 1738.
 Vizcaíno, Vicente. *Código y práctica criminal, arreglado a las leyes de
 España*. Madrid: Imprenta de la viuda de Ibarra, 1797.
 
-Recursos digitales y bases de datos
------------------------------------
+Recursos digitales y bases de datos[^1]
+---------------------------------------
 
 Agencia Española de Cooperación Internacional para el Desarrollo
 (AECID). *Biblioteca digital*. 2018.
@@ -737,6 +742,10 @@ sf.
 [[http://digibug.ugr.es/handle/10481/163]{.underline}](http://digibug.ugr.es/handle/10481/163)
 \[acceso con registro\]
 
+Universidad Nacional de Colombia. *bdigital. Repositorio institucional
+UN*. 2019.
+[[http://www.bdigital.unal.edu.co/]{.underline}](http://www.bdigital.unal.edu.co/)
+
 Universidad Rey Juan Carlos. *Biblioteca digital. Colección fondo
 antiguo*. 2018.
 [[https://eciencia.urjc.es/]{.underline}](https://eciencia.urjc.es/)
@@ -755,3 +764,6 @@ QGIS Development Team. *QGIS Geographic Information System* (versión
 
 Referencias bibliográficas
 --------------------------
+
+[^1]: La fecha del recurso corresponde a su última versión o
+    actualización, en caso de que esté disponible.
