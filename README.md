@@ -14,7 +14,7 @@ Para facilitar la consulta de la tesis, incluyo una versión en `pdf ` en los [r
 
 También puede clonar el repositorio en un disco local `git clone https://github.com/jairomelo/tesis_capitulado.git` y leer los archivos en un lector de markdown.
 
-Otra forma consiste en convertir los archivos markdown a Word. Para ello recomiendo el uso de [Pandoc](https://pandoc.org/), aunque se debe tener en cuenta que la conversión no dará como resultado un archivo con todas las características del original.
+Otra forma consiste en convertir los archivos markdown a Word, HTML o PDF. Para ello recomiendo el uso de [Pandoc](https://pandoc.org/), aunque se debe tener en cuenta que la conversión no dará como resultado un archivo con todas las características del original.
 
 ## ¿Cómo se hicieron los archivos?
 
