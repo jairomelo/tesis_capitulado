@@ -1,11 +1,55 @@
-ANEXOS
-======
+Anexo documental
+================
+
+Desde el primer día que entramos al archivo para extraer documentos
+relativos al indulto en el virreinato del Nuevo Reino de Granada
+teníamos la duda de si sería posible hallar suficiente documentación
+para construir un argumento histórico, afortunadamente, dicha
+incertidumbre se fue despejando rápidamente pues prácticamente en
+cualquier sección que explorábamos hallábamos huellas del uso del perdón
+en diferentes ámbitos del gobierno y la justicia en América. El no
+contar con un fondo específico relacionado con indultos y perdones en
+los archivos consultados, similar al acumulado en el Archivo General de
+Simancas para el ámbito castellano,[^1] nos hizo pensar en la utilidad
+que hubiese representado para el desarrollo de esta tesis el haber
+contado con, al menos, una compilación de las cédulas de indulto general
+concedidas durante el siglo XVIII e inicios del XIX.
+
+La selección que presentamos a continuación pretende contribuir en parte
+a solventar esta carencia, sumándose así a otras pequeñas recopilaciones
+como las comprendidas en los apéndices de los textos de Tomás y Valiente
+y de María Inmaculada Rodríguez.[^2] En consecuencia, no incluimos en
+este anexo documentos que ya estaban publicados en dichas obras o en
+otras compilaciones impresas. El criterio básico consistió en que fuesen
+fuentes documentales inéditas, algunas fáciles de hallar en archivos
+digitales, pero la mayoría requiere aún de la consulta directa en los
+repositorios físicos. El segundo criterio de selección consistió en que
+fuesen testimonios que sin importar su ámbito de aplicación pudiesen
+representar el uso del perdón en la monarquía, tal como se solían
+incorporar en los cedularios y "diccionarios" que realizaban los
+magistrados como guía para la práctica de tribunales. De esta manera,
+este anexo documental es un cedulario y al mismo tiempo un instrumentos
+de referencia para algunas prácticas particulares como los perdones de
+parte, las ceremonias de perdón, la forma de impetración, las defensas
+de los procuradores, las formas y ceremoniales, y los procedimientos de
+recepción, aceptación y publicación de los indultos generales.
+
+Los documentos se presentan en orden cronológico para facilitar su
+consulta. También se incluye en cada entrada una descripción de la
+fuente, el lugar y la fecha de creación del documento. Los criterios de
+transcripción son los acostumbrados: se respetó la ortografía original
+modificando simplemente la acentuación cuando se consideró podía dar
+lugar a confusiones, se incluyeron signos de puntuación y se desplegaron
+las abreviaturas, las cuales se señalan con caracteres en cursiva. Las
+mayúsculas se modernizaron pero se respetaron las designaciones que
+tenían sentido antonomástico en la época. La foliación o paginación, así
+como los caracteres o palabras añadidos por razones de deterioro del
+documento, van incluidos dentro de corchetes.
 
 Anexo 1. Indulto general de Felipe V dirigido al virrey y Audiencia de
 México (1707)
 
-Fuente: AGI, *Indiferente General*, legajo 538, libro YY10, ff.
-170v-177r.
+Fuente: AGI, Indiferente General, 538, libro YY10, ff. 170v-177r.
 
 Lugar: Madrid
 
@@ -54,8 +98,8 @@ Fecha: 11 de septiembre de 1707
 > cumplim*ien*tos de ellos, paga de d*e*r*ech*os, arrivadas, pasis de
 > unos pu*n*tos sin lizenz*i*a lexitima p*ar*a ello, como suposiciones
 > de Navíos y Mercaderías en cabeza de Españoles, navegaz*io*n \[f.
-> 175r\] con \[e\]strangeros, y todas las demás cosas y casos q*ue*
-> están prohibidos p*o*r las d*ic*has ordenanzas, cédulas y leyes, sin
+> 175r\] con *e*strangeros, y todas las demás cosas y casos q*ue* están
+> prohibidos p*o*r las d*ic*has ordenanzas, cédulas y leyes, sin
 > indultar (como no indulto) delito ninguno de los de esta calidad, ni
 > tampoco los demás casos y delitos cometidos en la mar, y los que se
 > comenten en la saca de p*la*ta y ôro, y otros qualesquier gen*er*os
@@ -94,8 +138,7 @@ Anexo 2. Para que el Virrey de Nueva España y Gobernadores de aquel
 Reino, hagan publicar por bando lo resuelto por V. M. sobre que no se
 admitan a indulto las causas de ilícito comercio (1725)
 
-Fuente: AGI, *Indiferente General*, legajo 538, libro YY11, ff.
-262r-263r.
+Fuente: AGI, Indiferente General, 538, libro YY11, ff. 262r-263r.
 
 Lugar: Madrid
 
@@ -161,7 +204,7 @@ Fecha: 20 de agosto de 1739
 > entender que los tales culpados no tubieron intencion de desservirme;
 > y que siempre han estado y estan aparejados para obedecer mis
 > mandamientos como de su Rey y Señor natural, es mi voluntad que vos
-> Don Sevastian de Eslava theniente general de mis REales egercitos a
+> Don Sevastian de Eslava theniente general de mis Reales egercitos a
 > quien he nombrado por mi Virrey de las mencionadas Provincias del
 > Nuevo Reino de Granada por la confianza que de vuestra persona tengo
 > os doy facultad para que en mi nombre podais perdonar á todas y
@@ -312,16 +355,13 @@ Fecha: 7 de abril de 1745
 Anexo 5. Cedula de S. M. concediendo indulto general a todo género de
 personas, cuyos delitos no merezcan la pena ordinaria de muerte (1746)
 
-Fuente: Depósito Académico Digital Universidad de Navarra, Fondo
-Antiguo, siglo 18, URI: http://hdl.handle.net/10171/30545.
+Fuente: DADUN, Fondo Antiguo, siglo 18, URI:
+http://hdl.handle.net/10171/30545.
 
 Lugar: Buen Retiro
 
 Fecha: 6 de diciembre de 1746
 
-> CEDULA DE S.M. CONCEDIENDO INDULTO general á todo genero de personas,
-> cuyos delitos no merezcan la pena ordinaria de muerte.
->
 > EL REY
 >
 > Sin embargo que por Decretos expedidos en veinte y nueve de
@@ -389,18 +429,13 @@ desertores de las tropas de tierra, armadas navales, y milicias
 regladas, que se presentaren dentro del término de tres meses siguientes
 a su publicación (1746)
 
-Fuente: Depósito Académico Digital Universidad de Navarra, Fondo
-Antiguo, siglo 18, URI: http://hdl.handle.net/10171/30276
+Fuente: DADUN, Fondo Antiguo, siglo 18, URI:
+http://hdl.handle.net/10171/30276
 
 Lugar: Buen Retiro
 
 Fecha: 9 de diciembre de 1746
 
-> CEDULA DE S.M. CONCEDIENDO INDULTO general á todos los Desertores de
-> las Tropas de Tierra, Armada Navales, y Milicias regladas, que se
-> presentaren dentro del termino de tres meses siguientes á su
-> publicacion.
->
 > EL REY
 >
 > Aunque por Real Ordenanza de quince de Noviembre de el año proximo
@@ -460,10 +495,11 @@ Fecha: 9 de diciembre de 1746
 Anexo 7. Indulto general de Carlos III con motivo de su exaltación al
 trono (1760) y recepción en Santa Fe
 
-Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
-Tomo 16, sf. Copia impresa disponible en: AGNC, Sección Colonia, Fondo
-Milicias y Marina, tomo 111, ff. 500-502. *Las partes del impreso
-omitidas en el manuscrito se señalan entre las marcas* /\* \*/
+Fuente: AGNC, sección Archivo Anexo, reales cédulas y órdenes, tomo 16,
+sf. Copia impresa disponible en: AGNC, sección colonia, milicias y
+marina, tomo 111, ff. 500-502. *Las partes del impreso omitidas en el
+manuscrito se señalan entre las marcas* /\* \*/. Entre doble corchete
+\[\[ \]\] se señalan las diferencias entre el manuscrito y el impreso.
 
 Lugar: Buen Retiro
 
@@ -575,26 +611,26 @@ Fecha: 28 de enero de 1760
 > generalmente yndulto a los presos que se hallan en las Carceles de
 > esta Corthe y Villa y de las demas Ciudades del Reyno, por los delitos
 > de fabricar moneda falsa, por contrabandistas, y defraudadores del
-> tabaco y demás Rentas Reales O por extraer \[extractores\] de estos
-> dominios ó introducir \[introductores\] en ellos de Generos y
-> mercaderías prohibidas, y Malversadores de la Real Haccienda, pero
+> tabaco y demás Rentas Reales O por extraer \[\[extractores\]\] de
+> estos dominios ó introducir \[\[introductores\]\] en ellos de Generos
+> y mercaderías prohibidas, y Malversadores de la Real Haccienda, pero
 > manda su Magestad que por los Respectivos Tribunales que conozcan de
 > los expresados delitos se examine si en las causas que hay pendientes
-> en ellos tuvieren \[huviere\] alguna que por sus circunstancias
+> en ellos tuvieren \[\[huviere\]\] alguna que por sus circunstancias
 > meresca yndulto, y con yndividualidad se expongan por la vía de
 > Hacienda separadamente á Su Magestad, con su dictamen para su soberana
-> resolución, y de su Real orden lo participo a V. Señoría \[V. S. I.\]
-> para la ynteligencia de este \[esse\] Supremo Consejo y su cumplimento
-> en los autos \[la parte\] que respectivamente en punto á monederos
-> falzos puedan tocarle. Dios Guarde a Vuestra Señoría \[V. S. I.\]
-> muchos años. Buen Retiro, veinte y tres de febrero de mill setecientos
-> y sesenta. = El marques de Esquilache = Señor Obispo Governador del
-> Consejo. Es copia de la Real Orden de su magestad que original queda
-> en mi Poder de que certifico yo Don Joseph Antonio de Yarza Secretario
-> del Rey nuestro Señor, su Escribano de Camara mas antiguo y de
-> Govierno del Consejo. Y para que conste lo firmé en Madrid á veinte y
-> ocho de febrero de mill setecientos y sesenta = Don Joseph Antonio de
-> Yarza.
+> resolución, y de su Real orden lo participo a V. Señoría \[\[V. S.
+> I.\]\] para la ynteligencia de este \[\[esse\]\] Supremo Consejo y su
+> cumplimento en los autos \[\[la parte\]\] que respectivamente en punto
+> á monederos falzos puedan tocarle. Dios Guarde a Vuestra Señoría
+> \[\[V. S. I.\]\] muchos años. Buen Retiro, veinte y tres de febrero de
+> mill setecientos y sesenta. = El marques de Esquilache = Señor Obispo
+> Governador del Consejo. Es copia de la Real Orden de su magestad que
+> original queda en mi Poder de que certifico yo Don Joseph Antonio de
+> Yarza Secretario del Rey nuestro Señor, su Escribano de Camara mas
+> antiguo y de Govierno del Consejo. Y para que conste lo firmé en
+> Madrid á veinte y ocho de febrero de mill setecientos y sesenta = Don
+> Joseph Antonio de Yarza.
 >
 > Y áhora atendiendo a las justas consideraciones que concurren para que
 > se entiendan los efectos de mi Real Clemencia á mis Dominios de la
@@ -612,21 +648,67 @@ Fecha: 28 de enero de 1760
 > rúbricas.
 >
 > En la Ciudad de Santafee, a primero de septiembre de mill setecientos
-> sesenta y un a\[ño\]s. Estando en el R\[ea\]l Acuerdo de Justicia los
-> S\[eñor\]es Virrey, Presidente y oydores de la Audiencia y
-> Chancillería Real de este nuevo Reyno de Granada, hav\[iend\]o recivio
-> y visto esta Real Cedula de su Mag\[esta\]d, puestos en pie y
-> destocados dixeron que la obedecian y obedecieron en la forma
-> acostumbrada, mandando se guarde, cumpla y ejecute en todo y por todo
-> su contenido, y que sacandose para archibar su original, se de vista
-> al s\[eño\]r Fiscal y assi lo dixeron y rubricaron por ante mi de que
-> doy fee = tiene tres rubricas = antemi joseph de Rosas.
+> sesenta y un a*ño*s. Estando en el R*ea*l Acuerdo de Justicia los
+> S*eñor*es Virrey, Presidente y oydores de la Audiencia y Chancillería
+> Real de este nuevo Reyno de Granada, hav*iend*o recivio y visto esta
+> Real Cedula de su Mag*estad*d, puestos en pie y destocados dixeron que
+> la obedecian y obedecieron en la forma acostumbrada, mandando se
+> guarde, cumpla y ejecute en todo y por todo su contenido, y que
+> sacandose para archibar su original, se de vista al s*eño*r Fiscal y
+> assi lo dixeron y rubricaron por ante mi de que doy fee = tiene tres
+> rubricas = antemi joseph de Rosas.
 
-Anexo 8. Auto de obedecimiento de la cédula de indulto de Carlos III en
+Anexo 8. Real cédula de indulto a desertores (1760)
+
+Fuente: BNC, raros manuscritos, 354, ff. 180-81.
+
+Lugar: Buen Retiro
+
+Fecha: 29 de febrero de 1760
+
+> \[f. 180r\] El Rey
+>
+> Mereciendome particular estimacion entre mis vasallos, aquellos, que
+> alistados en las vanderas de mis exercitos, exponen sus vidas por
+> defender, y mantener en tranquilidad mis dominios: Deseoso de dar á
+> esta distinguida classe alguna señal de mi benignidad, con motivo de
+> mi feliz ingresso á estos Reynos, y lastimando de la suerte de los
+> soldados, que habiendo incurrido en el feo crimen de desercion, vagan
+> prófugos, temerosos del castigo á que se han hecho acreedores; no solo
+> he venido en indultar de las penas establecidas á los soldados de mis
+> tropas de tierra, y marina, inclusos los de milicias regladas, que
+> hubieren cometido el expressado delito hasta el dia de la fecha de
+> esta gracia, sino que por un efecto particular de mi clemencia les
+> relevo, y dispenso \[f. 180v\] su incorporacion en las vanderas; pero
+> mando que indispensablemente passen á delatarse al capitan, o
+> comandante general de la provincia, en el termino de seis meses desde
+> la fecha, los de fuera del Reyno, y de tres, los que se hallaren
+> dentro de él, para que informandole cada uno de su nombre, patria,
+> tiempo de su desercion, y de qué cuerpos, les dé, arreglado á esta
+> filiacion, el papel de indulto correspondiente, y comunique la noticia
+> de los que se le presentaren á mi Secretario de Estado, y del Despacho
+> de la Guerra. Y no siendo mi Real animo, que restituídos, y libres
+> estos desertores, descuiden con pretexto de indultados la obligacion
+> de aplicarse á oficio, ó destino, que los exonere de la pena impuesta
+> á los vagos y mal entretenidos en los pueblos, declaro, que les debe
+> comprehender, si dentro de dos meses, contados desde el día que
+> obtengan el citado papel de indulto, no hubieren tomado su partido,
+> sobre que encargo á las justicias la mas exacta vigilancia. Y ordeno á
+> los Capitanes, y Comandantes Generales de mis Exercitos, y Provincias,
+> Gobernadores de Plazas, Intendentes, Corregidores, y Justicias de mis
+> Reynos, y á mis Ministros residentes en países estrangeros, que cada
+> uno concurra en la parte que le toca á que tenga efecto esta mi Real
+> Cedula, mandando se fije, y publique en los parages acostumbrados,
+> para que sea notoria, y auxilien en \[f. 181r\] sus transitos á los
+> desertores, que se les presenten con el fin de gozar de este indulto.
+> Dada en Buen Retiro á veinte y nueve de febrero de mil setecientos y
+> sesenta. Yo El Rey. Don Ricardo Wall.
+
+Anexo 9. Auto de obedecimiento de la cédula de indulto de Carlos III en
 la ciudad de Antioquia y villa de Medellín (1761)
 
-Fuente: Archivo Histórico de Medellín, Fondo Concejo de Medellín, SC
-Colonia, SR Reales Cédulas, tomo 13, ff. 54v-56r.
+Fuente: AHM, Concejo de Medellín, Colonia, Reales Cédulas, tomo 13, ff.
+54v-56r.
 
 Lugar: Villa de Medellín
 
@@ -689,12 +771,11 @@ Fecha: 3 de noviembre de 1761
 >
 > Solorzano.
 
-Anexo 9. Solicitud de indulto del procurador de menores de la ciudad de
+Anexo 10. Solicitud de indulto del procurador de menores de la ciudad de
 Antioquia a favor del negro bozal "Antonio" y aceptación por el alcalde
 ordinario (1761)
 
-Fuente: Archivo Histórico de Antioquia, Criminal, B. 41, leg. 1740-1770,
-doc. 11, ff. 33r-35v.
+Fuente: AHA, Criminal, B. 41, leg. 1740-1770, doc. 11, ff. 33r-35v.
 
 Lugar: Ciudad de Antioquia
 
@@ -702,7 +783,7 @@ Fecha: 4 y 7 de noviembre de 1761
 
 > \[f. 33r\]
 >
-> S\[eñor\] Alcalde Hordinario
+> S*eñor* Alcalde Hordinario
 >
 > Don Manuel Antonio de Toro Cataño, defensor de menores. Ante Vmd.
 > paresco segun derecho y digo: que estando siguiendo \^las defensas\^ a
@@ -800,318 +881,154 @@ Fecha: 4 y 7 de noviembre de 1761
 >
 > Juan Antonio de Orellana. Escribano público.
 
-Anexo 10. Carta del apoderado de los barrios de Quito, Don Antonio
-Araujo, exponiendo al virrey los motivos de la inquietud (1765)
+Anexo 11. Ceremonia de perdón a los habitantes de los barrios de Quito
+(1765)
 
-Fuente: AGI, Quito, 398
+Fuente: AGI, Quito, 398, ff. 523r-27v.
 
 Lugar: Quito
 
-Fecha: 13 de julio de 1765
+Fecha: 19 de septiembre de 1765
 
-> \[f. 409r\] Exmo Sr.
+> \[f. 523r\] Los escrivanos deel Rey Nuestro Señor que abajo signamos y
+> firmamos certificamos y y damos fee y verdadero testimonio, en quanto
+> podemos, devemos y huviere lugar en derecho a los señores y demas
+> personas que la presente vieren de como el dia martes de esta presente
+> semana que se contaron diez y siete deel corriente se notificó á los
+> señores Alcalde ordinario Don Francisco de Borja y Larrapuru, Maestre
+> de Campo y conde de Selva Florida Don Manuel Guerrero Ponce de Leon,
+> Alguacil maior de estad ciudad Don Thomas Bustamante, Capitanes de la
+> ciudad, el Marqués de Villarrocha y don Nicolas Carrion y Baca capitan
+> del barrio de Santa Barbara Don Joseph Lasso de la Vega, Capitan del
+> Barrio de San Marcos Don Miguel Gonzalez con todos \[f. 523v\] sus
+> cavos, un auto proveido por los señores precidente y oidores de esta
+> Real Audiencia, en el que se manda que para publicar el indulto por
+> las plazas, calles y barrios de esta ciudad confirmado por el
+> Excelentisimo Señor Virrey de estos Reinos que tan benignamente se ha
+> dignado corroborar, el que los señores presidente y oidores de esta
+> dicha Real Audiencia concedieron, se congregasen en esta plaza mayor
+> para que á son de caxas y clarines se publicase el auto del indulto,
+> el dia diez y ocho de este presente mes, lo qual igualmente se nos
+> notifico, e hizo saver para que en la misma conformidad assistiessemos
+> á dicha Publicacio y precedida dicha notificacion passo el dicho señor
+> Don Francisco de Borja, asociado con el Conde de Selvaflorida, Don
+> Manuel Guerrero y Don Nicolas Carrion a las casas del señor Dean de
+> esta Santa Yglecia Cathedral á fin de pedirle y suplicarle que en
+> asivimiento (?) de gracias del dicho yndulto que la superior
+> magnificencia y clemencia de su \[f. 524r\] Excelencia havia
+> confirmado, se celebrase en dicha santa yglexia una missa cantada con
+> toda solemnidad descubriendose al señor Sacramentado con repiques de
+> campanas, a lo que accediendo mui gustoso lo ofrecio practicar, echa
+> esta devota y christiana diligencia, inmediatamente pasaron a los
+> conventos maximos de las Religiones de esta ciudad á conseguir de los
+> prelados de ella el que se repicasen las campanas de sus respectivas
+> yglecias en el acto de la publicacion de dicho yndulto. Todo lo cual
+> se hizo bien y cumplidamente. En la misma conformidad certificamos,
+> que el dia miercoles diez y ocho del corriente, como a horas de las
+> nueve de el, concurrió dicho señor Alcalde Don Francisco de Borja a la
+> citada plaza maior en la que a son de Caxas de Guerra y Clarines
+> convoco á todos los ya citados, quienes se congregaron. En cuio estado
+> nos ordenó dicho señor Alcalde que pasasemos a la referida santa
+> yglecia cathedral á rreconocer y dar fee de cómo se estava celebrando
+> la dicha misa, y haviendo con efecto \[f. 524v\] pasado á ella vimos y
+> reconocimos que con todo culto y veneracion, buena mucica y abundancia
+> de luces se estava celebrando una missa cantada, en el altar mayor,
+> patente y descubierto el Santisimo Sacramento. Practicada que fue esta
+> diligencia, procedieron a publicar el auto del indulto en las puertas
+> de cavildo en concurso de muchissima gente, assi noble como plebeya,
+> que manifestandose anciosos de oirlo se hallaron esperando su
+> publicacion, la que hecha que fue por voz de pregonero en altas e
+> inteligibles voces de suerte que todos los que pudiessen haver oido y
+> entendido; sin embargo procedió dicho señor Alcalde Don Francisco de
+> Borja á amonestarles a los Pleveyos con tantas vivas expreciones que
+> si reincidian en los antecedentes errores serian severisimamente
+> castigados, sin que pudiesen alegar ignorancia ni otra excepcion que
+> los pudiese indemnisar de la pena ordinaria. Para cuio fin y efecto
+> prepararia seis horcas en que pagassen su culpa todos \[f. 525r\]
+> aquellos que abusando de la piedad y connmiseracion con que se havía
+> procedido a la concesion del perdon, se manifestasen contraventores a
+> las superiores determinaciones. Hecha en esta forma a las puertas de
+> cavildo la primera publicacion, para pasar a dar la buelta que estava
+> determinada a todos los cavalleros arriva expresados vestidos de
+> Corthe, con mucho lucimiento de sus galas, se pucieron á cavallo (los
+> que tenian ya promptos) cubiertos de costosos jaezes y puestos todos á
+> cavallo enderesamos assi á la placeta de la Merced, y en una de sus
+> esquinas se publicó el auto con las mismas circunstancias que en la
+> primera publicación; y llevando siempre adelante las caxas de guerra y
+> clarines, nos encaminamos asi al barrio de San Roque en el que fuimos
+> recevidos por sus vecinos y moradores con muchas demostraciones de
+> alegria y regocijo que manifestavan prevenidos de clarines, caxas,
+> cotes, los balcones colgados de ricas colgaduras, tres arcos
+> triumphales adornados con toda curiosidad \[f. 525v\] de mucha plata
+> labrada, canderas y otros adherentes que hermoseavan. En el primero se
+> manifestava una efigie de Nuestro Catholico Monarcha el señor Don
+> Carlos tercero (que Dios Guarde). En el segundo la del excelentisimo
+> señor Virrey de estos Reinos, de suerte que assi con lo dicho como con
+> otras acciones manifestativas de todo rendimiento, vasallaxe y
+> complacencia que practicaron, y arregando flores por las ventanas, y
+> ya vociferando publicamente en altas voces la exprecion que hicieron
+> diciendo viva Nuestro Rey a tiempo de las dos publicaciones que se
+> hicieron en distintas partes de las esquinas de dicho Barrio, se
+> acreditaron mui sometidos y obedientes a la justicia. Assi mismo
+> certificamos de que la noche anterior a esta publicacion huvo en el ya
+> citado barrio luminarias en los balcones, musicas por las calles, con
+> caxas, clarines y coetes; concluyendo con lo dicho en este barrio
+> pasamos al de San Sebastian en el qual fuimos tamvien \[f. 526r\]
+> rrecevidos con musica, los balcones colgados de colgaduras, coetes y
+> mucha complacencia que manifestaron los vecinos de dicho barrio, en el
+> que de la misma suerte encontramos con un arco triumphal con la efixie
+> de dicho Nuestro Catholico Monarcha en donde haviendose publicado con
+> las mismas circunstancias arriva mencionadas hicieron las mismas
+> expresiones demostrandose en todo sugetos a la justicia. Haviendo en
+> prosecucion llegado al barrio de San Marcos, nos recivieron asi mismo
+> sus moradores, con la misma alegria colgados los balcones deel adorno
+> de colgaduras, mucicas, coetes y un arco triumphal en que se hallava
+> la efixie de Nuestro Catholico Monarca demostrando con estas acciones
+> y una salva que hicieron unos tantos que se hallaron con sus fuciles,
+> y expresando viva Nuestro Rey, muy sugetos a su vasallaxe y al de sus
+> reales ministros. De este barrio fuimos al de San Blas en el que
+> fuimos recevidos con el mismo regocijo y aparato de mucica, colgaduras
+> en las bentanas y coetes, y hecha la publicacion en la forma
+> correspondiente \[f. 526v\] precedio la misma sujecion que sus vecinos
+> manifestaron. De aque encaminamos al barrio de Santa Bárbara en el
+> qual se publico en la misma forma que en los demas el dicho auto, y
+> aunque los de este barrio no havian tenido ninguna prevencion mas que
+> tan solamente la de unas camaretas que se dispararon despues de la
+> publicacion, pero de la misma suerte se manifestaron mui rendidos y
+> ovedientes a la justicia. Y haviendo fenecido la dicha publicacion en
+> este barrio a costa de la una de la tarde vajamos a la plaza mayor, y
+> puestas de dicho cavildo de donde se dividieron y nos dividimos todos
+> los de la compañia, haviendose continuado hasta la dicha ora en que
+> acavamos con la publicacion de repiques de todas las yglecias,
+> comventos y monasterios de religiosos y religiosas, cathedral y
+> parroquias desde las nueve del dia, hasta la ora en que nos recojimos.
+> En la noche de este dia pucieron muchas luminarias los del barrio de
+> Santa Barbara, en sus respectivos balcones y los deel barrio \[f.
+> 527r\] de San Blas fuera de las luminarias que en su barrio pucieron
+> llenaron las galerias de la plaza mayor, ventanas de las casas de
+> cavildo y las demas circunferencia de la dicha Plaza Mayor, de luces
+> con que la pucieron mui vistosa (y con licencia que obtuvieron de el
+> señor Presidente de sala) lidiaron dos toros iluminados, con mucho
+> aparato de caxas, clarines y coetes, y por los de este mismo Barrio áy
+> prevencion para lidiar toros, para lo que estan solicitando licencia
+> de dicho señor presidente de sala. Y para que de ello conste y obre
+> los efectos que huviere lugar en derecho donde comvenga, damos la
+> presente, de mandato verbal de dicho señor Alcalde Don Francisco de
+> Borja, en cuya fee lo signamos y firmamos en esta ciudad de Quito en
+> diez y nueve dias del mes de septiembre de mil setecientos sesenta y
+> cinco años.
 >
-> Aunque es empresa dificil justificar hechos que tienen apariencias de
-> sublevacion sin embargo, como la Real Audiencia me nombrase procurador
-> á pedimento de los barrios de San Roque, San Sebastian, San Blas, y
-> Santa Barbara para su defensa, no puedo excusarme de exponer á VE
-> humildemente aquellas mismas razones, que los moradores de dichos
-> Barrios, congregados en un cuerpo me expresaron, á fin de que pr medio
-> de este informe sincerasse su conducta para el respetabilissimo juicio
-> de VE. En primer lugar desean eficacissimamente persuadir y hacer
-> sensible á VE el calamitoso estado de pobreza á que se ha reducido
-> esta provincia, antes floreciente de riquezas y comercio, mas el dia
-> de oy tan atrasada y consumida, que puede considerarse con razon la
-> mas pobre en toda la America. Y para que este concepto no parezca
-> encarecimiento de hombres sediciosos que procuran con color de
-> necesidad honestar sus atrevimientos, expresan á VE las \[f. 409v\]
-> causas que han inducido el total consumo de dinero en la provincia de
-> Quito. Es constante que á ella por ningun conducto se le introduze
-> dinero, no es fecuda de minerales, ni tiene oficinas de moneda. Antes
-> la comunicacion del Perú, mediante el comercio de los paños que se
-> fabrican en esta Provincia le acarreaba el dinero necesario para su
-> regular subsistencia. El dia de oy se halla cortado este comercio á
-> beneficio del de Cartagena, por haverlo conseguido assi los
-> comerciantes Europeos de la carrera de Cartagena con informes
-> subrepticio, que presentaron en esse supremo govierno, y assi el
-> ingreso no solo es incierto pero ciertamente ninguno. Mas las salidas
-> son indefectibles, porque los derechos reales de Tributos, Alcavalas y
-> Estancos han deducido y deducen todos los años crecidissimas sumas de
-> plata, su comercio con Cartagena no solo la emriqueze, pero la consume
-> notoriamente, porque los mercaderes le acarrean inmensas cantidades de
-> ropas de Castilla, que vendidas en precios correspondientes á esta
-> distancia, sacan de esta Provincia todos los años sumas increibles de
-> dinero. Consideradas assi por mayor estas causas, manifiestan con
-> quanta evidencia es posible la extrema \[f. 410r\] pobreza a que se há
-> reducido esta provincia, porque si por ninguna parte le entra dinero,
-> y se le extrahe por conductos tan incesantes, es preciso, segun el
-> orden natural de las cosas, que haya llegado á consumirse y que el
-> curso de tantos años, gastando la perennemente, la tenga casi acabada.
-> Padecen esta calamidad las personas de mayor lustre, cuya riqueza se
-> reduze al nombre de sus haziendas, tan gravadas y recargadas de censos
-> y pensiones que sus poseedores mas son esclavos de los fundos para
-> satisfacer sus servidumbres, que dueños de sus frutos. Y si los que
-> tienen estigmacion de ricos viven en tal inopia, qual será la
-> condicion de la plebe?
+> En testimonio de verdad. Joseph Pazmiño. Escrivano de su magestad.
 >
-> Los Barrios de esta ciudad se componen de los individuos mas pobres,
-> su miserable y penosa constituzion los hace ya tocar el ultimo termino
-> de la Pobreza. Aun en circunstancias tan graves no fue la ereccion de
-> la Aduana resistida de los Barrios, cuya insigne lealtad jamás reclama
-> contra los ordenes superriores, preciandose de saberlos obedecer y
-> executar, y entendiendo que la obediencia de los subditos no tiene
-> arbitrio para discurrir en quanto á los intereses de la \[f. 410v\]
-> Real Hazienda, aun con el pretexto de combeniencia ó de imposibilidad.
+> En testimonio de verdad. Don Juan Francisco de Paredes. Escrivano
+> publico y de provincia.
 >
-> Exigiose con efecto la causa de Aduana, sin resistencia del Pueblo, y
-> assimismo huviera subsistido, si á lo menos en los principios se
-> procediesse con algun termino moderado. Pero no se guardó en esto la
-> debida prudenncia, porque aun no bien establecida, se exigian sus
-> derechos, con nimio rigor, no solo a los tratantes, sino aun a las
-> personas privilegiadas y de los viveres que se introduzen para
-> alimento, sin causa de venta ni comercio. Se cobraron á los Religiosos
-> á los clerigos seculares, á los yndios y á otras personas miserables.
-> El abuso que hubo en esto, si bien no se executase por disposizion de
-> el aduanero Don Juan Diaz de Herrera, es cierto, que practicandose por
-> sus receptores subalternos consternó á todos, especialmente á la
-> plebe, que como tiene la considerazion mas preocupada de las
-> calamidades presentes, es mas sensible á las exacciones. Aunque el
-> expresar los hechos particulares, que persuaden á que el abuso seria
-> negocio de una relacion mui extensa, á que no da lugar la brevedad de
-> este informe, no obstante confiados en la humanissima attencion de VE
-> tienen \[f. 411r\] aliento los Barrios para exponer algunos hechos
-> notables. Fuera de cobrarse á las Religiones aquel derecho de sus
-> alimentos, como de las ovejas que se trahian á la recoleccion de San
-> Diego por via de limosna, se exigieron de las especies de regalo, como
-> de dos arrobas de cacao al Padre Thomas Poolo de la Compañía de Jesus,
-> á Don Nicolas Carrion le llevaron el valor de treinta pepinos por
-> derecho de Aduana, y lo mismo se practicó con don Vicente de Borja por
-> una carguita de fruta, con el Maestr de Campo Don Manuel Guerrero por
-> un poco de hortaliza, con Joseph de Ybarrondo por otra cestilla de
-> fruta, y con otors muchos, que seria mui largo nombrar. Los yndios
-> eran obligados á pagar el mismo derecho de sus carguitas de sal,
-> legumbres, agi, huebos, esteras y otras menudenzias, deteniendoselas y
-> mandandoles bolver al otro dia, y como esta gente es de suyo
-> pusilanime, no bolvian mas á recaudarlas, creyendo que havian
-> incurrido en caso de comiso y perdimento. El hecho es cierto de
-> haverse hallado cantidad de todas estas especies en la casa de Aduana.
-> Ahora los rumores que se divulgaban mediante la indiscreta credulidad
-> \[f. 411v\] del vulgo eran de que por los contados de Presidios
-> rusticos y urbanos, havian de pagar sus dueños el tres por ciento. Que
-> se imponia el tributo de quatro á los niños que naciesen en adelante.
-> Que numeraban las piedras de los Rios, que bañan esta ciudad, para que
-> las labanderas, que usan ellas, pagassen un real por cada piedra. Que
-> se estancaba el Tabaco, el Azucar, las Papas, el Maiz, y la Sal. Si
-> bien el rumor en quanto á la Sal tuvo fundamento porque con efecto,
-> despues del insulto se halló en la casa cantidad de sal y de esteras,
-> estas especies afligian gravemente los animos de todos. No fueron mas
-> piadosos los rumores por lo respectivo á las Aguardientes, pues se
-> decia, que en la Aduana se componia este licor con los otros simples
-> mas ardientes y malignos, quales son la cal, el chamico, el ballico,
-> la cabuya y otras especiesde qualidad de leteria, á fin de darles una
-> fortaleza suprema para mexor reputazion de la Aguardiente. Confirmose
-> todo para la opinion del vulgo con haver salido la mañana, que
-> precedió á la noche de la invasion don Bartholomé Puyol, Don Miguel
-> Erboso, Don Domingo Andraca y otros sugetos á reconocer y numerar los
-> huertos urbanos de esta ciudad \[f. 412r\] y en efecto registraron
-> todo el Barrio de San Roque y parte del de San Sebastian, imponiendo
-> el gravamen de quatro pesos por solar de tierra, sin embargo de los
-> clamores con que se les representó, que aquellos retacitos de tierra
-> no fructifican mas que una corta hortaliza, insuficiente aun para el
-> gasto domestico, y el consuelo fue responderles, que con levantarse
-> una horca en cada barrio se allanarian las dificultades, y satisfarian
-> las quexas. Esta fue la ultima disposicion que preparó el insulto de
-> la Aduana executado la noche veinte y dos de Mayo de este presente
-> año. La accion fue solamente estrepitosa, sin que los Barrios
-> pretendiesen mas que suspender el curso de la Aduana, y la imposicion
-> de los pechos con demostraciones de tumulto, dando lugar para mejor
-> informe á VE á fin de que se aliviasse á esta Provincia de las
-> expresadas imposiciones. No executaron estrago considerable aquella
-> noche á excepcion de haver quebrantado las Puertas de la casa y
-> derramado los caldos, no hubo efusion de sangre, saqueo ni otro
-> desorden, y la gente de los Barrios se retiró toda poco despues de
-> media noche. POr la mañana la acometieron y debastaron los yndios
-> hasta el estado en que se haia \[f. 412v\] este primer movimiento se
-> pacificó facilmente y al otro dia se restituyó la plebe á su ordinaria
-> tranquilidad y disciplina politica con entera sumision á la justicia.
-> Assi hubiera perseverado si otros accidentes, que sobrevinieron de
-> nuevo no la turbassen en el todo. Como los españoles europeos por
-> respctos nacionales aborrecen á los españoles americanos de esta
-> Provincia y mucho mas á los mestizos y criollos plebeyoos, estimularon
-> al corregidor Don Manuel Sanchez Pareja, para que con pretexto de
-> ronda se diesse principio al castigo de los amotinados
-> representandooles, que matando en cada Barrio algun numero
-> considerable de gente, humillarian del todo el ordullo y ardimiento de
-> la plebe. Con este proyecto sallieron la noche del veinte y tres de
-> junio y pasando por el Barrio de San Sebastian hallaron algunos mozos
-> blancos, que dentro de sus tiendas se entretenian en tripudios
-> vulgares, y los azotaron con nimia severidad. El dia siguiente
-> dispusieron los mismos españoles (conocidos por chapetones) que la
-> ronda se executasse con el rigor dispuesto; y para esto pasó el
-> corregidor a consultarla á los señores oydores. Los señores Don Luis
-> de Santa Cruz, Don Juan Navarro, y Dn Gregorio Zapata fueron de
-> parecer contrario, aconsejando \[f. 413r\] al corregidor que usasse de
-> alguna templanza, y lenidad entretanto que las cosas tomaban mejor
-> temperamento, que segun el aspecto de la plebe aun no combenía apurar
-> el castigo; que hay ocasiones, en que conviene el disimulo y suele á
-> beneficio del tiempo apagar mayores sediciones. Que no era bien con el
-> ruido de los castigos dar materia á los quexosos para nuevas
-> inquietudes. Especialmente haviendose dado ya cuenta de lo acaecido á
-> VE de donde en todo caso debia esperarse la mas oportuna resolucion.
-> El Corregidor expuso que para aquel procedimiento tenia orden superior
-> á que havia de obedecer, sin embarazarse en otros pareceres. Y con
-> esta determinacion pasó aquella misma noche al Barrio de San Sebastian
-> donde los chapetones, que le acompañaban mataron dos mozos á balazos é
-> hirieron otros dos mortalmente de lo quales murió despues el uno. Como
-> la plebe reputa á los chapetones por sus mas sangrientos enemigos, en
-> un momento se conmoció el Barrio de San Sebastian y los demas Barrios
-> á la voz de que los chapetones iban matando á quantos encontraban y
-> que havian determinado acabar con todos, Y vea aqui VE el origen de un
-> nuevo tumulto mas encendido, que el primero \[f. 413v\] el horror de
-> los chapetones, de que estaba preocupado el vulgo, hizo facilmente
-> concebir, que aquellas muertes no eran decretos de la justicia, ni
-> hubo quien creyesse que el insulto pasado se castigaba en aquellos
-> hombres innozentes no convencidos de haver tenido parte en la
-> conjuracion, y assi la gente de los barrios lo atribuyó al odio de los
-> nacionales que con él especiosos pretexto de el motin, querian
-> desahogar sus pasiones, ensangrentandose en aquellos mozos indefensos
-> y humildes. Y aunque despues se há dicho de parte de los chapetones,
-> que hallaron gente armada al ingreso de dicho Barrio, esta especie es
-> calumniosa, porque ciertamente el Barrio reposaba tranquilo en sus
-> horas regulares de quietud, á excepcion de quatro ó cinco mozos de
-> aquellos que suelen pasar las noches bebiendo y paseando las calles.
-> Armaronse pues luego todos los barrios, creyendo que podian resistir
-> con fuerza la que solo havian concebido violencia de los chapetones. Y
-> merece reflexion que no se enderezasse el tumulto á la casa real ni á
-> la plaza, sino á la de Don Angel Yzquierdo \[f. 414r\] Europeo. Es el
-> caso que a dicho Don Angel se le cayeron algunas proposiciones llenas
-> de ardor contra los Barrios desde un dia antes, y aquella noche le
-> havian visto herir á los mozos muertos, manejando el fusil. En efecto
-> invadieron la casa sin hacer estrago en ella, de donde tomaron ocasion
-> los ladrones, que como en todas partes infestan esta ciudad, y le
-> saquearon el Almazen en que se cree haver tenido la mayor parte los
-> mismos sirvientes de Don Angel. Entonces se vió que los chapetones,
-> que afectan servir á SM en todo trance, ocurrieron á defender la casa
-> de Don Angel, no haviendo hecho otro tanto por la Aduana. Como las
-> armas de los chapetones eran ventajosas, y la gente tumultuada iba sin
-> orden y sin disciplina militar, executaron en ella un considerable
-> estrago. Sin embargo cedieron los chapetones á la multitud, aunque
-> confusa, y en la mayor parte desarmada, y se retiraron á la plaza,
-> donde estaba ya la gente noble de esta ciudad prebenida y ordenada.
-> Pero \[f. 414v\] los Barrios tubieron tiempo de disponerse mexor y á
-> las dos de la mañana abansaron imptuosamente á la Plaza. La accion fue
-> dudosa hasta las tres, en que los Barrios havian ganado la mayor parte
-> del Pretil, desamparando todos los chapetones sus puestos y ganarian
-> la Plaza enteramente si por la parte del Pretil no fuesen rechazados
-> vigorosamente por el Capitan Don Nicolas Calisto de Alarcon con mui
-> pocos criollos de su Compañia, hasta sacarlos enteramente del Pretil y
-> mas de media quadra de la calle recta del Colegio de la Compañia de
-> Jesus, y fueron asimismo resistidos del Señor Don Juan Navarro los que
-> acometieron por el Pretil de la casa episcopal y retirados con muerte
-> de muchos con lo que se retiraron todos. A la mañana siguiente
-> atacaron la plaza por todas quatro partes, pero se retiraron luego.
-> Despues no hubo refriega considerable, sino es que los chapetones
-> discurrian por las calles haciendo bastante estrago en los que
-> encontraban, sin entrar á los Barrios. Hasta este dia creian estos que
-> el ataque havia sido solo contra los \[f. 415r\] chapetones, sin
-> pensar que se violentasse á la justicia, ni que huviesse desacato á
-> SM. Luego que dió lugar el estrepito de las Armas, los curas, los
-> religiosos de todos ordenes y sus capitanes pacificadores les dieron á
-> entender que el tumulto se dirigia contra la Justicia, y en ofensa de
-> SM (que Dios guarde) significandoles la gravedad de su delito. Lo que
-> bbastó para contenerlos, expresando todos haver procedido con absoluta
-> ignorancia de esto. Por lo que sin embargo de que los chapetones
-> havian desertado el Pretil, estaban refugiados en divrsos lugares
-> sagrados, se estubieron quieros los Barrios, ni hubo mas noveddad que
-> la de pedir las armas, de las que se llevó la mayor parte á depositar
-> en el Camarin de Nuestra Señora del Rosario, á custodia de la REligion
-> de Predicadores. Y este pedimento hizo la plebe infima del tumulto,
-> como menos instruida y mas atemorizada de los chapetones,
-> persuadiendose que de este modo los desarmaban para la venganza y
-> aseguraban su propria salud. Para pedirlas, expresaron el motivo \[f.
-> 415v\] de que amenazaba á la ciudad la conjuracion secreta de los
-> yndios, á quiens ofrecian contener armandose, como con efecto los
-> contubieron, porque el Barrio de San Roque guardó la entrada de los
-> Yndios por el arco llamdo de Maria Magdalena, el de San Sebastian
-> guardó el Puente del Rio de Machangara, y el de San Blas su entrada de
-> Añaquito, verificandose que los yndios acometieron por todas tres
-> partes en multitud considerable. Aquel temor y esta defensa induxeron
-> el exceso de pedir las armas, aun entendiendo que les era licito y no
-> ofensivo á SM el precautelarse de los que reputaban enemigos
-> implacables. Ahora, excelentisimo señor, han sido plenamente
-> instruidos por sus Capitanes, Curas y demas Predicadores de los
-> excesos perpetrados y llenos de confusion y arrepentimiento ocurren á
-> la commiseracion de VE. Tiene la confianza de que VE los mirará mas
-> como Padre benefico, que como juez inexorable. Piden el perdon,
-> suplicando rendidamente que la justiciada integridad de VE tenga
-> presente que los errores cometidos \[f. 416r\] fueron abortos de su
-> ignorancia, mas que conjuraciones prebenidas maliciosamente. Que la
-> gente de Quito há sido siempre fidelissima á su Catholico Monarca,
-> siempree pacífica y la mas apartad de bullicios. Que por una parte su
-> extrema pobreza, no bien significada todavia, y poor otra los pechos,
-> con que se les amenazaba, estimularon al pueblo mas humilde y quieto
-> del mundo á tomar las armas. Que las inconsideradas deliberaciones de
-> el vulgo hán merecido en todos tiempos y en todas partes, indulgencia
-> y disculpa en fuerza de su ignominia y falta de conocimiento. Que
-> ninguno de los movimientos populares se enderezó contra la justicia ó
-> el Herario real, y aun teniendo á los juezes desarmados no abusaaron
-> de esta oportunidad para cometer algun insulto, contentandose con
-> asegurar de este modo sus vidas. Y si pidieron constantemente que
-> salieran los chapetones de esta ciudad exceptuaron siempre á los
-> casados en ella, reduciendo su pedimento á los casados en otras
-> provincias y á los solteros, que no havin manifestado sus partidas de
-> registro conforme á las Leyes municipales. Y aun en este pedimento
-> conforme \[f. 416v\] á derecho dicen, que no hubieran insistido con
-> tanta constancia, si los chapetones con su porte no se huviessen
-> conciliado desde mucho tiempo el odio popular. Porque son
-> demasiadamente ostentosos, afectando siempre cierta superioridad
-> odiosa, respecto de los criollos hasta querer deprimir la Nobleza
-> Patricia, y respecto de la plebe es mas insufrible su tratto, porque
-> los llaman mestizos, improperandolos y vilipendiandolos. Sueles
-> hallarse aun entre los mismos chapetones de mexor policia, cuyo tratto
-> es mui distinto, locusion blanda y agradable, los quales son tenidos
-> en grande estima, y reputados por Noble y de buena educacion. Que
-> tenga VE asimismo presente, que al punto que entendieron los Barrios
-> el tamaño de su delito, se dispusieron a restituir las armas y las
-> restituyeron con efecto, sin reservar alguna con señales evidentes de
-> verdadero arrepentimiento. Suplicaron á la Real Audiencia, que
-> pareciesse en publico, y les manifestasse el retrato de su catholico
-> Monarcha. Y á vista suya en este acto tan solemne, pidieron rendidos
-> el perdon de sus yerros. El qual concedió \[f. 417r\] la Real
-> Audiencia, segun consta de los testimonios que acompañan á este
-> informe. Que se prometen guardará VE esta palabra, que se les há dado
-> en nombre de su Soberano. Que con ocasion del tumulto se há derramado
-> mucha sangre de gente miserable. Pues en opinion de algunos llegan los
-> muertos al numero de quinientos y por el computo mas moderado llegan á
-> trescientos, fuera de los heridos, sin que los chapetones hayan
-> perdido un solo individuo, pues los que murieron por parte de la
-> justicia fueron todos criollos de aquellos, que se exponian á los
-> trances mas peligrosos. Toda esta sangre parece bastante vindicta de
-> la justicia, y quando no lo sea esperar de la benignidad de VE el mas
-> seguor perdon, como vasallos fieles, rendidos y humildes de SM para
-> que para acreditar la buena disposicion de sus animos no han omitido
-> todas las demostraciones de que son capaces, prestando sus fueron á la
-> justicia, para \[f. 417v\] atajar los desordenes que acarrean
-> semejantes inquietudes, acompañando la de cada Barrio todas las noches
-> para las rondas con el numero de gentes que se les ha pedido. De que
-> resulta hallarse en tan breve tiempo enteramente pacificada la ciudad,
-> y tal vez reducida á mas segura obediencia de la justicia. Fuera de
-> esto se han ofrecido poor escrito á oponerse á los yndios (cuyos
-> tratados secretos se ignoran) con animo de sacrificar en servicio de
-> SM hasta la ultima gota de su sangre, si fuesse nezesario. Cuyo
-> testimonio incluyo á VE. En tal estado solo esperan efectos de
-> clemencia y benignidad, que produciran la mas segura y constante
-> obediencia. Que son todas las razones que me expresaron dichos Barrios
-> fidelissimamente dirigidas á VE en virtud del nombramiento. Cuyo
-> testimonio incluyo.
->
-> Nuestro señor guarde\... Quito y Julio 13 de 1765.
->
-> Exmo Sr. Domingo de Araujo
->
-> Exmo Sr. Pedro Mesia de la Zerda.
+> En testimonio de verdad. Phelipe \[f. 527v\] Baquero. Escrivano
+> publico. Francisco Xavier de Bustamannte. Escrivano receptor Antonio
+> Cuellar. Escrivano receptor. Juan Bernardo Osorio. Escrivano receptor.
+> Mariano Suarez. Escrivano receptor.
 
-Anexo 11. Representación de la tropa levantada en Panamá (1766)
+Anexo 12. Representación de la tropa levantada en Panamá (1766)
 
 Fuente: AGI, Panamá, 358
 
@@ -1119,26 +1036,26 @@ Lugar: Panamá
 
 Fecha: 25 de septiembre de 1766
 
-> *Representación *
+> Representación
 >
 > Señor Governador y Comandante General. Los soldados del regimiento de
 > la Reyna, artilleros y piquetes de este presidio, presentes enfermos y
 > en nombre de los ausentes con la mas sumisa veneracion representan a
-> V\[uestra\] S\[eñoría\] que haviendo experimentado que con los ocho
-> pesos mensuales de sueldo que gozan, es moralmente imposible (a tiro
-> largo) mantener la vida humana en esta ciudad ni en la de Portovelo,
-> Fuerte de Chagres y demas puestos donde han de servir. Ocurren a
-> V\[uestra\] S\[eñoría\] solicitando se sirva mandar se les acuda con
-> el Prest de trece pesos a los demas que han gozado anteriormente desde
-> el dia que nos desembarcamos en portovelo los que hemos venido de
-> España, y completandoles a los que aqui existian su haver del presente
-> mesa bajo de los descuentos acostumbrados de hospitalidad, entierro y
-> luces para alumbrar los quarteles en que hemos de avitar alojados;
-> pero no el de vestuario por lo perteneciente a los de la Reyna y
-> Artilleros, porque con el que tenemos costeado nos conservaremos tres
-> años, y los Piquetes que han de marchar con destino al Departamento de
-> Quito lo costearan ellos mismos con mas comodidad quando lleguen de su
-> destino que asi tiene lugar por los fundamentos siguientes:
+> V*uestra* S*eñoría* que haviendo experimentado que con los ocho pesos
+> mensuales de sueldo que gozan, es moralmente imposible (a tiro largo)
+> mantener la vida humana en esta ciudad ni en la de Portovelo, Fuerte
+> de Chagres y demas puestos donde han de servir. Ocurren a V*uestra*
+> S*eñoría* solicitando se sirva mandar se les acuda con el Prest de
+> trece pesos a los demas que han gozado anteriormente desde el dia que
+> nos desembarcamos en portovelo los que hemos venido de España, y
+> completandoles a los que aqui existian su haver del presente mesa bajo
+> de los descuentos acostumbrados de hospitalidad, entierro y luces para
+> alumbrar los quarteles en que hemos de avitar alojados; pero no el de
+> vestuario por lo perteneciente a los de la Reyna y Artilleros, porque
+> con el que tenemos costeado nos conservaremos tres años, y los
+> Piquetes que han de marchar con destino al Departamento de Quito lo
+> costearan ellos mismos con mas comodidad quando lleguen de su destino
+> que asi tiene lugar por los fundamentos siguientes:
 >
 > En la ysla de la Havana estamos ynformados se ha establecido el sueldo
 > de los ocho pesos, pero tambien estamos de que se dá a la tropa el Pan
@@ -1147,29 +1064,28 @@ Fecha: 25 de septiembre de 1766
 > save todo el Mundo lo caro y esteril deel y que abastese todo de
 > fuera: mas con todo si llegara el caso de que se les diese sobre los
 > ocho pesos el pan como en la Havana no puede esconderse seria de maior
-> costo á S\[u\] M\[ajestad\] (que Dios guarde) que el continuarnos el
-> Prest que pretendemos.
+> costo á S*u* M*ajestad* (que Dios guarde) que el continuarnos el Prest
+> que pretendemos.
 >
-> No se nos oculta (Señor) lo que V\[uestra\] S\[eñoría\] se há
-> esforzado anticipando viveres a Portovelo, Cruzes y Chagre a fin de
-> que a nuestro arribo no careciesemos del sustento necesario
-> distribuyendo sus acertadas providencias para que nada faltase a la
-> llegada a esta plaza, costeando V\[uestra\] S\[eñoría\] de su peculio
-> la comida del primer dia que estubo al paladar adaptable por lo bien
-> sasonado de que tributamos con nuestra explicacion las mas devidas
-> gracias; mas en los dias subcesivos que hemos continuado arranchados
-> careciendo de los alimentos de la substancia que tienen en España y
-> faltando el calor natural (por el temperamento) en los estomagos para
-> dixerir las bastas viandas del patrio suelo, resulta que mal guizado
-> el arros (porque se queda como engrudo) há causado la fatal
-> pestilencia que experimenta la tropa que al presente adolece en el
-> Hospital.
+> No se nos oculta (Señor) lo que V*uestra* S*eñoría* se há esforzado
+> anticipando viveres a Portovelo, Cruzes y Chagre a fin de que a
+> nuestro arribo no careciesemos del sustento necesario distribuyendo
+> sus acertadas providencias para que nada faltase a la llegada a esta
+> plaza, costeando V*uestra* S*eñoría* de su peculio la comida del
+> primer dia que estubo al paladar adaptable por lo bien sasonado de que
+> tributamos con nuestra explicacion las mas devidas gracias; mas en los
+> dias subcesivos que hemos continuado arranchados careciendo de los
+> alimentos de la substancia que tienen en España y faltando el calor
+> natural (por el temperamento) en los estomagos para dixerir las bastas
+> viandas del patrio suelo, resulta que mal guizado el arros (porque se
+> queda como engrudo) há causado la fatal pestilencia que experimenta la
+> tropa que al presente adolece en el Hospital.
 >
 > La franquicia de los trece pesos que pedimos la exforsamos contener la
 > maior parte de la tropa cumplido el termino de su enganchamiento y no
 > por esto solicitamos nuevo premio, ni lisencias porque confesamos el
-> crecido costo que ha tenido S\[u\] M\[ajestad\] en transportarnos a
-> esta America, mas si fuere posible el que se nos concediese dichas
+> crecido costo que ha tenido S*u* M*ajestad* en transportarnos a esta
+> America, mas si fuere posible el que se nos concediese dichas
 > licencias para apartarnos del servicio nos aplicariamos a cultibar la
 > tierra y alcanzariamos con mas ventajas el preciso alimento a que
 > aspiramos, bien que no nos ceparariamos a sacrificar siempre nuestras
@@ -1177,7 +1093,7 @@ Fecha: 25 de septiembre de 1766
 > gota de sangre de nuestras venas como se acreditará con la
 > experiencia.
 >
-> Tambien esperamos que V\[uestra\] S\[eñoría\] se sirva dar las mas
+> Tambien esperamos que V*uestra* S*eñoría* se sirva dar las mas
 > combenientes disposiciones para que no se nos oprima enserrandonos
 > desde la media tarde en los quarteles, porque con esta demostracion
 > nos melancolisamos mas y mas despues de la tristesa que nos asiste con
@@ -1190,30 +1106,30 @@ Fecha: 25 de septiembre de 1766
 > en sus procederes se les sugetará por sus respectivos sargentos y
 > cavos.
 >
-> No podemos dexar de hacer presente a V\[uestra\] S\[eñoría\] que lo
+> No podemos dexar de hacer presente a V*uestra* S*eñoría* que lo
 > executado se ha hecho sin refleccion a lo que previenen las Reales
 > ordenanzas y dimana de lo que experimentamos los del cuerpo del
 > Regimiento de la Reyna, conociendo el poco amor con que se nos trata
 > por los gefes y oficiales de el, castigandonos con azotes como a niños
-> ó viles esclavos y asi, suplicamos a V\[uestra\] S\[eñoría\] como a
+> ó viles esclavos y asi, suplicamos a V*uestra* S*eñoría* como a
 > nuestro ynspector generral no lo permita y providenciar se nos trate
 > como soldados y leales vasallos que estamos prontos a sacrificarnos en
-> servicio de S\[u\] M\[ajestad\] y mas quando aqui nunca se há
-> practicado, ni en ninguna parte de la America se executa V\[uestra\]
-> S\[eñoría\] concidere piadosamente sobre el asunto y si hemos dado el
-> menor motibo de queja en el corto tiempo que hemos estado en este Pais
-> para que se nos sonrroje con semejante castigo.
+> servicio de S*u* M*ajestad* y mas quando aqui nunca se há practicado,
+> ni en ninguna parte de la America se executa V*uestra* S*eñoría*
+> concidere piadosamente sobre el asunto y si hemos dado el menor motibo
+> de queja en el corto tiempo que hemos estado en este Pais para que se
+> nos sonrroje con semejante castigo.
 >
 > Ultimamente por el exceso cometido compulsos de la oprecion
 > experimentada y extrema necesidad que padeciamos esperamos se nos
 > conceda el perdon que pedimos, bajo del seguro de yglecia y precedido
-> el juramento correspondiente que deverrá hacer V\[uestra\] S\[eñoría\]
+> el juramento correspondiente que deverrá hacer V*uestra* S*eñoría*
 > sobre los quatro Evangelios (con asistencia del Ylustrisimo Señor
 > Obispo de esta Diocesis, el Señor Theniente de Rey y señores de los
 > cavildos eclesiásticos y seculares y demas sugetos principales de esta
 > ciudad) y de que se nos ha de cumplir nuestra solicitud y no se nos a
 > de puncionar con el mas leve castigo por ser conforme a la piadosa
-> real magnificencia de S\[u\] M\[ajestad\] C\[atólica\] y que de este
+> real magnificencia de S*u* M*ajestad* C*atólica* y que de este
 > memorial y su proveido se nos den las copias que pidieremos para
 > nuestro resguardo y que quede uno archibado en la Santa Yglecia
 > Cathedral, que asi es de Justicia y esperamos alcansar de su señoria.
@@ -1223,11 +1139,11 @@ Fecha: 25 de septiembre de 1766
 > antes, a entregar la plaza, las llaves y almagazenes y a marchar desde
 > la yglecia con nuestros oficiales a nuestros quarteles y puestos en
 > servicio del Rey, defensa de la plaza y a quedar en la devida
-> obediencia suplicando a VS el que nos recomiende a dichos oficiales
-> para que enteramente se olviden del sentimiento que puede haver
-> causado el movimiento hecho para que nos traten con la mejor equidad,
-> imponiendose en la materia perpetuo silencio. Panama y Septiembre
-> Veinteycinco de mil Setecientos sesenta y seis.
+> obediencia suplicando a V*uestra* S*eñoría* el que nos recomiende a
+> dichos oficiales para que enteramente se olviden del sentimiento que
+> puede haver causado el movimiento hecho para que nos traten con la
+> mejor equidad, imponiendose en la materia perpetuo silencio. Panama y
+> Septiembre Veinteycinco de mil Setecientos sesenta y seis.
 >
 > En nombre del Regimiento de la Reyna y demas Guarnicion de esta Plaza,
 > firmamos los sujetos nombrados para este Govierno del tiempo en que se
@@ -1239,10 +1155,38 @@ Fecha: 25 de septiembre de 1766
 >
 > Joachim Figueroa
 
-Anexo 12. Orden de indulto para quienes estuvieran presos por varios
+Anexo 13. Indulto a militares casados sin licencia (1766)
+
+Fuente: AGNC, sección colonia, milicias y marina, tomo 16, ff. 1008.
+
+Lugar: Madrid
+
+Fecha: 26 de diciembre de 1766
+
+> \[f. 1008r\] Copia { El Rey en celebridad del feliz desposorio del
+> Principe de Asturias, se ha dignado conceder yndulto de la pena de
+> privación de empleo á todos los oficiales de sus tropas que se
+> hubieren casado sin su R*ea*l permisso, siempre que en las mugeres
+> concurran las circunstancias debidas, con calidad de que hayan de
+> delatarse á la publicación de esta gracia á sus Coroneles ó
+> Comandantes. Lo que participo á V*uestra* E*xcelencia* para su
+> noticia, y la dé luego á los cuerpos veteranos que se hallan en ese
+> virreynato, previniendo que remitan relación de todos los
+> comprehendidos en esta gracia con expression de las circunstancias de
+> sus mugeres.
+>
+> Dios g*uard*e á V*uestra* E*xcelencia* m*ucho*s a*ño*s.
+>
+> Madrid 26 de Diziembre de 1766.
+>
+> El \[f. 1008v\] Marqués de Squilace.
+>
+> S*eñ*or D*on* Pedro Messia de la Zerda.
+
+Anexo 14. Orden de indulto para quienes estuvieran presos por varios
 delitos, con exclusión de los reos por crímenes de lesa majestad (1779)
 
-Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 16, ff. 146-150.
+Fuente: AGNC, sección colonia, milicias y marina, tomo 16, ff. 146-150.
 
 Lugar: Madrid
 
@@ -1259,7 +1203,7 @@ Fecha: 23 de febrero de 1779
 >
 > Joseph de Galvez.
 >
-> ***Real Orden***
+> Real Orden
 >
 > \[147r\] En el Consejo Supremo de Guerra se han visto, y mandado
 > cumplir tres Reales Resoluciones de S. M.
@@ -1331,7 +1275,7 @@ Fecha: 23 de febrero de 1779
 > habilitado por S. M. en ausencia del Señor Secretario. Don Antonio de
 > Prado.
 
-Anexo 13. Apartamiento de querella por precio (1780)
+Anexo 15. Apartamiento de querella por precio (1780)
 
 Fuente: AGNC, sección colonia, juicios criminales, tomo 148, doc. 1, ff.
 81r-82r.
@@ -1340,7 +1284,7 @@ Lugar: Santa Fe
 
 Fecha: 10 de mayo de 1780
 
-> *En virtud de transacion se aparta de la querella.*
+> En virtud de transacion se aparta de la querella.
 >
 > MPS
 >
@@ -1389,15 +1333,15 @@ Fecha: 10 de mayo de 1780
 >
 > Luis de Ovalle \[Procurador de número de la Real Audiencia\]
 
-Anexo 14. Real Cédula de indulto y perdón general a todos los reos,
+Anexo 16. Real Cédula de indulto y perdón general a todos los reos,
 concedida por el nacimiento del príncipe don Carlos Domingo Eusebio
 (1780)
 
-Fuente: AHM, Fondo Concejo de Medellín, SC Colonia, SR Reales Cédulas,
-tomo 33, ff. 332r-334v. AGNC, sección colonia, juicios criminales, tomo
-139, doc. 11, ff. 542r-544v. Félix Colón de Larreátegui, *Juzgados
-militares de España y sus Indias,* tomo IV (Madrid: por la viuda de
-Ibarra, 1789), 192, n. 1.
+Fuente: AHM, Concejo de Medellín, Colonia, Reales Cédulas, tomo 33, ff.
+332r-334v. AGNC, sección colonia, juicios criminales, tomo 139, doc. 11,
+ff. 542r-544v. Félix Colón de Larreátegui, *Juzgados militares de España
+y sus Indias,* tomo IV (Madrid: por la viuda de Ibarra, 1789), 192, n.
+1.
 
 Lugar: Aranjuez
 
@@ -1427,18 +1371,18 @@ Fecha: 8 de junio de 1780
 > y los que se han rematados a presidio o arsenales, que no estuvieren
 > remitidos o en camino para sus destinos, con tal que no hayan sido
 > condenados por los delitos que quedan exceptuados, assi mismo, siendo
-> de mi real benignidad,[^1] he venido en estender este indulto a los
+> de mi real benignidad,[^3] he venido en estender este indulto a los
 > reos que estan fugitivos, ausentes y rebeldes, señalandoles el termino
 > de seis meses a los que estuvieren dentro de España, y el de un año a
 > los que se hallaren fuera de estos reinos \[f. 332v\] para que puedan
 > presentarse ante qualesquiera justicias, las quales deberan dar cuenta
 > a los tribunales donde pendieren sus causas, para que se proceda a la
-> declaracion del indulto; y declaro[^2] que en los delitos en que haya
+> declaracion del indulto; y declaro[^4] que en los delitos en que haya
 > parte agraviada, aunque se haya procedido de oficio, no se concede el
 > indulto sin que preceda perdon suyo, y que en los que haya interés; o
 > pena pecunaria, tampoco se conceda sin que preceda la satisfacion o el
 > perdon de la parte; pero debera valer este indulto por el interes o
-> pena correspondiente al fisco y aun al denunciador,[^3] y siendo mi
+> pena correspondiente al fisco y aun al denunciador,[^5] y siendo mi
 > tienda a mis vasallos de America é islas Filipinas, lo comunicado a mi
 > Consejo de las Indias, por mi real orden de once de Mayo ultimo para
 > su cumplimiento, en cuya consequencia por esta mi real Cedula, mando a
@@ -1453,13 +1397,12 @@ Fecha: 8 de junio de 1780
 > Por mandado del Rey nuestro señor Miguel de San Martin Cueto. Hay tres
 > rúbricas.
 
-Anexo 15. Edicto para manifestar al público el indulto general,
+Anexo 17. Edicto para manifestar al público el indulto general,
 concedido por nuestro Católico Monarca el Señor Don Carlos III a todos
 los comprehendidos en las revoluciones acaecidas en el año pasado de mil
 setecientos ochenta y uno (1782)
 
-Fuente: Biblioteca Nacional de Colombia, Fondo Quijano, vol. 254, pza.
-10.
+Fuente: BNC, Fondo Quijano, vol. 254, pza. 10.
 
 Lugar: Santa Fe
 
@@ -1470,8 +1413,8 @@ Fecha: 6 de agosto de 1782
 > comprehendidos en las revoluciones acaecidas en el año pasado de mil
 > setecientos ochenta y uno.
 >
-> *Publicado en esta Ciudad de Santa Fé de Bogotá el dia siete de Agosto
-> de 1782*.
+> Publicado en esta Ciudad de Santa Fé de Bogotá el dia siete de Agosto
+> de 1782.
 >
 > \[p. 1\]
 >
@@ -1480,8 +1423,8 @@ Fecha: 6 de agosto de 1782
 > Governador, y Capitan General deste Nuevo Reyno de Granada, y
 > presidente de su Real Audiencia, y Chancilleria.
 >
-> *A todos, y cada uno de nuestros Súbditos de qualesquier estado, y
-> condicion que sean.*
+> A todos, y cada uno de nuestros Súbditos de qualesquier estado, y
+> condicion que sean.
 >
 > Divulgada generalmente por todo este Reyno la inesperada y nunca bien
 > sentida muerte del Ex\[celentísi\]mo Señor Don Juan de Torrezar Díaz
@@ -1744,8 +1687,8 @@ Fecha: 6 de agosto de 1782
 > por ahora en los generos y frutos de Castilla, que viniendo del Puerto
 > de Cartagena, como puerta principal del Reyno, ó de algunos otros
 > Puertos, para ser conducidos á lo interior de las Provincias con destino
-> al trato y Comercio, compongan carga,[^4] fardo,[^5] frangóte,[^6]
-> caxon,[^7] ó petaca;[^8] omitiendola en los de poca consideracion, ú
+> al trato y Comercio, compongan carga,[^6] fardo,[^7] frangóte,[^8]
+> caxon,[^9] ó petaca;[^10] omitiendola en los de poca consideracion, ú
 > otros encargos distintos de la negociacion: que se observe la formalidad
 > de las Guias, sin la obligacion de Tornaguias siempre que desta Capital
 > ó de la Villa de Honda se lleven generos y frutos de Castilla destinados
@@ -1931,7 +1874,7 @@ Fecha: 6 de agosto de 1782
 >
 > Antonio Arzobispo Virrey de Santa Fé
 
-Anexo 16. Petición de indulto de Eugenio Poveda (1783)
+Anexo 18. Petición de indulto de Eugenio Poveda (1783)
 
 Fuente: AGNC, sección colonia, juicios criminales, tomo 64, doc. 18, f.
 369r-v.
@@ -1954,29 +1897,28 @@ Fecha: 8 de marzo de 1783
 > quales nos iba á quitar despoticamente para apropiarselas como lo
 > probaré en caso necesario. Y como quiera que yo hubiera andado recliso
 > lo mas del tiempo solicitando el mas oportuno para el efecto de
-> vindicarme y que viniendo á ello fui preso en Poyma \[sic = Poima\] y
-> remitido á su Jusgado. Siendo pues que oy que se cuentan ocho de Marzo
-> estamos \[d\]entro del término asignado, que se previene en la Real
-> Cedula \[de\] indulto general que Su Magestad libró piadosamente en
-> ocho de Junio de mil septecientos ochenta en acim\[ient\]o de gracias
-> por el nacimiento de Nuestro Principe Don Carlos Domingo Eucebio, qual
-> se promulgo en esta villa en trece de septiembre de ochenta y dos.
-> Espero que en su observacion se declare mi delito por incluso en los
-> perdonados por Su Magestad en dicho Real Yndulto general haci por
-> razon de hacer esta mi precentacion en tiempo, y mejor en derecho,
-> como por el Perdon de la viuda que se contiene deve preceder qual
-> protesto precentar a su tiempo con las demas pruebas de mi
-> yncumbencia, con que haga ver mi ignocencia, que no lo hago haora
-> porque no estan en mi poder y \[f. 369v\] solo si esta mi precentacion
-> porque no se rinda el termino asignado y me seda perjuicio. Por todo
-> lo qual, y justicia conforme.
+> vindicarme y que viniendo á ello fui preso en Poyma y remitido á su
+> Jusgado. Siendo pues que oy que se cuentan ocho de Marzo estamos
+> *d*entro del término asignado, que se previene en la Real Cedula *de*
+> indulto general que Su Magestad libró piadosamente en ocho de Junio de
+> mil septecientos ochenta en acim*ient*o de gracias por el nacimiento
+> de Nuestro Principe Don Carlos Domingo Eucebio, qual se promulgo en
+> esta villa en trece de septiembre de ochenta y dos. Espero que en su
+> observacion se declare mi delito por incluso en los perdonados por Su
+> Magestad en dicho Real Yndulto general haci por razon de hacer esta mi
+> precentacion en tiempo, y mejor en derecho, como por el Perdon de la
+> viuda que se contiene deve preceder qual protesto precentar a su
+> tiempo con las demas pruebas de mi yncumbencia, con que haga ver mi
+> ignocencia, que no lo hago haora porque no estan en mi poder y \[f.
+> 369v\] solo si esta mi precentacion porque no se rinda el termino
+> asignado y me seda perjuicio. Por todo lo qual, y justicia conforme.
 >
 > A Vuestra Merced suplico provea y mande hacer como solicito, protesto
 > y juro en devida forma no proceder de malicia y lo necesario etc.
 >
 > Eugenio Pobeda
 
-Anexo 17. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
+Anexo 19. El Arzobispo virrey de Santa Fe dirige seis ejemplares del
 indulto que ha concedido a los compreendidos en las alteraciones pasadas
 y hace distintas reflexiones acalarando las razones que ha tenido para
 expedirlo en los términos que está (1783)
@@ -1993,112 +1935,111 @@ Fecha: 15 de octubre de 1783
 > \[f. 41r\] Excelentísimo Señor.
 >
 > Muy Señor mio. Acompaño a V. E. seis exemplares del yndulto que he
-> expedido en nombre de Su Mag\[esta\]d \[a\] todos los compreendidos en
-> las revolucion\[es\] acaecidas en este Reyno, con el unico y
-> preferente objeto de dar puntual cump\[limiento\] \[f. 41v\] a quanto
-> su Magestad manda y radicar mas la tranquilidad conseguida en esos
-> vastos Dominios.
+> expedido en nombre de Su Mag*esta*d *a* todos los compreendidos en las
+> revolucion*es* acaecidas en este Reyno, con el unico y preferente
+> objeto de dar puntual cump*limiento* \[f. 41v\] a quanto su Magestad
+> manda y radicar mas la tranquilidad conseguida en esos vastos
+> Dominios.
 >
 > Para salvar, sin embargo de la generosidad de este yndulto las
-> pro\[vi\]dencias porsteriores, que se hayan de tom\[ar\] averiguadeis
-> que sean los motores, autor\[es\], y cavezas de la revelion del modo
-> que su Mag\[esta\]d previno a mi antecesor Don Manuel de Flores en su
-> R\[ea\]l Orden R\[e\]servada de 23 de Agosto del año p\[ró\]ximo
-> pasado, he puesto en el capit\[ul\]o 2° \[de\] dicho yndulto que se
-> concede en la misma conformidad y propios terminos con que su
-> Mag\[esta\]d ha sido servido dispensarlo, omitiendo cuidadosamente
-> expresar las palabras de motores, autores y cavezas del motín, y
-> sigiendo e\[n\] esto lo mismo que havia tratado de \[f. 42r\]
-> executarse con mi antecesor D\[on\] Juan Pimienta, y que
-> posteriorm\[ent\]e consulte con los dos Ministros mis u\[n\]icos
-> confidentes el Regente Visitador G\[enera\]l D\[o\]n Juan
-> Fran\[cis\]co Gutierres de Piñeres, y el Oydor Don Juan Antonio Mon. y
+> pro*vi*dencias porsteriores, que se hayan de tom*ar* averiguadeis que
+> sean los motores, autor*es*, y cavezas de la revelion del modo que su
+> Mag*esta*d previno a mi antecesor Don Manuel de Flores en su R*ea*l
+> Orden R*e*servada de 23 de Agosto del año p*ró*ximo pasado, he puesto
+> en el capit*ul*o 2° *de* dicho yndulto que se concede en la misma
+> conformidad y propios terminos con que su Mag*esta*d ha sido servido
+> dispensarlo, omitiendo cuidadosamente expresar las palabras de
+> motores, autores y cavezas del motín, y sigiendo e*n* esto lo mismo
+> que havia tratado de \[f. 42r\] executarse con mi antecesor D*on* Juan
+> Pimienta, y que posteriorm*ent*e consulté con los dos Ministros mis
+> u*n*icos confidentes el Regente Visitador G*enera*l D*o*n Juan
+> Fran*cis*co Gutierres de Piñeres, y el Oydor Don Juan Antonio Mon y
 > Velarde.
 >
-> Al cap\[ítul\]o 3° advertira V\[uestra\] E\[xcelencia\] extiendo esta
-> R\[eal\] gracia a los que acaudillaron las tropas sublevadas con el
-> titulo de Capitan. Por precisa necesidad me he visto obligado a poner
-> esta dispensacion a los nombrados Capitan\[e\]s pues de otro modo era
+> Al cap*ítul*o 3° advertira V*uestra* E*xcelencia* extiendo esta R*eal*
+> gracia a los que acaudillaron las tropas sublevadas con el titulo de
+> Capitan. Por precisa necesidad me he visto obligado a poner esta
+> dispensacion a los nombrados Capitan*e*s pues de otro modo era
 > imposible sosegar los recelos de los principales sugetos de los
-> Pueblos, ni establecer solidam\[en\]te la tranquilidad publica del
-> Reyno. Por la desgracia de haverse traslucido \[f. 42v\] no sé cómo el
-> contenido de la citada Real Orden reservada de 22 de Agosto al Señor
-> Flores se sobresaltaron de nuevo estas gentes con la noticia que
-> esparcio un indio que se fingio chasqui mio, y publico havia llegado
-> correo de España y el Rey ordenaba el castigo de los capitanes, y que
-> yo les aconsejaba su fuga, de que di cuenta a V\[uestra\]
-> E\[xcelencia\] en mi carta particular fecha en Tunxa a 24 de Marzo de
-> este año incluyendole vajo el n° 1° la en que me avisaba de esta
-> perniciosa novedad el Misionero Capuchino Fray Joaq\[ui\]n de
+> Pueblos, ni establecer solidam*en*te la tranquilidad publica del
+> Reyno. Por la desgracia de haverse traslucido, \[f. 42v\] no sé cómo,
+> el contenido de la citada Real Orden reservada de 22 de Agosto al
+> Señor Flores, se sobresaltaron de nuevo estas gentes con la noticia
+> que esparcio un indio que se fingio chasqui mio, y publicó havia
+> llegado correo de España y el Rey ordenaba el castigo de los
+> capitanes, y que yo les aconsejaba su fuga, de que di cuenta a
+> V*uestra* E*xcelencia* en mi carta particular fecha en Tunxa a 24 de
+> Marzo de este año incluyendole vajo el n° 1° la en que me avisaba de
+> esta perniciosa novedad el Misionero Capuchino Fray Joaq*ui*n de
 > Finestrad. Por entonces atribui esta sediciosa especie a malicia de
 > los enemigos de la Paz, pero haviendo averiguado despues, tubo \[f.
-> 43r\] su origen de haverse esparcido sordam\[en\]te el contexto de la
-> citada Real orden equivocando sea errada o maliciosam\[en\]te las
+> 43r\] su origen de haverse esparcido sordam*en*te el contexto de la
+> citada Real orden equivocando sea errada o maliciosam*en*te las
 > especies de cavezas, motores y motores \[sic\] con los Capitanes,
 > tenia acordado con el citado Don Juan Pimienta, que se indultaran á
-> estos expresam\[en\]te y yo lo he executado en la misma conformidad,
-> sin que por esto se falte a lo mandado por su Mag\[esta\]d pues
-> realmente compreendo que todos, o la mayor parte de los que fueron
-> capitanes no son de los que conviene castigar por que se les obligó a
-> los mas a que admitiesen estos encargos, y muchos los tomaron por
-> libertarse de las relacio\[e\]s y perjuicios que los discolos les
-> ocasionaran en sus caudales y personas si se huvieran \[f. 43v\]
-> negado a ello.
+> estos expresam*en*te y yo lo he executado en la misma conformidad, sin
+> que por esto se falte a lo mandado por su Mag*esta*d pues realmente
+> compreendo que todos, o la mayor parte de los que fueron capitanes no
+> son de los que conviene castigar por que se les obligó a los mas a que
+> admitiesen estos encargos, y muchos los tomaron por libertarse de las
+> relacion*e*s y perjuicios que los discolos les ocasionaran en sus
+> caudales y personas si se huvieran \[f. 43v\] negado a ello.
 >
 > En el mismo capitulo 3°, avilito para que puedan obtener, y exercer
 > todos los empleos honorificos, civiles y militares a que sean
 > acreedores por su merito manifestando seran despreciadas por este
-> superior Gov\[ier\]no las excepcion\[e\]s que les pongan con el
-> anterior o semejantes pretextos de haver sido Capitanes, o Caudillos,
-> de los sublevados, y castigados los que intenten manchar en adelante a
-> sus compatriotas con tan feo borrón.
+> superior Gov*ier*no las excepcion*e*s que les pongan con el anterior o
+> semejantes pretextos de haver sido Capitanes, o Caudillos, de los
+> sublevados, y castigados los que intenten manchar en adelante a sus
+> compatriotas con tan feo borrón.
 >
-> Ademas de que esta avilitaz\[io\]n me parecio forzosa consecuencia del
+> Ademas de que esta avilitaz*io*n me parecio forzosa consecuencia del
 > yndulto tube para ello el poderoso motibo de la constante pacificacion
 > de los Pueblos. Como en estos Paises, ni en los que tengo vistos de
-> \[f. 44r\] America hay amor del proximo, estan continuam\[en\]te
+> \[f. 44r\] America hay amor del proximo, estan continuam*en*te
 > calumniandose con los mas ligeros motibos, con el de la sublevacion y
-> convocaz\[io\]n de la eleccion de Alcaldes en el presente año han sido
-> tantos los recursos que se hicieron a la R\[ea\]l Aud\[ienci\]a para
+> convocaz*io*n de la eleccion de Alcaldes en el presente año han sido
+> tantos los recursos que se hicieron a la R*ea*l Aud*ienci*a para
 > excluir a los electos que de no precisada a mandar por plano general
-> siguieran los Alcaldes del año anterior como vera V. E. por el
-> testim\[onio\] adjunto n° 1° estas consideraciones y la de evitar en
-> adelante innumerables ofensas a Dios y a los proximos, que veia como
-> precisas, y que tal vez podrian llegar a perturbar la tranquilidad de
-> los Pueblos, como que haviendo escogido por capitanes a los mas
-> principales hacendados \[f. 44v\] y sugetos distinguidos de ellos, y
-> quedando estos incapaces de obtener los primeros empleos de la
-> Republica recaerian precisam\[en\]te en gente rustica e incapaz de
-> administrar recta justicia me incline á concederles esta avilitacion
-> como medio unico de lograr el servicio de ambas Magesta\[de\]s.
+> siguieran los Alcaldes del año anterior como vera V*uestra*
+> E*xcelencia* por el testim*onio* adjunto n° 1°, estas consideraciones
+> y la de evitar en adelante innumerables ofensas a Dios y a los
+> proximos, que veia como precisas, y que tal vez podrian llegar a
+> perturbar la tranquilidad de los Pueblos, como que haviendo escogido
+> por capitanes a los mas principales hacendados \[f. 44v\] y sugetos
+> distinguidos de ellos, y quedando estos incapaces de obtener los
+> primeros empleos de la Republica recaerian precisam*en*te en gente
+> rustica e incapaz de administrar recta justicia me incline á
+> concederles esta avilitacion como medio unico de lograr el servicio de
+> ambas Magesta*de*s.
 >
 > En el capítulo 7° mando se pague el Real derecho de Alcavala de los
 > frutos, y generos de la tierra en todo el distrito de las
 > Administraciones Principales de esta capital y Villa de Honda por los
 > Aranceles antiguos, que se practicaban y estuvieron en observancia
-> hasta fin de septiembre de 1780, en que principio la nueva planta,
+> hasta fin de septiembre de 1780, en que principió la Nueva Planta,
 > esta providencia esta concevida en los mismos \[f. 45r\] terminos que
-> me la propuso el Reg\[en\]te Visitador en su oficio reservado de 2 de
+> me la propuso el Reg*en*te Visitador en su oficio reservado de 2 de
 > Julio de este año de que incluyo copia n° 2°. Aunque no hubiera tan
 > poderoso apoyo esta resolucion me ha parecido la mas ventajosa a la
-> R\[ea\]l Haz\[ien\]da por el beneficio que de ella resulta, y que se
-> patentisa \[sic\] en el plano n° 3°, en el va incluso el R\[eal\] Dro
-> \[Derecho\] de Armada de Barlovento el qual pagan gustosos estos
+> R*ea*l Haz*ien*da por el beneficio que de ella resulta, y que se
+> patentisa \[sic\] en el plano n° 3°, en el va incluso el R*eal*
+> D*erech*o de Armada de Barlovento, el qual pagan gustosos estos
 > naturales y con solo haver suprimido el nombre por que en su
 > ignorancia o capricho pesan mas los nombres que la realidad.
 >
 > En el capítulo 9° declaro que la formalidad de Guías y tornaguia solo
 > se rectifique por ahora en los generos y frutos de Castilla, y que
-> viniendo del Puerto de Cartag\[en\]a como Puerto \[f. 45v\] de
-> Cartag\[en\]a como puerto \[sic\] pr\[incip\]al del Reyno o de algunos
-> otros Puertos para ser conducidos a los interior de las Prov\[incia\]s
+> viniendo del Puerto de Cartag*en*a como Puerto \[f. 45v\] de
+> Cartag\[en\]a como puerto \[sic\] pr*incip*al del Reyno o de algunos
+> otros Puertos para ser conducidos a los interior de las Prov*incia*s
 > con destino al trato y comercio compongan carga, fardo, frangote,
 > caxon o petaca, omitiendola en los de poca consideracion y que sean
 > para el uso de los conductores, sus familias, u otros encargos
 > distintos de la negociasion. Que se observe la formalidad de las guias
 > sin la obligacion de tornaguias siempre, que esta capital, ó de la
 > Villa de Honda se lleven generos y frutos de Castilla destinados al
-> comercio interior de las prov\[incia\]s las quales guías deberan
+> comercio interior de las prov*incia*s las quales guías deberan
 > manifestar los negociantes al Administrador o recaudador del Ramo de
 > Alcavala \[f. 46r\] para que al pie les ponga certificacion de lo que
 > hayan contribuido.
@@ -2109,35 +2050,36 @@ Fecha: 15 de octubre de 1783
 > repugnado con mas terquedad, he tenido cuidado de suprimirles el
 > nombre salbando al mismo tiempo la realidad disponiendo se presenten
 > los Despachos a los respectibos Administradores de Alcavalas, y que
-> estos anoten en ellos lo que pagan por este R\[ea\]l Derecho. Es
+> estos anoten en ellos lo que pagan por este R*ea*l Derecho. Es
 > constante que estos despachos deverian bolverlos los que los sacan a
 > sus respectivas oficinas de donde dimanaron para asegurar haver
-> contribuido con \[f. 46v\] todos los legitimos Dros \[Derechos\] y que
-> no se exageran los efectos de las Prov\[incia\]s ó Pueblos donde se
+> contribuido con \[f. 46v\] todos los legitimos D*e*r*ech*os y que no
+> se exageran los efectos de las Prov*incia*s ó Pueblos donde se
 > debieron llevar, que es en realidad la tornaguia, pero esta falta
-> podra repararse facilm\[ent\]e provid\[encia\]s particular\[e\]s para
-> dejar esta exaccion en el ultimo estado de perfeccion y no me parece
-> conven\[ien\]te intentar estrechar tanto y con tanta prontitud estas
+> podra repararse facilm*ent*e provid*encia*s particular*e*s para dejar
+> esta exaccion en el ultimo estado de perfeccion y no me parece
+> conven*ien*te intentar estrechar tanto y con tanta prontitud estas
 > gentes a reponer de un golpe todo lo que pocos meses hace creiamos
 > perdido por muchos años, el tiempo, la dulzura y el buen modo
 > conseguiran poco á poco lo que ahora se ha omitido.
 >
-> En mucha parte de este yndulto notara V. E. expresion\[e\]s que no
-> merecen estas gentes, pero hay ocasiones en que para decir á uno lo
-> que debe \[f. 47r\] hacer es menester suponer, y aun asegurar, que lo
-> ha hecho.
+> En mucha parte de este yndulto notara V*uestra* E*xcelencia*
+> expresion*e*s que no merecen estas gentes, pero hay ocasiones en que
+> para decir á uno lo que debe \[f. 47r\] hacer es menester suponer, y
+> aun asegurar, que lo ha hecho.
 >
-> Yo espero que esta disposicion meresca la aprovacion del Rey y de V.
-> E. como tan interesado en los aciertos rogando a V. E. se haga cargo
-> de la critica situacion en que se ha visto este Reyno, y que hay
-> crisis tan peligrosas y con tan violentas combulsiones, que es
-> menester cortarlas al instante sin reparar en las malas, ó buenas,
-> resultas de los medicamentos. Las que observamos todas son las
-> mejores, y el Reyno se halla en una perfecta tranquilidad, obedientes
-> los vasallos del Rey, y prontos todos á quanto se les mande, cuya
-> seguridad doy á V. E. con gran satisfaccion mia por la que resulta á
-> su Mag\[esta\]d \[f. 47v\] de ver enteram\[en\]te apagado el voras
-> fuego de la sedicion encendido en estos dominios.
+> Yo espero que esta disposicion meresca la aprovacion del Rey y de
+> V*uestra* E*xcelencia* como tan interesado en los aciertos rogando a
+> V*uestra* E*xcelencia* se haga cargo de la critica situacion en que se
+> ha visto este Reyno, y que hay crisis tan peligrosas y con tan
+> violentas combulsiones, que es menester cortarlas al instante sin
+> reparar en las malas, ó buenas, resultas de los medicamentos. Las que
+> observamos todas son las mejores, y el Reyno se halla en una perfecta
+> tranquilidad, obedientes los vasallos del Rey, y prontos todos á
+> quanto se les mande, cuya seguridad doy á V*uestra* E*xcelencia* con
+> gran satisfaccion mia por la que resulta á Su Mag*esta*d \[f. 47v\] de
+> ver enteram*en*te apagado el voraz fuego de la sedicion encendido en
+> estos dominios.
 >
 > Nuestro Señor Guarde a V. E. muchos años
 >
@@ -2146,14 +2088,14 @@ Fecha: 15 de octubre de 1783
 > B. L. M° de V. E. su mas reconocido capellan = An° Arzobispo de Santa
 > Fe
 >
-> *Excelentísimo Señor Don José de Galvez*
+> Excelentísimo Señor Don José de Galvez
 
-Anexo 18. Real Decreto sobre indulto de militares procesados por delitos
-(1783)
+Anexo 20. Real Decreto sobre indulto de militares procesados por varios
+delitos (1783)
 
-Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 53, ff. 188-189.
-Archivo Histórico de Medellín, Fondo Concejo de Medellín, SC Colonia, SR
-Reales Cédulas, tomo 34, ff. 361r-362r.
+Fuente: AGNC, sección colonia, milicias y marina, tomo 53, ff. 188-189.
+AHA, Concejo de Medellín, Colonia, Reales Cédulas, tomo 34, ff.
+361r-362r.
 
 Lugar: Madrid
 
@@ -2231,7 +2173,7 @@ Fecha: 10 de octubre de 1783
 > guarde á V. \_\_\_ muchos años. Madrid 10 de Octubre de 1783. = Don
 > Matéo de Villamayor.
 
-Anexo 19. Indulto general (1784)
+Anexo 21. Indulto general (1784)
 
 Fuente: AGNC, sección colonia, Real Audiencia, Cundinamarca, tomo 17,
 ff. 744r-745v.
@@ -2314,7 +2256,84 @@ Fecha: 16 de enero de 1784
 >
 > Fuy presente, Calvo.
 
-Anexo 20. Indulto de desertores (1789)
+Anexo 22. Real Cédula para que en los dominios de Indias e Islas
+Filipinas se observe lo resuelto sobre el conocimiento de causas de
+concubinato, y modo de impartir el auxilio el brazo seglar a los Jueces
+Eclesiásticos (1787)
+
+Fuente: BNC, fondo Pineda, tomo 333, Pieza 5.
+
+Lugar: Madrid
+
+Fecha: 21 de diciembre de 1787
+
+> EL REY
+>
+> En quince de Octubre de mil setecientos ochenta y quatro me representó
+> mi Real Audiencia de Santa Fé lo ocurrido con motivo de la providencia
+> tomada por el M*uy* Rev*erendo* Arzobispo Virrey de aquella Capital á
+> favor de la jurisdiccion Eclesiástica, sobre el conocimiento de las
+> causas seguidas á dos concubinas, que de órden de su Provisor, y
+> Gobernador del Arzobispado se hallaban presas en la Cárcel de mugeres;
+> recurso hecho por el Procurador de Pobres, á fin de que la Audiencia
+> las declarase comprehendidas en mi Real indulto; el que por esta causa
+> introduxo de fuerza el Fiscal de lo Criminal de ella, tratando tambien
+> del modo de impartirse los auxilios al citado Gobernador Eclesiástico;
+> y lo expuesto por este para persuadir que el delito de concubinato es
+> de mixto fuero, y que habiendo principiado las mencionadas causas
+> debia proceder, y seguir en su conocimeinto, pues no podian gozar del
+> indulto los reos, á que no se extendia por ser de agena jurisdiccion.
+> Visto todo en mi Consejo de las Indias con los expuesto por mis
+> Fiscales, y habiéndome consultado el pleno de tres Salas en veinte y
+> cinco de Septiembre de este año su dictámen, conformándome con él para
+> evitar las freqüentes disputas, que como la presente se ofrecen entre
+> los Jueces Eclesiásticos, y Reales de mis Dominios de Indias sobre á
+> quien toca el conocimiento de causas, que ocurren por el delito de
+> concubinato, uniformar este punto de disciplina en unos, y otros mis
+> Reynos, y que se vea en aquellos establecida generalmente la práctica
+> mandada guardar en estos, obviando en lo succesivo iguales disturbios
+> entre las dos potestades: he resuelto se observe lo ordenado en mi
+> Real Cédula de diez y nueve de Noviembre de mil setecientos setenta y
+> uno, expedida por mi Consejo de Castilla, y confirmada por otra de
+> veinte de Febrero de mil setecientos setenta y siete, sobre el quarto
+> punto de los comprehendidos en una Representacion del Reverendo Obispo
+> de Plasencia, cuyo tenor es el siguiente: \"Que para evitar los
+> pecados públicos de Legos, si los hubiese, exercite todo el zelo
+> Pastoral por sí, y por medio de los Párrocos, tanto en el fuero
+> penitencial, como por medio de amonestaciones, y de las penas
+> espirituales, en los casos, y con las formalidades, que el Derecho
+> tiene establecidas; y no bastando estas, se dé cuenta á las Justicias
+> Reales, á quienes toca su castigo en el fuero externo y criminal, con
+> la penas temporales prevenidas por las Leyes del Reyno; excusándose el
+> abuso de que los Párrocos con este motivo exijan multas, así porque no
+> bastan para contener y castigar semejantes delitos, como por no
+> corresponderles esta facultad; y que si aún hallase omision en ellas,
+> dé cuenta al mi Consejo para que lo remedie, y castigue á los
+> negligentes, conforme las Leyes lo disponen.\" Asimismo he resuelto,
+> que dada la cuenta que en el isnerto punto se ordena á las Justicias
+> Reales para que procedan al castigo de tales delinqüentes, se
+> entienda, que si estas estuviesen omisas en el cumplimiento de su
+> obligacion, se dé dicha cuenta á mis Virreyes, Presidentes, ó
+> Audiencias del distrito; y si estos, lo que no espero, lo estuviesen
+> igualmente, se dirija noticia al referido mi Consejo de Indias, quien
+> tomará las providencias mas serias, y efectivas contra unos, y otros.
+> Que en los casos y ocasiones en que puedan y deban los Jueces
+> Eclesiásticos implorar el auxilio del brazo seglar, se imparta sin
+> retardacion por las Audiencias, y Justicias ordinarias respectivé, en
+> el modo, y términos, que prescriben las Leyes de Indias, que tratan de
+> la materia. Y ultimamente he venido en que quando me digne expedir
+> indultos generales los gocen, y sean comprehendidos en ellos los
+> delinqüentes Eclesiásticos contra quienes estuvieren conociendo sus
+> Jueces, siendo las penas que se les habrian de imponer tales, que
+> puedan ser remitidas por dichos indultos. En cuya conseqüencia mando á
+> mis Virreyes, Presidentes, Audiencias, Gobernadores, y demas Justicias
+> de mis Dominios de las Indias, é Islas Filipinas; y ruego, y encargo á
+> los M. Reverendos Arzobispos, y Reverendos Obispos de ellos, guarden,
+> cumplan, y executen, y hagan guardar, cumpllir, y executar la referida
+> mi Real determinacion, que así es mi voluntad. Fecho en Madrid á
+> veinte y uno de Diciembre de mil setecientos ochenta y siete.
+
+Anexo 23. Indulto de desertores (1789)
 
 Fuente: Félix Colón de Larreátegui, *Juzgados militares de España y sus
 Indias,* tomo IV (Madrid: por la viuda de Ibarra, 1789), 193-194, n. 1.
@@ -2383,10 +2402,123 @@ Fecha: 16 de enero de 1789
 >
 > Don Gerónimo Caballero
 
-Anexo 21. Real Decreto de Carlos IV sobre indulto a los desertores del
+Anexo 24. Indulto publicado a nombre del rey para los implicados en la
+conspiración de Gual y España (1797)
+
+Fuente: AGI, Caracas, 427.
+
+Lugar: Caracas
+
+Fecha: 20 de julio de 1797
+
+> \[f. 732r\] El presidente, regente y oydores de la Real Audiencia y
+> Chancillería de Caracas etcetera.
+>
+> La inviolable antigua fidelidad, caracteristica de esta capital y
+> provincias al Rey Nuestro Señor (que Dios guarde) ha sido invadida por
+> la seduccion maligna de algunos hombres inconsiderados y alucinados de
+> maximas detestables, cuyo principal objecto es ofender la Santa
+> Religion y como no se puede lograr esto sin corromper \[f. 732v\] las
+> costumbres, ni corromprelas sin alterar las leyes y el sistema del
+> govierno español, han procurado los malintencionados emplear el primer
+> medio de arruinar la obediencia y subordinacion devida á Su Magestad
+> con promesas de felicidades imaginarias y falsas para acercarse
+> gradualmente al principal fin de allanar los sagrados limites en que
+> quiere Dios sean contenidas las pasiones. Pero por una especial
+> misericordia de Dios, no ha podido la malignidad perbertir la
+> educacion Christiana y los corazones sanos y honrrados de tantos
+> fieles \[f. 733r\] y buenos vasallos del Rey. Estamos plena y
+> perfectamente combencidos y seguros de esto por la demostracion
+> publica y llena de sinceridad, con que desde la primer noticia en los
+> designios turbulentos se han apresurado á detenerlos el cuerpo de la
+> Ciudad, el del venerable Dean y cavildo, el de la nobleza, el de la
+> universidad, el de la Real Hacienda por medio de su gefe, el del
+> Colegio de Abogados, el del comercio por medio del consulado, el de la
+> Academia del Derecho Español y practico, y muchas personas
+> particulares de todas las clases, mientras tanto que cada una de ellas
+> ha dado y está \[f. 733v\] dando por otra parte pruevas evidentisimas
+> de su lealtad y amor al Rey, á la patria y á la tranquilidad publica
+> en el servicio de las armas en los tres batallones, esquadron y
+> cuerpos de milicias urbanas, al exemplo de sus comandantes. No es de
+> menos recomendacion y merito el que ha dado el prelado eclesiástico,
+> lleno de su celo paternal por si y en nombre del clero secular y
+> regular para preserbar á todos del contagio de las opiniones perversas
+> y concurrir a detenerlas y extinguirlas.
+>
+> Por todo devemos dar y damos á Dios humildemente las gracias de que
+> somos capaces, porque \[f. 734r\] se ha dignado librar á esta
+> fidelisima ciudad, pueblos y provincias subalternas de los peligros en
+> que se ha intentado arrojarla. Y damos tambien al Real nombre del Rey
+> Nuestro Señor las gracias tan devidas al celo de todos los cuerpos y
+> personas insignadas por la prontitud con que han concurrido á indagar,
+> descubrir y aniquilar los malos propositos. Esperamos que con igual
+> constancia y firmeza los mismos cuerpos y todos y cada uno de los
+> fieles vasallos de su Magestad han de continuar sosteniendo para
+> siempre los sagrados principios y doctrina de la Religion y por
+> consequencia necesaria la obediencia al Rey \[f. 734v\] Nuestro Señor,
+> el respecto á sus Tribunales y Ministros, la union entre las familias,
+> la verdadera caridad reciproca, abominando la falsa y seductora y
+> fortificando de este modo la tranquilidad y utilidad publica y
+> general.
+>
+> Mandamos á todos y á cada uno de los habitantes seculares de esta
+> capital su provincia y las demas, y rogamos y encargamos á los
+> Eclesiasticos que nos comuniquen reservadamente quantas noticias
+> tuvieren de algunos papeles, combersaciones, juntas ó acciones
+> particulares que directa ó indirectamente puedan contribuir á renovar
+> los males ó á sostenerlos \[f. 735r\] ú ocultarlos en inteligencia de
+> que quedarán para siempre reservados los nombres de los sugetos que se
+> presentaren á dar semejantes noticias y en la de que al darlas no han
+> de ser movidos, por alguna vil pacion de interés, odio, venganza ó
+> emulacion.
+>
+> Prohivimos con pena de la vida, con la de presidio, reclusion en las
+> carceles y otras proporcionadas en sus cargos, las juntas y
+> combersaciones que se dirigen a los mencionados fines reprovados. La
+> introduccion, la copia y estencion de todos y qualesquiera papeles que
+> hayan venido ó vinieren de afuera ó se hayan compuesto ó se
+> compusieren dentro de esta ciudad \[f. 735v\] y provincias y que
+> conspiren directa ó indirectamente aun con el disimulo de cuidar la
+> idea en coplas y cantares aparentemente casuales, ordenamos muy
+> particularmente á todos los pades de familia y maestros en las
+> ciencias de las artes y oficios que cada uno repita frecuentemente á
+> sus hijos, á sus familiares y discipulos la obligacion que tienen de
+> respetar y amar a Dios, y cumplir las obligaciones de buenos vasallos,
+> buenos hijos, buenos discipulos, buenos familiares y buenos
+> ciudadanos.
+>
+> Publiquese en todos los barrios de esta capital \[f. 736r\] por vando,
+> fixandose despues por escrito y egecutese los mismo en los puertos de
+> la Guayra y Cavello y en los demas Pueblos principales de esta
+> Provincia y en las otras del Distrito de la Real Audiencia por mano de
+> los Gobernadores respectivos.
+>
+> Dado en la Sala del Real Acuerdo de Caracas, y sellado con el Sello
+> Real á veinte de Julio de mil setecientos noventa y siete.
+>
+> Al real nombre de su Magestad se ofrece al que se delatare ó delatare
+> á otros el yndulto y gracia segun las circunstancias.
+>
+> Pedro Carbonell.
+>
+> Antonio Lopez Quintana
+>
+> Francisco Ygnacio Cortines
+>
+> Juan \[f. 736v\] Nepomuceno de Pedrosa.
+>
+> José Bernardo de Astequeta
+>
+> Julian Diaz Saravia
+>
+> Por mandado del Acuerdo de la Real Audiencia
+>
+> Rafael Diego Merida Escribano de Camara interino
+
+Anexo 25. Real Decreto de Carlos IV sobre indulto a los desertores del
 ejército con motivo del matrimonio de su hijo Fernando (1802)
 
-Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 50, f. 1091.
+Fuente: AGNC, sección colonia, milicias y marina, tomo 50, f. 1091.
 
 Lugar: Madrid
 
@@ -2442,10 +2574,10 @@ Fecha: 5 de octubre de 1802
 >
 > Sr. Virey de Santa Fé
 
-Anexo 22. Indulto de la pena de privación de empleo a oficiales que se
+Anexo 26. Indulto de la pena de privación de empleo a oficiales que se
 hubieran casado sin el Real permiso (1802)
 
-Fuente: AGNC, Colonia, Fondo Milicias y Marina, tomo 11, ff. 984-985.
+Fuente: AGNC, sección colonia, milicias y marina, tomo 11, ff. 984-985.
 
 Lugar: Madrid
 
@@ -2485,11 +2617,10 @@ Fecha: 5 de octubre de 1802
 >
 > \[José Antonio\] Caballero
 
-Anexo 23. Real Cédula sobre indulto general concedido con motivo del
+Anexo 27. Real Cédula sobre indulto general concedido con motivo del
 matrimonio del Príncipe (1803)
 
-Fuente: AGNC, Sección Archivo Anexo, Fondo Reales Cédulas y Órdenes,
-Tomo 35.
+Fuente: AGNC, sección Archivo Anexo, reales cédulas y órdenes, tomo 35.
 
 Lugar: Madrid
 
@@ -2567,10 +2698,10 @@ Fecha: 25 de julio de 1803
 >
 > Yo El Rey
 
-Anexo 24. Indulto de desertores: decreto del gobierno peninsular al
+Anexo 28. Indulto de desertores: decreto del gobierno peninsular al
 respecto (1804)
 
-Fuente: AGNC, Colonia, fondo milicias y marina, tomo 100, f. 13.
+Fuente: AGNC, sección colonia, milicias y marina, tomo 100, f. 13.
 
 Lugar: San Lorenzo
 
@@ -2619,7 +2750,7 @@ Fecha: 29 de octubre de 1804
 >
 > Sr. Virrey del Nuevo Reyno de Granada
 
-Anexo 25. Indulto concedido por la Junta Suprema de Sevilla (1808)
+Anexo 29. Indulto concedido por la Junta Suprema de Sevilla (1808)
 
 Fuente: *Gazeta Ministerial de Sevilla*, núm. 2, 4 de junio de 1808,
 15-16.
@@ -2661,106 +2792,16 @@ Fecha: 30 de mayo de 1808
 >
 > Dado en Sevilla á 30 de Mayo de 1808
 
-Anexo 26. Real Decreto de José Napoleón por el que se otorga el indulto
-general a los oficiales y soldados desertores que prestasen el juramento
-prescrito en la Constitución (1808)
+Anexo 30. Indulto promulgado por el virrey Antonio Amar y Borbón (1808)
 
-Fuente: AHNE, Estado, leg. 3092, exp.11
-
-Lugar: Madrid
-
-Fecha: 23 de julio de 1808
-
-> Don Josef Napoleon por la gracia de Dios y por la constitucion del
-> Estado, Rey de las Españas y de las Yndias.
->
-> Compadecido de los funestos errores que han apartado á muchos de los
-> habitantes de esta Monarquia del amor al sosiego y buen orden publico,
-> base principal de la felicidad de los pueblos, deseando encontrar en
-> todos los dominios que me ha confiado la providencia divina hijos
-> dociles, agradecidos y obedientes, en vez de vasallos adquiridos por
-> la fuerza; y queriendo desde el mismo dia que se ha de proclamar en
-> esta capital mi exaltacion al trono acreditar á la noble y generosa
-> nacion española que aspiro á gobernarla como padre, y que hallaran en
-> mi estos mismo sentimientos aun aquellos que volviendo del error en
-> que estan, se confien en mi natural clemencia; he venido, imitando en
-> esto la conducta de varios soberanos de gloriosa memoria, en declarar:
->
-> Que desde este dia señalado para mi proclamacion en Toledo y esta
-> capital y hasta el 15 de Agosto proximo seran admitidos á prestar el
-> juramento que la constitucion previene los pueblos, los tribunales,
-> los generales y cuerpos militares, y los empleados en qualquiera ramo
-> ó carrera que se hallen en las provincias que aun no hayan reconocido
-> mi soberania, quedando desde el momento en que asi se verifique en un
-> completo olvido todos los actos, sean notorios, publicos ó privados
-> con que hayan intentado desconocerla ó resistirla, é indultados de
-> toda pena los cuerpos ó individuos que hayan incurrido en esta falta;
-> reservandome prorrogar el plazo de este indulto general en todos los
-> casos en que haya habido imposibilidad ó dificultades insuperables
-> para conocerlo y cumplir con el acto de sumision que queda expresado.
->
-> Que á exemplo de la benigna clemencia con que depongo enteramente la
-> memoria de lo pasado, espero tambien que los particulares que tuvieren
-> quejas entre si por acaecimientos de este tiempo de anarquia y
-> desorden, olviden sus propios resentimientos, pues deseo que la union
-> é intima reconciliacion de mis vasallos sea el primer dia feliz de mi
-> reinado.
->
-> Declaro asimismo comprendidos en este indulto á todos los oficiales
-> que se hayan ausentado sin permiso de sus destinos respectivos, y á
-> todos los desertores, sean de la clase que fueren, con tal que se
-> presenten unos y otros antes del 16 de Agosto proximo en la residencia
-> de alguno de los capitanes ó comandantes generales que tubieren
-> nombramiento ó aprobacion mia, ó en qualquiera pueblo con que haya
-> gefe militar ó ayuntamiento que hayan reconocido mi soberania,
-> ampliando tambien á favor de los desertores el plazo de este indulto
-> en los casos ya indicados.
->
-> Los ayuntamientos de los pueblos, los tribunales, cuerpos ó
-> individuos, á quienes corresponde prestar juramento para gozar de este
-> indulto, deberan remitir al ministerio respectivo, ó al quartel
-> general de uno de mis exercitos, ó á uno de los comandantes ó
-> capitanes generales de provinncia ya pacifica, un testimonio legal que
-> acredite la prestacion de este juramento, y el dia en que lo hayan
-> prestado, en qualquiera de estos modos sera admitido este acto de
-> sumision y obediencia.
->
-> Las provincias del Reyno que no hayan reconocido mi soberania antes de
-> la publicacion de este decreto, luego que en sus capitales respectivas
-> se haya prestado el juramento prescrito, enviaran quatro diputados á
-> esta corte elegidos uno en el clero, otro en la nobleza, y dos en el
-> estado llano, con instrucciones sobre el estado de su provincia y
-> cabal conocimiento de sus mas urgentes necesidades.
->
-> Por ultimo, declaro que aunque me prometo del acendrado juicio de la
-> nacion y de su amor á vivir baxo el sagrado asilo de las leyes el mas
-> pronto restablecimiento del orden publico, no consentire que la
-> inquietud de algunos pueblos, ó la obstinacion de los individuos
-> descarriados ó alucinados comprometa por mas tiempo el sosiego de mis
-> vasallos fieles, ni que debilite los cimientos de esta monarquia, que
-> con solo la tranquilidad y union de sus habitantes puede hacerse tan
-> poderosa y feliz, como aspiro á que lo sea.
->
-> Nuestros ministros quedan encargados cada uno en la parte que le toca
-> de la execucion del presente decreto. De mi Palacio de Madrid á 23 de
-> Julio de 1808.
->
-> Firmado, Yo El Rey
->
-> Por SM su ministro secretario de Estado, Mariano Luis Morquiz
->
-> Al Ministro de Negocios extranjeros
-
-Anexo 27. Indulto promulgado por el virrey Antonio Amar y Borbón (1808)
-
-Fuente: AGNC, Sección Colonia, Juicios Criminales, Leg. 2, doc. 14, ff.
+Fuente: AGNC, sección colonia, juicios criminales, tomo 2, doc. 14, ff.
 758r-761v
 
 Lugar: Santa Fe
 
 Fecha: 14 de octubre de 1808
 
-> \[758r\] Yndulto publicado en esta capital el 14 de Oct^e^ de 1808
+> \[758r\] Yndulto publicado en esta capital el 14 de Oct*ubr*e de 1808
 >
 > \[759r\] Don Antonio Amar y Borbon Arguedas, y Vallejo de Santa Cruz
 > Caballero profeso del orden de Santiago, Teniente general de los
@@ -2855,7 +2896,7 @@ Fecha: 14 de octubre de 1808
 >
 > Antonio Amar
 >
-> Certific.^n^ } Bustamante = Certifico: yo el ynfrascripto Escribano
+> Certific*ió*n } Bustamante = Certifico: yo el ynfrascripto Escribano
 > Receptor de esta Real Audiencia que el Bando precedente en que se
 > concede yndulto, á los desertores y demas delinquentes comprehendidos
 > en los respectivos articulos que de ello tratan; ha sido publicado en
@@ -2870,31 +2911,37 @@ Fecha: 14 de octubre de 1808
 > sacar la presente que firmo en Santafe a veinte y quatro de octubre de
 > mil ocho cientos y ocho años= Ramon Bustamante.
 
-[^1]: En la transcripción de Colón de Larriátegui: \"Asimismo usando de
+[^1]: Heras Santos, "Indultos concedidos por la Cámara de Castilla en
+    tiempos de los Austrias", 116.
+
+[^2]: Tomás y Valiente, "El perdón de la parte ofendida", 94--114;
+    Rodríguez Flores, *El perdón real*, 239--78.
+
+[^3]: En la transcripción de Colón de Larriátegui: \"Asimismo usando de
     su Real benignidad\...\"
 
-[^2]: \"Y ha declarado S.M.\" Colón de Larriátegui, *Juzgado militares*.
+[^4]: \"Y ha declarado S.M.\" Colón de Larriátegui, *Juzgado militares*.
 
-[^3]: Hasta aquí cédula copiada por Colón de Larriátegui.
+[^5]: Hasta aquí cédula copiada por Colón de Larriátegui.
 
-[^4]: *Diccionario de Autoridades*: "El peso que lleva, o puede llevar
+[^6]: *Diccionario de Autoridades*: "El peso que lleva, o puede llevar
     sobre sí el hombre o la béstia, transportándole de una parte a otra,
     como tambien el carro o la nave."
 
-[^5]: *Diccionario de Autoridades*: "Lio grande de ropa, mui ajustada y
+[^7]: *Diccionario de Autoridades*: "Lio grande de ropa, mui ajustada y
     apretada, para poder llevarla de una parte a otra, lo que se hace
     regularmente con las mercadurías que se han de transportar, y se
     cubre con harpillera o lienzo embreado o encerado, para que no se
     maltraten con los temporales."
 
-[^6]: *Diccionario de Autoridades*: "Especie de fardo, que es mayor o
+[^8]: *Diccionario de Autoridades*: "Especie de fardo, que es mayor o
     menor que los regulares de dos en carga. Es término del Comercio
     marítimo."
 
-[^7]: *Diccionario de Autoridades*: "La caxa grande, que clavada la tapa
+[^9]: *Diccionario de Autoridades*: "La caxa grande, que clavada la tapa
     con sus clavos al rededor, sirve para llevar de unas partes a otras
     los géneros y cosas con seguridad, sin que se lastimen, ni
     registren, por los que las condúcen."
 
-[^8]: *Diccionario de Autoridades*: "Especie de arca hecha de cueros o
+[^10]: *Diccionario de Autoridades*: "Especie de arca hecha de cueros o
     pellejos fuertes, o de madera cubierta de ellos."

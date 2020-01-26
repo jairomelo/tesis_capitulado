@@ -1,12 +1,12 @@
-Capítulo V. El perdón, el temor y la obediencia
-===============================================
+Capítulo V. Entre el perdón y la obediencia
+===========================================
 
 El oidor José Quijano Velarde, conde de Torre-Velarde, envió una carta
 reservada a Manuel Godoy, su benefactor, en la que manifestaba el
 lamentable estado de la fidelidad en el reino para el año de 1797. El
 magistrado llevaba tan sólo un año en Santa Fe como oidor de la sala del
-crimen, pero su concepto era de que los habitantes del Nuevo Reino
-vivían en un territorio de tal riqueza que los hacía ociosos, ladrones,
+crimen, pero su concepto era que los habitantes del Nuevo Reino vivían
+en un territorio de tal riqueza que los hacía ociosos, ladrones,
 borrachos, pero sobre todo, "fáciles de seducir y soberbios\". Estas
 características no serían exclusivas de los nativos del reino, incluso
 la gente de honor compartiría estos defectos, de quienes decía eran
@@ -24,23 +24,23 @@ su desembarco en la isla de Trinidad o incluso su refugio en la isla
 holandesa de Curaçao, desde donde podría estar planeando junto a Pedro
 Fermín de Vargas, otro temido "conspirador", una revolución a la
 francesa con ayuda de los británicos.[^2] Esta misiva no tuvo el
-propósito de servir como un mero reporte, era un llamado de auxilio ante
-el "estado de indefensión" en el que se encontraba Santa Fe; rodeada por
-enemigos, conjuraciones y habitada por personas en las que no se podía
-confiar. El plan de Torre-Velarde era simple: aumentar la tropa de
-origen europeo a mil quinientos hombres que reforzarían los trescientos
-que cuidaban el distrito santafereño, las cuales se distribuirían 300 en
-los Llanos, de tal forma que contuvieran la entrada de los ingleses que
-pudieran venir desde la desembocadura del río Orinoco y sus afluentes en
-la Guayana; otros 200 para el Socorro, región que se consideraba de
-especial cuidado después de la rebelión de 1781; 200 soldados para
-Tunja, 100 para honda e igual número para Guaduas, dejando los 700
-restantes para defender Santa Fe. Los recursos para mantener esta tropa
-provendrían de un aumento de los impuestos, pues "este es un mal a q*u*e
-ellos dan causa, y es preciso q*u*e lo padezcan. Es una pena de su
-repetida infidelidad y es forsoso la sufran. De ellos mismos debe salir
-el costo de unas tropas, q*u*e su perfidia obliga á aumentar y mantener
-en este Reino".[^3]
+propósito de servir como un mero reporte, antes bien era un clamor por
+ayuda ante el "estado de indefensión" en el que se encontraba Santa Fe,
+rodeada por enemigos, conjuraciones y habitada por personas en las que
+no se podía confiar. El plan de Torre-Velarde era simple: aumentar la
+tropa de origen europeo a mil quinientos hombres que reforzarían los
+trescientos que cuidaban el distrito santafereño, las cuales se
+distribuirían 300 en los Llanos, de tal forma que contuvieran la entrada
+de los ingleses que pudieran venir desde la desembocadura del río
+Orinoco y sus afluentes en la Guayana; otros 200 para el Socorro, región
+que se consideraba de especial cuidado después de la rebelión de 1781;
+200 soldados para Tunja, 100 para honda e igual número para Guaduas,
+dejando los 700 restantes para defender Santa Fe. Los recursos para
+mantener esta tropa provendrían de un aumento de los impuestos, pues
+"este es un mal a q*u*e ellos dan causa, y es preciso q*u*e lo padezcan.
+Es una pena de su repetida infidelidad y es forsoso la sufran. De ellos
+mismos debe salir el costo de unas tropas, q*u*e su perfidia obliga á
+aumentar y mantener en este Reino".[^3]
 
 Los temores del oidor no se reflejaron en la realidad y al momento de su
 muerte, en 1801, no había tropa británica que amenazara el Nuevo Reino,
@@ -52,34 +52,34 @@ organizara cualquier revolución. Obviamente, personajes como Nariño,
 Fermín de Vargas, o Francisco Miranda, Manuel Gual y José María España
 en Caracas, representaron voces que se manifestaron a favor de una
 transformación de la monarquía en república, pero no dejaban de ser
-deseos antes que proyectos que se pudieran desarrollar. El mismo Nariño
-tuvo que entregarse a las autoridades virreinales después de darse
-cuenta de que, a pesar del descontento general con la tasación, no había
-posibilidades de que los pueblos se organizaran en un ataque colectivo
-contra el gobierno monárquico.[^4] No obstante, las autoridades
-virreinales estaban convencidas de que el descontento de los habitantes
-del Nuevo Reino era expresión de la deslealtad, de la carencia de
-vasallaje y, en general, de la desobediencia.
+deseos antes que proyectos que se pudieran concretar en una revolución.
+El mismo Nariño tuvo que entregarse a las autoridades virreinales
+después de darse cuenta de que, a pesar del descontento general con la
+tasación, no había posibilidades de que los pueblos se organizaran en un
+ataque colectivo contra el gobierno monárquico.[^4] No obstante, las
+autoridades virreinales estaban convencidas de que el descontento de los
+habitantes del Nuevo Reino era expresión de la deslealtad, de la
+carencia de vasallaje y, en general, de la desobediencia.
 
 El desorden ya no sería asunto solamente de las fronteras. Después de la
 rebelión de los comuneros de 1781, en la que la misma ciudad de Santa Fe
-estuvo bajo la amenaza, las autoridades se dieron cuenta de la debilidad
-del virreinato ante una acción coordinada de los desobedientes. Los
-comuneros no fueron un ejército, ni se caracterizaron por su disciplina,
-ni siquiera por tener una reivindicación homogénea, y aun así
-consiguieron doblegar a los oidores y al mismo virrey, de quien
-consiguieron la firma incondicional de un acuerdo y el perdón general
-que abarcó incluso a sus líderes. Cuando en 1794 aparecieron fijados en
-diferentes muros de Santa Fe, unos pasquines con mensajes "sediciosos",
-tanto el cabildo, como la audiencia y el virrey, asumieron que la
-rebelión de 1781 había resurgido, y lo mismo pasó en 1797 cuando otros
-pasquines aparecieron en los muros de Tunja. Pero estos temores
-conspirativos ya habían sido manifestados en el contexto mismo de la
-rebelión comunera, pequeños alzamientos en Antioquia fueron
-caracterizados como grandes conspiraciones, rebeliones en Los Llanos y
-en Maracaibo, también se consideraron parte de un plan superior que
-consistiría en permitir que los ingleses apostados en Guayana se tomaran
-los reinos de Tierra Firme.
+estuvo bajo la amenaza, las autoridades se dieron cuenta de la
+fragilidad de las defensas del virreinato ante una acción coordinada de
+los desobedientes. Los comuneros no fueron un ejército, ni se
+caracterizaron por su disciplina, ni siquiera por tener una
+reivindicación homogénea, aun así consiguieron doblegar a los oidores y
+al mismo virrey, de quien consiguieron la firma incondicional de un
+acuerdo y el perdón general que abarcó incluso a sus líderes. Cuando en
+1794 aparecieron fijados en diferentes muros de Santa Fe, unos pasquines
+con mensajes "sediciosos", tanto el cabildo, como la audiencia y el
+virrey, asumieron que la rebelión de 1781 había resurgido, y lo mismo
+pasó en 1797 cuando otros pasquines aparecieron en los muros de Tunja.
+Pero estos temores conspirativos ya habían sido manifestados en el
+contexto mismo de la rebelión comunera, pequeños alzamientos en
+Antioquia fueron caracterizados como grandes conspiraciones, rebeliones
+en Los Llanos y en Maracaibo, también se consideraron parte de un plan
+superior que consistiría en permitir que los ingleses apostados en
+Guayana se tomaran los reinos de Tierra Firme.
 
 Es difícil encontrar a finales del siglo XVIII una autoridad que no
 considere que la clemencia es el camino de la impunidad, no porque se
@@ -193,9 +193,9 @@ cambio en la pacificación moderada de La Guajira y el Darién (como se
 explicó en el capítulo precedente), y en la actualización gradual de las
 rentas.
 
-El presente capítulo se enfoca entonces en analizar el uso del perdón en
-el proceso de construcción de la desconfianza y el temor a la sedición,
-así como su relevancia al inicio de la crisis de la monarquía de 1808.
+El presente capítulo se enfoca en analizar el uso del perdón en el
+proceso de construcción de la desconfianza y el temor a la sedición, así
+como su relevancia al inicio de la crisis de la monarquía de 1808.
 Partimos de la rebelión de los barrios de Quito de 1765, por ser una de
 las primeras revueltas antifiscales de gran impacto tanto a nivel
 virreinal como en la misma Corte,[^12] además de ser un claro parteaguas
@@ -209,15 +209,16 @@ comuneros, en el cual se intentará argumentar la estrategia diferenciada
 entre perdón y represión relativa a la capacidad de las autoridades para
 detener a los diferentes movimientos que se presentaron en el virreinato
 y en Venezuela. El tercer apartado se enfocará en las conspiraciones de
-fin de siglo, enfocándonos particularmente en la relación temor-perdón.
-Finalmente, se tratará el indulto general de Amar y Borbón como una
-manifestación del uso del perdón como mecanismo para defender a la
-monarquía tras la invasión napoleónica de 1808 y la recuperación de un
-discurso de la clemencia como parte de la atracción de los vasallos a la
-fidelidad con su monarca cautivo.
+fin de siglo, particularmente en la relación temor-perdón generada por
+la supuesta exacerbación del espíritu revolucionario de los habitantes
+del Nuevo Reino. Finalmente, se tratará el indulto general de Amar y
+Borbón como una manifestación del uso del perdón como mecanismo para
+defender a la monarquía tras la invasión napoleónica de 1808 y la
+recuperación de un discurso de la clemencia como parte de la atracción
+de los vasallos a la fidelidad con su monarca cautivo.
 
- La rebelión de los barrios de Quito: el perdón y la represión frustrada.
--------------------------------------------------------------------------
+ La rebelión de Quito: el perdón y la represión frustrada.
+----------------------------------------------------------
 
 "La noche del dia 22 del corriente \[mayo de 1765\], como a las ocho
 oras de ella, se lebantaron los barrios de esta ciudad y acometieron la
@@ -418,13 +419,12 @@ La ratificación oficial del indulto fue concedida por el virrey el 22 de
 agosto,[^33] y fue recibido en Quito el 14 de septiembre.[^34]
 Inmediatamente la Real Audiencia preparó la publicación del perdón, el
 cual se hizo por medio de bando y a usanza de guerra en cada parroquia
-de la ciudad. Las ceremonias del perdón (descritas en el anexo Ceremonia
-de perdón a los habitantes de los barrios de Quito) muestran un
-recorrido procesional de la gracia que se inició en la plaza mayor y
-luego se dirigió por los barrios. En la catedral se llevó a cabo una
-misa cantada en la que se descubrió al Señor Sacramentado, durante la
-ceremonia se repicaron las campanas de la iglesia y así se repitió por
-las demás iglesias. Según el testimonio de los escribanos que
+de la ciudad. Las ceremonias del perdón (descritas en el anexo 11)
+muestran un recorrido procesional de la gracia que se inició en la plaza
+mayor y luego se dirigió por los barrios. En la catedral se llevó a cabo
+una misa cantada en la que se descubrió al Señor Sacramentado, durante
+la ceremonia se repicaron las campanas de la iglesia y así se repitió
+por las demás iglesias. Según el testimonio de los escribanos que
 certificaron la ceremonia, en cada barrio era recibida la procesión con
 luces en los balcones, música, cajas, clarines y cohetes, con excepción
 del vecindario de Santa Bárbara, aunque no parece que se debiese a
@@ -606,7 +606,7 @@ súbditos en el Nuevo Reino de Granada.[^50]
 
 En sus inicios, la rebelión era similar a cualquier otro levantamiento
 local con pequeños disturbios en villas como Simacota, Mogotes y Charalá
-(véase mapa 1) que rechazaban la imposición del estanco del tabaco y del
+(véase mapa 9) que rechazaban la imposición del estanco del tabaco y del
 aguardiente, además del impuesto de la armada de Barlovento al hilo de
 algodón, medidas introducidas por el visitador Gutiérrez de Piñeres
 desde mediados de 1780.[^51] Para marzo de 1781, cuando se impusieron
@@ -635,15 +635,6 @@ de los cuales el más destacado fue Ambrosio Pisco, quien sería conocido
 como el "príncipe de Bogotá"; con lo cual lograban imitar el carácter
 indígena de la temida rebelión de Túpac Amaru II.[^55]
 
-Mapa 1. Principales escenarios de la rebelión de los Comuneros del
-Socorro
-
-![](media/image1.jpeg)
-
-Elaboración propia con información del AGI, Caracas, 425, con datos de
-Werner Stangl, ed. *HGIS de las Indias*, y del Instituto Geográfico
-Agustín Codazzi de Colombia.
-
 Francisco Berbeo, capitán de los sublevados, logró agrupar 20 000
 hombres, "mal apertrechados pero entusiastas", con los cuales logró
 establecerse a la distancia de un día de camino hasta Santa Fe. El 31 de
@@ -663,6 +654,16 @@ exigían los rebeldes. Finalmente, la Audiencia aprueba los términos,
 justificándole al rey que actuaban así porque de otra manera se hubiese
 dado paso al saqueo de la capital y "la total destrucción de la
 autoridad real".[^57]
+
+Mapa 9. Principales escenarios de la rebelión de los Comuneros del
+Socorro
+
+![Socorro](media/image1.jpeg){width="5.895833333333333in"
+height="5.895833333333333in"}
+
+Elaboración propia con información del AGI, Caracas, 425, con datos de
+Werner Stangl, ed. *HGIS de las Indias*, y del Instituto Geográfico
+Agustín Codazzi de Colombia.
 
 Después de la firma de las capitulaciones vino un proceso en el cual las
 autoridades santafereñas buscaron estrategias para desaprobarlas, como
@@ -1169,37 +1170,37 @@ captura de Galán eran evidencia suficiente de la humillación de las
 poblaciones infames. La reconciliación de la ciudad no se acompañó de
 una ceremonia de humillación pública que ratificara la lealtad y el
 ofrecimiento del perdón,[^114] como sucedió en Quito tras la "rebelión
-de los barrios" de 1765.[^115] Por lo tanto, el hecho de retirar los
-miembros mutilados de las villas de Socorro, San Gil, y los pueblos de
-Guaduas, Charalá y Mogotes, se consideraría como suficiente para
-representar la vuelta de estos poblados a la gracia del rey.
+de los barrios". Por lo tanto, el hecho de retirar los miembros
+mutilados de las villas de Socorro, San Gil, y los pueblos de Guaduas,
+Charalá y Mogotes, se consideraría como suficiente para representar la
+vuelta de estos poblados a la gracia del rey.
 
 Por otra parte, el virrey ofrecía como evidencia de su nuevo mando,
 retirar algunas innovaciones fiscales que se consideraron como la causa
 del descontento popular. Esta era la ratificación de otro de los
 acuerdos realizados para desbandar la rebelión, específicamente los dos
-primeros puntos de las capitulaciones.[^116] Unos días después de la
+primeros puntos de las capitulaciones.[^115] Unos días después de la
 firma de las capitulaciones, en junio de 1781, el virrey Flórez comunicó
 en una carta circular al cabildo, justicias y regimiento de la villa del
 Socorro que se eliminaría el gravamen de armada de Barlovento además de
 las guías y contraguías, prometiendo la negociación del permiso de
-cultivo de tabaco,[^117] algo que no se incluyó posteriormente en el
-edicto de Caballero y Góngora.[^118] El impuesto a la armada de
+cultivo de tabaco,[^116] algo que no se incluyó posteriormente en el
+edicto de Caballero y Góngora.[^117] El impuesto a la armada de
 Barlovento había sido creado en 1635, implementado en el distrito de la
 Audiencia de Santa Fe en 1640, para contribuir al sostenimiento de las
 flotas del caribe que hacían presa de navíos con contrabando y de
 defender los puertos de ataques piratas, mediante el cobro de un 2 por
-ciento adicional a la alcabala.[^119] No era del todo falso la
+ciento adicional a la alcabala.[^118] No era del todo falso la
 afirmación que hacía el arzobispo-virrey de que la eliminación de este
 impuesto era simplemente nominal. Desde 1720 la tasa por armada se
 cobraba junto a la alcabala y para 1778, cuando fueron separados
 nominalmente por el regente Gutiérrez de Piñeres, fue percibido como si
-se estableciera una innovación tributaria.[^120] En realidad, y así lo
+se estableciera una innovación tributaria.[^119] En realidad, y así lo
 manifestaba al ministro Gálvez, lo único que hizo Caballero y Góngora
 fue restituir la tradición de cobrar el gravamen de armada de Barlovento
 junto a la alcabala como si fuese un único impuesto, "el qual pagan
 gustosos estos naturales y con solo haver suprimido el nombre porque en
-su ignorancia o capricho pesan mas los nombres que la realidad".[^121]
+su ignorancia o capricho pesan mas los nombres que la realidad".[^120]
 
 Las guías y tornaguías fueron un sistema diseñado por Gutiérrez de
 Piñeres que buscaba controlar el tráfico de bienes al interior del Nuevo
@@ -1211,12 +1212,12 @@ bienes que habían llegado cumplían con el pago del gravamen
 correspondiente, o estaban respaldados por una fianza, y emitía una
 tornaguía. El malestar con este sistema surgía por la necesidad de los
 comerciantes de contratar un fiador y de pagar un notario para mover sus
-mercancías.[^122] Nuevamente Caballero y Góngora le aseguró a Gálvez que
+mercancías.[^121] Nuevamente Caballero y Góngora le aseguró a Gálvez que
 el retirar la exigencia de las tornaguías fue una necesidad ante la
 terquedad de los sublevados, pero que había tenido el cuidado de
 suprimir el nombre "salvando al mismo tiempo la realidad, disponiendo se
 presenten los despachos a los respectivos Administradores de Alcavalas,
-y que estos anoten en ellos lo que pagan por este Real Derecho".[^123]
+y que estos anoten en ellos lo que pagan por este Real Derecho".[^122]
 Era claro que, aunque el sistema de guías tenía un método para
 corroborar en destino que se hubiesen realizados las erogaciones
 correspondientes a la real hacienda, era necesario desarrollar una
@@ -1242,12 +1243,12 @@ e incluso destacado en bastardilla en el impreso, al decir que "*si*
 que les concede, y borraren los excesos pasados con las pruebas mas
 positivas de Obediencia y Lealtad, se harán acreedores á las
 felicidades, que se les preparan, y gozarán perpetuamente, de las
-ulteriores piedades de su Generoso Monarca*".[^124]
+ulteriores piedades de su Generoso Monarca*".[^123]
 
 Hans-Joachim König interpretó esta idea de obediencia filial como una
 estratagema política de Caballero y Góngora para expresar
 metafóricamente "la igualdad entre españoles europeos y los españoles
-americanos demandada por los Comuneros".[^125] Si se asume que los
+americanos demandada por los Comuneros".[^124] Si se asume que los
 puntos de las capitulaciones resumían las reivindicaciones generales de
 los diferentes partícipes de la rebelión es posible considerar que la
 interpretación de König coincide con el punto 22 de dicho documento:
@@ -1264,7 +1265,7 @@ interpretación de König coincide con el punto 22 de dicho documento:
 > estamos sujetos a un mismo Rey y Señor debemos vivir hermanablemente.
 > Y al que intentare señorearse y adelantarse a más de lo que
 > corresponde a la igualdad, por el mismo hecho sea separado de nuestra
-> sociabilidad.[^126]
+> sociabilidad.[^125]
 
 Sin embargo, la exhortación de Caballero y Góngora estaba más preocupada
 en sustentar la debida obediencia a las autoridades reales y
@@ -1275,7 +1276,7 @@ superior gobierno, y así lo expresó claramente cuando dijo:
 "representamos al vivo la Imagen de Dios y del Soberano dibujada con los
 tiernos colores de no pocas lágrimas derramadas á los pies del Santuario
 y del Trono, para interceder por la seguridad de sus vidas y
-Haciendas".[^127] Sin duda el punto 22 de las capitulaciones
+Haciendas".[^126] Sin duda el punto 22 de las capitulaciones
 correspondía a una reivindicación a favor de un gobierno de americanos,
 un evidente rechazo además al regente visitador quien asumió una
 política arrogante para la reforma acelerada de las convenciones
@@ -1284,14 +1285,14 @@ del cabildo mexicano de 1771, este enunciado de las capitulaciones es un
 manifiesto del descontento con el método empleado por José de Gálvez
 para implementar las reformas propuestas por Carlos III, en especial el
 destierro de las mediaciones y acuerdos para adelantar las
-innovaciones.[^128]
+innovaciones.[^127]
 
 El problema radica en que ni el texto del indulto de Caballero y
 Góngora, ni la carta explicativa, ni los textos de agradecimiento que
 circularon posteriormente, tratan de este punto. König contrapone el
 edicto del arzobispo-virrey con *El vasallo instruido* de Finestrad,
-señalando que este último se enfocó en la paterna autoridad monárquica
-en lugar del clamor de "hermandad" del primero.[^129] Sin embargo, el
+señalando que este último se enfoca en la paterna autoridad monárquica
+en lugar del clamor de "hermandad" del primero.[^128] Sin embargo, el
 edicto de indulto recalca permanentemente que el deber del súbdito es
 obedecer y no cuestionar las decisiones tomadas por las autoridades
 legítimas; de cierta manera, era una forma más sutil de expresar que los
@@ -1299,7 +1300,7 @@ vasallos estaban para callar y obedecer. Precisamente, en estos sagaces
 juegos del lenguaje radicaba la habilidad política de Caballero y
 Góngora. La excepcionalidad del edicto de indulto se manifiesta en la
 conjunción de un texto ordinario de gracia con un exhorto moral y
-político; la concesión de perdón que incluía un documento público, leído
+político, la concesión de perdón que incluía un documento público, leído
 por bando y que además circularía de modo impreso por los confines del
 virreinato, en el cual se manifestaba el nuevo convenio entre el más
 liberal de los monarcas y los que a partir de entonces deberían ser sus
@@ -1332,19 +1333,19 @@ provincias del reino. Gutiérrez de Piñeres le escribía en mayo
 informándole que "por todas partes se va prendiendo el fuego de la
 rebelión", y pocos días después le informaba que en Ibagué y los pueblos
 cercanos se estaban levantando los pueblos, o estaban dispuestos a
-ello.[^130] La noticia de la ejecución de Tupac Amaru II, con la cual se
+ello.[^129] La noticia de la ejecución de Tupac Amaru II, con la cual se
 esperaba calmaran los ánimos, tuvo poco efecto en los levantados. En
 julio aparecieron unos pasquines en las esquinas de Santa Fe que decían:
 "Se há corrido bando que han vencido al Rey de Lima. Es nulo lo dicho,
 que son balances perdidos. Y aunque eso fuera, muere por la razón, y
-moriremos todos".[^131] Este no era un comportamiento exclusivo de Santa
+moriremos todos".[^130] Este no era un comportamiento exclusivo de Santa
 Fe, desde Caracas el superintendente de ejército y real hacienda le
 escribía a José de Gálvez para informarle que la noticia de la ejecución
 de Túpac Amaru había contristado a la mayoría de habitantes de la
 provincia de Maracaibo, "quienes lo deseaban y amaban por sus bellas
 qualidades en quanto procedia contra los intereses de el Rey y
 persecución contra Españoles Europeos", al mismo tiempo que se corría la
-voz de que la captura y ejecución del cuzqueño era falsa".[^132] La idea
+voz de que la captura y ejecución del cuzqueño era falsa".[^131] La idea
 compartida por los oficiales del virreinato y de Venezuela consistía en
 la urgente necesidad de reforzar con tropa europea los puntos más
 álgidos, calmar los ánimos con su simple presencia, e iniciar un proceso
@@ -1356,7 +1357,7 @@ Flórez que en ese reino no se presentaban desórdenes, pero temía que en
 cualquier momento se iniciara un movimiento de rebelión siguiendo el
 ejemplo de los comuneros de Santa Fe. Mencionaba como ejemplo que en la
 villa de Riobamba los mestizos aprovecharon un cabildo abierto para
-gritar en la plaza "que se les quitaran todos los pechos".[^133] Al
+gritar en la plaza "que se les quitaran todos los pechos".[^132] Al
 conocer de dicho evento, el regente ordenó el envío de un destacamento
 de milicianos desde Ambato, quienes lograron capturar a algunos de los
 mestizos que alzaron la voz, sin que tras de ello se presentaran nuevas
@@ -1368,41 +1369,42 @@ retirara la tropa miliciana de dicha provincia pues corrían el riesgo de
 que no actuaran con la rudeza necesaria al momento de un levantamiento
 de sus vecinos. Al igual que Piñeres, el regente de Quito consideraba
 que "la buena y competente fuerza militar es la que únicamente puede
-reducir estas gentes á la razón y obediencia".[^134] El virrey Flórez se
+reducir estas gentes á la razón y obediencia".[^133] El virrey Flórez se
 rehusó a enviar la tropa solicitada por García de León, pues ésta era ya
 insuficiente en Panamá, tanto así que había necesitado recurrir a un
 refuerzo proveniente de La Habana. Le propuso en cambio al regente que
 se completaran las fuerzas de compañías fijas y que se mantuvieran las
-milicias para la defensa de la región.[^135]
+milicias para la defensa de la región.[^134]
 
 Para diciembre de 1781, el virrey Flórez le envió al gobernador de
 Antioquia una orden reservada en la que el advertía que el indulto que
 había promulgado no cobijaba a las cabezas de la sublevación en su
-provincia (véase mapa 2). Específicamente se refería a don Juan Bautista
-Herrera, platero español, y a Juan de Lastra, un negro liberto, ambos
-acusados de haber sido los líderes del "motín" que se suscitó en la zona
-entre la ciudad de Antioquia y del pueblo de Sopetrán.[^136] En esta
-zona, Lastra se organizó junto a varios cultivadores ilegales de tabaco
-para impedir que los comisionados regios destruyeran sus sementeras y
-los procesaran por fraude a la Real Hacienda. Después de hacerse fuertes
-y conseguir aumentar la fuerza en hombres y armas, consiguieron negociar
-con el gobernador que les dejara continuar con sus cultivos y a cambio
-ellos se regresarían a sus casas disolviendo así el tumulto a finales de
-septiembre.[^137] Aunque así se cumplió por parte de los cultivadores y
-la calma regresó a la región, la instrucción del virrey era clara en
-determinar que, no sólo se les excluyera del indulto, además debía
-procederse contra ellos con la mayor precaución, buscando la manera de
-encontrar un "motivo público" para justificar su aprehensión, sin que se
-generase un nuevo levantamiento. Para enero de 1782 la estrategia del
-gobernador se puso en marcha, recolectó los testimonios de vecinos de
-Antioquia y Sopetrán con los cuales probaría que se estaba planeando un
-nuevo tumulto, más fuerte que el anterior, por lo cual era justificado
-enviar tropa a capturar a los cabecillas del movimiento, como
-efectivamente se ejecutó a los pocos días.[^138]
+provincia (véase mapa 10). Específicamente se refería a don Juan
+Bautista Herrera, platero español, y a Juan de Lastra, un negro liberto,
+ambos acusados de haber sido los líderes del "motín" que se suscitó en
+la zona entre la ciudad de Antioquia y del pueblo de Sopetrán.[^135] En
+esta zona, Lastra se organizó junto a varios cultivadores ilegales de
+tabaco para impedir que los comisionados regios destruyeran sus
+sementeras y los procesaran por fraude a la Real Hacienda. Después de
+hacerse fuertes y conseguir aumentar la fuerza en hombres y armas,
+consiguieron negociar con el gobernador que les dejara continuar con sus
+cultivos y a cambio ellos se regresarían a sus casas disolviendo así el
+tumulto a finales de septiembre.[^136] Aunque así se cumplió por parte
+de los cultivadores y la calma regresó a la región, la instrucción del
+virrey era clara en determinar que, no sólo se les excluyera del
+indulto, además debía procederse contra ellos con la mayor precaución,
+buscando la manera de encontrar un "motivo público" para justificar su
+aprehensión, sin que se generase un nuevo levantamiento. Para enero de
+1782 la estrategia del gobernador se puso en marcha, recolectó los
+testimonios de vecinos de Antioquia y Sopetrán con los cuales probaría
+que se estaba planeando un nuevo tumulto, más fuerte que el anterior,
+por lo cual era justificado enviar tropa a capturar a los cabecillas del
+movimiento, como efectivamente se ejecutó a los pocos días.[^137]
 
-Mapa 2. Levantamientos en la gobernación de Antioquia
+Mapa 10. Levantamientos en la gobernación de Antioquia
 
-![](media/image2.jpeg)
+![Antioquia](media/image2.jpeg){width="5.895833333333333in"
+height="3.910416666666667in"}
 
 Elaboración propia con información del AGI, Caracas, 425, con datos de
 Werner Stangl, ed. *HGIS de las Indias*, y del Instituto Geográfico
@@ -1418,17 +1420,17 @@ oculta por las autoridades del reino. Una de las expresiones más
 interesantes de este movimiento (además de la mítica cédula de
 liberación), habría sido que los esclavos acompañaron su demanda de
 manumisión con el compromiso de seguir trabajando en las minas de oro y
-pagar tributos "como si fueran indios".[^139] Según Marcela Echeverri,
+pagar tributos "como si fueran indios".[^138] Según Marcela Echeverri,
 "los esclavos estaban reconociendo la legitimidad del poder mediador del
 rey y se hallaban dispuestos a entrar en relaciones de vasallaje, a
 imagen y semejanza de las relaciones que las comunidades indígenas
-habían establecido con la Corona".[^140] El problema fundamental de este
+habían establecido con la Corona".[^139] El problema fundamental de este
 movimiento es que nunca se llevó a cabo. Phelan afirma que la rebelión
 de negros antioqueños fue traicionada, pero no es posible sustentar su
 afirmación pues no se conocen los documentos de las causas que se
-llevaron en contra de sus dirigentes.[^141] Aunque algunos visos de sus
+llevaron en contra de sus dirigentes.[^140] Aunque algunos visos de sus
 destinos pueden entreverse en el proceso que se les siguió a los
-tumultuados de Sopetrán.[^142]
+tumultuados de Sopetrán.[^141]
 
 Según el capitán a guerra de Rionegro, Alonso Elías Jaramillo, supo por
 información de un minero, que uno de sus esclavos capitanes de cuadrilla
@@ -1446,7 +1448,7 @@ coincidían en afirmar que ninguno de ellos le había hecho caso, e
 incluso que habían olvidado el asunto hasta que fueron interrogados por
 ello. Finalmente, en abril de 1782, fueron conducidos a prisión cuatro
 esclavos y "tres sujetos libres", de los cuales no se indicó su
-identidad.[^143]
+identidad.[^142]
 
 De lo que estaba convencido el virrey Flórez era que los movimientos que
 había detenido el gobernador de Antioquia estaban relacionados con los
@@ -1459,21 +1461,21 @@ una salida posible por la clemencia: "Aunque quando se promovió esta
 segunda inquietud no parece había llegado el indulto concedido por la
 primera \[la del Socorro\], tendrá este todavía lugar en el comun de los
 congregados, si se someten á la razón, se tranquilisan y sosiegan, pero
-no con Herrera ni los demás principales fautores ó cavesas".[^144] Por
+no con Herrera ni los demás principales fautores ó cavesas".[^143] Por
 otra parte, ante la posibilidad de que los reos se fugaran o se
 organizara una campaña para liberarlos, el virrey ordenó se les enviara
 lo más pronto posible, incluso antes de concluir la recolección de
-testimonios, a las cárceles de la Real Audiencia.[^145] También, como
+testimonios, a las cárceles de la Real Audiencia.[^144] También, como
 escarmiento, se ordenó que a los esclavos se les propinaran doscientos
 azotes por las calles de la ciudad, incluyéndose en este castigo
 público, aunque con menos cantidad de azotes, a los líderes de los
 indígenas de Buriticá, quienes se levantaron el 20 de noviembre de 1781
-y fueron reprimidos cinco días después.[^146]
+y fueron reprimidos cinco días después.[^145]
 
 En total fueron remitidos a Santa Fe 11 personas sindicadas como
 cabecillas. Antes de su remisión, Juan de Lastra se suicidó al cortarse
 con un clavo que sacó de su cama, posiblemente temiendo que se le
-sometiera a un tormento similar al de Galán.[^147] Cinco acusados más
+sometiera a un tormento similar al de Galán.[^146] Cinco acusados más
 fueron castigados con pena pecuniaria de entre 30 y 25 pesos oro, las
 cuales no pudieron satisfacer por su pobreza, por lo que dieron alguna
 compensación en especie o se comprometieron a trabajar en obras públicas
@@ -1488,7 +1490,7 @@ de manera explícita los cabecillas implicados en el primer
 levantamiento. Por esta razón, el fiscal Martínez aconsejó que debían
 ser todos ellos sometidos a la pena de último suplicio, "para su
 castigo, exemplo y escarmiento de otros, y tranquilidad del
-reyno".[^148] El expediente incompleto impide saber si esta sentencia se
+reyno".[^147] El expediente incompleto impide saber si esta sentencia se
 llevó a cabo, pero es dudoso que una ejecución de esa naturaleza hubiese
 pasado desapercibida en los anales de la ciudad de Santa Fe. No
 obstante, es de resaltar la capacidad que tuvieron las autoridades
@@ -1499,7 +1501,7 @@ Góngora.
 
 Otra situación compleja se vivió en la provincia de Los Llanos, donde
 Javier de Mendoza asumió el liderazgo de un ejército indígena de cerca
-de 1500 hombres, asumiéndose como subalternos de Túpac Amaru II.[^149]
+de 1500 hombres, asumiéndose como subalternos de Túpac Amaru II.[^148]
 Desde mayo de 1781 los indígenas rebeldes se hicieron fuertes, tomando
 poblaciones, expulsando sacerdotes y apropiándose de los bienes de la
 iglesia. Al igual que el frente de José Antonio Galán, Mendoza y los
@@ -1507,7 +1509,7 @@ indígenas llaneros decidieron continuar con el movimiento, desatendiendo
 los llamados que se hacían desde el Socorro para calmar la revolución.
 En julio, el arzobispo Caballero y Góngora decide enviar a José Antonio
 Villalonga con la misión de pacificar Los Llanos, tarea que culminó
-exitosamente con la recuperación de la ciudad de Pore (véase mapa 3),
+exitosamente con la recuperación de la ciudad de Pore (véase mapa 11),
 desde la cual exigió a los vecinos a unirse a ayudar en la pacificación,
 demanda que fue rápidamente atendida. Para julio la fuerza de los
 indígenas sumaba 3000 hombres, pero estos no contaban con más de sesenta
@@ -1522,18 +1524,19 @@ la Real Hacienda habían sido restablecidos. También informó que los
 indios se presentaron voluntariamente, algunos de los cuales fueron
 castigados según les pareció conveniente, mientras los demás habrían
 demostrado su obediencia mediante la entrega de sus armas y la petición
-de disculpas.[^150]
+de disculpas.[^149]
 
-Mapa 3. Región del levantamiento comunero de Los Llanos
+Mapa 11. Región del levantamiento comunero de Los Llanos
 
-![](media/image3.jpeg)
+![Los\_Llanos](media/image3.jpeg){width="5.895833333333333in"
+height="3.8958333333333335in"}
 
 Elaboración propia con información del AGI, Caracas, 425, con datos de
 Werner Stangl, ed. *HGIS de las Indias*, y del Instituto Geográfico
 Agustín Codazzi de Colombia.
 
 Otro movimiento importante fue el de los pueblos andinos de la provincia
-de Maracaibo (véase mapa 4).[^151] Similar a lo sucedido en Los Llanos,
+de Maracaibo (véase mapa 12).[^150] Similar a lo sucedido en Los Llanos,
 entre junio y agosto de 1781 se organizó un movimiento comunero en los
 Andes de venezolanos, conformada por agricultores mestizos e indígenas
 de la región, quienes buscaban se les aplicaran las capitulaciones de
@@ -1553,9 +1556,10 @@ Durante el mes de agosto el movimiento se repliega sin presentar
 resistencia, tras lo cual se logró la captura de 43 hombres sindicados
 de ser cabecillas del movimiento.
 
-Mapa 4. Región del levantamiento comunero de Maracaibo
+Mapa 12. Región del levantamiento comunero de Maracaibo
 
-![](media/image4.jpeg)
+![Mérida](media/image4.jpeg){width="5.895833333333333in"
+height="3.910416666666667in"}
 
 Elaboración propia con información del AGI, Caracas, 425; con datos de
 Werner Stangl, ed. *HGIS de las Indias*.
@@ -1569,21 +1573,21 @@ Mérida, habían contenido el malestar de los rebeldes, tanto así que no
 había motivo para recelar un nuevo levantamiento. Pero, añadía el
 intendente, consideraba que esta calma era "efecto del terror y el
 espanto" que generaba la presencia del ejército y el temor de un castigo
-riguroso.[^152] Este oficial se quejaba asimismo de la "tibieza, y
+riguroso.[^151] Este oficial se quejaba asimismo de la "tibieza, y
 lentitud, y aun poca fidelidad" con la que habían actuado los
 ayuntamientos y tenientes de justicia ante el avance de la columna
-rebelde, a la cual no le opusieron resistencia.[^153] Temía además que
+rebelde, a la cual no le opusieron resistencia.[^152] Temía además que
 los capitanes de Los Llanos que no habían sido capturados hubiesen huido
 hacia Guayana, desde donde se encontrarían con varias embarcaciones de
 guerra inglesas preparadas para auxiliar a los sublevados de Santa
-Fe.[^154]
+Fe.[^153]
 
 El teniente coronel Juan de Salas, encargado de la pacificación de la
 provincia, compartía en buena medida la visión del intendente. Estimaba
 que era evidente que había calma en la provincia, pues al paso de la
 Mesa de Esnujaque no encontraron ninguna resistencia a pesar de que en
 ese punto estratégico "si cien hombres se hubieran puesto en ella, solo
-con piedras hubieran resistido á mil soldados veteranos".[^155] Sin
+con piedras hubieran resistido á mil soldados veteranos".[^154] Sin
 embargo, consideraba que la tropa debería quedarse en Mérida, aunque el
 capitán general le pedía retrocediera hasta Trujillo, porque al saber de
 la retirada era posible que los pueblos "perdieran el miedo" y se
@@ -1597,12 +1601,12 @@ la zona estaban en calma solamente por la presencia de la soldadesca:
 > Que ay seguramente mucha solapa en esto que escriven, pacificacion y
 > mas pacificacion de estos pueblos. De Merida se ha ido cuasi toda la
 > pleve, derramandose por los lugares del Reyno. Hasta un fraile cura de
-> Mucuchi\[e\]s, se fue á el. El teniente de aqui, y muchos otros los
-> han seguido, ignorandose sus intenciones.
+> Mucuchi*e*s, se fue á el. El teniente de aqui, y muchos otros los han
+> seguido, ignorandose sus intenciones.
 >
 > Lo cierto es que la gente fronteriza de Merida está fluctuando,
 > congregandose en sus juntas y no savemos que resultas e insultos
-> puedan volver á emprender.[^156]
+> puedan volver á emprender.[^155]
 
 Como se ha visto en los demás levantamientos, esta certeza en lo
 incierto era un sentimiento común de las autoridades encargadas de la
@@ -1610,7 +1614,7 @@ pacificación, con excepción de los capitulares y las eclesiásticas.
 Seguramente de allí derive la acusación de la "poca fidelidad" de los
 ayuntamientos, o el llamado a que el brazo eclesiástico, en el púlpito,
 el confesionario, incluso en las conversaciones públicas y privadas,
-exhortara a la obediencia debida al rey.[^157] Claramente había allí un
+exhortara a la obediencia debida al rey.[^156] Claramente había allí un
 llamado del brazo militar para no ceder ante los llamados a la
 benevolencia, que estarían ocultando las verdaderas intenciones de unos
 pueblos infieles e irredimibles. La tropa permaneció en Mérida
@@ -1619,14 +1623,14 @@ hacía innecesaria su presencia, y prácticamente se mantuvo en la misma
 manera hasta enero de 1783. La falta de enfrentamientos no era
 suficiente para el intendente de Caracas, quien en el mes de marzo le
 comunicó a Gálvez que a pesar de la calma "el incendio no se halla
-totalmente extinguido".[^158]
+totalmente extinguido".[^157]
 
 El 30 de junio de 1782 el capitán general de Caracas ordenó la
 aprehensión, embargo de bienes y castigo de los sospechosos de ser
-capitanes de la rebelión del año anterior.[^159] Esto motivó a los
+capitanes de la rebelión del año anterior.[^158] Esto motivó a los
 cabildos de Cúcuta, La Grita, Mérida, Barinas y la villa de San
 Cristóbal, a suplicar al arzobispo de Santa Fe que se les extendiera el
-indulto concedido a los comuneros del Socorro.[^160] Los cabildantes
+indulto concedido a los comuneros del Socorro.[^159] Los cabildantes
 fueron claros en sus representaciones que se estaban dirigiendo a la
 jurisdicción eclesiástica y a la clemencia del prelado, por ello
 resaltaron que ellos eran "ovejas" de su rebaño, pecadores arrepentidos
@@ -1635,10 +1639,10 @@ demostraban con la tranquilidad que se vivía en los pueblos. La
 representación de San Cristóbal fue hecha por cuatro mujeres, que
 impetraban por sus hijos huérfanos y sus maridos presos, quienes
 apelaban a su estado de personas miserables para solicitar que mitigara
-la "indignación" del capitán general de Caracas.[^161] Por su parte, el
+la "indignación" del capitán general de Caracas.[^160] Por su parte, el
 gobernador de Maracaibo le envió una consulta al arzobispo-virrey, en la
 que le preguntaba si el perdón se extendía a los pueblos que estaban
-"sugetos en los espiritual a V.E. y temporalmente a mí".[^162]
+"sugetos en los espiritual a V.E. y temporalmente a mí".[^161]
 
 Como respuesta, el arzobispo-virrey le envió al capitán general de
 Caracas una copia del edicto de indulto general, con una carta en la que
@@ -1647,7 +1651,7 @@ rigor y castigo podía desestabilizar la paz que se vivía en el Nuevo
 Reino y en Venezuela. Añadía que estaba seguro que el perdón del rey se
 extendía a toda su grey, por lo que los rebeldes de Maracaibo estaban
 incluidos en el indulto al ser parte de la jurisdicción del arzobispado
-de Santa Fe.[^163] La carta fue enviada a consulta del auditor del
+de Santa Fe.[^162] La carta fue enviada a consulta del auditor del
 capitán general, quien determinó:
 
 > Que, sin embargo de qualquier delinqüencia que pudiera pedir un
@@ -1656,26 +1660,26 @@ capitán general, quien determinó:
 > excelentísimo señor Don Joseph de Galvez \[...\] para que conforme a
 > su mérito y resultancias, se digne resolver lo que sea de su real
 > agrado, y en el entretanto que se pongan en livertad todos los reos
-> encarcelados, bajo alguna fianza ú otra seguridad.[^164]
+> encarcelados, bajo alguna fianza ú otra seguridad.[^163]
 
 Los reos no fueron puestos en libertad y no es claro si estas rogativas
 por el indulto tuvieron algún efecto en la determinación de enviar 28 de
 los 43 reos a la cárcel de Caracas en noviembre, liberando a los demás
-sindicados sin que se les aplicara la gracia.[^165] No obstante, el
+sindicados sin que se les aplicara la gracia.[^164] No obstante, el
 ruego del arzobispo-virrey tuvo una buena recepción en la península,
 consiguiendo así que su indulto fuera extendido por el rey a los
 rebeldes de Maracaibo en los puntos que estrictamente se referían a la
 masa de sublevados, excluyéndose así a los "motores" de la rebelión,
 cualquier modificación de las innovaciones en las rentas, y cualquier
-otro punto que aplicara solamente al Nuevo Reino de Granada.[^166] El
+otro punto que aplicara solamente al Nuevo Reino de Granada.[^165] El
 capitán general decidió entonces, con dictamen del auditor de guerra,
 suspender los procedimientos que se les estaban llevando a los 28 reos
-en espera de la determinación definitiva del rey,[^167] la cual se dio
+en espera de la determinación definitiva del rey,[^166] la cual se dio
 el 10 de agosto por medio de una real orden que no sólo ratificó el
 perdón concedido en enero, sino que extendió "su innata clemencia" a
 todos los sublevados sin ninguna excepción, ordenando que a los
 procesados se les liberara de su prisión, se les desembargaran los
-bienes, y se les cancelaran las fianzas que hubieran dado.[^168]
+bienes, y se les cancelaran las fianzas que hubieran dado.[^167]
 
 Con este indulto a los maracaiberos se cerró este ciclo de rebeliones,
 perdones y castigos que empezó en marzo de 1781. Tras este recuento,
@@ -1729,19 +1733,19 @@ incluida la balanza entre la espada y la clemencia.
 ---------------------------
 
 Después del perdón llega la calma, pero no la reconciliación. Las voces
-contrarias al indulto de Caballero y Góngora fueron claramente
-disimuladas con contadas excepciones, como la del ya mencionado
-gobernador Francisco Silvestre. No obstante, existía cierta sensación de
-insatisfacción por haber concedido una gracia inmerecida y el latente
-temor de una muchedumbre hecha arrogante por el premio de la impunidad.
-Pero este sentimiento no se tradujo en acciones concretas ni del virrey,
-ni de la Audiencia, ni de la Corona. Los esfuerzos posteriores del
-gobierno para mantener el orden se enfocaron en la pacificación del
-Darién y la Guajira, así como en la captura de vagos y malhechores que
-deberían ser utilizados en labores de utilidad pública. Solamente
-algunos santafereños sospechosos de complicidad con los comuneros y
-cabecillas indultados como Ambrosio Pisco, fueron transferidos a otras
-poblaciones, disimulando así cualquier sentencia de destierro.[^169]
+contrarias al indulto de Caballero y Góngora fueron disimuladas con
+contadas excepciones, como la del ya mencionado gobernador Francisco
+Silvestre. No obstante, existía cierta sensación de insatisfacción por
+haber concedido una gracia inmerecida y el latente temor de una
+muchedumbre hecha arrogante por el premio de la impunidad. Pero este
+sentimiento no se tradujo en acciones concretas ni del virrey, ni de la
+Audiencia, ni de la Corona. Los esfuerzos posteriores del gobierno para
+mantener el orden se enfocaron en la pacificación del Darién y la
+Guajira, así como en la captura de vagos y malhechores que deberían ser
+utilizados en labores de utilidad pública. Solamente algunos
+santafereños sospechosos de complicidad con los comuneros y cabecillas
+indultados como Ambrosio Pisco, fueron transferidos a otras poblaciones,
+disimulando así cualquier sentencia de destierro.[^168]
 
 Al transcurrir la década de 1780 los temores de una sublevación parecían
 haberse disipado, los virreyes Ezpeleta y Mendinueta continuaron con una
@@ -1750,32 +1754,32 @@ y aunque hubo algunas revueltas de cierta significación, como las
 protagonizadas por los esclavos y mulatos libres en Barbacoas en 1792 y
 la de los indios de Túquerres en 1800, éstas fueron manifestaciones
 puntuales en contra de un oficial, sin ninguna reivindicación contraria
-a la autoridad del rey, la monarquía o la esclavitud.[^170] Tampoco se
+a la autoridad del rey, la monarquía o la esclavitud.[^169] Tampoco se
 exhibió una reacción desmedida por parte de las autoridades para
 pacificar estas revueltas. Para el caso de Barbacoas, el virrey ordenó
 al gobernador Diego Nieto que usara de todos los medios suaves que
 tuviera a su disposición, "reservando el uso de la fuerza para el ultimo
-caso en que se note alguna terquedad ó demasiada insolencia".[^171] Los
+caso en que se note alguna terquedad ó demasiada insolencia".[^170] Los
 implicados en Túquerres recibieron en cambio un castigo ejemplarizante
 pues tres indígenas fueron ahorcados y descuartizados en Pasto en 1802.
 En esa ocasión la Audiencia de Quito decidió optar por la rigurosidad
 recomendada por su fiscal, quien argumentaba que la misericordia y el
 disimulo con las actuaciones del pasado (la más grave, el asesinato del
 teniente de gobernador Ignacio Peredo en 1781) habría creado un espíritu
-de insubordinación, alimentado por la esperanza de la impunidad.[^172]
+de insubordinación, alimentado por la esperanza de la impunidad.[^171]
 
 Contrasta esta actitud con la vista en la provincia de Coro, en la
 Capitanía General de Venezuela, donde un levantamiento de negros libres,
-esclavos e indios, fue castigado con extrema dureza.[^173] El detonante
+esclavos e indios, fue castigado con extrema dureza.[^172] El detonante
 consistió en una supuesta cédula de manumisión de esclavos y la
 exigencia de eliminar los derechos de alcabala para los indígenas y
 libres de color. El grupo de levantados alcanzó una cantidad de
 aproximadamente 350 individuos entre hombres y mujeres, quienes el 10 de
 mayo de 1795 atacaron las casas de algunos hacendados, asesinando a
-algunos e hiriendo a otros.[^174] El día 12 se envió una comisión para
-negociar,[^175] pero el teniente de Coro, Ramirez Valderrain, decidió
+algunos e hiriendo a otros.[^173] El día 12 se envió una comisión para
+negociar,[^174] pero el teniente de Coro, Ramirez Valderrain, decidió
 responder con un cañonazo de metralla, mató a otros dos con tiros de
-pistola y él mismo asesinó a otro con un sable.[^176] De inmediato
+pistola y él mismo asesinó a otro con un sable.[^175] De inmediato
 inició la represión a los rebeldes. Para el día 14 el teniente ordenó
 que las escuadras que emprendieron la persecución llevaran un mensaje de
 perdón general a todos los que se rindieran y, en secreto, aprehendieran
@@ -1783,7 +1787,7 @@ a las cabezas del motín. Según el relato del teniente, algunos de los
 rebeldes que se encontraban en el camino les pedían perdón antes de que
 los capturaran y al parecer eran dejados libres, pero con los muchos de
 los capturados se aplicaron ejecuciones sumarias por degollamiento y
-ajusticiamientos con pistolas.[^177] De los negros capturados, 21 fueron
+ajusticiamientos con pistolas.[^176] De los negros capturados, 21 fueron
 sentenciados a ser degollados y tres mujeres negras fueron sentenciadas
 a 200 azotes, regresadas a sus dueños con la condición de que deberían
 venderlas fuera de la jurisdicción en el plazo de dos meses. En el caso
@@ -1792,7 +1796,7 @@ posibilidad de un levantamiento de sus compañeros. A cambio se les
 obligó al servicio de su majestad, a ración y sin sueldo por seis años
 para los negros y diez años para los indios. Al final del proceso
 sumario sólo dos esclavos fueron liberados y regresados a sus
-dueños.[^178]
+dueños.[^177]
 
 Difícilmente podría considerarse que el virreinato permaneció en calma
 después de la rebelión de los comuneros, pero sí es evidente que había
@@ -1809,13 +1813,13 @@ merecedor del empleo. Su reclamo le representó pasar casi ocho años en
 el presidio de Cartagena, hasta que el Consejo de Indias determinó que
 si bien sus ataques y ofensas a los cabildos y autoridades del rey no
 eran justificados, ya había pasado suficiente tiempo en el destierro y
-la prisión como para considerarse purgadas sus faltas.[^179] Por otra
+la prisión como para considerarse purgadas sus faltas.[^178] Por otra
 parte, era evidente que se estaba generando cierto resentimiento entre
 los jóvenes notables de Santa Fe, quienes veían cada vez más difícil el
 acceder a los oficios de la república. Este fenómeno, que Víctor Manuel
 Uribe-Urán bautizó como "frustración burocrática", conllevó a que
 ciertas voces se levantaran contra el gobierno virreinal e incluso se
-manifestaran ciertos coqueteos con la revolución francesa.[^180]
+manifestaran ciertos coqueteos con la revolución francesa.[^179]
 
 En diciembre de 1793 Antonio Nariño tomó la imprudente iniciativa de
 imprimir cien copias de su traducción al español de *Los derechos del
@@ -1829,11 +1833,11 @@ de seis meses después de hecha la impresión, Joaquín de Umaña, un joven
 abogado tunjano, denunció ante la Real Audiencia la existencia de una
 camarilla secreta conformada por Nariño, entonces tesorero de diezmos,
 el abogado José Caicedo y Flórez y el hacendado José María Lozano y
-Peralta.[^181] Esta denuncia se sumaba a la hecha en febrero contra los
+Peralta.[^180] Esta denuncia se sumaba a la hecha en febrero contra los
 médicos Luis Rieux y Manuel Froes, por supuesta difusión de la
 Revolución Francesa y la constitución de Filadelfia; así como la hecha
 contra José María Cabal, por ser un asistente a las tertulias que se
-llevaban a cabo en la casa de Antonio Nariño.[^182]
+llevaban a cabo en la casa de Antonio Nariño.[^181]
 
 El punto de inflexión lo representó la aparición de unos "pasquines
 sediciosos" en los parajes públicos de Santa Fe el 19 de agosto de 1794.
@@ -1846,17 +1850,17 @@ denunció que en el Colegio de Santo Tomás se estaban llevando a cabo
 juntas para incitar la "total subversión" del reino. El 23 de agosto el
 comerciante español José Arellano informó al regente sobre los autores
 de los pasquines: los estudiantes José María Durán, Pablo José de Uribe
-y Luis Gómez.[^183] Paradójicamente, Arellano fue posteriormente
+y Luis Gómez.[^182] Paradójicamente, Arellano fue posteriormente
 vinculado al proceso acusado de no haber delatado la pasquinada antes de
 que sucediera, además de haberse tardado tres días para realizar la
-denuncia.[^184] Inmediatamente se establecieron tres procesos para
+denuncia.[^183] Inmediatamente se establecieron tres procesos para
 atacar la que se creía inminente sublevación, cada uno a cargo de un
 oidor. Uno se encargaría de investigar y castigar a los conspiradores,
 el segundo se enfocaría en la impresión y publicación de los derechos
 del hombre y el tercero en la fijación de los pasquines sediciosos.
 Rápidamente se apresaron a los sospechosos, se confiscaron bienes, se
 iniciaron los interrogatorios y la recepción de testimonios
-incriminatorios.[^185]
+incriminatorios.[^184]
 
 El procedimiento fue excepcional por su rapidez y el evidente interés en
 castigar rápidamente a los sospechosos. Uno de los actos que más
@@ -1867,14 +1871,14 @@ ratificarse en su confesión pero, como era de esperarse, no reveló
 ninguna conspiración. Los mismos estudiantes se quejaron ante el virrey
 de los procedimientos que contra ellos adelantaba el oidor Joaquín
 Inclán, incluido el haber atemorizado al procurador encargado de su
-defensa forzándolo a renunciar.[^186] El temor del defensor de los
+defensa forzándolo a renunciar.[^185] El temor del defensor de los
 estudiantes no era infundado. En 1795 el abogado defensor de Nariño,
 José Antonio Ricaurte, un antiguo agente fiscal de la Audiencia con
 treinta años de ejercicio de la abogacía, fue apresado por el alegato
-que presentó a favor de su apoderado.[^187] Esto hizo que ningún letrado
+que presentó a favor de su apoderado.[^186] Esto hizo que ningún letrado
 se prestara para ejercer la defensa de Nariño, hasta que a regañadientes
 tuvo que ejercer este papel, con muy poco interés en enfrentarse a la
-Audiencia, el abogado José Ignacio San Miguel.[^188]
+Audiencia, el abogado José Ignacio San Miguel.[^187]
 
 A pesar del abrumador proceso adelantado por la Audiencia en los tres
 frentes, era claro que no había pruebas semiplenas que permitieran
@@ -1886,13 +1890,13 @@ de rebelión en la ciudad o las provincias, el virrey fue suavizando su
 opinión y consideró que era exagerado pensar que "unos pocos individuos
 fáciles e incautos" tuvieran la capacidad o los contactos necesarios
 para trastornar la tranquilidad del reino, mucho menos para emprender
-una revolución que derrocara la monarquía.[^189] Hubo varios
+una revolución que derrocara la monarquía.[^188] Hubo varios
 enfrentamientos entre el cabildo de Santa Fe y algunos criollos con los
 oidores y el regente, a quienes se les acusaba de actuar de manera
 imprudente, persiguiendo una sublevación inexistente que generaba
 zozobra entre los vasallos americanos, además de contribuir al
 resentimiento de los criollos al tildárseles de desleales e indignos de
-confianza.[^190]
+confianza.[^189]
 
 Claramente esta falta de evidencias que corroboraran las sospechas de
 una sublevación impedía que la Audiencia determinara el castigo de los
@@ -1907,23 +1911,23 @@ medio", por lo que debían remitirse a España todos aquellos "cuyos
 delitos mereciesen ser remediados más de cerca". Por otra parte, les
 advertía que era necesario que siguiesen atentos a cualquier otra
 manifestación de rebelión, "pues había agentes que moverían el proyecto,
-quando viesen que cesaban las averiguaciones".[^191] Ya fuese porque
+quando viesen que cesaban las averiguaciones".[^190] Ya fuese porque
 estaban convencidos del plan subversivo o debido a que los
 enfrentamientos con el cabildo hicieron de éstos procesos un conflicto
 de jurisdicciones y honores, la Audiencia siguió adelante con el
 proyecto de destierro de los supuestos conspiradores, el cual se
-completó entre los meses de julio y diciembre de 1795.[^192]
+completó entre los meses de julio y diciembre de 1795.[^191]
 
 El virrey Ezpeleta estaba convencido que la reacción contra los
 conspiradores había sido excesiva, incluso después de la aparición de
-otros pasquines en Tunja y en Quito.[^193] A pesar de ello, no se
+otros pasquines en Tunja y en Quito.[^192] A pesar de ello, no se
 enfrentó directamente con los oidores ni asumió una posición favorable
 hacia el cabildo santafereño. En cambio, optó por enviar solicitudes de
 clemencia al ministro Godoy para que suavizara sus órdenes. Una de estas
 incluyó la solicitud de perdón presentada por el arzobispo de Santa Fe
 al Real Acuerdo, súplica a la cual se unió el virrey "para inclinar el
 R*ea*l ánimo de S*u* M*ajestad* á la condonación ó perdón de los
-culpados".[^194] El argumento del prelado se basó en el tiempo que los
+culpados".[^193] El argumento del prelado se basó en el tiempo que los
 conspiradores llevaban presos, las edades de la mayoría de los
 implicados, su carácter y buenas inclinaciones, la ausencia de
 antecedentes y los méritos de sus "ascendientes o transversales" que
@@ -1940,7 +1944,7 @@ familiares, amigos, conocidos e incluso a muchos desconocidos. El
 prelado finalizaba su impetración con la afirmación de que el uso de la
 clemencia sería la mejor imagen de un monarca que actuaba a imitación
 del "dios de las misericordias" y por tanto tendría el mejor efecto en
-su autoridad sobre las provincias de Europa, África y Ultramar.[^195]
+su autoridad sobre las provincias de Europa, África y Ultramar.[^194]
 
 Tanto el arzobispo como el virrey tendían a la benevolencia en buena
 medida porque no se había descubierto ningún complot para desarrollar la
@@ -1948,16 +1952,16 @@ insurrección, pero era fundamental además su representación de los
 habitantes del Nuevo Reino, en particular de Santa Fe. Para el virrey,
 era evidente que las ideas revolucionarias provenían del exterior y que
 los complicados solamente habían sido jóvenes imprudentes, dignos de
-misericordia por su pobreza antes que del castigo por sus yerros.[^196]
+misericordia por su pobreza antes que del castigo por sus yerros.[^195]
 El arzobispo, por su parte, iniciaba sus reflexiones con el supuesto de
 "que las gentes de esta capital y sus provincias son en lo general
 apacibles, bien inclinadas, advertidas, dóciles, devotas, y sumisas y
-fieles a sus soberanos y ministros".[^197] Ezpeleta consideraba que
+fieles a sus soberanos y ministros".[^196] Ezpeleta consideraba que
 podría modificar los posibles sentimientos de revolución mediante el
 envío predicadores para que con "prudencia y suavidad" recogieran los
 papeles sediciosos, así nacionales como extranjeros, y se convenciera a
 los vasallos del Nuevo Reino de la fidelidad al monarca y la necesaria
-contribución fiscal para el beneficio de la causa pública.[^198]
+contribución fiscal para el beneficio de la causa pública.[^197]
 
 La pregunta que surge es ¿por qué Ezpeleta no utilizó de sus facultades
 para perdonar a los implicados en la conspiración? La respuesta exacta a
@@ -1968,7 +1972,7 @@ Luis de Ovalle, le escribió al virrey en abril de 1795 para recordarle
 que él le había manifestado a Uribe que buscaría el indulto con el rey,
 "asegurándole despues de haber conocido las circunstancias del suceso,
 que haría q*uan*tos esfuerzos le fueran posibles p*ar*a q*u*e se
-perdonase aq*ue*l yerro".[^199] Al parecer esta promesa la habría hecho
+perdonase aq*ue*l yerro".[^198] Al parecer esta promesa la habría hecho
 desde el año anterior y, según el procurador, se esperaba que la
 decisión llegara en el correo del 19 de febrero. Al no recibir ninguna
 mención del indulto, Ovalle optó por solicitar directamente la gracia
@@ -1996,7 +2000,7 @@ el perdón:
 > recibirá además del Eterno la más justa recompensa, pues no solo
 > premiará las bondades de V*uestra* E*xcelencia*, sino también todas
 > las acciones de misericordia q*u*e su ejemplo producirá en los siglos
-> venideros.[^200]
+> venideros.[^199]
 
 El antecedente del perdón a los comuneros era fundamental en la
 argumentación de los procuradores, no sólo porque dejaba claro que el
@@ -2014,7 +2018,7 @@ adelante pretendieran imitar a los sindicados.
 
 La respuesta a estos clamores no pudo ser más escueta: "No se le dio tal
 palabra \[de conceder el indulto ofrecido\], y es necesario esperar las
-resultas de esta causa".[^201] El virrey sí preguntó por el perdón, pero
+resultas de esta causa".[^200] El virrey sí preguntó por el perdón, pero
 solamente hasta octubre, y en ningún momento se dio una respuesta formal
 a esta consulta. Sin embargo, no hubo una petición formal de clemencia
 al rey. Ezpeleta no se atrevió a usar sus facultades y solicitar luego
@@ -2035,7 +2039,7 @@ París", así como la alegría de que se hubiese capturado y estuviesen
 listos para castigarse a los conspiradores. En una de ellas incluso se
 dejó consignado que esperaban hubiese "una carnicería grande contra los
 alzados", quienes, según este "europeo de las montañas de Asturias", se
-estaban preparando para degollar a todos los chapetones.[^202]
+estaban preparando para degollar a todos los chapetones.[^201]
 Claramente estas eran expresiones exageradas, pero no dejan de ser
 manifestaciones de la desconfianza y el odio común entre españoles
 americanos y europeos.
@@ -2057,10 +2061,10 @@ cierta moderación. En febrero de 1795 se descubrió un supuesto plan para
 iniciar una rebelión, un evento que se ha denominado como la
 Conspiración de San Blas, cuyo principal acusado fue Juan Picornell,
 quien posteriormente sería enviado a La Guaira donde ayudó a organizar
-la conspiración de Gual y España.[^203] Rápidamente se capturaron los
+la conspiración de Gual y España.[^202] Rápidamente se capturaron los
 implicados, se les adelantó juicio sin que fuese posible comprobar la
 intención de hacer una rebelión (probablemente sólo querían destituir a
-Godoy), y se les castigó con el exilio.[^204]
+Godoy), y se les castigó con el exilio.[^203]
 
 El destierro de los conspiradores hacia Cádiz parecía aliviar el temor a
 un subrepticio plan sedicioso, pero esta sensación no perduró por mucho
@@ -2074,13 +2078,13 @@ descontento que aparecían en su jurisdicción. En una carta le decía a
 Godoy: "Aunque en lo general de este reyno no se presente por ahora
 novedad alguna, que cause mayor cuidado en perjuicio de la tranquilidad
 pública, no dejan de aparecer señales de los descontentos, díscolos y
-perturbadores".[^205] La opinión que tenía el virrey de los vasallos a
+perturbadores".[^204] La opinión que tenía el virrey de los vasallos a
 su cargo no era condescendiente como la de Ezpeleta. Similar a la
 opinión que representó el marqués de Torre-Velarde, Mendinueta estaba
 convencido que los habitantes del Nuevo Reino se levantarían en
 cualquier momento. Decía, "ellos conservarán su aparente tranquilidad
 hasta que la ocasión les proporcione sacudir el suave yugo que los
-gobierna".[^206] El descubrimiento de la conspiración de Gual y España
+gobierna".[^205] El descubrimiento de la conspiración de Gual y España
 en Caracas no hizo sino agravar el temor a una sublevación de grandes
 dimensiones que acabara con el reino.
 
@@ -2095,25 +2099,25 @@ los implicados en la conspiración, se le había acercado a implorar el
 perdón, por lo que el prelado le solicitaba al ministro que se pudiera
 hacer extensiva la gracia a todos los implicados. Sin que se pasara la
 petición al Príncipe de la Paz, el Real Acuerdo aceptó la solicitud y
-publicó el indulto general el 20 de julio.[^207] Al leer el texto del
-indulto (véase ANEXO) no se observa un llamado a la reconciliación, al
-contrario, es una recriminación a los "malintencionados" que pretendían
-"corromper" las costumbres, las leyes y ofender la religión, así como el
-llamado a que todo aquel que supiera algo sobre la conspiración o
-posible sublevación lo hiciera saber a las autoridades, so pena de
-muerte. De hecho, la única indicación de que dicho bando era un perdón
-estaba en la línea que rezaba, "al real nombre de su Magestad se ofrece
-al que se delatare ó delatare á otros el yndulto y gracia segun las
-circunstancias".[^208]
+publicó el indulto general el 20 de julio.[^206] Al leer el texto del
+indulto (véase anexo 24) no se observa un llamado a la reconciliación,
+al contrario, es una recriminación a los "malintencionados" que
+pretendían "corromper" las costumbres, las leyes y ofender la religión,
+así como el llamado a que todo aquel que supiera algo sobre la
+conspiración o posible sublevación lo hiciera saber a las autoridades,
+so pena de muerte. De hecho, la única indicación de que dicho bando era
+un perdón estaba en la línea que rezaba, "al real nombre de su Magestad
+se ofrece al que se delatare ó delatare á otros el yndulto y gracia
+segun las circunstancias".[^207]
 
 En total, 36 personas se presentaron para gozar de la gracia ofrecida
 por el Real Acuerdo de Caracas, 15 de los cuales fueron listados como
-pardos.[^209] Lastimosamente para quienes se presentaron esperando
+pardos.[^208] Lastimosamente para quienes se presentaron esperando
 salvarse de la prisión, el Real Acuerdo no tenía intenciones de aplicar
 la clemencia. Tras recibir las delaciones, los oidores dictaminaron que
 éstas solamente evidenciaban ser "diminutas, artificiosas y formadas
 solo para gozar a la sombra de ellas el yndulto concedido al Real nombre
-de Su Magestad".[^210] Este no fue un cambio súbito de opinión del Real
+de Su Magestad".[^209] Este no fue un cambio súbito de opinión del Real
 Acuerdo. A los tres días de su publicación, Patricio Ronan y otros tres
 hombres fueron los primeros en acogerse al perdón. De inmediato los
 oidores honorarios enviados a La Guaira le manifestaron al capitán
@@ -2123,33 +2127,33 @@ esto y los demás implicados huyeran o, aún peor, levantaran la
 provincia. Consideraban que sería prudente esperar un tiempo para que se
 presentaran más personas y que entre tanto sería factible enviarlas a
 que se presentaran en Caracas con la excusa de que allá se les daría la
-ratificación de la gracia.[^211] El Real Acuerdo determinó que todos los
+ratificación de la gracia.[^210] El Real Acuerdo determinó que todos los
 que fueran remitidos serían arrestados inmediatamente y se les exigiría
 que sus confesiones fueran extremadamente detalladas, con claridad de
 lugares, hora, días, así como los antecedentes que prepararon para las
-juntas.[^212] Los oidores honorarios afirmaban que los sujetos
+juntas.[^211] Los oidores honorarios afirmaban que los sujetos
 presentados "no dicen todo lo que saben", por lo que sería necesario
 proceder con mayor insistencia para intentar conocer la conjura que
-subrepticiamente se estaba configurando en Venezuela.[^213]
+subrepticiamente se estaba configurando en Venezuela.[^212]
 
 Con certeza sabemos de dos pardos fueron incluidos en el indulto y
-liberados,[^214] y otra docena de los listados por el Real Acuerdo no
+liberados,[^213] y otra docena de los listados por el Real Acuerdo no
 estuvieron incluidos en las remisiones de las embarcaciones que se
 dirigieron a Puerto Rico y Cádiz, ni en las sentencias condenatorias
 posteriores, por lo que puede suponerse que fueron incluidos en la
 gracia. Domingo Sánchez y Pedro Canivens lograron fugarse a Curaçao
 (donde probablemente se encontraban Picornell y Manuel Cortés
 Campomanes), aprovechando cierta confusión en el traslado que se
-realizaba hacia Puerto Rico.[^215] Picornell, Cortés y Manuel Gual
+realizaba hacia Puerto Rico.[^214] Picornell, Cortés y Manuel Gual
 lograron evadir la persecución española. Este último murió en la isla de
 Trinidad, entonces bajo dominio inglés, en el año de 1800 por una
-enfermedad gastrointestinal.[^216] José María España fue capturado
+enfermedad gastrointestinal.[^215] José María España fue capturado
 nuevamente en abril de 1799, sometido a un intenso interrogatorio y
 rápidamente sentenciado a muerte y ejecutado en Caracas. La misma suerte
 la sufrieron poco después cuatro de sus cómplices, en tanto a José
 Cordero, aunque acusado de ser uno de los líderes de la conspiración, le
 fue conmutada la pena de último suplicio por la de presidio en el
-castillo de La Habana.[^217]
+castillo de La Habana.[^216]
 
 En el exilio aquellos que se acogieron al indulto comenzaron a elevar
 súplicas para que se les ratificara la gracia. El 21 de noviembre Miguel
@@ -2160,28 +2164,28 @@ de las reuniones y se opusieron a unirse a un proyecto de sedición.
 Afirmaron que si bien sufrían el castigo, tenían la satisfacción de
 "haver sido livertadores de la Patria, estorvando la Anarquia mas
 dolorosa y sangrienta que podía suceder", todo gracias a haberse
-presentado a delatar la conspiración.[^218] Pocos días después, Patricio
+presentado a delatar la conspiración.[^217] Pocos días después, Patricio
 Ronan solicitó que se le permitiera pasar a la Corte para suplicar a su
 favor y poder explicar que su participación en la conspiración tuvo como
 propósito detenerla y no oponerse a la monarquía. Afirmó que llevaba
 consigo una carta de intermediación del obispo a su favor, pero que su
 embarcación fue atacada por ingleses y los papeles se perdieron en el
-mar.[^219]
+mar.[^218]
 
 Varias peticiones fueron realizadas para lograr la libertad de estos
 sindicados, como la ya reseñada petición de la esposa de Goenaga, doña
-Josefa Ramona de Gracián.[^220] No obstante, sería hasta la ejecución de
+Josefa Ramona de Gracián.[^219] No obstante, sería hasta la ejecución de
 España y los demás implicados que se permitiría avanzar en la ejecución
 de la clemencia. El indulto que concedió el Real Acuerdo fue ratificado
-para Mendiri y Goenaga en 1802,[^221] y del mismo modo se hizo para Juan
-Lartique de Condé en enero de 1803.[^222] El 8 de junio de 1802 el rey
+para Mendiri y Goenaga en 1802,[^220] y del mismo modo se hizo para Juan
+Lartique de Condé en enero de 1803.[^221] El 8 de junio de 1802 el rey
 dio la orden de que los reos que estaban en Puerto Rico fueran liberados
 por estar comprendidos en el real indulto, aunque con la condición de
-que no podrían reintegrarse a las provincias de Venezuela.[^223] Para
+que no podrían reintegrarse a las provincias de Venezuela.[^222] Para
 1807 todavía estaban en prisión en España algunos de los indultados de
 Caracas, como Francisco Zinza, Martín Amador, Francisco Sánchez y
 Bonifacio Amercaray, aunque pronto recuperarían su libertad por haber
-cumplido con el tiempo de sus condenas.[^224]
+cumplido con el tiempo de sus condenas.[^223]
 
 En contraste, para los implicados en la conspiración de Santa Fe las
 peticiones de perdón no lograron la libertad de los reos. Luis Gómez,
@@ -2190,32 +2194,48 @@ del capitán general de la costa de Granada, quien apeló al "feliz parto
 de la infanta María Luisa", para solicitar que se indulta a Gómez del
 tiempo que le restaba de su condena. Nuevamente, el argumento consistió
 en su minoría de edad que lo hacía poco consciente del error que estaba
-cometiendo y las consecuencias a las que se estaba enfrentando.[^225]
+cometiendo y las consecuencias a las que se estaba enfrentando.[^224]
 Gómez ratificó posteriormente que él no fue causante sino víctima de
 Josef Arellano, quien le cortó su carrera de estudios en leyes; por lo
 que si la benignidad del rey lo permitía, él podría retomar sus estudios
-y hacerse útil al Estado.[^226] La respuesta fue escueta: "no hay motivo
-de gracias".[^227] Durán también aprovechó el parto de la infanta para
+y hacerse útil al Estado.[^225] La respuesta fue escueta: "no hay motivo
+de gracias".[^226] Durán también aprovechó el parto de la infanta para
 impetrar indulto. Su solicitud fue un poco más elaborada que la de
 Gómez, e intentó demostrar no sólo que su participación fue marginal,
 sino que la reacción de la Audiencia fue exagerada pues los pasquines no
 motivaban la sublevación. El procurador de Durán resumía su argumento
 afirmando que "los autores de los pasquines no pudieron proponerse la
 subversión del Reino, y q*u*e su yerro no ha tenido consecuencia alguna
-perniciosa".[^228] Lastimosamente para él, también se consideró que
+perniciosa".[^227] Lastimosamente para él, también se consideró que
 "quando haya un motivo de gracias, se podrá tener presente esta
-solicitud".[^229]
+solicitud".[^228] Finalmente, los estudiantes acusados de publicar los
+pasquines tuvieron que completar sus condenas. Luis Gómez alcanzó su
+libertad en 1804, en tanto Pablo José Uribe y José María Durán lo
+hicieron el año siguiente.[^229]
 
 La mayoría de los que fueron enviados a España por sospecha de haber
 sido partícipes de la conspiración de Santa Fe fueron liberados en julio
 de 1799 y a muchos de ellos se les permitió regresar al Nuevo
 Reino.[^230] Antonio Nariño, como fue mencionado en el inicio de este
 capítulo, logró escapar, pero luego se entregó a las autoridades del
-Nuevo Reino cuando vio que sus planes de adelantar un movimiento
-revolucionario no eran realizables. Finalmente, los estudiantes acusados
-de publicar los pasquines tuvieron que completar sus condenas. Luis
-Gómez alcanzó su libertad en 1804, en tanto Pablo José Uribe y José
-María Durán lo hicieron el año siguiente.[^231]
+Nuevo Reino. Hacia 1800 el virrey Mendinueta, con el propósito de evitar
+el posible surgimiento de un sentimiento de animadversión entre las
+familias principales en amistad con Nariño, Ricaurte y Espinosa,
+solicitó al Consejo de Indias que ratificara la oferta de indulto que
+había solicitado el arzobispo y el virrey Ezpeleta. El Consejo consideró
+que el arrepentimiento de Nariño parecía sincero y que los medios suaves
+habían resultado en la tranquilidad del reino, por lo que se hacía
+conveniente aprobar el indulto y que se concediera un olvido de todo lo
+pasado, con la obvia advertencia de que habría una vigilancia estrecha
+sobre sus acciones y un castigo sumamente riguroso en caso de que
+retomaran la subversión. No obstante, el rey determinó que tenía por
+conveniente que los Nariño y los demás permanecieran en prisión y llamó
+la atención al virrey a quien le dijo que en adelante, en casos de esa
+gravedad, le consultara con arreglo a las leyes y evitara todos los
+medios de composición y gracia que tuviera a su arbitrio, "pues el
+hacerlo con mis vasallos criminales y dispensar el rigor de las penas,
+es el atributo más noble de la soberanía, que de modo alguno puede ni
+debe ejercer".[^231]
 
 El exilio perpetuo para muchos de los implicados debió representar un
 castigo en extremo riguroso respecto a una mera insolencia universitaria
@@ -2259,14 +2279,17 @@ transformación en la monarquía hispana, capturada por el bonapartismo.
 La decisión de expedir un indulto general a nombre del rey pareciera
 innecesaria en ese momento, pero pudo tener la función de reforzar la
 autoridad del monarca cautivo, a la vez que demostrar la afinidad con la
-Junta Suprema de Sevilla.
+Junta Suprema de Sevilla, por lo que se debe entender como parte de un
+conjunto de actos jurídicos, políticos y simbólicos que pretendían
+ratificar y fortalecer la autoridad de Fernando VII entre los vasallos
+de Santa Fe y el Nuevo Reino.[^234]
 
 No se puede negar que el indulto de Amar y Borbón se promulgó en una
 época de indeterminación política. Patiño Millán hizo mención de "varios
 reos" que se acogieron al perdón real de 1808, aunque explica que las
 autoridades provinciales "tuvieron que aclarar que no habían recibido
 Real Orden ni providencia de indulto, lo que era obvio pues en ese
-momento España estaba siendo invadida por tropas francesas".[^234] El
+momento España estaba siendo invadida por tropas francesas".[^235] El
 que no se hubiese recibido la real cédula no era una obviedad, valga
 recordar que Carlos IV no decretó un indulto general tras su coronación,
 pero sí era algo de esperar teniendo en cuenta la importancia que
@@ -2279,25 +2302,25 @@ acogían al perdón que podía motivarse por la exaltación al trono de
 Fernando VII, ante lo cual dicho oficial suplicó en nombre de los reos
 por "la gracia que sea posible a beneficio de estos miserables"; es
 decir, no se acogió al indulto general sino impetró la remisión de los
-delitos con base en las facultades del título virreinal.[^235] El
-indulto finalmente fue obedecido en la sesión del cabildo de Medellín
-del 22 de noviembre de 1808.[^236]
+delitos con base en las facultades del título virreinal.[^236] El
+indulto finalmente sería obedecido en la sesión del cabildo de Medellín
+del 22 de noviembre de 1808.[^237]
 
 Por otra parte, el mismo virrey justificó el bando de indulto bajo el
 argumento de que era "práctica constantemente observada por nuestros
 católicos Monarcas en las ocaciones de su exaltación al trono la de
 conceder á sus amados vasallos, entre otras gracias y mercedes de
 perpetuo reconocimiento, y memoria de tan plausible suceso, yndulto ó
-remicion de los delitos".[^237] Por ser la costumbre, Amar y Borbón
+remicion de los delitos".[^238] Por ser la costumbre, Amar y Borbón
 aseguraba que la cédula de indulto general de seguro ya había sido
 promulgada, pero las "ocurrencias de la Metrópoli" no habían permitido
 que se recibiera en Santa Fe "semejante beneficio". En efecto, hubo un
 indulto general para los reos, rebeldes, y militares de América y
-España; pero tendrían que esperar hasta el año de 1817,[^238] cuando las
-circunstancias fueron totalmente diferentes.[^239] En los arribos de
+España; pero tendrían que esperar hasta el año de 1817,[^239] cuando las
+circunstancias fueron totalmente diferentes.[^240] En los arribos de
 agosto de 1808 no hubo cédulas de indulto sino noticias de las
 abdicaciones de Bayona, los levantamientos en rechazo a José Bonaparte,
-y la formación de la autoproclamada Junta Suprema de Sevilla.[^240]
+y la formación de la autoproclamada Junta Suprema de Sevilla.[^241]
 
 El indulto de Amar y Borbón distaba mucho de ser un exhorto similar al
 proclamado por Caballero y Góngora en 1782. Servía en cambio como
@@ -2314,33 +2337,34 @@ Cartagena había sido recibida la comisión de la Junta Suprema en agosto
 de ese año, y que en ese mismo mes el coronel de la plaza de esa ciudad,
 teniente de rey Blas de Soria Santacruz, llamó a los desertores a
 prestar servicio en las armas del rey al haber sido indultados por dicha
-corporación.[^241] La orden de publicar el indulto de la Junta Suprema
+corporación.[^242] La orden de publicar el indulto de la Junta Suprema
 en las plazas y cabezas de partido de la provincia cartagenera sin haber
 elevado la consulta al virrey ni su autorización, hasta cierto punto
 muestran el descontento con la autoridad virreinal por parte de las
 élites de la ciudad, el cual se irá incrementando hasta desembocar en la
-rebelión de Cartagena de mayo de 1810.[^242]
+rebelión de Cartagena de mayo de 1810.[^243]
 
 Aunque los dos indultos estaban estrechamente conectados, las
 condiciones de su promulgación fueron completamente diferentes. En tanto
 el indulto sevillano tiene el claro propósito de incrementar la
 conscripción para la guerra y de paso establecer su supremacía en la
-defensa de la soberanía fernandina, el perdón de Amar y Borbón fue una
-expresión de la adhesión del Nuevo Reino de Granada al gobierno de la
-Junta Suprema de Sevilla.[^243] Sin embargo, el virrey no publicó el
-indulto de la Junta sino decidió hacer el suyo propio con un proemio más
-extenso, en el cual dejaba claro que era su autoridad y clemencia la que
-le conminaba a expedir esta gracia, y siempre en "imitación" y "ejemplo"
-de los sentimientos del "nuevo Rey y Señor". Así, aunque se dejaba claro
-por una parte que la "autoridad y representación del mismo soberano" se
-hallaba reconocida en la Junta Suprema de Sevilla, también se subrayaba
-que el indulto se hacía en favor de los vasallos de Fernando VII, en
-manifestación de "la mas acrisolada lealtad y ternura \[de los vasallos
-del Nuevo Reino\] al propio nuevo soberano". En general, el tono del
-bando de indulto es muestra de la indecisión del virrey, quien toma
-prestado el texto del indulto sevillano pero trata de mudar su contenido
-de tal manera que se matice la posible preeminencia de la Junta sobre la
-superioridad de Fernando VII.
+defensa de la soberanía fernandina, el perdón de Amar y Borbón parece
+haber sido una expresión de la adhesión del Nuevo Reino de Granada al
+gobierno de la Junta Suprema de Sevilla.[^244] Sin embargo, el virrey no
+publicó el indulto de la Junta sino decidió hacer el suyo propio con un
+proemio más extenso, en el cual dejaba claro que era su autoridad y
+clemencia la que le conminaba a expedir esta gracia, y siempre en
+"imitación" y "ejemplo" de los sentimientos del "nuevo Rey y Señor".
+Así, aunque se dejaba claro por una parte que la "autoridad y
+representación del mismo soberano" se hallaba reconocida en la Junta
+Suprema de Sevilla, también se subrayaba que el indulto se hacía en
+favor de los vasallos de Fernando VII, en manifestación de "la mas
+acrisolada lealtad y ternura \[de los vasallos del Nuevo Reino\] al
+propio nuevo soberano". En general, el tono del bando de indulto es
+muestra de la indecisión del virrey, quien toma prestado el texto del
+indulto sevillano pero trata de mudar su contenido de tal manera que se
+matice la posible preeminencia de la Junta sobre la superioridad de
+Fernando VII.
 
 Los tres artículos del indulto incluyen a los mismos delincuentes que el
 promulgado por la Junta Suprema: desertores, contrabandistas y reos por
@@ -2360,16 +2384,16 @@ presentarse ante su distrito militar y comenzar a servir nuevamente.
 Esta adición daba cierta claridad a los jueces para poder cumplir con la
 orden virreinal siguiendo los precedentes indultos de desertores, en
 particular el reproducido en el tomo cuarto de los *Juzgados militares
-de España y sus Indias* por Félix Colón de Larreátegui.[^244]
+de España y sus Indias* por Félix Colón de Larreátegui.[^245]
 
-Ni el indulto de Sevilla ni el de Santa Fe incluyen una graduación del
-indulto respecto a los militares de primera, segunda o tercera
-deserción; tampoco hicieron una distinción de los rangos, por lo que no
-se aclaraba si los oficiales retornaban a sus mismos rangos después del
-indulto o su debía gozar del mismo sueldo. Estos aspectos hacían que la
-gracia fuese ambigua y difícil de aplicar. Por otra parte, el indulto de
-Amar y Borbón amplía el término de presentación de ocho a nueve días. No
-es claro qué lógica podía tener aumentar en un día el plazo, se entiende
+Ni el indulto de Sevilla ni el de Santa Fe incluyen una graduación
+respecto a los militares de primera, segunda o tercera deserción;
+tampoco hicieron una distinción de los rangos, por lo que no se aclaraba
+si los oficiales retornaban a sus mismos rangos después del indulto o su
+debía gozar del mismo sueldo. Estos aspectos hacían que la gracia fuese
+ambigua y difícil de aplicar. Por otra parte, el indulto de Amar y
+Borbón amplía el término de presentación de ocho a nueve días. No es
+claro qué lógica podía tener aumentar en un día el plazo, se entiende
 que la Junta llamara a los desertores a las armas dentro del tiempo
 requerido para organizar sus tropas y declarar la guerra, pero en el
 caso de Santa Fe no existía tal urgencia. Del mismo modo, mientras el
@@ -2387,9 +2411,9 @@ y Borbón ya que restaura la prelación del rey y, además, evita el
 término "patria" para reemplazarlo por el de "nación". Es probable que
 esta enmienda hubiese sido motivada por una concepción limitada del
 término al ámbito de la península y a la figura cautiva de Fernando
-VII.[^245] El uso de una figura como "nación", en cambio, podía
+VII.[^246] El uso de una figura como "nación", en cambio, podía
 representar a los vasallos de la monarquía en ambos lados del
-Atlántico.[^246] Poco efecto habría tenido este cambio pues
+Atlántico.[^247] Poco efecto habría tenido este cambio pues
 inmediatamente después, en el artículo tercero se toma del indulto
 sevillano que si el delincuente puede hacerse "útil a la Patria" podía
 ser incluido en el perdón, incluso si hubiese sido condenado por un
@@ -2413,17 +2437,17 @@ un hombre acusado de haber liderado una revuelta de indios en La
 Guajira, otro a favor de un homicida encarcelado en Anapoima, y
 finalmente a cuatro reos fugados de la prisión de Honda, a quienes se
 les concedió el perdón a cambio de que se presentaran en el término de
-una semana y cumplieran una prisión correctiva de quince días.[^247] Dos
+una semana y cumplieran una prisión correctiva de quince días.[^248] Dos
 peticiones carecieron de perdón de parte y por esta razón una fue
-rechazada y la otra estaba pendiente de ese requisito.[^248] Dos
+rechazada y la otra estaba pendiente de ese requisito.[^249] Dos
 peticiones colectivas hechas por reos (ya citadas en el apartado 2.8.3.)
 fueron devueltas pues las solicitudes requerían ser presentadas
 individualmente. Solamente el caso del homicida Claudio Vanegas fue
 rechazado tajantemente por el virrey, aunque el fiscal del crimen
-consideró que no estaba exceptuado de la gracia.[^249] El resto de
+consideró que no estaba exceptuado de la gracia.[^250] El resto de
 solicitudes tuvieron como respuesta común el ordenar que el tribunal que
 había visto el caso decidiera si era posible otorgar en equidad el
-indulto.[^250]
+indulto.[^251]
 
 Es posible que en otros lugares del virreinato el indulto haya tenido
 otros efectos, lastimosamente nuestra pesquisa no halló relaciones,
@@ -2442,7 +2466,7 @@ una "sedición criolla" estaba aún latente, por lo que si algún efecto se
 pretendía lograr con el indulto sería demostrar que el virrey tenía el
 dominio y la facultad regia para ser el representante de Fernando VII en
 el Nuevo Reino, por sobre la Junta Suprema de Sevilla o cualquier otra
-que se formara en la península.[^251]
+que se formara en la península.[^252]
 
 El punto débil del virreinato no se encontraba en Cartagena sino en
 Quito. El enfrentamiento entre los virreyes santafereños y los
@@ -2454,7 +2478,7 @@ pocos esfuerzos por reforzar militarmente al reino, y las carencias
 fueron solventadas parcialmente con españoles americanos que se
 integraron a las compañías de veteranos, lo que resultó en una
 importante cantidad de criollos formando parte de los cuerpos de
-oficiales.[^252] Quito mantuvo su carácter de provincia mayor sin deseos
+oficiales.[^253] Quito mantuvo su carácter de provincia mayor sin deseos
 de subordinarse a Santa Fe, sin que desde la capital del virreinato se
 hicieran mayores esfuerzos para conseguir la sumisión del reino. La
 Junta Central de España, que reemplazó a la de Sevilla en septiembre de
@@ -2463,12 +2487,12 @@ del poder en América, excluyó a Quito de la posibilidad de elegir
 diputados para las Cortes de Cádiz. La subordinación de facto a Santa Fe
 fue uno de los impulsos para crear la Junta Suprema de Quito el 10 de
 agosto de 1809, independiente no de la monarquía de España sino del
-virrey de Santa Fe.[^253]
+virrey de Santa Fe.[^254]
 
 Es claro que desde el segundo semestre de 1809 el virreinato se enfrenta
 a un creciente estado de radicalización, en especial oposición al virrey
 y la Audiencia, a quienes se les acusaba entre otras cosas de
-"afrancesados".[^254] Si bien en 1808 la promulgación de un indulto por
+"afrancesados".[^255] Si bien en 1808 la promulgación de un indulto por
 parte del virrey parecía un acto natural en un estado de crisis, para
 1809 la representación de quién tiene la capacidad de perdonar se hace
 más compleja. Fernando VII simbólicamente era el rey de los españoles,
@@ -2481,45 +2505,45 @@ radicalmente.
 Consideraciones finales
 -----------------------
 
-Aunque al inicio de esta investigación existía la duda acerca de
-establecer la fecha límite en 1808, en parte porque se puede asumir que
-se está cayendo en el tópico del origen de la independencia. Sin
-embargo, con sólo explorar los sucesos de 1809 y en adelante se puede
-dar cuenta de un cambio relevante en el uso del perdón, sobre todo en
-quiénes estaban facultados para hacerlo y con qué propósito.[^255] El
-corte que hacemos en este periodo no implica que el perdón se hubiese
-modificado radicalmente, ni siquiera la idea tradicional de que era una
-manifestación de clemencia y magnificencia del soberano. El problema
-radica en que la facultad de conceder indultos también formó parte de la
-lucha por la detentación de la soberanía. En las décadas por venir,
-pervivió el carácter del perdón como instrumento para el aumento de la
-autoridad y la construcción benevolente de la obediencia, así como
-demostración de que la mano blanda del poder político estaba acompañada
-de la capacidad de infringir el castigo más riguroso. Pero sería
-incorrecto considerar que las ideas de la clemencia, del perdón y del
-indulto, se mantuvieron incólumes durante las décadas revolucionarias y
-menos durante la construcción de los estados nacionales. Hubo muchos
-principios compartidos, sin duda, pero la esencia del perdón monárquico
-era que éste surgía de la voluntad (tanto en el sentido de intención
-como de potestad) del rey. El indulto constitucional, que se empezó a
-dejar consignado desde las tempranas cartas de 1811, trastocó el sentido
-original del perdón monárquico, pues ya no provenía de la voluntad
-presidencial sino del apego a las normas y la metafísica interpretación
-de la voluntad popular y el bien general.
+Al inicio de esta investigación existía la duda acerca de establecer la
+fecha límite en 1808, en parte porque se puede asumir que se está
+cayendo en el tópico del origen de la independencia. Sin embargo, con
+sólo explorar los sucesos de 1809 y en adelante se puede dar cuenta de
+un cambio relevante en el uso del perdón, sobre todo en quiénes estaban
+facultados para hacerlo y los propósitos que los movían a conceder la
+remisión de la pena.[^256] Esto no implica que en las convulsas décadas
+que vinieron el perdón se hubiese modificado radicalmente, ni siquiera
+la idea tradicional de que era una manifestación de clemencia y
+magnificencia del soberano. El problema radicaba en que la facultad de
+conceder indultos también formó parte de la lucha por la detentación de
+la soberanía. En las décadas por venir, pervivió el carácter del perdón
+como instrumento para el aumento de la autoridad y la construcción
+benevolente de la obediencia, así como demostración de que la mano
+blanda del poder político estaba acompañada de la capacidad de infringir
+el castigo más riguroso. Pero sería incorrecto considerar que las ideas
+de la clemencia, del perdón y del indulto, se mantuvieron incólumes
+durante las décadas revolucionarias y menos durante la construcción de
+los estados nacionales. Hubo muchos principios compartidos, sin duda,
+pero la esencia del perdón monárquico era que éste surgía de la voluntad
+(tanto en el sentido de intención como de potestad) del rey. La
+implementación de un modelo legal para la concesión de indultos trastocó
+el sentido original del perdón monárquico, pues se fundamentó en el
+apego a las normas y la metafísica interpretación de la voluntad popular
+y el bien general por el presidente y el congreso de la república.
 
 Muchos de los eventos que se han tratado en este capítulo fueron
-considerados por las historias patrias como prolegómenos de la
+interpretados por las "historias patrias" como prolegómenos de la
 Independencia, momentos claves en los que la autoridad monárquica era
 desafiada por un pueblo naturalmente descontento que resultaba
 indefectiblemente vencido. Pero son los mismos "revolucionarios" los que
 demandaban el perdón como parte de sus reivindicaciones, lo cual sería
 totalmente contradictorio en una rebelión contra la monarquía, pues con
-el indulto no sólo se evitaba el castigo sino se aceptaba explícitamente
-la relación de vasallaje con la Corona. Retornando a la pregunta
-realizada en el primer capítulo de esta tesis, ¿para qué pedir el perdón
-que aquél que se sabe es incapaz de castigar? Existían posibilidades de
-huir pero, con excepción de aquellos que no tuvieran nada que perder,
-los levantados tenían familias y negocios establecidos que no podían
+el indulto se evitaba el castigo y adicionalmente se aceptaba la
+relación de vasallaje con la Corona. Retornando a la pregunta realizada
+en el primer capítulo de esta tesis, ¿para qué pedir el perdón que aquél
+que se sabe es incapaz de castigar? Existían posibilidades de huir pero,
+con excepción de aquellos que no tuvieran nada que perder, los
+levantados tenían familias y negocios establecidos que no podían
 abandonar para dedicarse a una vida desconocida en los selváticos montes
 del septentrión sudamericano.
 
@@ -2536,24 +2560,22 @@ existía otro sistema posible en el horizonte de expectativas de los
 vasallos del rey de España. ¿Cómo escapar del único modelo de mundo que
 se conoce y entiende? ¿Podemos acaso hacerlo hoy?
 
-El hecho de que la fuerza del virreinato fuese intrínsecamente débil
-para contener el desorden no implica que los habitantes de las
-provincias fueran conscientes de tal impotencia. Las autoridades vivían
-en un temor permanente ante una posible sublevación general, que sin
-duda habría arrasado el virreinato, y esto los llevó a tomar decisiones
-exageradas con algunos "conspiradores"; pero es evidente que en los
-levantamientos el rumor de arribo de la tropa era suficiente para
-despertar la inquietud general y apurar la petición de reconciliación.
-La fuerza de los sublevados conseguía rápidamente sus objetivos, y en
-las insurrecciones comuneras el poder de la muchedumbre sobrepasó sus
-expectativas, pero después de este impulso inicial quedaba el temor del
-incumplimiento y del castigo. Los sublevados, como las autoridades, eran
-conscientes de los límites de su fuerza. El perdón era una forma de
-resolver este conflicto de debilidades en el que no era posible castigar
-a todos pero tampoco era posible superar a la autoridad monárquica.
-Finalmente, el indulto representó en la mayoría de los casos un evento
-de reconciliación y garantizó la paz de las provincias por extensos
-periodos.
+El hecho de que las autoridades virreinales carecieran de las
+herramientas para contener el desorden no implica que los habitantes de
+las provincias fueran conscientes de tal impotencia. Los oficiales
+manifestaban un legítimo temor ante una posible sublevación general, que
+sin duda habría arrasado el virreinato, lo que los llevó a tomar
+decisiones exageradas con algunos "conspiradores"; pero es evidente
+también que durante levantamientos el rumor de arribo de la tropa era
+suficiente para despertar la inquietud general y apurar la petición de
+reconciliación por parte de los sublevados. La fuerza de los rebeldes
+conseguía rápidamente sus objetivos, lo cual se demostró sobre todo en
+las insurrecciones comuneras en las que el poder de la muchedumbre
+sobrepasó las expectativas iniciales, pero no por ello se lanzaron a la
+conquista del territorio, al contrario, rápidamente iniciaban la
+negociación en la que la impunidad del castigo era un punto fundamental.
+Podemos inferir entonces que tanto los sublevados como las autoridades
+eran conscientes de los límites de su fuerza.
 
 Por otra parte, el contraste entre las fronteras y las provincias es
 evidente. Mientras en las primeras el perdón era ofrecido por las
@@ -2567,7 +2589,7 @@ los vasallos con el rey, en tanto en los espacios contenciosos el perdón
 no lograba cumplir su propósito de ganar la lealtad y obediencia al
 príncipe. La clemencia en el gobierno de la virtud era aún válida en los
 albores del siglo XIX, a pesar de los deseos de los oficiales que
-aspiraban a una monarquía ejecutiva, por lo menos en el nuevo reino,
+aspiraban a una monarquía ejecutiva, por lo menos en el Nuevo Reino,
 tenían que resignarse a recuperar los principios clementes del Siglo de
 Oro para poder mantener el vasallaje del Siglo de las Luces.
 
@@ -2580,9 +2602,12 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
 [^3]: "El conde de Torre-Velarde al Príncipe de la Paz", AGI, Estado,
     53, N. 59.
 
-[^4]: Anthony McFarlane, *Colombia before Independence: Economy,
-    Society, and Politics under Bourbon Rule*, Cambridge Latin American
-    Studies 75 (New York: Cambridge University Press, 1993), 308.
+[^4]: "Nariño responde al interrogatorio del oidor Hernández de Alba",
+    Santa Fe, 30 de julio de 1797, Guillermo Hernández de Alba, ed.,
+    *Archivo Nariño*, Publicación digital, vol. II, VI vols. (Bogotá:
+    Biblioteca de la Presidencia de la República, 1990), núm. 81,
+    [[http://www.bdigital.unal.edu.co/8059/1/Archivo\_Nariño.html\#83c]{.underline}](http://www.bdigital.unal.edu.co/8059/1/Archivo_Nariño.html#83c).
+    McFarlane, *Colombia before Independence*, 308.
 
 [^5]: "El conde de Torre-Velarde al Príncipe de la Paz", AGI, Estado,
     53, N. 59.
@@ -2619,13 +2644,9 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
     A Comparative Perspective", *Bulletin of Latin American Research*
     14, núm. 3 (1995): 313--38.
 
-[^13]: Kenneth J. Andrien, *The kingdom of Quito, 1690-1830: the state
-    and regional development* (Cambridge ; New York: Cambridge
-    University Press, 1995), 189.
+[^13]: Andrien, *The kingdom of Quito*, 189.
 
-[^14]: José Andrés-Gallego, *El motín de Esquilache, América y Europa*,
-    Biblioteca de historia 53 (Madrid: Fundación Mapfre Tavera; Consejo
-    Superior de Investigaciones Científicas, 2003), 194.
+[^14]: Andrés-Gallego, *El motín de Esquilache*, 194.
 
 [^15]: "El obispo de Quito avisa a virrey sobre el ataque a la casa de
     la fábrica de aguardiente", Quito, 24 de mayo de 1765, AGI, Quito,
@@ -2636,29 +2657,19 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
     AGI, Quito, 398.
 
 [^17]: Una descripción detallada del levantamiento puede encontrarse en
-    Anthony McFarlane, "The 'Rebellion of the Barrios': Urban
-    Insurrection in Bourbon Quito, 1765", en *Riots in the Cities:
-    Popular Politics and the Urban Poor in Latin America, 1765-1910*,
-    ed. Silvia Marina Arrom y Servando Ortoll, Latin American
-    Silhouettes (Wilmington, Del: Scholarly Resources, 1996), 34--37.
+    McFarlane, "The 'Rebellion of the Barrios'", 34--37.
 
 [^18]: Kenneth J. Andrien, "Economic Crisis, Taxes and the Quito
     Insurrection of 1765", *Past & Present*, núm. 129 (1990): 104--31;
-    Allan J. Kuethe y Kenneth J. Andrien, *El mundo atlántico español
-    durante el siglo XVIII. Guerra y reformas borbónicas, 1713-1796*,
-    trad. Lourdes Ramos Kuethe, Primera edición en español (Bogotá:
-    Editorial Universidad del Rosario, Banco de la República, 2018),
-    281, doi.org/10.12804/th9789587841121.
+    Kuethe y Andrien, *El mundo atlántico español*, 281.
 
 [^19]: Andrien, *The kingdom of Quito*, 180--84; Andrés-Gallego, *El
     motín de Esquilache*, 190.
 
-[^20]: McFarlane, "The 'Rebellion of the Barrios'", 1996, 20--21. Sobre
-    movimientos anteriores véase Martin Minchom, *The People of Quito,
-    1690-1810. Change and Unrest in the Underclass*, e-book (New York:
-    Routledge, 2019), cap. 8.
+[^20]: McFarlane, "The 'Rebellion of the Barrios'", 20--21. Sobre
+    movimientos anteriores véase Minchom, *The People of Quito*, cap. 8.
 
-[^21]: McFarlane, "The 'Rebellion of the Barrios'", 1996, 30--33.
+[^21]: McFarlane, "The 'Rebellion of the Barrios'", 30--33.
 
 [^22]: "Carta del apoderado de los barrios de Quito", Quito, 13 de julio
     de 1765, AGI, Quito, 398.
@@ -2670,7 +2681,7 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
 [^24]: "La Audiencia de Quito avisa al virrey sobre el ataque de la
     fábrica de aguardiente", Quito, 24 de mayo de 1765, AGI, Quito, 398.
 
-[^25]: McFarlane, "The 'Rebellion of the Barrios'", 1996, 41--42.
+[^25]: McFarlane, "The 'Rebellion of the Barrios'", 41--42.
 
 [^26]: BNC, raros manuscritos, 223, pza. 2, f. 8r.
 
@@ -2726,7 +2737,7 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
 [^42]: "El virrey de Santa Fe al alcalde ordinario Francisco de Borja",
     Santa Fe, 28 de octubre de 1765, AGI, Quito, 398, f. 766.
 
-[^43]: McFarlane, "The 'Rebellion of the Barrios'", 1996, 54--55.
+[^43]: McFarlane, "The 'Rebellion of the Barrios'", 54--55.
 
 [^44]: McFarlane, 55--56.
 
@@ -2750,24 +2761,22 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
     tradicional" y a favor de la revolución moderna campesina y popular,
     es la de Héctor Jaime Martínez Covaleda, "La Revolución de 1781:
     campesinos, tejedores y la 'rent seeking' en la Nueva Granada
-    (Colombia)" (Tesis doctoral, Universitat Pompeu Fabra, 2014),
-    https://dialnet.unirioja.es/servlet/tesis?codigo=142807.
+    (Colombia)" (Tesis doctoral, Barcelona, Universitat Pompeu Fabra,
+    2014), https://dialnet.unirioja.es/servlet/tesis?codigo=142807.
 
 [^50]: McFarlane, *Colombia before Independence*, 264.
 
 [^51]: Phelan, *El pueblo y el rey*, 70--73.
 
 [^52]: McFarlane, *Colombia before Independence*, 251--52. Véase también
-    la cronología elaborada por María Victoria Montoya Gómez, "Castigo y
-    perdón: el movimiento comunero. Nuevo Reino de Granada, 1781",
-    *Mouseion*, núm. 18 (2014): 39--40.
+    la cronología elaborada por Montoya Gómez, "Castigo y perdón",
+    39--40.
 
 [^53]: Véase los pasquines, en particular "nuestra cédula", transcritos
     por Phelan, *El pueblo y el rey*, 100--115.
 
-[^54]: Allan J. Kuethe, *Military reform and society in New Granada,
-    1773-1808* (Gainesville: The University Presses of Florida, 1978),
-    82. La huída sería aprovechada por la "junta de tribunales" para
+[^54]: Kuethe, *Military reform*, 82. La huída sería aprovechada por la
+    "junta de tribunales" para
 
 [^55]: Phelan, *El pueblo y el rey*, 146--52; Jairo Antonio Melo Flórez,
     "La Audiencia contra el príncipe de Bogotá. El proceso contra el
@@ -2884,8 +2893,7 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
 [^90]: "Pimienta a José de Gálvez", Cartagena, 10 de abril de 1782,
     AGNC, sección colonia, virreyes, tomo 2, f. 1142v.
 
-[^91]: BNC, Fondo Quijano, vol. 254, pza. 10. **Véase anexo "Edicto para
-    manifestar al público el indulto general ... (1782)"**
+[^91]: BNC, Fondo Quijano, vol. 254, pza. 10. Véase Anexo 17.
 
 [^92]: Sobre el uso de la imprenta por la administración santafereña
     véase Renán Silva, *Los ilustrados de Nueva Granada, 1760-1808:
@@ -2910,9 +2918,7 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
 
 [^95]: McFarlane, *Colombia before Independence*, 264.
 
-[^96]: François-Xavier Guerra, *Modernidad e independencias: ensayos
-    sobre las revoluciones hispánicas*, 3a. ed, 3a. reimp (México: Fondo
-    de Cultura Económica, MAPFRE, 2014), 169--73.
+[^96]: Guerra, *Modernidad e independencias*, 169--73.
 
 [^97]: Hans-Joachim König, *En el camino hacia la nación: nacionalismo
     en el proceso de formación del estado y de la nación de la Nueva
@@ -2922,8 +2928,7 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
     de 1782, BLAA-RM, MSS756, vol. 1, ff. 41r-41v. Otra copia se puede
     consultar en "No. 3, el Arzobispo virrey de Santa Fe dirije seis
     exemplares del yndulto...", AGI, Santa Fe, 594. Incluyo la
-    transcripción en el **anexo "El arzobispo virrey de Santa Fe dirige
-    seis ejemplares del indulto... (1783)"**
+    transcripción en el Anexo 19**.**
 
 [^99]: "Caballero y Góngora a José de Gálvez", f. 46v-47r.
 
@@ -2963,125 +2968,116 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
 
 [^114]: Verónica Salazar Baena afirma que dicha reconciliación se dio
     con las ceremonias de juramentación de Carlos IV en 1789, "Fastos
-    monárquicos en el Nuevo Reino de Granada. La imagen del rey y los
-    intereses locales. Siglos XVII-XVIII" (Tesis doctoral, Universidad
-    de Barcelona, 2013), 387.
+    monárquicos", 387.
 
-[^115]: Anthony McFarlane, "The Rebellion of the 'Barrios': Urban
-    Insurrection in Bourbon Quito", en *Reform and Insurrection in
-    Bourbon New Granada and Peru*, ed. John R Fisher, Allan J Kuethe, y
-    Anthony McFarlane (Baton Rouge: Louisiana State University Press,
-    1990), 238. Trataremos con detalle el perdón de Quito en el
-    siguiente capítulo.
-
-[^116]: 1° "que ha de fenecer en el todo el ramo de Real hacienda,
+[^115]: 1° "que ha de fenecer en el todo el ramo de Real hacienda,
     titulado Barlovento, tan perpetuamente que jamás vuelva a oírse su
     nombre." 2° "Que las guías que tanto han molestado en el principio
     de su establecimiento a todo el Reino, cese para siempre jamás su
     molestia". AGI, Santa Fe, 557B, f. 750r. Friede, *Rebelión
     comunera*, II:78.
 
-[^117]: Esta dispensa fue ordenada además en octubre de 1781. "Flórez a
+[^116]: Esta dispensa fue ordenada además en octubre de 1781. "Flórez a
     la Real Audiencia", Cartagena, 22 de octubre de 1781, AGI, Santa Fe,
     664. Friede, II:487-88.
 
-[^118]: "Carta circular del virrey Flórez desde Cartagena", AGI, Santa
+[^117]: "Carta circular del virrey Flórez desde Cartagena", AGI, Santa
     Fe, 577B. Friede, I:367.
 
-[^119]: Oscar Rodríguez Salazar, "La caja real de Popayán 1738-1800",
+[^118]: Oscar Rodríguez Salazar, "La caja real de Popayán 1738-1800",
     *Anuario Colombiano de Historia Social y de la Cultura*, núm. 15
     (1987): 12--13.
 
-[^120]: Phelan, *El pueblo y el rey*, 49--50.
+[^119]: Phelan, *El pueblo y el rey*, 49--50.
 
-[^121]: "Caballero y Góngora a José de Gálvez", f. 45r.
+[^120]: "Caballero y Góngora a José de Gálvez", f. 45r.
 
-[^122]: Phelan, *El pueblo y el rey*, 50--51.
+[^121]: Phelan, *El pueblo y el rey*, 50--51.
 
-[^123]: "Caballero y Góngora a José de Gálvez", f. 46r.
+[^122]: "Caballero y Góngora a José de Gálvez", f. 46r.
 
-[^124]: "Edicto para manifestar al público", cap. XII.
+[^123]: "Edicto para manifestar al público", cap. XII.
 
-[^125]: König, *En el camino hacia la nación*, 210.
+[^124]: König, *En el camino hacia la nación*, 210.
 
-[^126]: "Las Capitulaciones de los Comuneros", AGI, Santa Fe, 577B.
+[^125]: "Las Capitulaciones de los Comuneros", AGI, Santa Fe, 577B.
     Friede, *Rebelión comunera*, I:88.
 
-[^127]: "Edicto para manifestar al público", colofón.
+[^126]: "Edicto para manifestar al público", colofón.
 
-[^128]: Salvador Bernabeu Albert, *El criollo como voluntad y
+[^127]: Salvador Bernabeu Albert, *El criollo como voluntad y
     representación*, Prisma histórico 6 (Madrid : Aranjuez: Fundación
     MAPFRE ; Ediciones Doce Calles, 2006), 49.
 
-[^129]: König, *En el camino hacia la nación*, 210.
+[^128]: König, *En el camino hacia la nación*, 210.
 
-[^130]: "Gutiérrez de Piñeres a Flórez", Honda, 18 de mayo de 1781, y
+[^129]: "Gutiérrez de Piñeres a Flórez", Honda, 18 de mayo de 1781, y
     Honda, 3 de junio de 1781, AGI, Santa Fe, 577B.
 
-[^131]: "Noticia de la publicación por bando de la aprehensión de Túpac
+[^130]: "Noticia de la publicación por bando de la aprehensión de Túpac
     Amaru", Santa Fe, 15 de julio de 1781, AGI, Santa Fe, 577B.
 
-[^132]: "El superintendente de ejército y real hacienda de Caracas hace
+[^131]: "El superintendente de ejército y real hacienda de Caracas hace
     relación y recomendación para atacar la rebelión de Maracaibo",
     Caracas, 24 de julio de 1781, AGI, Caracas, 425.
 
-[^133]: "García de León a Flórez", Quito, 18 de septiembre de 1781, AGI,
+[^132]: "García de León a Flórez", Quito, 18 de septiembre de 1781, AGI,
     Santa Fe, 577B.
 
-[^134]: "García de León a Flórez".
+[^133]: "García de León a Flórez".
 
-[^135]: "Flórez a García de León", Cartagena, 20 de noviembre de 1781,
+[^134]: "Flórez a García de León", Cartagena, 20 de noviembre de 1781,
     AGI, Santa Fe, 577B.
 
-[^136]: "Orden reservada al gobernador de Antioquia", Cartagena, 3 de
+[^135]: "Orden reservada al gobernador de Antioquia", Cartagena, 3 de
     diciembre de 1781, AGI, Santa Fe, 577B. Copia en "Proceso de Juan
     Bautista Herrera", AGNC, sección colonia, juicios criminales, tomo
     198, doc. 1, f. 38r.
 
-[^137]: "Proceso de Juan Bautista Herrera", f. 32v-34v.
+[^136]: "Proceso de Juan Bautista Herrera", f. 32v-34v.
 
-[^138]: "Proceso de Juan Bautista Herrera", f. 39v-49r. El expediente
+[^137]: "Proceso de Juan Bautista Herrera", f. 39v-49r. El expediente
     por el "nuevo levantamiento" se haya en los folios 70 a 272.
 
-[^139]: Phelan, *El pueblo y el rey*, 161.
+[^138]: Phelan, *El pueblo y el rey*, 161.
 
-[^140]: Marcela Echeverri, *Esclavos e indígenas realistas en la era de
+[^139]: Marcela Echeverri, *Esclavos e indígenas realistas en la era de
     la revolución: reforma, revolución y realismo en los Andes
     septentrionales, 1780-1825*, trad. Silvia Rivera Cusicanqui, e-book
     (Bogotá: Universidad de los Andes; Banco de la República, 2018),
     cap. 1, http://dx.doi.org/10.30778/2018.51.
 
-[^141]: Phelan, *El pueblo y el rey*, 161.
+[^140]: Phelan, *El pueblo y el rey*, 161.
 
-[^142]: Véase el "Proceso de Juan Bautista Herrera", f. 62v-65v.
+[^141]: Véase el "Proceso de Juan Bautista Herrera", f. 62v-65v.
 
-[^143]: BNC, fondo comuneros, tomo VIII, f. 1-15.
+[^142]: BNC, fondo comuneros, tomo VIII, f. 1-15.
 
-[^144]: "Proceso de Juan Bautista Herrera", f. 57v.
+[^143]: "Proceso de Juan Bautista Herrera", f. 57v.
 
-[^145]: El traslado de los reos tardó más de lo esperado porque su
+[^144]: El traslado de los reos tardó más de lo esperado porque su
     transporte no podía costearse con el dinero de las cajas reales.
     Flórez ordenó que se pagara con el producto de la venta de los
     bienes embargados a los líderes, pero éstos eran tan pobres que ni
     siquiera alcanzó para pagar las costas del proceso. "Proceso de Juan
     Bautista Herrera", f. 262r-v.
 
-[^146]: Mario Aguilera Peña, *La rebelión de los comuneros* (Bogotá:
+[^145]: Mario Aguilera Peña, *La rebelión de los comuneros* (Bogotá:
     Panamericana Editorial, 1998), 62.
 
-[^147]: "Proceso de Juan Bautista Herrera", f. 274-285.
+[^146]: "Proceso de Juan Bautista Herrera", f. 274-285.
 
-[^148]: "Proceso de Juan Bautista Herrera", f. 285v-286v.
+[^147]: "Proceso de Juan Bautista Herrera", f. 285v-286v.
 
-[^149]: Jane M. Rausch, "Los comuneros olvidados : la insurrección de
+[^148]: Jane M. Rausch, "Los comuneros olvidados : la insurrección de
     1781 en los llanos del Casanare", *Boletín Cultural y Bibliográfico*
     33, núm. 41 (1996): 3--27.
 
-[^150]: "Los capitanes de los Llanos envían informe sobre la
+[^149]: "Los capitanes de los Llanos envían informe sobre la
     pacificación de esa provincia", Pore, 29 de octubre de 1781, AGI,
     Santa Fe, 577B.
 
-[^151]: Una interpretación clásica de este levantamiento fue realizada
+[^150]: Una interpretación clásica de este levantamiento fue realizada
     por Carlos E. Muñoz Oraá, *Los comuneros de Venezuela. Una
     revolución popular de pre-independencia* (Mérida: Universidad de los
     Andes, 1971); y María Teresa Zubiri Marín, "Los comuneros de Mérida:
@@ -3092,99 +3088,95 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
     (1781-1810)", *Historia Caribe* 10, núm. 27 (2015): 103--40,
     https://doi.org/10.15648/hc.27.2015.4.
 
-[^152]: "El intendente de Caracas a José de Gálvez", Caracas, 22 de
+[^151]: "El intendente de Caracas a José de Gálvez", Caracas, 22 de
     noviembre de 1781, AGI, Caracas, 425.
 
-[^153]: "Extracto de los principales sucesos ocurridos en la sublevación
+[^152]: "Extracto de los principales sucesos ocurridos en la sublevación
     que han promovido los levantados del reino de Santa Fe", Mérida, 30
     de octubre de 1781, AGI, Caracas, 425. Véase también Cardoza Sáez,
     "Los comuneros de Mérida", 125.
 
-[^154]: "Extracto de los principales sucesos".
+[^153]: "Extracto de los principales sucesos".
 
-[^155]: "Juan de Salas al gobernador Unzaga", Mérida, 30 de octubre de
+[^154]: "Juan de Salas al gobernador Unzaga", Mérida, 30 de octubre de
     1781, AGI, Caracas, 425.
 
-[^156]: "Juan de Salas al gobernador Unzaga".
+[^155]: "Juan de Salas al gobernador Unzaga".
 
-[^157]: Cardoza Sáez, "Los comuneros de Mérida", 111.
+[^156]: Cardoza Sáez, "Los comuneros de Mérida", 111.
 
-[^158]: *Apud* Cardoza Sáez, 127.
+[^157]: *Apud* Cardoza Sáez, 127.
 
-[^159]: "Siete copias de representaciones dirigidas desde la gobernación
+[^158]: "Siete copias de representaciones dirigidas desde la gobernación
     de Maracaibo", BNC, comuneros, tomo XII, f. 39v.
 
-[^160]: "Siete copias de representaciones", f. 36-41.
+[^159]: "Siete copias de representaciones", f. 36-41.
 
-[^161]: "Siete copias de representaciones", f. 39r-v.
+[^160]: "Siete copias de representaciones", f. 39r-v.
 
-[^162]: "Francisco de Arce al arzobispo-virrey Caballero y Góngora",
+[^161]: "Francisco de Arce al arzobispo-virrey Caballero y Góngora",
     Maracaibo, 21 de julio de 1782, BNC, comuneros, tomo XII, f. 42r.
 
-[^163]: "Testimonio de los autos criminales contra varios vecinos de la
+[^162]: "Testimonio de los autos criminales contra varios vecinos de la
     provincia de Maracaibo", AGI, Caracas, 425, Santa Fe, 21 de agosto
     de 1782, f. 320r-21r.
 
-[^164]: "Testimonio de los autos criminales", Caracas, 20 de octubre de
+[^163]: "Testimonio de los autos criminales", Caracas, 20 de octubre de
     1782, f. 323r.
 
-[^165]: "El gobernador de Caracas a José de Gálvez", Caracas, 31 de
+[^164]: "El gobernador de Caracas a José de Gálvez", Caracas, 31 de
     enero de 1783, AGI, Caracas, 86.
 
-[^166]: "El rey extiende el perdón general de Santa Fe a los rebeldes de
+[^165]: "El rey extiende el perdón general de Santa Fe a los rebeldes de
     Maracaibo", El Pardo, 31 de enero de 1783, AGI, Caracas, 425.
 
-[^167]: "El Consejo de Indias sobre las conmociones de Maracaibo",
+[^166]: "El Consejo de Indias sobre las conmociones de Maracaibo",
     Madrid, 20 de junio de 1783, AGI, Caracas, 425.
 
-[^168]: "Real orden acerca del indulto y perdón general concedido a
+[^167]: "Real orden acerca del indulto y perdón general concedido a
     todos los reos comprendidos en las conmociones de Maracaibo", San
     Ildefonso, 10 de agosto de 1783, AGI, Caracas, 87.
 
-[^169]: McFarlane, *Colombia before Independence*, 275--76. Sobre la
+[^168]: McFarlane, *Colombia before Independence*, 275--76. Sobre la
     recomendación para mantener a Ambrosio Pisco en Cartagena,
     "Caballero y Góngora a José de Gálvez", Santa Fe, 15 de octubre de
     1782, BLAA-RM, MSS756, v. 1, ff. 51r-52v.
 
-[^170]: Jean Pierre Minaudier, "Pequeñas patrias en la tormenta: Pasto y
+[^169]: Jean Pierre Minaudier, "Pequeñas patrias en la tormenta: Pasto y
     Barbacoas a finales de la colonia y en la Independencia", *Historia
     y Espacio*, núm. 11--12 (1987): 151--58,
     https://doi.org/10.25100/hye.v0i11-12.6815; Echeverri, *Esclavos e
-    indígenas realistas*, caps. 2--3. Para un análisis de estas
-    conmociones desde la perspectiva del gobierno militar véase Kuethe,
-    *Military reform*, 181--83.
+    indígenas realistas*, caps. 2--3.
 
-[^171]: "Insurrección en Barbacoas", Santa Fe, 19 de octubre de 1791,
+[^170]: "Insurrección en Barbacoas", Santa Fe, 19 de octubre de 1791,
     AGS, SEDG, 7078, ff. 131v-32r.
 
-[^172]: Echeverri, *Esclavos e indígenas realistas*, cap. 2, "Castigo y
+[^171]: Echeverri, *Esclavos e indígenas realistas*, cap. 2, "Castigo y
     negociaciones".
 
-[^173]: Un análisis detenido de esta rebelión puede consultarse en
+[^172]: Un análisis detenido de esta rebelión puede consultarse en
     Frédéric Spillemaeker, "La révolte de Coro : les catégories
     bouleversées à l'ère des révolutions (Venezuela, 1795)", *Nuevo
     Mundo Mundos Nuevos*, Débats, 2019,
     https://doi.org/10.4000/nuevomundo.75193.
 
-[^174]: AGI, Caracas, 426, f. 32v.
+[^173]: AGI, Caracas, 426, f. 32v.
 
-[^175]: Spillemaeker, "La révolte de Coro", párr. 10.
+[^174]: Spillemaeker, "La révolte de Coro", párr. 10.
 
-[^176]: AGI, Caracas, 426, ff. 39v-40r.
+[^175]: AGI, Caracas, 426, ff. 39v-40r.
 
-[^177]: AGI, Caracas, 426, ff. 42v-43v.
+[^176]: AGI, Caracas, 426, ff. 42v-43v.
 
-[^178]: AGI, Caracas, 426, ff. 33r-v.
+[^177]: AGI, Caracas, 426, ff. 33r-v.
 
-[^179]: McFarlane, *Colombia before Independence*, 279--80.
+[^178]: McFarlane, *Colombia before Independence*, 279--80.
 
-[^180]: Víctor Manuel Uribe-Urán, *Vidas honorables: abogados, familia y
-    política en Colombia, 1780-1850* (Medellín: Fondo Editorial
-    Universidad EAFIT, 2008), 122--31.
+[^179]: Uribe-Urán, *Vidas honorables*, 122--31.
 
-[^181]: Uribe-Urán, 122--23.
+[^180]: Uribe-Urán, 122--23.
 
-[^182]: AR, fondo I, vol. 4, f. 615. Diana E. Soto Arango, "El
+[^181]: AR, fondo I, vol. 4, f. 615. Diana E. Soto Arango, "El
     movimiento de estudiantes y catedráticos en Santa Fe de Bogotá a
     finales del siglo XVIII", en *Movimientos estudiantiles en la
     historia de América Latina*, ed. Renate Marsiske y Lourdes Alvarado,
@@ -3192,89 +3184,89 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
     Estudios sobre la Universidad, Universidad Nacional Autónoma de
     México; Plaza y Valdés Editores, 1999), 50--51.
 
-[^183]: AR, fondo I, vol. 4, ff. 615v-16r. "Ezpeleta a Manuel Godoy",
+[^182]: AR, fondo I, vol. 4, ff. 615v-16r. "Ezpeleta a Manuel Godoy",
     Santa Fe, 19 de febrero de 1796, AGI, Estado, 56A, N. 2. McFarlane,
     *Colombia before Independence*, 285--86.
 
-[^184]: "Minuta de oficio sobre el asunto de los pasquines", 22 de
+[^183]: "Minuta de oficio sobre el asunto de los pasquines", 22 de
     septiembre de 1796, AGI, Estado, 56A, N. 2.
 
-[^185]: AR, fondo I, vol. 4, ff. 616r-v.
+[^184]: AR, fondo I, vol. 4, ff. 616r-v.
 
-[^186]: "Instancia de Luis Gómez, Pablo José de Uribe y José María
+[^185]: "Instancia de Luis Gómez, Pablo José de Uribe y José María
     Durán", AGI, Estado, 56A, N. 2.
 
-[^187]: Uribe-Urán, *Vidas honorables*, 126.
+[^186]: Uribe-Urán, *Vidas honorables*, 126.
 
-[^188]: Uribe-Urán, 129.
+[^187]: Uribe-Urán, 129.
 
-[^189]: Silva, *Los ilustrados de Nueva Granada*, 104--5.
+[^188]: Silva, *Los ilustrados de Nueva Granada*, 104--5.
 
-[^190]: McFarlane, *Colombia before Independence*, 289--90; Silva, *Los
+[^189]: McFarlane, *Colombia before Independence*, 289--90; Silva, *Los
     ilustrados de Nueva Granada*, 106.
 
-[^191]: AR, fondo I, vol. 4, ff. 617r-v. "José de Ezpeleta al duque de
+[^190]: AR, fondo I, vol. 4, ff. 617r-v. "José de Ezpeleta al duque de
     la Alcudia \[Manuel Godoy\]", Santa Fe, 20 de mayo de 1795, AGI,
     Estado, 56A, N. 1.
 
-[^192]: AGI, Estado, 56A, N. 1.
+[^191]: AGI, Estado, 56A, N. 1.
 
-[^193]: "Virrey de Santa Fe sobre inscripciones y pasquines sediciosos",
+[^192]: "Virrey de Santa Fe sobre inscripciones y pasquines sediciosos",
     s.f., AGI, Estado, 53, N. 55. Javier Ocampo López, *El cura Juan
     Fernández de Sotomayor y Picón y los catecismos de la Independencia*
     (Bogotá: Universidad del Rosario, 2010), 53--54.
 
-[^194]: "El virrey de Santa Fe al duque de la Alcudia", Santa Fe, 19 de
+[^193]: "El virrey de Santa Fe al duque de la Alcudia", Santa Fe, 19 de
     octubre de 1795, AGI, Estado, 56A, N. 1.
 
-[^195]: "El arzobispo de Santa Fe, Baltasar Jaime Martínez, al virrey",
+[^194]: "El arzobispo de Santa Fe, Baltasar Jaime Martínez, al virrey",
     Santa Fe, 30 de septiembre de 1795, AGI, Estado, 52, N. 25. La
     solicitud de perdón está incluida en el punto número 76 de las
     reflexiones del arzobispo.
 
-[^196]: "El virrey de Santa Fe al duque de la Alcudia", Santa Fe, 19 de
+[^195]: "El virrey de Santa Fe al duque de la Alcudia", Santa Fe, 19 de
     octubre de 1795, AGI, Estado, 56A, N. 1.
 
-[^197]: "El arzobispo de Santa Fe, Baltasar Jaime Martínez, al virrey",
+[^196]: "El arzobispo de Santa Fe, Baltasar Jaime Martínez, al virrey",
     Santa Fe, 30 de septiembre de 1765.
 
-[^198]: "Reservada del virrey de Santa Fe al duque de la Alcudia", Santa
+[^197]: "Reservada del virrey de Santa Fe al duque de la Alcudia", Santa
     Fe, 19 de septiembre de 1794, AGI, Estado, 55.
 
-[^199]: "Solicitud de indulto para Pablo José de Uribe", Santa Fe, 17 de
+[^198]: "Solicitud de indulto para Pablo José de Uribe", Santa Fe, 17 de
     abril de 1795, BLAA-RM, MSS053.
 
-[^200]: "Solicitud de indulto para José María Durán", Santa Fe, 17 de
+[^199]: "Solicitud de indulto para José María Durán", Santa Fe, 17 de
     abril de 1795, BLAA-RM, MSS054.
 
-[^201]: "Solicitud de indulto para Pablo José de Uribe" y "Solicitud de
+[^200]: "Solicitud de indulto para Pablo José de Uribe" y "Solicitud de
     indulto para José María Durán".
 
-[^202]: Silva, *Los ilustrados de Nueva Granada*, 105--6.
+[^201]: Silva, *Los ilustrados de Nueva Granada*, 105--6.
 
-[^203]: Pedro Grases, *La conspiración de Gual y España y el ideario de
+[^202]: Pedro Grases, *La conspiración de Gual y España y el ideario de
     la independencia* (Caracas: Instituto Panamericano de Geografía e
     Historia, 1949), 19--27; Carmen L. Michelena, *Luces
     revolucionarias: de la rebelión de Madrid (1795) a la rebelión de La
     Guaira (1797)* (Caracas: Fundación Centro de Estudios
     Latinoamericanos Rómulo Gallegos, 2010), cap. 1.
 
-[^204]: Emilio La Parra, *Manuel Godoy: la aventura del poder*, Tiempo
+[^203]: Emilio La Parra, *Manuel Godoy: la aventura del poder*, Tiempo
     de memoria 20 (Barcelona: Tusquets, 2002), 122--34.
 
-[^205]: "Pedro de Mendinueta al Príncipe de la Paz", Santa Fe, 19 de
+[^204]: "Pedro de Mendinueta al Príncipe de la Paz", Santa Fe, 19 de
     octubre de 1797, AGI, Santa Fe, 52, N. 64.
 
-[^206]: "Pedro de Mendinueta al Príncipe de la Paz", Santa Fe, 19 de
+[^205]: "Pedro de Mendinueta al Príncipe de la Paz", Santa Fe, 19 de
     mayo de 1798, AGI, Santa Fe, 52, N. 68.
 
-[^207]: Michelena, *Luces revolucionarias*, 243--44.
+[^206]: Michelena, *Luces revolucionarias*, 243--44.
 
-[^208]: "Indulto publicado a nombre de SM con relación a la sublevación
+[^207]: "Indulto publicado a nombre de SM con relación a la sublevación
     de Caracas", Caracas, 20 de julio de 1797, AGI, Caracas, 427, ff.
     732r-36v.
 
-[^209]: "Lista de los que se han acogido al indulto", Caracas, 8 de
+[^208]: "Lista de los que se han acogido al indulto", Caracas, 8 de
     agosto de 1797, AGI, Estado, 71, N. 2. En ese listado no aparece
     José Cordero, uno de los líderes de la conspiración, quien se
     presentó poco después. Sobre la composición multiétnica de los
@@ -3282,41 +3274,41 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
     Race and Republicanism during the Age of Revolution, Colombia,
     1795-1831* (University of Pittsburgh Press, 2007), 29--32.
 
-[^210]: "Examen del Real Acuerdo de Caracas sobre algunos reos que se
+[^209]: "Examen del Real Acuerdo de Caracas sobre algunos reos que se
     acogieron al indulto", Caracas, 16 de agosto de 1797, AHN, Consejo
     de Indias, Secretaría de Presidencia, 21672, exp. 4. "Remisión de
     reos por el Real Acuerdo de Caracas", Caracas, 16 de agosto de 1797,
     AGI, Estado, 71, N. 2.
 
-[^211]: "Los oidores honorarios en La Guaira al capitán general de
+[^210]: "Los oidores honorarios en La Guaira al capitán general de
     Caracas", La Guaira, 23 de julio de 1797, AGI, Caracas, 427, ff.
     738r-40v.
 
-[^212]: "Real Acuerdo extraordinario", Caracas, 25 de julio de 1797,
+[^211]: "Real Acuerdo extraordinario", Caracas, 25 de julio de 1797,
     AGI, Caracas, 427, ff. 747v-49v.
 
-[^213]: La Guaira, 24 de julio de 1797, AGI, Caracas, 427, ff. 745v-47r.
+[^212]: La Guaira, 24 de julio de 1797, AGI, Caracas, 427, ff. 745v-47r.
 
-[^214]: Los liberados fueron Miguel Granadino y José Ramón Príncipe.
+[^213]: Los liberados fueron Miguel Granadino y José Ramón Príncipe.
     "Real Acuerdo", Caracas, 3 de agosto de 1797, AGI, Caracas, 427, f.
     760r. Un homónimo de Granadino fue condenado a destierro y prisión
     en Puerto Rico. "Remisión de reos por el Real Acuerdo de Caracas",
     Caracas, 16 de agosto de 1797, AGI, Estado, 71, N. 2.
 
-[^215]: Michelena, *Luces revolucionarias*, 220 y 271.
+[^214]: Michelena, *Luces revolucionarias*, 220 y 271.
 
-[^216]: Grases, *La conspiración de Gual y España*, 26--27.
+[^215]: Grases, *La conspiración de Gual y España*, 26--27.
 
-[^217]: Los detalles del castigo ejemplarizante que se realizó contra
+[^216]: Los detalles del castigo ejemplarizante que se realizó contra
     España y los demás condenados son narrados por Michelena, *Luces
     revolucionarias*, 322--24.
 
-[^218]: "Memorial de Miguel Antonio Larruleta, Martín de Goenaga y Juan
+[^217]: "Memorial de Miguel Antonio Larruleta, Martín de Goenaga y Juan
     Joseph Mendiri, en el que solicitan sean liberados y regresados a La
     Guaira", Cádiz, 21 de noviembre de 1797, AHN, Consejo de Indias,
     Secretaría de Presidencia, 21672, exp. 4.
 
-[^219]: El obispo de Caracas ya había intentado mediar por Ronan en el
+[^218]: El obispo de Caracas ya había intentado mediar por Ronan en el
     Real Acuerdo. "Oficio del obispo de Caracas", Caracas, 21 de julio
     de 1797, AGI, Caracas, 427, f. 813r. La solicitud de Ronan se
     encuentra en "Patricio Román, ingeniero extraordinario de los reales
@@ -3325,42 +3317,45 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
     diciembre de 1797, AHN, Consejo de Indias, Secretaría de
     Presidencia, 21672, exp. 3.
 
-[^220]: Véase el apartado 3.5.3.
+[^219]: Véase el apartado 3.5.3.
 
-[^221]: "Real resolución y libertad a Juan José Mendiri y Martín de
+[^220]: "Real resolución y libertad a Juan José Mendiri y Martín de
     Goenaga", Madrid, 25 de junio de 1802, AHN, Consejo de Indias,
     Secretaría de Presidencia, 21672, exp. 8, doc. 5.
 
-[^222]: "Comunicación de la gracia de indulto concedida a Juan Lartique
+[^221]: "Comunicación de la gracia de indulto concedida a Juan Lartique
     Condé", Santander, 4 de enero de 1803, AHN, Consejo de Indias,
     Secretaría de Presidencia, 21672, exp. 8, doc. 6.
 
-[^223]: "Consulta del Consejo de Indias sobre José Archilla", s.f., AGI,
+[^222]: "Consulta del Consejo de Indias sobre José Archilla", s.f., AGI,
     Estado, 71, N. 2.
 
-[^224]: Los memoriales de estos reos pueden consultarse en AGI, Estado,
+[^223]: Los memoriales de estos reos pueden consultarse en AGI, Estado,
     71, N. 2.
 
-[^225]: "Minuta de Oficio a Antonio Cornel", San Lorenzo, 11 de
+[^224]: "Minuta de Oficio a Antonio Cornel", San Lorenzo, 11 de
     noviembre de 1799, AGI, Estado, 56A, N. 2.
 
-[^226]: "Instancia de Luis Gómez al rey", Madrid, 24 de diciembre de
+[^225]: "Instancia de Luis Gómez al rey", Madrid, 24 de diciembre de
     1799, AGI, Estado, 56A, N. 2.
 
-[^227]: "Minuta de Oficio a Mariano Luis de Urquijo", Madrid, 8 de enero
+[^226]: "Minuta de Oficio a Mariano Luis de Urquijo", Madrid, 8 de enero
     de 1800, AGI, Estado, 56A, N. 2.
 
-[^228]: "Instancia a S.M. de Pedro Pradilla a nombre de José María
+[^227]: "Instancia a S.M. de Pedro Pradilla a nombre de José María
     Durán", San Lorenzo, 18 de noviembre de 1799, AGI, Estado, 56A, N.
     2.
 
-[^229]: "Oficio extracto de Secretaría sobre la solicitud de indulto de
+[^228]: "Oficio extracto de Secretaría sobre la solicitud de indulto de
     Durán", 23 de noviembre de 1799, AGI, Estado, 56A, N. 2.
 
-[^230]: AR, fondo I, vol. 4, ff. 620v-21r. Soto Arango, "El movimiento
-    de estudiantes", 57.
+[^229]: Soto Arango, "El movimiento de estudiantes", 58--59.
 
-[^231]: Soto Arango, 58--59.
+[^230]: AR, fondo I, vol. 4, ff. 620v-21r. Soto Arango, 57.
+
+[^231]: "Resumen de los procesos contra Nariño y Ricaurte", 19 de
+    noviembre, Hernández de Alba, ed., *Archivo Nariño*, núm. 93,
+    [[http://www.bdigital.unal.edu.co/8059/1/Archivo\_Nariño.html\#95c]{.underline}](http://www.bdigital.unal.edu.co/8059/1/Archivo_Nariño.html#95c).
 
 [^232]: En 1806 todavía se encontraba intentando ubicarse en algún
     empleo menor sin ningún éxito. Véase por ejemplo la "Minuta de
@@ -3369,28 +3364,26 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
 
 [^233]: AGI, Caracas, 426, f. 32v.
 
-[^234]: Beatriz Amalia Patiño Millán, *Criminalidad, ley penal y
-    estructura social en la provincia de Antioquia 1750-1820*, Segunda
-    edición, Colección Memoria viva del bicentenario, Antioquia (Bogotá:
-    Editorial Universidad del Rosario, 2013), 84--85.
+[^234]: Calderón y Thibaud, *La majestad de los pueblos*, 59--67.
 
-[^235]: AGNC, sección colonia, juicios criminales, tomo 205, doc. 9, f.
+[^235]: Patiño Millán, *Criminalidad, ley penal*, 84--85.
+
+[^236]: AGNC, sección colonia, juicios criminales, tomo 205, doc. 9, f.
     450r.
 
-[^236]: AHM, sección colonia, Concejo de Medellín, actas, tomo 73, f.
+[^237]: AHM, sección colonia, Concejo de Medellín, actas, tomo 73, f.
     209v.
 
-[^237]: Véase anexo "Indulto promulgado por el virrey Antonio Amar y
-    Borbón"
+[^238]: Véase Anexo 30.
 
-[^238]: Fernando VII había promulgado un indulto en Madrid el 2
-    septiembre de 1814, pero este abarcó únicamente a los reos militares
-    de España e Indias. Hubo otros indultos generales, como el otorgado
-    a los segovianos el 2 de noviembre de ese mismo año; pero el perdón
+[^239]: Fernando VII promulgó un indulto en Madrid el 2 septiembre de
+    1814, pero este abarcó únicamente a los reos militares de España e
+    Indias. Hubo otros indultos generales, como el otorgado a los
+    segovianos el 2 de noviembre de ese mismo año; pero el perdón
     específico para los reinos de las Indias se promulgaría hasta el 24
     de enero de 1817.
 
-[^239]: El uso del perdón real en la restauración monárquica de Tierra
+[^240]: El uso del perdón real en la restauración monárquica de Tierra
     Firme merece atención particular por la compleja estrategia para la
     recuperación del vasallaje, mezclada con abusos autoritarios y
     reorganización de las élites. Al respecto véase Daniel Gutiérrez
@@ -3403,7 +3396,7 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
     (1815-1821)* (Castelló de la Plana: Universitat Jaume I, 2013),
     223--30.
 
-[^240]: Como señaló François-Xavier Guerra, la reacción a la acefalía
+[^241]: Como señaló François-Xavier Guerra, la reacción a la acefalía
     monárquica fue diferente en buena medida porque las noticias
     llegaron por separado. *Modernidad e independencias*, 130. También
     Jaime E. Rodríguez O., *La independencia de la América española*,
@@ -3418,55 +3411,49 @@ Oro para poder mantener el vasallaje del Siglo de las Luces.
     diplomacia durante el interregno en Nueva Granada, 1808-1816*,
     Bicentenario (Bogotá: Universidad Externado de Colombia, 2010), 115.
 
-[^241]: Cartagena, 26 de agosto de 1808, AGNC, sección colonia, milicias
+[^242]: Cartagena, 26 de agosto de 1808, AGNC, sección colonia, milicias
     y marina, tomo 61, f. 1029.
 
-[^242]: Sobre la oposición Cartagena -- Santa Fe entre 1808 y 1810,
+[^243]: Sobre la oposición Cartagena -- Santa Fe entre 1808 y 1810,
     véase Alfonso Múnera, *El fracaso de la nación. Religión, clase y
     raza en el Caribe colombiano (1717-1810)* (Bogotá: Banco de la
     República --- Ancora Editores, 1998), 140--87; McFarlane, *Colombia
     before Independence*, 338--41; Cuño Bonito, *El retorno del rey*,
     101--2, 112--13; Gutiérrez Ardila, *Un nuevo reino*, 114--17.
 
-[^243]: Gutiérrez Ardila, *Un nuevo reino*, 119.
+[^244]: Gutiérrez Ardila, *Un nuevo reino*, 119.
 
-[^244]: Véase ("Indulto de desertores (1789)")
+[^245]: Véase Anexo 23.
 
-[^245]: Georges Lomné, "«El feliz momento de la patria»", en *Patria.
-    Diccionario político y social del mundo iberoamericano*, ed. Javier
-    Fernández Sebastián, vol. 8, Iberconceptos, II (Madrid: Centro de
-    Estudios Políticos y Constitucionales -- Universidad del País Vasco,
-    2009), 27--28; Carlos Vladimir Villamizar Duarte, *La felicidad del
-    Nuevo Reyno de Granada: el lenguaje patriótico en Santafé
-    (1791-1797)*, Colección Centro de Estudios en Historia (Bogotá:
-    Universidad Externado de Colombia, 2012), sec. 3447, Kindle.
+[^246]: Lomné, "«El feliz momento»", 27--28; Villamizar Duarte, *La
+    felicidad del Nuevo Reyno*, sec. 3447.
 
-[^246]: Villamizar Duarte, *La felicidad del Nuevo Reyno*, sec. 3422.
+[^247]: Villamizar Duarte, *La felicidad del Nuevo Reyno*, sec. 3422.
 
-[^247]: AGNC, sección colonia, milicias y marina, tomo 6, doc. 2;
+[^248]: AGNC, sección colonia, milicias y marina, tomo 6, doc. 2;
     juicios criminales, tomo 94, doc. 18; juicios criminales, tomo 130,
     doc. 67; sección archivo anexo, historia, tomo 4, doc. 29.
 
-[^248]: AGNC, sección colonia, juicios criminales, tomo 10, doc. 2;
+[^249]: AGNC, sección colonia, juicios criminales, tomo 10, doc. 2;
     juicios criminales, tomo 105, doc. 6.
 
-[^249]: AGNC, sección colonia, miscelánea, tomo 122, doc. 6.
+[^250]: AGNC, sección colonia, miscelánea, tomo 122, doc. 6.
 
-[^250]: AGNC, sección colonia, juicios criminales, tomo 6, doc. 25; tomo
+[^251]: AGNC, sección colonia, juicios criminales, tomo 6, doc. 25; tomo
     28, doc. 12; tomo 50, docs. 1 y 2; tomo 70, docs. 7 - 10; tomo 75,
     doc. 4; tomo 76, doc. 26; tomo 77, doc. 17; tomo 78, doc. 10; tomo
     108, doc. 9; tomo 130, doc. 67; tomo 139, doc. 9; tomo 145, doc. 22.
 
-[^251]: Respecto a la lucha de poder entre las autoridades regias en el
+[^252]: Respecto a la lucha de poder entre las autoridades regias en el
     Nuevo Reino y las españolas, así como entre el virreinato y la Junta
     de Quito, véase Gutiérrez Ardila, *Un nuevo reino*, caps. 3--4.
 
-[^252]: Kuethe, *Military reform*, 182--83.
+[^253]: Kuethe, *Military reform*, 182--83.
 
-[^253]: Gutiérrez Ardila, *Un nuevo reino*, 158.
+[^254]: Gutiérrez Ardila, *Un nuevo reino*, 158.
 
-[^254]: McFarlane, *Colombia before Independence*, 332.
+[^255]: McFarlane, *Colombia before Independence*, 332.
 
-[^255]: Jairo Antonio Melo Flórez, "El indulto en el proceso de
+[^256]: Jairo Antonio Melo Flórez, "El indulto en el proceso de
     Independencia de la Nueva Granada, 1808-1821", *Revista Historia y
     Justicia*, núm. 6 (2016), https://doi.org/10.4000/rhj.612.

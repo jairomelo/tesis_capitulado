@@ -78,7 +78,7 @@ representaba al rey, a nombre del virrey Messía de la Cerda, la
 desilusión con el sistema de pacificación liderado por las misiones.[^7]
 En su *Estado del virreinato* decía, que este reino padecía de "la
 conocida desgracia de que apenas tiene provincia que no viva infestada
-por alguna parte de yndios bárbaros que repentinam\[en\]te acometen con
+por alguna parte de yndios bárbaros que repentinam*en*te acometen con
 desorden a los españoles, causando con las inquietudes estragos en vidas
 y haciendas".[^8] Aprovechaba para quejarse por la obligación que tenía,
 como protector de naturales, de procurar reducir a los rebeldes con
@@ -87,8 +87,8 @@ aplicar esa estrategia ningún fruto se había producido, y al contrario,
 había hecho más rebeldes a los indios quienes aceptaban bautizarse e
 introducir las costumbres españolas en sus pueblos para, después de
 conseguir la paz, atacar nuevamente a los españoles. Por ello,
-solicitaba al rey que se "dignase á facultar este sup\[eri\]or gobierno,
-á fin de que en defensa de sus Dominios y vasallos, pudiese proceder con
+solicitaba al rey que se "dignase á facultar este sup*eri*or gobierno, á
+fin de que en defensa de sus Dominios y vasallos, pudiese proceder con
 fuerza contra los yndios rebeldes, qüando la defensa natural y la
 conservación del terreno, é impedir los progresos de Naciones
 extrangeras obligan á ello".[^9]
@@ -125,7 +125,7 @@ sobre todo consentidos todos desde el primero hasta el último, sin
 exceptuar a nadie, de hacer su antojo sin respetar a Dios ni al rey y
 con desprecio de las leyes".[^12] En su informe de 1767 Gálvez decía:
 
-> "A este origen (la orden de los jesuitas) que me parece ser el primero
+> A este origen (la orden de los jesuitas) que me parece ser el primero
 > de la rebelión, debemos añadir el de la antigua y constante impunidad
 > en que han vivido los pueblos de este reino, pues como los hombres
 > vulgares y de baja extracción no conocen otro freno que el del castigo
@@ -134,7 +134,7 @@ con desprecio de las leyes".[^12] En su informe de 1767 Gálvez decía:
 > delincuentes, rompía la plebe por todo y hacía que pasasen sus
 > caprichos y osadías como leyes inviolables, reduciendo las más de las
 > veces a escandalosas capitulaciones lo que dictaban la insolencia y la
-> infidelidad..."[^13]
+> infidelidad...[^13]
 
 Cuatro años después Gálvez dijo: "la demasiado indulgencia, o más
 propiamente la absoluta impunidad que por mucho tiempo consiguió la
@@ -377,15 +377,6 @@ directamente en sus negocios, en tanto otros no se atrevían a capturarlo
 por el temor a que se organizara una rebelión que contara con el asocio
 de los enemigos extranjeros.[^36]
 
-Mapa 6. Región de las confederaciones de contrabandistas de Panamá
-(1720-1750)
-
-![Panamá\_contrabando](media/image1.jpeg){width="6.138194444444444in"
-height="4.340277777777778in"}
-
-Elaboración propia con información de AGI, Panamá, 299 y Gómez González,
-"Illegal Trade".
-
 Esta conjunción entre complicidad y temor imposibilitaba la erradicación
 del contrabando por la vía de la fuerza. Alsedo mencionaba que el
 desconocimiento que tenían las autoridades del terreno en el cual
@@ -404,6 +395,15 @@ Indias. Tres años después, Alsedo concedió otro indulto, pero esta vez
 tenía el propósito de atraer a testigos que declararan en contra del
 teniente del pueblo de Penonomé, a quien se le adelantaba una pesquisa
 en la Audiencia de Santo Domingo.[^37]
+
+Mapa 6. Región de las confederaciones de contrabandistas de Panamá
+(1720-1750)
+
+![Panamá\_contrabando](media/image1.jpeg){width="6.104166666666667in"
+height="4.298611111111111in"}
+
+Elaboración propia con información de AGI, Panamá, 299 y Gómez González,
+"Illegal Trade".
 
 El problema es que, aunque se decretaran perdones con el evidente
 propósito de servir a la república, el indulto también tenía una
@@ -649,19 +649,6 @@ quieren vivir a su libertina costumbre que sugetarse, aun para su propia
 comodidad, al bien que se les propone, porque con el platano no ay
 picaro ocioso, ni vago que no tenga que comer".[^62]
 
-Mapa 7. Fortificaciones y sitios de la región de La Guajira
-
-![Guajira\_contrabando](media/image2.jpeg){width="6.138194444444444in"
-height="4.340277777777778in"}
-
-Elaboración propia con información de Allan J. Kuethe, *Military reform
-and society in New Granada, 1773-1808* (Gainesville: The University
-Presses of Florida, 1978), 134; José Polo Acuña, *Indígenas, poderes y
-mediaciones en La Guajira en la transición de la colonia a la república,
-1750-1850* (Bogotá: Universidad de los Andes, Facultad de Ciencias
-Sociales-CESO, Departamento de Historia, 2012), 160; con datos de Werner
-Stangl, ed. *HGIS de las Indias*.
-
 La estrategia de establecimiento de fortificaciones y poblamientos para
 atraer a los indígenas a poblado correspondía con la costumbre de apelar
 a los medios de benignidad para establecer la autoridad y dominio del
@@ -679,6 +666,19 @@ Habsburgo, enmarcada en la estrategia de conquista de pacífica que
 priorizaba la autoridad (la atracción) a la potencia.[^65] No obstante,
 esta política no se mantuvo tanto por la benevolencia de la monarquía
 como por la resistencia de los indígenas.
+
+Mapa 7. Fortificaciones y sitios de la región de La Guajira
+
+![Guajira\_contrabando](media/image2.jpeg){width="6.104166666666667in"
+height="4.313194444444444in"}
+
+Elaboración propia con información de Allan J. Kuethe, *Military reform
+and society in New Granada, 1773-1808* (Gainesville: The University
+Presses of Florida, 1978), 134; José Polo Acuña, *Indígenas, poderes y
+mediaciones en La Guajira en la transición de la colonia a la república,
+1750-1850* (Bogotá: Universidad de los Andes, Facultad de Ciencias
+Sociales-CESO, Departamento de Historia, 2012), 160; con datos de Werner
+Stangl, ed. *HGIS de las Indias*.
 
 A diferencia de lo planteado por Levaggi, Allan Kuethe identificó una
 intensificación en la actividad militar durante la segunda mitad del
@@ -1036,10 +1036,10 @@ Previamente se proyectaron algunos puntos donde establecer fortalezas
 para defender la entrada por el golfo del Darién y Boca Chica, pero no
 se adelantó ningún avance para concretarlos.[^110]
 
-Mapa . Fortificaciones y sitios de la región del Darién
+Mapa 8. Fortificaciones y sitios de la región del Darién
 
-![Darién\_contrabando](media/image3.jpeg){width="6.138194444444444in"
-height="4.340277777777778in"}
+![Darién\_contrabando](media/image3.jpeg){width="6.104166666666667in"
+height="4.313194444444444in"}
 
 Elaboración propia con información de Allan J. Kuethe, *Military
 reform*, 134; AGI, mapas y planos, Panamá, 162; *Derrotero de las islas
@@ -1320,7 +1320,7 @@ gracias concedidas por el rey a los desertores con las cuales podían
 intentar recuperar algo de la soldadesca huida a los montes.[^146]
 
 Entre 1746 y 1804 hemos identificado una decena de indultos dirigidos a
-oficiales y soldados (véase tabla 2), la mayoría de ellos con destino a
+oficiales y soldados (véase tabla 3), la mayoría de ellos con destino a
 los desertores y un par que favorecieron a los militares casados sin
 licencia.[^147] No hemos encontrado evidencia de perdones a reos por
 otros delitos del fuero militar, aunque éstos podían suplicar al rey e
@@ -1342,7 +1342,7 @@ generales, pero en estos se aclaraba que se debían interpretar de la
 misma manera que el concedido para los desertores en 1783, evitando así
 incluir a cualquier otro tipo de reo militar.[^148]
 
-Tabla . Indultos a militares decretados entre 1746 y 1808.[^149]
+Tabla 3. Indultos a militares decretados entre 1746 y 1808.[^149]
 
 +-------------+-------------+-------------+-------------+-------------+
 | **Reinado   | **Fecha**   | **Alcance** | **Afectados | **Motivo**  |
@@ -1422,19 +1422,12 @@ Tabla . Indultos a militares decretados entre 1746 y 1808.[^149]
 | e.net/10171 |             |             |             |             |
 | /30276)     |             |             |             |             |
 |             |             |             |             |             |
-| ^ii^ AGNC,  |             |             |             |             |
-| sección     |             |             |             |             |
-| colonia,    |             |             |             |             |
-| milicias y  |             |             |             |             |
-| marina,     |             |             |             |             |
-| tomo 99, f. |             |             |             |             |
-| 664r. AGNC, |             |             |             |             |
-| sección     |             |             |             |             |
-| colonia,    |             |             |             |             |
-| milicias y  |             |             |             |             |
-| marina,     |             |             |             |             |
-| tomo 19, f. |             |             |             |             |
-| 1048v.      |             |             |             |             |
+| ^ii^ BNC,   |             |             |             |             |
+| raros       |             |             |             |             |
+| manuscritos |             |             |             |             |
+| ,           |             |             |             |             |
+| 354, ff.    |             |             |             |             |
+| 180-81.     |             |             |             |             |
 |             |             |             |             |             |
 | ^iii^ AGNC, |             |             |             |             |
 | sección     |             |             |             |             |
@@ -1529,17 +1522,17 @@ Tabla . Indultos a militares decretados entre 1746 y 1808.[^149]
 +-------------+-------------+-------------+-------------+-------------+
 
 Esta profusión de indultos con los desertores tenía una función práctica
-que no encontramos en los generales que abarcaban a los reos del fuero
-común. En la gracia de 1746 Fernando VI aclaraba que aunque a su padre
-no le parecía conveniente el perdonar desertores, y así lo dejó plasmado
-en una real ordenanza de 15 de noviembre de 1745, el ejercer la
-clemencia con éstos podía aliviar las carencias en el reclutamiento de
-varones de las provincias para completar las necesidades del ejército,
-la armada y las milicias regladas.[^150] Por otra parte, el indultar a
-los soldados españoles que escapaban del servicio era preferible para
-los oficiales que el reclutar milicianos, por lo menos así lo dejó
-manifiesto un oficial de Cartagena que le indicó al virrey Mesía de la
-Cerda lo conveniente que sería publicar el perdón de 1760 para recuperar
+que no encontramos en los que abarcaban a los reos del fuero común. En
+la gracia de 1746, Fernando VI aclaraba que, aunque a su padre no le
+parecía conveniente el perdonar desertores, y así lo dejó plasmado en
+una real ordenanza de 15 de noviembre de 1745, el ejercer la clemencia
+con éstos podía aliviar las carencias en el reclutamiento de varones de
+las provincias para completar las necesidades del ejército, la armada y
+las milicias regladas.[^150] Por otra parte, el indultar a los soldados
+españoles que escapaban del servicio era preferible para los oficiales
+que el reclutar milicianos, por lo menos así lo dejó manifiesto un
+oficial de Cartagena que le indicó al virrey Mesía de la Cerda lo
+conveniente que sería publicar el perdón de 1760 para recuperar
 desertores escondidos en las sabanas de Tolú. [^151] En agosto de 1798
 el rey concedió un perdón a los milicianos desertores de la capitanía
 general de Caracas gracias a que su gobernador le había indicado la
@@ -1554,13 +1547,12 @@ rebeldes y no pocos delincuentes prófugos, constituyeron familias,
 poblados y economías que no podían ser disueltas con la oferta del
 perdón.[^153]
 
-Como en los demás ámbitos del ejercicio de la autoridad en las fronteras
-de la monarquía, el ejercicio del rigor se veía compelido por la
-costumbre y la facilidad para evadir el castigo. El mismo oficial que
-solicitó el indulto para los desertores de Tolú denunció que era
-necesario recurrir al perdón puesto que las justicias militares
-preferían retirar los evasores del servicio antes que proceder a su
-captura, lo que permitía que vivieran en los montes "ociosa y
+En las fronteras de la monarquía, el ejercicio del rigor se veía
+compelido por la costumbre y la facilidad para evadir el castigo. El
+mismo oficial que solicitó el indulto para los desertores de Tolú
+denunció que era necesario recurrir al perdón puesto que las justicias
+militares preferían retirar los evasores del servicio antes que proceder
+a su captura, lo que permitía que vivieran en los montes "ociosa y
 viciosamente". Esta no era opinión exclusiva de un oficial, de hecho en
 1765 se promulgó una real cédula para aprehender a los desertores, la
 cual partía del presupuesto de la "tibieza y desidia de las justicias"
@@ -1952,37 +1944,38 @@ su gracia con la condición de que en adelante ganaran la gloria de sus
 antepasados para mantener su respeto y honor.[^199]
 
 Por otra parte, la rebelión de 1766 en Panamá se dio en un contexto
-bastante complejo para los imperios atlánticos, pero su desarrollo y
-resolución fueron, por decirlo de alguna manera, tradicionales. El
-levantamiento se generó para exigir el aumento del Prest de ocho a trece
-reales y de anular descuentos como el pago de uniformes, inadecuados
-para la vida en regiones tropicales, eliminar la obligación de comer en
-rancho, que no se encerraran en los cuarteles a la mitad de la tarde y
-que se eliminara el castigo de azotes. Si bien el gobernador resaltó en
-sus informes el hecho de que tuvo que claudicar a las demandas de los
-sublevados por causa de que estos repitieron las acciones que llevaron a
-Eslava a concederles todas sus demandas, lo cierto es que la tropa en su
-representación (véase anexo 11) tuvo como referente los levantamientos
-acaecidos en la plaza de La Habana en 1761,[^200] a quienes se les había
-concedido el pago de su antiguo Prest por ocho reales, aunque arguyeron
-que para Panamá requerían un salario mayor por estar en una ciudad con
-mayores carencias que La Habana.[^201]
+bastante complejo para los imperios atlánticos. El reglamento de *prest*
+publicado en 1764 representaba una reducción significativa de las
+mensualidades que recibían los soldados de las guarniciones de América y
+Europa. El levantamiento panameño fue parte de una serie de
+manifestaciones que se desarrollaron en plazas como La Habana, Buenos
+Aires y Sevilla, además de un aumento inusual en las deserciones en
+Nueva España.[^200] El levantamiento se generó para exigir el aumento
+del *prest* de ocho a trece reales y de anular descuentos como el pago
+de uniformes, inadecuados para la vida en regiones tropicales, eliminar
+la obligación de comer en rancho, que no se encerraran en los cuarteles
+a la mitad de la tarde y que se eliminara el castigo de azotes. Sin duda
+el ejemplo de La Habana fue fundamental para la tropa panameña, pues
+como evidenciaron en su representación (véase anexo 12), sus demandas se
+ajustaban a los acordado con la tropa de aquella plaza, quienes lograron
+recuperar el *prest* a su estado original; aunque los soldados de Panamá
+argumentaron que debían recibir un aumento porque en su plaza se sufrían
+mayores carencias.[^201]
 
-La estrategia de la tropa fue similar a la de los otros levantamientos
-que le precedieron en otras plazas americanas. El dominio de la tropa
-sobre la ciudad levantada fue absoluto y las autoridades se vieron
-forzadas a negociar intentando ceder lo menos posible. Al segundo día de
-la sublevación el gobernador le escribió al marqués de la Vega
-informándole la situación y manifestándole que había perdido la plaza al
-carecer de municiones ni armas, así como de caudales y gente para hacer
-oposición. A esto se sumaba el temor por su vida, pues su casa había
-sido puesta bajo guardia, controlando las personas que entraban y salían
-de su residencia. Por esta razón decía, "me hallo en igual situazion á
-la que se vio en Cartagena el señor don Sevastian de Eslava quien les
-acordó quanto le pidieron".[^202] Como se mencionó arriba, una de las
+El dominio de la tropa sobre la ciudad levantada fue absoluto y las
+autoridades se vieron rápidamente forzadas a negociar, aunque intentaron
+ceder lo menos posible. Al segundo día de la sublevación el gobernador
+le escribió al marqués de la Vega informándole la situación y
+manifestándole que había perdido la plaza al carecer de municiones ni
+armas, así como de caudales y gente para hacer oposición. A esto se
+sumaba el temor por su vida, pues su casa había sido puesta bajo
+guardia, controlando las personas que entraban y salían de su
+residencia. Por esta razón decía, "me hallo en igual situazion á la que
+se vio en Cartagena el señor don Sevastian de Eslava quien les acordó
+quanto le pidieron".[^202] Como se mencionó arriba, una de las
 justificaciones del gobernador para ceder a las demandas de los
-sublevados fue que "No faltaria entre ellos quien hiziese p\[rese\]nte
-el levantamiento de 1745 y á las ordenes de un general de la opinion del
+sublevados fue que "No faltaria entre ellos quien hiziese p*rese*nte el
+levantamiento de 1745 y á las ordenes de un general de la opinion del
 señor don Sebastian de Eslava, pues en los mas de los puntos fue
 identico con aquel y si en algunos se diferencia todos favorezen la
 precision de mi obligada condescendencia".[^203] Consideraba incluso que
@@ -2479,17 +2472,17 @@ enriquecido con la extracción e introducción ilegal de mercancías.
 Es importante anotar que lo tratado en este capítulo da cuenta apenas de
 una parte del "desorden" en el virreinato del Nuevo Reino. Palenqueros y
 arrochelados fueron otra de las fuerzas importantes que desafiaban el
-*ordo* del pensamiento monárquico, espacios constituidos por hombres y
-mujeres de calidades mezcladas, de cosmovisiones variopintas, de
-catolicismos construidos sin la presencia de la iglesia, con economías
-que evadían el monopolio impuesto por la Corona. Estos grupos también
-tuvieron que enfrentar los proyectos que pretendían reducirlos al orden
-del poblado castellano, y asimismo recibieron el perdón en varias
-ocasiones,[^252] sin rendición pero con la garantía, al menos temporal,
-de la paz entre dos naciones. Este constituye otro campo de
-investigación que sin duda brindará nuevas luces sobre el uso de la
-clemencia y del rigor en la estrategia por el control de las inmensas
-fronteras desordenadas del septentrión sudamericano.
+ideal de orden monárquico, espacios constituidos por hombres y mujeres
+de calidades mezcladas, de cosmovisiones variopintas, de catolicismos
+construidos sin la presencia de la iglesia, con economías que evadían el
+monopolio impuesto por la Corona. Estos grupos también tuvieron que
+enfrentar los proyectos que pretendían reducirlos al orden del poblado
+castellano, y asimismo recibieron el perdón en varias ocasiones,[^252]
+sin rendición pero con la garantía, al menos temporal, de la paz entre
+dos naciones. Este constituye otro campo de investigación que sin duda
+brindará nuevas luces sobre el uso de la clemencia y del rigor en la
+estrategia por el control de las inmensas fronteras desordenadas del
+septentrión sudamericano.
 
 [^1]: Mendo, *Principe perfecto*, doc. XXVI.
 
@@ -2945,7 +2938,9 @@ fronteras desordenadas del septentrión sudamericano.
 
 [^123]: AGNC, sección colonia, caciques e indios, tomo 47, ff. 233-471.
 
-[^124]: McFarlane, *Colombia before Independence*, 146.
+[^124]: Anthony McFarlane, *Colombia before Independence: Economy,
+    Society, and Politics under Bourbon Rule*, Cambridge Latin American
+    Studies 75 (New York: Cambridge University Press, 1993), 146.
 
 [^125]: "Sobre la conquista de los indios del Darién", Cartagena, 24 de
     diciembre de 1785, AGI, Santa Fe, 1200.
@@ -2997,8 +2992,8 @@ fronteras desordenadas del septentrión sudamericano.
 [^142]: Gómez González, *Frontera selvática*, 294--95.
 
 [^143]: Jorge Cerdá Crespo, "La guerra de la oreja de Jenkins: un
-    conflicto colonial (1739-1748)" (Tesis doctoral, Universidad de
-    Alicante, 2008), 307.
+    conflicto colonial (1739-1748)" (Tesis doctoral, Alicante,
+    Universidad de Alicante, 2008), 307.
 
 [^144]: "El rey a Julián de Arriaga, sobre deserción en la provincia",
     Madrid, 18 de marzo de 1750, AGI, Caracas, 418.
@@ -3020,8 +3015,8 @@ fronteras desordenadas del septentrión sudamericano.
 [^148]: "Interpretación dada al indulto de desertores de 1795", AGNC,
     sección colonia, milicias y marina, tomo 89, ff. 513-18.
 
-[^149]: La transcripción de estos indultos (excepto el de 1760 del cual
-    no hallamos copia) se encuentra en la sección de anexos.
+[^149]: La transcripción de estos indultos se encuentra en la sección de
+    anexos.
 
 [^150]: Véase Anexo 6.
 
@@ -3222,7 +3217,9 @@ fronteras desordenadas del septentrión sudamericano.
 
 [^199]: "El rey a Eslava", AGI, Santa Fe, 940.
 
-[^200]: Marchena Fernández, "Sin temor de rey ni de dios", 50.
+[^200]: José Andrés-Gallego, *El motín de Esquilache, América y Europa*,
+    Biblioteca de historia 53 (Madrid: Fundación Mapfre Tavera; Consejo
+    Superior de Investigaciones Científicas, 2003), 186--89.
 
 [^201]: "Representación de la tropa levantada en Panamá", Panamá, 25 de
     septiembre de 1766, AGI, Panamá, 358.
