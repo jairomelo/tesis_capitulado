@@ -12,7 +12,7 @@ El repositorio ha sufrido cambios en su organización desde su creación hasta l
 
 Para facilitar la consulta de la tesis, incluyo una versión en `pdf ` en los [releases](https://github.com/jairomelo/tesis_capitulado/releases). 
 
-También puede clonar el repositorio en un disco local `git clone https://github.com/jairomelo/tesis_capitulado.git` y leer los archivos en un lector de markdown.
+También puede clonar el repositorio en un disco local `git clone https://github.com/jairomelo/tesis_capitulado.git` y leer los archivos en un lector de markdown, como [Obsidian](https://obsidian.md/).
 
 Otra forma consiste en convertir los archivos markdown a Word, HTML o PDF. Para ello recomiendo el uso de [Pandoc](https://pandoc.org/), aunque se debe tener en cuenta que la conversión no dará como resultado un archivo con todas las características del original.
 
@@ -28,3 +28,5 @@ Este proyecto no tuvo ningún interés en proponer una opción a Scrivener u otr
 
 Un posible uso de este repositorio es el servir de modelo para replicar una estrategia de control de versiones en la escritura académica, específicamente en las humanidades.
 Otra posibilidad, más ambiciosa, consiste en partir de esta experiencia para desarrollar un procesador de texto con control de versiones enfocado en el trabajo académico más que en el oficio literario (Scrivener) o la ofimática (MSWord).
+
+
